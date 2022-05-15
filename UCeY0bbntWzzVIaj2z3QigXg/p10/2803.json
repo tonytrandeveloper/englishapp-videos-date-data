@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GYFsprMpW6A",
-            "title": "At Least 25 People Killed In the Deadliest Shooting In A Place Of Worship | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "WL1iPn76bTY",
             "title": "Several Dead In Church Shooting In Texas | NBC News",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "This Couple Is Bidding To Own Their Very Own Lighthouse | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "b57BpXtlR_A",
+            "title": "Fatal Milwaukee Car Crash Caught On Camera | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

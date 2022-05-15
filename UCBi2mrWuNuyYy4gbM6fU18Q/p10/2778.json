@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xZXrGLc6sm8",
-            "title": "Tampa-St. Petersburg area is at risk for dangerous storm surge flooding",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "91Bk3XDJejM",
             "title": "Key West suffers a direct hit from Hurricane Irma",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Florida governor on Hurricane Irma: 'The most important thing is to pray for us'",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "24BUzN6jqjU",
+            "title": "Rear Adm. Peter Brown on Coast Guard response to Hurricane Irma",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

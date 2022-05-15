@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iNcRfVZ3HlE",
-            "title": "Coco Gauff scores epic 3-set win at US Open | ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "Er2tIOmMxQo",
             "title": "Hurricane Dorian threatens Florida as Category 4 l ABC News",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "ABC News announces podium placement for presidential debate in Houston",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "obSg1UsIdqY",
+            "title": "The Briefing Room: Democrat debate podium reveal, Hurricane Dorian Comey IG report | ABC News",
+            "secondDuration": 1451,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

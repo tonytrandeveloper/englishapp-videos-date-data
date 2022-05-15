@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxKmOT5NuJs",
             "title": "Michael Drejka found guilty of manslaughter",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "Bellman claims hotel worker was not attempting to rob father",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "3QN5YEwS-1M",
+            "title": "President Trump presents Medal of Freedom to former Boston Celtics point-guard Bob Cousy | ABC News",
+            "secondDuration": 1124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

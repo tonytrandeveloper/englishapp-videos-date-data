@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aL28PQ3LwNY",
-            "title": "Watch Full Speech: President Biden Delivers Inaugural Address | NBC News",
-            "secondDuration": 1314,
-            "group": "group_7"
-        },
-        {
             "videoId": "mqa-FiEKLcI",
             "title": "Youth Poet Amanda Gorman Recites Poem At Presidential Inauguration | NBC News",
             "secondDuration": 353,
@@ -31,8 +25,14 @@
             "title": "WATCH: Joe Biden Is Sworn In As President Of The United States | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "g6uNkvIARnM",
+            "title": "Kamala Harris Sworn In As Vice President | NBC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

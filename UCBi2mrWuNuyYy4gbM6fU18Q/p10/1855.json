@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sGIrv6LnNd0",
-            "title": "Felicity Huffman to be sentenced in ‘Varsity Blues’ scandal l ABC News",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "HAv5CwcOr0o",
             "title": "Democrats clash over health care at 2020 debate l ABCNews",
             "secondDuration": 314,
@@ -61,8 +55,14 @@
             "title": "Harris defends work as prosecutor after she’s questioned during debate",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSeDLAXGfYA",
+            "title": "ABC News talks about Trump’s take on Democrats",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

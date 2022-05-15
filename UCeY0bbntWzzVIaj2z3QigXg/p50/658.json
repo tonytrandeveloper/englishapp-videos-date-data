@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DbWoqQIJQrU",
-            "title": "Paul Ryan Says Donald Trump Should Release His Tax Returns | NBC News",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dxy6zzHnouc",
             "title": "These Volunteers Work Day And Night To Save Lives In Syria | NBC News",
             "secondDuration": 60,
@@ -301,8 +295,14 @@
             "title": "Oregon Activists Vow To Live In Trees To Protect Them | NBC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "07OMAKo4goM",
+            "title": "Dozens Stuck 10,000 Feet Over The Alps Overnight | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

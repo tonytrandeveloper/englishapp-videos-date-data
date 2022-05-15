@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0Hx8D913AHE",
-            "title": "Terrorist attack in Sri Lanka leaves more than 200 dead",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "CTseEgo-5gg",
             "title": "More details on the tiger attack in Kansas",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "'Donald Trump won, we didn't need WikiLeaks, we had Wisconsin': Kellyanne Conway",
             "secondDuration": 1075,
             "group": "group_7"
+        },
+        {
+            "videoId": "pU21XRrjIaw",
+            "title": "'In every way, this is more significant than Watergate': House Intel Chairman Schiff",
+            "secondDuration": 456,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

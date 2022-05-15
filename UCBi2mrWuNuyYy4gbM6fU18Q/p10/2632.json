@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "md02wLDWmmI",
-            "title": "Pres. Donald Trump delivers remarks at H&K Equipment Company in Coraopolis, Pennsylvania | ABC News",
-            "secondDuration": 2328,
-            "group": "group_7"
-        },
-        {
             "videoId": "PaENnyBMTe0",
             "title": "Negotiations slow as government shutdown looms",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Steve Bannon will talk with special counsel investigators: Sources",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "aMXG-Lz2vUI",
+            "title": "10-year-old boy tests positive for the flu, later dies from pneumonia",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

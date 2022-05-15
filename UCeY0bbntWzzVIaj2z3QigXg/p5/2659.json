@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0WYGmpKNBFo",
-            "title": "What Does Online Summer Camp Look Like? | NBC News NOW",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "2xZ7oC8u7I4",
             "title": "Kenosha, Portland And More: How Protests Become Riots | NBC News",
             "secondDuration": 849,
@@ -31,8 +25,14 @@
             "title": "Andrew Cuomo Announces Executive Order For ‘Systemic Reform Of Police Departments’ | NBC News NOW",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "x391dybjC_s",
+            "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
+            "secondDuration": 2425,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ao9k0ibmhtc",
-            "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2430,
-            "group": "group_7"
-        },
-        {
             "videoId": "HvGSBKjKRDE",
             "title": "Deaf Athlete Natasha Bacchus Speaks Out At Black Lives Matter Rally | NBC News NOW",
             "secondDuration": 198,
@@ -301,8 +295,14 @@
             "title": "Gov. Andrew Cuomo Identifies ‘Complications’ As NYC Heads Toward Phase 3  | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "ziWl6rLE4fw",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1290,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

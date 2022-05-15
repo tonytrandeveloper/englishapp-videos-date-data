@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i2kfY_UPjZ8",
-            "title": "Severe weather expected in South and Midwest, possible snow in Northeast",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "6SFJwt3YQvo",
             "title": "Miami plastic surgeon who films surgeries on Snapchat gets reality show | ABC News",
             "secondDuration": 399,
@@ -31,8 +25,14 @@
             "title": "Putin rejects accusations that Russia interfered with US election",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "6ppS-QJBO18",
+            "title": "New York Times says 2 White House officials allegedly provided intelligence to Devin Nunes",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

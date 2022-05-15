@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ufNNuafuU7M",
-            "title": "New video shows moments before fatal self-driving Uber crash",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "mT8U2-HL_EA",
             "title": "Fired FBI official authorized criminal probe of Sessions: Sources",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Mueller team zeroing in on political consulting firm with Trump ties: Sources",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "AuEm_hNXk80",
+            "title": "Sources: Former FBI deputy director had launched a criminal probe into Sessions",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

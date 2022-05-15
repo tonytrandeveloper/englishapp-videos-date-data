@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xWHtZy-X5hI",
-            "title": "Iraq Airstrikes Aid Kurdish Forces | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wv4Vr3QRUMs",
             "title": "Tony Stewart Racecar Accident Kills Driver | NBC News",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Rosetta Spacecraft To Land On Comet | NBC News",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "XM7tGLwV5Pc",
+            "title": "Crowd Lifts 43 Ton Train To Save Man | NBC News",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

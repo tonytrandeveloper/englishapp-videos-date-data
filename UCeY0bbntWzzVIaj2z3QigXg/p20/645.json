@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QXj06afBbUk",
-            "title": "Trump Holds Press Briefing | NBC News NOW",
-            "secondDuration": 1553,
-            "group": "group_7"
-        },
-        {
             "videoId": "4sb7BVc5VnQ",
             "title": "U.S. Unemployment Rate Drops To 11.1 Percent In June, 4.8 Million Jobs Added | NBC News",
             "secondDuration": 294,
@@ -121,8 +115,14 @@
             "title": "Sister Of Missing Texas Solider Speaks About Meeting Military Suspect | NBC News NOW",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "ao9k0ibmhtc",
+            "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2430,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

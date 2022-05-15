@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4ycWDAbxxF4",
-            "title": "Guardians of the Galaxy Vol. 2 Teaser Released",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IvmFZYlu3Q",
             "title": "Abandoned Places: A Haunting Photo Series",
             "secondDuration": 35,
@@ -31,8 +25,14 @@
             "title": "Pat McCrory Concedes NC Governor's Race",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "GSK21j4z89s",
+            "title": "Michigan Vote Recount | Judge to Rule on Start",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

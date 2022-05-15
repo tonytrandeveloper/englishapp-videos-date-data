@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hWr0vHdAVxk",
-            "title": "How Ohio Will Certify Its Election Winner With Surge In Mail-In Voting | NBC News",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "nCHxqrx8dtM",
             "title": "Two Companies Seek Emergency Approval For Antibody Treatments | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Early Voting Starts In Arizona After Only Senate Race Debate | NBC News NOW",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "--bProCQyLw",
+            "title": "Facebook Bans QAnon Accounts Across Platforms | NBC News NOW",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

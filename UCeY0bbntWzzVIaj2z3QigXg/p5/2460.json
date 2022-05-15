@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FopyDwH9oTc",
-            "title": "Meet The Press Broadcast (Full) - August 2nd, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2858,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zcpul6p3it8",
             "title": "Rep. Karen Bass: 'I Didn't Set Out In My Life To Run For President' | Meet The Press",
             "secondDuration": 637,
@@ -31,8 +25,14 @@
             "title": "Tropical Storm Isaias Aims For Florida Amid Pandemic | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "HaJAwi8kSLU",
+            "title": "Behind The Scenes With Dogs Being Trained To Detect COVID-19 | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WA8buDnRPtM",
-            "title": "1st Photos From George Clooney's Wedding",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "U1U9MZL16lQ",
             "title": "Dallas Patient in Isolation After Showing Signs of Ebola",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Popular Paleo Diet Becomes Way of Life for Some",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "eQuu5zS5BrQ",
+            "title": "'Frozen' Characters Make Appearance in 'Once Upon a Time'",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

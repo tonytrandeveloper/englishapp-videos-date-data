@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RcJMYXKou2I",
-            "title": "What You Need To Know About Rare Breakthrough Covid-19 Cases",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "eBEFZqUDKsw",
             "title": "Watch: Bridge Collapse Flips Truck Into Flooded Russian River",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Cleveland Baseball Team Changing Name To ‘Guardians’ For Next Season",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "-MqdYDwuZsY",
+            "title": "Texas Testing Clinic Seeing Increase In Positive Covid Results Among Children",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

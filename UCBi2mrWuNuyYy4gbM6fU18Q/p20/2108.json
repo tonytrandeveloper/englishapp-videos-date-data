@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V1ayvM3xxYU",
-            "title": "High Stakes Negotiations With Iran",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "vZzEcX_GOgY",
             "title": "Suspect Arrested in 'Gone Girl' Case",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "What's Next for the Confederate Flag After South Carolina's Removal From State Grounds?",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "QL_J7tWnKHE",
+            "title": "Trump Talks Immigration to Record Crowds in Border State",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

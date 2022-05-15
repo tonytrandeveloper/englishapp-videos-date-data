@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HxnsMTFXTVU",
-            "title": "Jury Reaches Outcome In Death Of Daunte Wright | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jm29_FWWSIw",
             "title": "Tracking Santa: How You Can Track St. Nick In The Sky | Nightly News: Kids Edition",
             "secondDuration": 1060,
@@ -31,8 +25,14 @@
             "title": "One Year Later: Recap of Events Since Jan. 6 Attack",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "m-issF_hROE",
+            "title": "White House Holds Press Briefing: Dec. 23 | NBC News",
+            "secondDuration": 1770,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

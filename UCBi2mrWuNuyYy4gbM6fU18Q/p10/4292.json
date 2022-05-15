@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FBcx6Tv49P8",
-            "title": "Hozier | Countdown to the Billboard Music Awards 2015",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJ3a7RHPp-I",
             "title": "Pete Wentz | Countdown to the Billboard Music Awards 2015",
             "secondDuration": 15,
@@ -61,8 +55,14 @@
             "title": "Comedian Bill Cosby Breaks His Silence",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "4PzqoIwO23I",
+            "title": "California Teen Accuses Hollywood Acting Coach of Sexual Assault",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

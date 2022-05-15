@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7wXKHuO39bk",
-            "title": "Tuscaloosa, AL Mayor Walter Maddox Weighs In on Tornado (2011)",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZhCXX5lyfSQ",
             "title": "Tuscaloosa, AL Tornado Video: First-Hand Look at Destruction",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "George W. Bush Interview on 'GMA':  Leads the Warrior 100 (2011)",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "nEZPfxTSvYA",
+            "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "26wqUaXOv3g",
-            "title": "New questions raised after Mar-a-Lago security breach",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "u_Lk8CreWCE",
             "title": "Energy drinks may cause heart risks: Study",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Joe Biden responds to President Trump's attacks",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "68kbHl33_IY",
+            "title": "Tornado outbreak, Biden fires back at Trump, spelling bee kicks off  | ABC News",
+            "secondDuration": 1527,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

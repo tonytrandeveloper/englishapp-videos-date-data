@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nkRgLMWG9Fs",
-            "title": "Coach K Talks NBA Future",
-            "secondDuration": 17,
-            "group": "group_7"
-        },
-        {
             "videoId": "jHJgK7iMx7U",
             "title": "Joran Van Der Sloot Confesses to Murder",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Chris Cillizza's Predictions on Primary Eve",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "vPR_HST4u6M",
+            "title": "Was Obama 'Asleep at the Wheel' with the spill?",
+            "secondDuration": 579,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

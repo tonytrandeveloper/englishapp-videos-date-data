@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_il7PrOUmrA",
-            "title": "Humanoid robot shows off impressive gymnastics routine | ABC News",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "FRoD_EiYo6Y",
             "title": "Aurora Australis illuminates sky over Tasmania | ABC News",
             "secondDuration": 47,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Trump impeachment fight, Somalia attack, Ohio prison break manhunt | ABC News",
             "secondDuration": 1567,
             "group": "group_7"
+        },
+        {
+            "videoId": "jagxclby7IU",
+            "title": "Multi-state manhunt launched after 4 men escape prison | ABC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

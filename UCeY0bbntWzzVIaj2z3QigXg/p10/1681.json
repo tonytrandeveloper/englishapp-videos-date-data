@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GTuJwent62E",
-            "title": "North Carolina School Officer Fired After Video Shows Him Body-Slamming A Student | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "cvfH2h3e8qo",
             "title": "Amazon Blocking Sellers From Using Some FedEx Shipping Services | NBC Nightly News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Ferocious Bushfire Consumes Trees In Australia | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "IsfJQhsl3r4",
+            "title": "Police And Protesters Clash In Hong Kong’s Shopping Malls | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

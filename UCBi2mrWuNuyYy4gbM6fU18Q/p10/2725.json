@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yz0VUipUbhU",
-            "title": "Wildfires spread as conditions worsen in California",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "6KoOy4vGsuk",
             "title": "Director James Toback accused of sexual harassment",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "2 new women accuse Harvey Weinstein of sexual assault",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "MrvEact-ilM",
+            "title": "Authorities searching for killer terrorizing a Tampa Bay neighborhood",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_xHRih6PVVw",
-            "title": "Adrian Peterson Arrested For Child Abuse | NBC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "b2bhsStKC3o",
             "title": "David Haines, British Aid Worker, Beheaded By ISIS | NBC News",
             "secondDuration": 272,
@@ -61,8 +55,14 @@
             "title": "How Is Chocolate Made | Show Me | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "09_SYlebmP4",
+            "title": "Americans Feel Less Safe Than Pre-9/11 | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xCHFIvZ_HiM",
-            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "qtITywCjaSs",
             "title": "Tornado Hits New Orleans And Leaves Destruction In Its Wake | NBC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "17-Year-Old Isaiah Cooper, Youngest African American To Fly Across US | NBC BLK | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "DLo_-uX0OYk",
+            "title": "Inspiring America: Hometown Hero Turns Family Bar Into Safe Haven For Kids | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

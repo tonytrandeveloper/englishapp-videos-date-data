@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bz6CuUnHdfw",
-            "title": "Bike Barricades: Using Cycles for Crowd Control | Election Cycle",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "rvrDHz06q7M",
             "title": "Ted Cruz Defends Not Endorsing Donald Trump",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Donald Trump on 'Speechgate,' Plans For His RNC Address",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "FV0uI9D1SK4",
+            "title": "Hillary Clinton Prepares for DNC, VP Announcement",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w_zllgV46JM",
-            "title": "Tropical Storm Florence continues to flood roads and neighborhoods",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Aj3UclQVnH4",
             "title": "North Carolinians will not quit in the face of a challenge: NC governor",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "More than 8,000 customers forced to leave homes after mysterious gas explosions",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "fiv2K4TOsyg",
+            "title": "Rescues underway after massive storm surge ravages coastal town",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

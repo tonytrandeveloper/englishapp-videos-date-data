@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rah0dpZ6-_U",
-            "title": "Grizzly Bear Attack in Yellowstone National Park",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "rGNNOprYsNg",
             "title": "New Video Chat Feature for Facebook",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Peggy's New Story: Coming Thursday!",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sig7taltjhU",
+            "title": "Space Shuttle: A Brief History",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

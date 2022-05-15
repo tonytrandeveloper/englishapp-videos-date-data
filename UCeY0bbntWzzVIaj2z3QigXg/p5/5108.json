@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vYHLrPG_E6Q",
-            "title": "Royal Baby Name Revealed: Louis Arthur Charles | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "IWBYtB_YvEU",
             "title": "Kim Jong Un Agrees To Denuclearization Of Korean Peninsula | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Meet Icarus, The Most Distant Star Ever Seen | Mach | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "w6-HVb6RzEo",
+            "title": "What Does It Take To Be A White House Press Secretary? | NBC News",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

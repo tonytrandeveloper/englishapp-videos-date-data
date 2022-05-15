@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g60tr2VKnDI",
-            "title": "Teen Escapes Al-Qaeda Captors in the Philippines",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNH2tOuuZvA",
             "title": "Alec Baldwin Mocks American Airline Incident on 'Saturday Night Live'",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Battle of the 'GMA' All Stars",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_IAwC1H8mk",
+            "title": "GOP Debate: Who Came Out on Top?",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

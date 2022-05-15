@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C3Eiu52X5gM",
-            "title": "James Holmes Murder Case Goes to the Jury",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "UpsgI0Ds2-s",
             "title": "How the Iran Nuclear Deal Hits Home in the US",
             "secondDuration": 363,
@@ -61,8 +55,14 @@
             "title": "'Gone Girl' Case: Break in Bizarre Kidnapping",
             "secondDuration": 430,
             "group": "group_7"
+        },
+        {
+            "videoId": "8hTDowHNPY8",
+            "title": "De'Andre Johnson Breaks Silence for 1st Time About Infamous Video",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

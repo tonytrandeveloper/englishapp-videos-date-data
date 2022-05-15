@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JZOsgysHlIY",
-            "title": "Historic Winter Storm Slams East Coast",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "DZpUEVfUQ8w",
             "title": "WEBCAST: High Tech Help",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "6,400 Flights Canceled Throughout US Airspace",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zta1wCqpvI4",
+            "title": "US Condemns Release of 65 Afghan Prisoners",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jrVAyUppUyA",
-            "title": "Security Footage Shows Fugitive Lois Riess' Arrest | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "w3P5-YVFv0g",
             "title": "A Country In Crisis: A Healthcare System On The Brink Of Collapse | NBC News",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Leads WH Arrival Ceremony For French President Emmanuel Macron | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xdw91YMcu-E",
+            "title": "President Donald Trump, French President Emmanuel Macron hold White House News Conference | NBC News",
+            "secondDuration": 3481,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

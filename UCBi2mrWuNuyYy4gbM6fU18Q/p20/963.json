@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FOt0-Tch0Xk",
-            "title": "6-year-old sells lemonade to take mom out on date after father dies of colon cancer",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "hrP7ILSLrdU",
             "title": "Seattle software engineer arrested in one of the largest data breaches ever",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "3 fatally shot at garlic festival identified by authorities",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "69_2QXgNFWc",
+            "title": "Organization helps seniors achieve what's left on their bucket list",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

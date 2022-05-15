@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xEzUiypSi5A",
-            "title": "From High School Dropout to Billion-Dollar Biz",
-            "secondDuration": 404,
-            "group": "group_7"
-        },
-        {
             "videoId": "TcvxcBklqS0",
             "title": "Social Shopping for the Busy Bride",
             "secondDuration": 328,
@@ -301,8 +295,14 @@
             "title": "WEBCAST: Man Sends Live Chicks to Ex's House",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "gl71xitLtVI",
+            "title": "When Obsessing Over Healthy Eating Turns Dangerous",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

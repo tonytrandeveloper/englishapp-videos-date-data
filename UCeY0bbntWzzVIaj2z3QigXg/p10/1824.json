@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6TGghnNQXUA",
-            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "BtrqX0G3MZs",
             "title": "Trump Administration Announces Federal Rule On State Fuel Economy, Emissions Standards | NBC News",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Tours Border Wall: ‘Now We Have A World Class Security System' | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "uWz99WIE480",
+            "title": "AA Mechanic Who Allegedly Sabotaged Plane Has ISIS Ties, Prosecutor Says | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

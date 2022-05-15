@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UGDBH74gSCw",
-            "title": "SpaceX successfully launches rocket en route for the International Space Station",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQmUC-5MB6U",
             "title": "Search for Osama Bin Laden's son intensifies",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "20/20 Mar 1 Pt 1: New Jersey town rocked with Sarah Stern's mysterious disappearance",
             "secondDuration": 574,
             "group": "group_7"
+        },
+        {
+            "videoId": "E7rxaXhfMFs",
+            "title": "MLB CEO, wife 'deeply embarrassed' after public spat caught on video",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

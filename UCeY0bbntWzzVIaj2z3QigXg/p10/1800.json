@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ouD-cb_nDY8",
-            "title": "Sen. Joni Ernst Tells Voters: 'Whistleblowers Should Be Protected' | NBC News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "XwTO2poERLA",
             "title": "NBC News Exclusive: Amanda Knox Was ‘Genuinely Afraid’ Of Returning To Italy | NBC Nightly News",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "Schiff: Trump Asking China To Investigate Bidens 'Endangers Our Elections' | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "OPuDWCkkhtg",
+            "title": "Five Dead After Knife Attack At Paris Police HQ | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

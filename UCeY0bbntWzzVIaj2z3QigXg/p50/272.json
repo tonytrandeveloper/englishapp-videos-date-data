@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DyyjNSLlcdc",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
-            "secondDuration": 2716,
-            "group": "group_7"
-        },
-        {
             "videoId": "plRXzthk7qg",
             "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
             "secondDuration": 4019,
@@ -301,8 +295,14 @@
             "title": "Full Ellison: Federal Government Has 'Tried To Walk Back' Efforts To Resolve Systemic Police Abuse",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "A12c4Rk5gFE",
+            "title": "Full Panel: Anger Erupts Over Death Of George Floyd | Meet The Press | NBC News",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t99mqxVwChU",
-            "title": "This Week: In A Minute",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "vHYbS-qvnfA",
             "title": "Rubio Calls Sean Penn's 'El Chapo' Guzman Interview 'Grotesque'",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Police Interview Ex of Murdered Texas Doctor's Girlfriend: Part 2",
             "secondDuration": 373,
             "group": "group_7"
+        },
+        {
+            "videoId": "l80SlPQhLP8",
+            "title": "El Chapo Captured AGAIN In Mexico | FULL STORY",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

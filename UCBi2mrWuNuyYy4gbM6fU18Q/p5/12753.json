@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AUr5kfNCQ4s",
-            "title": "Washington Post's Karen Tumulty on 'Top Line'",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4h3GK1yG3c",
             "title": "Bidding to Bring the World Cup to the U.S.",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Beau Biden's Sudden Stroke",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "O5USmwKpnJI",
+            "title": "A Mother's Pain",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

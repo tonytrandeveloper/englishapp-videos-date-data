@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I7I_zUVLPDQ",
-            "title": "Full Mulvaney: 'How Do We Stop Crazy People From Getting Guns?' | Meet The Press | NBC News",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "A5L_wzEeFlg",
             "title": "Full Panel: El Paso Attacker Motivated By White Supremacy | Meet The Press | NBC News",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "Watch live: Officials update the public after mass shooting in El Paso",
             "secondDuration": 977,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVlOHFuh-60",
+            "title": "Watch Live: Police Respond To Active Shooter Near El Paso Mall | NBC News",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

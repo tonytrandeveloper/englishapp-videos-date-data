@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZcMe8mPxi1Y",
-            "title": "Prime Minister Theresa May Pays Respects At Arlington National Cemetery | NBC news",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvfF8iSREUw",
             "title": "Families Fear Wall Will Tear Them Apart | NBC News",
             "secondDuration": 129,
@@ -301,8 +295,14 @@
             "title": "Hundreds Of Thousands March For Women In Washington | 360 Video | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "4NAdXOZpGJ8",
+            "title": "At Least 12 Dead, 23 Injured As Severe Storms Devastate Georgia | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LpY3ALCLevI",
-            "title": "Amplified: Phantogram",
-            "secondDuration": 374,
-            "group": "group_7"
-        },
-        {
             "videoId": "M6np-G0gtuU",
             "title": "Toyota Flaws Could Free Convict",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Suicide Pilot's Daughter: Dad's a Hero",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRgHlNDGms8",
+            "title": "This Week Governors Special",
+            "secondDuration": 1334,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

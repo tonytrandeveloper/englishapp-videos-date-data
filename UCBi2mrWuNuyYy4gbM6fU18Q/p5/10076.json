@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nVyHBxcQovM",
-            "title": "Authorities Across Country On Hunt For Serial Bank Robber",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "LSmNvYevoDo",
             "title": "Jazz Crooner Michael Buble Learning To Love Newborn Son",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "President Obama Delays Syria Strike",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ka80r1al5kc",
+            "title": "President Obama's Defining Moment on Syria",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

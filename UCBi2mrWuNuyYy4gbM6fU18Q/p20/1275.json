@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iayaqyGHOQo",
-            "title": "FBI investigates suspicious packages at several military bases",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "udLc_Dd2BAE",
             "title": "Parkland students find their voices as activists at the March for Our Lives",
             "secondDuration": 453,
@@ -121,8 +115,14 @@
             "title": "Bush national security adviser: Bolton's rhetoric 'a little bit extreme for my taste'",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWgsCPzCoFI",
+            "title": "Tucson, Arizona students take on both sides of the gun debate after Parkland shooting",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0kBIagYHfuA",
-            "title": "Louisiana Gov. Edwards Gives Update On Coronavirus Response | NBC News",
-            "secondDuration": 3500,
-            "group": "group_7"
-        },
-        {
             "videoId": "MOs4Jl9PFhQ",
             "title": "‘Democracy Cannot Be A Casualty Of COVID-19’: N.J. Governor Moves Primary Election Date | NBC News",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Italian Grandmother, 103, Recovers From COVID-19 With Hydration, Pills, And Faith | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "jPgKAnG6U7c",
+            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

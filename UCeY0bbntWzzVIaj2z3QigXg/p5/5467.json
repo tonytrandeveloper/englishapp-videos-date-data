@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wKX0z6BSHO4",
-            "title": "Flashback: Sen. Bob Corker Won't Support Tax Bill That Adds 'One Penny' | Meet The Press | NBC News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mp_8mwgpJl8",
             "title": "Royal Caribbean Tour Bus Crashes In Mexico, Killing 12 | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "GOP Senators Celebrate Tax Bill Passage | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "rEOQQ_kuQyw",
+            "title": "Senate Passes GOP Tax Plan | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

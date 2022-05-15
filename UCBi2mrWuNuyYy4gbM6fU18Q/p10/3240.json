@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uuIeBDFuIQQ",
-            "title": "Security Officials Prepare for Holiday Terror Threat",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ih8Ky9aLIsY",
             "title": "Utah High School Stabbing Spree",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Mexico's Colima Volcano Erupts",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "e1Z2PPXmT7g",
+            "title": "Southern  Fires | 3,000+ Firefighters Battle Dozens of Fires",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

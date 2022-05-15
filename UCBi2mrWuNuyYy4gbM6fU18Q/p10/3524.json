@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n3CvQ0RzYvQ",
-            "title": "Munich Attack | Video of Gunman Shooting at Mall",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "iYtp3f2s2XY",
             "title": "Tim Kaine: Everything You Need to Know",
             "secondDuration": 47,
@@ -61,8 +55,14 @@
             "title": "Obama Denies Reported Chaos at RNC",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "40d7MCFrogQ",
+            "title": "Police Officer Who Shot Unarmed Man Identified",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

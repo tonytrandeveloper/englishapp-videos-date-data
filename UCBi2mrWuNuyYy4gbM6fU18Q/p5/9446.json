@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AuYhau2EySg",
-            "title": "Paying Tribute to Maya Angelou",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "tO-Oa4qAzRE",
             "title": "Comedian Tracy Morgan in Critical Condition After Car Crash",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Search for Maddie McCann Extended",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "c6leakkrbX4",
+            "title": "'Sovereign Citizen' Allegedly Launches Full-Blown Assault on Atlanta Courthouse",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

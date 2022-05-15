@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T1OXnz23DvU",
-            "title": "O.J. Simpson To Face Parole Hearing This Week | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1KkMZPPqmg",
             "title": "Made In America: Critics Want President Donald Trump To Lead By Example | NBC Nightly News",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Health Care Bill Delay: Sen. John McCain’s Eye Surgery Pushes Back Vote | NBC Nightly News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "rMqBbxqFeds",
+            "title": "Arizona Flash Flood: Nine Dead, Boy Missing At Swimming Hole | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

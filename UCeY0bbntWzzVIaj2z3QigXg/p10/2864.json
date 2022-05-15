@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4XcYpkZU3NQ",
-            "title": "Puerto Rico Residents Desperately Trying To Leave The Island | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MqOOFIUQMuY",
             "title": "Denise Sandoval: Lowriders Tell The Story Of The Chicano Experience | NBC Latino | NBC News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "NBA Coach Gregg Popovich Delivers Remarks On Race, Trump, Anthem Protesting | NBC News",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "JzVVkmx87AE",
+            "title": "President Trump, Spanish Prime Minister Mariano Rajoy Hold Joint Press Conference (Full) | NBC News",
+            "secondDuration": 2124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

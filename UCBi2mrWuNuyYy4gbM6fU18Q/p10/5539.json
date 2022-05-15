@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yZEerhZwOWM",
-            "title": "Student Arrested in Jessica Ridgeway Murder",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "AdH_YSDVvU8",
             "title": "President Obama on 'Tonight Show with Jay Leno'",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney, President Obama Fight for Women's Votes in Election Battleground States",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJWbKmWjXR8",
+            "title": "Harvard Scientist Claims He's Been to Heaven; Debate's Scientific Theories of Heaven",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

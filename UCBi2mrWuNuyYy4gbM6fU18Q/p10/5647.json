@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RqVrSyq4rfo",
-            "title": "Controversial Filmmaker's Wild Shots",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "_na4ELglebI",
             "title": "Hate Religion, Love Jesus",
             "secondDuration": 304,
@@ -61,8 +55,14 @@
             "title": "Democratic National Convention 2012: Preview",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "bnCbN4Gsqw0",
+            "title": "Roundtable II: This Week in Politics",
+            "secondDuration": 1268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WWFYOsB5_Wk",
-            "title": "North Korea test-fires another ballistic missile",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "jTsR3YC4bkg",
             "title": "Hurricane Harvey marks Trump's 1st test of response to a natural disaster",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "Trump follows divisive rally with unity call in Reno speech",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "ac4w5dZBkHs",
+            "title": "Gulf Coast states brace for Tropical Storm Harvey",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

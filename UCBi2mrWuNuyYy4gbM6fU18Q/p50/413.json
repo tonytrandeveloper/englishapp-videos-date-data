@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6Ofz4BwubMI",
-            "title": "Former Dem and GOP prosecutors lash out at Trump",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "jVReTiVPk4s",
             "title": "Cops arrest man wanted for gunning down police officer",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "The Debrief: Venezuela latest, quarantined cruise ship, Kentucky Derby preview | ABC News",
             "secondDuration": 1606,
             "group": "group_7"
+        },
+        {
+            "videoId": "jckYdL9r60w",
+            "title": "Heavy rain wreaks havoc from Michigan to Arkansas",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

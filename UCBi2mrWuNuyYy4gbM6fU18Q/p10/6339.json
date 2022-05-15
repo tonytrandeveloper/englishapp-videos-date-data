@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JbSDR65zWiA",
-            "title": "Interview With Leon Panetta",
-            "secondDuration": 1480,
-            "group": "group_7"
-        },
-        {
             "videoId": "xlgd-fPuhG8",
             "title": "Drilling the Gulf Relief Well",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "iPhone 4: Can You Hear Me Now?",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThBLRibJaWU",
+            "title": "Summer Storms Hit the Northeast",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

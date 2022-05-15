@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z6giLkNTGmg",
-            "title": "Chris Christie Discusses Successful GOP Governor Races in the 2014 Election",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "JA7WDbeug3U",
             "title": "2014 Midterm Election Results Are Mostly In",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "SKINNY: Turn Out For What!",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_EwralH0oc",
+            "title": "MIX: Who Ya Gonna Call?",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

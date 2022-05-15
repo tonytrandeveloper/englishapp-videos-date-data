@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wvNgDQJsJF0",
-            "title": "World in Photos, June 4: Turmeric Festival, Trump visits Queen Elizabeth II and French Open",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "RcztEitVn4c",
             "title": "Mount Etna erupts, lights up sky with hot lava",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Virginia Beach shooting: Investigators search for a motive",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "aA26j7sGYDg",
+            "title": "Trump says it will be 'foolish' for Republicans to block tariffs on Mexico",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

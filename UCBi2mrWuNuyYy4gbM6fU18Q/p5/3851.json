@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4l4gCdhRXjY",
-            "title": "The Debrief: Democratic debate preps, Gilroy shooting developments | ABC News",
-            "secondDuration": 2322,
-            "group": "group_7"
-        },
-        {
             "videoId": "KU6gSfbVaMY",
             "title": "US teen arrested for cop’s killing in Rome claims self-defense l ABC News",
             "secondDuration": 290,
@@ -31,8 +25,14 @@
             "title": "Woman arrested in massive Capital One data breach l ABC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUiuojaGa3Q",
+            "title": "Suspect identified in deadly Garlic Festival shooting l ABCNews",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

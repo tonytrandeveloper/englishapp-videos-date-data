@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LpIRomoFIbE",
-            "title": "Man Tries to Infiltrate Meeting of Cardinals in Rome",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEI96unC06Q",
             "title": "Barbara Walters Returns to 'The View'",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "America Issues New Warning to Iran About Nuclear Weapons",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "h50grFO3tUU",
+            "title": "Taxpayers' Money Spent on Portraits",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

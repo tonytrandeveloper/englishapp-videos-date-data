@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UKPgsi5Yi24",
-            "title": "Mother Blames Church of Scientology for Splitting Up Family",
-            "secondDuration": 417,
-            "group": "group_7"
-        },
-        {
             "videoId": "E6mWuzM3l4M",
             "title": "WEBCAST: Pickup Truck Barely Misses State Trooper",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "The Last Words of the Pilot and Co-Pilot on Malaysia Airlines Flight 370",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "m9OIryJNkYM",
+            "title": "TV Anchors Shaken Up by a Quake",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

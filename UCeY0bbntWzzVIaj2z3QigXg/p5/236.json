@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BooGOe9XAGY",
-            "title": "More Than One Million Refugees Have Fled Ukraine Since Invasion Began, Says U.N.",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "7A8q-W86lD8",
             "title": "Lviv Civilians Learn Combat Skills,Produce Barricades To Defend Against Russian Forces",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Nuclear Plant In Ukraine On Fire After Russia Shells Facility",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDtCOtTOQ2g",
+            "title": "LIVE: Russia Invades Ukraine | NBC News NOW Simulcast of Sky News",
+            "secondDuration": 18000,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T4xduooeCRw",
-            "title": "Kevin Costner and Chris Pine Interview: Costner Gets Second Chance at 'Jack Ryan' Movie",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "A6zTt-fTQBw",
             "title": "LA Wildfire: 3 Suspects Arrested",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "In Case You Missed It: 1/17/2014",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "xWR_Z6Y5FqM",
+            "title": "The Highest- Paid Pitcher in Baseball: Clayton Kershaw",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

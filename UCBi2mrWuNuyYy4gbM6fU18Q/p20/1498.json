@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W6Y14P0yEGU",
-            "title": "Hillary Clinton takes aim at Trump administration",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUDJUxzXVyY",
             "title": "New fallout in House investigation of alleged Russia election meddling",
             "secondDuration": 185,
@@ -121,8 +115,14 @@
             "title": "Foster mom determined to give little girl her 'forever home'",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCPHkkg_XXM",
+            "title": "Authorities foil alleged massacre planned for a DC-area school",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

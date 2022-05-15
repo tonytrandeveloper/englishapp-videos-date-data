@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jxHA_exAG38",
-            "title": "Steel town waits for President Trump's promises to come true",
-            "secondDuration": 511,
-            "group": "group_7"
-        },
-        {
             "videoId": "r746-dj_p0E",
             "title": "FBI deputy director steps down",
             "secondDuration": 330,
@@ -121,8 +115,14 @@
             "title": "At least 95 dead in Kabul suicide bombing",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "x9F1ybK34Bc",
+            "title": "Trump's first state of the union address comes amid Russia investigation",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QI4hcg_VqRU",
-            "title": "Ex-Starbucks CEO considering run for president",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "FVbHdR9fR4k",
             "title": "Tom Brokaw faces backlash",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Police investigating officer's Russian roulette-style death",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmSWmrlCrBg",
+            "title": "Video shows man hanging from a car hood on the highway",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

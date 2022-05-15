@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GmCO9zDoFgI",
-            "title": "No Breakfast Or Lunch For School Kids? How Millions Could Lose Access",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "7W35tYIJsks",
             "title": "Bodycam Video Shows ‘Black Panther’ Director Detained By Police",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Exclusive Look At Rover That Could Be Heading To The Moon",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsBR--kB2VU",
+            "title": "Kherson, Ukraine Offers Glimpse Into Russian Occupation",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MPflerzYlQY",
-            "title": "Lifesaving Trash? Old Phones Give Life",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "voDCp6-j1FI",
             "title": "Jacqueline Kennedy Tapes, Recorded After JFK Assassination, Reveal Intimate Secrets",
             "secondDuration": 269,
@@ -61,8 +55,14 @@
             "title": "The Smoking Baby",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "voXdijJz_Dk",
+            "title": "9/11 Controller: Final Call to Flight 77",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

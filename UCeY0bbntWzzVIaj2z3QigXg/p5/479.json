@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wHHA5RjqEIw",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3376,
-            "group": "group_7"
-        },
-        {
             "videoId": "M9L2tz7l_tk",
             "title": "Inflation Rises To Highest Annual Level In 40 Years",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1855,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hp0pBnd7EKg",
+            "title": "Why January Could Be The Best Time To Look For A New Job",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

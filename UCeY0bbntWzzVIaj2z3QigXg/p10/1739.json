@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MqCMTogpCyM",
-            "title": "Watch Live: President Donald Trump Holds Campaign Rally In Louisiana | NBC News",
-            "secondDuration": 4280,
-            "group": "group_7"
-        },
-        {
             "videoId": "hgokCY3uarA",
             "title": "Army Veteran Becomes Oldest College Football Player | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Deval Patrick Files To Appear On New Hampshire's 2020 Ballot | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvSCRMnPzo8",
+            "title": "Watch Late Night Hosts Recap First Public Impeachment Hearings | NBC News",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

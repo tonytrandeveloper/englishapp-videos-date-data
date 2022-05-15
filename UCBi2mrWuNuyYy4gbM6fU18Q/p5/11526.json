@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cYG9J480DhU",
-            "title": "Triple-Digit Heat Across the Nation",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "CbKu8rldFio",
             "title": "President Obama Surveys Colorado Wildfires",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Military Base Toxic Water Investigation",
             "secondDuration": 449,
             "group": "group_7"
+        },
+        {
+            "videoId": "l8kCfMDhufU",
+            "title": "Summer of Lust Made for Women",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

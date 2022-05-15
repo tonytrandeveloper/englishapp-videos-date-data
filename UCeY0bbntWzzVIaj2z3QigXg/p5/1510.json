@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ss5KJp70aRU",
-            "title": "Coronavirus: CDC Updates Summer Camp Guidance | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Azvkjf-Sj1g",
             "title": "Apple Unveils New Anti-Tracking Privacy Shield | NBC Nightly News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "CDC Director Walensky Discusses Change In Outdoor Mask Guidance | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "U5AqpByrBJI",
+            "title": "Water Security: Climate, Health And Infrastructure | Meet The Press Reports",
+            "secondDuration": 1648,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "enL2h9mgzXU",
-            "title": "Deadly Tornado Outbreak Hits South, More Storms On The Way | NBC Nightly News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "WdzkFZJ79uk",
             "title": "Top Pick In NFL’s First Virtual Draft Highlights America’s Hunger Crisis | NBC Nightly News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Coronavirus May Have Hit Big U.S. Cities Earlier Than First Thought | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "vKx82FMZ_LU",
+            "title": "Empty Las Vegas Casinos At Center Of Clash Over Reopening | NBC Nightly News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

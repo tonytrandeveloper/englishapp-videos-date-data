@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RV6LR0eNFwM",
-            "title": "Inspiring America: Former NFL Player Finds Purpose Training Amputees | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "KDbDpkKo3xw",
             "title": "'Fearless Girl' Statue Faces Off Against Wall Street Bull | NBC News",
             "secondDuration": 81,
@@ -301,8 +295,14 @@
             "title": "Chuck Schumer Calls On Jeff Sessions To Resign Over Misleading Russia Testimony | NBC News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Nu7n8qfzWI",
+            "title": "Inspiring America: Young Homeless Sisters Running For Gold | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

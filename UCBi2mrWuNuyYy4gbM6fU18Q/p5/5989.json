@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W6Y14P0yEGU",
-            "title": "Hillary Clinton takes aim at Trump administration",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUDJUxzXVyY",
             "title": "New fallout in House investigation of alleged Russia election meddling",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Homecoming for 5-year-old cancer survivor",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "xwZeVhYex-w",
+            "title": "Nunes' secret White House visit on Trump surveillance triggers calls for recusal",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

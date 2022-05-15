@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D-XEwZcYT2c",
-            "title": "Winter Storms Slams the South, Trapping Students",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "WpeQfEJlmWw",
             "title": "State of the Union Confidential",
             "secondDuration": 443,
@@ -61,8 +55,14 @@
             "title": "State of the Union 2014: President Supports Minimum Wage Increase",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "14y3D6AJbn8",
+            "title": "State of the Union 2014: President Obama Says Women Deserve Equal Pay",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

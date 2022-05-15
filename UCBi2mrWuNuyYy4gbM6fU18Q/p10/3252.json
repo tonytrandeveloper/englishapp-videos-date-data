@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bz9be4yz_gw",
-            "title": "Veterans Day 2016: 10 Facts You Should Know",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "DeYPfCVthsE",
             "title": "President Elect Trump Goes to Washington",
             "secondDuration": 493,
@@ -61,8 +55,14 @@
             "title": "Students Taunt Minority Classmates: 'Build The Wall'",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "BlNWuwsAsaY",
+            "title": "Obama's History of Insulting Donald Trump",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

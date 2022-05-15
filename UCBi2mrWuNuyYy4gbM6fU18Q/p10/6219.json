@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8vSklgimLpQ",
-            "title": "Kirsten Dunst on \"All Good Things\"",
-            "secondDuration": 467,
-            "group": "group_7"
-        },
-        {
             "videoId": "xmgDKDoO2bk",
             "title": "Ron Bonjean: GOP Needs to 'Stick to Principles'",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "The Conversation: Who is Captain Awesome",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "SI3_Zot3djM",
+            "title": "National Journal's Sue Davis on 'Top Line'",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

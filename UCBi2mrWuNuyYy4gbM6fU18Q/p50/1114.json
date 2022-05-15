@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hHHwmQSlIIo",
-            "title": "Meningitis Outbreak: The Scramble",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "d0IWzPq7UyE",
             "title": "The Undecideds: Presidential Election Up for Grabs",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Biden vs. Ryan: A Recap of the VP Debate",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "nmo9J5UCQ4M",
+            "title": "Is a Liberal or Conservative Born or Made?",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ArMumdJsh8s",
-            "title": "Peshawar School Attack Leaves Over 140 Dead | NBC Nightly News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ty_V5h12RHw",
             "title": "Dr. Seuss' “How the Grinch Stole Christmas” Read by Keith Morrison | NBC News",
             "secondDuration": 597,
@@ -121,8 +115,14 @@
             "title": "CIA Director John Brennan: Exceeded Torture Policy | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "5tJy5B9DATQ",
+            "title": "The 'Cromnibus' GOP Buzzword Explained | Long Story Short | NBC News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

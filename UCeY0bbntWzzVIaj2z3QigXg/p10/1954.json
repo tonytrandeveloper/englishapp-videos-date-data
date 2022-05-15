@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PIQvnlNnvSo",
-            "title": "Andrew Yang Shares His Big Idea For Universal Basic Income | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Fr4vgtCf8g",
             "title": "Lester Holt In Conversation With Criminal Justice Reformer Bryan Stevenson | NBC Nightly News",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "The Future Of A.I. Is In The Hands Of Nine Companies. It’s Time To Take It Back. | Think | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "XecWxsD1itk",
+            "title": "Toy Story 4: The Not So Far-Fetched Idea Of Bringing Toys To Life | Mach | NBC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dn2e0Etyisw",
-            "title": "Trump to keep ban on big game trophies for now",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "oHjjw_XmoSs",
             "title": "Massive inferno engulfs a senior-living facility outside Philadelphia",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "New video shows suspect in Tampa serial killings: Police",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "KBUvD-kfpKc",
+            "title": "Roy Moore faces new accusations of sexual misconduct",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

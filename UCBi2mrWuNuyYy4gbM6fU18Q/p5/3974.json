@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BZKA1uM-uIw",
-            "title": "Oil refinery explosions in Philadelphia",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "GeLfIheaOCQ",
             "title": "Trump faces division on how to handle Iran",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "15 states face flooding, wind threats",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qhg1sjDFrXM",
+            "title": "Trump ordered Iran strike, reversed course",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

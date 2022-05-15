@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ozB7Vm9uwqQ",
-            "title": "Trump Full Speech at National Museum of African American History and Culture  | ABC News",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "OuRrXcNlpso",
             "title": "Diversity is the winner at the 2017 Oscars",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Melania Trump first speech as First Lady",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "4I2RshpldTc",
+            "title": "Angelina Jolie on split from Brad Pitt",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

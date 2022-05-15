@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ve3_PAQsYSQ",
-            "title": "NFL star says officer pointed gun at his head in police encounter",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "T_yibJpdEEE",
             "title": "UK threat level raised to critical after terror attack",
             "secondDuration": 319,
@@ -61,8 +55,14 @@
             "title": "British Prime Minister speaks out about London terror attack",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fo64U7mL0is",
+            "title": "Police investigating possible deadly hazing incident at LSU",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

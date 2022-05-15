@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sNRJJsjGdv0",
-            "title": "Ted Cruz: Donald Trump Is a 'Pathological Liar'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "d_lFNga0et8",
             "title": "US Servicemen Help Rescue Children, Mother From Burning Building",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "Tupac 's Mother Afeni Shakur Dead at 69",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "3uy9LIt-yHI",
+            "title": "Martin Shkreli, 'Pharma Bro', May Face Additional Fraud Charges",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

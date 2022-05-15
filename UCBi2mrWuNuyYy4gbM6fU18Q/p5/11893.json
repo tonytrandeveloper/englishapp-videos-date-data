@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uoS9liwSsaU",
-            "title": "Steve Jobs: Most Fascinating Person",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "By8GRIQv0ro",
             "title": "Pippa Middleton in the Spotlight",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Paris Jackson Speaks Out on 'Ellen'",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPK3JWT2oKI",
+            "title": "NYPD Video of Alleged Illegal Gun Sales",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XInKfVKHXU0",
-            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
-            "secondDuration": 2250,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2opIG82AtY",
             "title": "Into the Kentucky Primary | Into America Podcast – Ep. 32 | NBC News and MSNBC",
             "secondDuration": 1088,
@@ -31,8 +25,14 @@
             "title": "Booker, Harris On Republican Police Reform plan: It would 'Lead Us Into A Dead End' | NBC News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "YDCQUvhup8M",
+            "title": "Live: Trump Meets With The President Of Poland | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

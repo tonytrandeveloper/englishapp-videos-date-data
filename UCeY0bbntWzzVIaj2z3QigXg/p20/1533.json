@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bGQYXPijMQ4",
-            "title": "What Barack Obama Doesn’t Miss About The White House | NBC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "qNc20gfgHrY",
             "title": "President Barack Obama Speaks On The Dangers Of Climate Change | NBC News",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "One Navy SEAL Killed, Two Wounded In Somalia Raid | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhOsmI6xcU8",
+            "title": "Uber Under Criminal Investigation Over 'Greyball' Tool | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

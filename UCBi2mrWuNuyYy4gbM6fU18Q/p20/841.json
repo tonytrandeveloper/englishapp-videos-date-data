@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DrSSR3mihdo",
-            "title": "6.4 earthquake hits Puerto Rico leaving 1 dead, multiple injured l ABC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "jldSH475OLM",
             "title": "Crews race against time, weather changes to contain Australia fires | ABC News",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "Harvey Weinstein faces new sex crime charges l ABC News",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "CYwD-iQkgGM",
+            "title": "New threats from Iran as U.S. troops arrive in the Middle East l ABC News",
+            "secondDuration": 1435,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

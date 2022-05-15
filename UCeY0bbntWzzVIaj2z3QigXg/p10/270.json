@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NqPsfusE_y8",
-            "title": "Top Story with Tom Llamas - Dec. 27 | NBC News NOW",
-            "secondDuration": 3006,
-            "group": "group_7"
-        },
-        {
             "videoId": "bHzUU1rYaec",
             "title": "Nightly News Full Broadcast - Dec. 27",
             "secondDuration": 1114,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 27",
             "secondDuration": 2956,
             "group": "group_7"
+        },
+        {
+            "videoId": "49UhUmGP3hI",
+            "title": "NYC Opens Testing Sites At Subway Stations",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KhVn_uLD1Hc",
-            "title": "Government Launches Investigation Into Tesla’s Autopilot Driving System",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "9oVpmy_4UW8",
             "title": "Rapid Collapse Of Afghan Government Brings Questions Of US Intelligence Failure",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Covid Surge Overwhelming Hospitals",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEofZGDWloU",
+            "title": "Search Underway For Survivors of Haiti Earthquake",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

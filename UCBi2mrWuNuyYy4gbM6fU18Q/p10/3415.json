@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_0o7773zcwc",
-            "title": "'GMA' Hot List: Simone Biles' Pizza Surprise and 'DWTS' Cast Live",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "vWzxrBd9j_c",
             "title": "Steph Curry Blocked by 17 Year Old in Taiwan",
             "secondDuration": 33,
@@ -61,8 +55,14 @@
             "title": "Man Rescued After Truck Crashes into River at High Speed",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "c7bbMq9HMQI",
+            "title": "Missing Student Kristin Smart | FBI Resumes 20-Year Search",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

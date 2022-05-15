@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_088zlCjAAY",
-            "title": "Patriots owner criticizes Trump over national anthem protests",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "_mO0SQXRivg",
             "title": "Husband of woman killed on Southwest flight remembers their last conversation",
             "secondDuration": 492,
@@ -61,8 +55,14 @@
             "title": "Hear the 911 call that led to capture of Waffle House suspect",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "emDCiXuJ_yw",
+            "title": "Husband of woman killed on Southwest flight speaks out",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

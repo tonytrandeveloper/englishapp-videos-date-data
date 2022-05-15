@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UNSSuTSQI9I",
-            "title": "Medical Marijuana Patients Have More Questions Than Answers On Treatment",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "7W9FdHTFIw4",
             "title": "Texas Democrats Speak Out After Leaving State Over Voting Rights",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "White House Holds Press Briefing: July 12 | NBC News",
             "secondDuration": 2315,
             "group": "group_7"
+        },
+        {
+            "videoId": "WKssTqy7GLI",
+            "title": "Morning News NOW Full Broadcast - July 12 | NBC News NOW",
+            "secondDuration": 2505,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

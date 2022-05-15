@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BE6YP23CWHg",
-            "title": "Biden Delivers Remarks In Las Vegas | NBC News",
-            "secondDuration": 1739,
-            "group": "group_7"
-        },
-        {
             "videoId": "2IE7IHsL5Z0",
             "title": "Pandering To Black Voters Isn’t New. Here’s Why It Won’t Work In 2020. | NBC News",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Trump Asked Walter Reed Doctors To Sign NDAs In 2019 | NBC News NOW",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "hWr0vHdAVxk",
+            "title": "How Ohio Will Certify Its Election Winner With Surge In Mail-In Voting | NBC News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

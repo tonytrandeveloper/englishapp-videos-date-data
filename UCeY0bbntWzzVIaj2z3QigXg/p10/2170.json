@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_qcDYQ-phsQ",
-            "title": "Police Release Sketch In Hunt For Killer Of 7-Year-Old In 'Unprovoked' Attack | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "_p_-5jYXgbc",
             "title": "Emotional Reunion As Family Meets Responders Who Saved Their Son From Drowning | NBC Nightly News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Vice President Mike Pence Swears In Newly Elected Senators | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZ-5tWwoGw4",
+            "title": "Watch Live: White House Press Briefing January 3rd | NBC News",
+            "secondDuration": 509,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

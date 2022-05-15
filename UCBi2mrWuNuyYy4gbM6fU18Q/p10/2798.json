@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W8STuSF-8kc",
-            "title": "Oil and gas prices spike after the shock of Harvey",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "XPRFEPVm0Pk",
             "title": "Hurricane Harvey Live Coverage - 'Unprecedented' flooding in Houston as Harvey stalls over area",
             "secondDuration": 23472,
@@ -61,8 +55,14 @@
             "title": "Backlash over Trump's pardon of Arpaio as Harvey hit Texas",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "EVl1VxNp_4Y",
+            "title": "About 1,000 people involved in search and rescue efforts",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yeWx58saVY0",
-            "title": "Chloe Grace Moretz Speech at the Democratic Convention",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "S17KDmZhqC8",
             "title": "Kahn Family Full Speech at DNC | Muslim Soldier's Parents Challenge Trump",
             "secondDuration": 392,
@@ -31,8 +25,14 @@
             "title": "Jennifer Granholm: Hillary Has 'Actual, Detailed Plans' for the Economy | ABC News",
             "secondDuration": 417,
             "group": "group_7"
+        },
+        {
+            "videoId": "LMT_xn-neEg",
+            "title": "Nancy Pelosi Full Speech at the Democratic Convention",
+            "secondDuration": 602,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T2eGGeBFP_M",
-            "title": "Urgent Search For Thai Soccer Team, Coach Missing Since Saturday | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "8VDZr0wqt0g",
             "title": "Multiple Killed In Capital Gazette Office Shooting In Annapolis, Maryland | NBC News",
             "secondDuration": 12600,
@@ -31,8 +25,14 @@
             "title": "Maryland Shooting Survivor Recounts Hearing The Shooting | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "UJF-jpDcYc8",
+            "title": "Suspect In Custody After Maryland Shooting With 5 Fatalities | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

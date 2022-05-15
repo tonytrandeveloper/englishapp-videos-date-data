@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OqHnJ3Ji5r8",
-            "title": "Summer Camps Take Steps To Prevent Coronavirus Spread | NBC News NOW",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "6zqvg36aY8I",
             "title": "Saluting Veterans And COVID-19 Frontline Workers On Memorial Day | NBC News NOW",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1637,
             "group": "group_7"
+        },
+        {
+            "videoId": "fh8snVtmCYA",
+            "title": "Live: Trump Participates In Memorial Day Tribute Events | NBC News",
+            "secondDuration": 2053,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

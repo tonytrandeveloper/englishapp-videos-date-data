@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "159MPoIukPg",
-            "title": "Florida Reports Nearly 10,000 New Coronavirus Cases In One Day As State Halts Reopening | NBC News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "85mOZQjZJ4c",
             "title": "Powerful Reunion Between COVID-19 Nurse And The Firefighter Who Saved Her Life | NBC Nightly News",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Reporter Debunks Trump Surrogate's Claim That Term 'Kung Flu' Came From Obama Admin | NBC News",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "CPr4f-DIP1o",
+            "title": "Joe Biden Outlines Immigration Plan For First 100 Days In Office | NBC News",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

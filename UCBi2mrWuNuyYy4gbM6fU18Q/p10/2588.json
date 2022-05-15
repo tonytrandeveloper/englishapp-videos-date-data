@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QsUZCo7hasI",
-            "title": "President Donald Trump delivers remarks at CPAC conference | ABC News",
-            "secondDuration": 5301,
-            "group": "group_7"
-        },
-        {
             "videoId": "kOZUJ7JCBFc",
             "title": "Florida Gov. Rick Scott announces plans on student safety",
             "secondDuration": 1852,
@@ -61,8 +55,14 @@
             "title": "Encourage teachers trained to use firearms to bring weapons to school: Trump",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxoWWzWYmiM",
+            "title": "Manafort, Gates facing new charges from special counsel",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

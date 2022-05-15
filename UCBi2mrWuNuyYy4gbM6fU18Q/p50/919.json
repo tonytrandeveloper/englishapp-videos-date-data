@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DpLSgtai9yA",
-            "title": "MIX: Weatherman vs Dog",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nm9oaNbvEgA",
             "title": "Cruise Ship Carrying Dallas Hospital Worker Docks in Texas",
             "secondDuration": 239,
@@ -301,8 +295,14 @@
             "title": "WEBCAST: Popular iPhone App Helps Save Woman",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "4N7VbzOR6vk",
+            "title": "Free Falling Gas Prices",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

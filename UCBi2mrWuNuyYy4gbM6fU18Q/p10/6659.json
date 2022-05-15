@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GLJx-4Jg1cA",
-            "title": "Geithner: Defends The Economic Plan",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "LRZaEoHknMU",
             "title": "New Normal: States for Sale",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Home Sweet... Airport?",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "PY0B6nI4nu4",
+            "title": "Unrest Plagues Iran After Election",
+            "secondDuration": 459,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

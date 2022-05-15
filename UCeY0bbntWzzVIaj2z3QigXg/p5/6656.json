@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-FFxMCUvar0",
-            "title": "Melania Trump Steps Into the Spotlight at RNC | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "bNROWXgAWMk",
             "title": "Hillary Clinton Attacks Donald Trump, Republicans On First Day Of RNC | NBC News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Tim Kaine On Mike Pence: 'Donald Trump’s Entitled To Make His Pick' | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "UdznWFy8t4E",
+            "title": "Glenn Beck: Political Parties Are 'So Out Of Touch' With Americans | Meet The Press | NBC News",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

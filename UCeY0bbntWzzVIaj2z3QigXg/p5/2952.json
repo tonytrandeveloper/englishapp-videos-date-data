@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X9jI4bE_-qo",
-            "title": "Boy Scout Plays Moving Tribute To Veterans Who Died From Coronavirus | NBC Nightly News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "lZ6BggVlRFE",
             "title": "Doctors Hope Plasma From Recovered Coronavirus Patients Can Save Lives | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Nursing Homes Hit Hard By Coronavirus As Families Worry For Loved Ones | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRG7XekVvA0",
+            "title": "Live: Louisiana Gov. Edwards Gives Update On Coronavirus Response | NBC News",
+            "secondDuration": 2389,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

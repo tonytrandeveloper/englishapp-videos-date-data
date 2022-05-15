@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GBWc0BGG3LY",
-            "title": "Peter Alexander: 'I have a dream that...'",
-            "secondDuration": 14,
-            "group": "group_7"
-        },
-        {
             "videoId": "qRjLrb7NbWc",
             "title": "Wilson Cruz: \"I have a dream that...\"",
             "secondDuration": 12,
@@ -61,8 +55,14 @@
             "title": "Savannah Guthrie: \"I have a dream that...\"",
             "secondDuration": 8,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsjv0cx2LTw",
+            "title": "Jeremy Lin: \"I have a dream that...\"",
+            "secondDuration": 5,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

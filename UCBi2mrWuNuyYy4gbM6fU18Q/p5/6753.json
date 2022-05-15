@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oWIZZDfIkEQ",
-            "title": "Keith Lamont Scott Shooting Video Released by Charlotte Police",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "ou1yICdRDX0",
             "title": "Erin Brockovich on Recent Environmental Threats",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Family of Keith Lamont Scott Release Video of Fatal Encounter with Police",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "5T9mkSixkDQ",
+            "title": "Washington Mall Shooting Leaves 5 Dead",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

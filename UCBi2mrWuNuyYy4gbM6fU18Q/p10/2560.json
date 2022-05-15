@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VxB25HAW8I4",
-            "title": "More than 100,000 people still without power after Hurricane Maria",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "_FPpjFwYJ6o",
             "title": "Election day in Russia proves triumphant for Putin",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Teammates cheer on fellow high school football player who beat cancer",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "udukfx-fM-c",
+            "title": "16-year-old Amy Yu found in Mexico",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

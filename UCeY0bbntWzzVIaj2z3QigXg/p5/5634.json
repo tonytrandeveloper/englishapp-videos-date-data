@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q9yJSjdp_go",
-            "title": "President Trump Shares Story About His Brother’s Alcohol Addiction During Opioid Speech | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucYbZwAao1I",
             "title": "Pope Francis Talks To Space Station Astronauts | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Declares Opioid Crisis A National Public Health Emergency | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "T-L_XUHT1ow",
+            "title": "President Donald Trump And First Lady Speaks on Opioid Epidemic From White House (Full) | NBC News",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RBHbbqbJTeI",
-            "title": "Port Arthur mayor speaks out on flooded town, evacuations | ABC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "leCqKhnnmcQ",
             "title": "Texas residents rescued as Harvey dumps more rain | ABC News",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Houston furniture store owner opens stores to Harvey victims: Part 2",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "PaBNymg7UiU",
+            "title": "Harvey continues to batter the Gulf coast",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

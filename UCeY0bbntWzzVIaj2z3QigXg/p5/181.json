@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jQ1SSoZ7hgU",
-            "title": "Ukraine's Drones Have Lethal Impact On Russian Forces",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "dMrVJqzTrxM",
             "title": "WATCH: Skiers Survive Utah Avalanche",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Gas tank Explosion At Mexican Resort Restaurant Kills Two",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "zjASWKjv3Zc",
+            "title": "'No War' Protester Interrupts Russia’s Main Evening News Broadcast",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

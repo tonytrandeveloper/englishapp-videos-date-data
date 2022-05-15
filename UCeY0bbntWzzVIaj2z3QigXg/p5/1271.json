@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "syHIjidJVJk",
-            "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "WUuCws0E6nQ",
             "title": "Temperatures Expected To Climb Over Triple Digits During Heat Wave",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing: June 25 | NBC News",
             "secondDuration": 2716,
             "group": "group_7"
+        },
+        {
+            "videoId": "fjB67Tw3zDs",
+            "title": "Harris Travels To U.S.-Mexico Border Amid Republican Criticism",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

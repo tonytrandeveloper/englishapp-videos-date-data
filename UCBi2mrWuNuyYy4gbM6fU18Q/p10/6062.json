@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mxuZaxmMPxg",
-            "title": "Carmaggedon: Los Angeles Residents Brace for I-405 Closing",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "4XW-vh9q1AA",
             "title": "Murdered Brooklyn Boy: What Happened to Leiby Kletzky on Walk Home From Camp?",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Jaycee Dugard: How Police Failed to Save Her",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "dtjX-VUrZnA",
+            "title": "'Carmageddon' Impedes Marriage Ceremony",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gXdAKBYJsMA",
-            "title": "New details emerge in Otto Warmbier's medical condition",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "SINxkXGjakM",
             "title": "Estate of Playboy model Katie May suing chiropractor over her death",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "College student sentenced to 15 years of hard labor in North Korea returns to the US in a coma",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "uOeyyJYx2Sk",
+            "title": "College student sentenced to 15 years of hard labor in North Korea returns to the US in a coma",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

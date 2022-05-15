@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "99Sj2k_uVpE",
-            "title": "CPAC 2017: Betsy DeVos Speech (Full) | ABC News",
-            "secondDuration": 844,
-            "group": "group_7"
-        },
-        {
             "videoId": "054pHRNq1II",
             "title": "Massive iceberg poised to break off of Antarctica",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Rihanna is Harvard's Humanitarian of the Year",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "9_h_wQM2SSg",
+            "title": "Tom Brady pokes fun at the mystery of his missing Super Bowl jersey",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

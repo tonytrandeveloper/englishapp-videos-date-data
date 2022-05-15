@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UWJ3FTMFDhc",
-            "title": "American Voters Divided On Whether Trump Should Be Convicted | NBC News NOW",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "O0-PaP4RhFQ",
             "title": "Elton John, Michael Caine Appear In Comic Covid Vaccine Ad | NBC News NOW",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "What To Know About Filing Taxes If You Moved To Another State Amid Pandemic | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "dXNKdSt4JFU",
+            "title": "Bryan Stevenson On Black Achievement And Progress | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

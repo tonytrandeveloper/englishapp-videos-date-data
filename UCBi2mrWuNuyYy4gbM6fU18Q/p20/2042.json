@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yMuf5-ikQXk",
-            "title": "Seth Rogen Throws James Franco a Bar Mitzvah",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8INVU_dJM4k",
             "title": "Deadly Shooting in Israel | ABC News",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "GOP Presidential Candidates Threaten to Boycott Next Debate",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVhmmtrY9P8",
+            "title": "Hacker Arrested in Alleged ISIS Effort to Kill Americans",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

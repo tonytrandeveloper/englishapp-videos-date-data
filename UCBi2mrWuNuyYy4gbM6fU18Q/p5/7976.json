@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m-DBLOcYRZY",
-            "title": "Grand Jury Decides Not to Indict Officers in the Death of Tamir Rice",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BdkvNcd9t4",
             "title": "Inside Madonna's Custody Battle Over 15-Year-Old Son",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Chicago Police Shooting: Student and Mother Killed",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CBL7CdW4N-s",
+            "title": "Donald Trump Takes on the Clintons",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

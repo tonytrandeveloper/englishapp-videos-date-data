@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tp9OzOvKBPA",
-            "title": "Dangerous Weather Wreaks Havoc on the Holiday Weekend",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "bs0r4nSrric",
             "title": "Low Prices at the Pump Fuel Record Travel This Holiday Weekend",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Justin Bieber Sued for Alleged Copyright Infringement Over 'Sorry'",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "22mD-9_x_Rc",
+            "title": "Donald Trump Battles Protesters in California",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8pcU1X8Sd7I",
-            "title": "Little Leaguer Hits Homerun for Mom Battling Cancer",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "FrAHbdWR_Qg",
             "title": "Ryan Lochte Awaits Fallout Over 'Over-Exaggerated' Situation",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Trump Having 'Best Week,' New Campaign Manager Kellyanne Conway Says",
             "secondDuration": 518,
             "group": "group_7"
+        },
+        {
+            "videoId": "BxwaoJJQSKo",
+            "title": "Clinton Campaign Manager: Trump Is a 'Puppet' for the Kremlin",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

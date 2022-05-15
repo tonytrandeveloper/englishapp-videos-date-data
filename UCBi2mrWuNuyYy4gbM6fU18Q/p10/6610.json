@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tSz7CigtBvY",
-            "title": "Midair Horror in Crowded Skies",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "9X0a31ACy5c",
             "title": "Back to School Swine Flu Fears",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Gun Dealer Linked to Deadly Shootings",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "WGtiiMIBsFA",
+            "title": "Gingrich and Dean Talk Health Care",
+            "secondDuration": 844,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

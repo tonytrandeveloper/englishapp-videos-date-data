@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gODQnewLPS4",
-            "title": "Watch Live: President Donald Trump Delivers Remarks At Trafficking Taskforce Meeting | NBC News",
-            "secondDuration": 705,
-            "group": "group_7"
-        },
-        {
             "videoId": "5wRTFcyCw0c",
             "title": "5 New York Doctors Charged With Prescribing Unnecessary Opioid Pills | NBC News",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "New York Authorities Announce Arrest Of Limo Company Operator | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "74q1RGfTuo0",
+            "title": "FBI Chief Says Threats From Cybser Security, Drones 'Steadily Increasing' | NBC News",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

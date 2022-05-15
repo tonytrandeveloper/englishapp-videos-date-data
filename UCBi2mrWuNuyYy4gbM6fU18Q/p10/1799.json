@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Fa_yyH21jjs",
-            "title": "Video shows coach disarm, then embrace student with gun | ABC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "yAug_regJCE",
             "title": "Mulvaney backpedals on “quid pro quo,” Dallas tornado, Kurdish commander speaks out | ABC News",
             "secondDuration": 1620,
@@ -61,8 +55,14 @@
             "title": "Sen. Bernie Sanders returns to campaign trail after heart attack | ABC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "i0wnefBUy8w",
+            "title": "A young father is killed after a home invasion in Texas",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

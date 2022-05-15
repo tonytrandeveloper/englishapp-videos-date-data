@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QqDbTMPbhtY",
-            "title": "Biden: 'Vaccine Requirements Work'",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "NPYz8wDtetc",
             "title": "Live: Biden Delivers Remarks on Covid Vaccines | NBC News",
             "secondDuration": 2245,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Oct. 7",
             "secondDuration": 3015,
             "group": "group_7"
+        },
+        {
+            "videoId": "uGjBCcANPBA",
+            "title": "Kenya Welcomes Groundbreaking Malaria Vaccine After WHO Recommendation",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

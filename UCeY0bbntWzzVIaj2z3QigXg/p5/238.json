@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jwT-70TmSJQ",
-            "title": "NOW Tonight with Joshua Johnson - March 3 | NBC News NOW",
-            "secondDuration": 3601,
-            "group": "group_7"
-        },
-        {
             "videoId": "x3tR3y_T7RU",
             "title": "What An Attack On A Nuclear Power Plant Could Mean For Ukraine",
             "secondDuration": 395,
@@ -31,8 +25,14 @@
             "title": "Ukraine Crisis: Russia Captures Kherson",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8pXgJakkjM",
+            "title": "January 6 Committee Subpoenas Trump Jr. Fiancée Kimberly Guilfoyle",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

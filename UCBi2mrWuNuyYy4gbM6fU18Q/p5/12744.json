@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t23BTOZaU1M",
-            "title": "Bottom Line on Super Tuesday",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "1j7AcIeVZa4",
             "title": "Celebrity Chef in Court",
             "secondDuration": 299,
@@ -31,8 +25,14 @@
             "title": "The Conversation: The Lesson of Rejection",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "PErZJXI8viA",
+            "title": "Study Links ADHD to Pesticide",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

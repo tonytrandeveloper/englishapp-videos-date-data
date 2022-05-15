@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kUV1zLdV0GI",
-            "title": "Spike Lee on Oscars Outrage: 'I'm Going to the Knicks Game'",
-            "secondDuration": 404,
-            "group": "group_7"
-        },
-        {
             "videoId": "pFCLlf0aIUk",
             "title": "\"I Didn't Kill My Stepson\" Kyron Horman",
             "secondDuration": 249,
@@ -31,8 +25,14 @@
             "title": "\"Frozen\" Man Brought Back to Life",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "a_tC6Co0-3c",
+            "title": "Bernie Sanders Beating Hillary by Nearly 30 Points in NH Poll",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

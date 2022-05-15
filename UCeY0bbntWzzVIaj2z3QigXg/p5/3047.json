@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jPKeUhVvFtw",
-            "title": "Esports Fill Void As Pro Sports Cancelled Amid Coronavirus Outbreak | NBC News NOW",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "HaRRRbumknI",
             "title": "How A Stimulus Deal Could Help Small Businesses During Coronavirus Crisis | NBC News NOW",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "Sanders Calls For $2000 Payment For Every American Household | NBC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "OSFwl-TNPDM",
+            "title": "As Virus Spreads Across U.S., Demand For Testing Increases | NBC Nightly News",
+            "secondDuration": 737,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

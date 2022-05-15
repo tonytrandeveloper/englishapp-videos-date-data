@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1NCbXDSXlo4",
-            "title": "New Hampshire’s Heroin Crisis Takes Toll with Record Overdose Deaths | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "unSghA9cdUc",
             "title": "Trump Says Cruz ‘Stole’ His Iowa Win, Calls for Do-Over | NBC Nightly News",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "Brendan Dassey’s Attorneys Speak Out On Steven Avery Investigation | Dateline | NBC News",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "NF-6RRLM8ZU",
+            "title": "Tom Brokaw on Iowa’s Relationship With the Presidential Election Circus | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

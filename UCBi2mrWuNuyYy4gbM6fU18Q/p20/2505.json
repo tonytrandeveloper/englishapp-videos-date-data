@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W9grzkYM8JQ",
-            "title": "Twin Terror Raids Capture Top Al Qaeda Leader Anas Al-Libi",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0_lPD_tSJo",
             "title": "Katy Perry 'Roar' Contest Finalist: Girl With Down Syndrome Stars",
             "secondDuration": 369,
@@ -121,8 +115,14 @@
             "title": "Madeleine McCann: Missing Girl Could Still be Alive",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "6jVUc_4n6I4",
+            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

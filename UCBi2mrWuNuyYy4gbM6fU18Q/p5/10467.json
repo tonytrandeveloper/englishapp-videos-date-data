@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yBqPblDTnqU",
-            "title": "WEBCAST: Amanda Knox Returns to Court",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "MwoKTTDUET8",
             "title": "Caught on Tape: Newlyweds' Terrifying Close Encounter With Shark",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Karl Rove Sees Change in GOP on Gay Marriage",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "QO58whUlDY8",
+            "title": "Instant Index: Smart Chip Senses Oncoming Heart Attack",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

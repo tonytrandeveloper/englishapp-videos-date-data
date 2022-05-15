@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qVhDpQ8Ab-I",
-            "title": "How Obama Won: Election 2012 Breakdown",
-            "secondDuration": 355,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vy-q8qQgpd4",
             "title": "Has Apple Lost Its Shine?",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Nor'easter Hits Hurricane-Battered Northeast",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "4mPfWQr8ohY",
+            "title": "Mitt Romney Returns Home",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

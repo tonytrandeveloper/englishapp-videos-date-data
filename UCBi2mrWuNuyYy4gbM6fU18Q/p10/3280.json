@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u7Z-pEwaLX4",
-            "title": "Rare Neurological Disease Investigated in Washington",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "lc-LMZJhFyg",
             "title": "Toddler on Toy Car Rescued From Busy Roadway",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "Surfer Catches Wave With Shark",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "4I6_6qga4e4",
+            "title": "World Series Game 6 Highlights | Cubs Grand Slam Keep Hope Alive",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

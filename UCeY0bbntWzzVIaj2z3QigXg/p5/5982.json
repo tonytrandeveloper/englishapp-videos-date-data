@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JXmh5hPceoo",
-            "title": "Many States Refusing Donald Trump Admin. Request For Extensive Voter Data | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2Nktx18lSk",
             "title": "‘Morning Joe’ Hosts: White House Tried To Leverage Tabloid Story Against Us | NBC Nightly News",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Senator Ben Sasse Outlines Proposal To Unbundle Repeal And Replace Health Care Efforts | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "VAmECJDpVqs",
+            "title": "Video Shows Plane Crash On Southern California Freeway | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

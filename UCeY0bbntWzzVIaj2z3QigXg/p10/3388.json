@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DtF4nWu_NOg",
-            "title": "Doanld Trump Disses John Kasich in Wisconsin | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZCgmq0xXPWE",
             "title": "Hillary Clinton on Abortion: 'This is a Choice. It is Not a Mandate.' | Meet The Press | NBC News",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Leaked Audio Tapes Raise Pressure to Impeach Alabama Governor | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "1x0AggCyM-k",
+            "title": "Gunman Opens Fire at Virginia Bus Station, Multiple Victims Injured | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

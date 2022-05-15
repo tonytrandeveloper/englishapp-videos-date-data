@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ks51ZDSriBU",
-            "title": "Watch: Bear Browses Produce Aisle In Supermarket | NBC News NOW",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "rouHdnnuKp8",
             "title": "How Does Herd Immunity Work? | NBC News NOW",
             "secondDuration": 426,
@@ -31,8 +25,14 @@
             "title": "Chadwick Boseman’s Death Sheds New Light On Increased Colon Cancer Rates | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "CFR2ESADbk0",
+            "title": "FDA Chief Willing To Fast Track COVID-19 Vaccine Before Clinical Trials End | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

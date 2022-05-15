@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "878A9W8UN9Q",
-            "title": "Officer Survives After Shot 7 Times",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "j7yFZJC1uKE",
             "title": "London Appears to Be Keeping Calm and Carrying On Amid Brexit",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Brain Eating Amoeba Kills Young Girl",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "wUfLk2xgXtU",
+            "title": "Many Are Reeling After the U.K.'s Decision to Leave the European Union",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

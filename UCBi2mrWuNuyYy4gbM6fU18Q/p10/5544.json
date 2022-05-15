@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y0LkcyUCDqM",
-            "title": "Third Presidential Debate:  Fact vs. Fiction",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "YRBVoWLtGN0",
             "title": "Campaign 2012: The Final Showdown",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "President Obama Says His Bond With Israel is 'Unbreakable'",
             "secondDuration": 1128,
             "group": "group_7"
+        },
+        {
+            "videoId": "T4kBYYYvYfE",
+            "title": "Final Presidential Debate 2012: George Will - Debate Shows 'Remarkable Reversal' Between Parties",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

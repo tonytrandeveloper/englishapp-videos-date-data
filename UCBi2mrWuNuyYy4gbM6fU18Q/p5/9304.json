@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wnn5tWl0P1g",
-            "title": "WEBCAST: Anything Floats Race",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "HrLoa_RxQz4",
             "title": "SKINNY: Will Smith Strips Off Shirt to Dance in Vegas",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Gov. Rick Perry Fighting Back",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Wn4JzRnuc",
+            "title": "Gas Station Explodes After Botched Diesel Heist in Florida",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

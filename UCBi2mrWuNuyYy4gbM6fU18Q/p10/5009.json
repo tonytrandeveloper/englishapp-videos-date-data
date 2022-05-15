@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W9grzkYM8JQ",
-            "title": "Twin Terror Raids Capture Top Al Qaeda Leader Anas Al-Libi",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0_lPD_tSJo",
             "title": "Katy Perry 'Roar' Contest Finalist: Girl With Down Syndrome Stars",
             "secondDuration": 369,
@@ -61,8 +55,14 @@
             "title": "'This Week' Sunday Spotlight: Reddit Co-Founder Alexis Ohanian",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "yuCuuYUQFXM",
+            "title": "Charles Schumer 'This Week' Interview: New York Senator on Government Shutdown",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

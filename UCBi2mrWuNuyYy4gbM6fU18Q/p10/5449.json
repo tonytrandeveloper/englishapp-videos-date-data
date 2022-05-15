@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "txusHS9flTg",
-            "title": "Food Trends 2012: Inhaling Your Food Spares the Guilt",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "CKTpXxjjaxc",
             "title": "Valedictorian Murder Trial: Jeffrey Pyne's Girlfriend Takes the Stand",
             "secondDuration": 353,
@@ -61,8 +55,14 @@
             "title": "New York City Shooting: Man 'Executed' in Broad Daylight in NYC",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcnR2WEPw5c",
+            "title": "Nelson Mandela Health: South African Leader Treated for Lung Infection",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

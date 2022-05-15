@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "09_SYlebmP4",
-            "title": "Americans Feel Less Safe Than Pre-9/11 | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "yM_haJZ1EVQ",
             "title": "Ray Rice Video Ignites Domestic Violence Conversation | NBC News",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "City Mayors Making Progress | NBC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "rws8Jugtnns",
+            "title": "Suicide Can Be Prevented | Debunker | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

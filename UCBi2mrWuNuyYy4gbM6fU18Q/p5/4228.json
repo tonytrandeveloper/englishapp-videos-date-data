@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YonHpUi05Rw",
-            "title": "SPECIAL REPORT: Attorney General Barr delivers Mueller report's main conclusions",
-            "secondDuration": 2247,
-            "group": "group_7"
-        },
-        {
             "videoId": "tfawE_lxhO4",
             "title": "SPECIAL REPORT: President Trump responds to the AG's letter",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "'If it's released I want it all released': Rep. Jim Jordan on Mueller report",
             "secondDuration": 505,
             "group": "group_7"
+        },
+        {
+            "videoId": "sEM5geIsoo4",
+            "title": "Congress waiting on attorney general's summary of Mueller report",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

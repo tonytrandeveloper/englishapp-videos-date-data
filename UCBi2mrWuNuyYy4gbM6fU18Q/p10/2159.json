@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FgxP-FcEZ6s",
-            "title": "Police detained a man who tried to breach airport security in Orlando",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "EVbB_BDyv0k",
             "title": "95-year-old Celemtene Bates shares the importance of love as a foster grandparent",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Fatal shooting in Illinois, active shooter 'neutralized'",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "Obc00p2YxB0",
+            "title": "Trump declares national emergency in the Rose Garden",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

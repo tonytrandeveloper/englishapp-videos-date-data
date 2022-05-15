@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CKKNYaVTFWQ",
-            "title": "Keyshawn Johnson and Sharna Burgess Booted from 'Dancing With the Stars'",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGYk6PQ0CSk",
             "title": "Kenya Mall Attack: Kenyan Forces Take Control of Mall, Search for Terrorists",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Multi-Talented Athlete",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "axVkDYPQOsM",
+            "title": "Kenya Mall Attack: Terrorists Still Hold Hostages in Westgate Mall",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AxfdT7LXBD8",
-            "title": "An Early Black Friday! | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "3J1Z2P6XqTg",
             "title": "Mueller Probing Possible Deal Between Turks, Flynn During Presidential Transition | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Roy Moore Defiant Amid Growing Calls To Drop Out Of Senate Race | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "-U7WZuuYNTE",
+            "title": "Australia Same-Sex Marriage Vote Spawns Toxic Debate | NBC News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

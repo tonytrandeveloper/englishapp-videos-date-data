@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PMkZXqS9Iro",
-            "title": "9/11 | 15 Years Since the Sept. 11 Attacks",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "LCTqIlXOVF0",
             "title": "Hillary Clinton Pneumonia Diagnosis Revealed",
             "secondDuration": 324,
@@ -121,8 +115,14 @@
             "title": "Daring Rescue of a Woman, 2 Infants From Fiery Car Wreck [Dashcam Footage]",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQi5peFD7r8",
+            "title": "Trump Defends Putin Praise: 'If He Says Great Things About Me'",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

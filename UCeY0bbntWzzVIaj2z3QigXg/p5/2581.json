@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ao9k0ibmhtc",
-            "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2430,
-            "group": "group_7"
-        },
-        {
             "videoId": "HvGSBKjKRDE",
             "title": "Deaf Athlete Natasha Bacchus Speaks Out At Black Lives Matter Rally | NBC News NOW",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Gov. Cuomo Announces Reopening Of Indoor Dining In NYC Postponed Until 'It Is Safe' | NBC News NOW",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "pO8qdwggIdI",
+            "title": "Robin DiAngelo: Debunking The Most Common Myths White People Tell About Race | Think | NBC News",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

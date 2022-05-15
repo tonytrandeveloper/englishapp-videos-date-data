@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yftzZHHbtfg",
-            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "EfTtGNzWSkg",
             "title": "Trump to GOP: 'Be Quiet' or I’ll Lead Alone",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "OJ Simpson Criminal Trial: In a Minute | ABC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "0pherqXeWXA",
+            "title": "What Is An AR-15? A Look At the Rifle",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FLmwxIOge3k",
-            "title": "Chapel Hill Shooting Leaves 3 Muslims Dead | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Re510yGVQtM",
             "title": "Nelson Mandela Released From Prison | Flashback | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "ISIS Hostage Kayla Mueller Is Dead - Family Confirms | NBC Nightly News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "qF0fcxm8UFE",
+            "title": "RAW: Ukraine Soup Kitchen Hit By Rebel Rocket Fire | NBC News",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

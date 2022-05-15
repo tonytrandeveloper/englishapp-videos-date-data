@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0qoyjLtRRvo",
-            "title": "Three killed, Two Wounded in Wisconsin Shooting",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "FYnidBMSGoI",
             "title": "Farmers Worry John Deere Strike Could Impact Profits, Food Supply",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - October 20",
             "secondDuration": 3163,
             "group": "group_7"
+        },
+        {
+            "videoId": "hgoTefkXAm4",
+            "title": "San Francisco In-N-Out Shut Down For Violating Covid-19 Health Order",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

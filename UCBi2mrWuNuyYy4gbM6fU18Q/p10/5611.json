@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8h44CTEAetE",
-            "title": "Richard Gere and 'Arbitrage' Stars Discuss Film's Inspiration",
-            "secondDuration": 578,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTikNAPPnwY",
             "title": "Kato Kaelin New York Times: Former Witness Clarifies O.J. Simpson 'He Did It' Comment",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Solitary Confinement: A Controversial Punishment",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "YCnNtjRK6bM",
+            "title": "Solitary Confinement: Is It Torture?",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

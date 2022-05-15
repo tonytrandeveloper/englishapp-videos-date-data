@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VGCg_J1j_5M",
-            "title": "'SNL' Parodies Matthew McConaughey 'Lincoln' Ads",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "e0fO-NIqk38",
             "title": "SKINNY: Taylor Swift Album Drops Early",
             "secondDuration": 261,
@@ -121,8 +115,14 @@
             "title": "Police Search for Wedding Crasher Who Stole Gifts, Cash",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "6-cJdd8ISd8",
+            "title": "Teen Gunman Terrorizes Wash. State High School",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

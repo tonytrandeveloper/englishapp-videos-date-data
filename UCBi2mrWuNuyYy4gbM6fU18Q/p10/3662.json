@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HFTOozlje7o",
-            "title": "Severe Storms and Tornadoes Hit the Midwest",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTrcdaidF_s",
             "title": "Hillary Clinton Violated Email Policy, State Dept. Says",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Police Shoots Unarmed Man, Allegedly [BODY CAM VIDEO]",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBWkxf3afF4",
+            "title": "Passenger Meltdown Aboard Plane CAUGHT ON TAPE",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

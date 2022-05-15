@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IKtid8B1Yeo",
-            "title": "Community Theater Actor on Trial for Killing Two People",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCmRG1wGNsY",
             "title": "Marco Rubio Takes on Donald Trump",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "Oscar Isaac Discusses Role in 'Star Wars: The Force Awakens'",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5fd5rzSLi0",
+            "title": "Duggar Family Discusses Scandal in New TLC Special",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

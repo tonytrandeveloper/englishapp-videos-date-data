@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IOYNDw60T1Y",
-            "title": "Al and Tipper Gore Separate",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "VjgHYmhTNgs",
             "title": "Church Excommunicates Nun",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Arlington's 'Saddest Acre in America'",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "2yO5_qNU5ZM",
+            "title": "Amplified: David Cross and Indie Rock",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "si422_gFUDE",
-            "title": "Trump, Clinton Exchange Personal Blows as White House Race Heats Up",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "X-56VOJnLPU",
             "title": "Bill Cosby Ordered to Stand Trial on Charges of Sexual Assault",
             "secondDuration": 166,
@@ -301,8 +295,14 @@
             "title": "Mother Accused of Child Abuse for Letting Her Kid Drive a Golf Cart",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "CAvAdOgVFzM",
+            "title": "Famous Iowa Septuplets Graduate From High School",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

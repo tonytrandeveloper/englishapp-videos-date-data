@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XXp4tRJKwUg",
-            "title": "Chattanooga Bus Crash Survivors Speak Out",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Au0y_d4mgk4",
             "title": "Trump New York Times Interview: What Does it Tell Us?",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Trump Barraged by Conflict of Interest Questions",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "S20UZGfeQME",
+            "title": "Donald Trump Backs Away From Promise to Further Investigate Hillary Clinton",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

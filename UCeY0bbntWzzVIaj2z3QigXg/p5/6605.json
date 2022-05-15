@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OCD42Zy6djA",
-            "title": "How Does Zika Work? | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "bDYYscrjohk",
             "title": "Donald Trump Attacks Hillary Clinton Over Emails, Clinton Foundation | NBC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "As EpiPen’s Price Soared 400 Percent, Executive Pay Soared 600 Percent | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "ri5n1_sbfos",
+            "title": "EpiPen Prices Rocket Along With Drugmaker Executive's Pay | NBC news",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

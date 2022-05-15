@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "t6HeFPwMK2g",
-            "title": "Tea Party Express: 'Reid Is Our Number One Target'",
-            "secondDuration": 608,
-            "group": "group_7"
-        },
-        {
             "videoId": "jhAEmv-FkyA",
             "title": "Jake Tapper on Campaign Confrontations",
             "secondDuration": 169,
@@ -301,8 +295,14 @@
             "title": "Drop in Charitable Giving",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Id1x9VLFGEo",
+            "title": "'Gerrymandering' Director on 'Top Line'",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

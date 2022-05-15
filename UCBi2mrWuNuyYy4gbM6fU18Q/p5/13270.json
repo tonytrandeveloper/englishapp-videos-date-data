@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YY_a-qHuP14",
-            "title": "Indiana Prison Break: Inmates Escape",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "GTPf9qOvcao",
             "title": "Sotomayor's Philosophy: Fidelity to Law",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "M.J.'s Death: Family Fears Foul Play",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "oAXj-ico4Oo",
+            "title": "Jake Tapper on Obama's Road Blocks",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

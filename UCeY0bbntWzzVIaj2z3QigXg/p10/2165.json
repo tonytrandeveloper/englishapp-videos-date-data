@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "35FEmltWTOM",
-            "title": "The Voices Of The Shutdown: Over 800,000 Government Workers Going Without Pay | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "beBD_04CCY0",
             "title": "President Trump To Deliver Prime Time Speech To Build Support For Border Wall | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Full Mulvaney: Trump 'wants to solve immigration' | Meet The Press | NBC News",
             "secondDuration": 946,
             "group": "group_7"
+        },
+        {
+            "videoId": "mOIyMUeKLLI",
+            "title": "Inside the House GOP more closely mirrors Trump's mold | Meet The Press | NBC News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UdkT4ByYUSU",
-            "title": "'This Week': John Kerry Interview on Crimea, Ukraine",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "8J09jPsTXrY",
             "title": "'This Week': Obama's 'My Brother's Keeper'",
             "secondDuration": 535,
@@ -61,8 +55,14 @@
             "title": "Russian Forces Officially Enter the Crimea Region of Ukraine",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "xzXjgU-atu4",
+            "title": "Dangerous Weather Causes Damage on West Coast",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

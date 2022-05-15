@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FUsYRcaBNDM",
-            "title": "Scary incident on board a passenger plane right after takeoff from Melbourne, Australia",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "2M4Q1pSc_5o",
             "title": "Trump is promising a decision on the Paris climate agreement very soon",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Trump staffers brace for shakeup",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "W0AdngS_6Uw",
+            "title": "Ariana Grande to return to Manchester for concert",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

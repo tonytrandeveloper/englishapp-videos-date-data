@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Mz5YxqaKpnc",
-            "title": "This Work Will ‘Always Be Worth It’: Frontline Medical Staff Share Their Stories | NBC News NOW",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "lADlZyIzYtA",
             "title": "Murphy: Congress Must Fund State Aid To Avoid A 'National Disaster' | NBC News",
             "secondDuration": 108,
@@ -301,8 +295,14 @@
             "title": "Trump Delivers Remarks Celebrating America's Truckers | NBC News",
             "secondDuration": 1173,
             "group": "group_7"
+        },
+        {
+            "videoId": "W8NkiGerjKs",
+            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5199,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hTjvEFbSNYo",
-            "title": "Obama's Super Bowl Pick",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "qx8L-8gVwYo",
             "title": "Is Medical Radiation Safe?",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Teen Hopes to Sail Into Record Books",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3JCIosrxew",
+            "title": "U.S. Security Officials on Alert",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

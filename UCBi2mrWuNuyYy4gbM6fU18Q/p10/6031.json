@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-kgsZjqEnOk",
-            "title": "East Coast Braces for Hurricane Irene",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "UBclROgNGRw",
             "title": "From Happy to Homeless: Teens in Trouble",
             "secondDuration": 507,
@@ -61,8 +55,14 @@
             "title": "Irene Cometh: Emergencies Declared",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "9fO-IPs_7ZI",
+            "title": "Moammar Gadhafi 2011: Tripoli Captured by Opposition Forces, Secret World of Former Leader Exposed",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

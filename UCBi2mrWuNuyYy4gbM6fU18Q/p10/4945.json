@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JyMSB1kEYSY",
-            "title": "WEBCAST: Speed To Blame",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "VPdUiLWq1D8",
             "title": "The Greatest Play in Sports History?",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Black Boxes Found in Deadly NYC Train Derailment",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "5JDGO3AsTFs",
+            "title": "WEBCAST: Electronics Research Turns Into Giant Rubik's Cube",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YLM5y5KV1PQ",
-            "title": "President Donald Trump Is Being Investigated For Possible Obstruction Of Justice | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZr3C9juggQ",
             "title": "Inspiring America: To Honor His Father, Man Sews Flags For Military Caskets | NBC Nightly News",
             "secondDuration": 115,
@@ -301,8 +295,14 @@
             "title": "Jeff Sessions Details Reasons for His Recusal from Russia Investigation | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "FEUsYAVIgqU",
+            "title": "Jeff Sessions Denies Having Meeting with Russian Envoy at D.C. Hotel | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

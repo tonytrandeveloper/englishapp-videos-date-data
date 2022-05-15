@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oejZARORwHk",
-            "title": "Female Astronaut Christina Koch Wants To Inspire Next Generation Of Explorers | NBC News NOW",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "jjOKZtKnZso",
             "title": "Trump Celebrates Impeachment Acquittal With East Room Speech | NBC Nightly News",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Nancy Pelosi Holds Weekly Briefing After Trump's Acquittal | NBC News (Live Stream)",
             "secondDuration": 3095,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRZTlYNjmso",
+            "title": "COVID-19 Fears Turn Beijing’s Busiest Streets Into A Ghost Town | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IrYjyzYBY2M",
-            "title": "Judge releases New Mexico suspects arrested on child abuse charges",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "gB8nBDHE5N8",
             "title": "Trump responds to Omarosa, after she releases audio she says is of the President",
             "secondDuration": 491,
@@ -61,8 +55,14 @@
             "title": "Political candidate accused of doctoring her college degree",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACd8MqpR6us",
+            "title": "Counterprotesters overwhelm 'Unite the Right' rally",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

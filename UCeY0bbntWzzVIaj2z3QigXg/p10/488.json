@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ipy0mafpi_s",
-            "title": "NBC News NOW Full Broadcast – September 9, 2021",
-            "secondDuration": 3206,
-            "group": "group_7"
-        },
-        {
             "videoId": "I4wYsdk85O0",
             "title": "Reigniting The Love For Fine Dining in NYC Amid Covid Pandemic",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "Biden Announces New Vaccine Requirement For Federal Workers, Large Employers, Healthcare Providers",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "WvKCHtydVM4",
+            "title": "Biden Addresses Plan To Stop Delta Variant, Boost Covid Vaccinations",
+            "secondDuration": 1866,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

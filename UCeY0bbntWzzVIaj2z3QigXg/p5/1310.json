@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mCr105Yqw5w",
-            "title": "NBC Nightly News Broadcast (Full) - June 15th, 2021",
-            "secondDuration": 1097,
-            "group": "group_7"
-        },
-        {
             "videoId": "ta16ykCqquA",
             "title": "Sistine Chapel Ceiling On View In The U.S. In New Exhibition",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "The Vladimir Putin Interview: An NBC News exclusive",
             "secondDuration": 1236,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXoRRm-XC2g",
+            "title": "All 5 Candidates For This Local DC Election Are Behind Bars",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

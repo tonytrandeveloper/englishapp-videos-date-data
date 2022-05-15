@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0CALPZpU_mM",
-            "title": "House Democrats grill Acting Attorney General Matthew Whitaker",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "2KPY_OQsOsY",
             "title": "Suspect describes killing childhood friend in alleged confession tape",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "Murdered woman found bound in a suitcase identified",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "DOj5LvD2Tq4",
+            "title": "Virginia AG says he wore 'brown makeup' in college",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

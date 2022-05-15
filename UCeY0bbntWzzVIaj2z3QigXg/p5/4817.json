@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YWEGGq6LAbQ",
-            "title": "President Donald Trump Revokes Former CIA Director Brennan’s Security Clearance | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "IRVmDr5SVZs",
             "title": "Footage Captures Horror Of Latest Kabul Suicide Blast | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "The 19th Guardian Of The Pine: A Famous Chinese Tree And Its Bodyguard | NBC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "NeAygDojuns",
+            "title": "Exclusive: Twitter CEO Jack Dorsey On Alex Jones’ ‘Timeout’ | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

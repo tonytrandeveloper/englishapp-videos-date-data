@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LBDzG0i6MMo",
-            "title": "Perseverance Rover Finds Evidence Of Ancient River on Mars",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "fbqicNfH_dM",
             "title": "'We Have A Lot More To Do': Biden Discusses Covid Response And Vaccination Efforts",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "'The Most Profound Experience': William Shatner Speaks After Blue Origin Spaceflight",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "F5N2j4REwxg",
+            "title": "WATCH: Actor William Shatner Becomes Oldest Person To Travel To Space Aboard Blue Origin Rocket",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

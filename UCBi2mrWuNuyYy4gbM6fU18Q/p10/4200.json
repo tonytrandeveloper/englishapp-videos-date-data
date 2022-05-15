@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qbkVRTp1JxQ",
-            "title": "American BASE Jumper's Deadly Plummet Caught on Tape",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "B0feNOhYIcc",
             "title": "Donald Trump Heads to US-Mexico Border",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Ignites Firestorm Within Republican Party",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "SeBhxLlXEJk",
+            "title": "Servicemen Murder Investigation Reveals Acts of Heroism",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

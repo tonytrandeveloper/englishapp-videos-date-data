@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jenrB3tqz6g",
-            "title": "The Briefing Room: Iran, GM strike, Kavanaugh, Biden",
-            "secondDuration": 1760,
-            "group": "group_7"
-        },
-        {
             "videoId": "kF9dpwamajc",
             "title": "Pyrotechnics machine catches fire on field before NFL game | ABC News",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "10-year-old in a medically-induced coma after contracting rare brain-eating amoeba",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "JoDht7PCH3Y",
+            "title": "'I don't want to be the president for half of America': Sen. Amy Klobuchar",
+            "secondDuration": 524,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

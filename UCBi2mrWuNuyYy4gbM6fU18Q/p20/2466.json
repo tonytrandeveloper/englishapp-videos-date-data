@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lEvAWxKafus",
-            "title": "New Beatles Recordings to be Released on iTunes",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGpNRakQQZg",
             "title": "Expecting Mother Found Strangled in Hawaii, Father Missing",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "Secret to Scoring Big Holiday Shopping Deals Revealed",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "P2DBnarbzrA",
+            "title": "Revenge Porn Site Creator Could Face Prison",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

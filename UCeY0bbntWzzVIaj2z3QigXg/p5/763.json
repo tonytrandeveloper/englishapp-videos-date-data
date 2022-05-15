@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sSdg9mC07S8",
-            "title": "Andrea Mitchell Interviews Rep. Adam Schiff At Aspen Security Forum | NBC News",
-            "secondDuration": 2139,
-            "group": "group_7"
-        },
-        {
             "videoId": "_GLK_YSapRA",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1630,
@@ -31,8 +25,14 @@
             "title": "Netflix Subscribers Have The Option Of Playing Five Different Mobile Games",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "lmQDkiRgsS4",
+            "title": "This Morning’s Top Headlines – November 3 | Morning News NOW",
+            "secondDuration": 1486,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

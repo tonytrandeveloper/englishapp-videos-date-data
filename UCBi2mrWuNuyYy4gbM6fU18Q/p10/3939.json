@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FFGe-J_WdK8",
-            "title": "Donald Trump Stands By Decision to Skip GOP Debate",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqNPtOQK7zc",
             "title": "Duo Attempting to Sail From Norway to Maine Speak Out",
             "secondDuration": 214,
@@ -61,8 +55,14 @@
             "title": "High School Basketball Team Kicked Out of League for Being Too Good | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "i7-hwN7zzi0",
+            "title": "Donald Trump Plans to Skip GOP Debate",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

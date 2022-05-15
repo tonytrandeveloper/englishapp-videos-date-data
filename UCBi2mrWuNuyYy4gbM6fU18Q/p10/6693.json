@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "17nD4FowE10",
-            "title": "Connie Culp Talks About Her Future",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "6RLM-LtBYWk",
             "title": "Tapper on Obama's Supreme Court Pick",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Activists Fight Over How to Save Tigers",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rd_xgL1CorI",
+            "title": "Stuck on a Cliff? It Should Cost You",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

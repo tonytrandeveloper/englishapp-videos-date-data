@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zO5phXopxXk",
-            "title": "How Uterine Fibroids Disproportionally Affect Black Women",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "H88CT3FCTGU",
             "title": "NOW Tonight With Joshua Johnson - Feb. 21 | NBC News NOW",
             "secondDuration": 2709,
@@ -31,8 +25,14 @@
             "title": "Top Story With Tom Llamas - Feb. 21 | NBC News NOW",
             "secondDuration": 2933,
             "group": "group_7"
+        },
+        {
+            "videoId": "NmupXMIPjzQ",
+            "title": "Nightly News Full Broadcast - Feb. 21",
+            "secondDuration": 1268,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

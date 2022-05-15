@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eTxNwuyyigc",
-            "title": "Texas governor describes Harvey rescue efforts, damage",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "yyRtcKRM35s",
             "title": "DACA recipients ponder their future as Trump continues to review the program",
             "secondDuration": 478,
@@ -31,8 +25,14 @@
             "title": "Generous people answer the call for help on this Day of Giving",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "zCcQ06RNHHI",
+            "title": "Vice President Mike Pence meets with Harvey survivors",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

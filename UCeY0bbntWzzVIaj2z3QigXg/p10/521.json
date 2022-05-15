@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1CuuORYtX6c",
-            "title": "This Morning’s Top Headlines – August 24 | Morning News NOW",
-            "secondDuration": 1697,
-            "group": "group_7"
-        },
-        {
             "videoId": "SmBDcRhexvU",
             "title": "Hawaii Governor Asks Visitors Not To Travel To Islands As Covid Surges",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Rents Rising Across The U.S. As Employees Return To Offices",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "TyLt55k9e6g",
+            "title": "Relatives Concerned Over Rising Covid Cases At Nursing Homes",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

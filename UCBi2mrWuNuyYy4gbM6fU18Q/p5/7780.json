@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tko4ydQMoeA",
-            "title": "Dos Equis 'Most Interesting Man' in Bitter Legal Battle",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "h7zi0M5WQi0",
             "title": "'GMA' on Safari: Witnessing a Maasai Wedding",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "'The Muppets' Take Lara Spencer Backstage",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "UtnUYAIIjI0",
+            "title": "‘The Bachelor’ Season 20 Week 8 Recap  | ABC News",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

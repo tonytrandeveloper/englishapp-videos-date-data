@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2tShsclIARE",
-            "title": "Jeopardy! Host Alex Trebek Films Pancreatic Cancer Public Service Announcement | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "B0t7df09uSM",
             "title": "600+ Teachers Are Working A Second Shift At This South Carolina Factory | NBC Nightly News",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Military Leaders Discuss ISIS Raid That Killed Al-Baghdadi | NBC News",
             "secondDuration": 5717,
             "group": "group_7"
+        },
+        {
+            "videoId": "wnWrAjmHSDo",
+            "title": "President Donald Trump Presents The Medal Of Honor To Matthew Williams | NBC News",
+            "secondDuration": 1286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

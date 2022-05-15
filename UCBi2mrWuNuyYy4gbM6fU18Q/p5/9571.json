@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OMZj_heZm0Y",
-            "title": "Temps Plunge as Northeast Hit with Snow",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "F020UdOp_ow",
             "title": "Mother Arrested After High Speed Chase",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Unification Church Mass Wedding: From Strangers to 'I Do'",
             "secondDuration": 463,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhid_iWesMk",
+            "title": "Boston, Stronger Than Ever, One Year After Marathon Bombings",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

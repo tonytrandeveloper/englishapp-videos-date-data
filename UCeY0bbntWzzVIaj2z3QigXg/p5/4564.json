@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bLy1bVEz1JQ",
-            "title": "Watch Red Sox Fans Gather In Boston For Parade | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5gbqLX5LwU",
             "title": "Watch Live: President Donald Trump Attends The 'Our Pledge To America's Workers' Event | NBC News",
             "secondDuration": 1875,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Is The Rare Billionaire Who Can Speak To The Working Class | Think | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "WdesWzSF5o0",
+            "title": "Steve Kornacki Looks At Which Midterm House Races Are Heating Up | NBC News",
+            "secondDuration": 1386,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

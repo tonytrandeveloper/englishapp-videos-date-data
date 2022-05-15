@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "buJWNWAbFCM",
-            "title": "New World Health Organization Guideline Creates Mask Confusion",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "nxJ4flvngAY",
             "title": "April Documents Show Florida Condo Was In Need Of Further Repairs",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Infrastructure | NBC News",
             "secondDuration": 2045,
             "group": "group_7"
+        },
+        {
+            "videoId": "jrQQIw87D6Y",
+            "title": "$5.2 Billion Deal Passed In California To Help Tenants Pay Back Rent",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

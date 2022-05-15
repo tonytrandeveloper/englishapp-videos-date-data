@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bK2k8Yw-XWo",
-            "title": "Dog rescued by US Coast Guard",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "lxyiZZiTnBA",
             "title": "FBI scours for evidence in high-speed chase",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "French soldier salutes, Protests in Chile, and a koala recovers: This Week in Photos",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "Di1kNl6kjaI",
+            "title": "4 dead, including suspect in shooting at Florida naval base",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

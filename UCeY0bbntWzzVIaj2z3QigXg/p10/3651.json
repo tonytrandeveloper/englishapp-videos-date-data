@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jsjv0cx2LTw",
-            "title": "Jeremy Lin: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6xJpKl9bx4",
             "title": "Eugenio Siller: \"I have a dream that...\"",
             "secondDuration": 30,
@@ -61,8 +55,14 @@
             "title": "Andrea Mitchell: \"I have a dream that...\"",
             "secondDuration": 12,
             "group": "group_7"
+        },
+        {
+            "videoId": "k1Z6s42eIXg",
+            "title": "Willie O'Ree: \"I have a dream that...\"",
+            "secondDuration": 17,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

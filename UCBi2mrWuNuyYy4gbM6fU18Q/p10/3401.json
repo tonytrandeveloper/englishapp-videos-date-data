@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a3uYyNtEfRM",
-            "title": "Ryan Lochte DWTS Protesters Speak Out",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "jSpyTco2YAQ",
             "title": "Bride Hitchhikes to Her Own Wedding After Flat Tire",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "NY Fashion Week Behind the Scenes with Designer Christian Siriano",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "DvpLzvRw3BE",
+            "title": "Obama Comes Out Swinging for Hillary",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

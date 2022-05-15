@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qGslciqpMGs",
-            "title": "Small Texas Town Grieves After Deadly Church Shooting | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "HeGCoPpbWbw",
             "title": "President Donald Trump On Texas Shooting Victims: 'We Will Never Ever Leave Their Side' | NBC News",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Texas Church Shooting: At Least Two Dozen Parishioners Killed | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "GYFsprMpW6A",
+            "title": "At Least 25 People Killed In the Deadliest Shooting In A Place Of Worship | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

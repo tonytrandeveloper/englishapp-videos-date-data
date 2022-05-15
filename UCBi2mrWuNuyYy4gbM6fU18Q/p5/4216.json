@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tCVy2iFRl7o",
-            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "kjSx_s9e8YA",
             "title": "Major League Baseball fans celebrate the opening day of the season",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "FBI reviewing dropped Jussie Smollett charges",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRC6QFPXeuI",
+            "title": "How high school girls fought back after male classmates rated their appearances",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WGtiiMIBsFA",
-            "title": "Gingrich and Dean Talk Health Care",
-            "secondDuration": 844,
-            "group": "group_7"
-        },
-        {
             "videoId": "-OTGLHrGExw",
             "title": "Weekend Window to Cannon Beach, Oregon",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Swearing in Justice Sonia Sotomayor",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGhsCr9DdOk",
+            "title": "Swine Flu Vaccine Trials Begin",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

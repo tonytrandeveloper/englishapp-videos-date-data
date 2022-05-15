@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EO3au3o9yBI",
-            "title": "Briefing Room: Manafort sentence, US grounds jets, transgender policy, college admissions scam",
-            "secondDuration": 1494,
-            "group": "group_7"
-        },
-        {
             "videoId": "eVMR-pqbP3Y",
             "title": "President Trump announces US is grounding Boeing 737 Max 8s, 9s after crash | ABC News",
             "secondDuration": 711,
@@ -61,8 +55,14 @@
             "title": "College admissions scandal ensnares celebs, CEOs",
             "secondDuration": 554,
             "group": "group_7"
+        },
+        {
+            "videoId": "XQQdeAer_zo",
+            "title": "When the system is rigged: What to know the about college admissions process",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

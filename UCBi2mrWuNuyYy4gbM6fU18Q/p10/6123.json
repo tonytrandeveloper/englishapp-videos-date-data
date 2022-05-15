@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "60tmSGxrV9o",
-            "title": "Interview With Rep. Paul Ryan",
-            "secondDuration": 567,
-            "group": "group_7"
-        },
-        {
             "videoId": "CurdFR-WRLA",
             "title": "Tuscaloosa Alabama: Mayor Walt Maddox Speaks",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Royal Wedding: How Prince William and Kate Middleton Will Wed",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "7wXKHuO39bk",
+            "title": "Tuscaloosa, AL Mayor Walter Maddox Weighs In on Tornado (2011)",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

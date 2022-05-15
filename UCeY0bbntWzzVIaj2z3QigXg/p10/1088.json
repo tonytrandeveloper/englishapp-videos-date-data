@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hMCBtryWrdw",
-            "title": "Watch NBC News NOW Live - October 16",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "mQKzfJU23zo",
             "title": "Live: Trump Holds Campaign Rally In Georgia | NBC News",
             "secondDuration": 6316,
@@ -61,8 +55,14 @@
             "title": "Senate Democrats Hint At Consequences As GOP Moves To Confirm Judge Barrett | NBC News NOW",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJXjwwNLYcE",
+            "title": "Biden Delivers Remarks On Health Care | NBC News",
+            "secondDuration": 2055,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

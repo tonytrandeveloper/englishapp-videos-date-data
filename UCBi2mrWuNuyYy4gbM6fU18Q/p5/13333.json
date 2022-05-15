@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RCgNPEAXCUM",
-            "title": "Democracy's Stronghold in Lebanon",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "sqSJJ4j_XH4",
             "title": "Fenway's Home Field Advantage",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Amplified: St. Vincent",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "UVddj0X8N8U",
+            "title": "Colbert Takes His Act to Iraq",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

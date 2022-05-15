@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2QzLRBAAvh0",
-            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "keZC9S-lE0w",
             "title": "Trump impeachment hearing key moments: Day 1",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "Deadly winter storm affects more than 200M Americans",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "8knpPbEx8Ck",
+            "title": "Bill Taylor: ‘There is corruption in every country, including ours’ | ABC News",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

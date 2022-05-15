@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CrcT6lmeJjk",
-            "title": "Bank of America Employee Kidnapped, Bomb Strapped Around Her Neck",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "PqfNnVhGNdU",
             "title": "NFL Coach Faces Battle Off Field, Inspires Team to Victory",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Major Cities See Spike in Tech Theft",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "4CrdyKL4-Fk",
+            "title": "Fiscal Cliff Countdown: Behind the Scenes",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

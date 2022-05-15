@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UXRXi_MwRcc",
-            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "UO0hIASuAqY",
             "title": "Special Report: Deadly Earthquake Hits Central Mexico | NBC News",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "Iranian President Rouhani: If U.S. Leaves Iran Deal, No One Will Trust America Again | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "I-suHC4qa5E",
+            "title": "Hurricane Maria Pummels Caribbean Islands | NBC News",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

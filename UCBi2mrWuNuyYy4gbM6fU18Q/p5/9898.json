@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RL6DSQaMYiA",
-            "title": "Soldiers' Emotional Return Home",
-            "secondDuration": 533,
-            "group": "group_7"
-        },
-        {
             "videoId": "we7i5whcOJA",
             "title": "World News Now Celebrates Thanksgiving!",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Thanksgiving Storm Causes Flight Cancellations",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSo7i0oHLOU",
+            "title": "Thanksgiving Soup Kitchen Meals Prepared by Culinary Master",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

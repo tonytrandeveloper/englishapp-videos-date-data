@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QipI59Ohk34",
-            "title": "How music is helping wounded soldiers heal",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "hOhwI1v6iyI",
             "title": "The year ahead in politics",
             "secondDuration": 248,
@@ -61,8 +55,14 @@
             "title": "New Year fireworks illuminate the sky in the UK",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "KUsXb0w4iC8",
+            "title": "Stunning New Year light and fireworks show in France",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iowEJZ1ZvVw",
-            "title": "Mississippi Tornado Video 2013: State of Emergency Declared Across South",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "UUUMmdr1Au0",
             "title": "Pope Benedict XVI Resignation: Who Will Catholic Church Choose for Successor?",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: California Manhunt",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZ_Vf6EpfUs",
+            "title": "Family of Former Penn State Coach Speak Out",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

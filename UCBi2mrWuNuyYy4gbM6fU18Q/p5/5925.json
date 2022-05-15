@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WGfeM1kAvgg",
-            "title": "Congress, White House tries to strike budget deal as government shutdown looms",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "iW0lTO6NOoc",
             "title": "Another American detained in North Korea",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Young child falls out of the back of a church bus onto the highway",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "YLpIwsxjgHE",
+            "title": "At least 5 people injured and 2-mile oil spill as ferry crashes into port wall in the Canary Islands",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

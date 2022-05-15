@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G0VgYUazW20",
-            "title": "US women rout Thailand 13-0 at  FIFA World Cup",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "oZjYSzvBnK0",
             "title": "Donald Trump, Joe Biden hold dueling campaign stops",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "World War II veteran meets family of friend who died on D-Day",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "5LMWZ7RUqGs",
+            "title": "Red Sox icon David Ortiz takes first steps after shot in the back",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

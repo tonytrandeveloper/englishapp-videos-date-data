@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2QzLRBAAvh0",
-            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "keZC9S-lE0w",
             "title": "Trump impeachment hearing key moments: Day 1",
             "secondDuration": 230,
@@ -301,8 +295,14 @@
             "title": "13-year-old survivor of ambush in Mexico that killed 9 describes harrowing ordeal | Nightline",
             "secondDuration": 456,
             "group": "group_7"
+        },
+        {
+            "videoId": "FvHGns0JVX4",
+            "title": "Ex-Marine wanted after allegedly killing mother’s boyfriend",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

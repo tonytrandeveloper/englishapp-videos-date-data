@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QV3Z4MVD4qU",
-            "title": "Families Make Creative Backyard Getaways While Staying At Home | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Xj6fBEvjWk",
             "title": "Trump Hits The Golf Course For First Time During Pandemic | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Watch: Trump Visits Golf Course As States Loosen COVID-19 Restrictions | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "tERwwd2uTK0",
+            "title": "Cuomo Announces New Testing Sites, Encourages New Yorkers To Get Tested | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

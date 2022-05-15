@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wc1_KdggqBM",
-            "title": "McConnell: Deal Reached On Covid Relief Package | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "2BO8YxOOomg",
             "title": "California Hospitals Overwhelmed: “I’m Not Going To Sugarcoat This” | NBC Nightly News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "U.K. Prime Minister Tightens Restrictions Ahead of Christmas | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "QUmaw2kERdg",
+            "title": "Israeli PM Benjamin Netanyahu Receives Pfizer Vaccine | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

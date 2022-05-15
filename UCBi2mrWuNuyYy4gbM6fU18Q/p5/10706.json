@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-noC0YwzkrE",
-            "title": "Economic Recovery: Dow Jones Index 300 Points From All-Time High",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "xfq3rDJaBBc",
             "title": "Down Syndrome High School Student Makes Amazing Basketball Plays",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Snowboard Champ Shaun White Goes for X-Games Win",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "EVsVB3KO8sU",
+            "title": "Market Soars Following Strong Earnings Reports",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

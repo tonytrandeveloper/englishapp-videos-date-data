@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sSdg9mC07S8",
-            "title": "Andrea Mitchell Interviews Rep. Adam Schiff At Aspen Security Forum | NBC News",
-            "secondDuration": 2139,
-            "group": "group_7"
-        },
-        {
             "videoId": "_GLK_YSapRA",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1630,
@@ -61,8 +55,14 @@
             "title": "Supply Chains Threatened As Thieves Hit Cargo Shipments",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "lbsYAgu7MXo",
+            "title": "LIVE: Meet The Press 2021 Election Night Special Coverage | NBC News NOW",
+            "secondDuration": 11626,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

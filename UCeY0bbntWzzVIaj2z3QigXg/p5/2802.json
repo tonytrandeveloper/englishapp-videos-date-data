@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jRVEb65ZivU",
-            "title": "Into the Movement for Ahmaud Arbery | Into America Podcast – Ep. 14 | NBC News and MSNBC",
-            "secondDuration": 1190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ie4N79Xe-R8",
             "title": "Live: Michigan Gov. Whitmer Gives Coronavirus Update | NBC News",
             "secondDuration": 2876,
@@ -31,8 +25,14 @@
             "title": "Cuomo: Frontline Workers Tested For Antibodies At Lower Rates Than General Population | NBC News NOW",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWGNwFEUbFY",
+            "title": "Live: Supreme Court Hears Oral Arguments In Electoral College Cases | NBC News",
+            "secondDuration": 8390,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

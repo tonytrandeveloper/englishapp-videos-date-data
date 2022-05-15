@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XtE18pop7so",
-            "title": "Product Testing by Those Who Count",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gs2nPASVR98",
             "title": "Kim Kardashian's Big Hollywood Wedding",
             "secondDuration": 139,
@@ -301,8 +295,14 @@
             "title": "Texas Governor Rick Perry to Seek Rebulican Nomination in 2012 Presidential Race",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "X92CnnRLaG0",
+            "title": "Philadelphia Cracks Down on Flash Mobs",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

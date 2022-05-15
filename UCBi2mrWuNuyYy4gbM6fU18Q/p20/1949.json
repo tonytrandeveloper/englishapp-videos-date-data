@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KQxcngfAfmY",
-            "title": "Changing Credit Cards Could Save You Money",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "WaCAuVOcxKo",
             "title": "Justice Department Turns Up Heat on Apple to Unlock Phone of San Bernardino Shooter",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Fires Back at Pope Francis",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ul6dLCnKL4A",
+            "title": "'Ransomware': The New Cyber Threat Targeting Hospitals and Police Departments",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

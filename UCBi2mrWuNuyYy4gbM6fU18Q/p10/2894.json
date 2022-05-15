@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dlrZYisSuo0",
-            "title": "At least 1 dead after 'horrific terrorist attack' in London, says mayor",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "dvL_6OAenG4",
             "title": "Trump, lawyer give conflicting statements about Russia investigation",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Former US Ambassador to NATO Douglas Lute: NATO allies 'believe they can't rely on US leadership'",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZPMF1ElERbc",
+            "title": "Georgia special election for a US House seat heats up days before votes are cast",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

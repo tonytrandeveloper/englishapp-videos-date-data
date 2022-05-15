@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vphALS_8quk",
-            "title": "WEBCAST: Powerful Storm Slams California",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "A_6bW9ZnHrI",
             "title": "Supermodel Beverly Johnson Brings Shocking New Allegations Against Bill Cosby",
             "secondDuration": 379,
@@ -31,8 +25,14 @@
             "title": "Joan Rivers Living on Through Her Daughter Melissa",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfovgxJer5o",
+            "title": "Recovering From Hollywood Hack Attack",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

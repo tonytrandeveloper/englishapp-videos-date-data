@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xxttkwWBtiQ",
-            "title": "Michael Flynn pleads guilty to lying to FBI in special counsel's Russia probe | ABC News",
-            "secondDuration": 522,
-            "group": "group_7"
-        },
-        {
             "videoId": "JjFFAqXYGNg",
             "title": "General Michael Flynn pleads guilty to lying to FBI",
             "secondDuration": 246,
@@ -301,8 +295,14 @@
             "title": "Cyber Monday off to record pace",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "pfFxhIo2N3Y",
+            "title": "Michael Flynn's lawyer met with members of Special Counsel Robert Mueller's team",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

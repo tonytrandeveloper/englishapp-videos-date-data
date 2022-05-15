@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1k6brqjiFP8",
-            "title": "Cuomo Delivers Remarks On Final Day In Office | NBC News",
-            "secondDuration": 966,
-            "group": "group_7"
-        },
-        {
             "videoId": "eZGsihSofmQ",
             "title": "NBC News Poll: Biden’s Approval Rating Drops Amid Covid Surge, Afghanistan Withdrawal",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Tropical Storm Henri Blows Into New England",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "g8mdTziMd-A",
+            "title": "Biden Urges Governors in Tropical Storm Henri Path: Take Advance FEMA Assistance",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5_gV4wITGlc",
-            "title": "Obama, Biden Meet With Orlando Shooting Survivors and Victim's Families",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "btOdnGIzCF8",
             "title": "Senate To Vote on Disallowing Those on Terror Watch List From Purchasing Guns",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Boy Miraculously Survives Being Hit By Car",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "yftzZHHbtfg",
+            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

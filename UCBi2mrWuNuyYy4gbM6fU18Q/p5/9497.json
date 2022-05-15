@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BcifLnZbcI8",
-            "title": "Tracking MERS Virus",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "0X-0vznAwUQ",
             "title": "Accident in Boston's Fenway Park",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Fire Chief Wanted For Fiancée's Killing Arrested",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2E2kRfnIpI",
+            "title": "'Modern Family' Wedding Hopes to Deliver Huge Laughs",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

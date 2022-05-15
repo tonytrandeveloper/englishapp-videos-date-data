@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MN9aZyNK8gw",
-            "title": "10 injured in explosion on erupting Mount Etna volcano",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "5p1jPEz1zVo",
             "title": "Marvel’s ‘Iron Fist’ comics | LIVE Inside Look",
             "secondDuration": 1956,
@@ -31,8 +25,14 @@
             "title": "Police dashcam captures real-life game of cat and mouse",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "BdLrp50EEs4",
+            "title": "Summer's most expensive day to fly",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

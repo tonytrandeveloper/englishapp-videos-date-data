@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nWylOPO-qWY",
-            "title": "Wrong Way Driving Dangers",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "uDDWGLWFWZE",
             "title": "Clinton Team Joins Recount Effort",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz Full Interview on This Week",
             "secondDuration": 706,
             "group": "group_7"
+        },
+        {
+            "videoId": "nCxutLlnfPE",
+            "title": "Kellyanne Conway Full Interview: Mitt Romney 'Out of His Way' to Hurt Trump",
+            "secondDuration": 598,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

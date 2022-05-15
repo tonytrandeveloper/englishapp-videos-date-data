@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "czQgML4PVqQ",
-            "title": "It's On: Yankees vs. Phillies",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "coRY_DbTGWE",
             "title": "Somer Thompson Case: Profile of a Killer",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "The Disappearance of Melanie Melanson",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUbdmStzZ1s",
+            "title": "News 'Costumes'",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

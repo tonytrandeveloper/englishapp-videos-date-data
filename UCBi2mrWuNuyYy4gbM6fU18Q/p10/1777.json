@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zWB91CNB5Ug",
-            "title": "Trump demands identity of whistleblower",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "oFpkQgF_xyE",
             "title": "Briefing Room: Impeachment depositions transcripts, Trump loses tax return subpoena appeal",
             "secondDuration": 1652,
@@ -61,8 +55,14 @@
             "title": "Maria Butina speaks out after prison sentence l ABC News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "iu0cCE4Djlo",
+            "title": "McDonald's CEO forced out due to employee relationship l ABC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

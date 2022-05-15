@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S4mMkjwKHwk",
-            "title": "Neil Diamond says he's been diagnosed with Parkinson's disease",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "lZkoc96igJo",
             "title": "White House press briefing on shutdown, DACA immigration negotiations| ABC News",
             "secondDuration": 3832,
@@ -31,8 +25,14 @@
             "title": "Cities across US face heavy rain, flooding threats",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "jdSUea1CEPc",
+            "title": "Oscar nominations 2018 announced for the 90th Academy Awards | ABC News",
+            "secondDuration": 4572,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

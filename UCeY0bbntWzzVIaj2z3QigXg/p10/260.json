@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3Wl6XqOnTuA",
-            "title": "Mass Flight Cancellations Amid Major Winter Storm",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "M7dk2N7UjQk",
             "title": "FDA Authorizes Pfizer’s Booster For Children Ages 12 To 15",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "New York Attorney General Subpoenas Donald Trump Jr., Ivanka Trump",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "HKqx3yWXNEI",
+            "title": "Morning News NOW Full Broadcast - Jan. 3",
+            "secondDuration": 2811,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

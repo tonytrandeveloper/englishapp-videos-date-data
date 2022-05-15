@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ivIX17Pbqjs",
-            "title": "National Guard Members Depart D.C. After Deployment At The Capitol",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "8bLssS8ONag",
             "title": "How A California Community Could Help Address Housing Crisis",
             "secondDuration": 281,
@@ -61,8 +55,14 @@
             "title": "Concern Over Covid Vaccine In Adolescents",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "LcT0aTcziyk",
+            "title": "Students Open Up About A School Year Filled With Stress",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

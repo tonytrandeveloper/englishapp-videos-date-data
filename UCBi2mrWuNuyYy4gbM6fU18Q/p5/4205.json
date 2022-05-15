@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3Vf7IdPnih8",
-            "title": "Celine Dion says she feels 'stronger, more beautiful' and 'more grounded' than ever",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "GemXBak_6HE",
             "title": "Chaos, complexities asylum seekers, border agents face in possible US border shutdown",
             "secondDuration": 476,
@@ -31,8 +25,14 @@
             "title": "Dog survives 2 days in Virginia apartment building that was gutted by fire",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1qLKcjW5yc",
+            "title": "Chemical plant blast leaves 1 dead, Houston communities on edge",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

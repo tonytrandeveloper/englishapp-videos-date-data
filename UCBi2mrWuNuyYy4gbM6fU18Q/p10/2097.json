@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j2lqe3K1klk",
-            "title": "Mother says school 'failed' to protect her daughter",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "xIhALK-Ci9k",
             "title": "Couple trapped in car by downed power line speak out",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Federal officials join in investigation of fires at black churches",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "w3_OXFiAQj8",
+            "title": "New details revealed about how police found missing Louisiana teen in Colorado",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "18-3LNhZGWI",
-            "title": "Shoppers wait in lines for Black Friday deals",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "ap5Ww551mDI",
             "title": "Search for missing submarine concluded",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Parade security tighter than ever in NYC",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "6fTXY0N355Y",
+            "title": "A soldier escapes from North Korean to South Korea",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

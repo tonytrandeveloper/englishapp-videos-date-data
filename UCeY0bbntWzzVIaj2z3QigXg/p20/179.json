@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4OX8CB_GL7Y",
-            "title": "Video Shows U.S. Coast Guard Rescuing People From Washington Floodwaters",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "RbUdSAR3QJU",
             "title": "Rittenhouse Judge Allows Jury To Consider Lesser Charges",
             "secondDuration": 213,
@@ -121,8 +115,14 @@
             "title": "Biden Delivers Remarks On Bipartisan Infrastructure Plan | NBC News",
             "secondDuration": 2710,
             "group": "group_7"
+        },
+        {
+            "videoId": "7JZutPdmDn0",
+            "title": "White House Holds Press Briefing: Nov. 15 | NBC News",
+            "secondDuration": 2766,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

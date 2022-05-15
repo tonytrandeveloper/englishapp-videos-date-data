@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R3es2HUMVzI",
-            "title": "Maria Shriver: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "6zhCKGA-HfM",
             "title": "Richard Engel: \"I have a dream that...\"",
             "secondDuration": 17,
@@ -61,8 +55,14 @@
             "title": "Erica Hill: \"I have a dream that...\"",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "iT77sWW8S0M",
+            "title": "Al Roker: \"I have a dream that...\"",
+            "secondDuration": 12,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iapGMTvOJzM",
-            "title": "Countdown To Summer Olympics: Hear From Members Of Team USA | Nightly News: Kids Edition",
-            "secondDuration": 1477,
-            "group": "group_7"
-        },
-        {
             "videoId": "3f4PxxUgTm8",
             "title": "Elite Members Of U.S. Military Community Share Misinformation In Secret Facebook Groups | NBC News",
             "secondDuration": 305,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - April 16 | NBC News NOW",
             "secondDuration": 3196,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCqYfYTTsfQ",
+            "title": "‘Good To Know’ Headlines: Instagram Likes & Vaccination Card Safety | NBC News NOW",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

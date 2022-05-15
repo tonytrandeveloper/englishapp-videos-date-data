@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cy_TM0AZ2xQ",
-            "title": "Rioters Storm Stairs Of Capitol As Congress Debates Electoral College Objections | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "D16_LpAcanc",
             "title": "McConnell Speaks Against Republicans Objecting To Electoral College Vote Count | NBC News",
             "secondDuration": 529,
@@ -121,8 +115,14 @@
             "title": "Trump Pressures Pence Ahead Of Electoral College Certification | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "c9d0vHQD9l8",
+            "title": "No Officers Charged In Police Shooting Of Jacob Blake | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

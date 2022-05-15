@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pl7t52hMYwc",
-            "title": "Japan Tsunami Anniversary: 3 Years Later",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "impYeyuWa7A",
             "title": "Colorado Collects on Pot Sales",
             "secondDuration": 49,
@@ -121,8 +115,14 @@
             "title": "'This Week': Cold War Echoes",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTo-KsiZuF8",
+            "title": "Nicole Kidman's New Role as Grace Kelly",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

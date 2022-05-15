@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "71RmPJBgIlw",
-            "title": "Bill Weir's Second Opinion",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "uvEoqiL5Mn0",
             "title": "Barnes and Noble Security Breach; Customer Credit Card Info Stolen by Cyber Criminals",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney, President Obama Fight for Women's Votes in Election Battleground States",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJWbKmWjXR8",
+            "title": "Harvard Scientist Claims He's Been to Heaven; Debate's Scientific Theories of Heaven",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

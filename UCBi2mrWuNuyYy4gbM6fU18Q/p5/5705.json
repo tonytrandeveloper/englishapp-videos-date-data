@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tAM6e1LcD30",
-            "title": "Attorney General Jeff Sessions says he will stay in his job",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "tpQfsKcY7Us",
             "title": "Attorney for family of Australian woman killed by police calls for justice",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "OJ Simpson granted parole after serving almost 9 years in prison: Part 1",
             "secondDuration": 637,
             "group": "group_7"
+        },
+        {
+            "videoId": "x0Wsf0Kwb3o",
+            "title": "What OJ Simpson accomplices say happened after Vegas robbery: Part 2",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

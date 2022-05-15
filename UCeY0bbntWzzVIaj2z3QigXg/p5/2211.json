@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vsgQXYcTFDw",
-            "title": "Officials Announce Charges Against ISIS Terrorists Known As 'The Beatles' | NBC News NOW",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "rnyRnXzmrCw",
             "title": "Father Killed By Covid Described As A Man Of Faith, Music And Family | NBC News",
             "secondDuration": 305,
@@ -31,8 +25,14 @@
             "title": "Families Of Americans Killed By ISIS Call For Terrorists To Be Tried In U.S. | NBC News NOW",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "di_D9ftsRnY",
+            "title": "Dr. Fauci Disputes Trump’s False Claim That Covid-19 Is As Deadly As Flu | NBC News NOW",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

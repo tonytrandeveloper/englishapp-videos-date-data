@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "W6VKEO2DUaQ",
-            "title": "Oscars 2017: Top contenders to Win",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "eTOTeeckBbE",
             "title": "Caitlyn Jenner to Trump: Transgender Bathroom Guidance Reversal is 'disaster'",
             "secondDuration": 75,
@@ -301,8 +295,14 @@
             "title": "Jimmy Kimmel Interview on Oscars 2017 Prep",
             "secondDuration": 458,
             "group": "group_7"
+        },
+        {
+            "videoId": "uv_eBDbDB48",
+            "title": "Trump administration's new illegal immigrants guidelines issued",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SM4EBNKErYA",
-            "title": "Notre Dame's spire collapses amid raging fire | ABC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "9wuE7AaJhp8",
             "title": "Fire breaks out at Notre Dame cathedral in Paris | ABC News",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "Mayors across the country are challenging Trump's sanctuary city proposal",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgriiB9oJbM",
+            "title": "Video shows officer shoot suspect during struggle",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

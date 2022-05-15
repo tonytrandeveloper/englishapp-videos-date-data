@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_8EBbVUz4cU",
-            "title": "Hurricane Harvey is the first natural disaster test for Trump",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "nj1Zhfs6pTg",
             "title": "'10% Happier': Mario Batali | ABC News",
             "secondDuration": 2439,
@@ -31,8 +25,14 @@
             "title": "Backlash over Trump's pardon of Arpaio as Harvey hit Texas",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "EVl1VxNp_4Y",
+            "title": "About 1,000 people involved in search and rescue efforts",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EhmU9kuX4-A",
-            "title": "Goldman and Greed",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "sYwEzfhmLRY",
             "title": "The Long Journey Home",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Rosie O'Donnell Opens Up",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "XHMYuUM4rAc",
+            "title": "Heating Up the 'Dance' Floor",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

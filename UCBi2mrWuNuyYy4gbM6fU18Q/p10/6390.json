@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hVa-FTOg_V8",
-            "title": "Escaping Death in Tornado Zone",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXLhsuhpXfE",
             "title": "Crude Oil Contaminates Gulf of Mexico",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Amy Grant: Baby, Baby",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2zQAnIpdvs",
+            "title": "Woman Falsely Accuses Man of Rape",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i2655G3calA",
-            "title": "These Are Rose McGowan's #Metoo Worries | NBC News",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "DmVS4JK035o",
             "title": "Special Report: Dow Jones Opens Down After Record Loss | NBC News",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Dow Has Worst One-Day Drop Of All Time As New Fed Chair Sworn In | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "a9fxDfa4wms",
+            "title": "President Donald Trump Quiet As Dow Plunges | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

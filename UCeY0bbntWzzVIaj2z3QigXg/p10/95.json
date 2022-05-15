@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JkuIZpr1imw",
-            "title": "Chicago Public Schools To Drop Classroom Mask Mandate",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "3T2NP0ZeQrQ",
             "title": "Kharkiv Residential Building Destroyed In Airstrike, Ukrainian Emergency Services Say",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Ukrainian Refugees Begin To Spread Into Neighboring Countries",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "8iNVNVeWLeE",
+            "title": "Chronicling The War",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

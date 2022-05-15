@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UOVTDQX_1qY",
-            "title": "Meet The Press Broadcast (Full) - October 18th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2857,
-            "group": "group_7"
-        },
-        {
             "videoId": "44Fpb0XwOtY",
             "title": "Biden Delivers Remarks In North Carolina | NBC News",
             "secondDuration": 1091,
@@ -61,8 +55,14 @@
             "title": "President Trump To Visit 5 States Over 3 Days | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "hMCBtryWrdw",
+            "title": "Watch NBC News NOW Live - October 16",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

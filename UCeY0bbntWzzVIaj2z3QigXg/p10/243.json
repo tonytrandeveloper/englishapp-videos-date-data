@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L0t-qzm-Z8s",
-            "title": "Chicago Teachers Return To The Classroom After Four-Day Standoff",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "kPqBYIFpyqI",
             "title": "Mindfulness, Virtual Reality And At-Home Fitness Emerge As Top Wellness Trends For 2022",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas – Jan. 10 | NBC News NOW",
             "secondDuration": 2759,
             "group": "group_7"
+        },
+        {
+            "videoId": "edX_qqV9Fl8",
+            "title": "First Successful Transplant Of Pig Heart To Human Patient Performed In Maryland",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

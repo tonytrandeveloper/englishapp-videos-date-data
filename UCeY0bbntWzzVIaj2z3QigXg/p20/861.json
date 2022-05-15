@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "707dZB-nVjU",
-            "title": "Watch: Trump holds listening session on vaping",
-            "secondDuration": 3462,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZTOy70m-28",
             "title": "Sacha Baron Cohen Slams Social Media Companies: 'Your Product Is Defective' | NBC News",
             "secondDuration": 220,
@@ -121,8 +115,14 @@
             "title": "Watch Live: Fiona Hill, David Holmes Testify At Trump Impeachment Hearing | NBC News",
             "secondDuration": 26807,
             "group": "group_7"
+        },
+        {
+            "videoId": "JkmIaWOt61o",
+            "title": "Watch Live: Trump Presents Arts And Humanities Awards At White House | NBC News",
+            "secondDuration": 2947,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q610giI0sHg",
-            "title": "Mila Kunis on \"That 70's Show\"",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "fUJLx7lb_HI",
             "title": "Mila Kunis on Natalie Portman, Black Swan, & Growing Up",
             "secondDuration": 561,
@@ -121,8 +115,14 @@
             "title": "Do Not Track: The Online Version of 'Do Not Call'",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "5R10m9SduOY",
+            "title": "Cardin: Willing to Listen for 'Compromise'",
+            "secondDuration": 306,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

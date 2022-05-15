@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wxkjcmPullc",
-            "title": "On the Trail With Sarah Palin",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2cUmMScYXg",
             "title": "Gold Fever",
             "secondDuration": 400,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper Travels With Obama",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSAnSqq8VJM",
+            "title": "Giving Thanks This Thanksgiving",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

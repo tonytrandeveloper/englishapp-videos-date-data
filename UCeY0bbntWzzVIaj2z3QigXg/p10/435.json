@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pd-e7pR_IIk",
-            "title": "Top Story with Tom Llamas Full Broadcast - October 7th  | NBC News NOW",
-            "secondDuration": 3026,
-            "group": "group_7"
-        },
-        {
             "videoId": "8tONvzvggd8",
             "title": "Nightly News Full Broadcast - October 7th",
             "secondDuration": 1283,
@@ -61,8 +55,14 @@
             "title": "Pastel QAnon: How The Far-Right Conspiracy Group Is Creeping Into Wellness Community",
             "secondDuration": 323,
             "group": "group_7"
+        },
+        {
+            "videoId": "QqDbTMPbhtY",
+            "title": "Biden: 'Vaccine Requirements Work'",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

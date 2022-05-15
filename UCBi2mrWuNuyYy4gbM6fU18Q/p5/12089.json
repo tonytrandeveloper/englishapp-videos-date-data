@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mftAoGLIG0E",
-            "title": "Interview with Gov. Martin O'Malley and Sen. Jeff Sessions",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "DbN5tyZ5IvE",
             "title": "Interview with Gloria Steinem",
             "secondDuration": 439,
@@ -31,8 +25,14 @@
             "title": "Children of Hoarders",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "NzYClCRYgTM",
+            "title": "Counterfeit Cops on the Beat",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

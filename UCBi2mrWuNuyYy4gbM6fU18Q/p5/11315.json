@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B0z9BBHwH9I",
-            "title": "Ann Romney's Republican National Convention Speech",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "DjNXxus2oBU",
             "title": "Hurricane Isaac Hits New Orleans: A Night in the Ninth Ward",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Celebrity Trainer, Tracy Anderson, Loses Baby Weight in Six Weeks",
             "secondDuration": 382,
             "group": "group_7"
+        },
+        {
+            "videoId": "7WQ1dZx8Uqk",
+            "title": "Romney's Nomination Marred By Low Popularity Poll",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

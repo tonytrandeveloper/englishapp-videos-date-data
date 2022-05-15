@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zjASWKjv3Zc",
-            "title": "'No War' Protester Interrupts Russia’s Main Evening News Broadcast",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "1hlCJgRjCV8",
             "title": "Residents Of Kherson, Ukraine, Rally Against Russian Occupation",
             "secondDuration": 306,
@@ -31,8 +25,14 @@
             "title": "WNBA Star Brittney Griner Remains In Russian Custody",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "Am9MVskAVQk",
+            "title": "Deadly Russian Bombardment Strikes Kyiv Residential Building",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

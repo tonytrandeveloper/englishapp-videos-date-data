@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fSSfPwb_Spg",
-            "title": "Teary Eyed Sen. Arlen Specter Votes in Primary",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "yUCVY3IVFcg",
             "title": "Washington Post's Scott Wilson on 'Top Line'",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "The Conversation: The Lesson of Rejection",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "PErZJXI8viA",
+            "title": "Study Links ADHD to Pesticide",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

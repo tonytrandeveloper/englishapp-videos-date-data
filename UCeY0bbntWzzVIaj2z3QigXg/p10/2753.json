@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HpmTr9OQ6V4",
-            "title": "Football After The Flood: High School Vows To Fight After Hurricane Harvey | NBC News",
-            "secondDuration": 403,
-            "group": "group_7"
-        },
-        {
             "videoId": "8xnwYN84PKE",
             "title": "Bitcoin Price Just Surpassed $15,000 | Mach | NBC News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Firefighter Loses Family Home To California Wildfires | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "kkyZFIjgo50",
+            "title": "On The Front Lines Of The California Wildfire | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

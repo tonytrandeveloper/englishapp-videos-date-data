@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "99qXcPCVbr0",
-            "title": "Suspect In Synagogue Shooting Made Anti-Semitic Remarks | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "bz1vM41_aTY",
             "title": "Shooter In Custody After Pittsburgh Synagogue Shooting | NBC News",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Watch Live: President Trump campaigns at rally in North Carolina",
             "secondDuration": 4649,
             "group": "group_7"
+        },
+        {
+            "videoId": "hkOkC253mTs",
+            "title": "New Details In Murder Of University Of Utah Student | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aaQ6fSJ3XD4",
-            "title": "Lester Holt On America’s ‘Perfect Storm Of Unmitigated Pain’ | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "MhWlXGJwlPM",
             "title": "Protests Leave Little Space For Social Distancing As Coronavirus Rages On | NBC Nightly News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Full Ellison: Federal Government Has 'Tried To Walk Back' Efforts To Resolve Systemic Police Abuse",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "A12c4Rk5gFE",
+            "title": "Full Panel: Anger Erupts Over Death Of George Floyd | Meet The Press | NBC News",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

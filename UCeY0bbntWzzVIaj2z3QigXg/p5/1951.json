@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xsecsyEsIg0",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2527,
-            "group": "group_7"
-        },
-        {
             "videoId": "7mhReEeA0U0",
             "title": "European Residents Receive Covid Vaccine | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Planet 2020: Record Shattering Hurricane Season | NBC News NOW",
             "secondDuration": 1413,
             "group": "group_7"
+        },
+        {
+            "videoId": "xkpsJjkuU5c",
+            "title": "'Stay On Your Feet Stay Alive:' Nashville Police Share Christmas Explosion Experience | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RnrtqO-n2P4",
-            "title": "Watch: SpaceX Falcon 9 Rocket Launches 60 Satellites Into Orbit | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BT356PaHwkY",
             "title": "Construction On New Hospitals To Treat Virus Patients Continues Around The Clock | NBC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Nike Sells Out Of Kobe Bryant Products After Tragic Death | NBC News NOW",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xz0kvwC1h10",
+            "title": "An Inside Look At This Year’s Increased Super Bowl Security | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

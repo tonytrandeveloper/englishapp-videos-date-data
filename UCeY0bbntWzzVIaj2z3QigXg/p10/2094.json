@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HDQBPDGK31Y",
-            "title": "GOP Rep. Mark Meadows Attempts To Delay Michael Cohen Hearing | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "IIGdubxIjsI",
             "title": "President Donald Trump, Kim Jong Un Hold Meeting To Start Vietnam Summit | NBC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Rep. Matt Gaetz On Tweet To Michael Cohen: 'This Is Witness Testing' | NBC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGOOmWjyuKo",
+            "title": "Michael Cohen: I'm Going To 'Tell The American People My Story' | NBC News",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

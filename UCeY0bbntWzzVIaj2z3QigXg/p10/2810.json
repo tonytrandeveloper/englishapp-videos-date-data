@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jKmoj5lX6F4",
-            "title": "Lower Manhattan Attack Witness Emily Long: All I Saw Was Chaos | NBC News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xz8N5ZwZHXY",
             "title": "Facebook, Twitter Officials Testify at Senate Hearing on Russia (Full) | NBC News",
             "secondDuration": 11572,
@@ -61,8 +55,14 @@
             "title": "Morgan Stanley's Carla Harris: What You Need To Know To Successfully Negotiate At Work | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "JQjlgeQi7p8",
+            "title": "WH Dissociates From George Papadopoulos: His Lies Are 'On Him, Not On The Campaign' | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CPMoN0OfceM",
-            "title": "Tunnel Collapse:  Japan",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "tZdAVQ7o2K8",
             "title": "NFL Tragedy:  Moment of Silence",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "'This Week' Viewer Question: Which President Would George Stephanopoulos Want to Interview?",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BNMvN49lVU",
+            "title": "Political Optimism in America's Government: 'This Week' Roundtable Discussion",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

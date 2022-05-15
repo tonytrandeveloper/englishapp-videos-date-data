@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ItxvytiA6RE",
-            "title": "Travel Chaos As Countries Prepare For Omicron Variant",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nl98FxsJ82o",
             "title": "U.S. Braces For Omicron Variant With New Travel Restrictions",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "On The Front Lines With Hotshot Seams Fighting Wildfires In The West",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "zeJlp_6tfdc",
+            "title": "Dr. Fauci Warns Americans To Take New Omicron Variant Seriously",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

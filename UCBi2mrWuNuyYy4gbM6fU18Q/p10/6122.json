@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zU_wQD3oX6g",
-            "title": "Osama Bin Laden Dead in Abbottabad, Pakistan: What Took So Long?",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ge0nUfUzR6k",
             "title": "Osama Bin Laden Dead 2011: Ground Zero Crowds Cheer All Night",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Tuscaloosa, AL: Tornadoes Leave Many Children Homeless",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "60tmSGxrV9o",
+            "title": "Interview With Rep. Paul Ryan",
+            "secondDuration": 567,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

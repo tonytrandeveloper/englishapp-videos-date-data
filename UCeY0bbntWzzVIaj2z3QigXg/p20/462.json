@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7ZcGZqpL7cw",
-            "title": "GOP Leadership Facing Criticism Over Rep. Marjorie Taylor Greene | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "uzVAK6Imf2k",
             "title": "What We Know About Biden’s Planned Task Force To Reunite Migrant Families | NBC Nightly News",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "Biden Signs Executive Orders On Climate Change | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBsLPUIZkFY",
+            "title": "All U.S. States Report Covid Vaccine Shortages | NBC Nightly News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

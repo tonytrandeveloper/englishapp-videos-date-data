@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Dfyv5YyRqs0",
-            "title": "Fireworks Explosion Leaves At Least 29 Dead, 72 Injured",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xcUqKwFePI",
             "title": "Two US Neurosurgeons Perform Brain Surgeries on Children in Peru",
             "secondDuration": 583,
@@ -61,8 +55,14 @@
             "title": "Berlin Attack: Warning Signs and Missed Signals",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "McGCZVT2I0g",
+            "title": "Good Samaritans Rescue Man Trapped in Burning Car",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

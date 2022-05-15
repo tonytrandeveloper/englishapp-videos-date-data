@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BLD_AGMsibs",
-            "title": "Benton Harbor, Michigan Faces Water Crisis Amid Unsafe Lead Levels",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZKe-6l983pI",
             "title": "Justice Department Asks Appeals Court To Suspend Texas Abortion Law",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Conversations Begin About Creating A National Memorial To Covid Victims",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "snuDz1kT-Og",
+            "title": "Supreme Court Considers Whether Kentucky AG Can Defend Abortion Law",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

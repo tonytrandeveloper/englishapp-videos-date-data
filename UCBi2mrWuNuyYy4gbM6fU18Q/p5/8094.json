@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PdszHXn_fHY",
-            "title": "Paris Attacks: Dozens Dead, Hostage Situation Reported",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "QHOKeO_d6oc",
             "title": "Paris Shootings | Explosions, Hostages Reported in Paris, France",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Lucid Dream Secrets | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 575,
             "group": "group_7"
+        },
+        {
+            "videoId": "xS3jady8bIc",
+            "title": "President Obama Doesn't Think ISIS Is 'Gaining Strength'",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

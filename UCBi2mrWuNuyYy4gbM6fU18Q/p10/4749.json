@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BcifLnZbcI8",
-            "title": "Tracking MERS Virus",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "0X-0vznAwUQ",
             "title": "Accident in Boston's Fenway Park",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Gator Invades Family's Backyard Pool",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "VZWbdLf338M",
+            "title": "Two Meals a Day Could Help Diabetics Control Blood Sugar",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

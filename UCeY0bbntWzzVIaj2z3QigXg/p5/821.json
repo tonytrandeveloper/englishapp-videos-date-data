@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hgoTefkXAm4",
-            "title": "San Francisco In-N-Out Shut Down For Violating Covid-19 Health Order",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "WXi5bm41-2g",
             "title": "Boy Steals Scene At pope's Audience By Wanting Francis' Skullcap",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 2265,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGxEz6A0ts4",
+            "title": "National Guard Deployed To Help With Covid Testing In Massachusetts",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

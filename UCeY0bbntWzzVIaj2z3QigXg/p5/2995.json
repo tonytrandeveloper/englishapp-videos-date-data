@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fa_NLZwWOyM",
-            "title": "Empire State Building Honors COVID-19 First Responders, Medics | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "WG3lS1GRQXU",
             "title": "Evacuated Peace Corps Volunteers Face Uncertainty Back Home | NBC News NOW",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Coronavirus: White House Predicts Up To 200,000 U.S deaths, Millions Of Cases | NBC Nightly News",
             "secondDuration": 741,
             "group": "group_7"
+        },
+        {
+            "videoId": "o63ArePSSX4",
+            "title": "HI officials update coronavirus response  (Live Stream) | NBC News",
+            "secondDuration": 3790,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

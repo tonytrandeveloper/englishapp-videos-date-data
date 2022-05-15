@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dE57GTZ8_vk",
-            "title": "Mike Pence Responds To Donald Trump's 'Shackles Off' Tweet | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hy2CNvhmKNQ",
             "title": "Donald Trump Tells Supporters He'll Be 'Very Angry' If They Don't Vote For Him | NBC News",
             "secondDuration": 52,
@@ -121,8 +115,14 @@
             "title": "Bringing Trans Men Together One State At A Time | NBC Out | NBC News",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "ornI34CiWkA",
+            "title": "Top Moments Of The Second Presidential Debate | NBC News",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

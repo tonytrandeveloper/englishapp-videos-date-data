@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vRWVzv15SGE",
-            "title": "NBC Nightly News Broadcast (Full) - July 3rd, 2021",
-            "secondDuration": 970,
-            "group": "group_7"
-        },
-        {
             "videoId": "DR5_j94syuM",
             "title": "11 Suspects Arrested in Massachusetts Interstate Standoff",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Sinema Criticizes Supreme Court Decision As Battle Over Voting Rights Bill Looms",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBp2BimrTt8",
+            "title": "NBC Nightly News Broadcast (Full) - July 2nd, 2021",
+            "secondDuration": 1015,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

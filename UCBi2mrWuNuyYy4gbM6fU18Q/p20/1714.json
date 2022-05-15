@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S537XYmFkQY",
-            "title": "Senator Tim Kaine Reacts to Trump's Immigration Speech",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "kHjBWUKDUYw",
             "title": "Donald Trump Delivers Fiery Immigration Speech",
             "secondDuration": 205,
@@ -121,8 +115,14 @@
             "title": "Comparing Affordable and Designer Hoodies",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "WSWF71EKp6g",
+            "title": "Trump FULL Speech From Mexico",
+            "secondDuration": 749,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

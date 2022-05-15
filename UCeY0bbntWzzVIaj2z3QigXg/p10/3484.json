@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K-KT4nR-KUk",
-            "title": "Are Kids Biologically Hardwired to Like Sugar? | NBC Nightly News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "lOScL7REF0A",
             "title": "Say Hello to Deep Blue: ‘The Biggest Shark Ever Filmed’ | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Toxic Sludge in Colorado River Threatens Drinking Water Supply | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yn9MOiNfID8",
+            "title": "Super Hackers Reveal How Easy It Is To Steal Just About Everything | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

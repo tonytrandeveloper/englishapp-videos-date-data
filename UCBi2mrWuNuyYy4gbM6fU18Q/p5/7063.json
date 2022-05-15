@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "n8rJao2QiDI",
-            "title": "Donald Trump Fever Spreading in Cleveland",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "I8UATeFRpSQ",
             "title": "Donald Trump Rejects Speechwriter's Resignation Over Melania's Speech",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Trump Plane Flies Over Ted Cruz Event",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "z9P0u3RODlU",
+            "title": "500 Elephant Relocations Underway in Africa",
+            "secondDuration": 29,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

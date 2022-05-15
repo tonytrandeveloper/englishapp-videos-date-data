@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3YP-5TB39_8",
-            "title": "NYPD asking for public's help locating suspect related to college student's death",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "MFgCmO16cJg",
             "title": "Dash camera captures the moment deer jumped over car on Tennessee highway",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Single mom makes history hundreds of feet off the ground | ABC News",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "PlokvBsZOeY",
+            "title": "Female fire helicopter pilot is on California's front line of attack | ABC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

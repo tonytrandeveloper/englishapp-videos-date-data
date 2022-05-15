@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kt-XscUkG7Y",
-            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "wmv3E-Fv_8s",
             "title": "Google Hit With Gender Pay Discrimination Suit | NBC Nightly News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "The Idea For Apple’s AirPods Goes Back Nearly Half A Century | Mach | NBC News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "NShTErLTiaw",
+            "title": "Paul Ryan: Donald Trump's DACA Meeting With Dems 'Was A Discussion, Not An Agreement' | NBC News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Jrg0ccHRuPE",
-            "title": "John Legend Opens Up About Making History And Taking A Stand | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "a9PeCAWgBNA",
             "title": "Tsunami Hits Indonesian Island After Massive 7.5 Earthquake | NBC Nightly News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "How Will Brett Kavanaugh’s Hearing Affect Him If He’s Confirmed? | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ye2TKplLqp0",
+            "title": "360 Video: Inside Boeing’s Starliner Capsule | Mach | NBC News",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

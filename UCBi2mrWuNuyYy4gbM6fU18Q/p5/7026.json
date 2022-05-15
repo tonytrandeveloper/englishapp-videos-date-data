@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aL23Sw2gWzo",
-            "title": "Joe Biden Discusses Unity of Democratic Party",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kju4CYIFKcM",
             "title": "ISIS Claims Responsibility for Church Attack in France",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Reacts to Bill Clinton Speech on Twitter",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "bqnD53gLvcg",
+            "title": "Hillary Clinton Makes History as First Female Presidential Nominee | ABC News",
+            "secondDuration": 535,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

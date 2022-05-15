@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rq7lMmeVQGM",
-            "title": "New Information Emerges On Niger Ambush | NBC Nightly News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "LbnH22Gqy30",
             "title": "Father Of Woman Killed By Tampa Shooter Speaks Out | NBC News",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Senator Chuck Schumer On Niger Ambush, Immigration, Health Care (Full) | Meet The Press | NBC News",
             "secondDuration": 568,
             "group": "group_7"
+        },
+        {
+            "videoId": "3gdHpoRV6S4",
+            "title": "Senator Lindsey Graham On Americans In Niger Fighting Terrorists (Full) | Meet The Press | NBC News",
+            "secondDuration": 574,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

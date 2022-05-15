@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-2wJUdq_Fp8",
-            "title": "Inside the Papal Conclave",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "4VHKiu7Z8BU",
             "title": "'This Week' Web Extra: Rep. Debbie Wasserman Schultz Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "R.J. Cutler on Working With Cheney, Wintour: 'This Week' Web Extra",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "-yXy4dZEv0s",
+            "title": "'This Week' Sunday Spotlight: R.J. Cutler's Latest Documentary 'The World According to Dick Cheney'",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

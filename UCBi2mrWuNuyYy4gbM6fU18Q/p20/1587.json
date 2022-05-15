@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5x7sybqWcFk",
-            "title": "New Video Revealed in Dylann Roof Trial",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "IMdZqm5jf3c",
             "title": "5 Marines Rescued After Osprey Goes Down Off Coast of Okinawa",
             "secondDuration": 49,
@@ -121,8 +115,14 @@
             "title": "Trevor Noah: Trump Is Racist",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "D9Od_tNPKls",
+            "title": "Rogue One Full Cast Interview",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

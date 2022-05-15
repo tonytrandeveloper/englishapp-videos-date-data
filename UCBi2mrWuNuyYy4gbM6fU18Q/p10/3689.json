@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5t8z72K_SXc",
-            "title": "Red Hot Chili Peppers Anthony Kiedis Hospitalized",
-            "secondDuration": 19,
-            "group": "group_7"
-        },
-        {
             "videoId": "9dRPK-03AVY",
             "title": "Killer Bees Swarm California Town",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Megyn Kelly Talks Trump's Attitude Toward Women",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "bYNYWSACISo",
+            "title": "Donald Trump Under Fire for Alleged Sexism",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

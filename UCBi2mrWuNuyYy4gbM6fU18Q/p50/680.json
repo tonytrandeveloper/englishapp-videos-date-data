@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7rWrG1YktV0",
-            "title": "Play-Doh Celebrates 60th Anniversary | ABC News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "pekF9M8MXcs",
             "title": "UNC Student Speaks Out About Alleged Rape by Football Player",
             "secondDuration": 505,
@@ -301,8 +295,14 @@
             "title": "Inside Donald Trump's Childhood Home",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "a3uYyNtEfRM",
+            "title": "Ryan Lochte DWTS Protesters Speak Out",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

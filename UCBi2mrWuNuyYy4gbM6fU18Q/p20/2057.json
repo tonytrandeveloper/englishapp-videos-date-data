@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Lq4UUhv2URU",
-            "title": "Pope Francis' Message to the President",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "4rreiQJNI0I",
             "title": "Too Close to God: Susan Schessler's Story",
             "secondDuration": 363,
@@ -121,8 +115,14 @@
             "title": "Pope Francis' Ride Makes Americans Smile",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZgQzGkHgR_k",
+            "title": "Kim Davis INTERVIEW | Defends Denying Same-Sex Marriage Licenses",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

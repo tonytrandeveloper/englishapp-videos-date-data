@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oE7fRSuZ1Ok",
-            "title": "Alaska Senate Candidate Joe Miller on 'Top Line'",
-            "secondDuration": 10,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tu9AdvDaLmA",
             "title": "Muslim Explains Why She Wears the Veil",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Van Hollen: Dems Will Keep 'Majoirty In The House'",
             "secondDuration": 647,
             "group": "group_7"
+        },
+        {
+            "videoId": "gpehytpqTFw",
+            "title": "Sarah Palin Visits 'Dancing With the Stars'",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

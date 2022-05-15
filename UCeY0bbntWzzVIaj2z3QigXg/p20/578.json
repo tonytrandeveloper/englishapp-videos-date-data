@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tWHlQHEMij4",
-            "title": "Watch NBC News NOW Live - September 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "hXNDYhfkIR4",
             "title": "Report Says 500K Children Infected With COVID-19 In The U.S. | NBC News NOW",
             "secondDuration": 751,
@@ -121,8 +115,14 @@
             "title": "Rochester Protesters Paint Black Lives Matter On Street | NBC News NOW",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "c3V3EkyG0wg",
+            "title": "Multiple Wildfires Burn Across Oregon | NBC News NOW",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

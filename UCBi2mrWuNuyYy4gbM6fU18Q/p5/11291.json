@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oJ25o2q7xRk",
-            "title": "ABC News Republican National Convention Live Stream, 08.27.12",
-            "secondDuration": 3600,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZcYn_PPZzk",
             "title": "Paul Ryan Interview: 'General Motors Isn't Alive in My Home Town' in Response to Joe Biden Comments",
             "secondDuration": 287,
@@ -31,8 +25,14 @@
             "title": "Comparing Drug Store Eye Creams: Which Anti-Aging Products Work Best?",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7rx8R_xKDg",
+            "title": "Massachusetts Senate Candidate Elizabeth Warren: Remember What the Recklessness on Wall Street Did",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

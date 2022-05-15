@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lb6V6DRoruQ",
-            "title": "Growing Up with Two Mothers",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "hqmlBwDp3jk",
             "title": "Payback's a ... Bargain?",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on Obama's Approval Ratings",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "nofUeNU5XZw",
+            "title": "Taliban Video Shows Captured U.S. Soldier",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

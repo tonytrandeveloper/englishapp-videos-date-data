@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mrQqA8qKG7w",
-            "title": "NOW Tonight With Joshua Johnson Full Episode- Dec. 22 | NBC News NOW",
-            "secondDuration": 3076,
-            "group": "group_7"
-        },
-        {
             "videoId": "EGdhZWJCgVs",
             "title": "Top Story With Tom Llamas – Dec. 22 | NBC News NOW",
             "secondDuration": 3060,
@@ -61,8 +55,14 @@
             "title": "TheGlobal Struggle To Contain Omicron",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "LPlmcT3Lj8c",
+            "title": "FDA Authorizes First Covid Pill For Emergency Use",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

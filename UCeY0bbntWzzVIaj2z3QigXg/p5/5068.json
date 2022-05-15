@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uh5IqxQTsEk",
-            "title": "Israel Strikes Iranian Targets | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "P4l4BsOedUc",
             "title": "President Donald Trump Announces North Korea Summit Will Be In Singapore | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Duquesne Incline Offers Scenic Views And Pittsburgh History | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "n0FGg0Uznz8",
+            "title": "How To Choose The Most Effective Sunscreen | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

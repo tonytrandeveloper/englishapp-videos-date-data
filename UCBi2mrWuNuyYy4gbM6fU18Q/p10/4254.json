@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BQHOcbruOyU",
-            "title": "Housekeeper on DC Mansion Fire: 'I Can't Stop Thinking About That Day'",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "1jFSIkA7biI",
             "title": "Warriors, Cavaliers Tied After Game 4 of NBA Finals",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "New York Prison Break",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ap1a2sajkw",
+            "title": "Manhunt For Escaped Convicted Murderers Expands Across State Lines",
+            "secondDuration": 455,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cz6g3Da32h0",
-            "title": "Aaron Alexis: New Questions Into the DC Navy Yard Shooter's Past",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "icrCWJoAmyo",
             "title": "FBI Searches for Clues About DC Navy Yard Gunman",
             "secondDuration": 490,
@@ -61,8 +55,14 @@
             "title": "Britney Spears Interview 2013 on Las Vegas Show at Planet Hollywood",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "1046ibhPqPs",
+            "title": "Aaron Alexis: The Man Behind the Washington Navy Yard Shooting",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

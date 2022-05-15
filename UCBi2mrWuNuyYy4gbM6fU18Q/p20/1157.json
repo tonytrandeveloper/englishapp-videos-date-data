@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "34CAoxPzZhM",
-            "title": "'Monstrous' Hurricane Michael strengthens as it nears Florida",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ItJa6GTOkc",
             "title": "FEMA chief speaks out as Florida preps for 'life-threatening' storm",
             "secondDuration": 191,
@@ -121,8 +115,14 @@
             "title": "New details on limo crash that killed 20",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "GOaQmFW4WrQ",
+            "title": "State of emergency declared ahead of Hurricane Michael",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

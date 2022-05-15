@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "At7byiGzVzc",
-            "title": "Authorities Detain Possible Suspect | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "p-CWw9iQmlE",
             "title": "President Donald Trump Comments On School Shooting | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Meghan Markle Breaks With Royal Tradition On Visit To Charity Café | NBC News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "tE55p0wBOEo",
+            "title": "In Love With No Chance Of Divorce. Take Their Advice This Valentine's Day. | Think | NBC News",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

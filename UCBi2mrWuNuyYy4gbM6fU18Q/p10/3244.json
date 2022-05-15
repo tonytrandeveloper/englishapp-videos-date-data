@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5_DSy5FDIvQ",
-            "title": "Obama on Trump Election: 'The People Have Spoken'",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Eko10_KMUE",
             "title": "Obama on Gwen Ifill's Death",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Julian Assange Questioned at Ecuadorean Embassy in London",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "dWbW7_kcIF8",
+            "title": "Pelican's Incredibly Dramatic Yawn",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

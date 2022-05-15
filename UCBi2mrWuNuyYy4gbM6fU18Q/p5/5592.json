@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L7nqLK9H64g",
-            "title": "'10% Happier': Richie Davidson | ABC News",
-            "secondDuration": 3954,
-            "group": "group_7"
-        },
-        {
             "videoId": "mrgJKy92H1E",
             "title": "Thousands rescued in Houston amid catastrophic flooding",
             "secondDuration": 340,
@@ -31,8 +25,14 @@
             "title": "Texas towns brace for second impact from Harvey",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "KG_TCdNAblc",
+            "title": "Houston resident evacuates to 2-story house with 20 neighbors",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

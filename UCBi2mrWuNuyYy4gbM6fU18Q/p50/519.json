@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "At79hiIUON0",
-            "title": "Alligator 'resists arrest' after hiding from under truck | ABC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "zefB0FwU5m4",
             "title": "Student Walkouts in South Florida, protest gun laws | ABC News",
             "secondDuration": 73,
@@ -301,8 +295,14 @@
             "title": "Trump faces allegations of a 9-month affair with a Playboy Playmate",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "PDx4vgzGsxQ",
+            "title": "Flu vaccine as high as 59% effective for children 6 months to 8 years old: CDC",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

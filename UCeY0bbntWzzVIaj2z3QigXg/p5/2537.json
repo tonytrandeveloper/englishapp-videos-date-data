@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9grk714YbXc",
-            "title": "Watch NBC News NOW Live - July 13",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "202gq_1r1Vw",
             "title": "Monkey Business: How COVID-19 Impacted Local Species In Thailand | NBC News NOW",
             "secondDuration": 573,
@@ -31,8 +25,14 @@
             "title": "Washington’s NFL Team Retires Name Widely Viewed As Anti-Indigenous Slur | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Metczp7jXs",
+            "title": "L.A. School District To Start Year Online As Debate Grows Over Return To School | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

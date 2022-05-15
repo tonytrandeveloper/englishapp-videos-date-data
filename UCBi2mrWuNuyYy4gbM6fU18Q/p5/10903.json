@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3RR4hU7FEAc",
-            "title": "Barbara Walters' 10-Most Fascinating People: One Direction Sneak Peek",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "mQsTb-GJlhE",
             "title": "Miami Businessman Claudio Osorio  Allegedly Ripped off Famous Friends in $40 Million Fraud Scam",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Dallas Cowboy Jerry Brown Jr. Killed in Alleged Drunken Driving Crash",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "9a-bIAHTYYo",
+            "title": "SEAL Team Six Member Killed in Raid to Rescue Taliban Doctor Hostage",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RI8otog9cXQ",
-            "title": "Countries Brace For Renewed Restrictions Amid Omicron Surge",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "WYzQvcMIHXM",
             "title": "Nightly News Full Broadcast - Dec. 23",
             "secondDuration": 1287,
@@ -31,8 +25,14 @@
             "title": "Packed Roads and Airports With Americans On The Move For The Holidays",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "txiU-tnlOz0",
+            "title": "Long Covid Testing Lines Ahead Of Holiday Gatherings",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

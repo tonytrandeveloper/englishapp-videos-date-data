@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u7Z-pEwaLX4",
-            "title": "Rare Neurological Disease Investigated in Washington",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "lc-LMZJhFyg",
             "title": "Toddler on Toy Car Rescued From Busy Roadway",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "FULL SPEECH: Donald Trump at Miami, Florida Rally",
             "secondDuration": 4569,
             "group": "group_7"
+        },
+        {
+            "videoId": "ghPfJ0KQvo4",
+            "title": "Benedict Cumberbatch Interview on Doctor Strange",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

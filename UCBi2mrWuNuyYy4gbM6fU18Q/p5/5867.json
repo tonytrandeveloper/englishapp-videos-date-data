@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FjPaHnynfa0",
-            "title": "Special counsel appointed to lead Russia investigation",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "wX6Pv8JErSA",
             "title": "Corey Lewandowski on Trump in the White House",
             "secondDuration": 203,
@@ -31,8 +25,14 @@
             "title": "Justice department names Robert Mueller as special counsel in Russia investigation | ABC News",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "81dYHyRhRNw",
+            "title": "A single mom embraces life after being fired from her job of 50 years | ABC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

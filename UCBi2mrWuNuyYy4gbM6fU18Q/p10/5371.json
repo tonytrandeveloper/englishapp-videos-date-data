@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nD9cWJKB05U",
-            "title": "Lance Armstrong Breaks Down: Question Pushes Cyclist to Brink",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ayBBla3eBD0",
             "title": "Notre Dame Football Player Manti Te'o Speaks Out",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "President Obama's 2nd Inauguration Countdown",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "zRCITi34sk8",
+            "title": "Russian Firefighter Knocked Down Rescue Ladder by Snow",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

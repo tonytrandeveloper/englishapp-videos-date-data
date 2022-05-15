@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eCHcQfZpi60",
-            "title": "Drunk Driving Teen Causes Accident Involving Over 14 People",
-            "secondDuration": 626,
-            "group": "group_7"
-        },
-        {
             "videoId": "ruG2w45F9dI",
             "title": "Friends Say Teen Drove Into Oncoming Traffic Before Fatal Crash",
             "secondDuration": 424,
@@ -61,8 +55,14 @@
             "title": "GOP Presidential Candidates Threaten to Boycott Next Debate",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVhmmtrY9P8",
+            "title": "Hacker Arrested in Alleged ISIS Effort to Kill Americans",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

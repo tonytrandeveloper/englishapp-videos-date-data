@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9gswWr4DMgA",
-            "title": "Stopping Teen Pregnancy",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "EM0WaeUhpzs",
             "title": "Oscar Nominees 2010: James Cameron vs. Kathryn Bigelow, It's Complicated Re-enacted",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "The History of Our $1.6 Trillion Deficit",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2Vn1DEIKV0",
+            "title": "China vs. USA: Green, Clean Energy Leaders",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AXiFkGjEHw8",
-            "title": "Ohio Professor Uses Roller Coasters to Help College Students Face Fears",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "dabJQ0YP6lE",
             "title": "Powerball Pandemonium: Indulging Our Inner Billionaire",
             "secondDuration": 436,
@@ -31,8 +25,14 @@
             "title": "Wall Street in a Freefall as Stocks Tank",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "BaSqQiR1fpA",
+            "title": "Index: NFL Rams Moving Back to L.A.",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

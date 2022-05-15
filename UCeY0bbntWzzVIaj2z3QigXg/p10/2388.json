@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t6qrtYlEQ5o",
-            "title": "Watch Live: John McCain Honored In Ceremony At U.S. Capitol | NBC NEWS",
-            "secondDuration": 6826,
-            "group": "group_7"
-        },
-        {
             "videoId": "tYJhJC9Sp2A",
             "title": "President Donald Trump Speaks At Campaign Rally In Indiana | NBC News",
             "secondDuration": 4673,
@@ -61,8 +55,14 @@
             "title": "Prince Harry Sings At Charity Performance Of ‘Hamilton’ In London | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Zb9MegEYgA",
+            "title": "$30,000 Worth Of Apple Products Stolen From Bay Area Store | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

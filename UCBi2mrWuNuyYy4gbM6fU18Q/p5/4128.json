@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s5LpOQUxNdY",
-            "title": "Venezuela braces for another day of protests",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "UlBtoawr4aY",
             "title": "North Korea launches short-range missiles into Sea of Japan",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Chilling 911 calls released from deadly shooting at North Carolina university",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "G60N3WBsBSo",
+            "title": "Peter Mayhew, who brought 'Star Wars' Chewbacca to life, has died",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

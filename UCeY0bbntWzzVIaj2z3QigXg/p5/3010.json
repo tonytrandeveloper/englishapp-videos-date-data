@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "onfAiXiRFPA",
-            "title": "Trump Details Letter To Governors In Effort To Get U.S. ‘Back To Work’ | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "v3QKqMh4gjI",
             "title": "She Had COVID-19, But No Insurance. Her Treatment Cost $34,972. | Think | NBC News",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Texas Gov. Greg Abbott Gives Coronavirus Updates  (Live Stream) | NBC News",
             "secondDuration": 1605,
             "group": "group_7"
+        },
+        {
+            "videoId": "JttpXgvu5yI",
+            "title": "New Jersey Gov. Murphy Gives Coronavirus Updates | NBC News (Live Stream Recording)",
+            "secondDuration": 3595,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sBHJL_splYg",
-            "title": "Linda Ronstadt on Parkinson's Diagnosis: Life Is 'Different'",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6KDJeRuWxQ",
             "title": "Colorado Flooding: Children Airlifted to Safety Amid Colorado Floods",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Raging Flood Waters in Colorado",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "y4iykAjaNsY",
+            "title": "WEBCAST: We Have a New Miss America!",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

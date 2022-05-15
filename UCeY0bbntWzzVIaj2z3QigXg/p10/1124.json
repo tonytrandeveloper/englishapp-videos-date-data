@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DwAXGuNaVyU",
-            "title": "One-on-One With Joe Biden Ahead of Tuesday’s Debate | NBC Nightly News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "jPijI0wnUoc",
             "title": "Four Days After Grand Jury Decision, Louisville Protesters Seek Justice For Breonna Taylor",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Michigan Clerk Says Number Of Absentee Ballot Requests At ‘A Whole Different Level’ | NBC News NOW",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "tEfZesgsWVQ",
+            "title": "Supreme Court Fight Energizing Anti-Abortion Rights Voters | NBC News NOW",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

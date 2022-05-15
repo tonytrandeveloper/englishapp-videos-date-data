@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rbJ1B0WfuOU",
-            "title": "Viral Video Shows Woman Falsely Accuse Black Teen Of Stealing iPhone | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "UrN6cz1EYHQ",
             "title": "Shortage Of Nurses Trained To Conduct Forensic Exams After Sexual Assault, Investigation Reveals",
             "secondDuration": 269,
@@ -61,8 +55,14 @@
             "title": "New Jersey Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2996,
             "group": "group_7"
+        },
+        {
+            "videoId": "xsecsyEsIg0",
+            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2527,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

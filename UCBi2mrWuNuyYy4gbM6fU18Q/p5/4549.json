@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j7FQNgEbCFU",
-            "title": "The Camp Fire has destroyed more than 6,700 buildings in Northern California",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ZC54EvrrxQ",
             "title": "Florida gearing up for recounts in key governor and Senate races",
             "secondDuration": 367,
@@ -31,8 +25,14 @@
             "title": "Trump denies knowing man he named as acting attorney general",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "0M4APE5SwLY",
+            "title": "Fast-moving fires force mass evacuations in southern California",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_dvvdJbZBH4",
-            "title": "Merrick Garland: In a Minute",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "OwNF1p0qN4o",
             "title": "Denver Broncos Mascot Thunder in a Minute",
             "secondDuration": 58,
@@ -31,8 +25,14 @@
             "title": "Donald Trump In A Minute",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "aw_HizEtJZ8",
+            "title": "Ted Cruz In A Minute",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

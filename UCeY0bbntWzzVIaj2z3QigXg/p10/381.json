@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fyGGhRhYsgQ",
-            "title": "Nightly News Full Broadcast - Nov. 3",
-            "secondDuration": 1284,
-            "group": "group_7"
-        },
-        {
             "videoId": "qFIJ9NL1Nwc",
             "title": "Top Story with Tom Llamas - November 3rd | NBC News Now",
             "secondDuration": 2841,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Authorization Of Covid Vaccine For Kids | NBC News",
             "secondDuration": 1255,
             "group": "group_7"
+        },
+        {
+            "videoId": "sSdg9mC07S8",
+            "title": "Andrea Mitchell Interviews Rep. Adam Schiff At Aspen Security Forum | NBC News",
+            "secondDuration": 2139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

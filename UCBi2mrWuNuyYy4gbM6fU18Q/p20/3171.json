@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BudGHqnzCRw",
-            "title": "Osama Bin Laden Bounty Hunter Comes Home",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "A9jeSpQoFQU",
             "title": "McChyrstal Out; Petraeus In",
             "secondDuration": 330,
@@ -121,8 +115,14 @@
             "title": "52 Shot in Violent Chicago Weekend",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rdkg1uZ_syA",
+            "title": "The Conversation:  Too Soon to Leave Afghanistan?",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

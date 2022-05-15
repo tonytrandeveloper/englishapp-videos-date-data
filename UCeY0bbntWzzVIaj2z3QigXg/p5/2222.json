@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q2NlM0q6LMI",
-            "title": "Biden Campaign Continues Ahead Of Vice Presidential Debate | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "nbsDbG1PWug",
             "title": "Officials Provide Conflicting Information On President Trump’s Condition | NBC Nightly News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Gov. Chris Christie Tests Positive For Covid Day After Trump Diagnosis Announced | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "43xvd0YUGDs",
+            "title": "Pres. Trump’s Doctor Provides Health Update from Walter Reed",
+            "secondDuration": 2568,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FFqqNbrXtMg",
-            "title": "Exclusive: 'Bling Ring' Leader Speaks",
-            "secondDuration": 370,
-            "group": "group_7"
-        },
-        {
             "videoId": "YV1j0syXleY",
             "title": "Toyota Still Can't Clarify Problems",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Ford Cashes In",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "9gswWr4DMgA",
+            "title": "Stopping Teen Pregnancy",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

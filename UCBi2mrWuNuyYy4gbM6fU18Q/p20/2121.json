@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U-fugM5tBQw",
-            "title": "The Story of a Kitchen Disaster and an American Million Dollar Success Story",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "5oawM1U0jBY",
             "title": "US Women's Soccer Team Faces Colombia in Round of 16 Matchup",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Prison Escapees Possibly Spotted Near Pennsylvania-New York Border",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "0uNZy5AwOTA",
+            "title": "Families Say They Forgive Charleston Church Shooting Suspect",
+            "secondDuration": 355,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

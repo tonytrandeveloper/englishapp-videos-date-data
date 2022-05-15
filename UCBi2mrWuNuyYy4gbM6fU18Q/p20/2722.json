@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Wsr_ErNeMEU",
-            "title": "Susan Rice Withdraws Name for Secretary of State Post, John Kerry May Take Post",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "oaLuyRJKJ4A",
             "title": "WEBCAST: Most Embarrassing NFL Play Of The Season",
             "secondDuration": 191,
@@ -121,8 +115,14 @@
             "title": "Gabby Douglas on Barbara Walters' 10 Most Fascinating People",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "E_I7sbuP0KA",
+            "title": "Chris Christie on Barbara Walters' 10 Most Fascinating People",
+            "secondDuration": 448,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

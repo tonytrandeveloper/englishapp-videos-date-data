@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y2u0Xd1Itjc",
-            "title": "President Trump fires FBI Director James Comey",
-            "secondDuration": 512,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXEBN1KS-fo",
             "title": "'American Idol' returns to TV on ABC: A look back at show's legacy",
             "secondDuration": 377,
@@ -31,8 +25,14 @@
             "title": "Someone called for help approximately 12 hours after fraternity pledge became unconscious",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "W82RDt5nvVM",
+            "title": "Chaos ensued after Spirit Airlines cancelled 11 flights and delayed dozens more",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

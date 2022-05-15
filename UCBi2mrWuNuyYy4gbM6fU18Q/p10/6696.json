@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "claic4__V9g",
-            "title": "Stossel: The Reckless Should Pay for Rescues",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "DkLfji9NqJ0",
             "title": "Reinventing Modern Medicine",
             "secondDuration": 383,
@@ -61,8 +55,14 @@
             "title": "Recession's New Gender Roles",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuWV85jt8Wk",
+            "title": "Amplified: Superdrag",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

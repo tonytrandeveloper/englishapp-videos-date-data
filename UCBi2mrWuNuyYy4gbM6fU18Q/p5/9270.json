@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PkXOutPPJIc",
-            "title": "Nancy Writebol  Talks About Contracting Ebola",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "C0rDPG4BCjU",
             "title": "Family of Journalist Slain by ISIS Speaks Out",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Possible Security Credit Card Breach at Home Depot",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "nsCdgke5wEo",
+            "title": "Desperate Manhunt Underway for Kansas City Gunman",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

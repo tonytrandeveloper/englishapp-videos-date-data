@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5BycpdZ2I7s",
-            "title": "President Donald Trump Calls Sen. Warren ‘Pocahontas’ At Native American Veterans Event | NBC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "EEfiyEQM3mU",
             "title": "White House Press Briefing - November 27, 2017 | NBC News",
             "secondDuration": 992,
@@ -31,8 +25,14 @@
             "title": "Senator Al Franken On Sexual Harassment Allegations: ‘This Will Not Happen Again’ | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "ICTiCcIwZG8",
+            "title": "Work Smart: How To Stay On Top Of Your Inbox | NBC News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

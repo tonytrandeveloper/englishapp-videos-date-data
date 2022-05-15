@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ki2n_8mmU8",
-            "title": "Robert Mueller On Whether ‘Collusion’ And ‘Conspiracy’ Are Synonymous Terms | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "PNvA59xeZhU",
             "title": "Robert Mueller Says His Report Does Not Exonerate President Donald Trump | NBC News",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "Senate Passes 9/11 Victim Compensation Funding | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Teb0Mdd8Y",
+            "title": "Who Is Newly Elected Prime Minister Boris Johnson? | NBC News Now",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

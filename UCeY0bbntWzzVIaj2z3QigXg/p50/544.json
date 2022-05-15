@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zaTtPJynbR8",
-            "title": "Meet Chris Kim: The Meatless Butcher | Better | NBC News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "X_3pm7beeDc",
             "title": "Aerials Show Bird's-Eye View Of Boston Region After 'Bomb Cyclone' | NBC News",
             "secondDuration": 87,
@@ -301,8 +295,14 @@
             "title": "Iran Protests Grow Deadlier | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "c4bGaoeCWUA",
+            "title": "Colorado Gunman Posted Rants About Police On YouTube | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

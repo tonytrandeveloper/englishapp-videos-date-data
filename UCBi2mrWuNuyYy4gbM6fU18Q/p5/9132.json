@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IBQ2IBTua9g",
-            "title": "Christopher Nolan on 'Interstellar' Movie's 'Emotional Journey'",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEAYhsPjS-0",
             "title": "Video Footage Captures a Skydive From 13,000 feet",
             "secondDuration": 566,
@@ -31,8 +25,14 @@
             "title": "FRIDAY FUNNIES",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "a6SJ1yvHILw",
+            "title": "Man Raises Awareness for Testicular Cancer",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

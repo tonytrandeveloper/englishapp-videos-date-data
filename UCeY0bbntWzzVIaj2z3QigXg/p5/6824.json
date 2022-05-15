@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fn-E9C_fgMs",
-            "title": "Unrealized Dreams: Egypt After the Arab Spring | NBC News",
-            "secondDuration": 886,
-            "group": "group_7"
-        },
-        {
             "videoId": "m-__kG_2MY8",
             "title": "Donald Trump: 'Why Would I Disavow' Vladimir Putin? | NBC News",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: 'Mussolini Is Mussolini... What Difference Does It Make?' | Meet The Press | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "diblIzUjkHU",
+            "title": "Bernie Sanders On Campaign Strategy After SC Loss | Meet The Press | NBC News",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

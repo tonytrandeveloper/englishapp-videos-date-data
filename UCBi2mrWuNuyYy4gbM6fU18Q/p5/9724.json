@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D1imPapQ2lE",
-            "title": "Pop News: Simon Cowell Is a Father",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "iteuHDcUONo",
             "title": "Miami Dolphins: Investigation Says Richie Incognito Harassed Teammate Jonathan Martin",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Sochi Winter Olympics 2014: Non-Stop Drama in Men's Figure Skating",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q1AzTts1_-o",
+            "title": "Valentine's Day Cancelled: Georgia Sheriff Shuts Down Holiday",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3TunmdbhGGE",
-            "title": "NBC Nightly News Broadcast (Full) - May 14th, 2021",
-            "secondDuration": 1278,
-            "group": "group_7"
-        },
-        {
             "videoId": "fB1L3BodHlk",
             "title": "Greece Reopens Tourism To Americans",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Inside The Fight To Change The Family Court System After Custody Dispute Tragedies",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8atgovmCpo",
+            "title": "Cracked Memphis Bridge Causing Major Traffic",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

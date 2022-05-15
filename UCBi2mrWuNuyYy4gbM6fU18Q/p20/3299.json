@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hBxF4aLRGRE",
-            "title": "Michael Jackson's Final Moments",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "QReydiv8P50",
             "title": "Amplified: Yo La Tengo",
             "secondDuration": 355,
@@ -121,8 +115,14 @@
             "title": "Reality Show Manhunt",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "aTGK7a2BxMI",
+            "title": "Parents Driving Drunk Endanger Kids",
+            "secondDuration": 572,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

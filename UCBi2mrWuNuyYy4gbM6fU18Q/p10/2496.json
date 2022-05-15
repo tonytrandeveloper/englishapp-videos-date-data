@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Om4ItWiybb8",
-            "title": "World War II Navy veteran graduates from college",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "RMXnvisF-88",
             "title": "Science experiment caused school fire that hurt students, teacher: Officials",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "3 Americans released from North Korea, Trump tweets",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "EebCDGMV75Q",
+            "title": "New York Attorney General Eric Schneiderman resigns after report he abused four women",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2FrU1fI5h_k",
-            "title": "Trump administration seeks to repeal Obamacare",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "PH4j6l4uGR8",
             "title": "The Debrief: Jussie Smollett charges dropped, Obamacare fight,  NY measles emergency | ABC News",
             "secondDuration": 2431,
@@ -31,8 +25,14 @@
             "title": "Missing show dog found outside Atlanta airport",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "T5xTpqqsYYg",
+            "title": "'Empire' actor Jussie Smollett charges dropped, Chicago mayor and top cop furious",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

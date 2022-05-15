@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vjf4e7ZAc9M",
-            "title": "Tsunami of Toxic Sludge",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "LI4IGcMzsso",
             "title": "Political Smackdown in Connecticut",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Bilat: 'Scott Brown Won Here'",
             "secondDuration": 627,
             "group": "group_7"
+        },
+        {
+            "videoId": "p3WmDPP7ZwY",
+            "title": "Authorities Release Training Videos on 'How to Spot Terror'",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BOJU1u-FSjQ",
-            "title": "Pope Francis Celebrates Easter",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q8dME6N_xFo",
             "title": "Landslide Rips Houses, Roads Apart",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Caught on the 'Price Is Right': Workers Compensation Fraud",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "yarEbKyk8PU",
+            "title": "'Game of Thrones' Author George R.R. Martin",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eRZgctXDMbs",
-            "title": "Paul Ryan pulls GOP health care bill following call from Trump | ABC News",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "PoiRoKvshnA",
             "title": "The desperate search for a 15-year-old girl allegedly kidnapped by ex-teacher",
             "secondDuration": 480,
@@ -31,8 +25,14 @@
             "title": "Donald Trump shows off his trucking skills",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "jZbRRwgzcOU",
+            "title": "Search underway for missing teen girls in Washington, DC",
+            "secondDuration": 369,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

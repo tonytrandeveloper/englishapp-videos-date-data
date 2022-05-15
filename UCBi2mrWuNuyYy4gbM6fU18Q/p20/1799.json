@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rfs2nxJuyNw",
-            "title": "Police Discover Loaded Weapons in NYC's Holland Tunnel",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "7-p67WdTZBs",
             "title": "Trump FULL INTERVIEW | Responds to Clinton Calling Him 'Dangerous'",
             "secondDuration": 440,
@@ -121,8 +115,14 @@
             "title": "Orlando Shooting 911 Transcripts Reveal Timeline",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "rYimk6I6fLY",
+            "title": "Bear Attacks Marathon Runner",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

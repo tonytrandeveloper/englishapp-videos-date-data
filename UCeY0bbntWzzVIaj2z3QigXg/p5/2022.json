@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B5XX-TyR4HY",
-            "title": "White House Holds Press Briefing: December 2 | NBC News",
-            "secondDuration": 1486,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArAGeNwciR8",
             "title": "Watch: Boeing 737 Max Lifts Off For First Demonstration Flight Since March 2019 | NBC News NOW",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "TikTok Users Share Their Experiences With Covid Vaccine Trials | NBC News NOW",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "YTYcECz_-rg",
+            "title": "How Anthony Blinken Plans To Restore Relations With China | NBC News NOW",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

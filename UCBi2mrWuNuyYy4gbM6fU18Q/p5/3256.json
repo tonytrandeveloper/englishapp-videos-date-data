@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aePv83KVBko",
-            "title": "Wreckage from Kobe Bryant crash did not show evidence of engine failure: NTSB | ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "3r2zQRb6Pdg",
             "title": "Democratic candidates meet for debate before New Hampshire primary",
             "secondDuration": 298,
@@ -31,8 +25,14 @@
             "title": "ABC News Democratic Debate: Moments that mattered | ABC News",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "COXBtqZsMQc",
+            "title": "7th Democratic debate wraps up in New Hampshire | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0FEwN8GGCAg",
-            "title": "Obama Gives Kanye Campaign Advice  | ABC News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yg_RRkFsXsE",
             "title": "Southwest Airlines Computer Meltdown | ABC News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "New Jersey Town Raises Over $15K For Bear Who Walks Upright",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "yqJlZjWFIh0",
+            "title": "How To Face Your Fears and Tap Your Creativity",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

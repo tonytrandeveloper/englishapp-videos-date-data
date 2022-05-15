@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S6k6oz41HGI",
-            "title": "Colin Powell: 50th Anniversary of Selma Interview",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "H5ihNkKr9c0",
             "title": "Ferguson DOJ Report: Mayor Addresses Racist Emails",
             "secondDuration": 466,
@@ -61,8 +55,14 @@
             "title": "Connecticut Home Invasion: 911 Call Reveals Robbery Plot",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "NryiONvJgKM",
+            "title": "Ferguson Officers Lose Jobs over Racist Emails",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

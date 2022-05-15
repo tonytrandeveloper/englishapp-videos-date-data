@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2efQ_kBnwDI",
-            "title": "Vanna White takes ‘Wheel of Fortune’ helm for 1st time l ABC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "n6audSmng_s",
             "title": "Twin 4-year-olds rescue themselves after father’s car crashes l ABC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "House Democrats unveil articles of impeachment | ABC News",
             "secondDuration": 1320,
             "group": "group_7"
+        },
+        {
+            "videoId": "QqW62DiJi28",
+            "title": "‘Jeopardy!’ prepares for ‘Greatest of All Time’ tournament l ABC News",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

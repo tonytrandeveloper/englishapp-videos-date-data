@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bYnxJXiYdgM",
-            "title": "Biden Delivers Remarks On West Coast Wildfires | NBC News",
-            "secondDuration": 1411,
-            "group": "group_7"
-        },
-        {
             "videoId": "VvPuGSyr3JQ",
             "title": "100,000 March Through Minsk Demanding Lukashenko's Ouster | NBC News NOW",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Meet The Press Broadcast (Full) - September 13th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2848,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRAehF33YPw",
+            "title": "Michael Bloomberg Commits To Spend $100 Million To Help Biden in Florida | Meet The Press | NBC News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

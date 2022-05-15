@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yhCA5XMVjdc",
-            "title": "Otto Warmbier, American student detained by North Korea, dies",
-            "secondDuration": 455,
-            "group": "group_7"
-        },
-        {
             "videoId": "NzvCkLIvKIY",
             "title": "TLC is back: T-Boz and Chilli on overcoming struggle, their impact on other artists",
             "secondDuration": 421,
@@ -121,8 +115,14 @@
             "title": "Former US Ambassador to NATO Douglas Lute: NATO allies 'believe they can't rely on US leadership'",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZPMF1ElERbc",
+            "title": "Georgia special election for a US House seat heats up days before votes are cast",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

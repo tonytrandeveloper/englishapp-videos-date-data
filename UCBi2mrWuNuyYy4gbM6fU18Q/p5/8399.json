@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qbkVRTp1JxQ",
-            "title": "American BASE Jumper's Deadly Plummet Caught on Tape",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "B0feNOhYIcc",
             "title": "Donald Trump Heads to US-Mexico Border",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Questions Linger After Texas Police Release Sandra Bland Arrest Video",
             "secondDuration": 456,
             "group": "group_7"
+        },
+        {
+            "videoId": "wkJDPWP9AVI",
+            "title": "Anthony Geary Says Goodbye to 'General Hospital'",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

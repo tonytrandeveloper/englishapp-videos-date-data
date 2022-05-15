@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PRla3xeu7MQ",
-            "title": "Golden Retriever Serves as Best Man at Vet's Wedding",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "6XyNA-FuFMc",
             "title": "Oregon College Shooting: Survivor's Story Inside the Classroom",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Deadly Flooding Rises to Historic Levels | ABC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "tT9vNLAOUKw",
+            "title": "Coastal Storm Leaves 4 Dead in 3 Days",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

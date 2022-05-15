@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d5-YxyA16Yo",
-            "title": "The Briefing Room: Trump Immigration policy, Abortion, De Blasio 2020  | ABC News",
-            "secondDuration": 1787,
-            "group": "group_7"
-        },
-        {
             "videoId": "D5rH87ceDHY",
             "title": "The Debrief: Abortion fight, chopper crash, Trump immigration plan | ABC News",
             "secondDuration": 1776,
@@ -31,8 +25,14 @@
             "title": "New York City Mayor Bill de Blasio announces 2020 presidential bid",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "275N-uHUbqo",
+            "title": "President Trump to announce immigration overhaul",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

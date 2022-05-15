@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pmB-D45oiN0",
-            "title": "Oregon Police Investigating Iconic Rock Toppling",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZEkJ7hEJ8sQ",
             "title": "Brock Turner Registers as Sex Offender",
             "secondDuration": 47,
@@ -121,8 +115,14 @@
             "title": "Trump, Clinton Start Their Sprint to the Finish",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "6z-GizaSumE",
+            "title": "Obama, Vladimir Putin at G20 Summit",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

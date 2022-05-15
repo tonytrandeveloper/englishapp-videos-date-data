@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dxqxX5N4zc0",
-            "title": "Ted Kennedy: the 'Lion of the Senate'",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "A9Ln3knD-TI",
             "title": "Health Care: Sen. Ted Kennedy's Battle Cry",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Lion of the Senate",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "BgL6BsLmyQ8",
+            "title": "Kennedy Appeals to the People of Mass.",
+            "secondDuration": 713,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

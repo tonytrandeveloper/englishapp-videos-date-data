@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LlbqctgHZnk",
-            "title": "Coronavirus: Nearly Every State Partially Reopens | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "p7DnBo-5tfg",
             "title": "Some Americans Avoid Emergency Care Over Fear Of Catching Coronavirus | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Wray: Evidence From Pensacola Shooter's Devices Shows 'Brutal Culmination Of Years Of Planning'",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "3A1brYedkeg",
+            "title": "AG Barr Thanks ‘Ingenuity Of FBI Technicians’ For Unlocking Pensacola Gunman’s iPhone | NBC News NOW",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

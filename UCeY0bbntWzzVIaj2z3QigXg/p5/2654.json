@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O9bvSFzqfl0",
-            "title": "New York Governor Cuomo Holds Briefing | NBC News",
-            "secondDuration": 3043,
-            "group": "group_7"
-        },
-        {
             "videoId": "BPInny9ts6E",
             "title": "In Atlanta, Police Chief Steps Down After Fatal Shooting | Meet The Press | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Trump Remaking Both Republican and Democratic Party Membership | Meet The Press | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xp1Qev176XY",
+            "title": "Full Panel: Police Reform Debate Takes Washington | Meet The Press | NBC News",
+            "secondDuration": 495,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

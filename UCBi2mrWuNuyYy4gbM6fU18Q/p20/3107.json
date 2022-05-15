@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dPJUhWwHbeU",
-            "title": "Best of 2010: John Berman's 90 Seconds of News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDV43VTjUJY",
             "title": "'Spider-Man' Actor Rushed to Hospital",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Be the Change: The Tiniest Survivors",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "J8jlHEMl3O8",
+            "title": "Palin for President?",
+            "secondDuration": 437,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

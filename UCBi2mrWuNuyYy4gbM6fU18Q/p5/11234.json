@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D-gbdKr2_BE",
-            "title": "Best in TV: Variety Shows",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "J6gmE3GPRqY",
             "title": "William, Kate Middleton File Criminal Complaint Over Topless Photos",
             "secondDuration": 299,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney Responds to Leaked Private Fundraiser Video; Comments on Low Income Obama Supporters",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSbWhNgws20",
+            "title": "Homegrown Terror Plot Stopped in Chicago by FBI; Adel Daoud Allegedly Tried to Set Off Car Bomb",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

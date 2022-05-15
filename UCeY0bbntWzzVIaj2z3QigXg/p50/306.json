@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "HLtwnUJteGU",
-            "title": "Mnuchin: 'We're Looking At Sending Checks To Americans Immediately' | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "gDFO79F7V7o",
             "title": "Dr. Oz Says America Needs To Learn From Wuhan’s Quarantine Lessons | NBC News NOW",
             "secondDuration": 324,
@@ -301,8 +295,14 @@
             "title": "An Exclusive New Club At USC: The Next Wave Of Social Media Stars And Influencers  | NBC News",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdZY2XPIXdM",
+            "title": "Watch live: Pence holds press conference with coronavirus task force",
+            "secondDuration": 5229,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

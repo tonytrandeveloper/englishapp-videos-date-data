@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HEVqtIW3JoU",
-            "title": "Thousands Stranded Between Belarus And Poland",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eu0ZFh_urKk",
             "title": "Attorney In Ahmaud Arbery Trial Apologizes For 'Black Pastor' Comment",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Closing Arguments Set For Monday In Kyle Rittenhouse Trial",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "NEsAsycenfU",
+            "title": "Company Maps Minerals From The Sky For Electric Vehicle Batteries",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

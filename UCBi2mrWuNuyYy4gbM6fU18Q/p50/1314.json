@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xVbNviah4xs",
-            "title": "Jake Tapper on Obama's Diplomatic Dance",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2Z3EUWBYgo",
             "title": "JuJu Juggles School Bullies",
             "secondDuration": 178,
@@ -301,8 +295,14 @@
             "title": "Toyota Floor Mats May Be Deadly Hazard",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "BSLqL4R5NKU",
+            "title": "FBI Terror Raids Extend to Denver",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

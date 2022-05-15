@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "COZ5L7aeEBE",
-            "title": "The Nukes Next Door",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "3IoRvxDQA8E",
             "title": "One on One With Barack Obama",
             "secondDuration": 304,
@@ -121,8 +115,14 @@
             "title": "Interview With Clinton and Gates",
             "secondDuration": 826,
             "group": "group_7"
+        },
+        {
+            "videoId": "5kWyV7lNbaU",
+            "title": "Expectations of the Obama Administration",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

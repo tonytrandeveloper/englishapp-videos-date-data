@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CZMzNzmT4BM",
-            "title": "Man Becomes Genius After Head Injury",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Z_Z6O5Qub4",
             "title": "3 Terrorist Suspects Linked to Al Qaeda Arrested in Spain",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "London 2012 Gymnastics: Gabby Douglas Wins Gold Medal",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "GxlYhwYDthc",
+            "title": "Possible Hurricane: Ernesto Heads Toward East Coast",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

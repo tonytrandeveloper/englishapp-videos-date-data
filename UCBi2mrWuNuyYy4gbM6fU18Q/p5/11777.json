@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IqzwDPrw0n8",
-            "title": "Oscars 2012: Download the Free App",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "wMhvpwm_jOY",
             "title": "Must-Know Words for Your Child",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Women's Heart Attacks Misunderstood",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jk-xqPKOxl4",
+            "title": "Foxconn: An Exclusive Inside Look",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

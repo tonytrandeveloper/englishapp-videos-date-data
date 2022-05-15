@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8L_VNiJqtXg",
-            "title": "Pepsi apologizes for new ad after receiving huge backlash",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "WL15zyI4dUk",
             "title": "Trump removes Steve Bannon from the National Security Council",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "President Trump condemns 'heinous actions' in Syria",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "l4LAzsu3agE",
+            "title": "Man dies trying to eat doughnut in shop's eating challenge",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

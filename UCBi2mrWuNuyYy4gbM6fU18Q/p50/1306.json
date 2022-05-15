@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4Ke686VAh10",
-            "title": "Midterm Election Madness",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "-67e-cAaufg",
             "title": "Surprising News From Ford",
             "secondDuration": 162,
@@ -301,8 +295,14 @@
             "title": "The Disappearance of Melanie Melanson",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUbdmStzZ1s",
+            "title": "News 'Costumes'",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

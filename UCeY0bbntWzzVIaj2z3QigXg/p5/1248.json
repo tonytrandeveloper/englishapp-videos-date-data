@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_iKYOdMOUqc",
-            "title": "Trump Organization Expected To Be Charged Tomorrow",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0O_hVYJruY",
             "title": "Families Of Missing Loved Ones Wait For Answers After Collapse",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Bill Cosby’s Accusers Respond To Overturned Conviction And Release",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "17lkZC9YBZg",
+            "title": "Delta Variant Detected In All 50 States",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

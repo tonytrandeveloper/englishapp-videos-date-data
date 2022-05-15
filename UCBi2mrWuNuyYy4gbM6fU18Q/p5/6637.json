@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ToF1Mur8QbI",
-            "title": "Third Presidential Debate Highlights | Trump, Clinton Discuss on Supreme Court",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "ECWr-JPDPmc",
             "title": "Minnesota City Apologizes for Controversial Arrest of Black Man",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Cops Shoot, Kill 66-Year-Old Woman",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAqLD5w07sM",
+            "title": "Ivanka Trump: Father 'Will Accept the Outcome' of Election",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

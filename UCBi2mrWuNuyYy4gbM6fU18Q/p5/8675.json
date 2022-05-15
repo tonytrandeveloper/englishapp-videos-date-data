@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZLAKJM5AznA",
-            "title": "CEO Dan Price Cuts Own Salary to $70K Worker Wage",
-            "secondDuration": 370,
-            "group": "group_7"
-        },
-        {
             "videoId": "9UlhIlJEW9o",
             "title": "Fatal Shooting: Former Honor Student on Trial for Killing Boyfriend",
             "secondDuration": 432,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather: Utah Dust Storms and Nevada Sand Storms",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "fFG04YWGV1U",
+            "title": "Dogs Hit By Flu Strain, Vets Urge Shots",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

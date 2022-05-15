@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BPc6LjIpgnU",
-            "title": "Trump Praises Bannon After Ousting",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "nSOedkDifqk",
             "title": "6 Officers Shot in Florida and Pennsylvania, 2 Killed and 4 Wounded",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Thousands March in Boston Against Hate and Bigotry",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "I_JvsxWVATg",
+            "title": "The Battle Over Free Speech Rages On | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

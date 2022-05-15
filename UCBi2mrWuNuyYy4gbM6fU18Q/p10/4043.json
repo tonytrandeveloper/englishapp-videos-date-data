@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pJ5qj4UkqAk",
-            "title": "Retracing the Steps of the Paris Attackers",
-            "secondDuration": 273,
-            "group": "group_7"
-        },
-        {
             "videoId": "JOF_GiuYdtw",
             "title": "Epic Dad Selfie Fail Goes Viral",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Tornado Outbreak Spawns 38 Reported Tornadoes in 4 States",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "wEeakW2wJG0",
+            "title": "Face Transplant Surgery Gives Former Firefighter a New Face",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

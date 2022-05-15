@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "SiTZq6ADLqo",
-            "title": "US seizes massive North Korean cargo vessel for violating sanctions",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "P2nQDq4muyA",
             "title": "Authorities uncover stockpile of more than 1k weapons in mansion",
             "secondDuration": 98,
@@ -301,8 +295,14 @@
             "title": "The Debrief: Russia plane crash, Barr versus Dems, West Coast measles outbreak | ABC News",
             "secondDuration": 1550,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Ofz4BwubMI",
+            "title": "Former Dem and GOP prosecutors lash out at Trump",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

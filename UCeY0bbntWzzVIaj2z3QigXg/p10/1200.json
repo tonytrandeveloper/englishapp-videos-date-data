@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JvKi_iuJcM8",
-            "title": "Michelle Obama: ‘Biden Has Served This Nation His Entire Life’ | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "DkndxktbG-0",
             "title": "FDA Gives Emergency Approval For Coronavirus Saliva Test | NBC News NOW",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Tells Americans: 'Vote For Joe Biden Like Our Lives Depend On It' | NBC News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "OJNTcC0OyVM",
+            "title": "'I'm With Joe': Republican Women Voice Support For Biden At The 2020 DNC | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

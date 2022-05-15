@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CZMzNzmT4BM",
-            "title": "Man Becomes Genius After Head Injury",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Z_Z6O5Qub4",
             "title": "3 Terrorist Suspects Linked to Al Qaeda Arrested in Spain",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "California Hiker Rescued After Hanging on Ledge for More Than 2 Days",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "OLqpWSRfgyo",
+            "title": "WEBCAST: A Touching Story Of Two Brothers",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

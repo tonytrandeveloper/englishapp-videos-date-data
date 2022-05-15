@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yytLuLGHvEI",
-            "title": "FCC to crack down on robocalls to cellphones and landlines",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "0XmStxBJqKk",
             "title": "White House: 'We have done everything we can' to negotiate American Health Care Act  | ABC News",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Eyewitnesses describe London terror attack",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ktmzqg3BTo",
+            "title": "GOP negotiates as House prepares to vote on health care bill",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

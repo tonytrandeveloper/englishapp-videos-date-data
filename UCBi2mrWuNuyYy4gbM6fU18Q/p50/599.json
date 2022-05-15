@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "aylZ6A84004",
-            "title": "Sighting of Tennessee teen allegedly kidnapped by her teacher",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "w7ioH0bUQ9g",
             "title": "General Mike Flynn sought immunity in exchange for testimony",
             "secondDuration": 238,
@@ -301,8 +295,14 @@
             "title": "Severe storm systems rip across the South",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8NfvMQXVRo",
+            "title": "Paul Ryan on health care: 'We're going to get this right' | ABC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fXGaSskTw3s",
-            "title": "New YouTube Video of Missing Michigan Doctor Teleka Patrick",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "VgtAPox1Lx8",
             "title": "UPS, FedEx Work Around-the-Clock to Fix Christmas Delivery Delays",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Hottest Pepper",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "edX1di5jZu8",
+            "title": "LA Motorist Pulled From Burning Vehicle",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

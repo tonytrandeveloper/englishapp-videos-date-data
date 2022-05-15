@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PB2r1pEVgnE",
-            "title": "Christmas 2017: U.S. Capitol tree lighting ceremony live | ABC News",
-            "secondDuration": 2174,
-            "group": "group_7"
-        },
-        {
             "videoId": "SbSrJtU-SCE",
             "title": "President Donald Trump ays US will recognize Jerusalem as Israel's capital: Special Report",
             "secondDuration": 2883,
@@ -61,8 +55,14 @@
             "title": "Trump weighing plans to move US Embassy in Israel from Tel Aviv to Jerusalem",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "KIsKJq1tVVg",
+            "title": "Body camera captures Georgia cop saving infant in distress",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cVDEcVR7Lu4",
-            "title": "Russian Diplomat Assassinated in Turkey",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "0PoiC0_Vy1c",
             "title": "Mariah Carey on Demi Lovato: 'I Don't Know Her'",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "'Rogue One' Is Something to Chalk About",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "oQvR4lE_Xq8",
+            "title": "Trump Celebrates Electoral College Victory",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

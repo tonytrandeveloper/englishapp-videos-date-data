@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rpt_SUhg7Sg",
-            "title": "Ex-teacher gunned down on Mother's Day",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "oDwT9i9Y-bU",
             "title": "Kilauea volcano grows more explosive",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Powerful storms lash the Northeast, dropping tennis ball-size hail",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "DC_2YI-JF0o",
+            "title": "Businesses find success with locally made products in Wisconsin",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

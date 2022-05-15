@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WOuNsSm0PNc",
-            "title": "Are 36 Questions the Secret to Finding Love? One Couple Tries It Out",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "207B0F2_dQU",
             "title": "Vanderbilt University Sexual Assualt Trial: Ex-Football Player Corey Batey Takes Stand",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Blizzard 2015: State of Emergency in Boston and Beyond",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ojeM0ZSBi3U",
+            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

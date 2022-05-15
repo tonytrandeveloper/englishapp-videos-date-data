@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AXfAcKO50z4",
-            "title": "'This Week': Powerhouse Roundtable Takes on the Government Shutdown Showdown",
-            "secondDuration": 708,
-            "group": "group_7"
-        },
-        {
             "videoId": "WKuQUa3k758",
             "title": "'This Week': Nobel Peace Prize Surprise - David Miliband, Shiza Shahid on Malala Yousafzai's Impact",
             "secondDuration": 394,
@@ -121,8 +115,14 @@
             "title": "Malala Yousafzai Describes Day She Was Shot in the Head",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gk1YHwBN30E",
+            "title": "Outrage Over Miss Universe Taj Mahal Photo Shoot",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yzEMGU5Ao1c",
-            "title": "Deep Dive: The Impact Guns Have On Urban Areas | NBC News Now",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "nS16H2FVCM0",
             "title": "Grieving While Fearing Deportation: Inside El Paso Residents’ Fears | NBC News Now",
             "secondDuration": 410,
@@ -121,8 +115,14 @@
             "title": "How Should Terrorism Be Defined? | NBC News Now",
             "secondDuration": 611,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBDF8WVqesQ",
+            "title": "How Online Radicalization Can Turn Into Violence | NBC News Now",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

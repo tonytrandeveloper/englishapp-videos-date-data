@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E3eLn_QvynY",
-            "title": "Slow Production of H1N1 Vaccine",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "eOsNOmUJjtI",
             "title": "A Simple Solution to Control Hurricanes",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Top Line: Health Care Debate Rages On",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8ltvoNJW8k",
+            "title": "Chris Brown on Abuse: 'I'm Human'",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

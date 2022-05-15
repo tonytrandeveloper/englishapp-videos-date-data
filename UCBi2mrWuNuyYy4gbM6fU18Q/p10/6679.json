@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qw70rU1N3pg",
-            "title": "Chrysler Fire Sale",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "MgA5S4lcPRI",
             "title": "Cancer Teen and Mother Return Home",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "What's the Deal With Your Scar?",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZPxj15VSRY",
+            "title": "Mullen on Foreign Policy Challenges",
+            "secondDuration": 1308,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lfZaxpDatbs",
-            "title": "How to Make a Super Bowl Commercial",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWNiPLXddWA",
             "title": "Chris Christie on His Presidential Campaign in Iowa",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Democrats Neck and Neck With Caucuses One Day Away",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "L-dOrSNtIak",
+            "title": "Trump Pulls Ahead as Iowa Caucus Day Nears",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

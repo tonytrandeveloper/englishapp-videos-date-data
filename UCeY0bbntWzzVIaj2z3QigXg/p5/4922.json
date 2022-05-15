@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I6fWTgmVEZk",
-            "title": "Watch Fourth Of July Fireworks Explode Over The Washington Skyline | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "1zKwa1494Ls",
             "title": "New Device Offers Solution For Ringing In Ears | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Two Poisoned By Same Nerve Agent Used Against Former Russian Spy | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "exQUD5LETdo",
+            "title": "New Video Shows Thai Soccer Team Getting Medical Treatment In Cave | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

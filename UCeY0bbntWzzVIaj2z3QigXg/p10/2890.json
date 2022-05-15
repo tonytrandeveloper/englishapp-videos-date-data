@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QDCuETjIURQ",
-            "title": "Tampa's Receding Tides Raises Concerns of Extreme Flooding | NBC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4pFdLJmG7M",
             "title": "Storm Chaser Battles Hurricane Irma’s Powerful Winds | NBC News",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Hurricane Irma: Florida’s West Coast Braces For Impact As Storm Shifts West | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "kaT_YySmSNY",
+            "title": "Hurricane Irma: Long Lines For Thousands Fleeing To Overcrowded Shelters | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

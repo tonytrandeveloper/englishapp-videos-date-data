@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Xbir_JwyxL4",
-            "title": "Magical Ending For Teen Who Founded Kyler’s Kicks | NBC Nightly News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "vkM_0bJ8imA",
             "title": "U.S. Records Nearly 279,000 Covid Infections In Single Day | NBC Nightly News",
             "secondDuration": 173,
@@ -121,8 +115,14 @@
             "title": "New York To Expand Covid Vaccine Distribution, Eligibility To Accelerate Process | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge62zgg0Zwk",
+            "title": "New York Gov. Andrew Cuomo Holds Briefing | NBC News",
+            "secondDuration": 5091,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

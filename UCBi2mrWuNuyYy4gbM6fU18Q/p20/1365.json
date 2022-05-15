@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ypi6IDfDbts",
-            "title": "US Olympic gymnast alleges sexual assault by team doctor  | ABC News",
-            "secondDuration": 416,
-            "group": "group_7"
-        },
-        {
             "videoId": "QFFR_Gv6Mak",
             "title": "Shooting rampage unfolds in Maryland and Delaware",
             "secondDuration": 177,
@@ -121,8 +115,14 @@
             "title": "Trump reverses position on health care subsidies",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSk7rLq6JMg",
+            "title": "Harvey Weinstein resigns from the Weinstein Co.",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

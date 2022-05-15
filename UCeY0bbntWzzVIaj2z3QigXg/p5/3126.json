@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rD-YiFuQRT4",
-            "title": "What Americans Should Know About Preventing Coronavirus Spread | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "kEu3BVr17TI",
             "title": "Prince Harry Takes Part In Final Royal Engagements | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Trump Speaks To Reporters Before Departing White House | NBC News (Live Stream Recording)",
             "secondDuration": 896,
             "group": "group_7"
+        },
+        {
+            "videoId": "9YUMm4nqPEw",
+            "title": "Pence Says Coronavirus Response Is An 'All-Hands-On-Deck Effort' | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

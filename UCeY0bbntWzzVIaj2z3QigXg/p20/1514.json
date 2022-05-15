@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JPfFQruHVxs",
-            "title": "'I Wish Him Luck,' Pres. Donald Trump Says Of James Comey Ahead Of Testimony | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "rnai5YuYRsE",
             "title": "NSA Leak: Federal Contractor Charged Over Top Secret US Intel Docs | NBC Nightly News",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Two Charged Over Oakland Warehouse Fire That Killed 36 People | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "AjO-nQad1Fk",
+            "title": "Orlando Business Mass Shooting: Fired Employee Kills 5 | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ODj5B_MzyTA",
-            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
-            "secondDuration": 2697,
-            "group": "group_7"
-        },
-        {
             "videoId": "iyDimnJfT6o",
             "title": "Coronavirus Pandemic Forces Americans To Face 'New Normal' | NBC News NOW",
             "secondDuration": 641,
@@ -31,8 +25,14 @@
             "title": "Trump Proposes $500 Million In Checks For Americans | NBC Nightly News",
             "secondDuration": 689,
             "group": "group_7"
+        },
+        {
+            "videoId": "oyv5CyO5eFg",
+            "title": "Coronavirus Questions Answered: New Self-Swab Tests, Visiting Elderly Relatives | NBC News NOW",
+            "secondDuration": 745,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

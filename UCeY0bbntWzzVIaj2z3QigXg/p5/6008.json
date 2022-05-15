@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aBSgg7wjjmo",
-            "title": "Watch Otto Warmbier’s High School Graduation Speech From 2013 | NBC News",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "W8YNMK-pWzM",
             "title": "No Mention Of Donald Trump Visit In U.K. Queen's Speech | NBC News",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Otto Warmbier’s Death: President Donald Trump and the US Respond | NBC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "hs8-SfR6raI",
+            "title": "Record-Breaking, Dangerous Heat Blankets the Southwest US",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

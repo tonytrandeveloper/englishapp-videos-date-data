@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "19wtlUOoiIQ",
-            "title": "Michael Phelps Surprises Biggest Fan",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "LoZtAQLzYKY",
             "title": "Kendall Jenner Takes on Vogue's 73 Questions",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Appoints New Campaign Manager, CEO",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdBBrIK4_zU",
+            "title": "Zac Efron Kisses Simone Biles at Rio Olympics",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

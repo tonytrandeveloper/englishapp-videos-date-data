@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RMnoPSq74q4",
-            "title": "Former Air Force counterintelligence specialist charged with spying",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "6vchWDvsOlU",
             "title": "Jussie Smollett: 'I'm pissed off' at people who question attack",
             "secondDuration": 216,
@@ -61,8 +55,14 @@
             "title": "Hollywood erupts after Academy moves 4 awards from live broadcast",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "EqLKiq22B3k",
+            "title": "Aziz Ansari opens up about sexual misconduct allegations",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

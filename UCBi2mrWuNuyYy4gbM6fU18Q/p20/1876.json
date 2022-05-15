@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "52ZHFsgr9gQ",
-            "title": "Boston Bombing Day 3 | Rumors Run Wild, $1B System Fails",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "cqgOgK9Eyng",
             "title": "Hillary Clinton 'GMA' FULL Town Hall | Democratic Candidate Answers Voter Questions",
             "secondDuration": 1579,
@@ -121,8 +115,14 @@
             "title": "Ecuador Earthquake | Rescuers Continue Desperate Search for Survivors",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "0z56Y8Qi2VU",
+            "title": "Elaborate Mexican Drug Tunnel, Cache of Drugs Uncovered by Officials",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

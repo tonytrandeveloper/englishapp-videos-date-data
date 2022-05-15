@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VEAYCd8u4gY",
-            "title": "Self-Driving Car to Make Cross-Country Journey",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "F46-eIqDcmc",
             "title": "March Madness Brackets Crush Some Fan's Predictions",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "Chair Lift Malfunction Injures Seven at Maine Ski Resort",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "M6YvZZGt5o8",
+            "title": "Police Shoot Man With Machete at New Orleans Airport",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

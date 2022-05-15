@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xICGGQNnt9g",
-            "title": "Gov. Andrew Cuomo Introduces NYS-Branded Hand Sanitizer To Help Combat Coronavirus | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "HqkzbmizjZc",
             "title": "New York Governor Cuomo Makes Coronavirus Announcement | NBC News (Live Stream Recording)",
             "secondDuration": 2208,
@@ -31,8 +25,14 @@
             "title": "Stocks Plunge At Market Open, Dow Down 1800 Points | NBC News Special Report",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLQT1RFfkHY",
+            "title": "Empty Streets And Subways: Coronavirus Lockdown Hits Milan | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

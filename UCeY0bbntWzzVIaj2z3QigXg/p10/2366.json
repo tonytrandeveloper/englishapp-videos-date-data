@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DgsiuvJT1Cg",
-            "title": "FEMA Provides An Update On Tropical Storm Florence | NBC News",
-            "secondDuration": 2759,
-            "group": "group_7"
-        },
-        {
             "videoId": "yUkZzpMnfPw",
             "title": "N.C. Resident Uses Pump To Help Save His Block From Florence’s Flood Waters | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Myrtle Beach Faces Hurricane Florence After First Lives Are Lost | NBC News",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "fnFi4zsUpfA",
+            "title": "Watch First Responders Rescue North Carolina Residents From Flooding | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

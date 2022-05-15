@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UArVaxBwUBY",
-            "title": "Lakers called up 11-year minor league veteran",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hwyu6b30jZg",
             "title": "Police: Man accidentally recorded murder confession",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Mariah Carey reveals battle with bipolar disorder",
             "secondDuration": 353,
             "group": "group_7"
+        },
+        {
+            "videoId": "YMLY5ugrGtY",
+            "title": "White House says Trump has power to fire Mueller",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

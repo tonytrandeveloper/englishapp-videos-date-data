@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xCHFIvZ_HiM",
-            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "qtITywCjaSs",
             "title": "Tornado Hits New Orleans And Leaves Destruction In Its Wake | NBC News",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Syrian Family Reunites Following President Trump's Immigration Ban | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fer5Or9EISA",
+            "title": "Mike Pence: Travel Ban On Solid Constitutional Ground (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 769,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

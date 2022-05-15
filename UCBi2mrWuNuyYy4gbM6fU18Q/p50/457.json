@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6KiZ1udKKdQ",
-            "title": "What it means for Democrats' control of the House",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "aLc7acWY0x8",
             "title": "Rashida Tlaib to become the first Muslim-American woman in Congress",
             "secondDuration": 30,
@@ -301,8 +295,14 @@
             "title": "Video shows a California music teacher punching a student",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "LfY4540dZt8",
+            "title": "Trump rallies in red states, where his approval ratings are high",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

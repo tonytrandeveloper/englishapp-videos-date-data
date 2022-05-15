@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sf92eMi1ADk",
-            "title": "The Debrief: California wildfires, winter storm, Khashoggi's funeral | ABC News",
-            "secondDuration": 1256,
-            "group": "group_7"
-        },
-        {
             "videoId": "_dY7ooY5M_U",
             "title": "New York-area commuters stranded for hours amid snow",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Seven women are suing Dartmouth College for sexual assault",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "8F5nk9Qlya0",
+            "title": "911 call released in the death of Ohio University student",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

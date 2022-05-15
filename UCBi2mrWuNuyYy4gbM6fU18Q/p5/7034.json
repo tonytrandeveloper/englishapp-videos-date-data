@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SrD1jJ8UDvM",
-            "title": "Sarah Silverman Tells DNC She Will Proudly Vote for Hillary | ABC News",
-            "secondDuration": 434,
-            "group": "group_7"
-        },
-        {
             "videoId": "21MVowBkyRQ",
             "title": "Al Franken FULL SPEECH at Democratic National Convention 2016",
             "secondDuration": 478,
@@ -31,8 +25,14 @@
             "title": "Trump Capitalizes on Meltdown at DNC",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "o_AnvzERq5E",
+            "title": "Jason Collins: 'Choice for Continued Progress Is Clear'",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

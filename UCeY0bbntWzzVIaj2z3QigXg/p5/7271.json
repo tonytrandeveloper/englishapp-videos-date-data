@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DznEKFcX1eE",
-            "title": "Dr. John Deasy: \"For student success, it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "mev6GU11Yjk",
             "title": "Chelsea Fearce: \"For student success, it takes...\"",
             "secondDuration": 8,
@@ -31,8 +25,14 @@
             "title": "Tim Armstrong: \"For student success, it takes...\"",
             "secondDuration": 26,
             "group": "group_7"
+        },
+        {
+            "videoId": "8zRvSJ1MZi4",
+            "title": "Joel Klein: \"For student success, it takes...\"",
+            "secondDuration": 15,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

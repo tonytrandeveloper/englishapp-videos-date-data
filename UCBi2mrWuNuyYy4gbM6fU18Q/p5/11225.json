@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0y-0jT0waq4",
-            "title": "In Solitary Confinement, 'the Screaming Starts'",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZjWaIY9T5qI",
             "title": "Mitt Romney Faces Tough Questions in Univision Interview, Promises 'Permanent' Fix to Immigration",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Popcorn Lung Lawsuit: Man Wins $7 Million for 'Popcorn Lung' Diagnosis",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "38sUYa0ANAY",
+            "title": "Lindsay Lohan Arrested: Charged with Leaving Scene of Accident in NYC While Driving Porsche",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

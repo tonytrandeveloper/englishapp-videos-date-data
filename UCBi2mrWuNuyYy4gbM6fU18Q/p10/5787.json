@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JOMxVyMy36c",
-            "title": "Wildfires Raging in West: Caught on Tape",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "_7vuw2V8srs",
             "title": "Robin Roberts' GMA Announcement Spurs Bone Marrow Donors",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Lady Gaga, Madonna Battle It Out in Dueling Concert Tours",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "twNaMXqnZkE",
+            "title": "FACEBOOK WEBCAST",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "00HeysRPNqE",
-            "title": "White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 1385,
-            "group": "group_7"
-        },
-        {
             "videoId": "wrD_lSISUIU",
             "title": "White House Holds Press Briefing: September 2 | NBC News",
             "secondDuration": 2790,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On Response To Hurricane Ida | NBC News",
             "secondDuration": 1491,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXnpUZClz60",
+            "title": "Report Finds Eviction Crisis Could Disproportionately Affect LGBTQ Renters",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

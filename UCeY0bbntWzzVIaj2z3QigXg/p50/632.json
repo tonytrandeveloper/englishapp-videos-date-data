@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "254gCMjU3as",
-            "title": "President Trump Predicts Canadian Alliance To Be ‘As Good Or Better’ Than Before | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vo463QRfk08",
             "title": "Canadian PM Acknowledges Policy Differences, But Refuses To ‘Lecture’ President Trump | NBC News",
             "secondDuration": 71,
@@ -301,8 +295,14 @@
             "title": "Tornadoes Strike New Orleans Area That Was Devastated By Katrina | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "xCHFIvZ_HiM",
+            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

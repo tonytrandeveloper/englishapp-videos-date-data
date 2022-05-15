@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4ZA2u6VEmNg",
-            "title": "'Beginning of the end for this show trial that we've seen in the House': Sen. Ted Cruz | ABC News",
-            "secondDuration": 648,
-            "group": "group_7"
-        },
-        {
             "videoId": "TdPNcqWxcxc",
             "title": "House to vote on articles of impeachment against Trump | ABC News",
             "secondDuration": 257,
@@ -31,8 +25,14 @@
             "title": "Mitch McConnell is facing scrutiny from Democrats on impeachment vote",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "SVSrk-nrQNQ",
+            "title": "Manhunt underway for a suspect in the murder of Tessa Majors",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

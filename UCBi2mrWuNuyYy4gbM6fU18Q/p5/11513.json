@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9mKj7fn4mC4",
-            "title": "Lifeguard Fired for Saving a Man's Life",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ypy0Jt5iMfs",
             "title": "Did Scientists Find the 'God Particle'?",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "4th of July Desserts: S'mores With a Twist - Marshmallow Fluff, Peanut Butter, Cookie Dough",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "E5zF-6Tt2fs",
+            "title": "4th of July Desserts: 'Cake Boss'' Italian Fruit Tart, Chocolate Covered Strawberry - Buddy Valastro",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

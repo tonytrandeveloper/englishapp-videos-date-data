@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1-cqjDL1esU",
-            "title": "Orlando Nightclub Survivor Shot Twice, Speaks Out",
-            "secondDuration": 489,
-            "group": "group_7"
-        },
-        {
             "videoId": "AMxfyNyRygI",
             "title": "Man Who Sold Orlando Shooter's Gun Criticizes FBI",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Muhammad Ali: In a Minute | ABC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "KLCTqZEobT0",
+            "title": "Lightning Round with Nick Cannon | ABC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

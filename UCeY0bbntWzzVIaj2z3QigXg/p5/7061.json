@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JJqiO37Kgys",
-            "title": "Germanwings Crash: How Reinforced Cockpit Backfired | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "-UiC5vCmI2Q",
             "title": "Saudi Arabia Mobilizes Ground Troops To Fight In Yemen | NBC Nightly News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Bowe Bergdahl Charged with Desertion | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "cDWf0AHWw6A",
+            "title": "Dashcam Video: Michigan Police Stop Turns Violent | NBC Nightly News",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

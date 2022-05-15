@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aUyWmsY6y04",
-            "title": "Major California Reservoir Heavily Damaged",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "lRe_p5t1rfo",
             "title": "Anna Nicole Smith's Daughter Speaks Out",
             "secondDuration": 345,
@@ -31,8 +25,14 @@
             "title": "Court Blocks Trump Bid to Reinstate Immigration Order",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvNsWPGiGD0",
+            "title": "Michael Flynn Discussed Sanctions With Russia Pre-Inauguration, Report Says",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6HE9ey4Pj5U",
-            "title": "The Conversation:  Behind the Scenes at the Oscars",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "5aLOAK2HloE",
             "title": "Amplified: Rogue Wave",
             "secondDuration": 516,
@@ -301,8 +295,14 @@
             "title": "Worse Than Haiti",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "cUyW7IYY6OM",
+            "title": "Heart of Destruction",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

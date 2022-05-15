@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pcdD3WaOcH8",
-            "title": "Trump 'very surprised' about subpoena for son",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ztqWbLOISww",
             "title": "The Debrief: North Korea launch, Sandra Bland video, Invictus games | ABC News",
             "secondDuration": 1780,
@@ -61,8 +55,14 @@
             "title": "Deadly school shooting in Colorado revives painful memories for community",
             "secondDuration": 565,
             "group": "group_7"
+        },
+        {
+            "videoId": "WSdjpkoKhfY",
+            "title": "Welcome, Archie Harrison Mountbatten-Windsor!",
+            "secondDuration": 396,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

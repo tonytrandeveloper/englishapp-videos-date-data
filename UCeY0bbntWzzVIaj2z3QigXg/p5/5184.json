@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZTyJ2CwS66g",
-            "title": "A Distant Galaxy With Almost No Dark Matter Could Prove Dark Matter Exists | Mach | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "l_-xZG2GqK8",
             "title": "EPA Chief Scott Pruitt Announces Revision Process On Fuel Economy Standards | NBC News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Says Military Will Guard U.S.-Mexico Border Until A Wall Is Built | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "KvCTZTI1sts",
+            "title": "States File Lawsuit Against Trump Administration Over Census Change | NBC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

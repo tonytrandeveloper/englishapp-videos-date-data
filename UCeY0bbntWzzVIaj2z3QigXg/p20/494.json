@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lUN6XEszlGk",
-            "title": "Inside An Appalachian ICU As Covid Takes Toll On Nurses | NBC News NOW",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "SqLmwiW-cuk",
             "title": "Weekly Initial Jobless Claims Rise To 885,000 As Country Struggles With Covid Surge | NBC News NOW",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "FBI Foils Plot To Hijack Plane In Attack Targeting U.S. Skyscraper | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "MI2ke9iEaTE",
+            "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

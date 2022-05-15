@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DtrkSqOMROw",
-            "title": "Gas Explosion At Paris Bakery Kills Three People, Injures Dozens | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "S9uBvFX8pOk",
             "title": "CES 2019 Round Up: 8K TVs And Smart Tractors | Mach | NBC News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Congress Adjourns As Government Shutdown Enters 21st Day | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "3SmfWwhPrMA",
+            "title": "Air Traffic Controllers Sue Government As Federal Workers Miss First Paycheck | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

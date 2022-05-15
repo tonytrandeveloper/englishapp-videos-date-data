@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BCHbYXuTcq0",
-            "title": "California Wildfire Forces Evacuation of Over 500 Homes",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "8X8huGiBRAc",
             "title": "Eric McCormack Interview 2014: Actor Discusses His Role on the Hit Show 'Perception'",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Spurs Win!",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "8zxT4Bn8giY",
+            "title": "'This Week': Elizabeth Drew's 'Washington Journal'",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

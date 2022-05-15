@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WUkgZjeBkVA",
-            "title": "New Hampshire a Huge Victory for Donald Trump",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "WM6VdTs6MzU",
             "title": "Jeb Bush's Speech in New Hampshire",
             "secondDuration": 540,
@@ -61,8 +55,14 @@
             "title": "Teresa Guidice Calls Prison 'Hell'  [Exclusive Interview on ABC]",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFYMiTUtYB8",
+            "title": "Marcus Samuelsson Takes 'GMA's $5 Dinner Challenge",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

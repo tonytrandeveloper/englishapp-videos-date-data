@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HH2mrMJAmV4",
-            "title": "Top Story with Tom Llamas – Dec. 9 | NBC News NOW",
-            "secondDuration": 3003,
-            "group": "group_7"
-        },
-        {
             "videoId": "yVm5Lz_TiBQ",
             "title": "Migrants Floc To Arizona Border As ‘Remain In Mexico’ Restarts",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Texas High School Band Spreads Holiday Cheer After Tragic Accident",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "NalXhQYPx50",
+            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
+            "secondDuration": 36800,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

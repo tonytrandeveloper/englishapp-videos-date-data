@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xEzUiypSi5A",
-            "title": "From High School Dropout to Billion-Dollar Biz",
-            "secondDuration": 404,
-            "group": "group_7"
-        },
-        {
             "videoId": "TcvxcBklqS0",
             "title": "Social Shopping for the Busy Bride",
             "secondDuration": 328,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby Cancels Appearances after New Furor over Rape Allegations",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "2EH4ZfKDRg8",
+            "title": "Kmart Employee Protests Thanksgiving Day Schedule",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

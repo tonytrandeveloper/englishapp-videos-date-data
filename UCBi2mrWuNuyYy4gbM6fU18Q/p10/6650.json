@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8HdfKNYciII",
-            "title": "Michael Jackson's Complicated Legacy",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "gC-OJN-_v1k",
             "title": "Boyfriend's Jealous Rage Turns Deadly",
             "secondDuration": 278,
@@ -61,8 +55,14 @@
             "title": "Mourning Fans Stop for the King of Pop",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "ezvepC2jJ1A",
+            "title": "Explaining Cardiac Arrest",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

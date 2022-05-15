@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UyJf9fAvXHg",
-            "title": "Nightly News Full Broadcast - Dec. 24",
-            "secondDuration": 1276,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bt9PRxlkVm0",
             "title": "What Christmas Looks Like Around The World Amid Pandemic",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Multiple Carjackings, Robberies Add To Crime Surge In Philadelphia",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "1mejS3RVPHk",
+            "title": "Sports World Reacts To Nationwide Covid Surge Due To Omicron",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

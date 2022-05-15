@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "THaZmQhUgQ4",
-            "title": "N.Y. Terror Suspect Admits Guilt",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZrY2wkIl4Iw",
             "title": "The Great Weight Debate",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Suicide Pilot's Daughter: Dad's a Hero",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRgHlNDGms8",
+            "title": "This Week Governors Special",
+            "secondDuration": 1334,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

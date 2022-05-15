@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tuxBiTwHNhU",
-            "title": "Jeff Sessions’ 1986 Confirmation Hearing | Flashback | NBC News",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "oMubRS-TY5s",
             "title": "Reince Priebus: 'No Violation' With Donald Trump's Business (Full) | Meet The Press | NBC News",
             "secondDuration": 444,
@@ -31,8 +25,14 @@
             "title": "Judge Approves Dying Teen’s Wish To Be Cryogenically Frozen | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOEcIjH-TdY",
+            "title": "Research: Exercise Can Help Concussion Patients Recover Faster | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

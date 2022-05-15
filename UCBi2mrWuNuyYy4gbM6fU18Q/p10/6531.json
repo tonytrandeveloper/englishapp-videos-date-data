@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yUbdmStzZ1s",
-            "title": "News 'Costumes'",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "vlqFlk7G1YE",
             "title": "Women's Conference: Dealing With Grief",
             "secondDuration": 354,
@@ -61,8 +55,14 @@
             "title": "On The Frontlines",
             "secondDuration": 363,
             "group": "group_7"
+        },
+        {
+            "videoId": "AAdW2HqBPxo",
+            "title": "U.S. Official: Afghanistan Not Worth It",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

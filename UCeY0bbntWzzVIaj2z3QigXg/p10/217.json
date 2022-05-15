@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KgRDhNWH_18",
-            "title": "Extreme Weather Hits The U.S.",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "4T6ZK_kc_6c",
             "title": "Tribute To Fashion Icon André Leon Talley",
             "secondDuration": 312,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Jan. 21",
             "secondDuration": 1026,
             "group": "group_7"
+        },
+        {
+            "videoId": "wBU5P6f-EKM",
+            "title": "Half The Count Hit By January Deep Freeze",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

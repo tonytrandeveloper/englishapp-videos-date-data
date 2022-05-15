@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vQkvhfZLyLk",
-            "title": "White House press briefing likely on Manafort verdict, Cohen Plea deal | ABC News",
-            "secondDuration": 2541,
-            "group": "group_7"
-        },
-        {
             "videoId": "eS0MyOV6vIA",
             "title": "Cohen's attorney says his client has information 'of interest' to Robert Mueller",
             "secondDuration": 288,
@@ -61,8 +55,14 @@
             "title": "Paul Manafort found guilty on 8 counts; mistrial on 10",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "zImSquX7Llw",
+            "title": "Arrest made in disappearance of Iowa jogger",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

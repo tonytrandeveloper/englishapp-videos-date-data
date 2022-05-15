@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i9ChL0Hxn-0",
-            "title": "State of the Union 2013: Obama Promises 'Firm Action' Against North Korea",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "yv6Tq8zZ9WY",
             "title": "Obama on Climate Change: Believe the Science",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Ft. Hood Hero: Obama 'Betrayed' Victims",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "24O-cLA_iQE",
+            "title": "State of the Union 2013: Obama to Focus on Economy, Gun Control",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

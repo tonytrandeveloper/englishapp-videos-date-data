@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6blXun2EOQ8",
-            "title": "Barbie Dream House Fully Loaded | ABC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "F_JOTRyjJJE",
             "title": "Severe Weather Sweeps Across the South,  Midwest, and Northeast | ABC News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "17 States Under Weather Advisory Because of Dangerous and Severe Cold",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "TwUZwYCiviM",
+            "title": "New Breeds Make Their Debut at the Westminster Dog Show",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

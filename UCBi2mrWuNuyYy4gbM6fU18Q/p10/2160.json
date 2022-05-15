@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Obc00p2YxB0",
-            "title": "Trump declares national emergency in the Rose Garden",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "l3cgXPOiSoA",
             "title": "Fraternity hazing scandal in Louisiana",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Rapper 21 Savage fears deportation after ICE arrest",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "jkVyfcjjwLY",
+            "title": "Trail runner describes near-deadly mountain lion attack",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

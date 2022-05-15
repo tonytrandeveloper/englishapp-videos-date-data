@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X3KPkpeBEZo",
-            "title": "In 2018, Women Candidates Are On Track To Make History | Meet The Press | NBC News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "gmMVTj0pdsk",
             "title": "The Donald Trump Playbook: Invent A Crisis, Deflect, Obscure | Meet The Press | NBC News",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "National Guard: Hawaii Residents May Soon Be Trapped Following Volcanic Eruption | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "UYkeeN3EpPk",
+            "title": "U.S.-Allies Scrambling After North Korea Summit Cancellation | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

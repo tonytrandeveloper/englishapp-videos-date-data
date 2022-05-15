@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "f7RETsgeRjA",
-            "title": "Congressional Leaders Light The Capitol Christmas Tree | NBC News",
-            "secondDuration": 1845,
-            "group": "group_7"
-        },
-        {
             "videoId": "JV06KGO43vc",
             "title": "Biden Holds Virtual Roundtable With Workers And Small Business Owners | NBC News",
             "secondDuration": 3506,
@@ -301,8 +295,14 @@
             "title": "Jon Ossoff Accuses Sen. Perdue Of 'A Pattern Of Misconduct And Self-Dealing' | NBC News NOW",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "NH-M_sLPZrs",
+            "title": "Supreme Court Hears Arguments On Plan To Exclude Undocumented Immigrants From Census | NBC News",
+            "secondDuration": 5616,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

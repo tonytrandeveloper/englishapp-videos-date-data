@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FV0uI9D1SK4",
-            "title": "Hillary Clinton Prepares for DNC, VP Announcement",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "eb61Mu3N5PI",
             "title": "NYC's Columbus Circle Shut Down, NYPD in Standoff With Suspect",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Trump VP Pick Mike Pence Takes Center Stage at GOP Convention | ABC News",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "tUIV8eQViDs",
+            "title": "Real-Life 'Where’s Waldo' Constructed for Kids at Hospital",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3RfT4fsiOM0",
-            "title": "Record snow, cold create arctic-like scenes",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "QI-_d-X0LwY",
             "title": "Steve Madden's unconventional path to shoe success and a second chance",
             "secondDuration": 462,
@@ -31,8 +25,14 @@
             "title": "Dangerous snow storms moving across the US",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "bFwIV3zBpTs",
+            "title": "New tax law takes effect on Jan. 1",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

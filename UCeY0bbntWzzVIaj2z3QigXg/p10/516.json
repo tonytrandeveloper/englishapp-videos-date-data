@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Qv1uFpm418",
-            "title": "Taliban Sources: Suicide Attacks Kill At Least 13 People Outside Kabul Airport",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "lidEav7MXuw",
             "title": "Pentagon Confirms Explosion Outside Kabul Airport",
             "secondDuration": 371,
@@ -61,8 +55,14 @@
             "title": "Animal Rescue In Kabul Races To Evacuate Staff, Animals Before Deadline",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "gNEhU2waMAU",
+            "title": "NBC News NOW Full Broadcast – August 25, 2021",
+            "secondDuration": 2994,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

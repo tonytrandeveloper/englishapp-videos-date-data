@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KVJYA8ikdO4",
-            "title": "Bernie Sanders: Police Must Be Held Accountable | Democratic Debate | NBC News-YouTube",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "EPvYXSMwNR8",
             "title": "Clinton: Must Stop Treating Drug Addicts As Criminals | Democratic Debate | NBC News-YouTube",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Carly Fiorina On Being Donald Trump's VP | 360 Video | NBC News",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "854vxjaG4NI",
+            "title": "Donald Trump Doubles Lead in GOP Race, New NBC News Poll Shows | NBC Nightly News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AUr5kfNCQ4s",
-            "title": "Washington Post's Karen Tumulty on 'Top Line'",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4h3GK1yG3c",
             "title": "Bidding to Bring the World Cup to the U.S.",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Hatch on Kagan Depends on 'Judicial Philosophy'",
             "secondDuration": 606,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9xnHNJStPo",
+            "title": "Washington Post's Chris Cillizza on 'Top Line'",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

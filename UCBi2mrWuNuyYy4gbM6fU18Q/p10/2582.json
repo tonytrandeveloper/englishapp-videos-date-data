@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y3q7mKwq8Ec",
-            "title": "President Trump delivers remarks as Rev. Billy Graham lies in honor at the US Capitol",
-            "secondDuration": 3833,
-            "group": "group_7"
-        },
-        {
             "videoId": "t0BZhRJqX24",
             "title": "Shooting survivor describes emotional return to school",
             "secondDuration": 336,
@@ -61,8 +55,14 @@
             "title": "Kushner security clearance downgraded",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "IhhemrLxeeM",
+            "title": "Envelope containing unknown substance opened at Joint Base Myer: Marine official",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

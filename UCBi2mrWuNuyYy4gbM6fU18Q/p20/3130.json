@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YjFtXn1DbXw",
-            "title": "How Did Chile Succeed in Mine Crisis?",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "m7syDMCbCto",
             "title": "The Hill's Shane D'Aprile on 'Top Line'",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "The Conversation: On the Ground in Chile",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "8WBP55X9lGc",
+            "title": "Amplified: X-Japan (extended)",
+            "secondDuration": 451,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

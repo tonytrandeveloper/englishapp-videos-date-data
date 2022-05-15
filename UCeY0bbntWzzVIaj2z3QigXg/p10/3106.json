@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iV1ycBdfbbo",
-            "title": "Damien Hirst Unveils ‘Unbelievable’ Exhibit Featuring Medusa, Mickey Mouse | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Th5Vf_yWbys",
             "title": "Rex Tillerson On Assad Regime: He Has ‘No Role’ To Govern Syria | NBC News",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "For Syrian Doctor, 'Gas Attacks' Are Chilling Reality | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6gUCa4289I",
+            "title": "Sarin Gas: The Colorless, Odorless Chemical Killer | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K1jPKobmzIM",
-            "title": "'Shark Tank's' most memorable moments as it launches Season 10",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lfs-lqA8sps",
             "title": "Firestorm as FBI investigation on Kavanaugh concludes",
             "secondDuration": 328,
@@ -121,8 +115,14 @@
             "title": "Trump mocks Kavanaugh accuser at raucous rally",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "wdozJb_VFz4",
+            "title": "French gangster captured after 3-month manhunt",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

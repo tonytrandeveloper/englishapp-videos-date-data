@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FRkH0GcGZUI",
-            "title": "Michael Flynn resigns as Trump's national security adviser",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Eq9b5j1vxU",
             "title": "200,000 people evacuated in Northern California as more rain is expected",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Two young girls shot in separate Chicago incidents fight for their lives",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhn-CVdQHTM",
+            "title": "President Trump, Canadian PM Justin Trudeau hold joint press conference",
+            "secondDuration": 2053,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

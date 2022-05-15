@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4fw86AjkS1o",
-            "title": "Luke Bryan's 'Roller Coaster' Ride",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2irMxtIC3s",
             "title": "Inside J.Lo's New $22 Million NYC Apartment",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Concerns Over Ebola Case in New York",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "zQlPPEU39Jc",
+            "title": "Takata Industries, Maker of Defective Airbags, Subject of Preliminary Criminal Investigation",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

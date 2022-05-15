@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NCT3UBPSTaY",
-            "title": "Earthquakes in Japan | ABC News #360Video",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "MDvTkDe0HHs",
             "title": "Father Charged For Shooting 4-year-Old Daughter",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Dog Shows Off Messi -like Soccer Skills",
             "secondDuration": 26,
             "group": "group_7"
+        },
+        {
+            "videoId": "uP0QNmYt1r0",
+            "title": "Fiery Bus Explosion in Jerusalem | 16 Injured",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

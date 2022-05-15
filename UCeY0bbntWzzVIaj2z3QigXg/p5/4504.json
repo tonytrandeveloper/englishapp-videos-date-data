@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mbBqJuhnYoE",
-            "title": "President Donald Trump On Supporting Veterans: 'The Fact Is I've Done A Lot' | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "vdKN4RemPXI",
             "title": "Watch Devastation Left Behind From Wildfires In Paradise, California | NBC News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi Confident She'll Win Speakership, Claims 'Overwhelming Support' | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "s-psuowFTkk",
+            "title": "Saving Boone County: Fighting For Lives In A Place Ravaged By Opioids | NBC Nightly News",
+            "secondDuration": 910,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

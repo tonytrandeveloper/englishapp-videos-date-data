@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mhfeHvko6ZE",
-            "title": "Meet the Hero K-9s That Protect the President",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "BON4gRY_OuY",
             "title": "In Case You Missed It: 10-24-2014",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "Secrets of an Identity Thief",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fw86AjkS1o",
+            "title": "Luke Bryan's 'Roller Coaster' Ride",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

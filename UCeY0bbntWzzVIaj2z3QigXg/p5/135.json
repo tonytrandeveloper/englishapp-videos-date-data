@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yCTr0HribgY",
-            "title": "LIVE: Ketanji Brown Jackson Supreme Court Confirmation Hearings | NBC News",
-            "secondDuration": 41200,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdjR7kQbJB0",
             "title": "Ukraine Experiencing Medical Supply Shortages",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Russia Intensifies Attacks in Kyiv But Is Losing Territory, According To Ukraine Officials",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "53GzCGMe4Zw",
+            "title": "NATO Members Meet as Russian Invasion of Ukraine Tests Alliance",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

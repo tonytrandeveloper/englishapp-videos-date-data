@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "csq4_gPa0Eo",
-            "title": "Greta Van Susteren Speaks Out Against Roger Ailes and Fox News",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "ikoaFz8zUv8",
             "title": "Hillary Clinton's Health | New Details",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Clinton Regrets Donald Trump Supporters Statement",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMkZXqS9Iro",
+            "title": "9/11 | 15 Years Since the Sept. 11 Attacks",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

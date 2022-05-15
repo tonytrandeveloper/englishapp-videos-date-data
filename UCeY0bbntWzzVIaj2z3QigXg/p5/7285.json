@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KNRdb1UVvaI",
-            "title": "Anthony Sethmann: \"For student success it takes...\"",
-            "secondDuration": 13,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDhKU4j7qWA",
             "title": "Wilek Mason: \"For student success it takes...\"",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Talia Smith: \"For student success it takes...\"",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJ6p7Tngw8w",
+            "title": "Jacqueline Tran: \"For student success it takes...\"",
+            "secondDuration": 12,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

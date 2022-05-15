@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rVHHde0EBhk",
-            "title": "10% Happier: David Leite, food writer, memoirist",
-            "secondDuration": 3107,
-            "group": "group_7"
-        },
-        {
             "videoId": "dTTt5ujcJ88",
             "title": "10% Happier: 'Jackie,' '20th Century Women' actor Billy Crudup",
             "secondDuration": 3697,
@@ -31,8 +25,14 @@
             "title": "Trump on the defensive during vacation, Pence shoots down reports of 2020 run",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNq03tZ7J38",
+            "title": "North Korea threatens US over new sanctions",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

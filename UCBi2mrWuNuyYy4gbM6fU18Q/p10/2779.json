@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "24BUzN6jqjU",
-            "title": "Rear Adm. Peter Brown on Coast Guard response to Hurricane Irma",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "yYU3CiVh68E",
             "title": "Former FEMA administrator: Must learn from Hurricane Irma when building back Florida cities",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Hundreds of thousands of residents without power in Miami",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "eHmYopbV6as",
+            "title": "Naples, Fla., mayor on Hurricane Irma prep",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

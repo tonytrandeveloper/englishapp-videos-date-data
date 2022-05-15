@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9_KSWvnl8gk",
-            "title": "Weekend Window: Big Bend National Park",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "qspJ6f9e0Uk",
             "title": "Alabama Gov. Bob Riley Battles Oil Spill",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Happy 100th Father's Day",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPJzA9mmCAY",
+            "title": "What's in an Apology for Apologizing?",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

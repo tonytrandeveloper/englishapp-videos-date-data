@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qQys7MvXjl8",
-            "title": "Chicago's Top Cop Responds to Police-Involved Shooting Video",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "7s0tPC0PqH0",
             "title": "Beaches on Cape Cod Closed Due to Great White Shark Activity",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "Dad Poses Son as US Olympian",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "tyXE1RNNES4",
+            "title": "Paul O'Neal Chicago Police Shooting Bodycam Video [GRAPHIC]",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

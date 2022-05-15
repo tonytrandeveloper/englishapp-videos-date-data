@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y4iykAjaNsY",
-            "title": "WEBCAST: We Have a New Miss America!",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "YMWS9MXQeZg",
             "title": "Miss Florida Is In It To Win It",
             "secondDuration": 549,
@@ -31,8 +25,14 @@
             "title": "Controversial TV Chef Paula Deen Makes Tearful Comeback",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9BXvsllb_ZQ",
+            "title": "Modern-Day American Beauties Break Pageant Mold",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

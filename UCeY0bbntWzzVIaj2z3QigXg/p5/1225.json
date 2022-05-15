@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ReuJWkXlMs8",
-            "title": "Exclusive Look At Rocket Set To Take Richard Branson To Space",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "3U4P7gyOXHA",
             "title": "NBC News NOW Full Broadcast - July 6, 2021",
             "secondDuration": 3144,
@@ -31,8 +25,14 @@
             "title": "Tropical Storm Elsa Strengthens As It Moves Toward Florida",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "PUxRhw2TPAE",
+            "title": "Death Toll In Florida Building Collapse Grows To 36",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

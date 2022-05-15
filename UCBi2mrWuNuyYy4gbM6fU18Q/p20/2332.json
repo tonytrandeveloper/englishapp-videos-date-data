@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GcdvaSe5CMI",
-            "title": "Meet the World's Fastest Clapper",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZOtA2gO4U4",
             "title": "Oprah Winfrey Interview 2014: 'The Life You Want Weekend' Kicks Off",
             "secondDuration": 275,
@@ -121,8 +115,14 @@
             "title": "Oprah Winfrey, Steven Spielberg Interview 2014: Creators on 'The Hundred Foot Journey'",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "MfgPdHFzGtM",
+            "title": "Ebola Outbreak: Experimental Drug Used in Treatment of US Victims",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

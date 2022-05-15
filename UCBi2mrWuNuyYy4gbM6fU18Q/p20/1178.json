@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "chxgWqCHGRA",
-            "title": "Colin Kaepernick new face of Nike's 'Just Do It' campaign",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "vuWedsSYd1o",
             "title": "'The Briefing Room': Brett Kavanaugh Hearing, McCain's replacement, Midterm poll numbers | ABC News",
             "secondDuration": 852,
@@ -121,8 +115,14 @@
             "title": "GOP Senator on Kavanaugh nomination: ‘30 years ago, he would have passed unanimously’",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "d-rrAFfvnhw",
+            "title": "Federal investigators uncover elaborate gold scam that cost victims millions",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

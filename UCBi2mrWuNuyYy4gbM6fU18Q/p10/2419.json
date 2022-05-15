@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jy0x5DLNEH8",
-            "title": "Russian pop star behind Trump Tower meeting taunts investigators",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "MrZrHmrP2L4",
             "title": "ABC News Live: Thailand cave rescue update, Trump at NATO summit",
             "secondDuration": 1679,
@@ -61,8 +55,14 @@
             "title": "Thai boys soccer team and coach rescued from cave",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "SEaY5U4wauk",
+            "title": "The latest on the immigration reunion deadline",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

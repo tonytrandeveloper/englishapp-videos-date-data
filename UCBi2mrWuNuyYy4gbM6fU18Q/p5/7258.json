@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "doPVlwr9NPU",
-            "title": "New Information About Brock Turner Revealed",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "ukx-FzJDbYo",
             "title": "Hillary Clinton Interview With David Muir After Win",
             "secondDuration": 432,
@@ -31,8 +25,14 @@
             "title": "'GMA' Hot List: Hillary Clinton Ready to Debate Donald Trump",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "rEBj6Z4W6oc",
+            "title": "Bernie Sanders' Next Moves",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

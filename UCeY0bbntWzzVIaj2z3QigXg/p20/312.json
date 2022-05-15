@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mhc4mE_ptQU",
-            "title": "Pelosi Appoints Republican Rep. Liz Cheney to Jan 6th Committee",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "5XgrItmBQys",
             "title": "Supreme Court Rules To Uphold Restrictive Arizona Election Law",
             "secondDuration": 229,
@@ -121,8 +115,14 @@
             "title": "Bill Cosby’s Accusers Respond To Overturned Conviction And Release",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "17lkZC9YBZg",
+            "title": "Delta Variant Detected In All 50 States",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

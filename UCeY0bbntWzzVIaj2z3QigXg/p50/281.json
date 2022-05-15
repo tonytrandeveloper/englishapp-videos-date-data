@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GGRUN6AefkQ",
-            "title": "NBC News Medical Contributor Speaks Out About Coronavirus Hospitalization | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "nvN3SW0WO0s",
             "title": "FBI: China Is Targeting U.S. Coronavirus Research Through Cyberattacks | NBC Nightly News",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "Shanghai Disney Theme Park Reopens Amid New Rules To Prevent Coronavirus Spread | NBC News NOW",
             "secondDuration": 597,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ixg6vAyJWWg",
+            "title": "Live: Trump Holds Press Briefing on Coronavirus Testing | NBC News",
+            "secondDuration": 3709,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

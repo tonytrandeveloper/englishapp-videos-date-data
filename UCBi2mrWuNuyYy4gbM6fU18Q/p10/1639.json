@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A_iijlMvxAQ",
-            "title": "President Trump discusses the strength of US military | SOTU 2020 l  ABC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "m9-J7rOKaTc",
             "title": "Trump claims successful trade deals l State of the Union 2020 | ABC News",
             "secondDuration": 451,
@@ -61,8 +55,14 @@
             "title": "WATCH LIVE: ABC News Live Prime | ABC News",
             "secondDuration": 3547,
             "group": "group_7"
+        },
+        {
+            "videoId": "HBiyqQbE8mQ",
+            "title": "Chiefs' player pays adoption fees for more than 100 dogs l ABC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

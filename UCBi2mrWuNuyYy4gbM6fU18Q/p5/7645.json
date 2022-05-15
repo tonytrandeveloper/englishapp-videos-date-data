@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DQyTnmk61eY",
-            "title": "Kansas Wildfire Burns, Severe Storms Strike Indiana, Florida",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "9FKg0zpOSVw",
             "title": "Bernie Sanders Sweeps Saturday Caucuses",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Prays for Peace on Easter Sunday",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "uJ62AHiDpFc",
+            "title": "Brussels Riot Police Clash With Right-Wing Protestors",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

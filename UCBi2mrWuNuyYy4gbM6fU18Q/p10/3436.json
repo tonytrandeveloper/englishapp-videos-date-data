@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B7Dp0LN-Jvc",
-            "title": "VMA Awards Best Moments",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "dLKZ9m6yG7I",
             "title": "Christie Says Trump Has Been 'Completely Consistent' on Immigration",
             "secondDuration": 508,
@@ -61,8 +55,14 @@
             "title": "2016 VMAs | Stars Converge",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kt1c0LlVq7Q",
+            "title": "Trump Tweets About Dwayne Wade's Cousin Shooting",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

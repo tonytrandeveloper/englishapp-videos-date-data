@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7cOXP3JsTJE",
-            "title": "People Get Animals to Predict Super Bowl's Outcome",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "opQplG3ACqY",
             "title": "Super Bowl Ads Promise to Be the Best Ever",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Verdict: Guilty",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "de3H_KwxsJA",
+            "title": "American Athletes Arrive in Sochi Amid Terror Fears",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

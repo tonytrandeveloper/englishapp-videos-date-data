@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5T9mkSixkDQ",
-            "title": "Washington Mall Shooting Leaves 5 Dead",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "u-8mLIi6754",
             "title": "David Beckham Starts '22 Push-Ups Challenge'",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "UNC Student Found Bludgeoned to Death in Her Own Apartment: Part 2",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsj4eqDLe10",
+            "title": "Friends, Family Stunned to Learn UNC Student Is Dead: Part 1",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

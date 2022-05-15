@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hLGQzOkTxd0",
-            "title": "Morning News NOW Full Broadcast - Oct. 25th",
-            "secondDuration": 2679,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zvck8_jNRVg",
             "title": "Ed Sheeran Tests Positive For Covid, Will Do Upcoming Performances From Home",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "Extreme Weather Strikes the West Coast",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf1pSDLwJjQ",
+            "title": "Over 2,000 Migrants From Southern Mexico City",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

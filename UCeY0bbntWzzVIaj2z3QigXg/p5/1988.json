@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KheyA5bb8f0",
-            "title": "Russian Nuclear Submarine Launches Test Missiles Over 3,000 Miles | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "YzUZ6u2Mcjc",
             "title": "Vaccine Emergency Use Authorization Marks Historic Achievement | NBC Nightly News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "U.S. Health Care Workers Prepare To Receive Covid-19 Vaccine | NBC Nightly News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "NN3K87ye6P8",
+            "title": "Examining Pandemic’s Impact On Emissions | NBC News NOW",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

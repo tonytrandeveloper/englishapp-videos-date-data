@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WUQW_qPqsKg",
-            "title": "Uber Driver Attacks | CAUGHT On CAMERA",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "LOFHTbkLgag",
             "title": "Severe Flooding Expected in East Coast Storm",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Deadly Storms Wallop the South",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "KniWVRi4Gsc",
+            "title": "The Power of Made in America All Over the World",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PMkZXqS9Iro",
-            "title": "9/11 | 15 Years Since the Sept. 11 Attacks",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "LCTqIlXOVF0",
             "title": "Hillary Clinton Pneumonia Diagnosis Revealed",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "Samsung Smartphone Battery Issues Force Major Recall",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "_MJZetruCCQ",
+            "title": "Greta Von Susteren Addresses Roger Ailes Scandal at Fox",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

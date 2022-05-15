@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zdf9p0LuiXI",
-            "title": "Coronavirus Fears Drive Away Crowds, Push Markets Down | Meet The Press | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4ZuNqTqm1w",
             "title": "Testing Flaws And Capacity Issues Slow U.S. Response To Coronavirus Spread | Meet The Press",
             "secondDuration": 194,
@@ -31,8 +25,14 @@
             "title": "Full Sanders: 'Establishment Put A Great Deal Of Pressure' On Buttigieg & Klobuchar | Meet The Press",
             "secondDuration": 699,
             "group": "group_7"
+        },
+        {
+            "videoId": "KvhvZS1rUCQ",
+            "title": "Full Fauci: For Coronavirus And Crowds, 'If You're A Vulnerable Person, Take It Seriously'",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-NJsutnyqOM",
-            "title": "Democratic National Convention | Stars at the DNC",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "u-QEZd_Vyl0",
             "title": "NYPD to Spend $7.5M on Vests, Helmets for Police",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Michelle Obama Gives Rousing DNC Speech",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "hnJJT17p248",
+            "title": "Who's Behind Massive DNC Email Hack?",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

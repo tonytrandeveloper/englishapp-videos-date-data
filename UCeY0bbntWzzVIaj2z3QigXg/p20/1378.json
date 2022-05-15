@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "krsMpbliG9I",
-            "title": "Southern California Wildfires Prompt Air Quality Warnings | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "m4bWCve0WsM",
             "title": "Massachusetts Town Turns Back The Clock In Ode To Norman Rockwell | NBC Nightly News",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Atlanta Mayor Race May Be Too Close To Call | NBC BLK | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "YRYWpDAHl-4",
+            "title": "U.S. Supersonic Bomber Leads Attack Drill Over Korean Peninsula | NBC News",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

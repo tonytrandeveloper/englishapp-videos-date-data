@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aMXG-Lz2vUI",
-            "title": "10-year-old boy tests positive for the flu, later dies from pneumonia",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "MCgInd-sN9M",
             "title": "President Donald Trump attends Congressional Gold Medal ceremony for former Sen. Bob Dole | ABC News",
             "secondDuration": 4402,
@@ -31,8 +25,14 @@
             "title": "New victims in flu epidemic as CDC holds urgent meeting",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "WbCVRC-DjgY",
+            "title": "Trump's vulgar comments slow immigration deal",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

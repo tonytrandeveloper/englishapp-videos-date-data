@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AsEQY6FAFZc",
-            "title": "This Morning’s Top Headlines – September 15 | Morning News NOW",
-            "secondDuration": 1205,
-            "group": "group_7"
-        },
-        {
             "videoId": "vc9Ilw8R_0U",
             "title": "Trash Piles Up In New Orleans As Post-Ida Pickups Fall Behind",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Blinken Faces Bipartisan Criticism Of Chaotic Afghanistan Withdrawal",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "xWzkHv8HO8A",
+            "title": "Tropical Storm Nicholas Slams Gulf Coast",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

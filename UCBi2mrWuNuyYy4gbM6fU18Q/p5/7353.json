@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YoKY_YoWJwE",
-            "title": "Phil Mickelson Accused of Insider Trading",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2BKPFcvwI0",
             "title": "Seven Days Inside Riker's Island | A Hidden America with Diane Sawyer (GMA)",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "EgyptAir Debris Found, Egyptian Officials Say",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "l6Zr8yPBIFs",
+            "title": "Kesha Will Perform at the Billboard Music Awards",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

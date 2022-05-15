@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6-y69IwO0zY",
-            "title": "CIA Looking for Revenge After Attack",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPpZP2c3Epk",
             "title": "What Gadgets Will Be Hot in 2010?",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Sam Champion on 'Extreme Makeover: Home Edition'",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "_OEDntHL-80",
+            "title": "Financial New Year's Resolutions",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

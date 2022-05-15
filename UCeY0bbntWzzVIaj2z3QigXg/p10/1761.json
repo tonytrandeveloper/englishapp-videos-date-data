@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SfBg4gYPK50",
-            "title": "Special Report: House Votes To Pass Impeachment Resolution | NBC News",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "z16Fx7XFz9k",
             "title": "Twitter Will Stop Accepting Political Ads Ahead Of 2020 Election | NBC Nightly News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Trump Awards Medal Of Honor To Master Sgt. Williams For Heroic Acts While Serving | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "2tShsclIARE",
+            "title": "Jeopardy! Host Alex Trebek Films Pancreatic Cancer Public Service Announcement | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

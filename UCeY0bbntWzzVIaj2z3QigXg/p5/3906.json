@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-mzAHp8dcMw",
-            "title": "Missing American Medical Student Found Alive In Mexico | NBC Nightly News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "ph1fMT5GFg8",
             "title": "Trump Announces Delay Of Mass Immigration Raids That Were To Start Sunday | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Officials In Mexico Confirm That 29-Year-Old American Has Been Kidnapped | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "PIQvnlNnvSo",
+            "title": "Andrew Yang Shares His Big Idea For Universal Basic Income | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "938DG12Vvvo",
-            "title": "NBC News NOW Full Broadcast - April 5th, 2021 | NBC News NOW",
-            "secondDuration": 3195,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkqT7MyPhLs",
             "title": "Weinstein Claims Unfair Trial, Appeals Sex Crimes Conviction | NBC News NOW",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "Toxic Water Leak Causes State Of Emergency In Florida | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "nKecwmnHC2s",
+            "title": "Minneapolis Police Chief Testifies In Derek Chauvin Trial | NBC Nightly News",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

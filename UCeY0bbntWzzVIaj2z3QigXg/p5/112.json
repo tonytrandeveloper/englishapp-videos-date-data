@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h8FVlFCHaGo",
-            "title": "Ukrainians Racing To Protect Odesa",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFuplLq50Fs",
             "title": "Russia Shifts Focus Of Invasion To Eastern Ukraine",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "New Tax On Billionaires Included In 2023 White House Budget Proposal",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "ooilxjOGuk4",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1300,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

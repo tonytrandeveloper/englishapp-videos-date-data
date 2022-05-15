@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1thtaiFQZgo",
-            "title": "Ex-NFL player killed over a parking spot in Colorado",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "euY-LMluOJk",
             "title": "The latest development in the Jussie Smollett attack",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "New twist in Jussie Smollett case as police search for motive",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "k8DC5yDxYJw",
+            "title": "Possible motive emerges in disappearance of Colorado mom",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

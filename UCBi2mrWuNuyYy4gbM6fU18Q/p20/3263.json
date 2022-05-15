@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DL_dmN2Ck10",
-            "title": "Juju Juggles Halloween",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "Drw_Cwuw8iY",
             "title": "How to Live For a Century",
             "secondDuration": 506,
@@ -121,8 +115,14 @@
             "title": "Amplified: We Have Band",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "0y5QrtZkm2U",
+            "title": "Incivility in Paris",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

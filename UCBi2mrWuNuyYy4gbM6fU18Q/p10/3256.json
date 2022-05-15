@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X-NINpsGr7I",
-            "title": "Donald Trump Defies Polls and Takes the White House",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "hj6iinK4O5o",
             "title": "Hillary Clinton Blindsided by Defeat",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "World Reacts to President Elect Trump",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xpea8lunJ0w",
+            "title": "Trump on Energy Policy, the Environment",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

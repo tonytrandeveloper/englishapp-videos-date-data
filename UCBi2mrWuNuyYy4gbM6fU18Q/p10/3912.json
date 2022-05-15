@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rJhiLoJrM9w",
-            "title": "What's Fueling the Volatility on Wall Street",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "kMBuBHxovW4",
             "title": "Index: Einstein's Cosmic Breakthrough",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Democratic Presidential Candidates Face Off in Debate",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfsIhrQcNUw",
+            "title": "Oregon Occupiers Plan to Turn Themselves In",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

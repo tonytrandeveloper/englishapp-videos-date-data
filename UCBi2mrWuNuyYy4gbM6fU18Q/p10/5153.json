@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kVljlJJwPuI",
-            "title": "Protester Disrupts French Open Match With Flare",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "lOk6lBQS0DY",
             "title": "Mandela Family Seeks Privacy in Former President's Health Battle",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Dianne Feinstein, Mike Rogers on NSA Spying 'Balance is a Difficult Thing to Actually Identify'",
             "secondDuration": 662,
             "group": "group_7"
+        },
+        {
+            "videoId": "wpch9BIl58Y",
+            "title": "'This Week' Web Extra: Rep. Keith Ellison Answers Viewer Questions From Facebook, Twitter",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

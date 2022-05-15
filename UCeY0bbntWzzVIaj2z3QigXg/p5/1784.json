@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TZ7NO7mjCzE",
-            "title": "Ancient Brewery Discovered In Egypt By Archaeologists | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "YvSs1GFHj3g",
             "title": "Gov. Hogan: 'We Need To Move On From The Cult Of Donald Trump' | Meet The Press | NBC News",
             "secondDuration": 377,
@@ -31,8 +25,14 @@
             "title": "Raskin: 'We Have No Regrets At All' On Impeachment Trial Loss | Meet The Press | NBC News",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FQ9tQGFYXw",
+            "title": "CDC Director: 'We Have Hit The 50 Million' Mark For Vaccinations | Meet The Press | NBC News",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

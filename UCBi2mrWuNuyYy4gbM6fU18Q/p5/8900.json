@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dVNSRXgDGEY",
-            "title": "Disney Reveals Details about \"Frozen Fever\"",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "3oEpX1VaPJM",
             "title": "App Calculates The Likelihood Your Plane Will Crash",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Bobbi Kristina Fighting for her Life",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "WD8wTzsHXmY",
+            "title": "The Winter That Won’t Give Up",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

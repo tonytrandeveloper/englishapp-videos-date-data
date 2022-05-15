@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O7MdXN16qA0",
-            "title": "President Trump,  Russia's Vladimir Putin hold joint news conference | ABC News",
-            "secondDuration": 6139,
-            "group": "group_7"
-        },
-        {
             "videoId": "twN8cufR_04",
             "title": "Store manager calls cops on black customer over coupon dispute",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Woman found alive 7 days after her car plunged off cliff",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "NgWFsDrplc0",
+            "title": "A CVS manager called the police on a black woman who was trying to use a coupon",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

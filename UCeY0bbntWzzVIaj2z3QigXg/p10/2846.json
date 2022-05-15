@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kQueh07MbmA",
-            "title": "Massive Forest Fires Rage Through California | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "YVyb2dwClg4",
             "title": "A State Trooper's Opioid-Fueled Fall From Grace | NBC News",
             "secondDuration": 323,
@@ -61,8 +55,14 @@
             "title": "Las Vegas Shooting: Survivors Struggle To Finance Recovery Costs | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "drYXRxKoGi8",
+            "title": "Rohingya Muslim Refugees Flee Ethnic Cleansing In Myanmar | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

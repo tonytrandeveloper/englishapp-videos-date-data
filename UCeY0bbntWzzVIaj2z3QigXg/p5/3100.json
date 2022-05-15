@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NLGX2L9JLa8",
-            "title": "Coronavirus Patient Explains The Worst Symptoms | NBC News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "VEJWCvnAMlc",
             "title": "Elizabeth Warren Announces She Is Suspending Her Presidential Campaign | NBC News",
             "secondDuration": 527,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Warren Speaks After Dropping Out Of 2020 Race | NBC News (Live Stream Recording)",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "TYRD-lkguO4",
+            "title": "Voting Technology Expert Claims Supercenters At Root Of Long Super Tuesday Lines | NBC News NOW",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

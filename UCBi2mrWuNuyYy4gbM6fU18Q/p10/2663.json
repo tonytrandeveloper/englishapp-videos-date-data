@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j4BVd35Z3hY",
-            "title": "President Donald Trump delivers remarks on national security strategy| ABC News",
-            "secondDuration": 3546,
-            "group": "group_7"
-        },
-        {
             "videoId": "CJ3rt5YoVXo",
             "title": "Train derailment survivor describes being catapulted into seat in front of him",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Volunteer football coach receives new car as thank-you for his service",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "49P1O8snL-E",
+            "title": "Fast-moving fire leaves families homeless just as Christmas approaches",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

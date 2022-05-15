@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y2QxALNgkU8",
-            "title": "Mitt Romney's Health Plan",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "qhiaUzgQnM0",
             "title": "Newt Gingrich on the Defensive",
             "secondDuration": 46,
@@ -61,8 +55,14 @@
             "title": "Medicating Your Child",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "OaxsElmcd4M",
+            "title": "Those We Lost in 2011: Year-in-Review",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

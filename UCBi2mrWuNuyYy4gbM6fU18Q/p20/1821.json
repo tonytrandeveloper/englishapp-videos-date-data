@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pIK28wLGU8w",
-            "title": "Police Violence Caught On Tape Released by Chicago",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "5JjJ50ItSDI",
             "title": "Clinton Describes Trump as 'Temperamentally Unfit' for Presidency",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Trump Gets Paul Ryan's Vote Despite Differences",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "mDFIkto3VAw",
+            "title": "Man Rescued After Floating 20 Hours in the Ocean without Life Jacket",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

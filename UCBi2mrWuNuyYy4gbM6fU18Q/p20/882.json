@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uo6PrCLfuVo",
-            "title": "Democrats say witnesses carry strong evidence in impeachment inquiry l ABC News",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "sOaP6OlfYiI",
             "title": "Republicans go on the offensive in impeachment probe l ABC News",
             "secondDuration": 310,
@@ -121,8 +115,14 @@
             "title": "'Have You Seen This Man' podcast: Breaking down episode 2 | ABC News",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "2CNsi172jF4",
+            "title": "'Have You Seen This Man' podcast: Breaking down episode 1 | ABC News",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

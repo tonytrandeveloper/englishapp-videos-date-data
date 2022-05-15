@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VDQoSovYm_M",
-            "title": "Israel Launches Gaza Ground Invasion | NBC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "xdLy3fwdEII",
             "title": "Malaysian Crash Is \"A Crime\" Says Aviation Expert | NBC News",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Top 3 Lyme Disease Myths | Debunker | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7AD_QoN4gI",
+            "title": "Violent Hailstorm Sends Sunbathers Running | NBC News",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

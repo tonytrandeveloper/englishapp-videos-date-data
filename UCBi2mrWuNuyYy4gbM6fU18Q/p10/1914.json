@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c6O-M1MG0FU",
-            "title": "Focus turns to lawmakers after Dayton, El Paso shootings l ABC News",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "y8uBLq2hyw4",
             "title": "2 pilots arrested for attempting to fly while intoxicated l ABC News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Remembering at least 31 killed in Dayton, El Paso shootings",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "et5nWo3WG7c",
+            "title": "Video shows chaos as suspected Dayton gunman tried to enter bar",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

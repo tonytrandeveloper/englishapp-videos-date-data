@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g16KeLrZRqE",
-            "title": "A$AP Rocky officially charged with assault in Sweden",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hPSd3ORQWf4",
             "title": "Trump declares victory after Robert Mueller testimony",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Extreme heat poses threat to Notre Dame",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "zCivS6LxM3Q",
+            "title": "Ole Miss student died of gunshot wounds: Police",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

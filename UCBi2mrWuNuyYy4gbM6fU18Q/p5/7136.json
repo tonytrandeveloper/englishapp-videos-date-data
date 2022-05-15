@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8Bxt3J_zR6o",
-            "title": "Cab Driver Returns $187,000 Left in Car",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "t43lRA-zcqw",
             "title": "Snoop Dogg to Perform at Democratic National Convention",
             "secondDuration": 303,
@@ -31,8 +25,14 @@
             "title": "President Obama Hits Campaign Trail for Hillary Clinton",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "nalGPlG_p34",
+            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

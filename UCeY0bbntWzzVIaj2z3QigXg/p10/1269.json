@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9grk714YbXc",
-            "title": "Watch NBC News NOW Live - July 13",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "202gq_1r1Vw",
             "title": "Monkey Business: How COVID-19 Impacted Local Species In Thailand | NBC News NOW",
             "secondDuration": 573,
@@ -61,8 +55,14 @@
             "title": "White House Denies Opposition Research Being Done On Dr. Fauci | NBC News NOW",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "S7csscGDha4",
+            "title": "Trump Participates In Roundtable On Positive Impact Of Law Enforcement | NBC News",
+            "secondDuration": 3296,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

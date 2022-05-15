@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "umCggirERig",
-            "title": "The Year With Katie Couric: 2012 Dishonor Roll",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mjf8QkyiTl4",
             "title": "The Year With Katie Couric: Social Media",
             "secondDuration": 331,
@@ -31,8 +25,14 @@
             "title": "President Obama Promises Action to Reduce Gun Violence",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "wGfWTFwHpoo",
+            "title": "Blizzard Warnings Threaten Holiday Air Travel",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

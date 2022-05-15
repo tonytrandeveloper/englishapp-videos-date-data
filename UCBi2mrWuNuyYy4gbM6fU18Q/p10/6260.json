@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ha6C3hIXibA",
-            "title": "New Drug Helps Fight Drug, Alcohol Addiction",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IqcBjM3osY",
             "title": "Amy Walter Talks 2010 Elections on 'Top Line'",
             "secondDuration": 214,
@@ -61,8 +55,14 @@
             "title": "The Conversation: On the Ground in Chile",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "8WBP55X9lGc",
+            "title": "Amplified: X-Japan (extended)",
+            "secondDuration": 451,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

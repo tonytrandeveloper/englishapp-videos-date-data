@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UtnUYAIIjI0",
-            "title": "‘The Bachelor’ Season 20 Week 8 Recap  | ABC News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-Dq2udfcEg",
             "title": "Kalamazoo Shooting Suspect Admits to ‘Taking People’s Lives’  Investigators Say",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Michigan Shooting | Jason Dalton Allegedly Took Uber Fares During Rampage",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "ggTgT0uutM0",
+            "title": "A Safari Adventure Like You've Never Seen Before",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

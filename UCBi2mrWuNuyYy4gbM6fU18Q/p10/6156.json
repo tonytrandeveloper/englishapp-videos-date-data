@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lw55Nm0U8kg",
-            "title": "Bernie Sanders: Social Security Is 'Not Going Broke'",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "XqrtMTBTkJM",
             "title": "Japan Earthquake: U.S. Family Reunited (03.15.11)",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Japan Earthquake: Shocking New Tsunami Video (03.14.11)",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "S5jfYTsDYxU",
+            "title": "Japan Earthquake: Radiation Effects On Body (03.14.11)",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

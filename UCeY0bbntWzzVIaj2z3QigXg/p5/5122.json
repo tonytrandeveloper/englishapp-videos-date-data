@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oWDBP2_9weY",
-            "title": "How Standing Desks Can Improve Your Memory | Better | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qd07EsITnBo",
             "title": "Father And Son Stationed At Same Arizona Air Force Base | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Southwest Airlines Cancels Dozens Of Flights For Inspections After Explosion | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "oenD2SP8Crw",
+            "title": "Waffle House: Suspect In Killing Of Four Taken Into Custody After Manhunt | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

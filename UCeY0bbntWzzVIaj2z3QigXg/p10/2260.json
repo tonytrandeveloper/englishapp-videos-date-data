@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NYL-wPVzL64",
-            "title": "Paradise, California, In Ruins As Camp Fire Continues To Rage | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "hGPdKZXGb4A",
             "title": "Full Schiff: 'Facts for recusal are very strong here' for acting Attorney General | Meet The Press",
             "secondDuration": 548,
@@ -61,8 +55,14 @@
             "title": "Tension Between Trump And Macron As Leaders Gather In Paris For WWI Anniversary | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "90G2n1GqXZo",
+            "title": "Florida Orders First Statewide Recount In History After Razor-Thin Margins | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

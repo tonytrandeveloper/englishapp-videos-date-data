@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rC7tONNWT6c",
-            "title": "Luke Perry dies from massive stroke at 52",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsTX_c1UDHQ",
             "title": "Prayer service held at Alabama high school in wake of deadly tornado",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "Florida prosecutor delivers life-changing opening statement",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGDBH74gSCw",
+            "title": "SpaceX successfully launches rocket en route for the International Space Station",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

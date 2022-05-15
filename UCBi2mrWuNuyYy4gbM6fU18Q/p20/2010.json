@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S9iWfRM6B_w",
-            "title": "President Obama Addresses ISIS | ABC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNMZtLjrWGY",
             "title": "Obama Late to Kennedy Center Honors, Receives Standing Ovation",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "San Bernardino Shooting Investigated as 'Act of Terrorism'",
             "secondDuration": 1761,
             "group": "group_7"
+        },
+        {
+            "videoId": "IgsP4_VXep4",
+            "title": "San Bernardino Shooting Investigated as 'Act of Terrorism'",
+            "secondDuration": 1761,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

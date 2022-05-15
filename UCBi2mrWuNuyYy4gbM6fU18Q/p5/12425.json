@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dPJUhWwHbeU",
-            "title": "Best of 2010: John Berman's 90 Seconds of News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDV43VTjUJY",
             "title": "'Spider-Man' Actor Rushed to Hospital",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Long Range Forecasting",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "jWumprRsN7I",
+            "title": "'Don't Ask, Don't Tell' Repealed, But Not Gone",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

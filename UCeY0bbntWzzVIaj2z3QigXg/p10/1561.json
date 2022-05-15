@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oMNVqrMZD4M",
-            "title": "Watch 2020 Presidential Candidates React After South Carolina Primary Results | NBC News",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "T58AZtAuNHE",
             "title": "'Saturday Night Live' Targets Coronavirus And Democratic Presidential Candidates | NBC News",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "Candidates Speak After South Carolina Primary Results | NBC News (Live Stream Recording)",
             "secondDuration": 9553,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wx86H14EIng",
+            "title": "How Hospitals Are Preparing For Potential Coronavirus Patients | NBC News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EgFwUa1SIas",
-            "title": "World's Largest Uncut Diamond Up for Auction",
-            "secondDuration": 40,
-            "group": "group_7"
-        },
-        {
             "videoId": "ujZ0dSBMGu4",
             "title": "Lindsey Stirling | Renegade Violinist",
             "secondDuration": 444,
@@ -121,8 +115,14 @@
             "title": "Istanbul Airport Attack | Suicide Bombers Set Off Blasts",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z49LHoEuC-8",
+            "title": "Two Trains Collide Head On",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

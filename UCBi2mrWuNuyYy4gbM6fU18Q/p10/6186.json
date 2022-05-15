@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wbYk85I01lM",
-            "title": "Space Shuttle Challenger Explosion, Teacher Christa McAuliffe Dies",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "fcHv0Z8IFvM",
             "title": "Gorilla Walks, Ambam on Hind Legs 1/28/2011",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Was the State of the Union 2011 Address a Success? 1/27/2011",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "bKb4pLmvlB4",
+            "title": "Miami Sandbar Piano Mystery Solved, Nicholas Harrington 1/27/2011",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

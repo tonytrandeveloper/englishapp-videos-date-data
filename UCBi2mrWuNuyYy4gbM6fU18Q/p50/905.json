@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8m6JviRQqGw",
-            "title": "WEBCAST: Drone Captures Holiday Lights Display",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "kf5AHR6O4FM",
             "title": "Radio Host Elvis Duran's Uncensored Take on Hollywood",
             "secondDuration": 452,
@@ -301,8 +295,14 @@
             "title": "The Rules of Stretching | FITNESS FRENZY (Episode 9)",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "kK2ErXikhVs",
+            "title": "2015 Golden Globe Nominees Announced",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

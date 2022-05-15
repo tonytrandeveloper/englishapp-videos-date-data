@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HKy1psVl45U",
-            "title": "Bill Gates Tops Forbes 400 List for 21st Year in a Row With a Net Worth of $81 Billion",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "BjVOtwIjiVk",
             "title": "First Confirmed Case of Ebola in The United States",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Lena Dunham Is Not 'Not That Kind of Girl'",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "WA8buDnRPtM",
+            "title": "1st Photos From George Clooney's Wedding",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

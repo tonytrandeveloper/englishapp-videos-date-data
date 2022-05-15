@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "h759Havq2wU",
-            "title": "Michigan Primary Night: Newt Gingrich Re-emerges",
-            "secondDuration": 1263,
-            "group": "group_7"
-        },
-        {
             "videoId": "8xS92g5Jwqo",
             "title": "Ohio School Shooting Suspect: Why'd He Do It?",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Oscars 2012 Recap: Top Winners and Moments",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ay6OC-Epxk",
+            "title": "Sacha Baron Cohen's Red Carpet Ash Stunt",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

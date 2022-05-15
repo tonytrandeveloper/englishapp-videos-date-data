@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5CYnsFPzDSk",
-            "title": "Bobbi Kristina Brown Dead at the Age of 22",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "xXH-Abw1aSA",
             "title": "Waitress Pays for Firefighters' Breakfast",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Leads Republicans",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "A1q_mQIEYqg",
+            "title": "Teenagers Lost at Sea",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

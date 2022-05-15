@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BajkhpVNYT8",
-            "title": "Haiti Hit By Serious Storm After Deadly Earthquake",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "b0W9w2uPxGY",
             "title": "Watch: Man Jumps From Burning Cherry Picker",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Watch Biden's Comments On Afghanistan Over 20 Years Of War",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "KhVn_uLD1Hc",
+            "title": "Government Launches Investigation Into Tesla’s Autopilot Driving System",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

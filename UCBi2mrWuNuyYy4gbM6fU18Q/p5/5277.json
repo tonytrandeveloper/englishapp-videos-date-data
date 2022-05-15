@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nZy8BC43r-0",
-            "title": "White House press briefing on  DACA, Trump's FISA tweets | ABC News",
-            "secondDuration": 3689,
-            "group": "group_7"
-        },
-        {
             "videoId": "319aYlsWsMA",
             "title": "How to stay healthy in the office during peak flu season",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Missing college student's death investigated as homicide",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "8s1m7GPh2LA",
+            "title": "Confessions from a onetime Mexican drug-cartel hit man",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

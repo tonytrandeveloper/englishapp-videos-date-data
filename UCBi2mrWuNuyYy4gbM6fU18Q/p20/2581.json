@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JakOzs5Qu4c",
-            "title": "Criss Angel Dangles Above Hungry Alligators",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "O_LXG2aYfE4",
             "title": "3 Storm Chasers Killed in Oklahoma Tornadoes",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "IRS Party Caught on Tape: Dancing Away Tax Dollars",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "J-s0VE-ZTDA",
+            "title": "Remembering an American Classic: Edith Bunker Beloved by All",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

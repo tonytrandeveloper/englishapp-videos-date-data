@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k0t4PvW7DMs",
-            "title": "What The Trump’s Attacks Mean For Democratic Party | NBC News Now",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "pEan1QHaaos",
             "title": "HBCUs And Women’s Colleges See Rise In Applicants | NBC News Now",
             "secondDuration": 285,
@@ -121,8 +115,14 @@
             "title": "Is Targeting Brain Inflammation The Key To Beating Alzheimer's? | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "SnQffRBrkXE",
+            "title": "Jeffrey Epstein Accuser Calls On Other Women To Come Forward | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

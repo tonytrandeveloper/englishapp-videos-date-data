@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AyRaZQB1Pas",
-            "title": "Army Releases Names of Fort Hood Victims",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "5gNEYYQMosA",
             "title": "House Dems Pass Health Care Bill",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "The Art of Beating Long Lines",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "flGmbqgXKAw",
+            "title": "Meet the Voice Behind the Catchphrase",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

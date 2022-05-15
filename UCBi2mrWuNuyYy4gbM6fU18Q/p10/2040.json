@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DrKMfCLtMDs",
-            "title": "Former White House counsel Don McGahn a no-show at House Judiciary Committee hearing",
-            "secondDuration": 1546,
-            "group": "group_7"
-        },
-        {
             "videoId": "LXSJqrEg6xQ",
             "title": "Dan Abrams discusses his new book on the legacy of Theodore Roosevelt",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "Great white shark believed to be lurking off Connecticut coast",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1Y9XXSIzcw",
+            "title": "Scientists study humpback whales for clues on climate change impact",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

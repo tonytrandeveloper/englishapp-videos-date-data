@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JtxNhfJXnV8",
-            "title": "World Series 2016 | Chicago Cubs Tickets Could Reach Record Prices",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "2xrjsuI05yY",
             "title": "Wisconsin Student Faces Multiple Sexual Assault Claims",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Massive NYC Blaze Takes Hours to Control",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "qB4d5xRXWF8",
+            "title": "Mystery Explosion Caught on Police Body Camera",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

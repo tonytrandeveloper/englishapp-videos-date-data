@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4iJ2k0W8kZk",
-            "title": "President Donald Trump: 'I Feel Very Badly For Paul Manafort' | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "sxeu_LsApps",
             "title": "Watch Live: SpaceX's Crew Dragon Capsule Returns From International Space Station | NBC News",
             "secondDuration": 9417,
@@ -61,8 +55,14 @@
             "title": "NBC News Signal - March 7th, 2019",
             "secondDuration": 1932,
             "group": "group_7"
+        },
+        {
+            "videoId": "StlNc2VtsuU",
+            "title": "What Causes Tornadoes, And Why Are They So Destructive? | Mach | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

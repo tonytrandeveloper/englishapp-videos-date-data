@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E_Ar6MGdDcA",
-            "title": "Officials Warn Of Misinformation Danger Amid Coronavirus Fears | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "mxPwGv7XCBQ",
             "title": "Wells Fargo To Pay $3 Billion In Settlement For Fake Accounts Scandal | NBC Nightly News",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "First Coronavirus Deaths Among Evacuees From Cruise Ship | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "WUpfdQCclTA",
+            "title": "Jet Makes Fiery Landing At Daytona Beach Airport | NBC Nightly News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FDxEMD_vYvY",
-            "title": "OJ Simpson to go before parole board",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "eedgwUkjzHw",
             "title": "American student detained in North Korea dies",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "BACHELORETTE WEEK 4 RECAP | ABC News",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "yhCA5XMVjdc",
+            "title": "Otto Warmbier, American student detained by North Korea, dies",
+            "secondDuration": 455,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

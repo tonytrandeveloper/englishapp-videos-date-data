@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZPMF1ElERbc",
-            "title": "Georgia special election for a US House seat heats up days before votes are cast",
-            "secondDuration": 344,
-            "group": "group_7"
-        },
-        {
             "videoId": "LK5nsllo_mE",
             "title": "Prosecutors say they will seek to retry sexual assault case against Bill Cosby after mistrial",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Cuba Policy Change Speech Full",
             "secondDuration": 3649,
             "group": "group_7"
+        },
+        {
+            "videoId": "gXdAKBYJsMA",
+            "title": "New details emerge in Otto Warmbier's medical condition",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

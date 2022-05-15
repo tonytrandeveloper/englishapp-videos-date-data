@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kXwgojxzHzk",
-            "title": "Inside alleged scheme Insys Therapeutics used to sell deadly opioid: Part 1",
-            "secondDuration": 604,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mcy_Kw5pnJ0",
             "title": "New Jersey handyman comes forward as $273M lottery winner",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "'Jeopardy!' host has stage 4 pancreatic cancer",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ovQRLk7Gxs",
+            "title": "Man describes surviving blizzard on Taco Bell hot sauce",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

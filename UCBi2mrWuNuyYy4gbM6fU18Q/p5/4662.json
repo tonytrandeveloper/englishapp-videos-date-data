@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fyF8v5eSVWI",
-            "title": "President Donald Trump full UN General Assembly remarks  | ABC News",
-            "secondDuration": 2160,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeWtBydv4vQ",
             "title": "Brett Kavanaugh and his wife fire back in TV interview",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "Deputy AG Rosenstein and Trump to meet Thursday",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "c5JYrAOXLhg",
+            "title": "Survivors and supporters rally together in Girls for Gender Equity walkout",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O7CM-dwt5po",
-            "title": "Senate Republicans try to revise health care bill",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3ru20H7JGk",
             "title": "Updated security protocols announced for international flights",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Fears of hackers targeting hospitals, medical devices | ABC News",
             "secondDuration": 548,
             "group": "group_7"
+        },
+        {
+            "videoId": "pZL8s_HLH5Y",
+            "title": "FBI questions US employees in investigation of Russian-owned Kaspersky Labs",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

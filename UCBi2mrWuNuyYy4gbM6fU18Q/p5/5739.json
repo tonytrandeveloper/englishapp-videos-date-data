@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7rD1LFtc86Y",
-            "title": "Mixed messages after Trump-Putin meeting",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "0TBSgZwVXwQ",
             "title": "Iraqi TV is reporting that security forces are on the verge of victory in Mosul",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Who was Gianni Versace's killer, Andrew Cunanan: Part 1",
             "secondDuration": 379,
             "group": "group_7"
+        },
+        {
+            "videoId": "ybApUww4jXU",
+            "title": "Trump, Putin's high-stakes G-20 meeting",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zdh7iuMyYyU",
-            "title": "Boy, Puppy Bond Through Similar Struggle | NBC Nightly  News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "T7nDNFL-pjc",
             "title": "Trump Calls NYT Reporting On His Taxes ‘Totally Fake News’ | NBC News",
             "secondDuration": 291,
@@ -31,8 +25,14 @@
             "title": "Meet The Press Broadcast (Full) - September 27th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2862,
             "group": "group_7"
+        },
+        {
+            "videoId": "atYOtFbc5iM",
+            "title": "Full McMaster: 'The Military Will Have No Role In A Transition' After The Election | Meet The Press",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

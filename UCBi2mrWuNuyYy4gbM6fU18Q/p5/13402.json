@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8wmf6FZFP8c",
-            "title": "Swine Flu Spreading",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "xFEkH_GbChA",
             "title": "Amplified: Bob Mould",
             "secondDuration": 291,
@@ -31,8 +25,14 @@
             "title": "Amplified: Mac McCaughan",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlo0mT0ECVQ",
+            "title": "Outbreak in America",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

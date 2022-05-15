@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4akFLFq3b-g",
-            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
-            "secondDuration": 5028,
-            "group": "group_7"
-        },
-        {
             "videoId": "I6lJc2ymzos",
             "title": "U.S.-North Korea Summit In Singapore | NBC News",
             "secondDuration": 2289,
@@ -61,8 +55,14 @@
             "title": "What Happens If U.S. And North Korea Strike A Deal? | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "OiTO2rMiEs4",
+            "title": "President Donald Trump And Justin Trudeau Tariff Dispute Continues | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

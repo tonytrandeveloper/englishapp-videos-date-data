@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QfXAeuotGhQ",
-            "title": "'This Week': Cold War Redux",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "SJVtSpFlCPM",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 485,
@@ -31,8 +25,14 @@
             "title": "'This Week': Search for Malaysia Air 370",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "kDP01M-GgC0",
+            "title": "'This Week': Malaysia Air Mystery",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

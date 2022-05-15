@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4J4nOpoiOkg",
-            "title": "Family Life in the Arctic",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "-6SR8ytQJOM",
             "title": "Tracking Elusive Narwhals in the Arctic",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Fires Rage on in California",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmXzJ64UG14",
+            "title": "'GAA' Afternoon Play: Crafty Dog Steals Food",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

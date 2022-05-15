@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i_WYW-Zrv6E",
-            "title": "Albinism: Caught Between Dark and Light",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "WEZcm5WRZns",
             "title": "Glenn Beck Holds Controversial Rally",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "New Orleans 5 Years After Hurricane Katrina",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "EqmtKGmxhQ4",
+            "title": "Inside the Mine in Chile",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

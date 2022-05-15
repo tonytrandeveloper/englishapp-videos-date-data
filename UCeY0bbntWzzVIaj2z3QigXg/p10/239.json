@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v-M_4Y6K-EA",
-            "title": "Federal Judge Refuses To Block Lawsuit Against Prince Andrew",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2fhzyIXiiM",
             "title": "Nightly News Full Broadcast - Jan. 12",
             "secondDuration": 1147,
@@ -61,8 +55,14 @@
             "title": "LIVE: Harry Reid Lies in State at the Capitol | NBC News",
             "secondDuration": 23371,
             "group": "group_7"
+        },
+        {
+            "videoId": "wHHA5RjqEIw",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3376,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

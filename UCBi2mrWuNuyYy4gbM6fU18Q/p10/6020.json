@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "voXdijJz_Dk",
-            "title": "9/11 Controller: Final Call to Flight 77",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBmJys0_OwU",
             "title": "Darrell Lynn: Portraits of Heroes",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "'Credible' Terrorist Threat Discovered",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "LoYCAACCNhk",
+            "title": "Bachmann Says Obama's Jobs Plan Offers Nothing New",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-2pwhAEittU",
-            "title": "Wildfire Near Reno Destroys More Than 20 Homes",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "QNawLvfwies",
             "title": "Newt Gingrich Ex: Newt Wanted 'Open Marriage'",
             "secondDuration": 515,
@@ -121,8 +115,14 @@
             "title": "Zappos.com Hacked, 24 Million Customers Personal Data Now at Risk",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "gPb3eFO4CSE",
+            "title": "South Carolina Debate: Opponents Gang Up on Romney, Ron Paul Booed, Gingrich Applauded",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

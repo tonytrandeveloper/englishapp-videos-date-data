@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Lybs1TP377U",
-            "title": "Friends: Shooter's Mom Struggled with Son",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "afXUjMrZFAM",
             "title": "Guns in America: Gun Ownership and Crimes by the Numbers",
             "secondDuration": 145,
@@ -301,8 +295,14 @@
             "title": "Newtown, Connecticut Shooting: Obama Tears up in Emotional Statement - ABC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "TX8V_ZWwgb4",
+            "title": "Connecticut Shooting: Sandy Hook Elementary Teacher Kaitlin Roig Protected Her Students",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

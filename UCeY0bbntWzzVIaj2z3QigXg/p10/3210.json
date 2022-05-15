@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gM2EfdkRXpg",
-            "title": "Judge Declares Mistrial In Michael Slager Trial | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "c8r1n9qruns",
             "title": "DOJ: Cybercrime Infrastructure 'Avalanche' Dismantled | NBC News",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "Former Trump, Clinton Campaign Staff Agree: The Media Is To Blame | Meet The Press | NBC News",
             "secondDuration": 569,
             "group": "group_7"
+        },
+        {
+            "videoId": "YIxlkpQuXw0",
+            "title": "Mike Pence: Don't Read Anything Into Trump-Taiwan Phone Call | Meet The Press | NBC News",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

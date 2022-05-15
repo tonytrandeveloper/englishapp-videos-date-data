@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gmgh0CrP3Ww",
-            "title": "Aurora, Colorado Shooting: Survivor Stories From 'Dark Knight Rises' Theater",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkizach0VvU",
             "title": "Aurora, Colorado Shooting: 12 Victims Remembered Following Deadly 'Dark Knight Rises' Massacre",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Colorado Shooting: Debate Over 'Soft' Terror Targets",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEI4FmnCqZ0",
+            "title": "Aurora, Colorado Shooting: The Next Day",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

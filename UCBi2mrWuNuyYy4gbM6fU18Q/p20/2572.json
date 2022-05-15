@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sHPWrofl6vU",
-            "title": "Bad Hair Day",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "WXb5xZL3zeQ",
             "title": "India's Child Miners: Growing Up, Underground",
             "secondDuration": 493,
@@ -121,8 +115,14 @@
             "title": "U.S. Role in Syria - 'This is Obviously a Reluctant President': 'This Week' Roundtable",
             "secondDuration": 531,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTVLyUuI7Rs",
+            "title": "'This Week' Sunday Spotlight: Jeb Bush's Father's Day Reflections",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

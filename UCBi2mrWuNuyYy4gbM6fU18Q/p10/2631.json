@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "atI7wx6PEs8",
-            "title": "White House press briefing on potential government shutdown | ABC News",
-            "secondDuration": 1861,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKHDbHCzWBs",
             "title": "Horrific details emerge in case of 13 captive siblings",
             "secondDuration": 469,
@@ -61,8 +55,14 @@
             "title": "Woman says 12-year-old son who died had flu-like symptoms but test came back negative",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "md02wLDWmmI",
+            "title": "Pres. Donald Trump delivers remarks at H&K Equipment Company in Coraopolis, Pennsylvania | ABC News",
+            "secondDuration": 2328,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

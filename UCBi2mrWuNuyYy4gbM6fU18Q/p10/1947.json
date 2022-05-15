@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3BPbpCvZY24",
-            "title": "Couple swept off rocks into ocean in Hawaii",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "WwJyX15R4rQ",
             "title": "Disgraced Theranos founder Elizabeth Holmes in court",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "DNC advises 2020 presidential candidates against using FaceApp",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "WFAixC-KH_g",
+            "title": "'El Chapo' complains before sentencing: 'There was no justice here'",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

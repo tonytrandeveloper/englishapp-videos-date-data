@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cCBrjP083Fs",
-            "title": "All Eyes On A Changing Arizona Ahead Of The Next Election",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "oNpSF6wW4Ag",
             "title": "Pfizer Says Its Covid Pill Reduces Risk of Hospitalization, Death",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Armchair Detectives: Can The Internet Fight Crime?",
             "secondDuration": 309,
             "group": "group_7"
+        },
+        {
+            "videoId": "ho1dX1ozZHI",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 2910,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

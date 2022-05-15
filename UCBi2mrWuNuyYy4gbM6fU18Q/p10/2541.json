@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_PX-x65xhrM",
-            "title": "Villanova beats Michigan for NCAA title",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "JfaAPHP4FL0",
             "title": "EPA Administrator Scott Pruitt delivers remarks on new auto emissions rules | ABC News",
             "secondDuration": 1110,
@@ -61,8 +55,14 @@
             "title": "Soldier surprises 2 daughters with fire truck homecoming",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "0oAAyJSdlks",
+            "title": "Educators in 2 states join growing teacher strike in the US",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Mi__lCHuTvU",
-            "title": "WEBCAST: New Drinkable Sunscreen",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "NZD_rasibcQ",
             "title": "Stripping to Pay For College",
             "secondDuration": 460,
@@ -121,8 +115,14 @@
             "title": "Al Ferri Celebrates 50 Years at ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "aOWNONuEWg4",
+            "title": "WEBCAST: Fire Evacuations End",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

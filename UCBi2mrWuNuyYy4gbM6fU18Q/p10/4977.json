@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E0g0Xah3evQ",
-            "title": "14-Pound Baby is US's Biggest Born in 2013",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-ri7ijrvGA",
             "title": "YouTube Music Awards Gets Mixed Reviews",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "'This Week': Obama's Perfect Storm",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "DQD09Vtvkeg",
+            "title": "Dan Pfeiffer 'This Week' Interview: NSA Spying and Obamacare",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

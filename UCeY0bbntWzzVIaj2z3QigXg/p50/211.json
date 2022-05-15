@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YpCrepX_f24",
-            "title": "Protests In Arizona As Vote Count Ongoing | NBC Nightly News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjHBqU8cx-A",
             "title": "Trump Campaign Announces Federal Lawsuit In Nevada Over Vote Count | NBC Nightly News",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "Trump's Election Messaging Has Differed From The Strategy Of Those Around Him | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "2VLY9H4D1a4",
+            "title": "Biden Tells Supporters 'We're On Track To Win' | NBC News",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

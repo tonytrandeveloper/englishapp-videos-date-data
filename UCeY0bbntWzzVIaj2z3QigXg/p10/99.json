@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WmwnbfGREHo",
-            "title": "Ukrainians Denied Entry to United States",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q6qoFdF7s_Q",
             "title": "Spring Breakers Hospitalized After Fentanyl Overdose At Florida Vacation Rental",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Here's How Ukraine Refugees In Poland Feel About Fleeing Home",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "B1FMnOgMHrE",
+            "title": "Putin Says There Are 'Positive Shifts' In Talks With Ukraine",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

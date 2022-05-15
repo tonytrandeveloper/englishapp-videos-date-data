@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JU1t2xisQpM",
-            "title": "New developments in urgent manhunt for suspected cop killer in CA",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRASuNEK1E8",
             "title": "The latest details in case against Kevin Spacey",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "5 stories that captured the world's attention in 2018",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "YnfCx_F5BEI",
+            "title": "The Trump presidency's top 5 pivotal moments of 2018",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

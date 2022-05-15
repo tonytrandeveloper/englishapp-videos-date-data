@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s3m9gboZ8z8",
-            "title": "Biden Introduces Nominees For His Health Care Team | NBC News",
-            "secondDuration": 3145,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Q7MxRsKxFQ",
             "title": "Trump Delivers Remarks At An Operation Warp Speed Vaccine Summit | NBC News",
             "secondDuration": 1406,
@@ -31,8 +25,14 @@
             "title": "What Could Be At Stake If U.S. Government Shuts Down During Pandemic | NBC News NOW",
             "secondDuration": 611,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xu7dHa6PzPc",
+            "title": "Western Australia Lifts Covid Quarantine Restrictions | NBC News NOW",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

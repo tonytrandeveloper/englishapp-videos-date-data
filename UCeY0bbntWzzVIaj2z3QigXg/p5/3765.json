@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lBDF8WVqesQ",
-            "title": "How Online Radicalization Can Turn Into Violence | NBC News Now",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "q77yXgTplAE",
             "title": "Survivor Recounts El Paso Shooting: ‘People Were Going Crazy’ | NBC News Now",
             "secondDuration": 338,
@@ -31,8 +25,14 @@
             "title": "Meet The Man Responsible For The White Crosses In The Aftermath Of Tragedy | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "JAsXZ59ZvZw",
+            "title": "Gilroy, Dayton, El Paso Shooters All Used Semi-Automatic Assault Weapons | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

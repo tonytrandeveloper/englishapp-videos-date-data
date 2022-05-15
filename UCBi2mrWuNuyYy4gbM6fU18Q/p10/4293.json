@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4PzqoIwO23I",
-            "title": "California Teen Accuses Hollywood Acting Coach of Sexual Assault",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "em5ZkTFxIuI",
             "title": "Boston Bomber Dzhokhar Tsarnaev Sentenced to Death",
             "secondDuration": 287,
@@ -61,8 +55,14 @@
             "title": "Bar Brawl Style Fighting: Brutal New Sport Gains Popularity",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "QzQboLwo6Tk",
+            "title": "Mitt Romney vs. Evander Holyfield?",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

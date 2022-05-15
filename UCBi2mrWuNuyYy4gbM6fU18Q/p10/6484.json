@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZHtSGErkLe8",
-            "title": "Top Line: GOP and Dem Strategists Go Head-to-Head",
-            "secondDuration": 587,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGSFz0RmUa4",
             "title": "The Conversation: Missed Terror Signals",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "The Best Products of 2009",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "NvEzXcHPhGk",
+            "title": "Failed Terror Plot: A Link to al Qaeda?",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

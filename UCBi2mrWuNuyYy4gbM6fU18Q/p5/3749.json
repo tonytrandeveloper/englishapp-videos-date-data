@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "37UQRV1IRX8",
-            "title": "FEMA chief describes latest Hurricane Dorian preparations | ABC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "P6ShYNAAyAQ",
             "title": "Hurricane Dorian tears through parts of the Bahamas",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "President Trump insists America’s mass shootings are a result of mental illness",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "oVV1YmATZx0",
+            "title": "'Volatile tariff situation could jeopardize ... strength' of economy: Sen. Pat Toomey",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

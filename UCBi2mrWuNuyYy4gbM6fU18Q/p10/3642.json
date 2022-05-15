@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yj5U-tr-E24",
-            "title": "Girl Overjoyed at Doll With Matching Prosthetic Leg",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "rUJI2bd7oRM",
             "title": "Students Accused of Beheading a Llama, Shooting Another",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Trump Gets Paul Ryan's Vote Despite Differences",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "mDFIkto3VAw",
+            "title": "Man Rescued After Floating 20 Hours in the Ocean without Life Jacket",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

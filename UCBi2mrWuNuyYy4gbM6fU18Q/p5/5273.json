@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qc2UfZQ8SRs",
-            "title": "Passengers on Greyhound bus held at gunpoint",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "KRHORDNXI6U",
             "title": "People are searching for elusive treasure a multi-millionaire claims he hid",
             "secondDuration": 479,
@@ -31,8 +25,14 @@
             "title": "Winter storm brings snow, ice, sleet and rain across the US",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "pe3FoP4eChE",
+            "title": "Flu epidemic strikes US: CDC",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

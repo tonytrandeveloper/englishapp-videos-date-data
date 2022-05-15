@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3bKtKP5lnKo",
-            "title": "Gretchen Carlson Lawsuit Settled by Fox",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "6xuE82ZKMnw",
             "title": "Dramatic Police Chase and Deadly Shootout After Bank Robbery in Phoenix",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Baby Wallaby Stuck in Open Waters Rescued Via Jet Ski",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "pmB-D45oiN0",
+            "title": "Oregon Police Investigating Iconic Rock Toppling",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w3_OXFiAQj8",
-            "title": "New details revealed about how police found missing Louisiana teen in Colorado",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "QUffzJ7Uujo",
             "title": "Officials optimistic in search for American kidnapped in Uganda",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "The Woman in the Suitcase: Part 3",
             "secondDuration": 559,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rh0AGJeHPcs",
+            "title": "The Woman in the Suitcase: Part 2",
+            "secondDuration": 534,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

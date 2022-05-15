@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ia7cRGd5EAQ",
-            "title": "Hear Omar Mateen's 911 Call",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "iIPNRaUfPa8",
             "title": "Actor Anton Yelchin Dies From a Car Crash at His Own House",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Orlando Shooter Calls With Police Released",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "0DtcdzAUNcw",
+            "title": "Bounce House Blown Into the Air",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

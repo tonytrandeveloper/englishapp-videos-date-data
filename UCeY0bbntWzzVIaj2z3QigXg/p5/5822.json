@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bcebr8WRYDo",
-            "title": "Black Hawk Down: U.S. Helicopter Crashes Off Yemen Coast | NBC Nightly News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "plX_PP-nvNk",
             "title": "Hurricane Harvey: Residents in Victoria Worry About Flooding | NBC Nightly News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "British Police Investigating Buckingham Palace as Act of Terror | NBC Nightly News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "VQlsmr0YKD8",
+            "title": "Coast Guard Rescues At Least 20 as Harvey Slams Into Texas | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

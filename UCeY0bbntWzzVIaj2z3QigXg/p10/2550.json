@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PuMUZVAH5OI",
-            "title": "Arizona Teacher Walk Out Enters Second Week | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "nTTRRSvVWcg",
             "title": "Veteran Posts Stunning Photos Of Salt Lake City Clinic Exam Room | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Are All Endangered Species Worth Saving? | Think | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "3xj2nqcI3Is",
+            "title": "President Donald Trump: Iran Deal Is An ‘Unacceptable Situation,’ ‘Horrible Agreement‘ | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

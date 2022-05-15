@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pcdD3WaOcH8",
-            "title": "Trump 'very surprised' about subpoena for son",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ztqWbLOISww",
             "title": "The Debrief: North Korea launch, Sandra Bland video, Invictus games | ABC News",
             "secondDuration": 1780,
@@ -31,8 +25,14 @@
             "title": "Massive weapons stockpile seized in Los Angeles",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "eTvcqgzfYgc",
+            "title": "Mom calls for justice after son's deadly encounter",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

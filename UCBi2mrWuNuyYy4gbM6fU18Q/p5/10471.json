@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w1AAkW3QHQo",
-            "title": "Coney Island Reopens for First Time Since Superstorm Sandy",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTvW7xAB2fY",
             "title": "Historic Papal Meeting: Pope Francis Meets with Pope Emeritus Benedict XVI",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Tragic Twist of Fate",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "BC2tOk4qQWo",
+            "title": "Vote-a-Rama",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nalGPlG_p34",
-            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "0mykacTLwfw",
             "title": "How to Safeguard Your Car From Hackers",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Saudi Arabia Bombings Kill Hundreds",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "jHWj-a55WbQ",
+            "title": "Wimbledon Quarterfinals | Williams Sisters, Sam Querrey Prepare",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

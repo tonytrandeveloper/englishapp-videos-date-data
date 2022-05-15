@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1hWehUmtvkE",
-            "title": "9-year-old makes plea for NASA job",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "WlYZCc2UBfk",
             "title": "'10% Happier with Dan Harris' and Amy Cuddy",
             "secondDuration": 3568,
@@ -31,8 +25,14 @@
             "title": "Boston braces for possible violence at 'free speech rally'",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "WkLuPUN3YFY",
+            "title": "Family of American killed in Spain terror attack speaks out",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

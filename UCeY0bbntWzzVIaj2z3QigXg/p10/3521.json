@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "46gps7Gt9yg",
-            "title": "Death On Mount Everest Following Avalanche | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "4HIEwcIm0HY",
             "title": "Doonesbury Creator On Charlie Hebod & Future Of Satire | Meet The Press | NBC News",
             "secondDuration": 283,
@@ -61,8 +55,14 @@
             "title": "Hubble's 25th Birthday | Long Story Short | NBC News",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "mmwQgEKs910",
+            "title": "Dr. Oz Strikes Back At Critics | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wq8nhMMTjvQ",
-            "title": "Georgia medical board suspends license of 'dancing doctor' for at least 2-1/2 years",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "hsgyzK2zsoY",
             "title": "Rescue underway for missing soccer coach and players",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Probe launched after video shows police tasing unarmed, seated man",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "NEIkNZvDFnU",
+            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

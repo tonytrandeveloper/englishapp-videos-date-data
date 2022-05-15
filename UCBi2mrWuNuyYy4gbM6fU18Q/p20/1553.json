@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BuO2_OK7zbI",
-            "title": "First Lady Melania Trump Speaks at Inaugural Ball | ABC News",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "15xaC77FprQ",
             "title": "President Trump Remarks at First Inaugural Ball",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "360º Trump Presidential Inauguration (VR) | ABC News",
             "secondDuration": 5649,
             "group": "group_7"
+        },
+        {
+            "videoId": "PigKT_Nu-Mk",
+            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

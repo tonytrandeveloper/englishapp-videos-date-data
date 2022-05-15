@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mv24duPAi48",
-            "title": "Trump Meets With Cruz, GOP Leaders",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "if_0AyVyMLI",
             "title": "Obama Reacts to Alton Sterling, Philando Castile Shootings",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Minnesota Shooting | Philando Castile 'Was a Good Man' Girlfriend Says",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "CU2Qnzy3vUs",
+            "title": "Alton Sterling | Baton Rouge Leaders Want Broader Investigation",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

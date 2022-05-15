@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M0gGEavkPig",
-            "title": "'This Week' Looks at Medal of Honor Ceremony: Honoring Clinton Romesha",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UCLwTLgOXg",
             "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "LeBron James Talks About Favorite TV Shows, Charity Causes",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDPYCl19GSo",
+            "title": "Heart Transplant Sparks Young Romance",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

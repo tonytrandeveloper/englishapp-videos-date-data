@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kdSVj2t4EPs",
-            "title": "Coronavirus: When Will Schools Reopen? | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXOHwJyW2Jk",
             "title": "President Trump Defends Decision To Take Hydroxychloroquine To Prevent COVID-19 | NBC Nightly News",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Seriously Ill Patients Avoid Hospitals Over Coronavirus Fears | NBC News NOW",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "6PwwIDO0H68",
+            "title": "Live: President Donald Trump Holds A Cabinet Meeting | NBC News",
+            "secondDuration": 4140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

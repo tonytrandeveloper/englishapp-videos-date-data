@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YCJK0HyMfOU",
-            "title": "Martin Luther King, Jr. Assassination | ABC Special Report [ARCHIVAL VIDEO]",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Qpo0P8KtrU",
             "title": "Teacher Appreciation Week | 6 Wonderful Teachers | ABC News Remix",
             "secondDuration": 217,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Admits to Mistakes Ahead of Wisconsin Primary",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "JPgIltNgoYY",
+            "title": "Amtrak Crash Near Philadelphia Leaves 2 Dead",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

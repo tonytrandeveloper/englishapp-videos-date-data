@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KBOMl8JAyio",
-            "title": "Watch live: Boris Johnson give first statement as U.K. prime minister",
-            "secondDuration": 709,
-            "group": "group_7"
-        },
-        {
             "videoId": "dCFnqC9IyYE",
             "title": "Robert Mueller Questioned About Don McGahn’s Place In Obstruction Investigation | NBC News",
             "secondDuration": 323,
@@ -31,8 +25,14 @@
             "title": "Robert Mueller: Donald Trump Refused Interview With Special Counsel's Office | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ki2n_8mmU8",
+            "title": "Robert Mueller On Whether ‘Collusion’ And ‘Conspiracy’ Are Synonymous Terms | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

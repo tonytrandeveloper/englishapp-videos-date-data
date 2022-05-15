@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QrbKk7SwMBc",
-            "title": "The Conversation: Psych Yourself Rich",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdTROpRROAY",
             "title": "Did Lou Dobbs Hire Undocumented Workers?",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Schultz: Enthusiasm Gap 'Significantly Narrowing'",
             "secondDuration": 638,
             "group": "group_7"
+        },
+        {
+            "videoId": "sAMmg1vLINg",
+            "title": "The Hill's Shane D'Aprile on 'Top Line'",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

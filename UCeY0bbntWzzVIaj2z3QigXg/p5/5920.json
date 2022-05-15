@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PWv7Hiqe1Bk",
-            "title": "This Unusual, Adrenaline-Fueled Workout Kicked Our Butts | Better | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "QwoTegi72WI",
             "title": "President Donald Trump's Entire Speech To The Boy Scouts Of America (Full) | NBC News",
             "secondDuration": 2337,
@@ -31,8 +25,14 @@
             "title": "This Oregon Pub Is Pouring Compassion By The Pint | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "BUcKItSghwY",
+            "title": "Princess Diana Documentary: Through The Eyes Of Her Children | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

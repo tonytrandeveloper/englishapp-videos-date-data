@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V0PIfYOtDso",
-            "title": "Tropical Storm Headed Towards Gulf",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "NYjA4wIvdVY",
             "title": "Game of Thrones Season Finale Shocks Fans",
             "secondDuration": 341,
@@ -61,8 +55,14 @@
             "title": "Bill Hader Describes Working on Pixar's 'Inside Out'",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ey8R_pugu3Y",
+            "title": "United Airlines Passengers Stuck in Canada After Flight Was Diverted",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

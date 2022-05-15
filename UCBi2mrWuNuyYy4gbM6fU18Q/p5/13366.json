@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HFGrm97Jtnc",
-            "title": "The GOP Takes on Pelosi",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "2XWf_LL3Ybo",
             "title": "Quick Fix: 'What Time Is Hammertime?'",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "Jake Tapper on Fuel Standards",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "wvxCSqO9eQg",
+            "title": "Detroit's New Mayor Tackles Unemployment",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rkd5sRxyM54",
-            "title": "Amelia Earhart:  75 Years Later",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "xQ7cY0nxN2Y",
             "title": "American Attacked by Chimp in Stable Condition",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Caught in a Bad Romance: The Conman",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkF8VLlHSfQ",
+            "title": "Katie Holmes Files for Divorce From Tom Cruise",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

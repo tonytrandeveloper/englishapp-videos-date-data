@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R6oxNRFrPuA",
-            "title": "Former Undocumented Immigrant Adriano Espaillat Sworn Into Congress | NBC News",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "ouHG5PITKLM",
             "title": "President Obama Praises Armed Forces At Farewell Ceremony: 'It Has Been A Privilege' | NBC News",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "President-Elect Donald Trump Escalates Antagonism Of U.S. Intel Community | NBC Nightly News",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "JCKarNgCYUQ",
+            "title": "President Obama At Intelligence Meeting: We Seek 'Seamless Transition' | NBC News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dUJOBtuFidc",
-            "title": "Full Bernie Sanders Interview: 'We Need Progressive Taxation' | Meet The Press | NBC News",
-            "secondDuration": 520,
-            "group": "group_7"
-        },
-        {
             "videoId": "JlVsaBiGvNA",
             "title": "Yellen on Biden Infrastructure Plans: ‘We Should Pay’  For These Investments | Meet The Press",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Lin-Manuel Miranda On Fundraising For Covid Relief, Inspiring Future Broadway Performers | NBC News",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "VE31K-9tLXw",
+            "title": "Violent Scenes in France As Police and Protests Clash Over May Day Rallies | NBC News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

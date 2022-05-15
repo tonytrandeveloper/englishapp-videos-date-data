@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4AVB_Ch6rmw",
-            "title": "2017 Nor’easter Winter Storm Stella Envelops New York’s Times Square | 360 Video | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Jbn_H3r15c",
             "title": "Why The Mystery And Magic Of Pi Keeps Us Fascinated | Mach | NBC News",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Tens Of Thousands Of Women Across The World Strike For #DayWithoutAWoman | NBC Nightly News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "RV6LR0eNFwM",
+            "title": "Inspiring America: Former NFL Player Finds Purpose Training Amputees | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

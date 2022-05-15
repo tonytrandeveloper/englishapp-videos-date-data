@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dm4IVHNcx0Q",
-            "title": "The Amazing Cosmic Coincidence That Makes Total Solar Eclipses Possible | Mach | NBC News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "0sfuYnA30IY",
             "title": "FBI Stops Oklahoma City Bank Explosion Plot | NBC News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Mexico Raid Uncovers Thousands Of Gallons Of Tainted Alcohol | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYqA8saytag",
+            "title": "U.S. Relations With China Grow Tepid Amid North Korea Crisis | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

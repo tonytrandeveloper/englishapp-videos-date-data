@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8IaZQ3MQGkM",
-            "title": "Driving Dangers Report Hidden for Years",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yn9SpNntSHg",
             "title": "Neighborhood Unites to Rescue Crash Victims",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper on Obama's Approval Ratings",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "nofUeNU5XZw",
+            "title": "Taliban Video Shows Captured U.S. Soldier",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

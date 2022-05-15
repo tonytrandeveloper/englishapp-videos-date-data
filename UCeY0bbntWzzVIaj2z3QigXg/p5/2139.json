@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eO350z668wY",
-            "title": "El Paso Hospitals At Breaking Point Amid Rise In Coronavirus Cases | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "1lmXPibYk_4",
             "title": "Hurricane Zeta Makes Landfall In Louisiana | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Entertainment Workers Protest As Merkel Announces German Coronavirus Lockdown | NBC News NOW",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "kM947NBBxgY",
+            "title": "Trump Holds Campaign Rally In Arizona | NBC News",
+            "secondDuration": 4541,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

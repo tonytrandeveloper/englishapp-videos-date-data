@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9W94uOM7dqE",
-            "title": "Americans still stranded on Caribbean islands",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7HglcG3ZEo",
             "title": "Marvel's 'Secret Empire': Inside the omega issue of the comic book story",
             "secondDuration": 1834,
@@ -61,8 +55,14 @@
             "title": "Wounded warrior dog helps Army sergeant return home from Afghanistan - 'Career Canines' S1 E1",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "EtVgiX8V7EE",
+            "title": "8 residents found dead in Florida nursing home",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

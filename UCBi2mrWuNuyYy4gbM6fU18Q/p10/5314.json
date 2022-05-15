@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QwkeY3Ej4Zc",
-            "title": "State of the Union 2013 Recap: Economy and Gun Control Take Center Stage",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "gOrAqTVN3wA",
             "title": "Marco Rubio Interview on State of the Union: Senator on Jobs, Guns, Water Bottle Moment",
             "secondDuration": 206,
@@ -61,8 +55,14 @@
             "title": "Modern Day Cupids Find Love for the Masses",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "an-GMrUfc9s",
+            "title": "Cops Believe Ex-Cop Christopher Dorner Never Left Cabin as It Burned",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

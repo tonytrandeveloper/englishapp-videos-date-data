@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ppANIvskkgY",
-            "title": "Puerto Rico braces for Tropical Storm Dorian | ABC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "1JnfmOHJAsc",
             "title": "Raging floodwaters push cars through streets of Spain | ABC News",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "Landmark opioid ruling, Trump sits out G-7 climate meeting, Amazon fires rage | ABC News",
             "secondDuration": 1401,
             "group": "group_7"
+        },
+        {
+            "videoId": "bkaV2jJMqe4",
+            "title": "Amazon rainforest on fire: ‘Lungs of the world’ in flames l Nightline",
+            "secondDuration": 434,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

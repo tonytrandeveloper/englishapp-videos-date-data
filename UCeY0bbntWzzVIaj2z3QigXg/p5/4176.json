@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qQjd_ypI9gI",
-            "title": "Get Healthy: Hydration | NBC News Learn",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "mD19iyeil_w",
             "title": "Trump On Vietnam Summit: ‘I Had To Walk’ | NBC News",
             "secondDuration": 237,
@@ -31,8 +25,14 @@
             "title": "SpaceX Successfully Launches Crew Dragon On First Test Flight | Mach | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wo034ta0qtw",
+            "title": "Hacking Your DNA: The Big Business — And Risk — Of Home Tests | Think | NBC News",
+            "secondDuration": 672,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

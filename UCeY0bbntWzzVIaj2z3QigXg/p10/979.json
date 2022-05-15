@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l9FSwFlqB8c",
-            "title": "Chicago Sees Covid Testing Rush Ahead Of Holidays | NBC News NOW",
-            "secondDuration": 694,
-            "group": "group_7"
-        },
-        {
             "videoId": "iB0ufU4T9ik",
             "title": "Lilly Aspell Tells Us What It’s Like To Play A Superhero | Nightly News: Kids Edition",
             "secondDuration": 1258,
@@ -61,8 +55,14 @@
             "title": "How The Pandemic Is Impacting Kids With Special Needs | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCg-ylsYcWc",
+            "title": "Long Lines Of Americans In Need At Food Banks Ahead Of Christmas | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

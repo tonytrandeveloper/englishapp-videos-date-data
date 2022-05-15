@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mtfX4hnED4A",
-            "title": "Inside Look at Most Expensive Home in America",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "WMLd_BLSZj8",
             "title": "Adrian Peterson on Disciplining Children: 'I Won't Ever Use a Switch Again'",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Dean Kamen | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "0AwENvrqgWI",
+            "title": "Dean Kamen On The Next Big Invention to Change the World",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

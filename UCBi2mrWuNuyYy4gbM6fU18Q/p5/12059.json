@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7tdiGFNVdwM",
-            "title": "Hurricane Irene Leaves 6 Dead in North Carolina",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "H5iJ7bTnK1A",
             "title": "Stranded Nation",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irene Leaves Path Of Destruction",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "mS_FaPWHcKU",
+            "title": "Hurricane Irene: A Major Headache for Travelers",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

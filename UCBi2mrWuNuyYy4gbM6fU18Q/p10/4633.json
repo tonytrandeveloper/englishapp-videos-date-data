@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CXXXTmK_ZTo",
-            "title": "Fans and Fellow Comics Say Goodbye to Joan Rivers",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "WL3a3rpLrqA",
             "title": "Hurricane Norbert Bruising the Baja Peninsula",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: State of Emergency in Hawaii",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "TV6c05gg_ls",
+            "title": "In Case You Missed It",
+            "secondDuration": 369,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

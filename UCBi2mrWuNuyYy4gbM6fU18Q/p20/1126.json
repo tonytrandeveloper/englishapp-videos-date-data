@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bmpb_tAiBeo",
-            "title": "Celebrating the life of former President George H.W. Bush",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "zUSfJm6qu5g",
             "title": "Roger Stone insists he won't betray President Trump to Robert Mueller",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Alaska Earthquake: 7.0 magnitude quake. tsunami warning in Anchorage | ABC News",
             "secondDuration": 1835,
             "group": "group_7"
+        },
+        {
+            "videoId": "BB_rlZQe--M",
+            "title": "Large earthquake rocks Alaska",
+            "secondDuration": 641,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

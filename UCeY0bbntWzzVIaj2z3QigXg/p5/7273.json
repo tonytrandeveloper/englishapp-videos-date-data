@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MU1fv8vF9D8",
-            "title": "Randi Weingarten: \"For student success, it takes...\"",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "90igXWFMtIg",
             "title": "Dr. Joshua Starr: \"For student success, it takes...\"",
             "secondDuration": 12,
@@ -31,8 +25,14 @@
             "title": "Brad Rumble: \"For student success, it takes...\"",
             "secondDuration": 14,
             "group": "group_7"
+        },
+        {
+            "videoId": "RvZ0_lkP2mc",
+            "title": "Karen Barnes: \"For student success, it takes...\"",
+            "secondDuration": 11,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

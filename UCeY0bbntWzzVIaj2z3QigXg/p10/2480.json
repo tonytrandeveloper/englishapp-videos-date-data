@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s--L1L3ea8Q",
-            "title": "Massachusetts Jogger Attacked In Broad Daylight Speaks Out | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "r3itRr_XQVc",
             "title": "Trump Executive Order Leaves Critics Wondering What’s Next For Migrant Families | NBC Nightly News",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Speaker Paul Ryan: House To Vote On Broad Bill Addressing Family Separation At Border | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "0t5Sn_S-pdI",
+            "title": "President Donald Trump Expected To Sign Executive Order That Could End Family Separations | NBC News",
+            "secondDuration": 2016,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

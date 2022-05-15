@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q-kEgldXbTE",
-            "title": "Steph Curry Opts Out of Olympic Games in Rio",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "uBtYj_uwzuM",
             "title": "Teen Avoids Jail by Singing in Public",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "Muhammad Ali's Battle with Parkinson's | New Details Emerge",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "ISG7hu1Aobo",
+            "title": "Last 9/11 Search Dog Dies in Texas at Age 16",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

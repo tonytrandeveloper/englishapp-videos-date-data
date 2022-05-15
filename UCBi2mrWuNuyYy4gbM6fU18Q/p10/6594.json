@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dxqxX5N4zc0",
-            "title": "Ted Kennedy: the 'Lion of the Senate'",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "A9Ln3knD-TI",
             "title": "Health Care: Sen. Ted Kennedy's Battle Cry",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "Kennedy Stumps for Clinton at '96 DNC",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "S4ZefXfIYiw",
+            "title": "Kennedy Faces Tough Reelection Fight",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

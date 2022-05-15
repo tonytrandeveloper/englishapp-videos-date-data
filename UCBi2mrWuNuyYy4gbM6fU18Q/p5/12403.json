@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TtFC6QC-jy0",
-            "title": "President Obama on Congresswoman Shooting",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "gsj4K7V2-NM",
             "title": "Rep. Giffords Shot at Grocery Store Event",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Ford Electrifies the Detroit Auto Show",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmOIOoVTcfk",
+            "title": "Bloomberg Doesn't Plan to Get Caught in the Snow",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

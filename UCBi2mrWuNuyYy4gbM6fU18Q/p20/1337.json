@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fqLqWpFb3_4",
-            "title": "LA Times releases audio of Roy Moore’s offhand comment on slavery",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "KVkAduoARb8",
             "title": "Thousands of firefighters battle 6 major wildfires",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "Senator Al Franken resignation speech (full speech)  | ABC News Special Report",
             "secondDuration": 1901,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ZSBwFnaGyw",
+            "title": "Fierce reaction to Trump's decision to move US embassy to Jerusalem",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

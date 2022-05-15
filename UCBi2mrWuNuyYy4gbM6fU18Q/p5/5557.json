@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "24BUzN6jqjU",
-            "title": "Rear Adm. Peter Brown on Coast Guard response to Hurricane Irma",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "yYU3CiVh68E",
             "title": "Former FEMA administrator: Must learn from Hurricane Irma when building back Florida cities",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Inland Lee County residents board up homes before evacuating the area",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "QZ6W_RZuYD0",
+            "title": "Key West resident weathers the eye of the storm with his family",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

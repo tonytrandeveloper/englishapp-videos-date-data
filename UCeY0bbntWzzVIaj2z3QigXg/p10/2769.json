@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m5C63p6EYXU",
-            "title": "Is Traveling At Light Speed Possible? | Mach | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "U0glmRmaovE",
             "title": "Pope Francis Treads Carefully In Myanmar Speech | NBC News",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "Cyber Monday Is On Track To Smash Previous Records | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "eqRYKh1PVLg",
+            "title": "Al Franken: 'I Cannot Speculate' On More Accusations | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

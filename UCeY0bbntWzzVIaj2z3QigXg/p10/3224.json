@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_p3QhYOx1eg",
-            "title": "Bill DeBlasio: I Told Donald Trump I Would Be ‘Open-Minded’ But ‘Vigilant’ | NBC News",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "p19ljBjg6tA",
             "title": "Minnesota Cop Charged With Second-Degree Manslaughter In Philando Castile Shooting Death | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Conviction Episode 12: We're Going To Make It | Conviction | Dateline NBC",
             "secondDuration": 614,
             "group": "group_7"
+        },
+        {
+            "videoId": "f6xVoqGBD_U",
+            "title": "Power Of The Dinner Table: Every Thursday Is Like Thanksgiving Here | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

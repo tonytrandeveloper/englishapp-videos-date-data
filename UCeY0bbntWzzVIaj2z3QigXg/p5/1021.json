@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-wqjbb-PlTI",
-            "title": "Full Blinken: 'We Will Take Action' After Sept. 1 If ISIS-K Threatens Americans",
-            "secondDuration": 649,
-            "group": "group_7"
-        },
-        {
             "videoId": "lh6jh0W-a9g",
             "title": "Full McMaster Interview: 'This War Ended In Self-Defeat'",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Full Broadcast - August 28th, 2021",
             "secondDuration": 1315,
             "group": "group_7"
+        },
+        {
+            "videoId": "S_bxWs0LlXM",
+            "title": "Mourning Service Members Lost In The Kabul Airport Attack",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JiX3GaD5jkk",
-            "title": "WNN Webcast for Friday, June 8, 2012",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "vaG6Wsv7zVU",
             "title": "Patti Smith's Playlist",
             "secondDuration": 248,
@@ -31,8 +25,14 @@
             "title": "Syria Massacre: UN Monitors Fired Upon?",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "bGmn-XIT_rQ",
+            "title": "White House Intelligence Leaks Under Investigation",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

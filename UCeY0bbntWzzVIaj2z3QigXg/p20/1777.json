@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cHuutqa3CrE",
-            "title": "James Holmes Trail: Largest Jury Pool In History | NBC News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "fKwjHln6T5k",
             "title": "Lindsey Graham Warns Of Another 'Paris' | Meet The Press",
             "secondDuration": 68,
@@ -121,8 +115,14 @@
             "title": "2015 Oscars: Acting Nominees All White | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "q0ccNpvuJvw",
+            "title": "Belgian Police Kill Two Suspected Terrorists | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

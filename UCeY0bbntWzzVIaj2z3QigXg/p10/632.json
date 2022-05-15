@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TObpPJUyOoQ",
-            "title": "President Biden Infrastructure Plan On Track After Stall",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "bBAzIvqws-A",
             "title": "Cruise Ships Are Back At Sea As Bookings Boom",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Full Ocasio-Cortez Interview: Biden Shouldn't Be 'Limited By Republicans'",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "i74T9x7GQ3o",
+            "title": "'An Anomaly: Full Miami-Dade Mayor Interview After Florida Building Collapse",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

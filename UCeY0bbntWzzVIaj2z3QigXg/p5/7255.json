@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DRAwuB7rdrM",
-            "title": "Can Video Games Help Map The Brain? | Nerdwatch | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "2tlgGXCPHQ8",
             "title": "More Heroin, Less Pot? | Flashback | NBC News",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Obama Heckled During Speech In Israel | Archives | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ob1yq1qN7hw",
+            "title": "Why Do Gas Prices Change? | Show Me | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

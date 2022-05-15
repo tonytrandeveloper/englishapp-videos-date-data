@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1HfUsPaIRWY",
-            "title": "The Briefing Room: Biden running, 2020 women of color, Flint water crisis 5 years later | ABC News",
-            "secondDuration": 1801,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wszhtaslvy4",
             "title": "'Modern Baby': Follow four families on their IVF journeys | FULL DOCUMENTARY",
             "secondDuration": 2890,
@@ -61,8 +55,14 @@
             "title": "Single mothers by choice: 'I am the CEO of my own operation'",
             "secondDuration": 521,
             "group": "group_7"
+        },
+        {
+            "videoId": "o_K6qLQmIUI",
+            "title": "Car ramming attack in California",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

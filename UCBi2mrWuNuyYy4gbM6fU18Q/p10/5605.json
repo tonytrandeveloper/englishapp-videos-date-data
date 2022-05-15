@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4mr0OGYp6Co",
-            "title": "WEBCAST: Shorty Finally Returns Home Several Years Later",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZByx_6uKfKk",
             "title": "Birth Control Issued in New York City",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "ATM Fees Spike",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xlkth3PKwQE",
+            "title": "Breast Cancer Study Reveals 4 Types",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

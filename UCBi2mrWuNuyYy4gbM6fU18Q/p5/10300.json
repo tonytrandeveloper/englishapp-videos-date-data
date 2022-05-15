@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DTZc2bA3EuQ",
-            "title": "Wildfires Burn in Colorado, Destroying Homes",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIRshd9hh1s",
             "title": "WEBCAST: Lost and Found Ring",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman Trial for Trayvon Martin Death: Lawyers Talk to Only 4 of 100 Potential Jurors",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "YkDuc9e5U4A",
+            "title": "Stuck Passengers Sing 'I Believe I Can Fly' on Tarmac",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

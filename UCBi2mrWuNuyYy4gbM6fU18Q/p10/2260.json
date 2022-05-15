@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VskgTwAOvFw",
-            "title": "Tijuana mayor declares humanitarian crisis as 5,000 migrants enter town",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "tNnzT7SElP8",
             "title": "Trump administration releases new report on climate change",
             "secondDuration": 297,
@@ -61,8 +55,14 @@
             "title": "Authorities work to recover American missionary's body from remote island",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "XbMv67ksWak",
+            "title": "Trump threatens to close US-Mexico border, says troops can use lethal force",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

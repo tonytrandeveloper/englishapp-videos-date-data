@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hbeoLrcS3JI",
-            "title": "'This Week' Web Extra: Jonathan Karl Answers Viewer Questions",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "US88sBx1n-s",
             "title": "Fiscal Cliff's Economic Impact on World Markets: 'This Week' Panel Discussion",
             "secondDuration": 312,
@@ -31,8 +25,14 @@
             "title": "Lost Massachusetts Boys Rescued in Swamp",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "qVeLfEAWklI",
+            "title": "Final Preparations for Tournament of Roses Parade",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

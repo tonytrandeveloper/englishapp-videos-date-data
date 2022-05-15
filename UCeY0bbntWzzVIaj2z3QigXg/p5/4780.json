@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DCAclAR7V7M",
-            "title": "Scientists Discover Hidden Coral Reef Off The Coast Of South Carolina | Mach | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "OI5Y3KesIuk",
             "title": "Senator John McCain’s Family Grieves As He Lies In State At Arizona Capitol | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Andrew Gillum Wins Florida Democratic Governor Primary | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "NOYXvSpuTD4",
+            "title": "Rep. Martha McSally Celebrates Arizona Senate GOP Primary Win | NBC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

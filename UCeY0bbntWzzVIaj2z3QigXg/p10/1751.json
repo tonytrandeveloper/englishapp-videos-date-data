@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N2CjwvUw-1k",
-            "title": "President Donald Trump Presents Presidential Citizens Medal To Widow Of 9/11 Responder | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIda9szGGHU",
             "title": "First Funerals Held For Americans Killed In Mexico Massacre | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Family Member Of Mexico Ambush Victims Reacts: ‘How Is This Even Real?’ | NBC News Now",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "sWxQT1B-ixg",
+            "title": "Why The U.S. Trade Gap Is Growing | NBC News Now",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

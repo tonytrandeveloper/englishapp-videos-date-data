@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "va81D3N5nfM",
-            "title": "NPR Photojournalist, Translator Killed in Attack in Afghanistan",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "LYRkxu6NY70",
             "title": "Trump Refuses to Back Down on Claims of Judge's Alleged Bias",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Trump Protesters Attack Supporters At San Jose Rally",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "pIK28wLGU8w",
+            "title": "Police Violence Caught On Tape Released by Chicago",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WaxGtjIJJCs",
-            "title": "NASA Runs Final Tests On Rocket For Artemis I Mission",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "_G2SUYAsNdA",
             "title": "Fort Lauderdale Police Arrest Black Hotel Clerk Who Called For Help",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Unemployment Rate Falls In March But Inflation Still Erases All Wage Gains",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dm2FQviiuS4",
+            "title": "Russian Soldiers Fled Chernobyl After Suffering Acute Radiation Sickness",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

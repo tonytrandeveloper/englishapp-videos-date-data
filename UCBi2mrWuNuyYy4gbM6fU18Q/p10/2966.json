@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MaJ-QllpgvE",
-            "title": "French presidential candidate Marine Le Pen and Europe's far-right movement",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "y_-7h8YPFR8",
             "title": "Fox News' fallout with Bill O'Reilly",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Bill O'Reilly out at Fox News",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vHAWEnh8Lg",
+            "title": "Aaron Hernandez's family questions suicide reports",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ympF6aNWK7E",
-            "title": "Bernie Sanders's Opening Remarks in ABC News Democratic Debate",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "R4rpmVdpiOw",
             "title": "Hillary Clinton's Opening Remarks in ABC News Democratic Debate",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Michael Dunn Murder Victim's Parents Continues to Fight for Son | ABC News",
             "secondDuration": 493,
             "group": "group_7"
+        },
+        {
+            "videoId": "IqtkWGkYOzo",
+            "title": "How Two Americans Planned Mission to Save Refugees From ISIS: Part 2 | ABC News",
+            "secondDuration": 514,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

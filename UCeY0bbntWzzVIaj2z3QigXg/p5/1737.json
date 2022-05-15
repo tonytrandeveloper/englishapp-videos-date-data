@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I0N6tocSHoY",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 2026,
-            "group": "group_7"
-        },
-        {
             "videoId": "knoXwWR2Bjo",
             "title": "The Return Of Live Music: The Flaming Lips Hold Space Bubble Show At Oklahoma City Venue | NBC News",
             "secondDuration": 406,
@@ -31,8 +25,14 @@
             "title": "Putin Is Like A Mafia Godfather, Russian Dissident Tells NBC News | NBC News NOW",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "p7KgtufCj2E",
+            "title": "Golden Globes Facing Diversity Concerns | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

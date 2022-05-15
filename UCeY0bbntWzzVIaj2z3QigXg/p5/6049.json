@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "imv5it66BM0",
-            "title": "Bill Cosby Trial: Andrea Constand, Mother Take Stand | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "o_v4cUVBIig",
             "title": "Twin Terror Attacks Hit Tehran, Killing At Least 12 | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Where Data Lives Forever: A Look Inside The Doomsday Vault | Mach | NBC News",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "yeGrFmDpLfc",
+            "title": "President Donald Trump Calls For A ‘Great Rebuilding Of America’ In Infrastructure Speech | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

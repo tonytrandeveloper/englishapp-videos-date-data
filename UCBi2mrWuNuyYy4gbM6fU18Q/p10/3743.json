@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i9GckIAdfE0",
-            "title": "Beyonce Lemonade | Turns Lemons Into Lemonade",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "elAgl1QozXk",
             "title": "Charles Koch: Political System 'Rigged,' But Not By Me",
             "secondDuration": 618,
@@ -61,8 +55,14 @@
             "title": "Former Classmates Reunite in Courtroom as Burglar and Sentencing Judge",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "_VOnC0tMBbc",
+            "title": "Prince Death Investigators Speak to Those Closest to Him",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

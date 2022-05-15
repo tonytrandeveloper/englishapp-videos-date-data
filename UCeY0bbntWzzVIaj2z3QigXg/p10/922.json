@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aJIZZqJC9X8",
-            "title": "Watch: Biden and Harris Receive Economic Briefing | NBC News",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "U5W2f23pIrA",
             "title": "Live: Fauci, White House Covid Response Team Hold Briefing | NBC News",
             "secondDuration": 1965,
@@ -61,8 +55,14 @@
             "title": "Inside West Virginia’s Covid Vaccine Rollout Strategy | NBC Nightly News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ZcGZqpL7cw",
+            "title": "GOP Leadership Facing Criticism Over Rep. Marjorie Taylor Greene | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

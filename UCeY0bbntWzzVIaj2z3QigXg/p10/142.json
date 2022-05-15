@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "weK4mI4rVLU",
-            "title": "NBC News Correspondent Describes Scene In Kharkiv After Being Targeted By Overnight Airstrikes",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "RiWp4QX7my8",
             "title": "Watch President Zelenskyy Call On Ukrainians To Unite Against Russia",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Feb. 23",
             "secondDuration": 1149,
             "group": "group_7"
+        },
+        {
+            "videoId": "9wkn_IJyTUA",
+            "title": "Top Story with Tom Llamas - Feb. 23 | NBC News NOW",
+            "secondDuration": 3041,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

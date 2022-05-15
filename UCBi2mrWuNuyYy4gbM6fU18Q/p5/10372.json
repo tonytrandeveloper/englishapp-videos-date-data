@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XB35PItAmLg",
-            "title": "WEBCAST: Baby Polar Bear Born",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "jGYcvurCFpo",
             "title": "'Lunchtime Lipo': Does This Speed Surgery Work?",
             "secondDuration": 464,
@@ -31,8 +25,14 @@
             "title": "IRS Under Fire",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "3jjDsGr92to",
+            "title": "President Obama Calls IRS Targeting of Conservative, Tea Party Groups 'Outrageous'",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

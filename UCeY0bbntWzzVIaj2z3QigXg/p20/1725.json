@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PJ1BC0g_PbQ",
-            "title": "Former Drone Pilots Denounce 'Morally Outrageous’ Program | NBC News",
-            "secondDuration": 416,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGb1_q8YubA",
             "title": "Richard Branson On Capitalism Impacting Climate Change | NBC News",
             "secondDuration": 72,
@@ -121,8 +115,14 @@
             "title": "Ted Cruz Hedges On Amnesty And Legal Status For Immigrants | Short Take | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "cdA9FpFqh5M",
+            "title": "Donald Trump On 9/11 Statement: 'I'm Not Taking It Back' (Full) | Meet The Press | NBC News",
+            "secondDuration": 691,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

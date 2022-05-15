@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ANZ4LThlJzY",
-            "title": "RAW: Deadly Earthquake Rattles China | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "mtuoMCqnP7Q",
             "title": "Israel Pulls Troops Out Of Gaza | NBC News",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Surfing Dog Inspires Disabled Children | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "oJOoOW768BQ",
+            "title": "Wireless Device Built to See Through Walls | NerdWatch | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

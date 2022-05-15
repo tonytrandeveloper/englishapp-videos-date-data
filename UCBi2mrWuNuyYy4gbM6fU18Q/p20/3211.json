@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ppDTs5C40Z8",
-            "title": "Wigging Out",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "hl3THGO6-3o",
             "title": "Pope and Catholic Church Under Fire",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Tiger Woods Returns to Golf",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "VWYpViL-30A",
+            "title": "A Legislative Card Trick",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

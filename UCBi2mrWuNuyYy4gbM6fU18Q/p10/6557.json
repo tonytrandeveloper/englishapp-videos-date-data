@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oquezUAknmM",
-            "title": "'I Am' Meditating",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "k1SqBC1Llxc",
             "title": "Stand-up Comic Showcases Albinism",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Rallies for 2016 Olympics",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "8PBGgggomP0",
+            "title": "GM Says Goodbye to Saturn",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

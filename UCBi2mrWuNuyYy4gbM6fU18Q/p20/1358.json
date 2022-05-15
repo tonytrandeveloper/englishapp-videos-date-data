@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9iFNj_-zXWQ",
-            "title": "Trump's attorney reacts to Russia investigation charges",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "CzuyQFu14vk",
             "title": "Prince Harry speaks at Obama Foundation Summit in Chicago",
             "secondDuration": 3593,
@@ -121,8 +115,14 @@
             "title": "Paul Manafort's lawyer remarks following initial court appearance after indictment: Special report",
             "secondDuration": 1338,
             "group": "group_7"
+        },
+        {
+            "videoId": "KoEevSTrz90",
+            "title": "White House press briefing after Paul Manafort, Rick Gates indicted by federal grand jury",
+            "secondDuration": 2129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QRG7XekVvA0",
-            "title": "Live: Louisiana Gov. Edwards Gives Update On Coronavirus Response | NBC News",
-            "secondDuration": 2389,
-            "group": "group_7"
-        },
-        {
             "videoId": "XwDdN2leXsQ",
             "title": "Live: Michigan Gov. Gretchen Whitmer Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2508,
@@ -121,8 +115,14 @@
             "title": "Deadliest Day In New York But Curve Is Flattening | NBC Nightly News",
             "secondDuration": 597,
             "group": "group_7"
+        },
+        {
+            "videoId": "LM8QBUgem4g",
+            "title": "Rural West Virginia Hospitals Struggle To Stay Open Amid Coronavirus Pandemic | NBC News NOW",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "we7bS7IZSYk",
-            "title": "Watch Rep. Jim Clyburn's Full Speech At The 2020 DNC | NBC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "BcmndvqO7H4",
             "title": "George Floyd's Brother Leads A Moment Of Silence At The DNC | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Inside USPS Struggles Over Mail Delays, Election Ballots | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBib7TMdgrs",
+            "title": "Trump: ‘I Haven’t’ Encouraged Postmaster General To Slow Down Mail Delivery | NBC News NOW",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

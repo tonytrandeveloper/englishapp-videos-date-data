@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yfcayjG4-_0",
-            "title": "Saying Goodbye to Alan Thicke",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "2eTAVBfGdUA",
             "title": "Yahoo Hacked: User Info Stolen From Over 1B Accounts",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Obama: Biden the Finest VP in History",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "J5IGwMyJ110",
+            "title": "Man Who Inspired ALS Ice Bucket Challenge Honored",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

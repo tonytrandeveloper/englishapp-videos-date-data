@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03gMX9jaZ-g",
-            "title": "Bird Strike Leaves Gaping Hole in Plane",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "7wod_s8Tfos",
             "title": "WEBCAST: \"Fifty Shades of Grey\" Baby Boom",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "In Syria, Thousands Flee for Their Lives",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "z4Sr6awAGPU",
+            "title": "Walmart Bomb Threats: Tracking Down the Suspect",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

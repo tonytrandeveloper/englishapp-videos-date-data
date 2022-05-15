@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r2oBnyiUUdI",
-            "title": "Attack on soldier creates chaos at Paris airport",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8V5CVcmfV0",
             "title": "Manhunt for teacher who allegedly abducted student",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Secretary of State Rex Tillerson meets with Chinese officials",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "0BduYSp80BU",
+            "title": "Paris' Orly Airport gets partially shut down after shooting incident",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

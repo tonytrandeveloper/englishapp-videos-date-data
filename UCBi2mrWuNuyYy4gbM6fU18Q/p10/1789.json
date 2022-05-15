@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Zcosdg2NiI",
-            "title": "Political impact and terror threats in the wake of Baghdadi's death | ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "cKpGScQv2oI",
             "title": "Trump announces ISIS leader dies in US commando raid l ABC News",
             "secondDuration": 283,
@@ -61,8 +55,14 @@
             "title": "'We are not done with ISIS yet': Retired Adm. Stavridis on the death of ISIS leader | ABC News",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "VGjDbOCfYr8",
+            "title": "'It was a brilliantly executed operation': Defense secretary on al-Baghdadi raid | ABC News",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

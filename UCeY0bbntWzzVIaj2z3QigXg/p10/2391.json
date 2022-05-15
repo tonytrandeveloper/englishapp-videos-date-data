@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NOYXvSpuTD4",
-            "title": "Rep. Martha McSally Celebrates Arizona Senate GOP Primary Win | NBC News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "HeBxWoDDgsk",
             "title": "Red Tide And Toxic Algae Seep Into Florida’s Politics Ahead Of The Primary | NBC Nightly News",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Hurricane Maria Death Toll Raised To 2,975 In Puerto Rico | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZjmTVk7m0k0",
+            "title": "Former Texas Police Officer Found Guilty Of Murder For Fatally Shooting Teen | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

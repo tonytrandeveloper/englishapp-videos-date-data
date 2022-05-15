@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pVqGEB7misI",
-            "title": "The Pain of Unemployment",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "1W2EXp_-Hmo",
             "title": "The Financial Terrorist",
             "secondDuration": 409,
@@ -61,8 +55,14 @@
             "title": "TOP LINE: The Cost of Health Care Reform",
             "secondDuration": 561,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ByCGNjbFRE",
+            "title": "Annie Le's Former Roommate Speaks",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

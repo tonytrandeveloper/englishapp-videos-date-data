@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4_xLF6o0LUY",
-            "title": "President Obama Makes the Case for Hillary Clinton",
-            "secondDuration": 539,
-            "group": "group_7"
-        },
-        {
             "videoId": "LKZ4Sty5CMA",
             "title": "President Obama Full Speech at the Democratic National Convention",
             "secondDuration": 2746,
@@ -31,8 +25,14 @@
             "title": "Sen. Elizabeth Warren says Hillary, \"Gets Up and Fights for What She Believes In\"",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cp5UNMbR9dY",
+            "title": "Pope Francis Addresses Brutal Murder of Priest in France",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

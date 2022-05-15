@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P8nehTDf5qA",
-            "title": "Cash Or Credit: How To Choose Between The Two? | Better | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "mJN2GhXfmVk",
             "title": "Severe Weather Leads To Floods In Alabama And A Tornado In Oklahoma | NBC News",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "Tampa Police Search for Possible Serial Killer in Murder of Three Pedestrians",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "VMjwF4YvNIc",
+            "title": "Small Businesses Without Power Rely on Cash and Paper",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

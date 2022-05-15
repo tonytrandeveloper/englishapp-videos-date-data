@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LQFkhvSuSf0",
-            "title": "Missing 4-year-old has had multiple brain surgeries, requires constant care",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "udSQD-D75z0",
             "title": "Prince Harry and Meghan debut newborn son",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "1 dead, 7 injured in shooting at STEM school in Colorado; 2 suspects detained",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "UFK-F1VUZg0",
+            "title": "Residents in Southern Plains brace for potential twisters, baseball-sized hail",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

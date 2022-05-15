@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MV7efyb-VaA",
-            "title": "Robert Downey Jr. Walks Out of Interview",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ke_wb3RAPdY",
             "title": "Moxie Girl's Afro Puffs Fight Crime",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Terrifying Airplane Drop: O'Hare Passengers Undergo Emergency Landing (VIDEO)",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "kt6HzUlV5Jo",
+            "title": "Algerian Student Caught Planning Terror Attack in France",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

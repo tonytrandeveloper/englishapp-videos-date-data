@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "I3Cq5CVVkc8",
-            "title": "Kobe Bryant Announces Retirement From NBA",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "6_TfdhdiUSQ",
             "title": "Donald Trump Cancels Event With Religious Leaders",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Family Draws Comparisons to the Kardashians as Reality Stars",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "QEEX-OqPAQc",
+            "title": "White House Lawn Locked Down Over Fence Jumper",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

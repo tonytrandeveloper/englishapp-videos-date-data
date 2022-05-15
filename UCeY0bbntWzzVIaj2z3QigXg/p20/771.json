@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0vwz73d98KE",
-            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
-            "secondDuration": 3254,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDDUFQIMq4E",
             "title": "President Trump Presents Medal Of Freedom To Gen. Jack Keane | NBC News (Live Stream Recording)",
             "secondDuration": 2986,
@@ -121,8 +115,14 @@
             "title": "Trump Proposes ‘Substantial Relief’ For Taxpayers Amid Coronavirus, Economy Fears | NBC News NOW",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "rictoiXWkLE",
+            "title": "Coronavirus: The Rippling Effects Of School Closures On Students | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

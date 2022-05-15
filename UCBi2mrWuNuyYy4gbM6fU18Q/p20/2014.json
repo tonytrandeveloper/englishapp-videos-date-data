@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FrmrtX2gtmg",
-            "title": "Chris Christie Takes on Donald Trump",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "vSktMOnwlBo",
             "title": "Suspect in University of Chicago Threat Apprehended",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Flash Flooding, Ice Hamper Midwestern States",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "I3Cq5CVVkc8",
+            "title": "Kobe Bryant Announces Retirement From NBA",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

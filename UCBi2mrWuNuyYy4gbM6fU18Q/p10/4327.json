@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AQckEVgfr90",
-            "title": "Jesse Palmer Takes You on a Tour of 'Good Morning America'",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "68-pn3SrNBI",
             "title": "Welcome to ABC News' YouTube Channel!",
             "secondDuration": 23,
@@ -61,8 +55,14 @@
             "title": "Freddie Gray: New Details Emerge Over Man's Mysterious Death",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "MV7efyb-VaA",
+            "title": "Robert Downey Jr. Walks Out of Interview",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

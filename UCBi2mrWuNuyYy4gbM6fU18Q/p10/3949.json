@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KniWVRi4Gsc",
-            "title": "The Power of Made in America All Over the World",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSS1WvEV5Kk",
             "title": "Justice for Granny: Oklahoma Ex-Cop Gets Life in Prison",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Snowboarder Narrowly Escapes Avalanche in California",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "-koI3TvH7fQ",
+            "title": "Shaun T’s New Fitness Regimen | ABC News",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

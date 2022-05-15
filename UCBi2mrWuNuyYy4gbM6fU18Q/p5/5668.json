@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KTyObC28D2I",
-            "title": "10% Happier: George Stephanopoulos",
-            "secondDuration": 2211,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y5hC8JrkqFI",
             "title": "President Donald Trump announces immigration overhaul with Sen. Cotton, Sen. Perdue",
             "secondDuration": 1293,
@@ -31,8 +25,14 @@
             "title": "Parents to sue school district over 12-year-old daughter's suicide",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvAF-Yu7APg",
+            "title": "Woman found buried in sand on Maryland beach",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

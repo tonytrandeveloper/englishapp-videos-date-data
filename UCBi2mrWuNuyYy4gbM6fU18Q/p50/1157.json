@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yuzPz7ig36w",
-            "title": "Countdown to Nik Wallenda's Tightrope Walk Over Niagara Falls: Megastunts and Daredevils",
-            "secondDuration": 369,
-            "group": "group_7"
-        },
-        {
             "videoId": "m34znlalWkQ",
             "title": "Megastunts: Daredevils Ski Down Mt. Everest and Jump over a Football Field",
             "secondDuration": 287,
@@ -301,8 +295,14 @@
             "title": "Casey Anthony Interview With CNN's Piers Morgan: 'Ashamed in Many Ways'",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "tzvijIZQT2Y",
+            "title": "Jerry Sandusky Trial: Penn State Assistant Coach Mike McQueary Testifies",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

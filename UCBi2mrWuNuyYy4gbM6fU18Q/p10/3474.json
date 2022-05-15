@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VpMaF0Gib90",
-            "title": "Inventor Builds 360-Degree Swing | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "3jw9pnUJebA",
             "title": "Eddie Murphy Stars in Mr. Church",
             "secondDuration": 222,
@@ -61,8 +55,14 @@
             "title": "Trump Tower Climber: Who is Michael Ryan?",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "up6VLsIjNnA",
+            "title": "Brutal Military Standoff in Syria Caught on Tape",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

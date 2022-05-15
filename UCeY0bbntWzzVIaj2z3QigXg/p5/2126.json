@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8iaWHEGQjCg",
-            "title": "Biden Holds ’Souls To The Polls’ Event In Pennsylvania | NBC News",
-            "secondDuration": 835,
-            "group": "group_7"
-        },
-        {
             "videoId": "4pTNlzl5hzo",
             "title": "Trump Holds Campaign Rally In Iowa | NBC News",
             "secondDuration": 4447,
@@ -31,8 +25,14 @@
             "title": "On Election Night, These Are The First States To Watch | Meet The Press | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "JEZCBLzyumc",
+            "title": "Full Pollsters: Trump Has 'Never Had A Positive Job Rating' in NBC News / WSJ Poll | Meet The Press",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

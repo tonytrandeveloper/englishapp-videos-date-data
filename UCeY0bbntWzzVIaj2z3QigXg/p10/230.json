@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kMQ-JmwjT2c",
-            "title": "Top Story with Tom Llamas - Jan. 17 | NBC News NOW",
-            "secondDuration": 3012,
-            "group": "group_7"
-        },
-        {
             "videoId": "R039MhghTFw",
             "title": "New Bodycam Video Emerges In The Shooting Of Jason Walker",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "How Hospitals Nationwide Are Coping With Relentless Omicron Surge",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "tJl8nSrE4L0",
+            "title": "Martin Luther King’s Family, Activists Push For Voting Rights Legislation",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

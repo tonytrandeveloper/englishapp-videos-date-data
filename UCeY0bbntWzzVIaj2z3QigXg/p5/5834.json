@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K3OBuyAat0I",
-            "title": "President Donald Trump Threatens Government Shutdown To Build Border Wall | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "7AuvwNESKuw",
             "title": "Adorable Toddler Goes Rogue During Live TV News Bulletin | NBC News",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Protesters Clash With Police After Donald Trump Rally In Phoenix | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "sjQ4Ws04Qfw",
+            "title": "President Trump Rally in Arizona (Full) | NBC News",
+            "secondDuration": 5324,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

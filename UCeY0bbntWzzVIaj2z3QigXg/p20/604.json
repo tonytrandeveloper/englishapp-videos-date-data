@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RyFpU9Jcvtc",
-            "title": "The Importance Of Talking To Children About Coronavirus | NBC News",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "NjkAfDG8niY",
             "title": "California’s Latino Farm Workers Hit Disproportionately Hard By COVID-19 | NBC News NOW",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "Coronavirus: U.S. Surpasses Grim Record For Single-Day Death Toll | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "eKKfHoiDoFo",
+            "title": "Biden, Harris Call For Nationwide Mask Mandate Amid Coronavirus Pandemic | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

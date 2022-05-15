@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iNPK89FX93A",
-            "title": "Switching Sides: Has #MeToo Become Weaponized? | NBC News Signal",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "rGGXLl0bZXM",
             "title": "Why Can't Third Party Candidates Win? | NBC News Signal",
             "secondDuration": 342,
@@ -31,8 +25,14 @@
             "title": "So Many Guns, So Little Data | NBC News Signal",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "RubNn6wBiFg",
+            "title": "Is NATO Still Relevant In Today’s World? | NBC News Signal",
+            "secondDuration": 369,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

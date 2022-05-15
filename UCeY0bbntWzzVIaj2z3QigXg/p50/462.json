@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "r3CN9pZnLRA",
-            "title": "U.S. Commander In Afghanistan Says He Doubts He Was Target Of Deadly Kandahar Attack | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "utm3YLT8CyU",
             "title": "Honduran Mom-Of-Eight Joined Migrant Caravan To U.S. To ‘Rescue’ Her Daughter From Drugs | NBC News",
             "secondDuration": 91,
@@ -301,8 +295,14 @@
             "title": "Maryland Police Officer Charged With Raping Woman At Traffic Stop | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "SfofPcNdppg",
+            "title": "Hurricane Michael Death Toll Rises To At Least 29 | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

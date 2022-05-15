@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XkLQMo_aZ4s",
-            "title": "Trump makes pitch to pass tax bill including repeal of Obamacare individual mandate",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nb3F6cisVLs",
             "title": "ABC News investigation finds complaints against rental home giant",
             "secondDuration": 173,
@@ -301,8 +295,14 @@
             "title": "Calls grow for Roy Moore to leave Senate race",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "cg4M1kHwnNA",
+            "title": "Aly Raisman alleges abuse by USA Gymnastics doctor",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

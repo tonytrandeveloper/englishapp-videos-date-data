@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZzI_feKSrXE",
-            "title": "Bob Cusack: 'The White House Has To Change'",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "y97kd6799gQ",
             "title": "Dem Strategist: DC Will Be 'A Very Different Town'",
             "secondDuration": 611,
@@ -61,8 +55,14 @@
             "title": "Glassman To McCain: 'Retire'",
             "secondDuration": 582,
             "group": "group_7"
+        },
+        {
+            "videoId": "eac8gCdYyGc",
+            "title": "ABC News Yahoo! News Poll on 'Top Line'",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

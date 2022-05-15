@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w46a1voGahs",
-            "title": "Japan Devastated by Strong Earthquakes",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "wYFFg3SwDZM",
             "title": "'Tiger Whisperer' Mauled, Killed by Tiger",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders ‘Enormously Impressed’ by Pope Francis",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuIMs6amKMw",
+            "title": "Couple Faces Jail Over Lost Dr. Seuss Library Book",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tt7EIp9ZDq0",
-            "title": "Supreme Court Hears Arguments In Trump’s Plan To Exclude Undocumented Immigrants From Census",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "2gicsoRSaZY",
             "title": "Arizona Certifies Biden As Election Winner As Trump’s Legal Options Fade | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "California Governor Warns Stay-At-Home Order For Most Of State Could Be Imminent | NBC News NOW",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "KEq28SPuXVM",
+            "title": "California Gov. Newsom Holds Covid-19 Briefing | NBC News",
+            "secondDuration": 4961,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

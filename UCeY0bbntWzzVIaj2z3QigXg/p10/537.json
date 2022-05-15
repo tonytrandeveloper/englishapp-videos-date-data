@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IEofZGDWloU",
-            "title": "Search Underway For Survivors of Haiti Earthquake",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "dYpZxMIg-gI",
             "title": "White House Reacts As Taliban Gain Control of Afghanistan",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "NBC Nightly News Full Broadcast - August 14th, 2021",
             "secondDuration": 1297,
             "group": "group_7"
+        },
+        {
+            "videoId": "2JtazWUDojw",
+            "title": "5-Year-Old Cancer Patient Meets ‘Window Buddy’",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

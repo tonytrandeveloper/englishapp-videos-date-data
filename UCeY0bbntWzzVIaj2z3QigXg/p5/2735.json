@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k9jwU5V3DN8",
-            "title": "Live: New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3148,
-            "group": "group_7"
-        },
-        {
             "videoId": "4tSUQKUs_oU",
             "title": "Cuomo Signs Order Authorizing Businesses To Deny Entry Without Face-Coverings | NBC News NOW",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Drone Footage Shows Burning Buildings In Minneapolis After George Floyd Protests | NBC News NOW",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYDxvMJQebQ",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3707,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xyCwx5L02L4",
-            "title": "No Charges in Hillary Clinton Email Investigation",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "YDVuocwypVk",
             "title": "Hoverboards Recalled Over Fire Hazards",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "President Obama Hits Campaign Trail for Hillary Clinton",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "nalGPlG_p34",
+            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

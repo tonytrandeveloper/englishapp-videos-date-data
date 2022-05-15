@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "puuk5O1JVhQ",
-            "title": "California Police Shooting Video: 'You Killed My Brother'",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "KOUc4Vd-gOM",
             "title": "Rival Football Teams Join Together for Memorable Touchdown",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "9-Year-Old Speaks Out on Charlotte Unrest",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0-FwcfHriQ",
+            "title": "Bronx Gas Explosion Kills Firefighter",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

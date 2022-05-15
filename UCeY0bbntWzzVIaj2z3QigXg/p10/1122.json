@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6zK82wiPMoI",
-            "title": "Multiple California Wildfires Prompt New Evacuations | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "-nHFsEtp9zQ",
             "title": "Amy Coney Barrett Confirmation Hearing To Start October 12 | NBC Nightly News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Confirmation Battle For Amy Coney Barrett Begins | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "zdh7iuMyYyU",
+            "title": "Boy, Puppy Bond Through Similar Struggle | NBC Nightly  News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

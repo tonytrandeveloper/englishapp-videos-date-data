@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wn_BOZ7mI7I",
-            "title": "WEBCAST: New Year's Eve 2012!",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sv-ZNfORuXA",
             "title": "WNN FOOTBALL PICKS FOR FRIDAY DEC. 28, 2012",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "'This Week' Remembers General Norman Schwarzkopf",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "hbeoLrcS3JI",
+            "title": "'This Week' Web Extra: Jonathan Karl Answers Viewer Questions",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

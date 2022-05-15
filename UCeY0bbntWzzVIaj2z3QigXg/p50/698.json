@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-4Gob1SgslE",
-            "title": "Donald Trump Makes His Mark During Republican Primary Debate | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0YU6HYiV5M",
             "title": "GOP Candidates Throw Out Their Best Hillary Clinton Zingers | NBC News",
             "secondDuration": 78,
@@ -301,8 +295,14 @@
             "title": "Lion Possibly Loose In Milwaukee, Wisconsin | Short Take | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "XwRLQ2jbWAc",
+            "title": "Lindsey Graham On Life As A Single Man On The Trail | NBC News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vp8ml3QQpKQ",
-            "title": "President Donald Trump Speaks On Tax Reform | NBC News",
-            "secondDuration": 1609,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sk-LgjT6iuA",
             "title": "Potential Seizure Of IDNYC Records Threatens Immigrants' Security | NBC News",
             "secondDuration": 815,
@@ -61,8 +55,14 @@
             "title": "Roy Moore Looks To Recount, Tells Supporters ‘It’s Not Over’ | NBC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKzyOAdQuL8",
+            "title": "Doug Jones’ Alabama Victory Speech (Full) | NBC News",
+            "secondDuration": 713,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

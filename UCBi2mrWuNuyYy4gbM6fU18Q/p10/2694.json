@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7qEVcv8J2U8",
-            "title": "'I want to see changes' to Senate tax bill, Sen. Susan Collins says",
-            "secondDuration": 497,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Tb3xPmr3yg",
             "title": "Search continues for missing Argentine submarine with 44 crew members onboard",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Black Friday deals available 1 week early",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "dn2e0Etyisw",
+            "title": "Trump to keep ban on big game trophies for now",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

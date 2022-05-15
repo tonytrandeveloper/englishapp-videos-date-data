@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iC4gLOWhvNI",
-            "title": "Gunman on San Francisco Train Goes Unnoticed Before Killing",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "IAeI0S5DZ-k",
             "title": "Kelly Clarkson and Will.i.am Announce 2013 AMA Nominees",
             "secondDuration": 413,
@@ -301,8 +295,14 @@
             "title": "Madeleine McCann: Missing Girl Could Still be Alive",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "6jVUc_4n6I4",
+            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

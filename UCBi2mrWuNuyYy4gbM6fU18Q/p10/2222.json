@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nB9pYcFFQiU",
-            "title": "Power-plant blast in New York sparks chaos, confusion",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "LtkA4GPL470",
             "title": "Hotel apologizes after security guard calls 911 on black guest",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Government shutdown continues",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "JU1t2xisQpM",
+            "title": "New developments in urgent manhunt for suspected cop killer in CA",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

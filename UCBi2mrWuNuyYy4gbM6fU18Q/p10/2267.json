@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kQLhoBh2W0I",
-            "title": "CIA reportedly links Crown Prince to journalist's death",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "LQgKj7T-40A",
             "title": "Man cleared of charges by his mom's Facebook post",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Judge orders Trump administration to restore Jim Acosta's press credentials",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf92eMi1ADk",
+            "title": "The Debrief: California wildfires, winter storm, Khashoggi's funeral | ABC News",
+            "secondDuration": 1256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

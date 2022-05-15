@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mumbbixdFqw",
-            "title": "'Jackie' Tells UVA Friends a Story That Will Change Their Lives: Part 1",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "7cRQ1B_RiYM",
             "title": "Rolling Stone Publishes 'A Rape on Campus': Part 2",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "Trump Doubles Down on Denial of Inappropriate Behavior",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "iQr9oy0Qsp0",
+            "title": "Obamas Campaign for Hillary Clinton in Cleveland",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MR7U8ht3S5M",
-            "title": "Who is Hosni Mubarak? 2/2/2011",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vnfwr1y016Q",
             "title": "The Worst Winter Storm Yet 2/1/2011",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "Egypt in Crisis 1/28/2011",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "I_uVME3OlO8",
+            "title": "Uprising in Egypt 1/28/2011",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

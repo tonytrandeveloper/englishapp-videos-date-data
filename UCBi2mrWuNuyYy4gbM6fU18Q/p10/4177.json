@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3YpzXsGNtjc",
-            "title": "GOP Debate Coverage Recap",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5gi0iHe1v4",
             "title": "Typhoon Soudelor Turns Deadly",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Desk To Go | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "bH2cc8orulY",
+            "title": "Jon Stewart’s Last Night On “The Daily Show” | ABC News",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

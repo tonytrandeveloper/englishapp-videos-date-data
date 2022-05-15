@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ie1HXd8BuiA",
-            "title": "'He was a huge inspiration': Exhibit celebrates David Bowie's life",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxLFE1nihJk",
             "title": "5 killed, several injured in Maryland newsroom shooting: Police",
             "secondDuration": 262,
@@ -121,8 +115,14 @@
             "title": "White House confirms Trump, Putin meeting",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "BPWrK9Pu7Gk",
+            "title": "Prejudice & Pride: Revisiting the tragic fire that killed 32 in a New Orleans gay bar",
+            "secondDuration": 1670,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

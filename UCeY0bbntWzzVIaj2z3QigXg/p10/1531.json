@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mdZY2XPIXdM",
-            "title": "Watch live: Pence holds press conference with coronavirus task force",
-            "secondDuration": 5229,
-            "group": "group_7"
-        },
-        {
             "videoId": "_l6CYBMSWCQ",
             "title": "4 Quarantined Cruise Ship Passengers Share Their Experience | NBC News",
             "secondDuration": 519,
@@ -61,8 +55,14 @@
             "title": "How Markets Rallied After Worst Day Since 1987 | NBC News NOW",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "CGqKy28bD5Q",
+            "title": "Trump Declares A National Emergency Over The Coronavirus Outbreak | NBC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

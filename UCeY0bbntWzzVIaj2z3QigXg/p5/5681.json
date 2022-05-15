@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NPX3FY2_nVw",
-            "title": "California Wildfires: \"It Takes Your Life Away\" Residents Return To Nothing | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gQFg-Y5drc",
             "title": "Facebook's Sheryl Sandberg: Things Happened On Facebook This Election That Shouldn't Have | NBC News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump And VP Mike Pence Send Mix Messages On Puerto Rico Support | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "lidQi055uTU",
+            "title": "White House Chief Of Staff Gen. John Kelly: 'I'm Not Quitting Today' | NBC News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "su6GhQOpLC0",
-            "title": "Nightly News Full Broadcast - March 28",
-            "secondDuration": 1012,
-            "group": "group_7"
-        },
-        {
             "videoId": "wo1plyzmVdE",
             "title": "Congress Recommends Holding Trump Aides Scavino, Navarro In Contempt",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "New Tax On Billionaires Included In 2023 White House Budget Proposal",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "ooilxjOGuk4",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

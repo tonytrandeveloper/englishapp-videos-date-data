@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qJY5AaXf6vE",
-            "title": "Texas Gov. Abbott Delivers Address On Power Outages | NBC News",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "MpjzQnu-wdg",
             "title": "Nominee For CIA Director Says China ‘Poses Our Biggest Geopolitical Test’ | NBC News NOW",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "How Tiger Woods Is Recovering From Emergency Surgery After Solo Crash | NBC News NOW",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "PtjyoS-SG90",
+            "title": "Why Tech Entrepreneurs Are Flocking To Miami As Companies Shift To Remote Work | NBC News NOW",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

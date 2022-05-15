@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "B8q6Y6jeiQA",
-            "title": "Google Employee Killed While Jogging in Massachusetts",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "uJtHURVql-s",
             "title": "Orlando Nightclub Shooter's Father Attends Clinton Rally",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Trails Hillary Clinton By Double Digits In New National Poll",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "7F3KYwu2MNU",
+            "title": "Clinton Responds to Trump's Economic Speech",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

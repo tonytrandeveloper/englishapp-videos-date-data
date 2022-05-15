@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EVl1VxNp_4Y",
-            "title": "About 1,000 people involved in search and rescue efforts",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "7D7VQsZORfg",
             "title": "Texas braces for potentially catastrophic flooding",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Doctors struggle to diagnose man's mysterious illness: Part 2",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "WWFYOsB5_Wk",
+            "title": "North Korea test-fires another ballistic missile",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

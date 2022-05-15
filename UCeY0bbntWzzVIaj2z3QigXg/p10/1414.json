@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pe4VE8MWyD0",
-            "title": "Trump’s Personal Valet Tests Positive For Coronavirus | NBC Nightly News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qqxy9aCm_FE",
             "title": "China Accuses U.S. Of Pushing False Coronavirus Claims For Trump's Reelection | NBC News Now",
             "secondDuration": 798,
@@ -61,8 +55,14 @@
             "title": "New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3935,
             "group": "group_7"
+        },
+        {
+            "videoId": "-hd9cf-MWD4",
+            "title": "Cuomo: New York Coronavirus Eviction Moratorium Extended Through August 20 | NBC News NOW",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

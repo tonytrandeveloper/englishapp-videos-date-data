@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l32QiMgg3fk",
-            "title": "Watch: Presidential Candidates Pitch Their Plans To Tackle Climate Change | NBC News Now",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "ui_7gmhRxAY",
             "title": "Delta Plane Quickly Descends 30,000 Feet In Controlled Descent|  NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Watch Live: Canadian Prime Minister Justin Trudeau Speaks Amid Brownface Controversy | NBC News",
             "secondDuration": 4408,
             "group": "group_7"
+        },
+        {
+            "videoId": "6TGghnNQXUA",
+            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

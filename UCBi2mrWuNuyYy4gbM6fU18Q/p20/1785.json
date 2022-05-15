@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nalGPlG_p34",
-            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "0mykacTLwfw",
             "title": "How to Safeguard Your Car From Hackers",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Central Park Explosion",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "xE5HKgF5kBo",
+            "title": "American Student Found Dead in Italian River",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

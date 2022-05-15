@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FgxP-FcEZ6s",
-            "title": "Police detained a man who tried to breach airport security in Orlando",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "EVbB_BDyv0k",
             "title": "95-year-old Celemtene Bates shares the importance of love as a foster grandparent",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Rapper 21 Savage fears deportation after ICE arrest",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "jkVyfcjjwLY",
+            "title": "Trail runner describes near-deadly mountain lion attack",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

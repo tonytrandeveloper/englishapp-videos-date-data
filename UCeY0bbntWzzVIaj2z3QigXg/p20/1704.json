@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "soYuQJeT6UY",
-            "title": "Mitt Romney On 2016 Republican Race, Donald Trump | Meet The Press | NBC News",
-            "secondDuration": 592,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sl1MaCcFhRc",
             "title": "Lindsey Graham On GOP Race, Working With Ted Cruz | Meet The Press | NBC News",
             "secondDuration": 410,
@@ -121,8 +115,14 @@
             "title": "'Having Trump Endorsement A Delight': Mitt Romney Takes On Trump | Flashback | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "aPHMWpAStgo",
+            "title": "John Kasich: Brokered Convention A 'Real Prospect' | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

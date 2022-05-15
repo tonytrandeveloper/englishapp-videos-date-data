@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GjnrEaNP9DY",
-            "title": "Obama Reportedly Unaware NSA Spied on 35 World Leaders",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "TqR0Mc3usuc",
             "title": "Velvet Underground's Lou Reed Dead at 71",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "This Is Fusion",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "ysqUys6Clss",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 846,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

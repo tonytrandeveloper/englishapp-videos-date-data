@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LZ5Xb7AdJBI",
-            "title": "Human Trafficking Survivors Share Their Stories",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "15V3frL2GqQ",
             "title": "What To Do If You Get An Eviction Notice",
             "secondDuration": 265,
@@ -61,8 +55,14 @@
             "title": "Watch: Turkish Friends Find Themselves Trapped By Wildfires On Mountain Road",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "CINMDUSr8lA",
+            "title": "Hundreds of Afghan Evacuees Fleeing Taliban Arrive in U.S.",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

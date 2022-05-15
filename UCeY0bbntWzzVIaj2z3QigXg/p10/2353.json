@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rnBpAjtBD4I",
-            "title": "Russian Warplanes Carry Out Bombing Drills In Baltic Sea | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "gVpcOM628jw",
             "title": "The Lonely Battle: A Former GOP Congressman Pushes His Party To Believe In Climate Change | NBC News",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Full Pompeo: 'We have our eyes wide open' with Kim Jong Un | Meet The Press | NBC News",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "AlVHebLMxCU",
+            "title": "Baseball Brings Hope And Unity To Puerto Rico After Hurricane Maria | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ec61X1F7vyM",
-            "title": "The Briefing Room: Trump's farmer Aid, package, American Taliban released,  Middle East troops",
-            "secondDuration": 1607,
-            "group": "group_7"
-        },
-        {
             "videoId": "EIGo2t91E1U",
             "title": "Tornadoes destroy car dealership in Missouri",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Dog jumps out of moving vehicle, suspect detained after high-speed RV chase in LA",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "BdOWpxQhX7Y",
+            "title": "Trump responds angrily to Pelosi claim he's 'engaged in a cover-up'",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

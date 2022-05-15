@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NxwYUb0EXSo",
-            "title": "Hillary Clinton Officially Introduces Tim Kaine During Campaign Rally| ABC News",
-            "secondDuration": 2312,
-            "group": "group_7"
-        },
-        {
             "videoId": "AxqoUiDokEs",
             "title": "Election Cycle LIVE from Homestead PA",
             "secondDuration": 279,
@@ -121,8 +115,14 @@
             "title": "Obama Denies Reported Chaos at RNC",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "40d7MCFrogQ",
+            "title": "Police Officer Who Shot Unarmed Man Identified",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "obSg1UsIdqY",
-            "title": "The Briefing Room: Democrat debate podium reveal, Hurricane Dorian Comey IG report | ABC News",
-            "secondDuration": 1451,
-            "group": "group_7"
-        },
-        {
             "videoId": "yLStm0S5ppU",
             "title": "Greta Thunberg in New York, Mexico attack, Pedro Almodovar: World in Photos, Aug. 29",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Hurricane Dorian wreaks havoc on Labor Day travel l ABC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "MF0z1j6e-fs",
+            "title": "Hurricane Dorian emergency, Brexit outrage, Italian volcano erupts l ABC News",
+            "secondDuration": 1386,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

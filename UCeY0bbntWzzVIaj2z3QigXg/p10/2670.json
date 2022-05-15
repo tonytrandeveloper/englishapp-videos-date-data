@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xxIda477vvg",
-            "title": "Deadly Earthquake Topples Buildings In Taiwan | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "E8Vx2Zf76VU",
             "title": "Heavy Snow Closes Eiffel Tower, Turns Montmartre Into Ski Slope | NBC News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Stock Market Recovers Half Of What Was Lost After Largest Dow Drop In History | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "BKuFsI_0KGA",
+            "title": "SpaceX’s Falcon Heavy Rocket Nails Its Maiden Test Flight | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

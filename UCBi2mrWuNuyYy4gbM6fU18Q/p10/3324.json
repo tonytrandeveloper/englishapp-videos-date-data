@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y7F7eRM1oiU",
-            "title": "Obama to Trump: 'Stop Whining'",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uee7T9PuwpE",
             "title": "Obama: Trump's Closeness to Putin 'Unprecedented'",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "Price Is Right | 3 Contestants Hit $1, Make History",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ulkXpc4zgjI",
+            "title": "US Supports Iraqi Forces in Mosul",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

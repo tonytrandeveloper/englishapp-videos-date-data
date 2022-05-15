@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iPKKfzy4Z4I",
-            "title": "Trump blasts the Justice Department in televised phone interview",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9KAnwJgPRg",
             "title": "Bill Cosby found guilty on all 3 counts of aggravated indecent assault",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "SPECIAL REPORT: Bill Cosby found guilty on all charges",
             "secondDuration": 611,
             "group": "group_7"
+        },
+        {
+            "videoId": "QTYdqtaMSOI",
+            "title": "White Gold: Discovering Bhutan's natural treasure",
+            "secondDuration": 1919,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

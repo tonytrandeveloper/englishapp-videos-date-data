@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UmBnKVywuR0",
-            "title": "Police Use Of Force Sends Thousands To Emergency Rooms",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "dAPVqYknZnA",
             "title": "NBC News NOW Full Broadcast - June 22nd, 2021",
             "secondDuration": 3053,
@@ -31,8 +25,14 @@
             "title": "Fauci: Delta Variant Is ‘Greatest Threat’ To Eliminating Covid In US",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "e1dpx-CBG-I",
+            "title": "The Next War: How The U.S. Armed Forces Are Evolving | Meet The Press",
+            "secondDuration": 1645,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

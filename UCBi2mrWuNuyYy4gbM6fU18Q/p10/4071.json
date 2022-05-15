@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dX5A6zyUvdE",
-            "title": "One Direction Breaks Billboard Record | ABC News",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "cg3iLEzbDmc",
             "title": "Violent Classroom Arrest Probed by FBI",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Chewbacca Busted",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1WVmn3HLRY",
+            "title": "'Dancing With the Stars' Booted Couple Speaks Out",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

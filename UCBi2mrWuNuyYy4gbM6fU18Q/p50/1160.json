@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "A3PzubM26z4",
-            "title": "Sheryl Crow Brain Tumor: Singer Learns of Benign Mass in Brain After Asking for MRI to Check Memory",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "aWSZFaQh7Lo",
             "title": "Miley Cyrus Engaged to Liam Hemsworth: 'Hunger Games' Actor Proposes to Former 'Hanna Montana' Star",
             "secondDuration": 169,
@@ -301,8 +295,14 @@
             "title": "On the Town with Will.i.am",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3TJtwUOmQg",
+            "title": "Sugar: Latest Target in Diet Wars",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "b6Dyrk_AWKQ",
-            "title": "President Donald Trump Speaks At FBI National Academy Graduation (Full) | NBC News",
-            "secondDuration": 3040,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1ZwC9Wti_o",
             "title": "What Not To Do At Your Office Holiday Party | Better | NBC News",
             "secondDuration": 221,
@@ -301,8 +295,14 @@
             "title": "The Link Between Smartphones And Kids’ Mental Health | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvAc1HSRhjo",
+            "title": "Port Authority Suspect Charged In Pipe Bomb Attack | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

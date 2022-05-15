@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ytsx6GHL3Jo",
-            "title": "Donald Trump Delivers 'Super Saturday' Remarks",
-            "secondDuration": 1814,
-            "group": "group_7"
-        },
-        {
             "videoId": "Plb-m8Pb_9A",
             "title": "John Kasich Delivers Remarks on 'Super Saturday'",
             "secondDuration": 2113,
@@ -121,8 +115,14 @@
             "title": "Drone Narrowly Misses Passenger Plane",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "VWz7knQebsE",
+            "title": "Bobbi Kristina Brown Cause Of Death Revealed",
+            "secondDuration": 20,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

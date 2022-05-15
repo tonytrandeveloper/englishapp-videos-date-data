@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w6TJdZHDazc",
-            "title": "Louisiana Sinkhole Swallows Up Trees in Seconds",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "vDnbr3Ktegg",
             "title": "The US and the UN Probe Syria",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Atlanta School Shooting:  Antoinette Tuff Tells Alleged School Shooter She Loves Him in 911 Call",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "BBhzqKeBS7s",
+            "title": "Egypt News:  Ex-President Hosni Mubarak Could Be Released From Jail",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

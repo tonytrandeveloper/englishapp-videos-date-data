@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-KsLH2jtOSE",
-            "title": "Trump reacts to North Korea tensions",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "cj03Ij394nc",
             "title": "Firefighter who shot neighbor will not face charges, prosecutor says",
             "secondDuration": 260,
@@ -31,8 +25,14 @@
             "title": "Music mogul works to help free the wrongfully convicted",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "edcZeUJ7F3g",
+            "title": "These citizen journalists risk their lives to document ISIS horrors in Syria",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

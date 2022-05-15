@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vAiSV8FewU0",
-            "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5146,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhZ64HLznuA",
             "title": "Blue Angels And Thunderbirds Perform Flyover Of Washington, D.C. | NBC News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Trump Announces Remdesivir Cleared By FDA For Emergency Coronavirus Treatment | NBC News NOW",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "JQc3bTXg51Y",
+            "title": "Trump Hosts Recognition Ceremony: 'Hard Work, Heroism, And Hope’ | NBC News",
+            "secondDuration": 1374,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

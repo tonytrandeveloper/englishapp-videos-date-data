@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1M5acB2fKrs",
-            "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuiY_sKAsqQ",
             "title": "Coronavirus Outbreak: Strained Hospitals Running Low On Supplies | NBC Nightly News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Number Of COVID-19 Cases Likely Much Higher Than Tests Reveal | Meet The Press | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvv72eWC5pc",
+            "title": "'Every Day Counts So Much' Gov. DeWine And Gov. Pritzker Outline State Responses | Meet The Press",
+            "secondDuration": 500,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

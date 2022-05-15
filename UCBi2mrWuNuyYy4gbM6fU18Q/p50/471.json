@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yx1WXsnmXQc",
-            "title": "Kavanaugh grilled on abortion, Russia investigation l SCOTUS Confirmation Hearing",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "jETJwUuqih8",
             "title": "ABC News Live: California wildfires, Kavanaugh confirmation, new book on Trump",
             "secondDuration": 2375,
@@ -301,8 +295,14 @@
             "title": "New details emerge about wife who poisoned her husband with eye drops",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "optZZJVN-q0",
+            "title": "Concertgoer shot by police after opening fire in San Diego",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

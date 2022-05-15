@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yarEbKyk8PU",
-            "title": "'Game of Thrones' Author George R.R. Martin",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "CkXR9Zkr0hU",
             "title": "Mt. Everest Tragedy: At Least 12 Dead",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "Kansas City on Edge: 20 Highway Shootings in 30 Days",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "e3To11A4n18",
+            "title": "Chelsea Clinton Expecting First Child In Fall",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

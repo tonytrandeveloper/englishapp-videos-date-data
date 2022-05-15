@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X-NINpsGr7I",
-            "title": "Donald Trump Defies Polls and Takes the White House",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "hj6iinK4O5o",
             "title": "Hillary Clinton Blindsided by Defeat",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "Trump on Trade, NAFTA | Election 2016",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "k2pxgOwuTRY",
+            "title": "Trump on Syria, Defeating ISIS | Election 2016",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tyBuNina-_U",
-            "title": "Roll of the Dice",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "c1d1rIxQDRM",
             "title": "Gibson's Full Interview With Obama (Part 1)",
             "secondDuration": 431,
@@ -61,8 +55,14 @@
             "title": "Dean: The Collapse of Health Care Reform",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vli0yA67lj0",
+            "title": "America's Vision Gets Blurrier",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

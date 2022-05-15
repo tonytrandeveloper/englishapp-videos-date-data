@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t1dEld70RfM",
-            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 1836,
-            "group": "group_7"
-        },
-        {
             "videoId": "LAoZBRQLd2k",
             "title": "Biden's Secretary Of Homeland Security Nominee Alejandro Mayorkas Delivers Remarks | NBC News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Cuomo: Holiday Season Could Cause Statewide Positivity Rate To Rise To 12 Percent | NBC News NOW",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "97LSlekxXf8",
+            "title": "Officials Hold Briefing On Operation Warp Speed, Covid Vaccine Distribution",
+            "secondDuration": 3016,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wKeIx0xsd2U",
-            "title": "Brett Kavanaugh Replacement On DC Court Defends Controversial Writings | NBC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "10Y4ntQNYqI",
             "title": "At Least 10 killed In Paris Apartment Building Fire, Arson Suspected | NBC News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Five Dead After Plane Crashes Into Southern California Home | NBC Nightly News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "IlJVUbpAhc8",
+            "title": "What To Expect From President Trump’s State Of The Union Address | NBC Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

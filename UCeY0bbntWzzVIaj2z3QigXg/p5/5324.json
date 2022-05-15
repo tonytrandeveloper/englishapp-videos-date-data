@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0ESp9ZlbRfs",
-            "title": "This New Robot Can Hold The Door For Its Friend | Mach | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "7OVVbrTP18g",
             "title": "Intelligence Chiefs Testify At Senate Hearing (Full) | NBC News",
             "secondDuration": 10004,
@@ -31,8 +25,14 @@
             "title": "Former President Of Georgia Mikheil Saakashvili Seized At Kiev Restaurant And Deported | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "lIxH9j4q8_I",
+            "title": "NTSB Investigating Grand Canyon Helicopter Crash That Left Three Dead | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

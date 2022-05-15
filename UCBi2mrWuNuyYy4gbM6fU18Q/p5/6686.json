@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oGMXln1ggrA",
-            "title": "Hurricane Matthew Hammers Florida",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "vWCfnxhHfYQ",
             "title": "Clinton, Trump Respond to Hurricane Matthew",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Minnesota Mall Stabbing Spree Video Released",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "NB0Ry2kHS-A",
+            "title": "Hurricane Matthew Stirs Up the Campaign Trail",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

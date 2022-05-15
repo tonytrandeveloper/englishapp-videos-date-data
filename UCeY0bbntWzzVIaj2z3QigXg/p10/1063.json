@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F0RtKaxzqt8",
-            "title": "Halloween Parties Raise Health Concerns As Covid-19 Cases Continue To Rise | NBC Nightly News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "PN37mWNKsEw",
             "title": "How Florida Plans To Restore Voter Confidence In The Mail-in Ballot | NBC Nightly News",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "On Election Night, These Are The First States To Watch | Meet The Press | NBC News",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "JEZCBLzyumc",
+            "title": "Full Pollsters: Trump Has 'Never Had A Positive Job Rating' in NBC News / WSJ Poll | Meet The Press",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

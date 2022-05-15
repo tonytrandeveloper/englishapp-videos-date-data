@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "14fENjTChe8",
-            "title": "President Donald Trump Offers To 'Destroy' Texas State Senator's Career | NBC News",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "WXMLP9Xb9iw",
             "title": "Senator Elizabeth Warren Barred From Senate Debate For 'Impugning' Jeff Sessions | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Tornadoes Strike New Orleans Area That Was Devastated By Katrina | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "xCHFIvZ_HiM",
+            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

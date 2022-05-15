@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sp8rEWSt27Q",
-            "title": "Nikki Haley says Trump, Tillerson 'work very well together'",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKU6hDBa94U",
             "title": "Sen. Susan Collins: Corker-Trump Twitter feud not 'very productive'",
             "secondDuration": 491,
@@ -61,8 +55,14 @@
             "title": "Multiple women describe alleged encounters with Harvey Weinstein: 20/20 Part 1",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "4e5qXZi5EB0",
+            "title": "Angelina Jolie, Gwyneth Paltrow claim Weinstein harassed them: 20/20 Part 2",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YSx2ot7BNvQ",
-            "title": "North Korea fires at least 2 projectiles into sea l ABC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "Meo_cKcS5Mo",
             "title": "Tesla driver appears to be asleep at the wheel l ABC News",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "Felicity Huffman writes emotional letter to judge | ABC News",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "s2hgKXVxg44",
+            "title": "Cargo ship capsizes, Trump cancels Taliban talks, new gun policy poll| ABC News",
+            "secondDuration": 1416,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

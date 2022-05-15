@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AQIv9WzvS8g",
-            "title": "Robin's Super Bowl Hoopla",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "2IOVQz8RQ_w",
             "title": "Super Bowl Ads: Hits and Misses",
             "secondDuration": 318,
@@ -31,8 +25,14 @@
             "title": "Mid-Air Crash Kills Three Over Colorado",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "gZzOfmsX7D0",
+            "title": "Boy Scouts of America Celebrate Centennial",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Up4jXRqNx5E",
-            "title": "Iraqi Forces Assault Mosul District",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "bBl67bYAJm8",
             "title": "Life as Donald Trump, Hillary Clinton Impersonators",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "Clinton Campaign Manager Robby Mook On Email Investigation",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "XadZbZmx8rA",
+            "title": "Hillary Clinton Tries to Shift Campaign Tone",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

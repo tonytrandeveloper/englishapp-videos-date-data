@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oGR8x0eJdsk",
-            "title": "Bannon breaks with Trump in Alabama Senate race",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "C-ZA5kEuUxo",
             "title": "Puerto Rico governor warns of humanitarian crisis after Maria",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "An Inconvenient Border: Where China Meets North Korea | ABC News",
             "secondDuration": 2355,
             "group": "group_7"
+        },
+        {
+            "videoId": "V7Ug8gdIEcQ",
+            "title": "Athletes defend NFL protests amidst Trump's condemnations",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

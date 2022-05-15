@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8Ielc37pAKo",
-            "title": "White House press briefing amid Puerto Rico crisis, tax reform debate",
-            "secondDuration": 4414,
-            "group": "group_7"
-        },
-        {
             "videoId": "3sFWe88fhSk",
             "title": "Trump Cabinet members under fire for travel spending",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Trump faces health care loss, Puerto Rico backlash",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cy8rdzqBtZ0",
+            "title": "Trump-backed candidate loses Alabama GOP primary",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

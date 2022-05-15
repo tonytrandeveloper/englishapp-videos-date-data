@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hjZOcPV7oLY",
-            "title": "Inside Ford Automotive Factory Producing Medical Equipment To Fight COVID-19 | NBC News NOW",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "yVL97WsXESM",
             "title": "Health Care Heroes Share Video Diaries From The Front Lines Of COVID-19 Fight | NBC News NOW",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Coronavirus Relief Payment To Small Businesses Could Be Delayed Due To High Demand |NBC Nightly News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Ne8ZzoKIkQ",
+            "title": "Doctors Test Treating COVID-19 With Plasma Of Recovered Patients | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

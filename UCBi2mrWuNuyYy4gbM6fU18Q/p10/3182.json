@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2uoQM_tgaqI",
-            "title": "Dog Visits Hospital To Say Goodbye to Owner",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTn8wxSIUbI",
             "title": "Bus Driver Decorates Public Bus for the Holidays",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Trump Meets With Paul Ryan",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXziZVVPisg",
+            "title": "Harassment Women Face While Going for a Run",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

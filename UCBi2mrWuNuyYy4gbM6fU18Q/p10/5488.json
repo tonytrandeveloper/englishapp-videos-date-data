@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DKJw0b2CzLc",
-            "title": "Black Friday Savings: How to Hack the Holidays",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vx0LwtLl4-M",
             "title": "GW Bridge Painter: Dangerous Jobs",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Paula Abdul Interview on 'GMA': Singer on Judging 'DWTS,' Controversial Rumba Scores",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "P5m3Fpidn-k",
+            "title": "Bradley Cooper Takes NYC Subway; Grandpa Models Granddaughter's Designs",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

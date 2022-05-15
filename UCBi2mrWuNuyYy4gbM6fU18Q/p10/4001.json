@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p0xriodkK7c",
-            "title": "Bernie Sanders Campaign Staffer Fired for Allegedly Accessing Campaign Data",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "NH_5Bgzj_ow",
             "title": "'Star Wars: The Force Awakens' - Fans Turn Out in Full Force",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Friend Of San Bernardino Terrorists Arrested | ABC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "5AMmhuJ33oA",
+            "title": "Tooth Myth Debunked | ABC News",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

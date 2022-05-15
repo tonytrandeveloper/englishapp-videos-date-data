@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "861Sh9NK3rw",
-            "title": "Mystery Super Skimmer Arrives in Gulf",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "fel-ATaMn5w",
             "title": "The Conversation: Is Congress Playing Politics?",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Karen Elson: \"The Ghost Who Walks\"",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "yDbocZ438f0",
+            "title": "Obesity in America",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

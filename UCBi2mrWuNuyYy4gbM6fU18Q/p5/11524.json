@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LmW8cCGaYhc",
-            "title": "Amy Winehouse's Last Days",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "wPcRVjxNpbA",
             "title": "Katie Holmes, Tom Cruise to Divorce",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "Caught in a Bad Romance: The Conman",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkF8VLlHSfQ",
+            "title": "Katie Holmes Files for Divorce From Tom Cruise",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

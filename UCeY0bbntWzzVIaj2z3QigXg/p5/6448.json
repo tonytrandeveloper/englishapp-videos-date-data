@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-2Zr3ab_tLM",
-            "title": "Tim Kaine On Stephen Bannon, Election Loss, Electoral College | NBC News",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "KOchhwjJb4g",
             "title": "Police: Oklahoma City Airport Shooting ‘Was Not Random,’ Suspect Is Dead | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Conviction Episode 12: We're Going To Make It | Conviction | Dateline NBC",
             "secondDuration": 614,
             "group": "group_7"
+        },
+        {
+            "videoId": "f6xVoqGBD_U",
+            "title": "Power Of The Dinner Table: Every Thursday Is Like Thanksgiving Here | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

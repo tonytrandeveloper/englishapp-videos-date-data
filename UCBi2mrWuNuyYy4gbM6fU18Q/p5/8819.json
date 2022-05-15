@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Av-FkiIqmS8",
-            "title": "Monica’s Blue Dress Casts a Shadow in Clinton Presidential Portrait",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "6uf2gcSLOTY",
             "title": "'The Sound of Music:' The Hills Are Still Alive 50 Years Later",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "John Kerry: Unless Iran Makes the Difficult Decisions There ‘Won’t Be a Deal’",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOx3yUxjcWk",
+            "title": "Barbara Mikulski, Longest-Serving Woman in Senate, Retiring",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

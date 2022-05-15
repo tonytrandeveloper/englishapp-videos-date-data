@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "su5dzLoWigY",
-            "title": "Obama's Defining Moment",
-            "secondDuration": 489,
-            "group": "group_7"
-        },
-        {
             "videoId": "uesBLNy-kxs",
             "title": "Hotel Web Photo Fakeouts Revealed",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "The High Price of Palin's Book Tour",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "cI0NGC-YpJQ",
+            "title": "Alleged Cop Killer Maurice Clemmons Killed",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

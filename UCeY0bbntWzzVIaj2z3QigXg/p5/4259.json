@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H1YM58Ky3Wk",
-            "title": "The Digital Economy Is Changing. Here's How To Change With It. | Better | NBC News",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "8D6Kx8r0WMI",
             "title": "17 Vehicles Engulfed In Newark Airport Parking Lot Fire | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Police Locate Video Evidence Of Potential Persons In Jussie Smollett Attack | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "ftOGwTB_U9k",
+            "title": "Protests In Venezuela Call For Maduro’s Ouster As U.S. Backs Opposition | NBC Nightly News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

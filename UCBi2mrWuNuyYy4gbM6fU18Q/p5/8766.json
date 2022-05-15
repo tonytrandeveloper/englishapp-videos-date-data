@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AGngOmNp0ko",
-            "title": "March 18, 1995: Michael Jordan Returns #TBT",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "ldpkAyW6_LY",
             "title": "Arizona Shooting Spree Results in Multiple Injuries",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Diane Sawyer: 'The Sound of Music' with Julie Andrews (Part 1)",
             "secondDuration": 633,
             "group": "group_7"
+        },
+        {
+            "videoId": "axJPwi5CpjU",
+            "title": "Diane Sawyer: 'The Sound of Music' with Julie Andrews (Part 2)",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

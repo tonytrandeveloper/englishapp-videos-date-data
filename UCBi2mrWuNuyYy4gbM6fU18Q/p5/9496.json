@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KnJli5khhpI",
-            "title": "Surfer Charged With Attempted Murder in Road Rage Case",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "YJ-USRztCU4",
             "title": "Dog Food Companies Locked in Lawsuit",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "California's Battle Against Sweeping Wildfires",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcifLnZbcI8",
+            "title": "Tracking MERS Virus",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

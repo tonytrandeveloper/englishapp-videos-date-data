@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VOEcIjH-TdY",
-            "title": "Research: Exercise Can Help Concussion Patients Recover Faster | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "xCpHfm6osio",
             "title": "State Deptartment Confirms Donald Trump's Transition Team Has Arrived | NBC News",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "John Lewis Tearfully Accepts National Book Award For Graphic Memoir 'March' | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "bY8ngJv8XnE",
+            "title": "8,000 Baby Sea Turtles Released In Mexico | NBC News",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

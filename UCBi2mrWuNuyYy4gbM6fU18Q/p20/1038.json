@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8KZfg6mgTkk",
-            "title": "The Debrief: Storm state of emergency in Louisiana, Deadly Colorado crash, Maria Butina sentencing",
-            "secondDuration": 1723,
-            "group": "group_7"
-        },
-        {
             "videoId": "WJ6KIDehvwg",
             "title": "Trump, Anita Hill take aim at Biden in 2020 bid",
             "secondDuration": 209,
@@ -121,8 +115,14 @@
             "title": "Single mothers by choice: 'I am the CEO of my own operation'",
             "secondDuration": 521,
             "group": "group_7"
+        },
+        {
+            "videoId": "o_K6qLQmIUI",
+            "title": "Car ramming attack in California",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

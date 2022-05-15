@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U-RiIGQb154",
-            "title": "The Briefing Room: North Korea, Iran, border debate, 538 on Democratic debate",
-            "secondDuration": 1630,
-            "group": "group_7"
-        },
-        {
             "videoId": "vggToKbC8fc",
             "title": "Giant waterspout forms over lake in Canada",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "President Trump hints about a potential meeting with Kim Jong Un",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "_EewojkdDVg",
+            "title": "Prosecutors consider charges against woman in fetus' death",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

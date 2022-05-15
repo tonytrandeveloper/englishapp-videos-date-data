@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WD8wTzsHXmY",
-            "title": "The Winter That Won’t Give Up",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdaF63RWF9o",
             "title": "Super Bowl Save: Malcolm Butler's Interception",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "Massive Winter Storm Sweeps U.S.",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOyJfcxFudA",
+            "title": "Super Bowl 2015: Facts and Figures",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

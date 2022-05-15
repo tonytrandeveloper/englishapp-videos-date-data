@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MSmykUAEzwI",
-            "title": "Woman driving wrong way on highway with infant in back seat charged with drunk driving",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "OznsHJT_6f0",
             "title": "Trump urges Alabama voters to support GOP candidate",
             "secondDuration": 298,
@@ -31,8 +25,14 @@
             "title": "Roy Moore accuser says he groped her when she was 16",
             "secondDuration": 492,
             "group": "group_7"
+        },
+        {
+            "videoId": "fqLqWpFb3_4",
+            "title": "LA Times releases audio of Roy Moore’s offhand comment on slavery",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Up3kbzPO2g4",
-            "title": "Popcorn: Tom Felton",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iAaa8NEuRU",
             "title": "Capri Anderson on Sheen's Meltdown",
             "secondDuration": 464,
@@ -61,8 +55,14 @@
             "title": "Furor Over Airport Security Overblown?",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "Cw9zGj_1ZD8",
+            "title": "College Culinary Final Four",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

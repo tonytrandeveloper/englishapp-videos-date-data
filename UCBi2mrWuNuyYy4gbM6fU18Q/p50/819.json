@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0FEwN8GGCAg",
-            "title": "Obama Gives Kanye Campaign Advice  | ABC News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yg_RRkFsXsE",
             "title": "Southwest Airlines Computer Meltdown | ABC News",
             "secondDuration": 118,
@@ -301,8 +295,14 @@
             "title": "Ben Carson Gun Control Comments Spark Controversy",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9nztd1q3Qk",
+            "title": "Fantasy Sports Sites Under Investigation for Fraud",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

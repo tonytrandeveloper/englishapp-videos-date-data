@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-fVHBDSJAFM",
-            "title": "Inside the Paris Raid Authorities Say Thwarted a New Terrorist Attack",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "YnfN_9HEwYg",
             "title": "France Intensifies Airstrikes in Syria",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "'GMA' Hot List: Behind the Scenes at 'GMA'",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "xLOjIzZhZXI",
+            "title": "'The Hunger Games' Cast Live in Times Square",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

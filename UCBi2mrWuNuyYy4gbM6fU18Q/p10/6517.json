@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cA9vBtuZYwE",
-            "title": "Steven King's Latest Nail-Bitter",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "08OGzJp_PPg",
             "title": "FBI Investigates Fort Hood Shooter",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Warning Sign: Hasan Reached Out to al Qaeda",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "4P_ARtl92Cw",
+            "title": "Amplified: The xx",
+            "secondDuration": 393,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

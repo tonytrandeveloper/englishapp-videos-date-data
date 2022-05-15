@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p6zrMB94wY0",
-            "title": "Covid Cases Rising As Families Prepare To Gather For Thanksgiving",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "FhkJEszb97Q",
             "title": "Three Men Found Guilty of Murdering Ahmaud Arbery",
             "secondDuration": 177,
@@ -121,8 +115,14 @@
             "title": "Brian Laundrie's Death Ruled A Suicide By Medical Examiner",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "fmv9CxY7YaA",
+            "title": "The Impact NASA Is Trying To Make 6.5 Million Miles Away",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

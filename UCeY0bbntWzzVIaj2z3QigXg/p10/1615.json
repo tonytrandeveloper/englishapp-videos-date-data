@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YgKC5am9vxw",
-            "title": "White House Briefing On COVID-19 | NBC News (Live Stream Recording)",
-            "secondDuration": 2781,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ntSxT9n35Q",
             "title": "JLo, Shakira: Super Bowl Halftime 'Important Moment' For Latinos In U.S. | NBC News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Somber Lakers Players Prepare For First Game Since Kobe Bryant’s Death | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "D6Xd92CCNdM",
+            "title": "Biden: ‘I Do Not Believe’ In President Donald Trump’s ‘Dark, Angry’ Version Of America | NBC News",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

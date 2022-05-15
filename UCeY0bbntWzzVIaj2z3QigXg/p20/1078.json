@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NfmpN9rMX1s",
-            "title": "Pompeo Makes First Visit To Saudi Arabia Since CIA Report On Khashoggi Killing | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "RESireNIulE",
             "title": "New Details On Jayme Closs Kidnapping As Suspect’s Neighbor Speaks | NBC Nightly News",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Congress Adjourns As Government Shutdown Enters 21st Day | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "3SmfWwhPrMA",
+            "title": "Air Traffic Controllers Sue Government As Federal Workers Miss First Paycheck | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

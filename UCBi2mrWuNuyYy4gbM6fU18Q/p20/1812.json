@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZpGSjYqHFV0",
-            "title": "Muhammad Ali Funeral [FULL MEMORIAL SERVICE]",
-            "secondDuration": 6210,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYRCTXruY0c",
             "title": "Muhammad Ali Funeral | Bill Clinton's Remarks",
             "secondDuration": 667,
@@ -121,8 +115,14 @@
             "title": "Rescue of Young Dolphin Caught on Video",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "v31tm86H2Mk",
+            "title": "Horse Learns to 'Play Dead'",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

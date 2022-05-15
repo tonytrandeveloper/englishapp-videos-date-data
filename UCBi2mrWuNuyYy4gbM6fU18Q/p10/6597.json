@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hBxF4aLRGRE",
-            "title": "Michael Jackson's Final Moments",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "QReydiv8P50",
             "title": "Amplified: Yo La Tengo",
             "secondDuration": 355,
@@ -61,8 +55,14 @@
             "title": "Bad Time for Obama's Break?",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "-02OubBWeRY",
+            "title": "Rogue Wave Pulls Onlookers Into Atlantic",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

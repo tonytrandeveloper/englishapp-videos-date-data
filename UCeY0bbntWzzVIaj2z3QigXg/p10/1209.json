@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eKKfHoiDoFo",
-            "title": "Biden, Harris Call For Nationwide Mask Mandate Amid Coronavirus Pandemic | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBxSBb1UiR4",
             "title": "Live: Trump Holds News Conference At The White House | NBC News",
             "secondDuration": 2715,
@@ -61,8 +55,14 @@
             "title": "Women In Belarus March In Protest Against Police Violence | NBC News NOW",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "mWZE-kbMLcg",
+            "title": "Swing State Voters React To Kamala Harris Pick | NBC News NOW",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

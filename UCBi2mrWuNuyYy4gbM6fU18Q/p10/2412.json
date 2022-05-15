@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_fiPlPz6NKI",
-            "title": "ABC News Live: Trump-Putin summit reactions, lava bombs, Thailand cave latest",
-            "secondDuration": 1510,
-            "group": "group_7"
-        },
-        {
             "videoId": "aP9keLondr8",
             "title": "Trump stands his ground after Putin news conference backlash",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "Paris gives heroes' welcome to World Cup champions",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "O7MdXN16qA0",
+            "title": "President Trump,  Russia's Vladimir Putin hold joint news conference | ABC News",
+            "secondDuration": 6139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

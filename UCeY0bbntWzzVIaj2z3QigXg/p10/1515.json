@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y1Sfvggxq0k",
-            "title": "Florida Gov. DeSantis Gives Update On Coronavirus | NBC News (Live Stream Recording)",
-            "secondDuration": 1659,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZRQvskAJwM",
             "title": "Illinois Gov. Pritzker Gives Update On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 1906,
@@ -61,8 +55,14 @@
             "title": "Americans Need To Come Together To Face Coronavirus Crisis | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "1jUmohFv_zw",
+            "title": "Cancer Patients Forced To Delay Treatment Over Coronavirus Concerns | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

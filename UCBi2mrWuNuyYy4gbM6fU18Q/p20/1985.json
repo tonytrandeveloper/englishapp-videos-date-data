@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t99mqxVwChU",
-            "title": "This Week: In A Minute",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "vHYbS-qvnfA",
             "title": "Rubio Calls Sean Penn's 'El Chapo' Guzman Interview 'Grotesque'",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "Alyssa Milano, Wendy Williams Clash Over Public Breast-Feeding",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "d5R-g9Xk_5I",
+            "title": "IKEA Faces New Wrongful Death Lawsuit",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

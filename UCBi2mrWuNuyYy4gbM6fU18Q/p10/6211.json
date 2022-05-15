@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KE4EFpC-8YQ",
-            "title": "Healing Racial Divides Through Music",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "dzwRVzwSwLw",
             "title": "Joe Biden: Gay Marriage in U.S. 'Inevitable'",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on White House Victories",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "mOwfGNqhA4A",
+            "title": "Doctor Destroys Opera Singer Zheng Cao's Stage Four Tumors",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QgOV6TqdtMA",
-            "title": "Romney Campaign's Standings in Key Battleground States",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "cW9RhoYEpLY",
             "title": "Predicting Panda Pregnancy Isn't Easy",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Sept. 11 Anniversary: High Alert",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "tuTuNzUcbHc",
+            "title": "Simon Cowell Confirms Britney Spears 'X-Factor' Rumors",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

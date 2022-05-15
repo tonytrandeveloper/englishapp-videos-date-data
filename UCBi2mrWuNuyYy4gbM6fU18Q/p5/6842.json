@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T-uH9u105RA",
-            "title": "Trump and Clinton on the Campaign Trail",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "aKDTNTzGnMA",
             "title": "University of Pittsburgh Football Player Makes a Cancer Comeback",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Kaine Compares Trump's Encouragement of Russian Hacking to Watergate Break-In",
             "secondDuration": 552,
             "group": "group_7"
+        },
+        {
+            "videoId": "zBSTCjKymbI",
+            "title": "Trump's Campaign Manager Says His Position on Border Wall 'Never Changed'",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

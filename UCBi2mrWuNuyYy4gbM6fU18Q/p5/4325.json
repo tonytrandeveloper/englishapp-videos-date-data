@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RMnoPSq74q4",
-            "title": "Former Air Force counterintelligence specialist charged with spying",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "6vchWDvsOlU",
             "title": "Jussie Smollett: 'I'm pissed off' at people who question attack",
             "secondDuration": 216,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Border deal and shutdown talks, Denver teacher's strike, 'El Chapo' found guilty",
             "secondDuration": 1429,
             "group": "group_7"
+        },
+        {
+            "videoId": "cAeRmg6-LV4",
+            "title": "Rare monkey stolen from Palm Beach Zoo found safe",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

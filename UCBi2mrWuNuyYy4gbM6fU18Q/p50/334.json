@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WSmysqjZlj8",
-            "title": "Overboard l 20/20 l PART 4",
-            "secondDuration": 485,
-            "group": "group_7"
-        },
-        {
             "videoId": "YGJU_U1-BCE",
             "title": "Feds looking into complaints of unintended acceleration in some Tesla cars | ABC News",
             "secondDuration": 121,
@@ -301,8 +295,14 @@
             "title": "School gym torn apart by microburst l ABC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJ0Gpz_pi6A",
+            "title": "Jet plane dumps fuel over elementary school yard l ABC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

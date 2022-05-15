@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YBvF64e5hYw",
-            "title": "Maria Aragon, Inside Lil' Gaga's New Life (03.03.11)",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "3aICB2mUu2k",
             "title": "More Trouble for Charlie Sheen",
             "secondDuration": 363,
@@ -61,8 +55,14 @@
             "title": "Rethinking Meat and Veggies",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQX8T-qWf7A",
+            "title": "The State of Women in America",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

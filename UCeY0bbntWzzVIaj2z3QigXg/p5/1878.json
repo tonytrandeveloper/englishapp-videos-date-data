@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g6uNkvIARnM",
-            "title": "Kamala Harris Sworn In As Vice President | NBC News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "kaQ4BW66nVA",
             "title": "Kamala Harris Escorted By Capitol Police Officer Eugene Goodman | NBC News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Clintons, Bushes, Obamas Arrive At Biden’s Inauguration Ceremony | NBC News",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "wvA8vqXZwFs",
+            "title": "President-Elect Biden Arrives At The Capitol For His Inauguration | NBC News",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

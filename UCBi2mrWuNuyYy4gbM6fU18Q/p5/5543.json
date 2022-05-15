@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9W94uOM7dqE",
-            "title": "Americans still stranded on Caribbean islands",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "b7HglcG3ZEo",
             "title": "Marvel's 'Secret Empire': Inside the omega issue of the comic book story",
             "secondDuration": 1834,
@@ -31,8 +25,14 @@
             "title": "8 dead at Florida nursing home after Irma",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEUsWPeMWos",
+            "title": "Student killed confronting gunman at Spokane school",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

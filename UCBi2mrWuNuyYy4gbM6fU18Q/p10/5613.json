@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0y-0jT0waq4",
-            "title": "In Solitary Confinement, 'the Screaming Starts'",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZjWaIY9T5qI",
             "title": "Mitt Romney Faces Tough Questions in Univision Interview, Promises 'Permanent' Fix to Immigration",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Jesus' 'Wife' Mentioned in Ancient Papyrus",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "91XMA6M5u0Q",
+            "title": "U.S. Uses Naval Exercise as Warning to Iran",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

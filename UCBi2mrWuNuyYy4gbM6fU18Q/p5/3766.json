@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bkaV2jJMqe4",
-            "title": "Amazon rainforest on fire: ‘Lungs of the world’ in flames l Nightline",
-            "secondDuration": 434,
-            "group": "group_7"
-        },
-        {
             "videoId": "IsPasL4HPxg",
             "title": "Johnson and Johnson ordered to pay $572M in opioid case",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "Police looking for driver who plowed into crowd, hitting 2 people",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "EqHqiOVtyiE",
+            "title": "Tropical Storm Dorian gains strength in the Atlantic Ocean l ABC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

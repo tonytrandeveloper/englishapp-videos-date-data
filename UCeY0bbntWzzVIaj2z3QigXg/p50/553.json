@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "L_z4GHC_YaQ",
-            "title": "7,000 Confirmed Cases Of The Flu In The U.S. | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDyl0otHQrk",
             "title": "Here’s What Scientists Say A Nuclear Attack Would Look Like | NBC Nightly News",
             "secondDuration": 157,
@@ -301,8 +295,14 @@
             "title": "This Flight Attendant Has Been On The Job For 60 Years | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQyjgPYKTBY",
+            "title": "War Criminal Dies After Drinking Poison In Court | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

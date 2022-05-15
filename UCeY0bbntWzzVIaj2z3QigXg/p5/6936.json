@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MY7nN97GNUk",
-            "title": "Mass Shooting at Oregon Community College Leaves 13 Dead, 20 Injured | NBC Nightly News",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "F83jXiyfBXI",
             "title": "Hurricane Joaquin Moves to Bahamas | Short Take | NBC News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Woman Finds Nurse Who Cared For Her as an Infant Burn Victim | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "KDLmh_HtC-E",
+            "title": "Why European Forecasts Are Generally More Accurate | 30 STK | NBC News",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

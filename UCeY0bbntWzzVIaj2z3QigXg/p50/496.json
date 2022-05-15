@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "EpAgkEbnweQ",
-            "title": "James Lankford: 'Vast Majority' Of Migrants Coming For Economic Reasons | Meet The Press | NBC News",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "IYqVnhKGF-o",
             "title": "Sen. Angus King: 'We Had The Votes' For Border Wall (Full) | Meet The Press | NBC News",
             "secondDuration": 525,
@@ -301,8 +295,14 @@
             "title": "Speaker Paul Ryan: House To Vote On Broad Bill Addressing Family Separation At Border | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "0t5Sn_S-pdI",
+            "title": "President Donald Trump Expected To Sign Executive Order That Could End Family Separations | NBC News",
+            "secondDuration": 2016,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lo7kFsYppoc",
-            "title": "Watch NBC News NOW Live - June  10",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "C-F7_I68JiA",
             "title": "Political Battle Raging Over Police Reform | NBC Nightly News",
             "secondDuration": 734,
@@ -61,8 +55,14 @@
             "title": "Trump Refuses To Rename Military Bases: History ‘Will Not Be Tampered With’ | NBC News NOW",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "JuU5kprFGxU",
+            "title": "‘By No Means Is This Over’: WHO Executive Director Warns Against Coronavirus Complacency | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

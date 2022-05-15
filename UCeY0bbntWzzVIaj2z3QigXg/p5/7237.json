@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v7AD_QoN4gI",
-            "title": "Violent Hailstorm Sends Sunbathers Running | NBC News",
-            "secondDuration": 19,
-            "group": "group_7"
-        },
-        {
             "videoId": "YB-c61iCY3M",
             "title": "Race in America: How Far Have We Come? | Flashback | NBC News",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Government Shutdown Leads To DC Baby Boom | NBC News",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "L6Z9Is_SfZQ",
+            "title": "From Tin Man to Teen Titans: A History of Cyborgs | NBC News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

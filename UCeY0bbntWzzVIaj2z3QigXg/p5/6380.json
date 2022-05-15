@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JJ3vKu5aweQ",
-            "title": "BMW Unveils Hologram Dashboard At CES | Mach | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "rnFIdP9Awww",
             "title": "Astronomers Discover Something Strange And Beguiling On Pluto's Largest Moon | Mach | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Inspiring America: Foundation Grants Sick Children Chance To Make Dreams Come True| NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "WkyKc1JrteU",
+            "title": "U.S. Intel Chiefs Discuss Russian Hacking, Donald Trump In Senate Hearing | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

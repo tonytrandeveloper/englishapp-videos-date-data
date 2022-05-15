@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1RWcFuKbAvs",
-            "title": "Service Dog Saves Blind Owner's Life at New York Intersection",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "SQzxAMEcy74",
             "title": "Ed Sheeran Reflects on His Childhood Struggle With Stuttering",
             "secondDuration": 394,
@@ -31,8 +25,14 @@
             "title": "Suicide Bombers Target Ancient Karnak Temple in Luxor, Egypt",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "FKx72be1aTs",
+            "title": "Cleveland Cavaliers Edge Out Golden State Warriors in Game 3",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

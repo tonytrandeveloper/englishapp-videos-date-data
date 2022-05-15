@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5UYAuaMgoPg",
-            "title": "Hillary Clinton Stresses Modernization Of The VA, But No Privatization | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "MIEVM_xOhGg",
             "title": "Hillary Clinton: 'Always Have and Always Will' Take 'Classified' Emails Seriously | NBC News",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Two Brothers Get A Fresh Start After Battling Heroin Addiction | NBC News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Oz26PznwEWU",
+            "title": "Surveillance Videos Capture Ex-49er Bruce Miller’s Arrest | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

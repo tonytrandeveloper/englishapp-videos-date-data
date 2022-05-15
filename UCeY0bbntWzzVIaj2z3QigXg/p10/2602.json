@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "olysFQkYkCA",
-            "title": "How Cambridge Analytica Used Algorithms To Trawl Through Facebook User Data | Mach | NBC News",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "eJt6Q4sVMhU",
             "title": "White House Press Briefing - March 27, 2018 | NBC News",
             "secondDuration": 1030,
@@ -61,8 +55,14 @@
             "title": "Family Of Stephon Clark Speaks Out As Investigation Into His Death Continues | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "HCIAuhEvXTU",
+            "title": "Facebook's Faceplant: Android Users Unhappy About The Company Saving Call Data | Mach | NBC News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

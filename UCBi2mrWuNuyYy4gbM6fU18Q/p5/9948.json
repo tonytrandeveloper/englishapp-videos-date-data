@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q_9aYmwqrmI",
-            "title": "ABC World News Now - WEBCAST: Election Results",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "zmu1HfENFJE",
             "title": "Luke Bryan Discusses His Two Family Tragedies",
             "secondDuration": 537,
@@ -31,8 +25,14 @@
             "title": "Ken Cuccinelli Concession Speech 2013: Republican Concedes Defeat in Virginia Governor's Race",
             "secondDuration": 764,
             "group": "group_7"
+        },
+        {
+            "videoId": "_aywLmKVND8",
+            "title": "Chris Christie Victory Speech 2013: GOP Governor Wins Re-Election in New Jersey",
+            "secondDuration": 1087,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

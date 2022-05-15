@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PaBNymg7UiU",
-            "title": "Harvey continues to batter the Gulf coast",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "StRD2jYLbl0",
             "title": "Devastating storm Harvey inspired many acts of kindness in Texas",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Harvey slams eastern Texas with new floods",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKDKhgawrzE",
+            "title": "Volunteers answer Harvey victims' pleas for rescue",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "00d4P_dCLhg",
-            "title": "Teen Vogue's evolution from fashion magazine to social movement | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0J9FLCLEDk",
             "title": "Plane crash takes lives of 2 American families",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Trump returns to the White House after the holidays with tweets",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "7BJxvuGNCgM",
+            "title": "30 states under winter weather alerts",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

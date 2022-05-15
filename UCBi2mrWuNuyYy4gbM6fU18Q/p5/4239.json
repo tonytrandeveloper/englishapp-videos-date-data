@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nap5RMooqBY",
-            "title": "Briefing Room: Trump visits Ohio, Supreme court to hear death row inmate's racial bias claim",
-            "secondDuration": 1579,
-            "group": "group_7"
-        },
-        {
             "videoId": "rw5Hg5Glemw",
             "title": "The Debrief: Boeing audit, Mozambique cyclone, Texas chemical fire, spring break crackdown",
             "secondDuration": 1477,
@@ -31,8 +25,14 @@
             "title": "Blaze contained in Texas chemical plant fire",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Lsp_VgMc-M",
+            "title": "Feud deepens between Trump, top adviser's husband",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

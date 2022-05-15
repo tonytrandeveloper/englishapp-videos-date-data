@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sflHT_L-Tos",
-            "title": "Kim Jong Un Reportedly Makes First Appearance In 20 Days | NBC Nightly News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "fPQ7SpdVDpE",
             "title": "Emissions Down, Wildlife Returns As People Stay Home During Pandemic | NBC News NOW",
             "secondDuration": 252,
@@ -31,8 +25,14 @@
             "title": "Trump Announces Remdesivir Cleared By FDA For Emergency Coronavirus Treatment | NBC News NOW",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "JQc3bTXg51Y",
+            "title": "Trump Hosts Recognition Ceremony: 'Hard Work, Heroism, And Hope’ | NBC News",
+            "secondDuration": 1374,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

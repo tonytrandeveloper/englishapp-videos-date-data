@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yqAViDSqPZ8",
-            "title": "'Stingray Shuffle' Protects Against Animal's Razor Sharp Tail",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "Swm5kSplbNA",
             "title": "Princess Diana Remembered 16 Years After Fatal Car Accident",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Al Sharpton Fires Up March on Washington Crowd",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "xb61JmO7M7g",
+            "title": "MLK Jr.'s Sister: Carry Out His Unfinished Work",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

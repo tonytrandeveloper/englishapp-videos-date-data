@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x_zluj1TzTc",
-            "title": "Obama Touts Tax Cuts, Cantor and Boehner React",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "u2u-uMF7AOM",
             "title": "Obama: Bank Bailout Like a 'Root Canal'",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Tablet Talk: Steve Jobs' Big Day",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQqocuHoYnw",
+            "title": "Toyota in Trouble",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

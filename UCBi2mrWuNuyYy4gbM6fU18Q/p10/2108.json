@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PGACSQdY45Q",
-            "title": "'Amazing Grace': Exclusive look at never-aired footage of Aretha Franklin",
-            "secondDuration": 406,
-            "group": "group_7"
-        },
-        {
             "videoId": "g25bL6qMTRQ",
             "title": "Controversial YouTube star Logan Paul documents Flat Earth conference",
             "secondDuration": 476,
@@ -61,8 +55,14 @@
             "title": "FBI reviewing dropped Jussie Smollett charges",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRC6QFPXeuI",
+            "title": "How high school girls fought back after male classmates rated their appearances",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

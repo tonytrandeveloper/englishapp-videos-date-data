@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HLtwnUJteGU",
-            "title": "Mnuchin: 'We're Looking At Sending Checks To Americans Immediately' | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "gDFO79F7V7o",
             "title": "Dr. Oz Says America Needs To Learn From Wuhan’s Quarantine Lessons | NBC News NOW",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "U.K. Prime Minister Says 'Huge Strides' Taken To Deliver COVID-19 Medical Equipment | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "OhZtvNHjWjw",
+            "title": "First Coronavirus Vaccine Trial Dose Given | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

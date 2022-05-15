@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sYGl41Ofbak",
-            "title": "How Smash-And-Grab Robberies Disproportionately Impact Small Businesses",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "YSv6l6ILOqg",
             "title": "NFL: Tampa Bay's Antonio Brown Suspended For Misrepresenting Vaccination Status",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Dec. 2",
             "secondDuration": 1056,
             "group": "group_7"
+        },
+        {
+            "videoId": "PGXo0xDtDEs",
+            "title": "Biden To Reinstate ‘Remain In Mexico’ Policy",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

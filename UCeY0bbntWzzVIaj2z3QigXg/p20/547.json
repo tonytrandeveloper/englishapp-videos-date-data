@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2IF40he7EhE",
-            "title": "Amy Coney Barrett: 'I Am Not A Liar' | NBC News NOW",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5uVVjzMcp8",
             "title": "After Obamacare: What Day 1 Could Look Like If It’s Repealed | NBC News",
             "secondDuration": 481,
@@ -121,8 +115,14 @@
             "title": "Graham Questions Barrett On Supreme Court Rulings On Abortion | NBC News",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "zvdbxzD5YqU",
+            "title": "Trump: ‘I Feel So Powerful’ After Covid, ‘I Will Kiss Everyone’ | NBC News NOW",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

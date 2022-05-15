@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1N2PbRxAIyQ",
-            "title": "Remembering Kelley Stage Clayton: How her family keeps her memory alive | ABC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "NqebFzfLd7I",
             "title": "The Debrief: Hurricane Dorian on course to make landfall",
             "secondDuration": 1500,
@@ -31,8 +25,14 @@
             "title": "Alex Trebek done with chemo, back on 'Jeopardy!' | ABC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "iNcRfVZ3HlE",
+            "title": "Coco Gauff scores epic 3-set win at US Open | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

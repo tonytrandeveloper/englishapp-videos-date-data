@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hn5pGLiRuRg",
-            "title": "Younger Americans Increasingly Affected By Coronavirus | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "kcdfOUN5pvM",
             "title": "How Llamas Are Helping Create Antibody Treatment For Coronavirus | NBC News NOW",
             "secondDuration": 621,
@@ -31,8 +25,14 @@
             "title": "Gov. Andrew Cuomo Identifies ‘Complications’ As NYC Heads Toward Phase 3  | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "ziWl6rLE4fw",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 1290,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

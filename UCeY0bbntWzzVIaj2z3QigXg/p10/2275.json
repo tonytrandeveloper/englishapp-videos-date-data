@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q3mpLO5NV-A",
-            "title": "Iranians Protest Amid New U.S. Sanctions | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "iN-SUjXq45Q",
             "title": "Native Americans Fight To Vote After North Dakota Voter ID Law Upheld | NBC Nightly News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Watch Live: Trump holds campaign rally in Pensacola, Florida",
             "secondDuration": 5160,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRymbnpvNc4",
+            "title": "Masters Of Mini Golf: Inside The Fierce Competition At The U.S. Pro Tournament | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tnQc_6PPzzY",
-            "title": "Flu Vaccine Might Not Work | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q_-Xvbp68as",
             "title": "Homeless Dogs Get A Makeover And A Second Chance | NBC News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "'FarmersOnly' Dating Service | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "EffDXxH2cDA",
+            "title": "Navy SEALS' Failed Rescue of American Hostage | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

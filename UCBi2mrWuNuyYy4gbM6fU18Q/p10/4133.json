@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A3BpGfvLNxI",
-            "title": "CMA 2015 Award Nominations Announced Live on 'GMA'",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "sELqeeVNizw",
             "title": "British Airways Engine Failure Ignites Fire Onboard Plane",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "A Star-Studded US Open | ABC News",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "iRsQbFnsuOQ",
+            "title": "British Airways Jet Bursts Into Flames On Runway | ABC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

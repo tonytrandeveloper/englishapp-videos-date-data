@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zeJlp_6tfdc",
-            "title": "Dr. Fauci Warns Americans To Take New Omicron Variant Seriously",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "EMpMTda8lHo",
             "title": "Russia Denies Involvement In Alleged Ukraine Coup Plot",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Best Buy Combines Stores With Warehouses To Meet Shopping Demand",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYKW4A18ZBg",
+            "title": "WHO Calls Omicron Strain 'A Concern' As U.S. Adds Travel Restrictions",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

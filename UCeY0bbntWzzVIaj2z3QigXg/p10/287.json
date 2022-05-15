@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wDtTegLHV-Q",
-            "title": "Airlines Push For Criminal Prosecution Of Unruly Passengers",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "7j94RREQ7Us",
             "title": "Inside The lab Working To Develop An mRNA Vaccine For Colon Cancer",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Social Media Threats Cancel Classes And Put Schools On High Alert",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "otf4BHpSeCI",
+            "title": "Chinese Journalist Jailed After Covid Reporting",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EofoAqDcNZw",
-            "title": "Gunman at U.S. Capitol Shot by Police, Taken Into Custody | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "IgwJUsJGAsk",
             "title": "Georgia Governor to Veto Controversial ‘Religious Rights’ Bill | NBC Nightly News",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "ACLU Files Lawsuit Against North Carolina LGBT Law | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "lt-nnQ3WrIA",
+            "title": "Aunt of Brussels Terror Victim: 'Totally Senseless' Death | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

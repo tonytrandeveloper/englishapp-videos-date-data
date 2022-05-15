@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EtVgiX8V7EE",
-            "title": "8 residents found dead in Florida nursing home",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3h4COUcqxs",
             "title": "Trump hosts lawmakers again at the White House",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Fatal shooting at a Washington state high school",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "neztLLM8UGY",
+            "title": "White House press briefing",
+            "secondDuration": 2502,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

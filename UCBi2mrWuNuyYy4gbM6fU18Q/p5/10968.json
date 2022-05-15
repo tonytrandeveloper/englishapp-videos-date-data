@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2qdHyBIOquY",
-            "title": "Black Friday: Keeping Shoppers Safe",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "19g7MNiDMC0",
             "title": "Chicago Fog Cancels Flights",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "What Your Sales Clerk Won't Tell You",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGIVAQSimbM",
+            "title": "Surprise Military Homecoming: Video Chat Turns Live",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

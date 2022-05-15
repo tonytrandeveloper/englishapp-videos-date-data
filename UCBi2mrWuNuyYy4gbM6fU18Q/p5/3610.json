@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3sdzXgOt_-I",
-            "title": "Fuel storage facility erupts in fiery explosion l ABC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "WQZ50ODiF2E",
             "title": "Pence travels to Turkey in hopes of cease-fire l ABC News",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "New details of Felicity Huffman’s life in prison | ABC News",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "e7q6iO-WHyY",
+            "title": "Giuliani, Pence defy Congressional subpoenas |  ABC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

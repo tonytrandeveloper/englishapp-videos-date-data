@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RMYZz3jFdzg",
-            "title": "Investigation Into Fatal Navy Collisions Reveals Failures In Repairs And Training | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "2dJhE9kYUvU",
             "title": "Venezuela’s Maduro Blocks Much-Needed Aid From U.S. | NBC Nightly News",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Watch Live: President Donald Trump Speaks At Global Coalition To Defeat ISIS | NBC News",
             "secondDuration": 2624,
             "group": "group_7"
+        },
+        {
+            "videoId": "NGagxbSC7Ws",
+            "title": "Parkland Student Recalls School Shooting At House Hearing | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

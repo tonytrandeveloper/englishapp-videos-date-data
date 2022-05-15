@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WkyKc1JrteU",
-            "title": "U.S. Intel Chiefs Discuss Russian Hacking, Donald Trump In Senate Hearing | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "GUBGaxg7wX4",
             "title": "Inside The Russian Hacking Report President Obama Received | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "NASA Announces 2 Discovery Missions To Study Asteroids | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "R6oxNRFrPuA",
+            "title": "Former Undocumented Immigrant Adriano Espaillat Sworn Into Congress | NBC News",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

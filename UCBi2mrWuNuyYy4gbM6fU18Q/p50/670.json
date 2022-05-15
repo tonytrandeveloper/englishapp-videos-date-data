@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RaXpdGHmhHU",
-            "title": "Hurricane Matthew Batters the Bahamas",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzsE7FMqsVU",
             "title": "Jackie Trailer Starring Natalie Portman First Look",
             "secondDuration": 254,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton Answers Teen's Question on Trump's Treatment of Women",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "JqMw2TmRfMo",
+            "title": "Men Stop 'Extremely Intoxicated' Woman From Driving With Baby",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

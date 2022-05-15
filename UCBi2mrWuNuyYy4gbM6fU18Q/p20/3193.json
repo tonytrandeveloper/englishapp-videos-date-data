@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5nynjd8Xa5k",
-            "title": "Car Bomb Found in Times Square",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "TkapmEI8RMo",
             "title": "Interview with Napolitano, Salazar and Allen",
             "secondDuration": 499,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Charlie Crist the Independent?",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "-BEC3HIndsE",
+            "title": "Secret Life: Mom Confesses to Alcoholism",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

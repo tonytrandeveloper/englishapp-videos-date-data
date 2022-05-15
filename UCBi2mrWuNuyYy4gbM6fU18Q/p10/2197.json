@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f0vWpiMv0cQ",
-            "title": "The Debrief: Cohen polling revelations, border family separations, Taos avalanche | ABC News",
-            "secondDuration": 1674,
-            "group": "group_7"
-        },
-        {
             "videoId": "BjtVkOgF4UM",
             "title": "New report claims Trump directed Cohen to lie",
             "secondDuration": 343,
@@ -61,8 +55,14 @@
             "title": "Drunken passenger on plane gets 6 months in jail for tirade",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "777a4gwISVQ",
+            "title": "'Golden Girl' and everyone's friend Betty White turns 97",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

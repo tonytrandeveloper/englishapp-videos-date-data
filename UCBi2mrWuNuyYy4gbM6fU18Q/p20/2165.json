@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Vbk5ThYQJCM",
-            "title": "Boston Bomber Dzhokhar Tsarnaev Made Obscene Gesture to Camera in Holding",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "12Xir3T0Atk",
             "title": "Little Girl Asks First Lady, 'How Old Are You?'",
             "secondDuration": 55,
@@ -121,8 +115,14 @@
             "title": "Kentucky Mother Defends Daughter at Murder Trial",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "il5dO4oqQcs",
+            "title": "Freddie Gray: Baltimore Man's Death After Arrest Stumps Officials",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m7-9-_zQPoE",
-            "title": "Donald Trump Official Statement about Transition as President-Elect [FULL VIDEO]",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnETWZGn8Vk",
             "title": "NY Man Arrested for ISIS Support | Talked Times Square Attack Allegedly",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "Trump Interviews Potential Cabinet Members",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "QzeJzwObWsE",
+            "title": "NYC Murder Mystery | 2 Suspects to Appear in Court",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TpWhoGfZa_E",
-            "title": "Late-Night Comics Joke About Latest News Headlines | ABC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "MKK8kaslBZE",
             "title": "Authorities Appeal for Help After Another Phoenix Shooting | ABC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Vanessa Williams on Returning to Miss America After Scandal",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "mB2jGu-vBSE",
+            "title": "Syrian Refugees' Harrowing Journey Across Europe to Freedom",
+            "secondDuration": 513,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

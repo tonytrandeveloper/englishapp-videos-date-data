@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dD82YxvCZ9c",
-            "title": "Bloomberg Focusing On Super Tuesday States | NBC News NOW",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "M0CXh1BhA0A",
             "title": "Inside Pro-Trump Women’s Group ‘Trumpettes USA’ | NBC News NOW",
             "secondDuration": 373,
@@ -301,8 +295,14 @@
             "title": "U.S. Charges Four Chinese Military Hackers With Massive Equifax Breach | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "2nN-Fa5q-GE",
+            "title": "Walmart Shootout Leaves Two Officers Injured In Arkansas | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

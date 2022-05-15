@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TN9mwafmmd0",
-            "title": "Hillary Clinton Becomes Nation’s First Ever Female Nominee Of Major Party | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "GC_Jm4ZRF8Q",
             "title": "South Carolina Governor Signs Law Banning Abortions After 20 Weeks | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Meet the Man Responsible for How Much Water Comes from Niagara Falls | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWw1Q8tHn1U",
+            "title": "Five Cyclists Killed, Four Injured By Truck in Michigan | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

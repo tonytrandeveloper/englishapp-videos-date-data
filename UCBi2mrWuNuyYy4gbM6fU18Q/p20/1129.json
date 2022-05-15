@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TJTL4-w9nJk",
-            "title": "GM workers respond to news of shutdown: 'Everyone is scared'",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4zmvVs8DWY",
             "title": "Video shows teacher calming pit bull after school attack",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Family of man shot, killed by police demands answers",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "GnOnCvZFnCE",
+            "title": "New book gives behind-the-scenes look at Trump White House",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

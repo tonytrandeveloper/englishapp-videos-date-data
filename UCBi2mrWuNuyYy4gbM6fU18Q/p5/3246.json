@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eTc0CbVYlxM",
-            "title": "Trump projected to win New Hampshire Republican primary | ABC News",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "BFlL_IOhLAk",
             "title": "DOJ steps in on Roger Stone sentencing decision",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders leading New Hampshire early voting l ABC News",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "N8azpwqrWtc",
+            "title": "Andrew Yang drops out of 2020 presidential race l ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CyOOnlmcRcM",
-            "title": "Clear Air Turbulence Rattles Plane",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "bXAxKXRHneU",
             "title": "Tyra Banks Real Talk | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 483,
@@ -121,8 +115,14 @@
             "title": "GM Admits to Hiding Safety Issues With Ignition Switch",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "dVFCRP6eLyQ",
+            "title": "GOP Rivals Take on Trump",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

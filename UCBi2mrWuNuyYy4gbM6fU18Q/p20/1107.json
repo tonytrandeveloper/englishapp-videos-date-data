@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fvZEsXx4pEE",
-            "title": "Democratic strategist on 2020: 'Super Bowl of politics is just starting up'",
-            "secondDuration": 580,
-            "group": "group_7"
-        },
-        {
             "videoId": "yM03Hk6aPMg",
             "title": "Julian Castro: Greatest national security threat is Trump damaging ally relations",
             "secondDuration": 478,
@@ -121,8 +115,14 @@
             "title": "Stock market sees huge drop amid fears of Apple slowdown",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJlBg3Lne90",
+            "title": "Tainted drugs: When medicine makes patients sicker",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

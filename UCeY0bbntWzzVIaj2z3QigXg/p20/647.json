@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qam8Mi1IWCM",
-            "title": "White House Learned Of Russian Bounty Intelligence In Early 2019 | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "IlHUzDbt11k",
             "title": "Biden Slams Trump Over Coronavirus Pandemic Response | NBC Nightly News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Coronavirus: Pediatric Group Calls To Reopen Schools By Start Of Academic Year | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "WgAJ-G6ewlE",
+            "title": "Key Election Official Raises Alarm Over Expanded Mail-In Voting | NBC Nightly News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

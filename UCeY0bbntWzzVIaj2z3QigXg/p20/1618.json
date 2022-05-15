@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Nn6ficYg0ac",
-            "title": "Life Of An Election Ballot | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "zzQB9_egcBU",
             "title": "Two Ex-Chris Christie Aides Found Guilty In ‘Bridgegate’ Trial | NBC News",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Analysis: Navigating The Battleground Map With 6 Days To Go | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "w-hK7Lzpgvc",
+            "title": "Polls Tightening With 6 Days To Go, As Donald Trump Seizes Momentum | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

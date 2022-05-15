@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YwukO-Q8EE8",
-            "title": "Trump Says GOP ‘Killing It’ At Impeachment Hearing, Denies Knowing Vindman | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "WrCxQI4ol08",
             "title": "Stewart: Trump's Requests Aren't Orders Because He 'Never Served In The Military' | NBC News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Vindman: 'I Knew I Had To Report' Trump's Call With Ukraine | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ki33HXTock",
+            "title": "Vindman: ‘Decision Was Made On The Fly’ To Move Ukraine Call Record To Secure System | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

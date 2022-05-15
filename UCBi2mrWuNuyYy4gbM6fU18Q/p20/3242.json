@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_OEDntHL-80",
-            "title": "Financial New Year's Resolutions",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "fNdnBMXV1rE",
             "title": "Findings From Terror Report Expected",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "The Best Products of 2009",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "NvEzXcHPhGk",
+            "title": "Failed Terror Plot: A Link to al Qaeda?",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

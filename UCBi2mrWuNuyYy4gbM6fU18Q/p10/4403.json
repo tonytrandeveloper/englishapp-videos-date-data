@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NryiONvJgKM",
-            "title": "Ferguson Officers Lose Jobs over Racist Emails",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ol9zVHWfmuo",
             "title": "ISIS Destroys Ancient Statues with Bulldozers, Sledgehammers",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Kim Kardashian Goes Blond in Paris",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Zs-KsnyvoU",
+            "title": "Harrison Ford Plane Crashes in California",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B-CIbXSuBxo",
-            "title": "Ashton Kutcher's Mistress Speaks Out",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "jsOvBCcvGsU",
             "title": "At 'Tip of the Spear,' Troops Fight On",
             "secondDuration": 333,
@@ -31,8 +25,14 @@
             "title": "Lady Gaga's Thanksgiving Special: Sneak Peek",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncdHiHlEwtE",
+            "title": "Thanksgiving 2011 Puerto Rican Style",
+            "secondDuration": 368,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

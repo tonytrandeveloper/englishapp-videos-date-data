@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MV7efyb-VaA",
-            "title": "Robert Downey Jr. Walks Out of Interview",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ke_wb3RAPdY",
             "title": "Moxie Girl's Afro Puffs Fight Crime",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Comedian Amy Schumer Pranks Kanye West, Kim Kardashian on Red Carpet",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vbk5ThYQJCM",
+            "title": "Boston Bomber Dzhokhar Tsarnaev Made Obscene Gesture to Camera in Holding",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

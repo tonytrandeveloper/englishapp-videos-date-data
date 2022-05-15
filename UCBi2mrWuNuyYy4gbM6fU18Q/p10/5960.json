@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D1UWG4vWMco",
-            "title": "Imagine Me and You Contest",
-            "secondDuration": 21,
-            "group": "group_7"
-        },
-        {
             "videoId": "NpbhzOfoHKc",
             "title": "Emeril Lagasse's Thanksgiving Leftover Ideas",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "Lady Gaga's Thanksgiving Special: Sneak Peek",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncdHiHlEwtE",
+            "title": "Thanksgiving 2011 Puerto Rican Style",
+            "secondDuration": 368,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sl1cqJ2VBK8",
-            "title": "Raw: Kurdish Peshmerga Drive ISIS From Sinjar | NBC News",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "a25oNMG97wo",
             "title": "'The Interview' Pulled By Sony: Hollywood Responds | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Peshawar School Attack Aftermath | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "ArMumdJsh8s",
+            "title": "Peshawar School Attack Leaves Over 140 Dead | NBC Nightly News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

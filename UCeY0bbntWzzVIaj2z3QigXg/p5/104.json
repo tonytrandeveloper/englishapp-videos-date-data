@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JSpX-syEGWs",
-            "title": "Hallie Jackson NOW - March 29 | NBC News NOW",
-            "secondDuration": 2724,
-            "group": "group_7"
-        },
-        {
             "videoId": "46xIUi3hrLw",
             "title": "FDA Authorizes Second Covid Booster For People Ages 50 And Older",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy On Peace Talks Progress: ‘Ukrainians Are Not Naive People’",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "EwkG7cXvbtY",
+            "title": "Philadelphia Volunteers Ship Thousands Of Boxes Filled With Supplies To Ukraine",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

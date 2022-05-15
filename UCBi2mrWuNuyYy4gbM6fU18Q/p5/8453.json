@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OMkTLxobAIQ",
-            "title": "4th of July Fireworks Safety a Concern as Accident Reports Come In",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "SUIwSqv-PPo",
             "title": "US Authorities Raise Security During 4th of July Weekend",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Undercover Cops Catch a Bike Thief in the Act | 20/20 | ABC News",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "egxEKjp7RPc",
+            "title": "Inside San Francisco's Bike Theft Epidemic | 20/20 | ABC News",
+            "secondDuration": 600,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

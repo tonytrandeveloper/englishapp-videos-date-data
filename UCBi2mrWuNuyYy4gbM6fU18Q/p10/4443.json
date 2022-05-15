@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JrCZrsTvgQ4",
-            "title": "ISIS Attack Plan: Threat to the US Homeland?",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "M21zD0IVwA8",
             "title": "Find Out Your Odds of Hitting the Powerball",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Missy Elliott Has Panic Attack at Super Bowl",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "IbveWrL_9hQ",
+            "title": "ISIS Claims US Hostage Killed",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

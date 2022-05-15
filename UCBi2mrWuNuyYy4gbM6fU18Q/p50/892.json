@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gXKAsfIkenY",
-            "title": "Jerome Jarre 'King of Vine' on Finding Social Media Celebrity",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "G9T42CHHRz8",
             "title": "ATM Robberies on the Rise",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Blizzard 2015: State of Emergency in Boston and Beyond",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ojeM0ZSBi3U",
+            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ie-HYrLbuUw",
-            "title": "Arizona Coronavirus Rate Skyrockets, Has Fastest Growth Rate In U.S. | NBC News NOW",
-            "secondDuration": 621,
-            "group": "group_7"
-        },
-        {
             "videoId": "6aRU2snZljQ",
             "title": "Researchers Use Body Camera Video To Track Racial Bias In Policing | NBC News NOW",
             "secondDuration": 700,
@@ -61,8 +55,14 @@
             "title": "Biden: Trump Has 'Lost Interest' In Coronavirus And Is 'Ignoring The Facts' | NBC News NOW",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "_nop2u7MKgY",
+            "title": "Live: Atlanta Official Announces Charging Decision In Rayshard Brooks Death | NBC News",
+            "secondDuration": 2679,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CMu_NoB2OA8",
-            "title": "Rare but dangerous mosquito-borne illness kills 2 in Michigan",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tm2zZ70A_vY",
             "title": "Judge accuses aircraft mechanic of being sympathetic to terrorists",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Oklahoma teen accused of threatening to gun down students at high school",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "viXOvxwdWVI",
+            "title": "Pittsburgh Pirates pitcher arrested for solicitation of child",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

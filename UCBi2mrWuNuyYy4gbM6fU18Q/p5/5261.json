@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atI7wx6PEs8",
-            "title": "White House press briefing on potential government shutdown | ABC News",
-            "secondDuration": 1861,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKHDbHCzWBs",
             "title": "Horrific details emerge in case of 13 captive siblings",
             "secondDuration": 469,
@@ -31,8 +25,14 @@
             "title": "House passes stopgap spending bill, Senate fate uncertain",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCfsKhH-XUo",
+            "title": "How a government shutdown could affect Americans",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

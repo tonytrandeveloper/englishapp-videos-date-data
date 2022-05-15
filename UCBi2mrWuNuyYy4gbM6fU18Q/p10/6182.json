@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NtpamD9Jx3g",
-            "title": "Hosni Mubarak Exclusive 2/3/2011",
-            "secondDuration": 636,
-            "group": "group_7"
-        },
-        {
             "videoId": "JryLoAiicEg",
             "title": "Christiane Amanpour meets with Hosni Mubarak 2/3/2011",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "When Should the Elderly Stop Driving? 2/2/2011",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "MR7U8ht3S5M",
+            "title": "Who is Hosni Mubarak? 2/2/2011",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

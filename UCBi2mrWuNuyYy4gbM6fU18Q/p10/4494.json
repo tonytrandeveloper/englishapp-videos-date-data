@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-zbvlPFc2N0",
-            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "a75A_ZHGwlo",
             "title": "ABC World News Now: 23rd Anniversary",
             "secondDuration": 424,
@@ -61,8 +55,14 @@
             "title": "Prince Andrew and Alan Dershowitz Deny Having Sex with Teen",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "K-JEX-crO6o",
+            "title": "Do You Google Your Ex? Why It May Be Normal",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

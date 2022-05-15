@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sPzubN4hJgw",
-            "title": "NCAA Champs Villanova Honored With Victory Parade In Philadelphia | NBC News",
-            "secondDuration": 5744,
-            "group": "group_7"
-        },
-        {
             "videoId": "mbZL9HylHLU",
             "title": "Annual U.S. - South Korean Military Drills Get Underway | NBC News",
             "secondDuration": 54,
@@ -121,8 +115,14 @@
             "title": "MLK Talks 'New Phase' Of Civil Rights Struggle, 11 Months Before His Assassination | NBC News",
             "secondDuration": 1611,
             "group": "group_7"
+        },
+        {
+            "videoId": "E66CGSmor04",
+            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

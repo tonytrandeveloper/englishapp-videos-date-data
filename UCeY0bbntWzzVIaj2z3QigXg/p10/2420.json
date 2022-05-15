@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GrMlZd_6s7M",
-            "title": "New Orleans Mayor: What Sets Me Apart Is Being Inclusive | NBC News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "GE7N2mluCQ8",
             "title": "Clint Watts: With QAnon, Russia Doesn’t Need To Make Fake News Anymore | Meet The Press | NBC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Who Is T.S. Ellis, The Judge Presiding Over Paul Manafort’s Trial? | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "kDl0a-QcDMk",
+            "title": "11 Children Found On New Mexico Property | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

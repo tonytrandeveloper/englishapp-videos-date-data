@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "89EGspxTWiU",
-            "title": "Trump Calls Ted Cruz a \"Whack Job\"",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "bTWiLFSdKFg",
             "title": "Super Bowl 50 Playing Out Like an Old Western",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "LrZKDfmdIlw",
+            "title": "Manhunt for Escaped Inmates | Prisoners on Run after Jail Break",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PErZJXI8viA",
-            "title": "Study Links ADHD to Pesticide",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "AeEGTdYsOfU",
             "title": "Two New Supreme Court Decisions",
             "secondDuration": 179,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Giving Up the Web",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgRQ2HaMU5Q",
+            "title": "Becky Babcock: My Mother Was a Killer",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

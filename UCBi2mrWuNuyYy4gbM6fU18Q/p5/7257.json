@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OT5U8CNVtIM",
-            "title": "Toys for Long Trips | ABC News",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "eg1hT2sUT70",
             "title": "CMT Music Awards Highlights | THE SKINNY",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "New Details Revealed in Stanford Sexual Assault Case",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "doPVlwr9NPU",
+            "title": "New Information About Brock Turner Revealed",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

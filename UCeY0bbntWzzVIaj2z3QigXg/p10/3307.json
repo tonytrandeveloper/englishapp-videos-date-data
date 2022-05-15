@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zvZIixKKebg",
-            "title": "Hillary Clinton On Donald Trump: 'When Someone Shows You Who They Are, Believe Them' | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HWxTdUyDd9A",
             "title": "Swimming’s Newest All-Star Simone Manuel Returns To U.S. | NBC News",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Tim Kaine Plays Harmonica On Campaign Trail | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "de43nrOFQzU",
+            "title": "Re-Examined: Native Hawaiians, Pacific Islanders Seek Data To Address Concerns | NBC Asian America",
+            "secondDuration": 438,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

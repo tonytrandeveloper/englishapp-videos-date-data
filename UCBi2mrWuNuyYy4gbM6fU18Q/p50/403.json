@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gYp0gW0lRCU",
-            "title": "Students in California town destroyed by Camp Fire graduate",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "0BGbbAeuAvQ",
             "title": "US: Russian vessel's near-miss with Navy ship 'irresponsible'",
             "secondDuration": 192,
@@ -301,8 +295,14 @@
             "title": "What's next for 'Jeopardy James'",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "QLoDdc6bO8g",
+            "title": "Warriors hampered by injuries in NBA Finals",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

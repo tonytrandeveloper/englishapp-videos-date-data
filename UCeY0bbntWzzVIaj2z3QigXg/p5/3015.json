@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CHoBDcHB7M0",
-            "title": "Trump Approves Disaster Declarations For New York, California, & More | NBC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "C60R_CMVUDY",
             "title": "New Orleans Mayor Cantrell Gives Coronavirus Updates  (Live Stream) | NBC News",
             "secondDuration": 2113,
@@ -31,8 +25,14 @@
             "title": "Joe Biden: Senate Coronavirus Relief Provides 'Financial Lifeline' For Americans | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXOTpOjgWvY",
+            "title": "Joe Biden Holds A Virtual Briefing On COVID-19 | NBC News (Live Stream Recording)",
+            "secondDuration": 5169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

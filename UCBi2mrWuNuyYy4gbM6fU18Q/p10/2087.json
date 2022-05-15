@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4cZ6GaHCYwQ",
-            "title": "Bodycam shows officer fatally shooting troubled man holding gun",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vcz_vsC8kY0",
             "title": "Strong support for government-run health care at Bernie Sanders event",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Severe weather threat from Texas to Iowa",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "qfpfUCW9uc4",
+            "title": "United joins 2 airlines in canceling Boeing 737 flights",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pcdD3WaOcH8",
-            "title": "Trump 'very surprised' about subpoena for son",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ztqWbLOISww",
             "title": "The Debrief: North Korea launch, Sandra Bland video, Invictus games | ABC News",
             "secondDuration": 1780,
@@ -121,8 +115,14 @@
             "title": "Deputy Sheriff's story differs from Ted Kennedy's at Chappaquiddick",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQFkhvSuSf0",
+            "title": "Missing 4-year-old has had multiple brain surgeries, requires constant care",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

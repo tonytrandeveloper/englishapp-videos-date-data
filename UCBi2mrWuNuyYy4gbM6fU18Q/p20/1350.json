@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ELr6p8rJUrk",
-            "title": "Deadly rampage in Northern California",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SIOKCXpfUo",
             "title": "Attorney General Jeff Sessions testifies on Russia Investigation before House Judiciary Committee",
             "secondDuration": 23988,
@@ -121,8 +115,14 @@
             "title": "Calls grow for Roy Moore to leave Senate race",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "cg4M1kHwnNA",
+            "title": "Aly Raisman alleges abuse by USA Gymnastics doctor",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

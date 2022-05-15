@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fYqmygXfgB8",
-            "title": "'This Week': Threat Fallout",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iu3wbHfH-8E",
             "title": "Joint Chiefs Chairman Gen. Martin Dempsey on 'This Week'",
             "secondDuration": 471,
@@ -61,8 +55,14 @@
             "title": "Terrorist Threat Causes US Embassies Across Muslim World to Close",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "prWVcq2qD34",
+            "title": "Inside Powerball:  Can You Beat the Odds?",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

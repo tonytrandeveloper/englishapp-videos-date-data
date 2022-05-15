@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AcpHdjCBxQM",
-            "title": "Dalai Lama: \"I have a dream that...\"",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "lrzJ389jSwU",
             "title": "Hoda Kotb: \"I have a dream that...\"",
             "secondDuration": 8,
@@ -31,8 +25,14 @@
             "title": "Erica Hill: \"I have a dream that...\"",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "iT77sWW8S0M",
+            "title": "Al Roker: \"I have a dream that...\"",
+            "secondDuration": 12,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

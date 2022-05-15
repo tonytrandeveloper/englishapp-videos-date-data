@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aW46ono4Snk",
-            "title": "Trump holds news conference with Polish president | ABC News",
-            "secondDuration": 2988,
-            "group": "group_7"
-        },
-        {
             "videoId": "91Ng90c_5cM",
             "title": "Kavanaugh, accuser called to testify at public hearing",
             "secondDuration": 450,
@@ -121,8 +115,14 @@
             "title": "A 26-year-old was killed by a shark while boogie boarding off the coast of Cape Cod",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "dfHDML6hpOo",
+            "title": "Ken Starr on Manafort: Cooperation with special counsel 'significant breakthrough'",
+            "secondDuration": 670,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

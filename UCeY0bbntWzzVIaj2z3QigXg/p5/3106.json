@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z66UeY90Dq8",
-            "title": "Los Angeles County Officials Make Coronavirus Announcement | NBC News (Live Stream Recording)",
-            "secondDuration": 2469,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Nirn4FyXH8",
             "title": "Mike Pence Participates In Coronavirus Briefing With Airline CEOs | NBC News (Live Stream Recording)",
             "secondDuration": 2585,
@@ -31,8 +25,14 @@
             "title": "Super Tuesday: California, Texas Election Results | (Live Stream Recording)",
             "secondDuration": 28564,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6-e1Ep39QY",
+            "title": "Joe Biden Wins Texas Primary, NBC News Projects | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

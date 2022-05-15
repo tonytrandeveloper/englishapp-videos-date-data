@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7GhCg1mn7N8",
-            "title": "Adele finally confirms she's married",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "05KpPI0BYp4",
             "title": "Alligator strolls across golf course carrying big fish | ABC News",
             "secondDuration": 52,
@@ -121,8 +115,14 @@
             "title": "Teen's lifesaving action for toddler caught on video",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "ghnT1xeTybA",
+            "title": "'Get Out' stars, director on tackling racial issues in hot new thriller | ABC News",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

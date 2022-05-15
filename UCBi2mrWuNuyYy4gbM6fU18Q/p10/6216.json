@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KysA5xwdDHU",
-            "title": "Families USA's Ron Pollack on 'Top Line'",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ny0fdTH1nJk",
             "title": "Judd Gregg: 'It's About Time' for Bipartisanship",
             "secondDuration": 615,
@@ -61,8 +55,14 @@
             "title": "National Journal's Reid Wilson on 'Top Line'",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "U8uzuPk8Hkc",
+            "title": "Matt Kibbe: 'This Isn't Stimulus, This Is Dodging'",
+            "secondDuration": 559,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

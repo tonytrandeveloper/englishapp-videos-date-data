@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ayr9ulcUVts",
-            "title": "George Zimmerman's Re-Enactment Tapes Helping Defense?",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "XY9SHapRMmQ",
             "title": "Daily News Photog Marcus Santos on Alec Baldwin: 'He Threw a Punch'",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Alec Baldwin Drops Pants on Letterman",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0spXsPRAqk",
+            "title": "Summer Solstice: The Heat Is On",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

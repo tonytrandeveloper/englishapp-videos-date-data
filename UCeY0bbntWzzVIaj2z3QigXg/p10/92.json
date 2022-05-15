@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Am9MVskAVQk",
-            "title": "Deadly Russian Bombardment Strikes Kyiv Residential Building",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xl97H5x45kw",
             "title": "This Morning’s Top Headlines – March 15 | Morning News NOW",
             "secondDuration": 1146,
@@ -61,8 +55,14 @@
             "title": "Elderly Ukrainian Refugee Dies On Her Journey Out Of War Zone",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "JYfZrV4Gxo0",
+            "title": "Norway Student Finds Boat Launched By New Hampshire Middle Schoolers",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

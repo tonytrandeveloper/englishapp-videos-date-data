@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eQgP9fq96vo",
-            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "U1CLr1BvvzE",
             "title": "Secrets of the Super Bowl Budweiser Puppy Commercial",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "Blizzard 2015: State of Emergency in Boston and Beyond",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ojeM0ZSBi3U",
+            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

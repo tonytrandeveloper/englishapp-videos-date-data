@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0zbe2ymU3vQ",
-            "title": "Plane makes emergency landing after hitting deer",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "_pxhWmIGk4o",
             "title": "Fox News criminal investigation conducted by US attorney",
             "secondDuration": 55,
@@ -31,8 +25,14 @@
             "title": "Michael Flynn Questions continue to swirl in Washington",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "BTArde0kS6E",
+            "title": "Crews race against wet weather to fix damage near California dam",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

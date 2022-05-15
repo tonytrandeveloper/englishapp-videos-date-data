@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eb074Fy14yA",
-            "title": "WEBCAST: Panda Watch",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "yvVnalO5KyI",
             "title": "Feed Frenzy: Ultimate Song of the Summer",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Obama Reviews Syrian Government's Use of Chemical Weapons",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "sMCqtOnz1nY",
+            "title": "College Student Disappears Days Before Classes Begin",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

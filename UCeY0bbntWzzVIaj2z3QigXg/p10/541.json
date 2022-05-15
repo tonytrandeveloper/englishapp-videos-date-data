@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3EyWy4Mg-ls",
-            "title": "FDA Expected To Authorize Third Vaccine Dose For Immunocompromised People",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmaSKfjLrDY",
             "title": "RSV Spreading In Summer Surge",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Should Gov. Cuomo be impeached despite his resignation?",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "qsNciDKo3vY",
+            "title": "How The U.S. Is Becoming More Diverse Than Ever",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

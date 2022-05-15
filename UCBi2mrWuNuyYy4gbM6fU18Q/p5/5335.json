@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wptEOKb48zk",
-            "title": "Mario Batali faces new accusations of sexual misconduct",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "SumFm-61A7A",
             "title": "Woman describes 'worst fear' of being bitten by shark on honeymoon",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Special Report: Democrat Doug Jones wins Alabama Senate race",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ftvE3qd1tw8",
+            "title": "Trump weighs in on Alabama Special Election",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

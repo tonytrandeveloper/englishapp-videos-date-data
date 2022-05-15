@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kFyDFPDjH8s",
-            "title": "Publicist Interference",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "4DmNMSs7I_k",
             "title": "Is It Possible to Overscreen for Cancer?",
             "secondDuration": 241,
@@ -121,8 +115,14 @@
             "title": "Obama Courts Financiers for DNC Dollars",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "HFLn_Q9ewrg",
+            "title": "Top Line: Poll Shows Americans Want Public Option",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O8o-e-iLsUM",
-            "title": "Secret Millionaire Donates Her Fortune",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkNHyT_d7go",
             "title": "Sarah Palin's Next Move: Reality TV",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Morning Mix: Tom Hanks Weighs In",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "9CCsE-UJUXY",
+            "title": "'Your Three Words' From Oscar Nominees",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

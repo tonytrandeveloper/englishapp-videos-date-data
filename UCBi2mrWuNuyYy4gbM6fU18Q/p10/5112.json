@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2mvGaKc0wcs",
-            "title": "George Zimmerman Verdict: Defense Attorney Mark O'Mara Put Burden of Proof on Prosecution",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "b0AK6jOeEl4",
             "title": "George Zimmerman Verdict: Trayvon Martin Shooting Brings up Question of Race",
             "secondDuration": 480,
@@ -61,8 +55,14 @@
             "title": "Surfing Instructor Attacked by Shark",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCW36ERb-t4",
+            "title": "Jon Bon Jovi Helps Raise Millions for Hurricane Sandy Victims",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

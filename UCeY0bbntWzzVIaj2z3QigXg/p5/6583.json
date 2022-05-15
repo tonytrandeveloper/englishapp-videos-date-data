@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4R9EqizpoOI",
-            "title": "Ohio Focus Group Evaluates Hillary Clinton, Donald Trump Performances In Forum | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BRwPqPeqbsQ",
             "title": "Donald Trump And Hillary Clinton On Iraq, ISIS, And More From Commander-in-Chief Forum | NBC News",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: We Need More Prosecution in Military Sexual Assault Cases | NBC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "ul4zREqSTkg",
+            "title": "Donald Trump: When Putin Calls Me Brilliant I'll Take the Compliment | NBC News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

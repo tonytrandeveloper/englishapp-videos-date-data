@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QrbKk7SwMBc",
-            "title": "The Conversation: Psych Yourself Rich",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdTROpRROAY",
             "title": "Did Lou Dobbs Hire Undocumented Workers?",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "'Catfish' Producers Dish on Film",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lv_GYfEaJU4",
+            "title": "Homeowners Hit Jackpot With Apple",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

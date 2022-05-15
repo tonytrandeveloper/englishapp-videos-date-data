@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YYnwnjLwFBE",
-            "title": "Sarah Palin Bus Tour Reignites Talk of Presidential Run",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "XR6nfwLa0_o",
             "title": "Lady Gaga Interview: 'GMA' Concert a 'Dream Come True' (05.27.11)",
             "secondDuration": 168,
@@ -121,8 +115,14 @@
             "title": "Tornadoes in America's Heartland",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "IWQcQiXKmCQ",
+            "title": "Joplin, Missouri, Searches for Survivors",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XucIvBcBVjo",
-            "title": "Planet Earth as you've never seen it before",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEh7El1lko4",
             "title": "Republicans face tough questions at town halls",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Pence condemns vandalism at Jewish cemetery",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "hWiH3RQmNaQ",
+            "title": "Premature hippo drinks from bottle, takes steps",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

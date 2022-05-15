@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YxPvtfNGuFo",
-            "title": "Ted Cruz is Projected to Win Republican Caucus in Iowa",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "aCdZoYNB3bY",
             "title": "Lifelong Running Mates: The People Who Know the Candidates Better Than Themselves",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Marco Rubio on the State of His Presidential Campaign",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "lfZaxpDatbs",
+            "title": "How to Make a Super Bowl Commercial",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

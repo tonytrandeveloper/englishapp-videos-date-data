@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "159MPoIukPg",
-            "title": "Florida Reports Nearly 10,000 New Coronavirus Cases In One Day As State Halts Reopening | NBC News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "85mOZQjZJ4c",
             "title": "Powerful Reunion Between COVID-19 Nurse And The Firefighter Who Saved Her Life | NBC Nightly News",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Fact-Checking Barr's Claim That Voting By Mail Leads To Fraud | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "dGlHMZQtO7U",
+            "title": "Minute-To-Minute Breakdown Leading Up To Elijah McClain's Deadly Stop | NBC News NOW",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

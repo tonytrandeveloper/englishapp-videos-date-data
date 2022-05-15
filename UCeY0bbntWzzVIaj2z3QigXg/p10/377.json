@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ho1dX1ozZHI",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2910,
-            "group": "group_7"
-        },
-        {
             "videoId": "ljRzyjTELUk",
             "title": "Greta Thunberg Leads Massive Climate Protest Outside COP26 Climate Summit in Glasgow",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "LIVE: Rep. Kevin McCarthy Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1651,
             "group": "group_7"
+        },
+        {
+            "videoId": "7lABh7eWgN8",
+            "title": "LIVE: Biden Delivers Remarks on October Jobs Report | NBC News",
+            "secondDuration": 715,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

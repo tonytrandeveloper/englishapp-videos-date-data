@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RbfOJlEDM1M",
-            "title": "Donald Trump in Texas to Survey Harvey Damage (Full) | NBC News",
-            "secondDuration": 1182,
-            "group": "group_7"
-        },
-        {
             "videoId": "q7qLpjOqm-g",
             "title": "Investigators Say Former Nurse Could Be Germany's Worst Post-War Serial Killer | NBC News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Archives: Nightly News Coverage Of Katrina's Devastation In New Orleans | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGpbdy0cWAs",
+            "title": "Musician Remains Awake And Plays Saxophone During Brain Surgery | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h1PAceSi6Yw",
-            "title": "New surveillance video released in Bellagio casino heist",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "KftzM3QJQJY",
             "title": "Man sues NFL player for allegedly seducing his wife",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "In Europe, some ultra-conservatives say their national identity is at risk",
             "secondDuration": 608,
             "group": "group_7"
+        },
+        {
+            "videoId": "jGbMxn7_wmI",
+            "title": "Disneylands 'Believe In Holiday Magic' fireworks show",
+            "secondDuration": 1227,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

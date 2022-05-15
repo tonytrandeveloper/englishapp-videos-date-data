@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BpqfgHi74uk",
-            "title": "Gen. Dunford holds news conference on military operations, attack in Niger",
-            "secondDuration": 2956,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fpm5ceXLEnA",
             "title": "President Donald Trump awards medal of honor to Vietnam medic Retired Army Captain Gary Michael Rose",
             "secondDuration": 1334,
@@ -31,8 +25,14 @@
             "title": "Manhunt grows for suspected Florida serial killer",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yz0VUipUbhU",
+            "title": "Wildfires spread as conditions worsen in California",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

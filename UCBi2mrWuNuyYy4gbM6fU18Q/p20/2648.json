@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D8p8GSQRtBI",
-            "title": "Robin Roberts' Journey: A New Life",
-            "secondDuration": 477,
-            "group": "group_7"
-        },
-        {
             "videoId": "vJyCI2uE_cE",
             "title": "Robin Roberts' Journey: Going Home",
             "secondDuration": 567,
@@ -121,8 +115,14 @@
             "title": "Caught on Tape: Teen Falls Off Chair Lift",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "yFCjioZ3UN0",
+            "title": "Afghan Teen Goes From Poverty to Oscars for 'Buzkashi Boys' Film - Fawad Mohammedi Interview",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

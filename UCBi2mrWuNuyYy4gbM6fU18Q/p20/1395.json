@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FGARN6kJpSo",
-            "title": "How will North Korea's latest nuclear test affect the US?",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q1xa03qiSdM",
             "title": "After Hurricane Harvey, the long road to recovery begins",
             "secondDuration": 450,
@@ -121,8 +115,14 @@
             "title": "Generous people answer the call for help on this Day of Giving",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "zCcQ06RNHHI",
+            "title": "Vice President Mike Pence meets with Harvey survivors",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

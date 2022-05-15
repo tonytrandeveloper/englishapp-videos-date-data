@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g1Y9XXSIzcw",
-            "title": "Scientists study humpback whales for clues on climate change impact",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "hkJU_xxTq1Q",
             "title": "Billionaire Robert F. Smith pledges to pay off Morehouse graduates' loan debt",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Trump suggests some abortion laws may be too extreme",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "dflfqr3RYLQ",
+            "title": "Schwarzenegger kicked by man but won't press charges",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

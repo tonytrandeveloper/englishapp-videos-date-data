@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "SfofPcNdppg",
-            "title": "Hurricane Michael Death Toll Rises To At Least 29 | NBC Nightly News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTJjcfYtYzU",
             "title": "Major Flood Emergency Along Texas’ Llano River | NBC Nightly News",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "Full Stacey Abrams Interview: ‘Pattern of behavior’ for GOP opponent to remove voters",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "a-HZBxOC6mA",
+            "title": "Full Hawley: ‘Don’t have to have Obamacare’ to protect pre-existing conditions | Meet The Press",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tWHlQHEMij4",
-            "title": "Watch NBC News NOW Live - September 9",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "hXNDYhfkIR4",
             "title": "Report Says 500K Children Infected With COVID-19 In The U.S. | NBC News NOW",
             "secondDuration": 751,
@@ -61,8 +55,14 @@
             "title": "Cuomo Announces NYC Indoor Dining To Resume At 25 Percent September 30 | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "8nc-4TSf2CE",
+            "title": "White House Responds To Bob Woodward Tape Of Trump Speaking About Coronavirus | NBC News",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

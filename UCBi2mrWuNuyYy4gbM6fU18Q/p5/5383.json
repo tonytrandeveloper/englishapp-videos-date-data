@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IG7Zj4wzBHQ",
-            "title": "Free after five years in captivity, American hostage mom speaks out",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "eq4fG4rcsuc",
             "title": "Charles Manson dies in prison at 83; Ex-Manson member recalls life in the family",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "One of the most notorious mass murderers in America died in prison",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "tPdE1wotle8",
+            "title": "Charlie Rose faces accusations of sexual misconduct",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

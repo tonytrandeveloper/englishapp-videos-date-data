@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mtCw4iwuot8",
-            "title": "Senate Holds Hearing On FBI Handling Of Larry Nassar Investigation",
-            "secondDuration": 15036,
-            "group": "group_7"
-        },
-        {
             "videoId": "uiZBpoJprh0",
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 2265,
@@ -121,8 +115,14 @@
             "title": "What To Expect When DeSantis’s Vaccine Mandate Law Goes Into Effect",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "gyivdTbAYcE",
+            "title": "'What Am I Gonna Do, Let People Float Away?': UPS Driver On Rescuing Ida Victims",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

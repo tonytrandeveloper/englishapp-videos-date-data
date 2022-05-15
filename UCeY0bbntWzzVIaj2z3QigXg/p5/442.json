@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bkbp8TWJOF0",
-            "title": "‘A Crisis With Global Consequences’: Blinken Seeks Allies To Counter Russian Threat",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "QwO5lTE-rzc",
             "title": "A Look At The World's Most Powerful Telescope | Nightly News: Kids Edition",
             "secondDuration": 1409,
@@ -31,8 +25,14 @@
             "title": "Doomsday Clock Remains At 100 Seconds To Midnight, Unchanged From 2021",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ssVibfUSIS4",
+            "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
+            "secondDuration": 1951,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

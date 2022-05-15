@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lTieCpGGLRw",
-            "title": "CBS News Fires ‘60 Minutes’ Executive Producer Jeff Fager | NBC Nightly News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "iWjRl1ljJ6E",
             "title": "Ambulances Scramble To Evacuate Sick And Elderly Before Hurricane Florence Hits | NBC Nightly News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Still Recovering From Hurricane Katrina: Residents Say Brad Pitt’s Non-Profit Failed Them | NBC News",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZMeZKnhmWE",
+            "title": "President Donald Trump Delivers Remarks At Congressional Medal Of Honor Reception | NBC News",
+            "secondDuration": 1106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

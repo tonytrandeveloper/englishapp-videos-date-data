@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HkFfX03iKWk",
-            "title": "Suspected Tornado Leaves Seven Injured After Touching Down In Arkansas",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "VyYDR2aNlyg",
             "title": "'Congress Needs To Act Now': Biden Calls For Additional Covid Relief Funding",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On Covid Response Efforts | NBC News",
             "secondDuration": 562,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCxITpxwCIM",
+            "title": "21 States Suing To End Mask Mandates On Public Transportation",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

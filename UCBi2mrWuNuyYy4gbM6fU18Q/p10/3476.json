@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gk7vl-M0WdM",
-            "title": "Olympics Day 5 HIGHLIGHTS | Katie Ledecky Wins Gold",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "dirivvZINUA",
             "title": "Sallie Krawcheck | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 1235,
@@ -61,8 +55,14 @@
             "title": "Trump Tower Climber Captured",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "nq_8wLEhqgs",
+            "title": "Apartment Building Explosion | Residents Jump From Building",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

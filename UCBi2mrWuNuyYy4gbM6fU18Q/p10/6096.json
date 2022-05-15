@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VZ3IPWqrUx8",
-            "title": "John Edwards Indicted",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "kTYNw_2yOkI",
             "title": "Bath Salts: A Deadly, Legal High?",
             "secondDuration": 560,
@@ -61,8 +55,14 @@
             "title": "First Spinal-Cord Surgery With Stem Cells",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "2qEQFoKdPUc",
+            "title": "'Double-Dip' Recession?",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

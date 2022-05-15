@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3KH9IXdXvqw",
-            "title": "Thanksgiving Turkey Tips From All-Star Chefs",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "lcYvVgcWINw",
             "title": "Disney's CitizenKid Highlights Children Doing Good",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "Talkin’ Turkey",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "OiG_MjDR900",
+            "title": "Two Lucky Turkeys",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

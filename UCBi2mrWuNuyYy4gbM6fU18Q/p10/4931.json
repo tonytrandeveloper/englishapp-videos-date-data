@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lEvAWxKafus",
-            "title": "New Beatles Recordings to be Released on iTunes",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGpNRakQQZg",
             "title": "Expecting Mother Found Strangled in Hawaii, Father Missing",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Kansas Man Under Arrest for Terror Plot",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "pYtrjK3f8Uo",
+            "title": "Winter Storm Alert: Cold Temperatures and Heavy Snowfall",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

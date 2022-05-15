@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jfwBorwo0P0",
-            "title": "Sondland: Security Aid Was 'Absolutely' Contingent On Investigation Announcement | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPDF6h1Nu14",
             "title": "Schiff Calls Sondland Testimony: 'Very Important Moment' In Impeachment Inquiry | NBC News",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Democratic Counsel Goldman Grills Volker About Ukraine Investigation | NBC News",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "MI6E3WciTW0",
+            "title": "‘Magical 15 Minute Motions:’ Nunes Mocks Time Procedures In Hearing | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

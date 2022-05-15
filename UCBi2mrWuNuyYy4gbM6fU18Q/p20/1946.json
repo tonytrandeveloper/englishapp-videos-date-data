@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UtnUYAIIjI0",
-            "title": "‘The Bachelor’ Season 20 Week 8 Recap  | ABC News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-Dq2udfcEg",
             "title": "Kalamazoo Shooting Suspect Admits to ‘Taking People’s Lives’  Investigators Say",
             "secondDuration": 86,
@@ -121,8 +115,14 @@
             "title": "Johnny Manziel Domestic Assault | Surveillance Video Emerges",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ip-yDq0wlp8",
+            "title": "Mysterious 'Music' Heard in Outer Space",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

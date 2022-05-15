@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "My28S-t6MYQ",
-            "title": "'This Week': Race and Politics",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "dzu3v7Lccn4",
             "title": "'This Week': DHS Secretary Jeh Johnson",
             "secondDuration": 424,
@@ -61,8 +55,14 @@
             "title": "Planes Come Within 500 Feet at Newark",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "cmI0Ryz10FY",
+            "title": "As Detroit Suburb Burns, Firefighters Won't Back Down",
+            "secondDuration": 629,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WF7xhRCgkqM",
-            "title": "Explosive Wildfire Threatens Homes, Forces Evacuations In California | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7LvRGar8ZQ",
             "title": "Growing Outbreak: Romaine Lettuce Linked To 67 Cases Of E.Coli, CDC Warns | NBC Nightly News",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "How Iran Shut Off The Internet Amid Protests | NBC News Now",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "WsovE9qh1_w",
+            "title": "President Donald Trump Honors ‘Hero Dog’ Injured In ISIS Raid At White House | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

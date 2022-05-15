@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IuKPAkquqmY",
-            "title": "House of Representatives has voted",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "0mDpZLlOtwA",
             "title": "Cuba Gooding Jr. facing new charges of misconduct",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "House votes on impeachment process resolution l ABC News",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "j3kU-yBxR8k",
+            "title": "House passes impeachment process resolution | ABC News",
+            "secondDuration": 9936,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

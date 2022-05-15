@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ge2YiCJkdhA",
-            "title": "North Korea reacts to canceled US summit",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKMdWm99PdI",
             "title": "New NFL mandate requiring players to stand for national anthem sparks debate",
             "secondDuration": 462,
@@ -31,8 +25,14 @@
             "title": "Harvey Weinstein to turn himself in and face criminal charges: Sources",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "U9l_rFRzEZw",
+            "title": "'It came outta nowhere': NBA player speaks about being tased by police",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

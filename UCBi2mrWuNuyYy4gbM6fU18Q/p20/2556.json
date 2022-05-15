@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W9hJN9s92kA",
-            "title": "'This Week' Report on George Zimmerman Verdict: Found Not Guilty in Trayvon Martin Case",
-            "secondDuration": 531,
-            "group": "group_7"
-        },
-        {
             "videoId": "7k3ldbZ6w_Y",
             "title": "'This Week'  on Eliot Spitzer, Anthony Weiner - 'The Some of the Man is not the Sum of the Man'",
             "secondDuration": 540,
@@ -121,8 +115,14 @@
             "title": "Surfing Instructor Attacked by Shark",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "MCW36ERb-t4",
+            "title": "Jon Bon Jovi Helps Raise Millions for Hurricane Sandy Victims",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R9GTU1glZAc",
-            "title": "Exclusive Interview With Ferguson, Mo., Officer Darren Wilson",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "fGESLQxNFxI",
             "title": "Customer Claims Kohl's Banned Him for Price Matching",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Ferguson Community Reacts to ABC News' Darren Wilson Interview",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "RZK5JUCxPbs",
+            "title": "Michael Brown’s Family on Grand Jury Decision",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

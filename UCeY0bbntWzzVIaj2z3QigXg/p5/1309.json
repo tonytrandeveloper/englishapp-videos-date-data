@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4BdHo5NukN0",
-            "title": "Kim Jong Un Warns Of Possible Food Shortages In North Korea",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "ycRRP95ilwE",
             "title": "Attorney General Lays Out New White House Domestic Terrorism Policy",
             "secondDuration": 277,
@@ -31,8 +25,14 @@
             "title": "Israel Strikes Gaza After Hamas Launches Incendiary Balloons",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "mCr105Yqw5w",
+            "title": "NBC Nightly News Broadcast (Full) - June 15th, 2021",
+            "secondDuration": 1097,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

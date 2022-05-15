@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bjKwXMqfLHA",
-            "title": "Ukrainian Officials Raise Concern Over Possible Russian Cyberattack",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "lFrTRKL3JKI",
             "title": "Judge To Dismiss Sarah Palin’s Defamation Case Against The New York Times",
             "secondDuration": 251,
@@ -121,8 +115,14 @@
             "title": "Biden Admin Works To Create ‘Backbone Of National Charging Network’ For Electric Vehicles",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACS9m2LCDLs",
+            "title": "Watch: Parkland Father Arrested For Climbing Crane, Demonstrating For Gun Control",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sy0vLZV-Wks",
-            "title": "One-Legged Gymnast Overcomes the Odds",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "bUbI1D5U2-w",
             "title": "'Stars Wars': Daisy Ridley Fires Back at Body Shamers",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Ice Car Racing: Mad Max Meets The Revenant Meets NASCAR",
             "secondDuration": 378,
             "group": "group_7"
+        },
+        {
+            "videoId": "xdnU7L4DjtI",
+            "title": "Heroin Epidemic in America",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oAh0eXObg8Q",
-            "title": "Index: Car Salesman Kidnapped on a Test Drive",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "19pDZVMMt_E",
             "title": "'GMA' Flies Drone Into Icelandic Sinkhole",
             "secondDuration": 709,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Discusses North Korea, Wall Street and More",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "aglXWmzARAU",
+            "title": "'Affluenza' Mother Day in Court",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

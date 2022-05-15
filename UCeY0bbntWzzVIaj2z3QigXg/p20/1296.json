@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E66CGSmor04",
-            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "WbZbRBMxpCA",
             "title": "Martin Luther King Assassination Witness Clara Ester Speaks Out, 50 Years Later | NBC Nightly News",
             "secondDuration": 186,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Says Military Will Guard U.S.-Mexico Border Until A Wall Is Built | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "KvCTZTI1sts",
+            "title": "States File Lawsuit Against Trump Administration Over Census Change | NBC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

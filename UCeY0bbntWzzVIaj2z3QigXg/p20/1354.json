@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-UjIW6WA8Wg",
-            "title": "911 Can’t Always Get Accurate Locations From Cell Phones | NBC Nightly News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "D0HmAfPTmak",
             "title": "Search For Missing In California Mudslides Widens As Authorities Name Victims | NBC Nightly News",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "Aerials Show Montecito Devastation After Mudslides | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "CC_lBkIzpQ4",
+            "title": "Donald Trump Says An Interview With Special Counsel Robert Mueller ‘Seems Unlikely’ | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HMVVvYXfSTU",
-            "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 4067,
-            "group": "group_7"
-        },
-        {
             "videoId": "cPAIncMsm1I",
             "title": "Cuomo On Memorial Day Gatherings: 'We Want To Honor Our Veterans' | NBC News NOW",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "De Blasio Calls On NYC To Issue Health Benefits For Families Of Workers Lost To COVID-19 | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "nFIt56AV7kU",
+            "title": "Live: Trump Delivers Remarks On Supporting Farmers | NBC News",
+            "secondDuration": 2064,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

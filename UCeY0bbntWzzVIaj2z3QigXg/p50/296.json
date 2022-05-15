@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yaJtoq0-zkQ",
-            "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3598,
-            "group": "group_7"
-        },
-        {
             "videoId": "hKs0bRA3_KU",
             "title": "Medical Workers Prepare For Wave Of New Patients: We're 'Bracing Ourselves' | NBC News NOW",
             "secondDuration": 159,
@@ -301,8 +295,14 @@
             "title": "Italian Grandmother, 103, Recovers From COVID-19 With Hydration, Pills, And Faith | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "jPgKAnG6U7c",
+            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

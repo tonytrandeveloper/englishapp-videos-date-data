@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6z-GizaSumE",
-            "title": "Obama, Vladimir Putin at G20 Summit",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "z8kiYiQJwfo",
             "title": "Trump Sign Thief Learns Karma Comes Swiftly",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Kaine Compares Trump's Encouragement of Russian Hacking to Watergate Break-In",
             "secondDuration": 552,
             "group": "group_7"
+        },
+        {
+            "videoId": "zBSTCjKymbI",
+            "title": "Trump's Campaign Manager Says His Position on Border Wall 'Never Changed'",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

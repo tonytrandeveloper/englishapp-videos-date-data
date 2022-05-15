@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eAMveJvAC90",
-            "title": "New York City Bicyclist Attacks Uber Driver, Jumps On Top Of Car | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "27IQAqV0Yw0",
             "title": "Watch Live: House Speaker Pelosi Holds Weekly News Conference | NBC News",
             "secondDuration": 1916,
@@ -31,8 +25,14 @@
             "title": "Suspected Hostage-Taking Gunman In Custody After Opening Fire On Florida Bank | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "HF2aGxbd15k",
+            "title": "President Donald Trump And Pelosi Trade Taunts With State Of The Union In Limbo | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

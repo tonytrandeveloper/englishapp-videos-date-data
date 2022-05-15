@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fKbPelX3SOA",
-            "title": "Video Captures Mall Security Guards Allegedly Beating Teen",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "mRQMtO2daEg",
             "title": "Whole Foods CEOs Apologize for Overcharging",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Terror Alert",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "_sLr5liqTYY",
+            "title": "Police Respond to False Alarm at Washington Navy Yard",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

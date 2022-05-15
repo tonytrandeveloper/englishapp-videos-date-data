@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ouXSnkpXBNA",
-            "title": "Full Panel: John Mccain Leaves A Legacy Of Humility And Statesmanship | Meet The Press | NBC News",
-            "secondDuration": 406,
-            "group": "group_7"
-        },
-        {
             "videoId": "xTUGAGFLLJ8",
             "title": "Full Jerry Nadler: 'The Robert Mueller Investigation Has To Continue' | Meet The Press | NBC News",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Talks About Kanye And Kim, But Avoids McCain's Terminal Health | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "wpF6tv90FLM",
+            "title": "How Animals Paved The Way For Human Space Flight | Mach | NBC News",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

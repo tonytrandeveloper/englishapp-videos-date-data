@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U_EG1cKQxKg",
-            "title": "A little boy from Kosovo travels to New York for life-changing heart surgery",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "OfIeaSWl_JA",
             "title": "Rise of ‘membership medicine’ plans fees raise concerns",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "American Health Care Act fails to reach the House floor on Capitol Hill",
             "secondDuration": 276,
             "group": "group_7"
+        },
+        {
+            "videoId": "cIEi_0T4R7Q",
+            "title": "House intel chair backs down from claims that Trump, associates were monitored by US intelligence",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

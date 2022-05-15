@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LVder0RZec4",
-            "title": "Chattanooga Shooting Spree Suspect Identified",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "GTgpTAEgIxk",
             "title": "\"Save My Life\": Doctors Race to Save Firefighter's Leg",
             "secondDuration": 229,
@@ -121,8 +115,14 @@
             "title": "Inside Texas Conjoined Twins' Harrowing Separation Surgery",
             "secondDuration": 593,
             "group": "group_7"
+        },
+        {
+            "videoId": "lrNluV6wE44",
+            "title": "Hot Songs Of The Summer",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

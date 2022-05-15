@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OZSGMMUC7FQ",
-            "title": "Watergate: Inside the scandal that took down a presidency",
-            "secondDuration": 614,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qovLaE3dEM",
             "title": "Richard Nixon's relationship with the press, his secret tapes: Part 1",
             "secondDuration": 723,
@@ -31,8 +25,14 @@
             "title": "Paying tribute to brave Capitol Police officers who may have averted a mass shooting",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q3KnY1Zedd8",
+            "title": "2 Georgia escaped prisoners captured and back behind bars",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

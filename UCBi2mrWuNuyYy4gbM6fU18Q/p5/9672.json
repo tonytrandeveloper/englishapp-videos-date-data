@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "66Png873F6Y",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "4J51XanzYNg",
             "title": "'This Week': The Pope's Popularity",
             "secondDuration": 512,
@@ -31,8 +25,14 @@
             "title": "'This Week': Cold War Echoes",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTo-KsiZuF8",
+            "title": "Nicole Kidman's New Role as Grace Kelly",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

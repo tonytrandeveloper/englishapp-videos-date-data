@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgfONokbmRw",
-            "title": "Gov. Chris Christie Endorses Donald Trump for President | NBC Nightly News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "0o1yGziDn3s",
             "title": "How Oil Layoffs Are Affecting Texas Voters | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Tornadoes Carve Deadly Path of Destruction From North to South | NBC Nightly News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "lmjsgP7FFsU",
+            "title": "Flint Coffee Shop Owner Extremely Cautious With Water Use | NBC News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

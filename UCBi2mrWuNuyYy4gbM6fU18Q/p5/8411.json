@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "89yZNmURIZk",
-            "title": "Donald Trump Causes More Campaign Chaos With John McCain Barb",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMyEbAvPPJg",
             "title": "Bill Cosby Deposition Published by New York Times",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Hundreds Trapped as California Wildfire Jumps Highway",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "9iwKui5WInI",
+            "title": "Republicans Demand Apology After Donald Trump Slams John McCain",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

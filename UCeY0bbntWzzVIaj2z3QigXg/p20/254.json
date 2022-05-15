@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LXG8zj6G9vw",
-            "title": "NBC News Finds Abandoned, Inoperable U.S. Military Equipment At Kabul Airport",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Y-TVZktMg8",
             "title": "This Morning’s Top Headlines – August 31 | Morning News NOW",
             "secondDuration": 926,
@@ -121,8 +115,14 @@
             "title": "Pentagon Announces Final U.S. Troops Have Withdrawn From Afghanistan",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9PcTOoFEkk",
+            "title": "Afghan Americans Protest For More Refugee Visas Amid Humanitarian Crisis",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

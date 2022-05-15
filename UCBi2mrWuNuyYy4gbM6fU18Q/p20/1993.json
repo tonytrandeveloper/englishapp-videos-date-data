@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9GnKuLVtiOM",
-            "title": "Bill Cosby Arraigned in Court on a Charge of Aggravated Indecent Assault",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWD_7VpAD4",
             "title": "Donald Trump Says Hillary Clinton Has a 'Major Problem'",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Search for Missing Singer Craig Strickland of Backroad Anthem",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "hy_U9RvtP2w",
+            "title": "Important Deadline for Smartphone Customers",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

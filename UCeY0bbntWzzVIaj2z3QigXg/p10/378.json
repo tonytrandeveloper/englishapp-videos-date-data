@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7lABh7eWgN8",
-            "title": "LIVE: Biden Delivers Remarks on October Jobs Report | NBC News",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "DpnBEhxnjIg",
             "title": "This Morning’s Top Headlines – Nov. 5 | Morning News NOW",
             "secondDuration": 1091,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - November 4th",
             "secondDuration": 1123,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEIwzrHybjI",
+            "title": "Inside Nashville’s Iconic Ryman Auditorium",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "txiX4ghmud8",
-            "title": "Austin officials warn of suspicious boxes after explosions",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Br8OqxOIbQ",
             "title": "Passenger's bag may have caused fatal NYC helicopter crash",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Trump tries to rally supporters on North Korea meeting",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "oK7samrHJlI",
+            "title": "O.J. Simpson discusses murders in newly released interview",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

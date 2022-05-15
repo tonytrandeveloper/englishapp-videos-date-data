@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zn_Vyv0a8lk",
-            "title": "Tiger Woods news conference upon return to competitive golf at Hero World Challenge in the Bahamas",
-            "secondDuration": 1695,
-            "group": "group_7"
-        },
-        {
             "videoId": "J7IxmJ14Lnc",
             "title": "Michael Flynn could be preparing to make a deal with special counsel prosecutors",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Millions of Americans return home after Thanksgiving holiday",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "7DcGtr5Ev48",
+            "title": "Franken gives interview for first time since allegations surfaced",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

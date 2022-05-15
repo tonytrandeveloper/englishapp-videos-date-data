@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uvjxPLqCyic",
-            "title": "Ted Cruz: Behind the Scenes on the Campaign Trail",
-            "secondDuration": 472,
-            "group": "group_7"
-        },
-        {
             "videoId": "95M8spSLUXo",
             "title": "Into the Ice: Using a Drone to Explore Inside a Glacier",
             "secondDuration": 331,
@@ -31,8 +25,14 @@
             "title": "Climb Inside the Hidden World of Glaciers",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "oAh0eXObg8Q",
+            "title": "Index: Car Salesman Kidnapped on a Test Drive",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

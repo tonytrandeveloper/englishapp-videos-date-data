@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gi-KJy3P0_Q",
-            "title": "Go Inside 'Carrie: The Musical'",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "zQz5hJny8pw",
             "title": "Sexting Scandal Envelops Colorado High School",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "U.S. Officials Call for Tighter Airport Security| ABC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bn3plq25JsA",
+            "title": "'Super Serena' Williams Stops Alleged Thief From Stealing Her Cellphone",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

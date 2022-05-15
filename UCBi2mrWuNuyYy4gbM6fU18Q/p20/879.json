@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "olrbF3IkjiM",
-            "title": "Yovanovitch jokes about ‘nasty things’ being said on social media | ABC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zpk9-pibcEE",
             "title": "Roger Stone found guilty on all 7 counts | ABC News",
             "secondDuration": 779,
@@ -121,8 +115,14 @@
             "title": "Is Deval Patrick too late to the 2020 Presidential Race?",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvA7bXtSotk",
+            "title": "Virginia schools closed in search for Marine",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

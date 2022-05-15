@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KxZBSL8xfko",
-            "title": "Donald Trump: If We Don't Win, This Will Have Been A Waste Of Time | NBC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "jQON10gZkBo",
             "title": "Memorable Moments Of The 2016 Presidential Campaign | NBC Nightly News",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Ballot Typo Leaves Hillary Clinton With ‘Liar’ In Her Name | NBC news",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nn6ficYg0ac",
+            "title": "Life Of An Election Ballot | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

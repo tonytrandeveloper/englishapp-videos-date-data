@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D7n2VoHetfg",
-            "title": "Trail of ransomware attacks could lead back to North Korea",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "57uwGO5xi1A",
             "title": "New developments in deadly police shooting of teen in Connecticut",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "2 critically injured after bus overturns on I-95 in Maryland",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "0-qTZDYANeU",
+            "title": "Ex-FBI Director's hometown reacts to Trump's dismissal of James Comey",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IG7h1jKUVZE",
-            "title": "Pentagon to send 1,000 troops to Middle East",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "w1YLwdUmLKQ",
             "title": "Trump tweets ICE to deport millions, courthouse shooter killed, new evidence in oil tanker attacks",
             "secondDuration": 1272,
@@ -61,8 +55,14 @@
             "title": "World in Photos: Protests in Hong Kong, penitents in Spain and monks in Myanmar",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "tjKcn0g72TM",
+            "title": "Timelapse footage shows mass protests in Hong Kong",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

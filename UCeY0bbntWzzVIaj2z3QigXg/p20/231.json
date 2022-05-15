@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "koRttfSCgQ0",
-            "title": "Live: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2081,
-            "group": "group_7"
-        },
-        {
             "videoId": "nQMXx6iO83Q",
             "title": "Four Former Trump Aides Subpoenaed in Jan. 6 Capitol Riot Investigation",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "US Special Envoy For Haiti Resigns In Protest Over Rising Deportations",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "S7p9Lnb9gd0",
+            "title": "CDC Advisory Committee Greenlights Booster For Certain Groups",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

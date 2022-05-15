@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bHF4bI8adjI",
-            "title": "Storm Eunice Causes Chaos In U.K., Rips Cover Off O2 Arena",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "sb_IO2R0T10",
             "title": "Surfside Building Collapse: How Salt Water May Have Affected The Foundation",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "LIVE: Biden Discusses Diplomatic Efforts as Russia Builds Up Troops at Ukraine Border | NBC News",
             "secondDuration": 1915,
             "group": "group_7"
+        },
+        {
+            "videoId": "4BAtHSNes5c",
+            "title": "Trump Took Classified Documents From White House, National Archives Confirms",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0AwENvrqgWI",
-            "title": "Dean Kamen On The Next Big Invention to Change the World",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "EhJ1bTSq0Jc",
             "title": "Dean Kamen's Plan to Wipe Out #1 Cause of Disease In The World",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "SKINNY: Hubba Hubba",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "JM_gihmRxDA",
+            "title": "HOMETOWN HERO: Making A \"Billgrimage\"",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

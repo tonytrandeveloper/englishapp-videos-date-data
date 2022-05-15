@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-_XoFZeC7Ew",
-            "title": "Miranda Lambert on Dateline NBC",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "wAHrpBrmq3E",
             "title": "Toyota Concert Series on TODAY: Train",
             "secondDuration": 18,
@@ -31,8 +25,14 @@
             "title": "NBC's Ali Weinberg: A day on the Herman Cain bus",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1UeLRlCVHs",
+            "title": "Education Nation Highlights",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

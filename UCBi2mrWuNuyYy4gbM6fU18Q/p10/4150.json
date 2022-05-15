@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Y0IKgpUa70",
-            "title": "Virginia Shooting Caught on Live TV | Suspect \"Bryce Williams\" Sends 'Suicide Notes\"",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "WMgiuQGf1Zg",
             "title": "Cyber Bullying | New App Stops Mean Messages",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Wildfire Grows Into the Largest in Washington State's History",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SF5a11EB4I",
+            "title": "How Sarcasm Is Linked to Creativity",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

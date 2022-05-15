@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YkDuc9e5U4A",
-            "title": "Stuck Passengers Sing 'I Believe I Can Fly' on Tarmac",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "FR9zlMTlst0",
             "title": "iOS 7 Announced, Apple Gives iPhone, iPad, Ipods a Facelift",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Apple's Plan to Thwart iPhone Thieves",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "LUt0UYzM1I8",
+            "title": "Apple's iOS 7: The Top 5 Features of Newly Designed Software for iPhones, iPads",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

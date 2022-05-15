@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p-LCbyN3k80",
-            "title": "The First Day: Episode 1 | Conviction | Dateline NBC",
-            "secondDuration": 391,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBwRm-rtAq0",
             "title": "This Was Personal: Episode 8 | Conviction | Dateline NBC",
             "secondDuration": 670,
@@ -31,8 +25,14 @@
             "title": "This Is A Man: Episode 10 | Conviction | Dateline NBC",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "lanGvlnBt6c",
+            "title": "Born In Harlem, And Swept the World: The Story Of Latin Boogaloo | NBC News",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

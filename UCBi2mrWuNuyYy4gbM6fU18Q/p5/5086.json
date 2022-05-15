@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NyavjtpWJMw",
-            "title": "Massive Chinese space station to land somewhere on Earth",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "TmXFI6sRxXw",
             "title": "Protests erupt after shooting of unarmed black man by Sacramento police",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Child fights to save his father's life",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ausFd_Ucd4s",
+            "title": "Designer of water park ride that malfunctioned and killed boy headed back to the US",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

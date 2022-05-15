@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "koRttfSCgQ0",
-            "title": "Live: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2081,
-            "group": "group_7"
-        },
-        {
             "videoId": "nQMXx6iO83Q",
             "title": "Four Former Trump Aides Subpoenaed in Jan. 6 Capitol Riot Investigation",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "Live: Biden Delivers Remarks on Covid Vaccines | NBC News",
             "secondDuration": 1795,
             "group": "group_7"
+        },
+        {
+            "videoId": "DjphvweVU6g",
+            "title": "This Morning’s Top Headlines – Sept. 24 | Morning News NOW",
+            "secondDuration": 1600,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

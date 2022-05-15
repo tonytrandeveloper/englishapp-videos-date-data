@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gxDx3NewcRg",
-            "title": "Police Release Sketch of Suspect in Real Estate Agent Robberies",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "j_RYi4Q76HQ",
             "title": "8 Reported Tornadoes Tear Through Colorado, Kansas",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "New Details About Bombshell Josh Duggar Sexual Abuse Allegations",
             "secondDuration": 382,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKxvfLnScMM",
+            "title": "Caitlyn Jenner’s New Docu-series",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

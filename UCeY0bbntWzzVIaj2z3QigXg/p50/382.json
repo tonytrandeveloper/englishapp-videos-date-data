@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1G9cB4vk7Go",
-            "title": "Robert Mueller States He Could Not Indict President Donald Trump Because Of OLC Decision | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "mV4j0L3Y3go",
             "title": "Representative Debbie Lesko Questions Robert Mueller's Use Of News Outlets In His Report | NBC News",
             "secondDuration": 110,
@@ -301,8 +295,14 @@
             "title": "Trump Sharpens Attacks On ‘The Squad,’ Characterizes Them As ‘Weak’ And 'Insecure’ | Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "fNyW02tCH84",
+            "title": "Heat Wave Breaks Records Across The Country | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

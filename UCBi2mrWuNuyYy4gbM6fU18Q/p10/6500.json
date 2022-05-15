@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KoqFMXVHCHQ",
-            "title": "News You Missed: Bank Robber Eats Ransom Note",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "0R--8u0BlT0",
             "title": "Outrageously-Priced Holiday Gifts",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Tiger Tapes: Neighbor's Up-Close Account",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "irOduNxyIeU",
+            "title": "Beyond The Velvet Rope",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

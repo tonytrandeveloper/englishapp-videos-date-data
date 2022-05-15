@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1aaWNIiakAk",
-            "title": "FBI Accuses Amish of Beard Cutting",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "8DdNUNiMIzw",
             "title": "\"Dancing With the Stars\" Finalist Rob Kardashian, Cheryl Burke Dance the Samba on \"GMA\"",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "J.R. Martinez Wins 'Dancing With the Stars' 2011: Champion, Ricki Lake, Rob Kardashian Chat on \"GMA\"",
             "secondDuration": 613,
             "group": "group_7"
+        },
+        {
+            "videoId": "1rJUHrjWNaw",
+            "title": "J.R. Martinez, \"Dancing With the Stars\" Winner, Karina Smirnoff Dance Cha-Cha on \"GMA\"",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RYxMRiftYuY",
-            "title": "John McCain on the horrors he endured as a POW",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "WepACKqZcDQ",
             "title": "John McCain's colleagues, friends reflect on his legacy",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Junior Arizona senator: McCain 'put service... over and above self interest'",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "OAgAFNiaObE",
+            "title": "Petraeus: 'No one had the backs' of servicemembers 'more than McCain did'",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

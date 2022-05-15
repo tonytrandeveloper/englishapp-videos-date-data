@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XUotlrEZ8ag",
-            "title": "Accused Russian agent reaches plea deal",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "tm2_jgKGbBk",
             "title": "Hero officer rescues kids from burning building",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Trump: Stormy Daniels payments 'simple private transaction'",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "3J6Tz1Jn1g8",
+            "title": "Video shows officers in tug-of-war with mother over baby",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

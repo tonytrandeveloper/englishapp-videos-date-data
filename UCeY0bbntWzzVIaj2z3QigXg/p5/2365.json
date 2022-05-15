@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NhyJAb-Pgr4",
-            "title": "Donald Trump Jr. Calls Joe Biden ‘Loch Ness Monster’ At RNC | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "dvaXiRArY0k",
             "title": "Watch Kimberly Guilfoyle’s Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 394,
@@ -31,8 +25,14 @@
             "title": "Republican National Convention Day 1 | Featuring Nikki Haley, Donald Trump Jr. | NBC News",
             "secondDuration": 10728,
             "group": "group_7"
+        },
+        {
+            "videoId": "5T9OKap1zJ4",
+            "title": "Nikki Haley: 'America Is Not A Racist Country' | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

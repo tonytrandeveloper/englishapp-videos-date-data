@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VGjDbOCfYr8",
-            "title": "'It was a brilliantly executed operation': Defense secretary on al-Baghdadi raid | ABC News",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "WLomL4uD2GM",
             "title": "Trump announces death of ISIS leader | ABC News",
             "secondDuration": 2910,
@@ -61,8 +55,14 @@
             "title": "The Wicked l 20/20 l PART 3",
             "secondDuration": 499,
             "group": "group_7"
+        },
+        {
+            "videoId": "lkaWOveMOVM",
+            "title": "Nationals host their 1st World Series home game | ABC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

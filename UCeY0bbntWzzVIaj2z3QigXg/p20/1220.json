@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AoWBizz0PpI",
-            "title": "3-Year-Old Dies After Being Left In A Hot Van | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXgPpIAEdFM",
             "title": "Tornadoes Tear Through Iowa Causing Destruction And Injuries | NBC Nightly News",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Intel Chief Dan Coats Find Out About Vladimir Putin’s White House Invite | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "TbeyO-g8Hu0",
+            "title": "President Donald Trump Establishes National Council For The American Worker | NBC News",
+            "secondDuration": 1771,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

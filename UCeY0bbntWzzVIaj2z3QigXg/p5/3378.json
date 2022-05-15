@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AqJuhnNPYyQ",
-            "title": "Harris Asks Horowitz If He Is Concerned About Giuliani's Work In Ukraine | NBC News",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "gl3lmSOCHDY",
             "title": "Privacy And Power: Your Digital Fingerprint (Part 1) | NBC Nightly News",
             "secondDuration": 743,
@@ -31,8 +25,14 @@
             "title": "Graham: 'It Was The Russians' Who Meddled In The 2016 Election, Not Ukraine | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "OVawMyMxHpE",
+            "title": "President Donald Trump: ‘This Is Impeachment lite’ | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4kEjvIea1hE",
-            "title": "Biden Hits The Road As Americans Receive Covid Relief | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "n76SVe2T4lc",
             "title": "17 Million Under Storm Warnings As Severe Weather Plows Through U.S. | NBC Nightly News",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Netflix Tests Plan To Crack Down On Customers Sharing Passwords | NBC News NOW",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "sIXV0jDCVEY",
+            "title": "George Floyd Family, Attorney Hold Press Briefing In Minneapolis | NBC News",
+            "secondDuration": 5739,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7S1Q2w2mOLk",
-            "title": "Live: Biden Delivers Remarks on Infrastructure | NBC News",
-            "secondDuration": 2065,
-            "group": "group_7"
-        },
-        {
             "videoId": "rL-9bGLZVBQ",
             "title": "Prosecutor: Cuomo Was 'Arrogant And Unapologetic' During Resignation Speech",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - August 10",
             "secondDuration": 2739,
             "group": "group_7"
+        },
+        {
+            "videoId": "q5f2Nqt1-QY",
+            "title": "Dept. Of Defense To Require Covid Vaccination Among All U.S. Service Members",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ds97uKTdJg0",
-            "title": "Full Panel: Trump Resumes Rallies With Stops In Florida, Iowa & Pennsylvania | Meet The Press",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "xz3CGj7UGNQ",
             "title": "'I'm Feeling Great' Trump Tells Crowd At White House | Meet The Press | NBC News",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Trump Holds First In-Person Event Since Coronavirus Diagnosis | NBC News",
             "secondDuration": 1240,
             "group": "group_7"
+        },
+        {
+            "videoId": "qccdNhBfum0",
+            "title": "Spotting The Difference Between Poll Watching And Potential Voter Intimidation | NBC News NOW",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

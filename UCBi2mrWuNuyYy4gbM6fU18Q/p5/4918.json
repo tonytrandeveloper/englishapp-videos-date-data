@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sIVEynKfVKU",
-            "title": "Canadian Prime Minister Justin Trudeau criticizing Trump after G-7 summit",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "N3X6flkooOw",
             "title": "President Donald Trump and Kim Jong Un arrived in Singapore for historic summit",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "As historic Singapore summit begins, some South Koreans have 'high hopes'",
             "secondDuration": 589,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bt6uUM1krHQ",
+            "title": "Top Senate Dem: Trump in 'high wire act without a safety net' on North Korea",
+            "secondDuration": 379,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

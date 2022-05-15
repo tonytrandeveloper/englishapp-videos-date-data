@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "90G2n1GqXZo",
-            "title": "Florida Orders First Statewide Recount In History After Razor-Thin Margins | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "x4cG60C3fbY",
             "title": "Inside The Growing Military Operation At U.S.-Mexico Border | NBC Nightly News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "President Trump Says He Hasn’t Spoken To Acting AG Whitaker About Russia Probe | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "NRYF9qZCDwg",
+            "title": "Florida At Center Of Undeclared Elections | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

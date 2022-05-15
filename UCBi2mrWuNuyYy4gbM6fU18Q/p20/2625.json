@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "66nH-q2ZpSc",
-            "title": "Northern Lights in Central Minnesota",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZH5dANvn3Mk",
             "title": "WEBCAST: New Pope Officially Installed Tuesday",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "White House Tours Victim of Washington Budget Cuts",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "6xD_tXRFSsI",
+            "title": "Steubenville Rape Case: Teenage Girl Expected to Testify",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

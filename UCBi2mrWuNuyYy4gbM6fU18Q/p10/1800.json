@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i0wnefBUy8w",
-            "title": "A young father is killed after a home invasion in Texas",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "7_tucBzgzaU",
             "title": "Trump decides not to host G-7 at Doral Resort | ABC News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "The Death of a Playmate l 20/20 l PART 3",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "IqCw9anO6uo",
+            "title": "The Death of a Playmate l 20/20 l PART 2",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

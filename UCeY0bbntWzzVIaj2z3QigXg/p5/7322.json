@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sm-ZZHymFHM",
-            "title": "Meet the Press - McDonough; McCain; Mark Kelly; Roundtable - February 17, 2013",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "i1e2yLRxLhc",
             "title": "Meet the Press - Cantor, Durbin, Roundtable - February 10, 2013",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "Brian Williams in the kitchen with TV pitchman Ron Popeil",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "woR5mZCi6wI",
+            "title": "Meet the Press - Schumer vs. Cruz; Roundtable - January 20, 2013",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

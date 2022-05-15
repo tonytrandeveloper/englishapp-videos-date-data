@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iNQah--08f4",
-            "title": "Mitt Romney: Exclusive Interview",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "3WbCiO-pmHY",
             "title": "'The Girl With the Dragon Tattoo' Interview: Rooney Mara - Princess of U.S's First Family of NFL",
             "secondDuration": 426,
@@ -31,8 +25,14 @@
             "title": "Newt Gingrich Recalls 'Hillarycare' Fight",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y2QxALNgkU8",
+            "title": "Mitt Romney's Health Plan",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

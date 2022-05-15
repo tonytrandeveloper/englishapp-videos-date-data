@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z6pjB9EuJ2U",
-            "title": "Residents of Puerto Rico facing long recovery after Hurricane Maria",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZ9d_uwd_gU",
             "title": "Contestants Compete in Outfit of the Day Challenge - 'Closet Raiders' S1 E2",
             "secondDuration": 231,
@@ -121,8 +115,14 @@
             "title": "Desperation grows in Puerto Rico after Maria",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "aq_djVzBKxs",
+            "title": "Rex Tillerson defends US response to North Korea, Russia",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

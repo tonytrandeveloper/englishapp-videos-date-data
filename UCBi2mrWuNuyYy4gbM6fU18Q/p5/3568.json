@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lKUx1YhOoJM",
-            "title": "North Korea reportedly fires two projectiles l ABC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "YtWnN-coNa0",
             "title": "Twitter to ban all political advertising l ABC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Teams of firefighters work to protect library, homes in California",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGfGZ_1iVnI",
+            "title": "Extreme red flag warning issued as fires rage in California",
+            "secondDuration": 354,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

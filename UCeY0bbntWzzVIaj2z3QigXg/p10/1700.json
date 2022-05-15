@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mWjluaHRQiY",
-            "title": "NBC News Exclusive: Uber Shares Surprising Safety Findings | NBC Nightly News",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "yjXipSVZA7Q",
             "title": "Nancy Pelosi Announces House Moving Forward With Articles Of Impeachment | NBC Nightly News",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Pete Buttigieg Talks 2020 Election, Diversity In Democratic Party | NBC News",
             "secondDuration": 881,
             "group": "group_7"
+        },
+        {
+            "videoId": "SK_XOMun15w",
+            "title": "Pelosi Clashes With Reporter Who Asks If She Hates Trump: 'I Don't Hate Anyone' | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

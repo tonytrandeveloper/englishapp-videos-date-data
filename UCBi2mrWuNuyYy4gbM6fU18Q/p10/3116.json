@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p98G02hqH24",
-            "title": "Mexico Nightclub Shooting Video",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "IHlkr4jRHJY",
             "title": "Trump Breaks on Policy With Some Cabinet Picks",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "D.C. Hotels Unveil Pricey Perks for Trump’s Upcoming Inaugeration | ABC News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z-OMCmI3bSQ",
+            "title": "Trump's War of Words with Civil Rights Icon Rep. John Lewis",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

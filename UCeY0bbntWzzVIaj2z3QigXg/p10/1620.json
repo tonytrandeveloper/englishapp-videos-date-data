@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RnrtqO-n2P4",
-            "title": "Watch: SpaceX Falcon 9 Rocket Launches 60 Satellites Into Orbit | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BT356PaHwkY",
             "title": "Construction On New Hospitals To Treat Virus Patients Continues Around The Clock | NBC News",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Number Of COVID-19 Cases Skyrockets In China | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "lirLauWm5ZA",
+            "title": "President Donald Trump Unveils Controversial New Plan For Middle East Peace | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

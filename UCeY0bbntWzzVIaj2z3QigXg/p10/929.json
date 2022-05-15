@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dKfZFq_5AEA",
-            "title": "Who Team In Wuhan Discusses Investigation Into Covid Origin | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "IgirZ_c7XEU",
             "title": "House Delivers Article Of Impeachment To Senate | NBC Nightly News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Strengthening American Manufacturing | NBC News",
             "secondDuration": 1906,
             "group": "group_7"
+        },
+        {
+            "videoId": "41zxagM5SU0",
+            "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3531,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

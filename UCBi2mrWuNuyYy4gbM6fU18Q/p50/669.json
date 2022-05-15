@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "I2u_GWXr5Aw",
-            "title": "Florida Streets Flooded After Hurricane Matthew Hits",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "q7T0a4KBhXg",
             "title": "Mike Pence Doesn't Answer Questions About Trump's Vulgar Comments",
             "secondDuration": 31,
@@ -301,8 +295,14 @@
             "title": "LA Sheriff's Sergeant Killed Answering Burglary Call",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "RaXpdGHmhHU",
+            "title": "Hurricane Matthew Batters the Bahamas",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

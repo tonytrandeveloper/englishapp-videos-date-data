@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_0A6EiJUs54",
-            "title": "R.A. Dickey Breaks Down His Knuckleball",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dst7CW2PNxc",
             "title": "Tennessee Boys Electrocuted in Lake",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Texas Principal Accused of Spying on Daughter's Coach",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "E6A3iAxj1xk",
+            "title": "Taliban Ambush Afghan Forces: Caught on Tape",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

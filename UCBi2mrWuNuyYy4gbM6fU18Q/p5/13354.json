@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xjnIqf6nAIY",
-            "title": "Breast Milk to Treat Cancer?",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "VLtMsvbAJ0k",
             "title": "Mike Tyson's Family Tragedy",
             "secondDuration": 219,
@@ -31,8 +25,14 @@
             "title": "The Pick",
             "secondDuration": 448,
             "group": "group_7"
+        },
+        {
+            "videoId": "fAItPKtilMs",
+            "title": "California's High Court Upholds Prop 8",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

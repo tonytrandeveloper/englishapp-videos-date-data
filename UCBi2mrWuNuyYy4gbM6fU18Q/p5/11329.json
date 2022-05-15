@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GFt76w03dFo",
-            "title": "Farewell to Jon Banner",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "UE9wZohOREE",
             "title": "Bob McDonnell and Antonio Villaraigosa Debate",
             "secondDuration": 808,
@@ -31,8 +25,14 @@
             "title": "Florida Prepares for Tropical Storm Isaac",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "vWGDZawXEf0",
+            "title": "Dudeism: The Path to Lebowski Enlightenment",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

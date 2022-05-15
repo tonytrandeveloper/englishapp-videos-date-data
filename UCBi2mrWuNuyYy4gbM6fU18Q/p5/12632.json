@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FbQddfQm-M4",
-            "title": "Obama on 'Roses and Thorns' of Office",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "wS4OePKImBQ",
             "title": "The Life of an Undocumented Resident in the US",
             "secondDuration": 260,
@@ -31,8 +25,14 @@
             "title": "Deadly Plane Crash in Pakistan",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ss11GwCMViU",
+            "title": "Maryland 'Serial Killer Charged",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

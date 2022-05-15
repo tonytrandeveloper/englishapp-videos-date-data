@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K2KG5hbGN0c",
-            "title": "Live: Biden Delivers Remarks on Jobs and the Economy | NBC News",
-            "secondDuration": 961,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9vSIxXW5K8",
             "title": "Homeland Security Officials Warn False Election Claims Could Lead To Violence",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "NBC Nightly News Broadcast (Full) - August 10th, 2021",
             "secondDuration": 1271,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFqF4qOi4Qs",
+            "title": "Doctor Weighs In On Covid And Protecting Your Family",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

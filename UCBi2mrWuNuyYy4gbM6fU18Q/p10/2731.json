@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZSk7rLq6JMg",
-            "title": "Harvey Weinstein resigns from the Weinstein Co.",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "ODRB9TuaAq8",
             "title": "Major milestone in war against ISIS",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Trump claims past presidents didn't call families of fallen soldiers",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "fH5K64OiHwM",
+            "title": "New 911 calls underscore devastation at Florida nursing home",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

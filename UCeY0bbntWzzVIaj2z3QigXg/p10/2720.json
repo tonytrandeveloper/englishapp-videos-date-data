@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tr2zobLYZXQ",
-            "title": "United Nations Ambassador Nikki Haley Quotes Messages From Iranian Protesters | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "cbjOycZfKxE",
             "title": "White House Press Briefing - January 2, 2018 (Full) | NBC News",
             "secondDuration": 3875,
@@ -61,8 +55,14 @@
             "title": "Iran Protests Grow Deadlier | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "c4bGaoeCWUA",
+            "title": "Colorado Gunman Posted Rants About Police On YouTube | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

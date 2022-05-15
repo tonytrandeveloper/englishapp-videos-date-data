@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NPGFhkgWh5A",
-            "title": "American SuperTanker headed to the Amazon",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5tyakOlx7o",
             "title": "Prince Andrew regrets not cutting ties with Jeffrey Epstein a decade ago",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "President Trump boasted about the economy on his way to France",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "dxSFArriRaw",
+            "title": "A police officer assisted a man in helping him find his family after 24 years",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

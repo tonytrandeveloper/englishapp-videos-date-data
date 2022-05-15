@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dgNSjXZqAs0",
-            "title": "The Conversation: Women in the World Summit",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "VMFblSRP82o",
             "title": "Brutalized Afghan Woman Finds Strength",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "Top Line: Obama in Campaign Mode",
             "secondDuration": 276,
             "group": "group_7"
+        },
+        {
+            "videoId": "FI06tPPQUR4",
+            "title": "Top Line: Health Care: Getting House Members On Board",
+            "secondDuration": 614,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

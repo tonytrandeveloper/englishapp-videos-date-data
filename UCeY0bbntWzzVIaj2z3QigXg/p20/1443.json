@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5iRiQoLosfs",
-            "title": "Florida Residents Return to Horrific Devastation",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeYf-aK-zr8",
             "title": "Apple’s September 12th Event In 2 Minutes | Mach | NBC News",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Irma: Despite Power Outages And Damage, Some Homeowners Escape Disaster | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "kviwt16OUq0",
+            "title": "Gratitude And Relief On Florida's West Coast As Irma Causes Minor Damage | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

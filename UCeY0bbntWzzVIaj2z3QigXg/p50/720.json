@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "X9XHFjqsH5g",
-            "title": "3,000 Troops Headed To Ebola Hot Zone | NBC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4I404VpO-Y",
             "title": "Pocket Avatars: A Medical Breakthrough? | Nerdwatch | NBC News",
             "secondDuration": 95,
@@ -301,8 +295,14 @@
             "title": "U.S. Strikes Somalia, Terror Threats Mount | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "ekLPGyerYd0",
+            "title": "Obama: Russia Paying For Its Actions | NBC News",
+            "secondDuration": 39,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

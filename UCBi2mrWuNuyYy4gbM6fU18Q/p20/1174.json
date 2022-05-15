@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2dZiX8PCxWQ",
-            "title": "Teen pilot lands plane safely after losing wheel just after takeoff",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "_sO5EOnL_Co",
             "title": "9/11 marked in NYC with moment of silence",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "New accusations of sexual assault against CBS head: Report",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "K9O7d_nXsWQ",
+            "title": "George Papadopoulos admits he lied to the FBI about contacts with Russian operatives",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

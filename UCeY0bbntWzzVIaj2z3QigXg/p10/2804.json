@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b57BpXtlR_A",
-            "title": "Fatal Milwaukee Car Crash Caught On Camera | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "63MdYizpjVo",
             "title": "Influential Fake Twitter Account Was Run By Russians | NBC Nightly News",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump: Workplace Harassment Can Never Be Tolerated | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "PdbwoNQHVmY",
+            "title": "Doctors Tout Life-Saving Benefits Of Umbilical Cord Blood | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

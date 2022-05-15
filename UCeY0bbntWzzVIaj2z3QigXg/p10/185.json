@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vbS1MWNRFE0",
-            "title": "Celebrating Queen Elizabeth’s 70 Years On The Throne",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdx4KSmu_mU",
             "title": "Meet The Press Broadcast (Full) - Feb. 6th",
             "secondDuration": 2856,
@@ -61,8 +55,14 @@
             "title": "Protesters Angered By Police Shooting of Amir Locke",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "GX7k8UrE_-c",
+            "title": "Trump Lashes Out at Pence Over Critical Speech",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

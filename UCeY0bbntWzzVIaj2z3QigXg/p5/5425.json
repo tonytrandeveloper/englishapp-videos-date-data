@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6eB4OkqUk9k",
-            "title": "President Donald Trump Speaks At Farming Convention In Nashville | NBC News",
-            "secondDuration": 3346,
-            "group": "group_7"
-        },
-        {
             "videoId": "kEnG9wVgc-Y",
             "title": "Tom Steyer To Donate $30 Million To Help Democrats Retake House In 2018 | NBC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "SpaceX Launches A Rocket Into Space | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "hrgGcr3IHkk",
+            "title": "Michael Wolff: Trump White House Facing '25th Amendment Stuff' (Full) | Meet The Press | NBC News",
+            "secondDuration": 865,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

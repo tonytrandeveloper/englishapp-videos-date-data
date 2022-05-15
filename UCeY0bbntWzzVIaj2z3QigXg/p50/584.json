@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "R45Cy7R9v0c",
-            "title": "Walmart And Google Team Up To Take On Amazon | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "CZgBk9F2fIo",
             "title": "Chinese Companies Illegally Shipping Fentanyl To U.S. | NBC Nightly News",
             "secondDuration": 118,
@@ -301,8 +295,14 @@
             "title": "High Blood Pressure In At Least 2 Million American Children and Teens | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "D-fHsc0Mg3c",
+            "title": "Secret Service Budget Stretched Thin | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

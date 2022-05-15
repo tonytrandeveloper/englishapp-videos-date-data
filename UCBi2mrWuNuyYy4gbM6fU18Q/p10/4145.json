@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dys5IwF9pCM",
-            "title": "Vice President Joe Biden Greeted by Big Applause as Hillary Clinton Loses Ground in Polls",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vp3FpFu2I7s",
             "title": "Al-Jazeera Reporters Get 3 Years in Prison for 'Spreading False News' in Egypt",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Texas Authorities Search for Gunman Who Killed Deputy",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZAvsT90Jgnc",
+            "title": "What Virginia On-Air Shooting Survivor Remembers About the Incident",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

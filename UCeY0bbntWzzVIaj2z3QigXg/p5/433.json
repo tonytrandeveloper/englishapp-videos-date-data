@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KgRDhNWH_18",
-            "title": "Extreme Weather Hits The U.S.",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "4T6ZK_kc_6c",
             "title": "Tribute To Fashion Icon André Leon Talley",
             "secondDuration": 312,
@@ -31,8 +25,14 @@
             "title": "At Least 1 NYPD Officer Dead, Another In Critical After Shooting In Harlem",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "UbSP4bHLNWs",
+            "title": "Secretary Of Labor Marty Walsh Lays Out New Job Initiatives",
+            "secondDuration": 782,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

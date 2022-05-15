@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCvTX8fhKWY",
-            "title": "Microsoft  Will Cut 18,000 Jobs | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "EDkV91snjZQ",
             "title": "History Of The Boeing 777 | Long Story Short | NBC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Israel \"We Will Act to Protect Our People\" | NBC News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDQoSovYm_M",
+            "title": "Israel Launches Gaza Ground Invasion | NBC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

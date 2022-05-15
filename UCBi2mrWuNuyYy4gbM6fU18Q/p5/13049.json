@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DL_dmN2Ck10",
-            "title": "Juju Juggles Halloween",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "Drw_Cwuw8iY",
             "title": "How to Live For a Century",
             "secondDuration": 506,
@@ -31,8 +25,14 @@
             "title": "Catching Up With Carrie Underwood",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "o4vxF-8Z7f4",
+            "title": "TV Anchor's Murder Trial Begins",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

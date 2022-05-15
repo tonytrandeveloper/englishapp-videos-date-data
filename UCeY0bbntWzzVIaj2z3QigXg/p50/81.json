@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hLGQzOkTxd0",
-            "title": "Morning News NOW Full Broadcast - Oct. 25th",
-            "secondDuration": 2679,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zvck8_jNRVg",
             "title": "Ed Sheeran Tests Positive For Covid, Will Do Upcoming Performances From Home",
             "secondDuration": 41,
@@ -301,8 +295,14 @@
             "title": "Full Interview: Laundrie Family Attorney Speaks Out On Remains Identified As Brian",
             "secondDuration": 810,
             "group": "group_7"
+        },
+        {
+            "videoId": "8GcuF955LqU",
+            "title": "Nightly News Full Broadcast - October 21st",
+            "secondDuration": 1282,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

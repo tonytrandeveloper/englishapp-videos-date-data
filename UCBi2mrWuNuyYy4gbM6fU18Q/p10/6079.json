@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pXFGBaF1XFQ",
-            "title": "Casey Anthony Trial: Cindy Anthony's Stunning Chloroform Claim",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "KyBsZYCROQQ",
             "title": "Bring Your Dog to Work 2011",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Tom Hanks Goes Dancing!",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "e5umF74oxS0",
+            "title": "Boston Mobster James 'Whitey' Bulger Arrested in California",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

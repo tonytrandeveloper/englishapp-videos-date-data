@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OT4sSVQUFqk",
-            "title": "Top Story with Tom Llamas - Feb. 9 | NBC News NOW",
-            "secondDuration": 2455,
-            "group": "group_7"
-        },
-        {
             "videoId": "M5EcIDcjDmw",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Feb. 9 | NBC News NOW",
             "secondDuration": 2062,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW - Feb. 9 | NBC News NOW",
             "secondDuration": 2788,
             "group": "group_7"
+        },
+        {
+            "videoId": "P2Kv26mgAvU",
+            "title": "Biden Plans To Evacuate Americans Out of Ukraine If Russia Invades",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0Nu7n8qfzWI",
-            "title": "Inspiring America: Young Homeless Sisters Running For Gold | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "zSU6wr4Hu38",
             "title": "Deadly Storms, Tornadoes Plow Through The Midwest | NBC Nightly News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "How Email Spam Filters Work Based On Algorithms | Mach | NBC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToERSVBk43Q",
+            "title": "Dear Mr. President: Letters On The Affordable Care Act | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

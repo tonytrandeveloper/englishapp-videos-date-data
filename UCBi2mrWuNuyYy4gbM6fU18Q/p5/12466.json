@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A9wN-_3HX5w",
-            "title": "Pence: 2012 Decision in 'Early Part of Next Year'",
-            "secondDuration": 666,
-            "group": "group_7"
-        },
-        {
             "videoId": "ol2pk6KDoq4",
             "title": "Accommodating Obese Patients",
             "secondDuration": 415,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Acupressure in the Classroom",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "xqOuJf-zUfU",
+            "title": "Airport Security Lapse Exposed",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

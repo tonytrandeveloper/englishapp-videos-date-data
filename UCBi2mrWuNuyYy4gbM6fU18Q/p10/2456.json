@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "00G-mUn12os",
-            "title": "'I do trust him': Trump reflects on Kim meeting",
-            "secondDuration": 693,
-            "group": "group_7"
-        },
-        {
             "videoId": "aj9DfcW2nog",
             "title": "Dennis Rodman reacts to deal between US, North Korea",
             "secondDuration": 218,
@@ -61,8 +55,14 @@
             "title": "President Trump opens up about historic summit (FULL EXCLUSIVE INTERVIEW with George Stephanopoulos)",
             "secondDuration": 822,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EMkd3TV7ug",
+            "title": "President Trump meets with Kim Jong Un to commit to denuclearization",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

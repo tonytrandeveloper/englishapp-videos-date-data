@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wN1YwZsZkiU",
-            "title": "New Developments In Decades-Long Search For Jimmy Hoffa",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "D3rnk11pBqw",
             "title": "Cost of Care: A Day In The Life of Daycare Workers Amid The Pandemic",
             "secondDuration": 257,
@@ -31,8 +25,14 @@
             "title": "Chile Set To Elect New President",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "x8bdXWcbDiY",
+            "title": "Covid Cases Surging Across Europe",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

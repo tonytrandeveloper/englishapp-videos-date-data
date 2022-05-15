@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hGBHgLxFUiA",
-            "title": "Government shutdown cost $11 billion to economy",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "S23AAhY_s1Y",
             "title": "Police shootout leaving 3 officers injured and suspect dead",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Chris Christie weighs in on his new book, shutdown, Roger Stone",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "QI4hcg_VqRU",
+            "title": "Ex-Starbucks CEO considering run for president",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

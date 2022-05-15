@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OMZj_heZm0Y",
-            "title": "Temps Plunge as Northeast Hit with Snow",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "F020UdOp_ow",
             "title": "Mother Arrested After High Speed Chase",
             "secondDuration": 69,
@@ -301,8 +295,14 @@
             "title": "Oscar Pistorius Brought to Tears in Court",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "zODFMw5TdI4",
+            "title": "Fresh Clues in Tragic California Bus Crash",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

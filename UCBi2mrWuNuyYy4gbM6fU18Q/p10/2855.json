@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yOvMU4b5DLk",
-            "title": "What to know about Sen. McCain's brain tumor diagnosis",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "_K1n9StmFIs",
             "title": "Sen. Jeff Flake reacts to Sen. John McCain's brain tumor diagnosis",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump full remarks on voter fraud ahead of commission's first meeting",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "wZpN16WaPIQ",
+            "title": "Voter fraud commission's first meeting chaired by Vice President Mike Pence",
+            "secondDuration": 3677,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

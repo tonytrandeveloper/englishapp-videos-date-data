@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "159h2s8YeWk",
-            "title": "EXCLUSIVE: Otto Warmbier's Father Speaks Out | NBC Nightly News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "stQVjGU5JnM",
             "title": "A Pediatrician’s Tips On Protecting Your Family From Flu | NBC Nightly News",
             "secondDuration": 106,
@@ -301,8 +295,14 @@
             "title": "Stock Market Recovers Half Of What Was Lost After Largest Dow Drop In History | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "BKuFsI_0KGA",
+            "title": "SpaceX’s Falcon Heavy Rocket Nails Its Maiden Test Flight | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

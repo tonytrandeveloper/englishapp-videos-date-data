@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A2-94eCO_sk",
-            "title": "Democrats score gubernatorial wins in Virginia, NJ",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "fWhC2Xa-BQU",
             "title": "Trump warns North Korea 'not to underestimate us'",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Outrage grows over Texas massacre suspect's ability to buy weapons",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "urM8dsmEIFU",
+            "title": "Donna Brazile on fallout over revelations about the DNC in her latest book",
+            "secondDuration": 791,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

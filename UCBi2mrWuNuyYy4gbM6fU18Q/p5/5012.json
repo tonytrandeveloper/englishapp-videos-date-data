@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5DMZ4DfF2mE",
-            "title": "White House press briefing Iran, Mueller questions, Michael Cohen | ABC News",
-            "secondDuration": 1881,
-            "group": "group_7"
-        },
-        {
             "videoId": "5i8vtxhlj2c",
             "title": "Little League slow-motion run: Pint-size baseball player savors run home",
             "secondDuration": 48,
@@ -31,8 +25,14 @@
             "title": "Comedian defends anti-Trump jokes at WHCD dinner",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "LB1-KO3I4UY",
+            "title": "WH chief of staff denies he called Trump an 'idiot'",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

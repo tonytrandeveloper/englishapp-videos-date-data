@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3kKOyDvCCag",
-            "title": "U.K. Prime Minister Boris Johnson Announces National Lockdown In England To Combat Covid | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "oAOZMnhvFfo",
             "title": "Biden Campaigns In Georgia For Ossoff And Warnock | NBC News",
             "secondDuration": 1151,
@@ -61,8 +55,14 @@
             "title": "College Senior Bridging The Tech Gap For Young Students | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "79dxg8UIJLc",
+            "title": "CDC data: More Than 4.2 Million People Vaccinated | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

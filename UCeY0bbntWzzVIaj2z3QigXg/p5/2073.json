@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Jdn3F8F27mE",
-            "title": "Trump Supporters Clash With Counter Protesters Over Election Results in Washington | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "_zwDb3FdBLA",
             "title": "Trump Tweets: 'I Concede Nothing' | Meet The Press | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "SpaceX’s Falcon 9 Prepares For Blast Off | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "nhw1LeLglrk",
+            "title": "Americans Plan Thanksgiving Gatherings Despite Health Official Warnings | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

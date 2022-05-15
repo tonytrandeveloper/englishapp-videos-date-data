@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t-hgP891iWA",
-            "title": "WEBCAST: \"Cosmic Dawn\"",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "rt72My52IrI",
             "title": "One Last Blast of Snow Before the Cold Front Moves Out",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "NYC Workers to Be Charged for Alleged 9/11 Disability Fraud",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "loIiNz9FZ0s",
+            "title": "'Pretty Little Liars' Star Troian Bellisario's Family Staged Intervention",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

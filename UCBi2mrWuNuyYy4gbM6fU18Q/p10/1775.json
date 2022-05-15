@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fpyWcWHRi6Y",
-            "title": "Hit-and-run victim ignored as dozens of drivers pass by",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "lDQfmanHDFU",
             "title": "Multiracial group asked to move in restaurant to accommodate white customer",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Trump rallies to hold governor’s seat in Kentucky | ABC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6izUbGy9hE",
+            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

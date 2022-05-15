@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X2QgDsdTleI",
-            "title": "What Is Sarah Palin Doing?",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "CIy4GXrWHQw",
             "title": "Amplified: Land of Talk",
             "secondDuration": 288,
@@ -61,8 +55,14 @@
             "title": "Political Bombshell: Palin Resigns",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "jv-m-Jme-tA",
+            "title": "Inside Lady Liberty's Crown",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

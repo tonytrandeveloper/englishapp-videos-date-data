@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RJGNmHXrBFw",
-            "title": "Random Animal Facts",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "hDaIEi2nViA",
             "title": "Another Bank Reports Huge Profits",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Americans Pay Through The Nose",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "k67T4RRbQXc",
+            "title": "Elusive Sotomayor Dodges Probing Senators",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

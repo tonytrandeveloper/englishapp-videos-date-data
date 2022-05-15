@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LouZAZtHi1s",
-            "title": "Olympics | Michael Phelps Wins Gold in Potential Final Race",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "DbiQmIbxjrs",
             "title": "Milwaukee Officer-Involved Shooting Sparks Violence",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Controversial Sentencing Reached on a Rape Conviction",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "_NpaFKT1Cyc",
+            "title": "Family of Four Walks Away From Fiery Plane Crash Unharmed",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

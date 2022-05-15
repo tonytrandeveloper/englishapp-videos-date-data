@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1tLogDeIgCg",
-            "title": "Casey Anthony's Car Had Smell of Death",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "LikNG6t3r2A",
             "title": "Mark Zuckerberg on New Hunting Diet",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Class of 2011: Notable Commencements",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "cKAFJVKUScA",
+            "title": "Memorial Day Weekend: Tips at the Pump",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

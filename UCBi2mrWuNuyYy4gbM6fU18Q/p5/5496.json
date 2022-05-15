@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AVN39mj7PU8",
-            "title": "Safety of open-air events questioned after Vegas shooting",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uv0CJIbgjA",
             "title": "Bartender helps save lives after Vegas shooting",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "What happened in Vegas mass shooting that killed at least 59",
             "secondDuration": 610,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_z3ss6omOY",
+            "title": "What we know about Vegas mass shooting suspect Stephen Paddock",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

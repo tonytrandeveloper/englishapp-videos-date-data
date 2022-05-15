@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "STnG4tIX100",
-            "title": "NBC News NOW Full Broadcast - July 19, 2021",
-            "secondDuration": 3026,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra_Yu1ZFpZk",
             "title": "U.S. Accuses China Of Cyberattacks | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Asian-American Olympians Share Their Experiences Representing Team USA",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "hcvZFmOSC8I",
+            "title": "Biden Calls On Facebook To Stop Spread Of Misinformation On Vaccines",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

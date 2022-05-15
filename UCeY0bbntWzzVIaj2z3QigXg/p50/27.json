@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wdw7-QbexqM",
-            "title": "New U.N. Report Warns Of Immediate Dangers Of Climate Change",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "1pXUY2J7mvc",
             "title": "Ukraine Crisis: Russia Attacks Kharkiv",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "NOW Tonight with Joshua Johnson - Feb. 25 | NBC News NOW",
             "secondDuration": 1567,
             "group": "group_7"
+        },
+        {
+            "videoId": "NAnVyA-KPE4",
+            "title": "Nightly News Full Broadcast - Feb. 25",
+            "secondDuration": 1447,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

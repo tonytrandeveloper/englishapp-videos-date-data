@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PgNGfSk-QCw",
-            "title": "Chicago Teen in Anti-Violence Video Shot by Stray Bullet",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZOM9QEnbbgo",
             "title": "Student Surprises Grandparents by Paying Off Their Mortgage",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Pilot Arrested for Failing Breathalyzer Test",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "DQyTnmk61eY",
+            "title": "Kansas Wildfire Burns, Severe Storms Strike Indiana, Florida",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

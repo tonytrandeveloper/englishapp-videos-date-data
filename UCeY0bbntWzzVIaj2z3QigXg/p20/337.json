@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AVO30A6z7eQ",
-            "title": "Morning News NOW Full Broadcast - June 7 | NBC News NOW",
-            "secondDuration": 2956,
-            "group": "group_7"
-        },
-        {
             "videoId": "eu3SqIeip4c",
             "title": "Massive Medical Bills Plague Some Covid Long-Haulers",
             "secondDuration": 403,
@@ -121,8 +115,14 @@
             "title": "NBC Nightly News Broadcast (Full) - June 4th, 2021",
             "secondDuration": 1278,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wbx1ykcLXZ4",
+            "title": "CDC Urges Teenagers To Get Vaccinated Amid Rise In Hospitalizations",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

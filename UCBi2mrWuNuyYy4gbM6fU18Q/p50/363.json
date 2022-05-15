@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "x_8Bzf8RLI4",
-            "title": "Turkish military moves ahead with massive military operation along Syrian border | ABC News",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tle7cNo53mI",
             "title": "Trump sounds off on impeachment investigation at rally in Louisiana | ABC News",
             "secondDuration": 163,
@@ -301,8 +295,14 @@
             "title": "Biden says Trump should be 'impeached' l ABC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "S6hrnci0UVw",
+            "title": "At least 2 people killed near German synagogue on Yom Kippur l ABC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

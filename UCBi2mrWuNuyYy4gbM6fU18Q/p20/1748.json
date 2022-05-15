@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e7Td4qbeCD8",
-            "title": "Summer Brunch Made Easy | ABC News",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "ii9Xi7FUS0s",
             "title": "Pete's Dragon | Behind the Scenes",
             "secondDuration": 353,
@@ -121,8 +115,14 @@
             "title": "Trump Withholds Endorsements for Paul Ryan, John McCain",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "3mUHjUbEV18",
+            "title": "Donald Trump Feuds With the GOP",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

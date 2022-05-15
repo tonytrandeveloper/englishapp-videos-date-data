@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "koy-KasFhFM",
-            "title": "Obama on Vladimir Putin",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "o1kXDW2nHbM",
             "title": "A Texas Woman Is Paralyzed After Her Uber Car Crashed",
             "secondDuration": 99,
@@ -301,8 +295,14 @@
             "title": "Sister Saves Baby's Life After Stray Bullet Strikes Family's Car",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "CeWoH40nxOM",
+            "title": "Trump: Wall Will Be 'Paid Back' by Mexico",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

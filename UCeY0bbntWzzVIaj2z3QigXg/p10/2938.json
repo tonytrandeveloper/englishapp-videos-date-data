@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AhIJ8huhHaE",
-            "title": "Take A Tour Of This Incredible Oceanic Research Vessel | Mach | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "y0y5jcEQVE0",
             "title": "Secretary Rex Tillerson Says President Trump Is 'Sending A Strong Message' To North Korea | NBC News",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "North Korea Has Constructed A Miniature Nuclear Warhead, U.S. Officials Believe | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "voaIetuob3E",
+            "title": "Country Music Singer Glen Campbell Has Died | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

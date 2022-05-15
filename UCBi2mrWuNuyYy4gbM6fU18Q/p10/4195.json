@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A1q_mQIEYqg",
-            "title": "Teenagers Lost at Sea",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "UANwRPEFNTs",
             "title": "Fire at Las Vegas Hotel",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "FBI Accuses Ex-Police Detective of Being 'Snow Bird' Bank Robber",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "1qqZt4xzgeI",
+            "title": "President Obama Welcomed as Native Son During Trip to Kenya",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

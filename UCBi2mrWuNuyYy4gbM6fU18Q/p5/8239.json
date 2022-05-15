@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RdQaoWy6wnI",
-            "title": "David Letterman Goes from Comedy to Climate Change | ABC News",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "q1R1EGhlqUY",
             "title": "Donald Trump Causes Controversy at Town Hall | ABC News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "\"Cosby: The Women Speak” | Flight Attendant Tells Her Story",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "FaunmOWAsqA",
+            "title": "Bill Cosby Accused By Over A Dozen Women | \"Cosby: The Women Speak” Promo",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

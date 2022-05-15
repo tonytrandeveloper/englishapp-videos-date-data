@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EyjizUNG3sc",
-            "title": "President Donald Trump holds ‘Make America Great Again’ rally in Youngstown, Ohio",
-            "secondDuration": 3516,
-            "group": "group_7"
-        },
-        {
             "videoId": "s6f2n8ryW7o",
             "title": "Sen. John McCain returns for vote on health care, delivers remarks",
             "secondDuration": 2487,
@@ -121,8 +115,14 @@
             "title": "Comic-Con 2017 recap: ‘Avengers: Infinity War,’ ‘Justice League,’ ‘Thor: Ragnarok’ and more",
             "secondDuration": 1486,
             "group": "group_7"
+        },
+        {
+            "videoId": "YDE5Oj-MbNY",
+            "title": "Trump tells reporter to be 'quiet'",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MgAEmzP9OZs",
-            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "dydIAY1WJYQ",
             "title": "President Donald Trump Speaks At National Republican Congressional Committee Dinner | NBC News",
             "secondDuration": 3669,
@@ -61,8 +55,14 @@
             "title": "Officials Confirm A Package Exploded At Texas FedEx Facility | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "TxB2hv70SGE",
+            "title": "Police On Scene At School Shooting In Great Mills, Maryland | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

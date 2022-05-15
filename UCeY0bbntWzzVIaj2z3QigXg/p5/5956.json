@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atjCl-95TL4",
-            "title": "Need A Mental Health Day? One Woman’s Message Goes Viral | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUzW9Tg7Pis",
             "title": "United Airline’s New Plan To Deal With Overbooked Flights | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Christopher Wray Weighs In On Potential Loyalty Oaths, Illegal Political Requests | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-GfRGOGpas",
+            "title": "Christopher Wray FBI Nomination Hearing | NBC News",
+            "secondDuration": 16454,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VYGf4N_H_qo",
-            "title": "The Future of Self Driving Cars | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "AjMaZtZSLIo",
             "title": "Oscars 2016 | All White Actor Nominees",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Powerball Jackpot Winners | 3 Remain a Mystery",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7q_wkJgXhg",
+            "title": "Chicago Police Shooting Unarmed 17-Year-Old | NEW VIDEO RELEASED",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

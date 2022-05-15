@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GQN4On0K7-w",
-            "title": "Facebook CEO Mark Zuckerberg testimony on data privacy before Senate committee | ABC News",
-            "secondDuration": 22916,
-            "group": "group_7"
-        },
-        {
             "videoId": "bBVOS9RYk_I",
             "title": "7-year-old Texas girl just climbed Mt. Kilimanjaro as tribute to her late father",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Mark Zuckerberg: 'There will always be a version of Facebook that is free'",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "7uTUoG_0Cjs",
+            "title": "Sen. Lindsey Graham asks Facebook CEO if company needs government regulation",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lfHBWWddTAs",
-            "title": "President Donald Trump Speaks At A Campaign Style Rally In Mississippi | NBC News",
-            "secondDuration": 4534,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ue9O2NMsPWI",
             "title": "Manhunt Intensifies In Tennessee For Double-Murder Suspect | NBC Nightly News",
             "secondDuration": 75,
@@ -121,8 +115,14 @@
             "title": "Las Vegas Shooting Victims Honored With Memorials | NBC News",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "YU8OkP-UpF8",
+            "title": "Elon Musk Agrees To Pay $20 Million Fine In SEC Settlement | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

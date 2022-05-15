@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SIGNbSPKkHI",
-            "title": "The 'GMA' Rock Star Challenge",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "NdiUyC14_rc",
             "title": "Celebrities and Their Odd Name Changes",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "NASA: Satellite to Fall From Sky",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "hfBA1bctzQU",
+            "title": "Asian Tiger Mosquito Invades California",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

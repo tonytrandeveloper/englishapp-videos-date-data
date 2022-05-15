@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2DGrF747vSI",
-            "title": "Drone Video Captures Ecudaor Earthquake Aftermath",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "aHd74qfYtzw",
             "title": "Ted Cruz 'GMA' FULL Town Hall | Republican Candidate Cruz Answers Voter Questions",
             "secondDuration": 1838,
@@ -31,8 +25,14 @@
             "title": "John Legend, Chrissy Teigen Welcome Baby Daughter",
             "secondDuration": 23,
             "group": "group_7"
+        },
+        {
+            "videoId": "jo5yNRGtQZg",
+            "title": "Russian Fighter Jet Buzzes U.S. Air Force Reconnaissance Plane",
+            "secondDuration": 18,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

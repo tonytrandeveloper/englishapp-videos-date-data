@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HJouwx7ehRQ",
-            "title": "Manhunt Underway for Suspect in Terror Attack on Christmas Market in Germany",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Px90yTppv48",
             "title": "New York City Plans Security for Times Square on New Year's Eve",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "Berlin Attack: Warning Signs and Missed Signals",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "McGCZVT2I0g",
+            "title": "Good Samaritans Rescue Man Trapped in Burning Car",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

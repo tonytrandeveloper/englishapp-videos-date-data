@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LtHwpa2qvlk",
-            "title": "Jay-Z Vanity Fair Interview: Blue Ivy, Beyonce Discussed in Chat With Magazine",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "QSlbGQN2B40",
             "title": "Rebel Wilson Interview 2013: Star's 'Super Fun' Rise to Comedy Fame",
             "secondDuration": 258,
@@ -61,8 +55,14 @@
             "title": "Breast Cancer Awareness: ABC News Goes Pink",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "dylKU-DtnLs",
+            "title": "Detection Inequality: Disparity Among Breast Cancer Screening Access",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sC7THuzUJVU",
-            "title": "Trains crash into truck on tracks, killing 3 people",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5zlG0xyRxc",
             "title": "Trump has not addressed human rights issues in North Korea",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Trump-Kim 2nd summit, Cohen on the Hill, Maduro speaks out | ABC News",
             "secondDuration": 1633,
             "group": "group_7"
+        },
+        {
+            "videoId": "aN9Ys-KZA8Q",
+            "title": "Nicolas Maduro accuses US of fabricating a crisis",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

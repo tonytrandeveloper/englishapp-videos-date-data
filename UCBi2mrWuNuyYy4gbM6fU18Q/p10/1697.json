@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rV8rUEXGjhg",
-            "title": "Major winter storm hinders holiday travel on the West Coast",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "JN3skOu0EDk",
             "title": "Coast Guard searches for missing helicopter in Hawaii",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "ESPN reporter dies at 34",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "tz8eruY9HoE",
+            "title": "Trump responds to North Korea’s ominous ‘Christmas gift’",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

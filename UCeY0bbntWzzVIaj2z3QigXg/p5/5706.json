@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gpO408ju2Rw",
-            "title": "President Donald Trump Praises Las Vegas Police Department For Quick Response | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "qOVXbTh_DLA",
             "title": "President Donald Trump: We've Done 'A Great Job' In Puerto Rico | NBC News",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "Final Report Into Missing Flight MH370 Says Mystery Is 'Unacceptable' | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "E27ibcjeaGQ",
+            "title": "The Latino Techie Creator For Global Good | NBC Latino | NBC News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

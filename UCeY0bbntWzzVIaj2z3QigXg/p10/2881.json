@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DhJu38b-owc",
-            "title": "President Donald Trump Delivers Remarks From Joint Base Andrews (Full) | NBC News",
-            "secondDuration": 1305,
-            "group": "group_7"
-        },
-        {
             "videoId": "eoEMJNEGRMc",
             "title": "Kid Landscaper Mows White House Lawn, Meets Donald Trump | NBC News",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "Pop Star Selena Gomez Reveals Kidney Transplant | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kt-XscUkG7Y",
+            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

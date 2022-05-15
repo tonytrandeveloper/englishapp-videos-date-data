@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lCEhPrEvB9E",
-            "title": "Top Line: Countdown to GOP 2012",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "7KwLwYkrTnw",
             "title": "Top Line: Cheney, GITMO, Terror and Obama National Security",
             "secondDuration": 571,
@@ -31,8 +25,14 @@
             "title": "Top Line: Health Care Reform in 2010",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZHtSGErkLe8",
+            "title": "Top Line: GOP and Dem Strategists Go Head-to-Head",
+            "secondDuration": 587,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

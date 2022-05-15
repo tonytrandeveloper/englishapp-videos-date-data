@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZgJttuTbPmE",
-            "title": "Las Vegas Shooter Identified As Stephen Paddock | NBC News",
-            "secondDuration": 389,
-            "group": "group_7"
-        },
-        {
             "videoId": "-O0FRyOkV2M",
             "title": "'Girl Got Shot In The Side of Her Face:' Eyewitness Describes Las Vegas Shooting | NBC News",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "A Look At The Unlikely Resurgence Of Pinball In The Mobile Age | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "lPqdOihBEiU",
+            "title": "Looking Ahead To ‘Momentous’ Supreme Court Term | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

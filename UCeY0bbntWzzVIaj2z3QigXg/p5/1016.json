@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x2RIl4ZDyNw",
-            "title": "Hurricane Ida: Search And Rescue Underway In Louisiana",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "0FGJoxI8794",
             "title": "Secy. of State Blinken Holds Briefing on Afghanistan Withdrawal | NBC News",
             "secondDuration": 3175,
@@ -31,8 +25,14 @@
             "title": "Pentagon Announces Final U.S. Troops Have Withdrawn From Afghanistan",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9PcTOoFEkk",
+            "title": "Afghan Americans Protest For More Refugee Visas Amid Humanitarian Crisis",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

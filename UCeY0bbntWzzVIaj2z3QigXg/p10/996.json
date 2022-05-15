@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kp3tjFtAi98",
-            "title": "Cuomo: Indoor Dining Will Close In NYC Starting Monday | NBC News NOW",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "nZZjKUl5twc",
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5300,
@@ -61,8 +55,14 @@
             "title": "Over 100 House GOP Sign Brief Supporting Longshot Texas Lawsuit Challenging Election Results",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbqA0YPxS3Y",
+            "title": "Inside California ICU As Nation Sees Surge In Coronavirus Cases | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

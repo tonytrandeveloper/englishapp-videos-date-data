@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YAdaFvDF4h8",
-            "title": "Trump Made $619 Million According to New Campaign Documents",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "8HE3oyNhKH0",
             "title": "Nevada Democratic Convention Chaos Raises Security Concerns",
             "secondDuration": 156,
@@ -301,8 +295,14 @@
             "title": "Teen Skateboarder Taken Down by Tampa Police Officer",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZm1X4csCeo",
+            "title": "Warren Buffet's Firm Reveals $1 Billion Investment in Apple",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

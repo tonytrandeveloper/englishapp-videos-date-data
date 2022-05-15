@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Sju57mKHCxg",
-            "title": "Finding Your Secret Dream Home",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "KNMGvmlpFBI",
             "title": "Air Disaster: 11 People Survive Plane Crash in Taiwan",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Michael Sam Interview 2014: Gay NFL Player Says 'I'm Going Back to Work'",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "wrEP7plA8KU",
+            "title": "Malaysian Airlines Flight 17 Shot Down: Drama at Ukraine Plane Crash Site",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

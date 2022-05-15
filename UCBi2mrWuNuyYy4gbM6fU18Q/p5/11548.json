@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b0spXsPRAqk",
-            "title": "Summer Solstice: The Heat Is On",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "qfuWuoT6gZc",
             "title": "Kenny Chesney on Music, Love and Fame",
             "secondDuration": 320,
@@ -31,8 +25,14 @@
             "title": "Moderate Drinking During Pregnancy Safe?",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "EaSqmd6vtkA",
+            "title": "Prince William Turns 30, Inherits $14 Million",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

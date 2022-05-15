@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sJn88sKKC88",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2960,
-            "group": "group_7"
-        },
-        {
             "videoId": "qRqIFPmj2cE",
             "title": "Morning News NOW Full Broadcast - August 4 | NBC News NOW",
             "secondDuration": 2777,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – August 4 | Morning News NOW",
             "secondDuration": 1139,
             "group": "group_7"
+        },
+        {
+            "videoId": "KicdJ9egZ8w",
+            "title": "Wuhan To Begin Mass Covid Testing After Delta Variant Outbreak",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

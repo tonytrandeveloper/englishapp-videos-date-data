@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qWFanYD3cgo",
-            "title": "How To Survive A Mass Shooting | Better | NBC News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "gZ-iKrww8IM",
             "title": "Judge Rosemarie Aquilina Slams Larry Nassar’s Letter About Sentencing | NBC News",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Amazon Picks 20 Finalists For ‘HQ2’ Second Headquarters Location | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "x38PFzXmAKI",
+            "title": "Winter Weather Turns Deadly Across U.S. | NBC Nightly News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

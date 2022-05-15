@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "idNNzxlObvA",
-            "title": "New Footage Released in the Controversial Police Takedown in Fort Worth",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "u1ujUDzWFhQ",
             "title": "Trump's Alleged Voter Fraud Continues to Be a Top Issue",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "Trump on Obama's Letter: 'Beautiful' | Trump Interview with David Muir | ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKEz7_TlTZA",
+            "title": "Trump: The World Is a Mess | Trump Interview with David Muir | ABC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

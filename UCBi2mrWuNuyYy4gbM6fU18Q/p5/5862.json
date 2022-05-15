@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lswA6tWHI9w",
-            "title": "Man attempts to break into cockpit on American Airlines flight",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "tvyAQF6r5b0",
             "title": "New York Times reports that Trump said firing Comey relieved 'great pressure' from him",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "Anthony Weiner pleads guilty to federal obscenity charge",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dw3CylEtLtE",
+            "title": "Skateboarder pulls off extreme skating trick to propose",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9HW5_C_X0ag",
-            "title": "A secret memo written by President Trump's legal team has been leaked",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "faPz4Avqw1s",
             "title": "An out-of-control driver swerved into a little league baseball game in Maine",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Uber driver arrested for allegedly shooting passenger in self defense",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEfe3MBAZ4c",
+            "title": "'Queer Eye's' Fab Five on how Season 1's big moments will carry over to Season 2",
+            "secondDuration": 457,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

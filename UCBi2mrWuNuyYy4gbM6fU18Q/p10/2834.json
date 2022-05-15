@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YNMSesnCNlY",
-            "title": "Amazon hires thousands of people on the spot",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "j48kl0SCNgo",
             "title": "Spectacular catch brings crowd to their feet at Fenway Park",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Parents to sue school district over 12-year-old daughter's suicide",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvAF-Yu7APg",
+            "title": "Woman found buried in sand on Maryland beach",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

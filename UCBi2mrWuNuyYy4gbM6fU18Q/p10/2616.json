@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XnKrZyVd-zQ",
-            "title": "What makes the super blue blood moon unique?",
-            "secondDuration": 371,
-            "group": "group_7"
-        },
-        {
             "videoId": "GvKqlsPDLnY",
             "title": "Notable moments from Trump's State of the Union address",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "7 notable lines from Trump's 1st State of the Union address",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "vgpz8Au5C_k",
+            "title": "President Trump's 'four pillars' of new immigration plan",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gPb3eFO4CSE",
-            "title": "South Carolina Debate: Opponents Gang Up on Romney, Ron Paul Booed, Gingrich Applauded",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "tgHWuh0IiZo",
             "title": "Webcast: Italy Cruise Ship Sinking; Wikipedia Goes Offline",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Webcast: Boat Capsized in Italy; Martin Luther King, Jr. Memorial",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "_rjy9wek_yg",
+            "title": "Cruise Ship Sinking in Italy; 6 Bodies Found",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

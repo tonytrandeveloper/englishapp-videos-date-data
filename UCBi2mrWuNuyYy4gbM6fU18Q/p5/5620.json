@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0fTJIlEF6V4",
-            "title": "3 girls found dead in Maryland",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "UEw0QMW-jcY",
             "title": "Steve Bannon out at White House",
             "secondDuration": 253,
@@ -31,8 +25,14 @@
             "title": "Two sisters to work with NASA during solar eclipse",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "53ne-bSjn6U",
+            "title": "Spanish authorities say Barcelona attack could have been even worse",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

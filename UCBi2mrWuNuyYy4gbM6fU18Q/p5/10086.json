@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_SXOLsxSUrg",
-            "title": "New Spanx Line Promises A-Lister Curves Fit for Red Carpet",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "SLBJHlWQMaM",
             "title": "Buckingham Palace Walls Breached",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Marine Gets Beat Down Trying to Stop Bullying | Good Morning America | ABC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "wsX6tsSSVH0",
+            "title": "Arsenic in Rice Poses Potential Health Concern",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

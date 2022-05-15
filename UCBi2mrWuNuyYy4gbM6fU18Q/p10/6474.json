@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kDlxVonm50E",
-            "title": "Americans Reach Out",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "a0gwU2GKiW8",
             "title": "Top Line: Republican from California Discusses GOP 2010",
             "secondDuration": 481,
@@ -61,8 +55,14 @@
             "title": "Will Conan Stay at NBC?",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "YK468IxNoBM",
+            "title": "Jake Tapper on Sarah Palin's Fox Debut",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

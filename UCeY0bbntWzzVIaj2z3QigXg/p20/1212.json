@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cmmiRf15qsk",
-            "title": "Houston Police On Cardiologist Killer: ‘The Suspect’s Deceased' | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "g-Y3uv-hKxs",
             "title": "Heavy Rain In Virginia Causes Flooding, Possible Dam Failure | NBC News",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Thousands Of Homes Under Threat As California Wildfires Continue To Blaze | NBC Nightly News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "iclpEmivA4U",
+            "title": "LAPD: Body Cam Footage Of Officers Fatally Shooting Hostage, Knife-Wielding Man | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

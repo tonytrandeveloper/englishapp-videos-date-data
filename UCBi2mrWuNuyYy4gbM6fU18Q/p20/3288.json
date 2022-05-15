@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ugYE3djp09Y",
-            "title": "When Animals Attack",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEjJKmDebRM",
             "title": "Obama Opponent Speaks Out",
             "secondDuration": 231,
@@ -121,8 +115,14 @@
             "title": "What's Happened to Civility?",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mk6lm9FighI",
+            "title": "How to Disappear in the Digital Age",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

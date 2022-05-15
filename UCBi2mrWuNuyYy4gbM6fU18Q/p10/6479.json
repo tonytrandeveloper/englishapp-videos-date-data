@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UgxLSAPvW9w",
-            "title": "Top Line: What's Big for 2010: Yemen, Jobs, Elections",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mu6SGD6sHDI",
             "title": "Negotiations Begin on Health Care Bill",
             "secondDuration": 421,
@@ -61,8 +55,14 @@
             "title": "What's Hot at the Consumer Electronics Show",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "L1eagJ1IwGs",
+            "title": "Baby Panda Makes His Public Debut",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

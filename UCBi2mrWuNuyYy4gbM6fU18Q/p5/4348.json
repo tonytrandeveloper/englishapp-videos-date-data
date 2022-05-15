@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X1_8ZAtX_Mg",
-            "title": "Man released from prison after 35-year sentence for drug offense attends SOTU",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iv1yvOpqb7g",
             "title": "Woman released from life sentence joins Trump at State of the Union l SOTU 2019",
             "secondDuration": 285,
@@ -31,8 +25,14 @@
             "title": "Federal prosecutors probing Trump's inaugural committee",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ou06oAUTv2U",
+            "title": "White House: Trump's speech to call for unity, bipartisanship",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yMsoOmSmazs",
-            "title": "Dental Scare Leaves Thousands at Risk of HIV",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9rTOBV7_RY",
             "title": "The Price of Clean Air: Lowering Car Pollution May Raise Gas Prices",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Orphaned Gorilla Gets Help From Human Touch",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Ss9U2y9kfo",
+            "title": "Real Money: Cut Back Big Bucks on Medical Bills",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

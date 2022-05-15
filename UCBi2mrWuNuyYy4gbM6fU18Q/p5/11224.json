@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WRbdZDu8LVM",
-            "title": "Half of This US Company's Customers Are In China | Made in America",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "kCEj45Kak-Y",
             "title": "Libya Attack Investigated: Were Deaths Preventable?",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "48 Hours in Solitary Confinement: 'It Is a Very Lonely Feeling'",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "0y-0jT0waq4",
+            "title": "In Solitary Confinement, 'the Screaming Starts'",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cZYqizAvJa8",
-            "title": "Ex-Juul executive sues over allegedly contaminated pods l ABC New",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nJWvdZpTXo",
             "title": "Informant helped bring down ISIS leader: Report l ABC News",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: WH official testifies in impeachment inquiry, Boeing CEO testifies on 737 MAX crashes",
             "secondDuration": 1679,
             "group": "group_7"
+        },
+        {
+            "videoId": "VHe328nv4Hk",
+            "title": "Protests in Iraq, Hindu celebrations, California wildfires: World in Photos, Oct. 29",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

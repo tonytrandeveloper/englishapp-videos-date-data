@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "160lLLv9cvY",
-            "title": "Grand Princess Cruise Ship Expected To Dock Monday After Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "sbe6fEij_WQ",
             "title": "New York Governor Cuomo Makes Coronavirus Announcement | NBC News (Live Stream Recording)",
             "secondDuration": 3583,
@@ -121,8 +115,14 @@
             "title": "Gov. Andrew Cuomo Holds Coronavirus Press Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 2689,
             "group": "group_7"
+        },
+        {
+            "videoId": "JqOQ59FfEBA",
+            "title": "SpaceX Launches Last First-Generation Dragon Capsule To ISS | NBC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

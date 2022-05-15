@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z9P0u3RODlU",
-            "title": "500 Elephant Relocations Underway in Africa",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "QEqyRmoJNrc",
             "title": "Donald Trump Arrives by Helicopter to the Republican Convention",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Melania Trump's Speechwriter Apologizes, Trump Rejects Resignation",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fc1EZD3Dnhk",
+            "title": "Teen Dies in Dad's Arms After Shooting",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

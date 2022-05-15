@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ugp_QluPos4",
-            "title": "Too Young To Remember: How Kids Comprehend 9/11 | NBC News",
-            "secondDuration": 421,
-            "group": "group_7"
-        },
-        {
             "videoId": "2nQ4nLDvgy4",
             "title": "9/11: Looking Back on the Day the World Changed 15 Years Later | NBC Nightly News",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "Oregon Activists Vow To Live In Trees To Protect Them | NBC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "07OMAKo4goM",
+            "title": "Dozens Stuck 10,000 Feet Over The Alps Overnight | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

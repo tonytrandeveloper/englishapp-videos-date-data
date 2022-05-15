@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TcJmzbzfXGg",
-            "title": "Try These Hacks For A Better, Cleaner Kitchen | Better | NBC News",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "garr_rOTy3Y",
             "title": "President Donald Trump Changes Course, Says Border Wall Could Cost $15 Billion | NBC News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Trump Addresses Project Safe Neighborhoods National Conference | NBC News",
             "secondDuration": 1569,
             "group": "group_7"
+        },
+        {
+            "videoId": "6muWK4VMbEI",
+            "title": "Listen To A Historic Broadcast From The Attack On Pearl Harbor | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

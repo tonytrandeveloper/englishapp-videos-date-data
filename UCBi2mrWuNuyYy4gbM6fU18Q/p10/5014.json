@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sJImbTsbURw",
-            "title": "Washington, DC Synagogue Helps Furloughed Workers",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "wfmNJygimAI",
             "title": "Mia Farrow's Bombshell: Son's Father 'Possibly' Frank Sinatra",
             "secondDuration": 499,
@@ -61,8 +55,14 @@
             "title": "Popular Dating Website Allows Users to Pay to Filter Candidates",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "LtHwpa2qvlk",
+            "title": "Jay-Z Vanity Fair Interview: Blue Ivy, Beyonce Discussed in Chat With Magazine",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

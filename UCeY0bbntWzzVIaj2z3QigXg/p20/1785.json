@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hut2uOe1lt8",
-            "title": "WATCH: Racing Yacht Runs Aground | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "hlACgJX4mW4",
             "title": "Al Qaeda vs ISIS: A Fight For Headlines | NBC News",
             "secondDuration": 73,
@@ -121,8 +115,14 @@
             "title": "Orion Deep-Space Capsule Blasts Off | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "a4ADZBjjfiw",
+            "title": "Eric Garner Case: Feds Investigating Excessive Force | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-t_EhKU71uc",
-            "title": "Cosby accusers speak out after guilty verdict",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "pwojfciXfVs",
             "title": "North Korea, South Korea agree to end war",
             "secondDuration": 249,
@@ -31,8 +25,14 @@
             "title": "Parents reunite with 911 dispatcher who helped deliver baby over the phone",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "iPKKfzy4Z4I",
+            "title": "Trump blasts the Justice Department in televised phone interview",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

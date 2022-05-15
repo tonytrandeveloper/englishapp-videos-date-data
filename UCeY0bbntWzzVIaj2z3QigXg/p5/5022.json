@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vB6Q9XJ50H4",
-            "title": "Israeli Security Firm Allegedly Targeted U.S. Officials | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "LuIUEXoUgvA",
             "title": "Teacher Hailed A Hero After Indiana School Shooting | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Timeline Of Indiana School Shooting That Injured Two | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "sUsNDcOUO3M",
+            "title": "Oklahoma Restaurant Shooting, Shooter Killed By Civilians | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

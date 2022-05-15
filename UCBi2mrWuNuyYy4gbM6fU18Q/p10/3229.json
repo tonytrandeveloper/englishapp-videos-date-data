@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QzeJzwObWsE",
-            "title": "NYC Murder Mystery | 2 Suspects to Appear in Court",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZnnPjRpdWk",
             "title": "4 Officers Shot Overnight",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "Speculation Grows Over Possibility of Mitt Romney Joining the Trump Administration",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "TupDi5H5KcM",
+            "title": "Kansas Mother Murdered, Baby Snatched Then Found",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

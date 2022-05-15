@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9yS25j7t-Yk",
-            "title": "How Much Power Do The Latest Russian Indictments Hold? | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "hhhhoOD9gqE",
             "title": "President Donald Trump Warns Immigration Is ‘Changing The Culture’ Of Europe | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Rod Rosenstein Details The Extent Of Russians’ Hacking In 2016 Election | NBC News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "K4IWbCEqPiQ",
+            "title": "President Donald Trump Meets Queen Elizabeth II | NBC News",
+            "secondDuration": 2777,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

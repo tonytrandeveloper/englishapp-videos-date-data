@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HdAd3NJBaK0",
-            "title": "Gary Vaynerchuk | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 719,
-            "group": "group_7"
-        },
-        {
             "videoId": "ISjBFQ8zito",
             "title": "'Bad Santa' Now a Sad Santa, Family Says",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Trump Meets With Paul Ryan",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXziZVVPisg",
+            "title": "Harassment Women Face While Going for a Run",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

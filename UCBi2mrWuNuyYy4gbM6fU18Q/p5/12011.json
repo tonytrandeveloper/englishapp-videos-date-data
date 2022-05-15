@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tqfEuuJ1LwY",
-            "title": "Webcast: Elisabetta Canalis; U.N. Shoving Match; Iran/U.S. Coast",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "TU0_MIfOj6Q",
             "title": "America's Money: Hallmark Layoff Cards; Home Prices; Health Care Premiums",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Conrad Murray Trial Under Way",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "bnU5ayjcmoQ",
+            "title": "Chris Christie Dodges Question on Presidential Run",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

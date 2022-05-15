@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K9ItQohDzrA",
-            "title": "House Judiciary Committee debates articles of impeachment | ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "CGTmWcbYURo",
             "title": "Harvey Weinstein inks $47M settlement without admitting wrongdoing l ABC News",
             "secondDuration": 287,
@@ -31,8 +25,14 @@
             "title": "Jersey City shootout was a ‘targeted’ attack",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "40zbLCKRXE4",
+            "title": "Harvey Weinstein reaches civil settlement with accusers",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

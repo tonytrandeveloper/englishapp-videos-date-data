@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "la-YvkZc_jA",
-            "title": "'Treasure' found during Apollo 11 Mission Control restoration",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "UyJMOcNHo3Y",
             "title": "The Briefing Room: Trump tweets, 2020, Mueller Preps, Apollo 11 50th Anniversary",
             "secondDuration": 1883,
@@ -61,8 +55,14 @@
             "title": "The Debrief: US braces for heatwave, Trump on ‘send her back’ chant, US-Iran tensions | ABC News",
             "secondDuration": 2576,
             "group": "group_7"
+        },
+        {
+            "videoId": "bROjmfQIw6I",
+            "title": "Tom Cruise surprises fans with 'Top Gun: Maverick' trailer | ABC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

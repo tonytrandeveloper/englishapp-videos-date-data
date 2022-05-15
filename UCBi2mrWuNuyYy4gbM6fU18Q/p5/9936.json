@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yiQ4THK5qV8",
-            "title": "Typhoon Haiyan: U.S. Military Arrives in Devastated Area",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5QOi1H1hlw",
             "title": "WEBCAST: Super Typhoon Haiyan's Destruction",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Stargazers Watch Earthbound Satellite Make Fiery Reentry",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJ8D-PoqpY4",
+            "title": "Super-Typhoon Cuts Trail of Destruction in Philippines",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

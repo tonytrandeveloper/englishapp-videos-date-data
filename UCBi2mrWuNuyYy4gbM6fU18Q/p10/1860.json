@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fKn-9pOtU28",
-            "title": "Honoring the victims and the families forever changed on 9/11",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "vLUQ6xGy-vI",
             "title": "White House moves to ban certain e-cigarettes",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "US led coalition drops explosives on ISIS in Iraq l ABC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "EhpRulW4iwU",
+            "title": "NFL star Antonio Brown accused of sexual assault l ABC News",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

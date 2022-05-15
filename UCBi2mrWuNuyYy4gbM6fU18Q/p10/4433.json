@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PmByq-3hsnk",
-            "title": "Boston Mayor Addresses Harsh Winter Conditions",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "rZ17SNxq9Wo",
             "title": "Hollywood’s Biggest Stars Fight to Keep Mega Mansions",
             "secondDuration": 205,
@@ -61,8 +55,14 @@
             "title": "Woman Lives in Apartment with Ex-Husband and New Husband",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "KR08rgBB90w",
+            "title": "Real Estate Agent Attacked by Client",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1rJUHrjWNaw",
-            "title": "J.R. Martinez, \"Dancing With the Stars\" Winner, Karina Smirnoff Dance Cha-Cha on \"GMA\"",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "gOGdggp1yCE",
             "title": "Webcast: Turkey Fryer Warning; Turkey Eating Champ; Chopper Crash",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "GOP Debate 2011 Recap in 60 Seconds",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "gt54Zb4mMc8",
+            "title": "Flying First Class for Free",
+            "secondDuration": 355,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

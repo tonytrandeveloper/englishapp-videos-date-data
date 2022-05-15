@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hHejRaFHr3o",
-            "title": "Passenger Ejected From SUV During High-Speed Chase",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y3j8cJhDXfU",
             "title": "Gretchen Carlson Opens Up on Roger Ailes Harassment Suit",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "MLB All Star Game | All Lives Matter Slipped into Canadian Anthem",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "QJbpo0-n0Yk",
+            "title": "Bernie Sanders Explains Endorsement of Hillary Clinton",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

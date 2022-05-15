@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ia7cRGd5EAQ",
-            "title": "Hear Omar Mateen's 911 Call",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "iIPNRaUfPa8",
             "title": "Actor Anton Yelchin Dies From a Car Crash at His Own House",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Newtown Elementary School Shooting Victim's Daughter on Gun Control",
             "secondDuration": 497,
             "group": "group_7"
+        },
+        {
+            "videoId": "jeH6X3851Ko",
+            "title": "Ex-Vanderbilt Football Player Found Guilty of Rape",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

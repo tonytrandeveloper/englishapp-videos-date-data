@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bZVOojNkXuQ",
-            "title": "Hantavirus Found in 'Hoarders' Home: Infection Causes Quarantine of House Featured on Show",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "0kZ52EHeJB4",
             "title": "Back to School: Mom Dances in 'Celebration' at Kids' Bus-Stop",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Kristen Chenoweth Returns to TV After Head Injury",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "DEMIovVjJ7M",
+            "title": "Obama, Romney Spar Over August Job Numbers",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

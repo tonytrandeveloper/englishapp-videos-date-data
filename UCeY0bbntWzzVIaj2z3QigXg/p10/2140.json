@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eAMveJvAC90",
-            "title": "New York City Bicyclist Attacks Uber Driver, Jumps On Top Of Car | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "27IQAqV0Yw0",
             "title": "Watch Live: House Speaker Pelosi Holds Weekly News Conference | NBC News",
             "secondDuration": 1916,
@@ -61,8 +55,14 @@
             "title": "Bryan Singer Faces New Allegations Of Sex With Underage Boys | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ezyecugOITw",
+            "title": "Meek Mill Talks New Criminal Justice Reform Organization | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

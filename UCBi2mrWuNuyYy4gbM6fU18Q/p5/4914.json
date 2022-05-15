@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rz546XFrfL0",
-            "title": "Former Trump homeland security adviser talks North Korea meeting",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "p5rFq2zaKr8",
             "title": "Trump, Kim Jong Un sign unspecified document at historic summit",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Bilateral meetings begin between Kim Jong Un, Trump",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACes5mv-ouA",
+            "title": "Kim Jong Un, Trump shake hands, make history",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O0bmI7-LSHk",
-            "title": "Where Is Somer? Amber Alert Issued",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "RxmofPU_6H0",
             "title": "A Robber's Change of Heart",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Obama Courts Financiers for DNC Dollars",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "HFLn_Q9ewrg",
+            "title": "Top Line: Poll Shows Americans Want Public Option",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

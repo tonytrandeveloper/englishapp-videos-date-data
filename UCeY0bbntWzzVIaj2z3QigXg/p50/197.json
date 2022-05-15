@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nvSsuxYeJs8",
-            "title": "Biden Introduces Nominee For Education Secretary | NBC News",
-            "secondDuration": 1600,
-            "group": "group_7"
-        },
-        {
             "videoId": "jEPhYsp0K-k",
             "title": "Biden Aides Consider Using Defense Production Act For Covid Vaccine Distribution | NBC News NOW",
             "secondDuration": 289,
@@ -301,8 +295,14 @@
             "title": "Mounting Criticism Of Chicago Mayor Over Botched Police Raid | NBC Nightly News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "r4nRU6jrRfk",
+            "title": "Central CA Reaches Zero Percent ICU Capacity, Leaving 27 Million Vulnerable | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

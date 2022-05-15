@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kVdCnHXU39g",
-            "title": "President Donald Trump and Emmanuel Macron Have Marathon Handshake | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-ON3HT1PLI",
             "title": "Syrian Rocker Refugee Finally Get The Keys To His New Life | NBC News",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "Senate Healthcare Bill: Third Version Released Thursday | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "lsgVMIVmzP4",
+            "title": "Jared Kushner's Security Clearance: Democrats Push For Revocation | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

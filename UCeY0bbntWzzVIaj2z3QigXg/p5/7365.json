@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4UFstl8vh9E",
-            "title": "Rockefeller Center Christmas Tree 2010",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "gyuAH0RWV4s",
             "title": "NBC News Election 2010",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "MSNBC: Ed Schultz",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "aCKyU-BYQSk",
+            "title": "MSNBC: Lawrence O'Donnell",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

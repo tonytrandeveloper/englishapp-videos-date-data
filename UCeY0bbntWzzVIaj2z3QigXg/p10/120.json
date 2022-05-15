@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t8pXgJakkjM",
-            "title": "January 6 Committee Subpoenas Trump Jr. Fiancée Kimberly Guilfoyle",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "VLqattbz_k8",
             "title": "U.S. Working With Ukraine’s Cyber Defenses To Prepare For The Worst Against Russia",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Putin: ‘Russian Soldiers And Officers Are Acting Bravely, Like True Heroes'",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ikiE3xH1Wms",
+            "title": "White House Holds Press Briefing: March 3 | NBC News",
+            "secondDuration": 2449,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

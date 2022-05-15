@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6soanMR4yWc",
-            "title": "Donald Trump's Latest Rant on Twitter Goes Nuclear",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "dN9PvWEZyLA",
             "title": "Passenger Removed from Flight After Allegedly Harassing Ivanka Trump",
             "secondDuration": 446,
@@ -61,8 +55,14 @@
             "title": "Google Accused in Lawsuit of Silencing Employees",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "BwgcG4LZXKc",
+            "title": "NC Lawmakers Fail to Repeal HB2 'Bathroom Bill'",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

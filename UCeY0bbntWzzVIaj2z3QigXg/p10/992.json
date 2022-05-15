@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MIMXxUdgLoU",
-            "title": "Biden Delivers Remarks On Electoral College Vote Certification | NBC News",
-            "secondDuration": 1108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kvaejw0tLP8",
             "title": "Backlash Over Op-Ed Criticizing Jill Biden For Using The Title ‘Dr' | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "New York Gov. Andrew Cuomo Denies Former Aide’s Sexual Harassment Allegations | NBC News NOW",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "8fvKJGwIdQI",
+            "title": "Stacey Abrams Speaks After Georgia's Electors Cast Votes For Biden | NBC News NOW",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

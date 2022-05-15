@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eysjLqQ5tDI",
-            "title": "White Yale student calls police on black student",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "O3qvcEzfmR0",
             "title": "'Golden State Killer' suspect faces more charges",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Trump reveals date and location of historic summit with NK leader",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hdd6kJ4pKlQ",
+            "title": "Grandmother deported from US says she harvests poppy in Mexico for money",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

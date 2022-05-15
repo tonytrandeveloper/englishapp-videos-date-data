@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XadZbZmx8rA",
-            "title": "Hillary Clinton Tries to Shift Campaign Tone",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "N8NDmmiuBhQ",
             "title": "Fatal Halloween Hayride Collision",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Kasich Snubs Trump With Write-In Vote for McCain",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "De4wDn6EVMQ",
+            "title": "What is a Contested Election? | America 101",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IrYjyzYBY2M",
-            "title": "Judge releases New Mexico suspects arrested on child abuse charges",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "gB8nBDHE5N8",
             "title": "Trump responds to Omarosa, after she releases audio she says is of the President",
             "secondDuration": 491,
@@ -31,8 +25,14 @@
             "title": "Shooter in 'stand your ground' case arrested on manslaughter charge",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "0aVlBIJkDQ0",
+            "title": "Airport security questions raised after man crashes plane near Seattle",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8-XBxtXVgqo",
-            "title": "Kavanaugh, Ford to testify amid new allegations",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGqC_SEbApA",
             "title": "Trump calls accusations against Kavanaugh a 'con job'",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "'The Briefing Room': Trump at the UN, Kavanaugh Accusations | ABC News",
             "secondDuration": 1528,
             "group": "group_7"
+        },
+        {
+            "videoId": "61PPhs52S4M",
+            "title": "Trump backs two-state solution for Israeli-Palestinian conflict",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

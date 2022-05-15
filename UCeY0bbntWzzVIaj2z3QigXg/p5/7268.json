@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uQjOtFBvZuI",
-            "title": "Erica Hill: \"For student success, I believe it takes...\"",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1JRTPj6DlU",
             "title": "Jeb Bush: \"For student success, it takes...\"",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "Chelsea Clinton: \"For student success, I believe it takes...\"",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "fcbaJ23icdo",
+            "title": "Anant Agarwal: \"For student success, it takes...\"",
+            "secondDuration": 12,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

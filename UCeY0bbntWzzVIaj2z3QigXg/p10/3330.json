@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9VrM1lA24T0",
-            "title": "A Year Later Activists Still Say Sandra Bland's Name | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "d0pHyI82un0",
             "title": "Chuck Todd: Donald Trump's Mike Pence Pick 'Pragmatic, Political' | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Life Stories: 'Top Chef' Winner Kristen Kish | NBC Asian America",
             "secondDuration": 364,
             "group": "group_7"
+        },
+        {
+            "videoId": "xmDZhwSa_lI",
+            "title": "Syrian President Bashar Al-Assad Defends Record In Country’s Civil War | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

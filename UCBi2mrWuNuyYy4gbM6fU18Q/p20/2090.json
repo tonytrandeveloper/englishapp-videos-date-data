@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hN6V8M4G4Kc",
-            "title": "Jon Stewart Prepares to Signoff One Last Time",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "8LyY0zWXh4k",
             "title": "Taylor Swift Shakes Off Ambush by Rabid Fan",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Shutting Down Stereotypes | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "CTnEykjXL6o",
+            "title": "Kermit & Miss Piggy Are Over | ABC News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

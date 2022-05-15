@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MSKdcuzFw9E",
-            "title": "IDF Spokesperson Comments On Civilian Deaths | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "vWRuSaLPKTs",
             "title": "Why Can't Some Beers Cross State Lines? | Show Me | NBC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Hamas Fires On Israel After Ceasefire | NBC News",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "YYrny7pQvYg",
+            "title": "Moscow Subway Derails: Raw Footage | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bK2k8Yw-XWo",
-            "title": "Dog rescued by US Coast Guard",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "lxyiZZiTnBA",
             "title": "FBI scours for evidence in high-speed chase",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Athletes defend NFL announcer suspended after racist on-air comment l ABC News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "KTW5_w43xHw",
+            "title": "Husband in controversial Peloton ad speaks out l ABC News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

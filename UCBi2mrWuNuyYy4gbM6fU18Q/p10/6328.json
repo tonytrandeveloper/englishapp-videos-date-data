@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eJFxgZocdDs",
-            "title": "Synchronized Bombs Kill 74",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "AgMJSsuuLlw",
             "title": "Weight Loss Pills Under Fire",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Interview With David Axelrod (Part 2)",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1JcDXQMPI4",
+            "title": "News You Missed: 'A Double Rainbow!'",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

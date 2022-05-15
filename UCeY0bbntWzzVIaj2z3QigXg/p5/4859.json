@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p231DtNjTrg",
-            "title": "Heatwaves: Everything You Need To Know To Stay Safe | Better | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xvh-D2hD3lU",
             "title": "Jeff Sessions Announces New Religious Liberty Task Force | NBC News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "NASA's 60th Anniversary: Some Of The Space Agency's Greatest Achievements | Mach | NBC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "ps8Tb7_nxfo",
+            "title": "Facial Recognition And Law Enforcement: Are We Ready? | Mach | NBC News",
+            "secondDuration": 307,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

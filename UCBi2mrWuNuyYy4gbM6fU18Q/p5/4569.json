@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DEFRwrZGry4",
-            "title": "Man describes how he stopped shooter in Florida yoga studio",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQ355BgJyrY",
             "title": "Georgia gubernatorial race roiled by claims of hacking, voter suppression, racism",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Violent brawl between teacher and student in California classroom",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "buFmaWeLZ8I",
+            "title": "Mom strangled to death by her own teenage son",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

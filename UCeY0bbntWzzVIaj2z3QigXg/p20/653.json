@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XInKfVKHXU0",
-            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
-            "secondDuration": 2250,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2opIG82AtY",
             "title": "Into the Kentucky Primary | Into America Podcast – Ep. 32 | NBC News and MSNBC",
             "secondDuration": 1088,
@@ -121,8 +115,14 @@
             "title": "Nearly 100 Workers Test Positive For Coronavirus At Minnesota Amazon Warehouse | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "fJCIk4OT7EE",
+            "title": "Trump Speaks To Arizona Youth | NBC News",
+            "secondDuration": 5654,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

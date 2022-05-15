@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "srZQ0xcJkJQ",
-            "title": "Jeff Flake: Republican Party Doesn’t Have To Be The ‘Party Of Trump’ | Meet The Press | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "69x4rRN7X3w",
             "title": "Hunting For Ghost Gear: What Happens When Fishing Nets Go Rogue | NBC News",
             "secondDuration": 365,
@@ -121,8 +115,14 @@
             "title": "White House: No Meeting With North Korea Until We See ‘Concrete Actions’ | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "c7mN9uOA2j0",
+            "title": "Charges Announced In Deadly Birmingham Classroom Shooting | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

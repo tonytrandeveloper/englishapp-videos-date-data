@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YZ8S8DKZE0E",
-            "title": "Nevada Democratic Caucus Results Are Coming In | ABC News",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5S6gWP79FY",
             "title": "Hillary Clinton, Bernie Sanders Battle to Win Nevada Caucus",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "Scalia Laid to Rest",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "8e90mnL7j5s",
+            "title": "GOP Candidates Await South Carolina Primary Outcome",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hs8-SfR6raI",
-            "title": "Record-Breaking, Dangerous Heat Blankets the Southwest US",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "ajomz5WCCHc",
             "title": "Senate John McCain and Republicans Keep Health Care Bill Secret Ahead of Vote | NBC News",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "US Navy Identifies Seven Soldiers Killed In USS Fitzgerald Crash Off Japan | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "eTeGdZFlX30",
+            "title": "American Otto Warmbier Dies After Being Released By North Korea | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

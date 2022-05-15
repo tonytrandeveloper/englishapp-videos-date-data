@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VsBt-OSkSz0",
-            "title": "The Conversation: Redefining Beautiful",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "bdx95EnWkms",
             "title": "Family Campaigns to Eliminate the Word 'Retarded'",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Nick Hogan on Life After the Accident",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "_RMbE3DoFsE",
+            "title": "New York Times' Kate Zernike on 'Top Line'",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

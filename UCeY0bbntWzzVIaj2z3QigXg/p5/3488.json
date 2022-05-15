@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HV03RZx9xi8",
-            "title": "Joe Biden On Health Care And ‘What Matters’ Most To 2020 Voters | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "sNCvWFC1m8E",
             "title": "Where The 2020 Candidates Stand On Israel | NBC News Now",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Saudi Arabia’s Ties To Corporate America | NBC News Now",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "JDlD94jEyCw",
+            "title": "Fact Check: Trump Tweet Calls Some DACA Recipients Criminals | NBC News Now",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

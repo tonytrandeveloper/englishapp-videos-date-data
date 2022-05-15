@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nbT5Q1ZEUxg",
-            "title": "NBC Nightly News Broadcast (Full) - August 7th, 2021",
-            "secondDuration": 794,
-            "group": "group_7"
-        },
-        {
             "videoId": "Da42HHYAPkA",
             "title": "More Than 1,000 Evacuated Due To Wildfires in Greece",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Cuomo's Attorneys Respond to AG Report On Sexual Harassment Allegations",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "CbDurA4U70s",
+            "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nDUGYNEjK8g",
-            "title": "Chinese Soldiers Play Hot Potato",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "CattX4r0swc",
             "title": "How SEAL Team 6 Recued Somali Hostages",
             "secondDuration": 326,
@@ -31,8 +25,14 @@
             "title": "Andy Samberg Goes \"En Vogue\" at Sundance",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "Oi8Stl4UvP4",
+            "title": "American Hostage Rescued in Overnight Somalia Raid",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

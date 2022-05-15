@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u8oVrCC9W1I",
-            "title": "President Donald Trump awards Medal of Honor to Staff Sgt. Ronald J. Shurer | ABC News",
-            "secondDuration": 1347,
-            "group": "group_7"
-        },
-        {
             "videoId": "MflNCcdnPI8",
             "title": "President Trump delivers remarks on new trade deal with Mexico, Canada  | ABC News",
             "secondDuration": 4803,
@@ -61,8 +55,14 @@
             "title": "Military dad surprises son at school pep rally",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rr6Xi9ERR6s",
+            "title": "Graham: 'I have a lot of sympathy' for Ford but 'allegations did not hold up'",
+            "secondDuration": 734,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-TjPLGDfD6w",
-            "title": "NBC News’ Richard Engel Reveals His Son’s Heartbreaking Medical Journey | NBC Nightly News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "wi88DTE2BDw",
             "title": "Scramble For Vaccines Amid Flu Emergency | NBC Nightly News",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "White House Reviewing Memo That Alleges Bias In FBI And Justice Department | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToN4aNrIZBo",
+            "title": "State Of The Economy Ahead Of Donald Trump’s Speech | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

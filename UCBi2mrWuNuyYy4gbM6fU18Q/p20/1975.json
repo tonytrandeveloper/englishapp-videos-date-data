@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KniWVRi4Gsc",
-            "title": "The Power of Made in America All Over the World",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSS1WvEV5Kk",
             "title": "Justice for Granny: Oklahoma Ex-Cop Gets Life in Prison",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "'GMA' Hot List: Spike Lee Live, Michael Strahan Learns to Dance",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "kUV1zLdV0GI",
+            "title": "Spike Lee on Oscars Outrage: 'I'm Going to the Knicks Game'",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

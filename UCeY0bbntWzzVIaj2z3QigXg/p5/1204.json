@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PbBRM6wDvHI",
-            "title": "Pope Francis Appears In Public For First Time Since Major Surgery",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "y6Cspcb6hCQ",
             "title": "Highlights From Richard Branson’s Virgin Galactic Flight Into Space",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Extreme Weather Dominates 2021 As Washington Stalls On Climate",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "nKUoUwr_WVU",
+            "title": "Republicans Follow A ‘Winning At All Costs’ Strategy Into The Midterms",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

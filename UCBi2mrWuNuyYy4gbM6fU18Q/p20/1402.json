@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ac4w5dZBkHs",
-            "title": "Gulf Coast states brace for Tropical Storm Harvey",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UUEjlJ2l7w",
             "title": "'Jenny Jones Show' murder convict released from prison",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "Navy removes commander of 7th Fleet following string of accidents",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "RGf0uINmzOs",
+            "title": "Natalee Holloway's father talks about a shocking discovery in her disappearance",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

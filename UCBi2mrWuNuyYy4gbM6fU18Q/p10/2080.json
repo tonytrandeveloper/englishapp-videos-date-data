@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "510gcPbkQEU",
-            "title": "4 Americans killed in Sri Lanka attack",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "wicWirh_Z8E",
             "title": "Sanjiv the tiger attacks zookeeper",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Increased security at US churches in wake of Sri Lanka",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Hx8D913AHE",
+            "title": "Terrorist attack in Sri Lanka leaves more than 200 dead",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

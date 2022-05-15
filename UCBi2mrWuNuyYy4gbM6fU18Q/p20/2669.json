@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6tEwiImxaBo",
-            "title": "Terrorist Attack on American Embassy in Turkey",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "XnN0BV1B3pg",
             "title": "Convicted Murderer Mistakenly Released From Jail Recaptured",
             "secondDuration": 26,
@@ -121,8 +115,14 @@
             "title": "Super Bowl 47: Brother Against Brother",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "UO4oFzij1qw",
+            "title": "Accidents Involving Big Rigs on the Rise",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

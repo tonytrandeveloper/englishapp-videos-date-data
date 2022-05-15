@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e0vu1Wv71aE",
-            "title": "Meet Tyrone Magnus, YouTube 'Reactor' | NBC News",
-            "secondDuration": 306,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCj1HpFHLIA",
             "title": "Inside El Chapo's Escape Tunnel | NBC Nightly News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Watch Scott Walker Give Same Speech Over And Over | Meet The Press | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "zitZGDJcHAU",
+            "title": "Trump vs. Trump: Evolving Positions Over The Years | Meet The Press | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

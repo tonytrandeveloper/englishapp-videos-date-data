@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TU93JzPLsMo",
-            "title": "Emergency Medicine Doctor: Johnson & Johnson Vaccine Can Turn Covid Into Common Cold | NBC News NOW",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "8PpCj3o7V30",
             "title": "NBC News NOW Full Broadcast - Feb. 26, 2021 | NBC News NOW",
             "secondDuration": 3008,
@@ -301,8 +295,14 @@
             "title": "Ghana Receives First Covid Vaccine Doses Through COVAX | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "qJY5AaXf6vE",
+            "title": "Texas Gov. Abbott Delivers Address On Power Outages | NBC News",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

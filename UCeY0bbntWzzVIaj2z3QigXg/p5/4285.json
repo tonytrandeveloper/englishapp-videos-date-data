@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gqTuCgyzWf8",
-            "title": "Watch Live: 2019 Oscar Nominations Announcement | NBC News",
-            "secondDuration": 1504,
-            "group": "group_7"
-        },
-        {
             "videoId": "SlT-OyWGdzw",
             "title": "Martin Luther King Jr.’s 10-Year-Old Granddaughter Says She Has A Dream, Too | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "TSA Callouts Reach Record High As Government Shutdown Hits 31st Day | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "ucoJ8X9l3CI",
+            "title": "Government Shutdown Hits The One-Month Mark | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

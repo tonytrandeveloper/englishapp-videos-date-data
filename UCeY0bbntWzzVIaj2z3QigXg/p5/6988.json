@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DLfl-lpipRo",
-            "title": "When's The Best Time To Buy A Plane Ticket? | 30 STK | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "1gGoUr9ZQ6E",
             "title": "Mexican Drug Kingpin ‘El Chapo’ Fueled the U.S. Drug Market | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Watch Scott Walker Give Same Speech Over And Over | Meet The Press | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "zitZGDJcHAU",
+            "title": "Trump vs. Trump: Evolving Positions Over The Years | Meet The Press | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

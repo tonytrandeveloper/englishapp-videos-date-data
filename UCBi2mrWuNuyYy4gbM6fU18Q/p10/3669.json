@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tPapq7RJAas",
-            "title": "George Zimmerman Explains His Rationale for Auctioning Pistol That Killed Trayvon Martin",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "5LT1TXePZRE",
             "title": "Two Plane Crashes Within 2 Hours Kill 5 in Hawaii",
             "secondDuration": 34,
@@ -61,8 +55,14 @@
             "title": "Mother Charged with Child Abuse During Family Vacation Nightmare",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "qtMmPmIAJ_U",
+            "title": "TSA Head of Security Removed from Post",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

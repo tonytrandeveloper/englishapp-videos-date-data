@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1EgkgX8Sr8o",
-            "title": "Cory Booker Discusses Fire Rescue",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "CLSp-IzhAiA",
             "title": "Prometheus' Guy Pearce Viral Video: Actor Discusses",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "North Korea Missile Launch Fails, But Is a Nuclear Test with Uranium Next?",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "O7OBRVq9nT0",
+            "title": "Ann Romney, Hillary Rosen Center Stage in Election 2012 After Rosen's Stay-At-Home Mom Dig",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

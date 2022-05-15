@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mXYZi3AXcBc",
-            "title": "At least 5 police officers wounded in Philadelphia shootout",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "6i1vzLLTxP0",
             "title": "Dow plunges 800 points, marking worst day for stocks this year",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Obituary for alleged Dayton shooter from Ohio funeral home sparks outrage",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "rsLw5TrvvcM",
+            "title": "Dow closes down more than 800 points as roller coaster in markets continues  | Special Report",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

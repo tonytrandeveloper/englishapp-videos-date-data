@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "shw8zMphD2o",
-            "title": "Watch live: El Paso hospital provides update on mass shooting",
-            "secondDuration": 2348,
-            "group": "group_7"
-        },
-        {
             "videoId": "xDm3AQoTYxE",
             "title": "Watch live: Officials in Dayton, Ohio, hold news conference",
             "secondDuration": 4506,
@@ -121,8 +115,14 @@
             "title": "Watch live: Officials update the public after mass shooting in El Paso",
             "secondDuration": 977,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVlOHFuh-60",
+            "title": "Watch Live: Police Respond To Active Shooter Near El Paso Mall | NBC News",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

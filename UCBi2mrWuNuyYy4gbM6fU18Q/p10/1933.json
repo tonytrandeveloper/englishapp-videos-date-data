@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g16KeLrZRqE",
-            "title": "A$AP Rocky officially charged with assault in Sweden",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hPSd3ORQWf4",
             "title": "Trump declares victory after Robert Mueller testimony",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "CatCon 2019: World's most famous Instagram cats and feline lovers gather I Nightline",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "P9CFyehNIg8",
+            "title": "Robert Mueller takes questions for 7 hours from 2 committees",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

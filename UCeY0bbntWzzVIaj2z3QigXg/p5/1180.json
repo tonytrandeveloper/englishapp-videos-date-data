@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3pNSF24nBZU",
-            "title": "Eiffel Tower Reopens After Nine Months",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "LIJnNwHBbWA",
             "title": "Hundreds Missing After Deadly Flooding in Germany",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Federal Judge Rules DACA Program Illegal",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "BYk_xxDcGk8",
+            "title": "Antibody Testing Increases as FDA Authorizes Different Tests",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

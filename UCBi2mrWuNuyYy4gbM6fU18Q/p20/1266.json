@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YMLY5ugrGtY",
-            "title": "White House says Trump has power to fire Mueller",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "DttOQhE0ksg",
             "title": "Facebook CEO Mark Zuckerberg answers questions, addresses possibility of regulation",
             "secondDuration": 547,
@@ -121,8 +115,14 @@
             "title": "FBI raids home, offices of Trump's personal attorney",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "w1YTicNHeY4",
+            "title": "Trump vows suspected Syria attack 'will be met forcefully'",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

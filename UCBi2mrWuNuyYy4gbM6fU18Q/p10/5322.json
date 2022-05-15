@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WqtVUYk0Lc4",
-            "title": "George Saunders on His New Book 'Tenth of December' - 'This Week' Sunday Spotlight",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "j4V8ExORjj0",
             "title": "State of the Union Expectations 'Initiatives on Infrastructure, Education, Clean Energy' 'This Week'",
             "secondDuration": 1421,
@@ -61,8 +55,14 @@
             "title": "Blizzard 2013 Paralyzes Northeast Region",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "_gBv99WSHIA",
+            "title": "Manhunt for Alleged Cop Killer Heads to California Mountains",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

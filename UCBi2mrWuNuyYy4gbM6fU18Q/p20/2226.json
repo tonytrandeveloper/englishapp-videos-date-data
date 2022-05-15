@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WD8wTzsHXmY",
-            "title": "The Winter That Won’t Give Up",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdaF63RWF9o",
             "title": "Super Bowl Save: Malcolm Butler's Interception",
             "secondDuration": 250,
@@ -121,8 +115,14 @@
             "title": "Defense Tries to Get Vanderbilt Guilty Verdict Thrown Out",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "colTcrnqSYA",
+            "title": "Passenger With Measles Takes Amtrak Train to Penn Station",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

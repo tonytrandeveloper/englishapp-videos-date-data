@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_je7cMS1TWg",
-            "title": "Cancer Teen Wants to Stop Chemo Therapy",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "tnXhM-Q80-A",
             "title": "9 Lives Lost in D.C. Train Crash",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Teen Pregnancy: After Baby Is Born",
             "secondDuration": 409,
             "group": "group_7"
+        },
+        {
+            "videoId": "1jigqTiaLZ8",
+            "title": "The Science of Predicting Weather",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

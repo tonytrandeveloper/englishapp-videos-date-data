@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nt3D8Dw_Zlk",
-            "title": "Secret Service Names New Director: Joseph Clancy | NBC News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "s_m6ss0ikls",
             "title": "Have Ebola? You're Not Required To Tell Airlines | NBC News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Netanyahu Responds To White House Slam | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "xKnpHsnsjnI",
+            "title": "U.S. Ebola Case: Rick Perry Reassures Texans | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

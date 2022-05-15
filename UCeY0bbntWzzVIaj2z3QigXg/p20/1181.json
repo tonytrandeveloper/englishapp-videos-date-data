@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DaDLZLVoJqA",
-            "title": "LAPD Details Assault On Three Homeless Men With Baseball Bat | NBC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "tOX5Ti0OcZo",
             "title": "President Trump Says He Feels 'Terribly' For Brett Kavanaugh, Doesn't Mention Accuser | NBC News",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "Hurricane Florence Flooding: How To Protect Yourself From Floodwaters | Better | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "NoGjB5EqzA8",
+            "title": "President Donald Trump Hosts White House Hispanic Heritage Month Celebration | NBC News",
+            "secondDuration": 1218,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

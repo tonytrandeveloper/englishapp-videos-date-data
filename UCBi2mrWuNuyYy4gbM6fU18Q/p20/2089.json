@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3YpzXsGNtjc",
-            "title": "GOP Debate Coverage Recap",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5gi0iHe1v4",
             "title": "Typhoon Soudelor Turns Deadly",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "Man Terrorizes Tennessee Movie Theater With Hatchet and Pepper Spray",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "hN6V8M4G4Kc",
+            "title": "Jon Stewart Prepares to Signoff One Last Time",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

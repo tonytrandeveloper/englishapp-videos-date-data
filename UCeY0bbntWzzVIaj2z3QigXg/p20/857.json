@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tp_swMqeXas",
-            "title": "The Changing Economics Of The Movie Business | NBC News Now",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "mfkbjEMOZ_E",
             "title": "Do Politics Belong At The Holiday Dinner Table? | NBC News Now",
             "secondDuration": 374,
@@ -121,8 +115,14 @@
             "title": "Trump Invited To House Judiciary Committee’s Impeachment Hearing | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "WF7xhRCgkqM",
+            "title": "Explosive Wildfire Threatens Homes, Forces Evacuations In California | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

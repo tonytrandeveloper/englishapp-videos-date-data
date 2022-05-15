@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E74voqZHzd8",
-            "title": "Phoenix Police Arrest Suspected Serial Killer | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "tmiYdsKXDlU",
             "title": "President Donald Trump Delivers Economy Speech From Pennsylvania Factory | NBC News",
             "secondDuration": 1496,
@@ -121,8 +115,14 @@
             "title": "Puerto Ricans Are Dying. These Volunteers Are Trying To Change That | NBC Latino | NBC News",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZbHttUbh5IM",
+            "title": "White House Press Briefing- January 17, 2018 (Full) | NBC News",
+            "secondDuration": 2907,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

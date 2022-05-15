@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YPFavOnRXx0",
-            "title": "Instant Index: Carrie Fisher to Reprise Role as Princess Leia",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "lEzHhxSAwgw",
             "title": "Hugo Chavez Dead, Venezuela in Turmoil",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Instant Index: John Oliver Fills in as Temporary 'Daily Show' Host",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDvomSLv1SA",
+            "title": "Real Money: Save Big on Prescription Drug Expenses",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

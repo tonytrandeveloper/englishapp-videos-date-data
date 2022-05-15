@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rbWfXEblUMw",
-            "title": "Chuck Schumer: It's 'Imperative' Mueller Report Be Made Public | NBC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "SkPk9gsYhzs",
             "title": "Blind Golden Retriever Has His Own Four-Legged ‘Seeing-Eye’ Companion | NBC Nightly News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Three Headlines From The Release Of The Robert Mueller Report | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "OhTdNq-skTQ",
+            "title": "‘Special Counsel’s Work Is Done’: Mueller Submits Report To DOJ | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TMJ2xgPrggE",
-            "title": "Authorities Work To Slow Major California Oil Spill",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "fXGD4YUXZqU",
             "title": "Meet The Press Broadcast (Full) - October 3rd, 2021",
             "secondDuration": 2844,
@@ -61,8 +55,14 @@
             "title": "Inside The New Latino America",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "cJd4nKCxCzQ",
+            "title": "CDC Releases School Mask Mandate Study",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

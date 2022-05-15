@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xl7VXvlI5yg",
-            "title": "Jane Doe Found Near Manson Killings Identified",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "AwQ-ygJMVug",
             "title": "'GMA' Wide World of Weddings Event Kicks Off",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Father Saves Son After Roller Coaster Seat Belt Breaks [CAUGHT ON TAPE]",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "--7KIZ7mUuw",
+            "title": "Vatican Hosts Stem Cell Research Conference",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

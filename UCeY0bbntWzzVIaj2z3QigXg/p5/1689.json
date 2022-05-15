@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4kEjvIea1hE",
-            "title": "Biden Hits The Road As Americans Receive Covid Relief | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "n76SVe2T4lc",
             "title": "17 Million Under Storm Warnings As Severe Weather Plows Through U.S. | NBC Nightly News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Full Fauci: 'Don't Spike The Ball On The 5-yard Line' | Meet The Press | NBC News",
             "secondDuration": 735,
             "group": "group_7"
+        },
+        {
+            "videoId": "lZzpbOMZMTQ",
+            "title": "In 45 States, GOP Proposes Limits On Voting Access | Meet The Press | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

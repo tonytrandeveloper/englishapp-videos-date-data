@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dXNKdSt4JFU",
-            "title": "Bryan Stevenson On Black Achievement And Progress | NBC Nightly News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "S7ThSDPlrsA",
             "title": "NTSB: Pilot’s ‘Spatial Disorientation’ Played Role In Bryant Helicopter Crash | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "House Impeachment Managers Play Video Of Capitol Riot During Impeachment Trial | NBC News",
             "secondDuration": 842,
             "group": "group_7"
+        },
+        {
+            "videoId": "okxyCDz2fxY",
+            "title": "British Artists Facing Costly Visas For Tours In Europe Post-Brexit | NBC News NOW",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

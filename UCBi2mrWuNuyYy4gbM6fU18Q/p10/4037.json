@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cxri1wP9zZI",
-            "title": "US Increases Vigilance in Response to Recent Terror Attacks",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "fGScAEC9vTw",
             "title": "American Band Opens Up on Paris Concert Hall Attack",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Index: E. Coli Outbreak Linked to Chipotle Expands",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "CA_XmLcWpTY",
+            "title": "The Manhunt for the Alleged Paris Attacker",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

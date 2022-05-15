@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KuQ9EUvWRZo",
-            "title": "'I know I don't have the highest name ID,' but 'we've got grit': Sen. Klobuchar | ABC News",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "6AdCt6I43n8",
             "title": "The 'House didn't do their homework' in impeachment inquiry: Sen. James Lankford | ABC News",
             "secondDuration": 530,
@@ -121,8 +115,14 @@
             "title": "New audio appears to capture Trump saying he wants Ukraine ambassador fired",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "kVR3UrqOfys",
+            "title": "Watch LIVE Impeachment Trial of President Donald Trump day four: ABC News Live Coverage",
+            "secondDuration": 41032,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

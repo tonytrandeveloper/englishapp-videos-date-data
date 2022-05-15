@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I5CO6J1x4oA",
-            "title": "Storms On Both Coasts Impact Millions, More Wild Weather Ahead For West | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "yJbH4OASRZ8",
             "title": "Full Schiff: U.S. response to Russia hacking 'has been influenced by something' | Meet The Press",
             "secondDuration": 451,
@@ -61,8 +55,14 @@
             "title": "DOE Investigating Title IX Complaints That Say It Discriminates In Support Of Women | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "br-jHJ0gs4U",
+            "title": "PM Theresa May Confronts European Leaders After Failing To Win Brexit Deal | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

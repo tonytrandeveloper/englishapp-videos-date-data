@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EyejOiGqB_k",
-            "title": "Oklahoma City Bombing Remembered 20 Years Later",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "euz41kMDSE4",
             "title": "GOP Presidential Hopefuls Rally in New Hampshire",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "New Hampshire Welcomes Potential GOP Presidential Candidates",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vovbhmi6OMw",
+            "title": "United Airlines Passengers Stuck on Plane for Nearly 6 Hours",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

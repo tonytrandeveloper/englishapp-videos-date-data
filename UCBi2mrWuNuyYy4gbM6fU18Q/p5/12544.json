@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wQ_RxkWxaA8",
-            "title": "Interview With Queen Rania",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "vAkFXqM75nw",
             "title": "Afghanistan: Operation Dragon Strike",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Men Say 'Military Mistress' Scammed Them",
             "secondDuration": 449,
             "group": "group_7"
+        },
+        {
+            "videoId": "R3nLX2faXYI",
+            "title": "Person of the Week: Waiting for Superman",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

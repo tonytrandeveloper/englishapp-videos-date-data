@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b6WmJMM4le4",
-            "title": "NYPD Commissioner James O'Neill Names Suspect In NYC Attack | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2jQzLTBW5Q",
             "title": "NYC Mayor Bill De Blasio: 'This Was An Attempted Terrorist Attack' | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Senator Bernie Sanders: 'I Don't Think We're There' On Impeachment | Meet The Press | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "Js17lDKtnZg",
+            "title": "Governor Andrew Cuomo On NYC Explosion: 'We Are A Target' | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

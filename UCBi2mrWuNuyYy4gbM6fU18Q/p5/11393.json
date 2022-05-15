@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GKIRVgsNd9A",
-            "title": "Ebola Outbreak in Uganda",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "M83wOOVXyGg",
             "title": "London 2012 Gymnastics: Gabby Douglas Slips on Beam",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Michael Phelps' Nickname; Gwen Stefani's Thick Skin",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "5d86CSTjBwM",
+            "title": "Quick Fashion Fixes for Those 'Blah' Moments",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

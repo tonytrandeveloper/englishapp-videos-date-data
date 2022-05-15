@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qrUofqAcoRM",
-            "title": "Barr Says No Evidence Of Widespread Voter Fraud In Election | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "DSRwxYOFNsw",
             "title": "FDA Chief Called To White House As States Come Up With Covid-19 Vaccine Plans | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Fed Chair Powell Says Businesses 'May Need More Help' Than A Vaccine To Recover | NBC News NOW",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "qThUP8nKioM",
+            "title": "McConnell Claims 'We Just Don't Have Time To Waste Time' On Covid Relief | NBC News NOW",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

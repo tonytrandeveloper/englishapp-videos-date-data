@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JF2WKx-8LL8",
-            "title": "Chrysler's Extreme Business Makeover",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "fJu_F-_JOHc",
             "title": "Evidence in Hand, Suspect on the Lam",
             "secondDuration": 229,
@@ -31,8 +25,14 @@
             "title": "Joe Biden on Swine Flu, Torture, Economy",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "02ksjfrzrFU",
+            "title": "How Did Autistic Boy Make It Cross Country ... Solo?",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

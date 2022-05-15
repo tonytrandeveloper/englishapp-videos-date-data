@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FjyAVsJy4EA",
-            "title": "Trump slams NYT op-ed by admin official as 'gutless'",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "PKHyvQeQ7BQ",
             "title": "2 Russians suspected in poisoning of ex-spy, daughter",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Plane from Dubai quarantined at JFK due to sick passengers",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "uzSoC19bfcs",
+            "title": "Tropical Storm Gordon makes landfall along Gulf Coast",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

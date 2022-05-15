@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0FyoK2TW3qI",
-            "title": "Doctors Share How Coronavirus Fight Has Changed, Trump Tours Mask Facility | NBC News Now",
-            "secondDuration": 706,
-            "group": "group_7"
-        },
-        {
             "videoId": "aKFzpfeIArA",
             "title": "Meat Prices Surge As Pandemic Causes Shortages | NBC Nightly News",
             "secondDuration": 791,
@@ -61,8 +55,14 @@
             "title": "Former FDA Commissioner Sounds Alarm On Next Coronavirus Hot Spots | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y9KukxEt2lc",
+            "title": "Inside A First-Of-Its-Kind Coronavirus Vaccine Trial | NBC Nightly News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

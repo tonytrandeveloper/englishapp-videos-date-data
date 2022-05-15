@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GoFBsIeBKjs",
-            "title": "Deadly Collison in California Causes 10 Hour Delay on Interstate",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "lkfT4nuQg5c",
             "title": "Clinton Has Bigger Lead as Election Day Nears",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton, Tim Kaine Campaign for Votes in Pennsylvania",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "_7ejrUUOpZw",
+            "title": "Historic World Series | Chicago Cubs, Cleveland Indians Face Off",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

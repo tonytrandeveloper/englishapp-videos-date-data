@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0vwz73d98KE",
-            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
-            "secondDuration": 3254,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDDUFQIMq4E",
             "title": "President Trump Presents Medal Of Freedom To Gen. Jack Keane | NBC News (Live Stream Recording)",
             "secondDuration": 2986,
@@ -61,8 +55,14 @@
             "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
             "secondDuration": 10208,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FBHW7aHdBs",
+            "title": "Taiwan’s Concert Hall Gets A Deep Clean After Musician Tests Positive For Coronavirus | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XbXpS4LLp2g",
-            "title": "NYC Delays In-Person Learning For Students | NBC News NOW",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "-_KWOjGMWYA",
             "title": "Over 100,000 Remain Without Power In Florida After Hurricane Sally | NBC News NOW",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "U.S. Will Soon Surpass 200,000 Deaths From Covid-19 | NBC Nightly News",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q0N9LvW3Ue4",
+            "title": "CDC Reverses Course On Covid Testing For Asymptomatic People | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

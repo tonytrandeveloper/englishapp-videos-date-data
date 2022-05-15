@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R48gm7LiT2c",
-            "title": "Common Colds Are Back As People Start To Gather",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "xwX2F0Gberw",
             "title": "14 People Wounded in Austin, Texas Mass Shooting",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "NBC News NOW Full Broadcast - June 11th, 2021",
             "secondDuration": 2946,
             "group": "group_7"
+        },
+        {
+            "videoId": "oh_obIUJ7HA",
+            "title": "In NBC News Exclusive, Putin Responds To Biden Calling Him A ‘Killer’",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "--JW5zQF-6I",
-            "title": "Maine Gov. Paul LePage Leaves Expletive-Filled Voicemail",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "21__Qvuo61s",
             "title": "Kaine Ties Trump to \"Ku Klux Klan values\"",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Stampede Injuring 9 Caused by Popping Balloons",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "e0Jai2N_uiw",
+            "title": "Belgium Explosion Kills 1, Wounds 5",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

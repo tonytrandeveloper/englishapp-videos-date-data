@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Oo44mEErIko",
-            "title": "Sequester Countdown: The Reality of Budget Cuts",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "YfhUzVeyLrI",
             "title": "Pope Benedict XVI Greets Crowd in Castel Gandolfo Plaza",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Pope Benedict Delivers Farewell Address",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "3TRphsB0S2E",
+            "title": "'The Bible': Remaking the Oldest Stories Ever Told",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

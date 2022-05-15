@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VFfPlTrN-uk",
-            "title": "A Moment Alone, and Girl Disappears",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "YPB8HfggDxA",
             "title": "The Hunt for Galactic Love!",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Is Recession's End in Sight?",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "7YXjPoY2qeM",
+            "title": "Mentally Ill Forced to Fight",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

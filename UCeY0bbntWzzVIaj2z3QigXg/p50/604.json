@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "FEUsYAVIgqU",
-            "title": "Jeff Sessions Denies Having Meeting with Russian Envoy at D.C. Hotel | NBC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "dz8gPFVxrOk",
             "title": "Deputy AG Rod Rosenstein: No ‘Good Cause’ Present Trump To Fire Robert Mueller | NBC News",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump: James Comey Testimony Shows ‘No Collusion, No Obstruction’ | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "AGvMk5TuHpQ",
+            "title": "President Trump ‘100 Percent’ Willing To Testify Under Oath On James Comey Allegations | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

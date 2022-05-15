@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rzh1-oNX_oM",
-            "title": "Ashton Kutcher: The New Mogul",
-            "secondDuration": 372,
-            "group": "group_7"
-        },
-        {
             "videoId": "a8y-p1EgvUI",
             "title": "Arizona's Immigration Law Costing Millions",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Why Did Diane Downs Plot to Kill Her Kids?",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNUO6RNk7Mk",
+            "title": "Collaborating on 'Holy Rollers'",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

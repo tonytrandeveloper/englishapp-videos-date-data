@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ACes5mv-ouA",
-            "title": "Kim Jong Un, Trump shake hands, make history",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "QzoJXA4Ov5Y",
             "title": "'Very, very good:' Trump says of his meeting with Kim Jong Un",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Unprecedented security for Trump, Kim summit",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMTSnsCDbLo",
+            "title": "Only two options on North Korea, 'peace or war': Sen. Lindsey Graham",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

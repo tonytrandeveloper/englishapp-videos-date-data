@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PzKTiVy00_4",
-            "title": "George Zimmerman Released from Jail on $150K Bond",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "IW9hL1XuUqA",
             "title": "Susan Collins and Carolyn Maloney Debate",
             "secondDuration": 694,
@@ -31,8 +25,14 @@
             "title": "Fifty Shades of Grey: Author Speaks",
             "secondDuration": 558,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQ6Frh6WMVs",
+            "title": "Shark Attack Death Blamed on Reality TV",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

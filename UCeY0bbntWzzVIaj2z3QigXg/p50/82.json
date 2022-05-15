@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8GcuF955LqU",
-            "title": "Nightly News Full Broadcast - October 21st",
-            "secondDuration": 1282,
-            "group": "group_7"
-        },
-        {
             "videoId": "M3JKFF0wzxE",
             "title": "Triceratops Skeleton Sold at Paris Auction For Over $7 Million to American Collector",
             "secondDuration": 86,
@@ -301,8 +295,14 @@
             "title": "Morning News NOW Full Broadcast - October 20",
             "secondDuration": 3163,
             "group": "group_7"
+        },
+        {
+            "videoId": "hgoTefkXAm4",
+            "title": "San Francisco In-N-Out Shut Down For Violating Covid-19 Health Order",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4_Bx31xroBo",
-            "title": "NYC UFO: Just a Bunch of Balloons?",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-LGAe8cjYw",
             "title": "The Miners: After the Darkness",
             "secondDuration": 364,
@@ -61,8 +55,14 @@
             "title": "High Praise for Chile's Leader as Miners Rescued",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "YjFtXn1DbXw",
+            "title": "How Did Chile Succeed in Mine Crisis?",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dCh50y71uoU",
-            "title": "Former NBC correspondent speaks out against Tom Brokaw",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "e0BYLd21TNU",
             "title": "Southwest pilots describe details of engine explosion",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Cohen fights back against Stormy Daniels' lawyer",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "tJjLTadKLcY",
+            "title": "After volcanic eruption, Hawaiians face possible volcanic smog and acid rain",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

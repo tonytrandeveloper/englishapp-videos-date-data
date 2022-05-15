@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OP3qCcg4mbM",
-            "title": "Russian Hackers Unsuccessfully Targeted Missouri Senator Claire McCaskill | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Gz1Px7_b7k",
             "title": "Film ‘Eighth Grade’ Offers Realistic Portrayal Of Middle School Life | NBC Nightly News",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Desperate Search For Missing Iowa College Student Mollie Tibbetts | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "PGaOBuYGixo",
+            "title": "Facebook Battling Fake Profiles | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

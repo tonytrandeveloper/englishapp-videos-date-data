@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LqlFLMclh1A",
-            "title": "The Best Christmas Movie Moments of All Time",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "5mYkNQXtnOY",
             "title": "Donald Cardinal Wuerl Discusses the Meaning of Christmas",
             "secondDuration": 258,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Pope Celebrates Christmas at the Vatican",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "PsY1EfZubFQ",
+            "title": "SKINNY: Legal Battle Over YouTube Music",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-JPredb6SZM",
-            "title": "Remembering victims of the Las Vegas mass shooting",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "51GvJR_xdUU",
             "title": "New Orleans and Gulf Coast brace for approaching storm",
             "secondDuration": 205,
@@ -61,8 +55,14 @@
             "title": "Nate could hit Gulf Coast as a hurricane",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "OkXhATnqaKQ",
+            "title": "Inside the mind of Jerry Seinfeld and his latest project | ABC News",
+            "secondDuration": 381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

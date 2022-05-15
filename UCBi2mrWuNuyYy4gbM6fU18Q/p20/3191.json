@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4KGHlxUOne0",
-            "title": "Wall Street Rollercoaster",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "r6v2MDz6hxM",
             "title": "Nashville Flood Destroys Music History",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "SCOTUS Fight Depends on Nominee",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "AsZpSoUVaD8",
+            "title": "100504_ann_tl_2_YouTube 4x3_1.mpg",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

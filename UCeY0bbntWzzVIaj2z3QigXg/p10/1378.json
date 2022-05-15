@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tERwwd2uTK0",
-            "title": "Cuomo Announces New Testing Sites, Encourages New Yorkers To Get Tested | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "066L1D6FCPw",
             "title": "Four-Alarm Warehouse Fire Breaks Out At San Francisco's Pier 45 | NBC News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Man Who Filmed Ahmaud Arbery’s Final Moments Now Charged In His Death | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "AT3oShkz9IE",
+            "title": "Trump Calls On Governors To Reopen ‘Essential’ Houses Of Worship | NBC Nightly News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

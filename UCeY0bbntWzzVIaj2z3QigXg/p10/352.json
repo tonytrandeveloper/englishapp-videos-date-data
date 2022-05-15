@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MHJY15SY3ew",
-            "title": "Tennis Stars React To Chinese Tennis Player's Disappearance",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "agrl6P5mWT8",
             "title": "'QAnon Shaman' Sentenced To 41 Months For Role In Jan. 6 Riots",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci Discusses State of Covid And How To Handle The Holidays",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "6pYiuFoAZAQ",
+            "title": "Kyle Rittenhouse Trial: Jury Asks About Video Evidence",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

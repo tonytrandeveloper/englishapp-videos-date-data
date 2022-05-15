@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hGubAXwxvBo",
-            "title": "White House Holds Press Briefing: August 31 | NBC News",
-            "secondDuration": 2741,
-            "group": "group_7"
-        },
-        {
             "videoId": "ptCj97rkETs",
             "title": "Biden Pledges Support To Americans Still In Afghanistan",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "'It Was Crazy': Couple Describes Experience Riding Out Hurricane Ida",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "4lBe119tjRI",
+            "title": "Hochul Allocates $65 Million Towards Booster Shot Programs Across New York",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

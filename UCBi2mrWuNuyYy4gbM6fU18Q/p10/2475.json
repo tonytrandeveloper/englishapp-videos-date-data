@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AauM23ytGpc",
-            "title": "Starbucks planning to shutter all stores for afternoon bias training",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ESDfKv6w1I",
             "title": "Mounds of molten lava sparking new evacuations on Hawaii's Big Island",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Policeman punches young woman in the head on the Jersey Shore",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "D7hHnfNhGZc",
+            "title": "Trump and his legal team accuse Mueller of setting a 'perjury trap'",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

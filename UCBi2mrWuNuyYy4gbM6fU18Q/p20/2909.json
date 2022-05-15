@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EIw0renRABU",
-            "title": "Will Smith Talks Slapping Reporter: Kissing Journalist \"Probably Shouldn't (Have Done) It To Me\"",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "MC21X8pjZJw",
             "title": "Webcast: Mitt Romney and Primaries",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zzGdDCom3pQ",
+            "title": "SpaceX Launch Successful, 1st Commercial Rocket Heads to International Space Station",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

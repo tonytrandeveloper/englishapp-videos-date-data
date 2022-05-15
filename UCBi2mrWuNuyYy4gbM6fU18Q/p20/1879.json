@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "URhyq4LcFFk",
-            "title": "Marijuana Legalization: The Impact in Colorado",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "GHVddBKsCKk",
             "title": "Peter Liang, Former NYPD, To Be Sentenced in Deadly Shooting",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Manhunt for Church Killer",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "oE8jJsV6Iak",
+            "title": "Donald Trump Looks to Stop Ted Cruz's Winning Streak",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

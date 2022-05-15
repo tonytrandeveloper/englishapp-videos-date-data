@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p4giGcUVN-k",
-            "title": "Mom's Incredible Multi-Tasking Skills Going Viral",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "sCtRAi2iCec",
             "title": "Matthew McConauhey Directorial Debut",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Attacks Donald Trump for Putin Praise",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "3e6ex889Pks",
+            "title": "Donald Trump Criticizes Military Leadership in National Security Forum",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

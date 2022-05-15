@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4V6x7FtfhfE",
-            "title": "White House Holds Press Briefing: August 3 | NBC News",
-            "secondDuration": 2946,
-            "group": "group_7"
-        },
-        {
             "videoId": "8SozfYrf6r4",
             "title": "'Deeply Disturbing': Sen. Gillibrand Calls On Cuomo To Resign",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "See NY Gov. Cuomo's Response To Sexual Harassment Investigation",
             "secondDuration": 776,
             "group": "group_7"
+        },
+        {
+            "videoId": "I1eZ-MZ4PkY",
+            "title": "Why New York Attorney General Did Not Bring Charges Against Cuomo",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

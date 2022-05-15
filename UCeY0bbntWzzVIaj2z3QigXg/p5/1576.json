@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BpIuFHgu5PA",
-            "title": "White House Holds Press Briefing: April 12 | NBC News",
-            "secondDuration": 2029,
-            "group": "group_7"
-        },
-        {
             "videoId": "LK3vqkCRjyQ",
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 2141,
@@ -31,8 +25,14 @@
             "title": "Cheers! Pubgoers Celebrate Easing England's Covid Restrictions | NBC News NOW",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "R8mJPX3pSF8",
+            "title": "Watch: St. Vincent's Volcano Deposits Thick Ash Over 110 Miles Away | NBC News NOW",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

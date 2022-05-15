@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ekcwjAqTyww",
-            "title": "Interview with Sen. Mitch McConnell",
-            "secondDuration": 497,
-            "group": "group_7"
-        },
-        {
             "videoId": "jA1k6sCPp-A",
             "title": "Gay Marriage: The Tipping Point",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Snooki Faces Replacement on Jersey Shore",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "nY7TAKjf-WQ",
+            "title": "New York Legalizes Same Sex Marriage",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

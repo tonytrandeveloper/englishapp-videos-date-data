@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DtF4nWu_NOg",
-            "title": "Doanld Trump Disses John Kasich in Wisconsin | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZCgmq0xXPWE",
             "title": "Hillary Clinton on Abortion: 'This is a Choice. It is Not a Mandate.' | Meet The Press | NBC News",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "Chicago Violence Underscored by Video of Man Shot While Live Streaming | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "tN_KjzGRA3w",
+            "title": "Video Shows Lieutenant Mistakenly Shoot His Own Undercover Officer | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

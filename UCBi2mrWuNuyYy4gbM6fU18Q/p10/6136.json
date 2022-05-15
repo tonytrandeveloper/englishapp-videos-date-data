@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k8O9AcFIQw0",
-            "title": "Jenn Sterger Interview: 'I've Never Met Brett Favre' 'GMA' 2011",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "ryXN-FyNMUw",
             "title": "'The Facts of Life' Cast Reunites on 'GMA' (04.12.11)",
             "secondDuration": 511,
@@ -61,8 +55,14 @@
             "title": "Robert Redford Interview: \"The Conspirator\"",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "kRW4cKISbpQ",
+            "title": "Interview With Reps Pence and Van Hollen",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

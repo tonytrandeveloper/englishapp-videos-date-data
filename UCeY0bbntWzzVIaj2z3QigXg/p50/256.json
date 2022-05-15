@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Q-jACXcGI3A",
-            "title": "Into the WNBA Bubble | Into America Podcast – Ep. 39 | NBC News and MSNBC",
-            "secondDuration": 1165,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4Phf_RoFds",
             "title": "Watch: Lester Holt Hosts A Virtual Spelling Bee | Nightly News: Kids Edition",
             "secondDuration": 950,
@@ -301,8 +295,14 @@
             "title": "Growing Outrage After Arizona Police Fatally Shoot Man In Parked Car | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "lOZFvsyQC2w",
+            "title": "Trump Book Written By Estranged Niece Contains Shocking Claims | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

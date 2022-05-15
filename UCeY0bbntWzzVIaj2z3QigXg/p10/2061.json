@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G5cNJfTNuQ4",
-            "title": "Special Report: Trump Speaks During Netanyahu White House Visit | NBC News",
-            "secondDuration": 1417,
-            "group": "group_7"
-        },
-        {
             "videoId": "il8P4jle3e8",
             "title": "Figure Skater Alysa Liu, Colors Of Spring, Bald Buddies | NBC News For Universal Kids",
             "secondDuration": 459,
@@ -61,8 +55,14 @@
             "title": "Trump On Mueller Findings: Shame Our Country Had To Go Through This | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "K2pj1MdDX5k",
+            "title": "Attorney General William Barr Sends Conclusions From Mueller Report To Congress | NBC News",
+            "secondDuration": 4382,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

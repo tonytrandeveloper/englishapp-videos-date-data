@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g4nLx2LNpAs",
-            "title": "Biden Urges Congress To Pass Pandemic Relief Ahead Of ‘Very Dark Winter’ | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBC_c8x6OQM",
             "title": "Inside A Major Medical Center’s Covid Vaccine Distribution Drill | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Ohio Gov. Mike DeWine Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3286,
             "group": "group_7"
+        },
+        {
+            "videoId": "RX8pYps1Hag",
+            "title": "Rural Kansas Doctor Facing Community Pushback For Covid Safety Protocols | NBC News NOW",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

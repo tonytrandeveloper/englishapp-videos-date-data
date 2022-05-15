@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oSyTXNxL6kc",
-            "title": "The Conversation: LeBron James, Free Agent",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtyuUCMVuQU",
             "title": "Wonder Woman Gets a Makeover",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Schumer: 'We Know Plenty About Her'",
             "secondDuration": 674,
             "group": "group_7"
+        },
+        {
+            "videoId": "vNZiyweK6hk",
+            "title": "Elizabeth Edwards 'Closed the Door' on New John",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

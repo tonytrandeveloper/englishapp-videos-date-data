@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bBRuWvchq1w",
-            "title": "'Twilight Saga' Starring Kristen Stewart, Robert Pattinson Ends: Fans Find it Hard to Say Goodbye",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "aayWBxVAo9A",
             "title": "President Obama, House Speaker John Boehner 'Taxmaggedon' Showdown",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Lincoln: Daniel Day-Lewis, Steven Spielberg on Movie's Personal Impact",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "5yhweoyd-Iw",
+            "title": "Workplace Confidential: Workers Gone Wild",
+            "secondDuration": 446,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

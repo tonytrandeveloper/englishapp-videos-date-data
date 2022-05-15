@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NKezTT7qvwY",
-            "title": "Trayvon Martin Shooting Video: New Evidence",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "ykymNUOknU4",
             "title": "Facebook Stock: How Did Wall Street Respond?",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "Donna Summer, Queen of Disco, Dead at 63 After Lung Cancer Battle",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "z83cnsooth0",
+            "title": "Facebook IPO Stock Price Set at $38: Is Mark Zuckerberg's Stock Too Hyped Up?",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

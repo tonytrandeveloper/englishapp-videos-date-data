@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nY7TAKjf-WQ",
-            "title": "New York Legalizes Same Sex Marriage",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "WZv5MXFuZQw",
             "title": "Train Crash in Nevada",
             "secondDuration": 221,
@@ -61,8 +55,14 @@
             "title": "Florence and the Machine Rocks 'Good Morning America'",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "pXFGBaF1XFQ",
+            "title": "Casey Anthony Trial: Cindy Anthony's Stunning Chloroform Claim",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

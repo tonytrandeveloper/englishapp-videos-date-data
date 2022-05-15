@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MBNIbruvbdI",
-            "title": "Covid Cases Rise In U.K. As Government Rejects Reimposing Restrictions",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "AjHQ5TgyPuc",
             "title": "Simone Biles Speaks Out On Championing Mental Health",
             "secondDuration": 629,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas - October 20th | NBC News NOW",
             "secondDuration": 3197,
             "group": "group_7"
+        },
+        {
+            "videoId": "iIiw_WBfmPI",
+            "title": "Nightly News Full Broadcast - October 20th",
+            "secondDuration": 1286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

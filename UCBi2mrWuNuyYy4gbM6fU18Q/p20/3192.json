@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AsZpSoUVaD8",
-            "title": "100504_ann_tl_2_YouTube 4x3_1.mpg",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "UAtKUfTtjPg",
             "title": "The Conversation: Is Apple Losing Its Cool?",
             "secondDuration": 192,
@@ -121,8 +115,14 @@
             "title": "Weekend Window: New Orleans Jazz Fest",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "5nynjd8Xa5k",
+            "title": "Car Bomb Found in Times Square",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

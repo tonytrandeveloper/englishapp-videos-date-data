@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u8oVrCC9W1I",
-            "title": "President Donald Trump awards Medal of Honor to Staff Sgt. Ronald J. Shurer | ABC News",
-            "secondDuration": 1347,
-            "group": "group_7"
-        },
-        {
             "videoId": "MflNCcdnPI8",
             "title": "President Trump delivers remarks on new trade deal with Mexico, Canada  | ABC News",
             "secondDuration": 4803,
@@ -31,8 +25,14 @@
             "title": "Cristiano Ronaldo calls sexual assault allegation 'fake news'",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "nH8FDvX7iek",
+            "title": "Last-minute deal struck on NAFTA",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

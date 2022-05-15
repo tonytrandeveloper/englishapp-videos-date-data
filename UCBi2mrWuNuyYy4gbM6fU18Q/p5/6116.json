@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ROmMRZeQ-mk",
-            "title": "National security adviser Michael Flynn resigns",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "B4BAHNOV_iE",
             "title": "Valentine's Day: Red Roses Make a 2,500 Mile Journey | ABC News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Trump's Immigration Order Blocked Indefinitely by Courts",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "055PoVOg__E",
+            "title": "Missouri KKK Murder: Wife, stepson Charged | ABC News",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

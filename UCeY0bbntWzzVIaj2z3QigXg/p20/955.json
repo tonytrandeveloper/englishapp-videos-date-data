@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IL3PloGkDjk",
-            "title": "Watch: Video Shows California Police Officer Rescue Man From Burning Car | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "CM0VW7ER-Lw",
             "title": "As Climate Change Pushes Temperatures Higher, U.S. Army Troops Fall To Heat Illness | NBC News",
             "secondDuration": 586,
@@ -121,8 +115,14 @@
             "title": "Trump Sharpens Attacks On ‘The Squad,’ Characterizes Them As ‘Weak’ And 'Insecure’ | Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "fNyW02tCH84",
+            "title": "Heat Wave Breaks Records Across The Country | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

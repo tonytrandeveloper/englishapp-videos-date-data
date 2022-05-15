@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I5CO6J1x4oA",
-            "title": "Storms On Both Coasts Impact Millions, More Wild Weather Ahead For West | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "yJbH4OASRZ8",
             "title": "Full Schiff: U.S. response to Russia hacking 'has been influenced by something' | Meet The Press",
             "secondDuration": 451,
@@ -31,8 +25,14 @@
             "title": "Full Schumer: 'We should not let a temper tantrum' shut down government | Meet The Press | NBC News",
             "secondDuration": 674,
             "group": "group_7"
+        },
+        {
+            "videoId": "GBMsoULEJhs",
+            "title": "Poll: 62 percent say Trump isn’t telling the truth in Russia probe | Meet The Press | NBC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

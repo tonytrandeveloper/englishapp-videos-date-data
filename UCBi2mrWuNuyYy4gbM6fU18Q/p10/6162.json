@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lBO4eUMpWyg",
-            "title": "Amplified: Girl Talk",
-            "secondDuration": 796,
-            "group": "group_7"
-        },
-        {
             "videoId": "YtZd3SUw8OM",
             "title": "Melissa Leo on \"Red State\"",
             "secondDuration": 586,
@@ -61,8 +55,14 @@
             "title": "Family Dog Saved by First Responders",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCDEob5MUgw",
+            "title": "Looks You Can Take to the Bank",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

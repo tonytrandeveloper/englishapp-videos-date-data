@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0y5QrtZkm2U",
-            "title": "Incivility in Paris",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdhk88TcPho",
             "title": "Widespread Workers Comp Fraud",
             "secondDuration": 237,
@@ -121,8 +115,14 @@
             "title": "Victim Faces Garridos in Court",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "ds03yXzN89c",
+            "title": "Are Blueberry Farmers Exploiting Kids?",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

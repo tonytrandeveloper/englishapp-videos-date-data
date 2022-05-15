@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MNfmkA7tGac",
-            "title": "Biden, Prime Minister Trudeau Give Statements On Bilateral Meeting | NBC News",
-            "secondDuration": 631,
-            "group": "group_7"
-        },
-        {
             "videoId": "g2J7G0IQsvA",
             "title": "Authorities Give Update On Tiger Woods Car Crash | NBC News",
             "secondDuration": 1730,
@@ -31,8 +25,14 @@
             "title": "Tiger Woods Injured In Rollover Car Crash, Undergoing Surgery | NBC News",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "XQnHvFWzrrY",
+            "title": "U.S. Crosses 500,000 Covid-19 Deaths. It Doesn’t Stack Up Well Versus Other Countries | NBC News NOW",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

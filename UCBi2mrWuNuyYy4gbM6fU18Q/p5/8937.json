@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tXvrbSnbs88",
-            "title": "Massive Fire Destroys New Jersey Apartment Complex",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "OPS9N5y6FrI",
             "title": "How to Prevent and Survive a Carjacking",
             "secondDuration": 438,
@@ -31,8 +25,14 @@
             "title": "Cold War Echoes: Russian Spy Ship in Havana",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "YDrc97itnuQ",
+            "title": "History Being Made in Havana: First Time Since the Cold War the US and Cuba Are in Talks",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MIqYiiO2lTY",
-            "title": "School principal singing snow day alert goes viral",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "uPmtS4SIIF8",
             "title": "Day four of victim testimonies against ex-USA gymnastics doctor",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "President Trump addresses anti-abortion rally in Washington, D.C. | ABC News",
             "secondDuration": 889,
             "group": "group_7"
+        },
+        {
+            "videoId": "atI7wx6PEs8",
+            "title": "White House press briefing on potential government shutdown | ABC News",
+            "secondDuration": 1861,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

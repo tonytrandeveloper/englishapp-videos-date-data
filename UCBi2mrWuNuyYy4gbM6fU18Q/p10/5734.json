@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OOhtYFWeJBw",
-            "title": "WEBCAST: George Zimmerman's TV Interview",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "pv2po8UGQAU",
             "title": "Woman Gets Chin Implant to Look Better Online",
             "secondDuration": 300,
@@ -61,8 +55,14 @@
             "title": "Child Abduction Attempt in Philadelphia Caught on Tape",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Orlyklo_0c",
+            "title": "Extreme Heat Puts Mississippi River in Major Drought",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

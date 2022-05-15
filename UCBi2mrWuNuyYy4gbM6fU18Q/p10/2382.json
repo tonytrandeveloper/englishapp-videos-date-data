@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Ks6u_ks8Lo",
-            "title": "Omarosa accuses Trump of making racial remarks",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "HCzfsYg7OcY",
             "title": "Airport employee steals plane and crashes 30 miles away",
             "secondDuration": 263,
@@ -61,8 +55,14 @@
             "title": "10 years later, children in Camden still fighting for hope, opportunity",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "HSpsES_gcjg",
+            "title": "WH says former adviser's new book is 'riddled with lies'",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

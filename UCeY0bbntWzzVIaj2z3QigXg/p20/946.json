@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KI0HMOfIdH4",
-            "title": "Wasteland: Our Food Waste Problem Is Bigger Than You Think | Mach | NBC News",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMe3pWOL2ho",
             "title": "Sen. Lindsey Graham And Sen. Patrick Leahy Clash On Reasons For Committee Absences | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Fact-Checking The 2nd Democratic Presidential Debate | NBC News Now",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "-HgSGzgKVfM",
+            "title": "Analyzing The ‘Force’ Of Marianne Williamson | NBC News Now",
+            "secondDuration": 510,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

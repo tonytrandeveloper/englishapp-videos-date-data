@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_GhnixOzh1U",
-            "title": "Gas Prices Plummeting Ahead Of Holiday Travel | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "XgI3pRID_bM",
             "title": "President Donald Trump Administration Bans Bump Stocks | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "As Historically Significant As Apollo 11, Apollo 8 Launched 50 Years Ago This Week | Mach | NBC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "9OUbp3jLUY0",
+            "title": "Actress Penny Marshall Dead At 75 | NBC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

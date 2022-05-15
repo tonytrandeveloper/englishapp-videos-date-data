@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GGBcREhsmiE",
-            "title": "Special Report: President Donald Trump Holds Press Conference At Summit In Vietnam | NBC News",
-            "secondDuration": 2844,
-            "group": "group_7"
-        },
-        {
             "videoId": "5MC2ip-eFTo",
             "title": "Kim Jong Un Willing To Consider Denuclearizing | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Michael Cohen Testifies Before Congress On Trump Campaign | NBC News",
             "secondDuration": 35091,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dqn4PUTxW38",
+            "title": "George H.W. Bush’s Service Dog Sully Gets A New Job Helping Veterans | NBC Nightly News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

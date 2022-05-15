@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IDv59yGsoms",
-            "title": "‘Proud Boys’ Leader Cooperated With FBI After 2013 Arrest | NBC News NOW",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "9MmA3X9bjPs",
             "title": "Rep. Marjorie Taylor Greene Faces Backlash After Supporting Violent Social Media Posts | NBC News",
             "secondDuration": 309,
@@ -61,8 +55,14 @@
             "title": "Biden Signs Executive Orders On Climate Change | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBsLPUIZkFY",
+            "title": "All U.S. States Report Covid Vaccine Shortages | NBC Nightly News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

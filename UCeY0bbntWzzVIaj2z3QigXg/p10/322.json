@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k-Dv5MhSqRY",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3095,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_KlRVf4mw8",
             "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1016,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas – Dec. 1 | NBC News NOW",
             "secondDuration": 3027,
             "group": "group_7"
+        },
+        {
+            "videoId": "2rqNZBb7exc",
+            "title": "Off-Duty Officer Reunites With Rescued Waukesha Parade Victim",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

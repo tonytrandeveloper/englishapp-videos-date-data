@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4QRm7M-aUlU",
-            "title": "Trump prepares to deliver 1st United Nations address",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "_M5AusWWJIc",
             "title": "New details in death of LSU fraternity pledge",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "North Carolina fair worker tried to rescue boys from Ferris wheel",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "2V6En8YKQQ0",
+            "title": "Florida Keys residents return to ruins",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

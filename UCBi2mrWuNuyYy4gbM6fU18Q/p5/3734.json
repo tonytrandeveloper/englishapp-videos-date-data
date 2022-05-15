@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XRl_DIjMFAI",
-            "title": "Wildfire scorches land near Los Angeles l ABC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "ayvDIveHaoU",
             "title": "Hurricane Dorian makes landfall in North Carolina l ABC News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Airline mechanic accused of sabotaging passenger flight | ABC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTg08-R6FUM",
+            "title": "Death toll from Dorian climbs to 30 in Bahamas | ABC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

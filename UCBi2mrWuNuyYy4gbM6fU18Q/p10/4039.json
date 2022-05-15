@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zBnpzdBTG4w",
-            "title": "'GMA 40 for 40': Best of the 40-Hour Livestream",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZQZvmVM-ks4",
             "title": "GMA 40: Best Livestream Moments, Bloopers, and Performances",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Adele Won't Stream New Album '25'",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "bCWDmWk364k",
+            "title": "ISIS Threatening the U.S.  | ABC News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LlbqctgHZnk",
-            "title": "Coronavirus: Nearly Every State Partially Reopens | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "p7DnBo-5tfg",
             "title": "Some Americans Avoid Emergency Care Over Fear Of Catching Coronavirus | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Trump Says He’s Taking Hydroxychloroquine To Prevent Coronavirus | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "_1qHocSElxI",
+            "title": "‘This Is A Very Positive Day’: Trump Touts Market Surge As Vaccine Trials Move Forward | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

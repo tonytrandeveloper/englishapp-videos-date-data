@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nofUeNU5XZw",
-            "title": "Taliban Video Shows Captured U.S. Soldier",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "D0wTVLF0d8o",
             "title": "Identical Triplets Survive House Fire",
             "secondDuration": 468,
@@ -31,8 +25,14 @@
             "title": "American Hotels Targeted in Jakarta Bombings",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "ovdiZZBMbCY",
+            "title": "Walter Cronkite Dies",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lfik7eMVGRQ",
-            "title": "Music to the Tiniest Ears",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "v7BwbAVl0Ns",
             "title": "NYC Free Lunch Break Dance Party: DJ Questlove, Absolut Team Up for 1-Drink, 1-Hour Free Party",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Perfect Aim!",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "sHPWrofl6vU",
+            "title": "Bad Hair Day",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

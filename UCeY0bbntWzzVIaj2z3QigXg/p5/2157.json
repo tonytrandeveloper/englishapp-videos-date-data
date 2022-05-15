@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xf-GSuDrMmE",
-            "title": "Trump Closes Debate With What He would Say To Those Who Did Not Vote For Him | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIbrBk9b1Hg",
             "title": "Trump Says Biden Would ‘Destroy’ Oil Industry | NBC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Biden: First Responders 'Deserve A Minimum Wage Of $15' | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "gGDXHd84dpA",
+            "title": "Chuck: Trump Tried To Make The Biden The Incumbent In Debate | NBC News",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

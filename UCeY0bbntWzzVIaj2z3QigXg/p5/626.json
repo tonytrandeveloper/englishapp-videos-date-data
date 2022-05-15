@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cEb1dxe-_R4",
-            "title": "Nightly News Full Broadcast - Dec. 6",
-            "secondDuration": 1281,
-            "group": "group_7"
-        },
-        {
             "videoId": "W-ZtFUxXzQg",
             "title": "Exclusive Look At New ‘Killer’ Drone Small Enough To Fit In A Backpack",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "U.S. Announces Diplomatic Boycott Of Beijing Winter Olympics",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVTII-Twxkg",
+            "title": "Biden Administration Restarts Trump-Era Immigration Policy",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

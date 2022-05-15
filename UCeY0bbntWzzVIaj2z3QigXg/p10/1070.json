@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eO350z668wY",
-            "title": "El Paso Hospitals At Breaking Point Amid Rise In Coronavirus Cases | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "1lmXPibYk_4",
             "title": "Hurricane Zeta Makes Landfall In Louisiana | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Coronavirus | NBC News",
             "secondDuration": 756,
             "group": "group_7"
+        },
+        {
+            "videoId": "FfL_jcR-2iA",
+            "title": "Italy Protesters Continue To Clash With Police Over New Covid-19 Restrictions | NBC News NOW",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

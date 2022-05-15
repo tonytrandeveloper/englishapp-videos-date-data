@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-MdINTdEJ_4",
-            "title": "Student Town Hall Audience Response",
-            "secondDuration": 22,
-            "group": "group_7"
-        },
-        {
             "videoId": "ALtnLMBpI2Y",
             "title": "Seth Petty - Teacher Town Hall",
             "secondDuration": 35,
@@ -31,8 +25,14 @@
             "title": "Coming up on Meet the Press - April 14, 2013",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vz3nVg1veU",
+            "title": "Meet the Press - Graham, Richardson, Flournoy, Roundtable - April 7, 2013",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QKijFJTOl4A",
-            "title": "Trump holds first news conference since impeachment inquiry announcement | ABC News",
-            "secondDuration": 2862,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdiW9k7Qm7Q",
             "title": "Trump sits down with Ukrainian president | ABC News",
             "secondDuration": 1459,
@@ -31,8 +25,14 @@
             "title": "Trump holds bilateral meeting with president of Ukraine | ABC News",
             "secondDuration": 2492,
             "group": "group_7"
+        },
+        {
+            "videoId": "UPTDxXgqmVI",
+            "title": "Impeachment inquiry, Meghan Markle, Parliament returns: World in Photos: Sept. 25",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

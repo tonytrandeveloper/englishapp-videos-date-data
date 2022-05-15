@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t_PEYTU_1Go",
-            "title": "'This Week': Bill Gates on Education",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "ggrWRTsdsBw",
             "title": "'This Week': Congress on Concussions",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Rogue Pilot Could Be Responsible For Missing Malaysian Plane",
             "secondDuration": 572,
             "group": "group_7"
+        },
+        {
+            "videoId": "mO12rdKWM0U",
+            "title": "Man Held on Weapons Charges Resembles Wanted Serial Killer",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

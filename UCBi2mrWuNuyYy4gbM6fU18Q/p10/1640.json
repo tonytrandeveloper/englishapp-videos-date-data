@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HBiyqQbE8mQ",
-            "title": "Chiefs' player pays adoption fees for more than 100 dogs l ABC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "gbAtlTcjuJ4",
             "title": "Trump prepares for State of the Union l ABC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Radio icon Rush Limbaugh announces lung cancer battle | ABC News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "9mK-xJgoPlM",
+            "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

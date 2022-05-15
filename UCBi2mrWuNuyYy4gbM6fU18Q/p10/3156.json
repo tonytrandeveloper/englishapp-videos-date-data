@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BwgcG4LZXKc",
-            "title": "NC Lawmakers Fail to Repeal HB2 'Bathroom Bill'",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "LVs6utsQ6XM",
             "title": "Dashcam Shows Semitrailer Driver Swerve Off Highway",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Former Couple Throws Divorce Party to Celebrate Split",
             "secondDuration": 438,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJouwx7ehRQ",
+            "title": "Manhunt Underway for Suspect in Terror Attack on Christmas Market in Germany",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

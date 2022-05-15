@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "QEEX-OqPAQc",
-            "title": "White House Lawn Locked Down Over Fence Jumper",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-jvNqHx2do",
             "title": "Holiday Leftovers with a Twist | ABC News",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Firefighter Who Received a Face Transplant Smiles",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOVLagycI9U",
+            "title": "Index: Happy Thanksgiving Gas Prices Expected to Go Below $2.00",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

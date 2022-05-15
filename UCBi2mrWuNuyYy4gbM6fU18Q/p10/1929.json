@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OQ8yRu7ucbk",
-            "title": "Dangerous encounter with a shark in Florida",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "hDUwT_cOS44",
             "title": "Voters can 'impeach Donald Trump at the ballot box': De Blasio",
             "secondDuration": 362,
@@ -61,8 +55,14 @@
             "title": "Trump lashes out at Maryland Rep. Elijah Cummings",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "oi6DggNl1-U",
+            "title": "Newlywed wife saves husband from volcanic mountain",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

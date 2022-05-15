@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tETiJMSehkE",
-            "title": "Food Fight Lands Kids in Jail",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "nxYrwRRc1PA",
             "title": "High Risk Patients Await Flu Vaccines",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Hockey Coach Flips Out on the Ice",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "zvxHGmjEcUI",
+            "title": "High School Romance Turns Abusive",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gvB1HQO6Hlk",
-            "title": "Are Those Infomercials Accurate?",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "52Cd0t97aSo",
             "title": "The Bottom Line on Stimulus Spending",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Summer Blockbuster Roundup",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ojk2dq9M1Dg",
+            "title": "In First on the Fourth",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

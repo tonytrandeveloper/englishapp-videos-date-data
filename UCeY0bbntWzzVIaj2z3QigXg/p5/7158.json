@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UPg1VVdTMsM",
-            "title": "Ferguson 'On Edge' Before Grand Jury Decision | NBC News",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "oJBzHT2zpeg",
             "title": "Chinese President Avoids American Reporter's Question | NBC News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Veterans Affairs Announces Sweeping Reforms | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmr1kx9IcEA",
+            "title": "Armistice Day London: Poppies Honor WWI Soldiers | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "y1EX2--AO2g",
-            "title": "Scott Walker 'This Week' Interview",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "PYrvhmZIuhI",
             "title": "John F. Kennedy Remembered 50 Years After Assassination",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Obama Proposes Fix to Health Care 'Fumble'",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "kn01IjX9iDo",
+            "title": "Crack Smoking Toronto Mayor, Rob Ford, Denies Propositioning Ex Employee",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

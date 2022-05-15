@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fLLDZE_Jhys",
-            "title": "NFL players send message to Trump in national anthem dispute",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "C66ZqDfKLl4",
             "title": "Colin Kaepernick remains unsigned amid national anthem controversy",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Trump takes on NBA and NFL stars",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z6pjB9EuJ2U",
+            "title": "Residents of Puerto Rico facing long recovery after Hurricane Maria",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

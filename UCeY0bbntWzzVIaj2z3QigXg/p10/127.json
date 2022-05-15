@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mzjLMOv1lg4",
-            "title": "Top Story with Tom Llamas - March 1 | NBC News NOW",
-            "secondDuration": 3063,
-            "group": "group_7"
-        },
-        {
             "videoId": "jzxXVaFZ760",
             "title": "Biden On Covid: ‘We Are Moving Forward Safely’ Back To Normal Routine",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "Growing Concern Over Putin’s Next Move",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "lhpfh0IgDwA",
+            "title": "Growing Number Of Schools Lift Mask Mandates",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

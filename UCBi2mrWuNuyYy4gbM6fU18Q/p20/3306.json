@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WGtiiMIBsFA",
-            "title": "Gingrich and Dean Talk Health Care",
-            "secondDuration": 844,
-            "group": "group_7"
-        },
-        {
             "videoId": "-OTGLHrGExw",
             "title": "Weekend Window to Cannon Beach, Oregon",
             "secondDuration": 166,
@@ -121,8 +115,14 @@
             "title": "Jobs Report: Is Anyone Hiring?",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "GrCCAm1Rqfk",
+            "title": "Sex Pain Leads to Physical, Emotional Anguish",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

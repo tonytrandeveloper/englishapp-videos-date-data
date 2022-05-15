@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IjZX8FMSjfs",
-            "title": "How The Education Department Is Shielding Student Loan Services | NBC News Now",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "q70GTfGIBXo",
             "title": "Explaining The Obstacles African Migrants Face At Mexican Border | NBC News Now",
             "secondDuration": 326,
@@ -61,8 +55,14 @@
             "title": "Cities, States Pushing Back On Settlement With Purdue Pharma | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "zoKm25iWQUI",
+            "title": "President Donald Trump Talks Gun Legislation: ‘Progress Is Being Made’ | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

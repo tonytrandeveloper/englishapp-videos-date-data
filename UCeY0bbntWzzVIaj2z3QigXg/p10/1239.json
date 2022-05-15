@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d3kNYgXJTEo",
-            "title": "Watch NBC News NOW Live - July 28",
-            "secondDuration": 42902,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xr3Hiuvaif0",
             "title": "Iran, U.S. Tensions Heighten After Passenger Jet Incident | NBC News NOW",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Trump Under Fire For Sharing Coronavirus Misinformation On Social Media | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "hbXWO8Hoyw4",
+            "title": "New York EMS Captain’s Warning From The Pandemic Front Lines | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

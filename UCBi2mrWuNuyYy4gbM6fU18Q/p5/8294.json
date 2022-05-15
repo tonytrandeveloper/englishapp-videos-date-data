@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UV3EJFmgK6I",
-            "title": "Baseball Fan Catches Foul Ball With Cup | ABC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "mbo89hZjB9Q",
             "title": "Miley Cyrus, Justin Bieber Set to Perform at VMA Awards | ABC News",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Walmart Rolls Out Early Holiday Layaway",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "Za5kFMs-6FE",
+            "title": "New Poll Shows Trump's Biggest Lead Yet",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

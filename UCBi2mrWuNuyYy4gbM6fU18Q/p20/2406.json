@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pUUvaLmm30Q",
-            "title": "Zac Efron Attacked in L.A.'s Skid Row",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "A2ZJ6Hyn260",
             "title": "Michigan State University College Basketball Star Befriends Young Cancer Patient",
             "secondDuration": 238,
@@ -121,8 +115,14 @@
             "title": "Saved from a Burning Inferno",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvVU1Wt5g-E",
+            "title": "Spring Blizzard Hits Northeast",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

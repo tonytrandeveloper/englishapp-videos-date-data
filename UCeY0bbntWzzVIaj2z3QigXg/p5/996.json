@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tuET8Hm87uU",
-            "title": "NBC News NOW Full Broadcast – September 3, 2021",
-            "secondDuration": 2968,
-            "group": "group_7"
-        },
-        {
             "videoId": "0w8Awc2nc0w",
             "title": "Educators Under Pressure From Parents Amid Critical Race Theory Debate",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "ISIS Supporter Killed After Stabbing Attack At New Zealand Supermarket",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "KQy6l24ymkE",
+            "title": "Biden Surveys Damage in Louisiana After Hurricane Ida",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

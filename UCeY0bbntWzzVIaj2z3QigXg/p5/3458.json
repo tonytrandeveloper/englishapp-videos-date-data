@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7IU_oSjvpeA",
-            "title": "Volker: I Didn’t Take ‘Talk To Rudy’ As Instruction | NBC News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ATKak_Es0U",
             "title": "Volker Opening Statement: I Was Unaware Of Effort To Investigate Biden | NBC News",
             "secondDuration": 1477,
@@ -31,8 +25,14 @@
             "title": "Morrison: 'Russia Is A Failing Power, But It Is Still A Dangerous One' | NBC News",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "l0zOaS0XSOA",
+            "title": "Nunes Opening Statement: ‘Welcome Back To Act II Of Today’s Circus’ | NBC News",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

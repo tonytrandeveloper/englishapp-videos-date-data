@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9oVVHW-XIFM",
-            "title": "Dallas Hero Mom Speaks on Recovery, Healing",
-            "secondDuration": 386,
-            "group": "group_7"
-        },
-        {
             "videoId": "UPK9mE5T4Rk",
             "title": "Dallas Gunman Micah Johnson Described as Outgoing, Funny by Friend",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Dallas Shooting | Micah Xavier Johnson's Attack Plan",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "8CILL-cDxRU",
+            "title": "Philando Castile | Diamond Reynolds on Livestreaming Police Shooting",
+            "secondDuration": 428,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

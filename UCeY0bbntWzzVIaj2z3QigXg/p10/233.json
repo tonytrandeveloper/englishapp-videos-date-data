@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gu4CISy_-pQ",
-            "title": "Video Game Giant Activision Blizzard Faces Worker Walkout",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnFRTx8tVfM",
             "title": "Ohio Supreme Court Battles Partisan Gerrymandering In Redistricting Process",
             "secondDuration": 310,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW - Jan. 14 | NBC News NOW",
             "secondDuration": 2927,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXlyLPGI9W0",
+            "title": "Inside Pittsburgh Children’s Hospital Overwhelmed By Covid Cases",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

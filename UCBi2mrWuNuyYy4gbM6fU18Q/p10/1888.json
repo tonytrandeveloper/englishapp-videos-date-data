@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wTikWUQUpPg",
-            "title": "Beverly Hills Realtor charged in celebrity burglaries | ABC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "fxDt1B34Eus",
             "title": "Authorities foil 3 new mass shooting threats | ABC News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Bellman claims hotel worker was not attempting to rob father",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "3QN5YEwS-1M",
+            "title": "President Trump presents Medal of Freedom to former Boston Celtics point-guard Bob Cousy | ABC News",
+            "secondDuration": 1124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

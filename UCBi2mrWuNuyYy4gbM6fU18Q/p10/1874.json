@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qcV3s5fSvzU",
-            "title": "Desperate search for survivors after boat catches fire",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "qIuxhVpKdTw",
             "title": "Hurricane Dorian hammers the Bahamas for more than 24 hours l ABC News",
             "secondDuration": 212,
@@ -61,8 +55,14 @@
             "title": "Mass shooting in Texas leaves 7 dead, 22 injured | ABC News",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "37UQRV1IRX8",
+            "title": "FEMA chief describes latest Hurricane Dorian preparations | ABC News",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

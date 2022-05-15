@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d_GaRz70oEs",
-            "title": "Arizona Student’s Fundraiser Helps Teachers Pay Student Loans, Underscoring Larger Issue",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "O2xD3U3M3oo",
             "title": "Biden Meets With New York City Mayor To Address Rising Crime",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "U.S. Accuses Russia Of Planning Fake Attack By Ukraine",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "G0-427Mihm4",
+            "title": "Deep Freeze Hits Millions Across U.S.",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

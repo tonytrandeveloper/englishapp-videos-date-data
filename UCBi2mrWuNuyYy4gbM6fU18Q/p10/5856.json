@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8e_e1T9H4gI",
-            "title": "Thunderstorm System Causes Airplane Turbulence",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "ptZm2KfwLPM",
             "title": "Augusta National Golf Club to Admit First Woman?",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Cate Le Bon Interview: Indie Artist's Country Roots, 'Cyrk' Album Discussed in Interview",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "LTdmHJVsnlg",
+            "title": "'Dancing With the Stars' Sees Gavin DeGraw's Emotional Dance; Katherine Jenkins, William Levy Shine",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

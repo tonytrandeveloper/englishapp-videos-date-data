@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3KBYQrXVd-Q",
-            "title": "Pint-Sized Boy's Big Baseball Dream | ABC World News Tonight | ABC News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "BynJmKpzJEw",
             "title": "51-Year-Old Actor Doug Hutchison Marries Teenager: Couple Speaks Out",
             "secondDuration": 415,
@@ -121,8 +115,14 @@
             "title": "Jaycee Dugard: How Police Failed to Save Her",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "dtjX-VUrZnA",
+            "title": "'Carmageddon' Impedes Marriage Ceremony",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

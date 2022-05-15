@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t0AKsxQ5pAY",
-            "title": "Biometric Scanning Now More Widely Available, Speeding Security Lines | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "8myg0Q8kbKM",
             "title": "Trump Tells Republicans To Stop ‘Wasting Their Time’ On Immigration Legislation | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Can Drones Save Whales Trapped In Fishing Gear? | Mach | NBC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "fUBrWI3ZQEI",
+            "title": "Former NFL Cheerleader Recounts Being Duct Taped Before Game | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

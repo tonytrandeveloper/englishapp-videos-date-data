@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7UyxCgI7gtE",
-            "title": "Bill Cosby goes on trial for alleged sexual assault",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "CNJaLBLL3sU",
             "title": "Eiffel Tower zipline gives incredible views of Paris",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Trump to make infrastructure push in the US",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "8GhvdC74REU",
+            "title": "Vigil held for London terror attack victims",
+            "secondDuration": 451,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

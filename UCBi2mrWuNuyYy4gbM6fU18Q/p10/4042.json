@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xLOjIzZhZXI",
-            "title": "'The Hunger Games' Cast Live in Times Square",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "b_Uk-jTDKiU",
             "title": "Major Raid Targets Paris Attack Mastermind",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Inspiring Father Explains Paris Tragedy to Child",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "pJ5qj4UkqAk",
+            "title": "Retracing the Steps of the Paris Attackers",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

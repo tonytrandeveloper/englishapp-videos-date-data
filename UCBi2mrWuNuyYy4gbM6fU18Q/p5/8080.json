@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y76PKvh8xwI",
-            "title": "Martin Sheen Speaks Out on Charlie Sheen's HIV Revelation",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "nzq6Vm0XxVo",
             "title": "ISIS Claims Soda Can Bomb Downed Russian Plane",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "New ISIS Video Threatens Attack on U.S.",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "5mnBSPkh0Yc",
+            "title": "Paris Attacks Alleged Mastermind Killed in Raid",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

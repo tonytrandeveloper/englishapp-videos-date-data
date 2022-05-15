@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fvvg7DoTtzQ",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2635,
-            "group": "group_7"
-        },
-        {
             "videoId": "WNo59AmUk5M",
             "title": "Justice Breyer Announces Supreme Court Retirement, Reflects On Love of Teaching",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "How A Holocaust Survivor’s Undelivered Letter Was Returned To Her Family After 75 Years",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "Eil4KjlVqok",
+            "title": "National Guard Soldiers Deployed As Substitute Teachers In New Mexico",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

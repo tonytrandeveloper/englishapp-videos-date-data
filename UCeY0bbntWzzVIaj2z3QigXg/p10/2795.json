@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YKewYEIsfR8",
-            "title": "Self-Driving Shuttle Hit By Delivery Truck On Its First Hour Of Service | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ymp9ziicqxo",
             "title": "Jet-Powered Suit Sets New Fastest Speed As World Records Tumble | NBC News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "TSA Fails Most Undercover Tests At A Disturbingly High Rate | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "bI03p9Um244",
+            "title": "Texans Mourn Those Lost In Sutherland Springs Church Massacre | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

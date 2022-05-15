@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PYpe6D8yhNE",
-            "title": "More details surface about deadly ambush in Niger",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "GajhXKH5hsE",
             "title": "Widow of fallen soldier breaks silence about her call with Trump",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Manhunt grows for suspected Florida serial killer",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yz0VUipUbhU",
+            "title": "Wildfires spread as conditions worsen in California",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

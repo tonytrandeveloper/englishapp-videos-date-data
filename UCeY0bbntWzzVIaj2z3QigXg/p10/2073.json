@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FS5va1E6PRI",
-            "title": "CAIR To American Muslims: 'Do Not Abandon Your Mosques' | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "H_Sc1hmE6fY",
             "title": "Geothermal Energy Could Heat Homes And Reduce Our Dependence On Fossil Fuels | Mach | NBC News",
             "secondDuration": 338,
@@ -61,8 +55,14 @@
             "title": "Reputed Mafia Boss Gunned Down Outside New York City Home | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "WZrx7YYlLSg",
+            "title": "Beto O’Rourke Announces 2020 Presidential Run | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

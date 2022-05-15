@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "C8UtADg-6Lc",
-            "title": "Jewlery Store Robbed in 30 Seconds CAUGHT ON TAPE | ABC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "WWNn5wUGdJc",
             "title": "Trump: 'Go Nuclear' on SCOTUS Confirmation of Neil Gorsuch | ABC News",
             "secondDuration": 51,
@@ -121,8 +115,14 @@
             "title": "Hit & Run Driver Hits Boy [GRAPHIC] | ABC News",
             "secondDuration": 21,
             "group": "group_7"
+        },
+        {
+            "videoId": "UtvPGwFr3BA",
+            "title": "Trump References DNC Hacking in Cybersecurity Remarks",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

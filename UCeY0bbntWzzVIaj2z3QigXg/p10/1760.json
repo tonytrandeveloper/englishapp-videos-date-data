@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s2AvBk1M9hk",
-            "title": "Katie Hill Delivers Fiery Final Speech On House Floor | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "dynJwz8YM7Y",
             "title": "Protesters March On Day That Would Have Been Brexit Deadline | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Watch Live: Lawmakers React After House Passes Impeachment Resolution | NBC News",
             "secondDuration": 14013,
             "group": "group_7"
+        },
+        {
+            "videoId": "SfBg4gYPK50",
+            "title": "Special Report: House Votes To Pass Impeachment Resolution | NBC News",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V_WWJH4T3V0",
-            "title": "This Morning’s Top Headlines – Sept. 23 | Morning News NOW",
-            "secondDuration": 1375,
-            "group": "group_7"
-        },
-        {
             "videoId": "99kik0xjnck",
             "title": "12-Year-Old Gets Covid Vaccine As Birthday Gift",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "What We Know So Far About The Gabby Petito Investigation",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "59MAVdQG2kc",
+            "title": "Biden And Macron Speak In First Call Since Dispute Over Submarine Deal",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

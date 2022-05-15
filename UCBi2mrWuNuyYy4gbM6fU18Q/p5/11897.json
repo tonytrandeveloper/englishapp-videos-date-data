@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g9z93Pi6GUs",
-            "title": "Webcast: Elizabeth Taylor Jewels; Helicopter Crash in Washington",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "rL9LlRfsqDQ",
             "title": "Grandma, Alledgedly Shoots Son-in-Law",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney's $10,000 Bet: Fallout From the Iowa Debate",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "g60tr2VKnDI",
+            "title": "Teen Escapes Al-Qaeda Captors in the Philippines",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

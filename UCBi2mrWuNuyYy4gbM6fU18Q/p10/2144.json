@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rKg8duiFiA4",
-            "title": "The Debrief: Trump-Kim summit, Cohen on the Hill, Amazon cargo plane crash | ABC News",
-            "secondDuration": 1518,
-            "group": "group_7"
-        },
-        {
             "videoId": "5zhFsWGbc1g",
             "title": "Trump and Kim's meetings' effect on Korea",
             "secondDuration": 373,
@@ -61,8 +55,14 @@
             "title": "Trump on no deal with North Korea: 'Sometimes you have to walk'",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHGCZna1IIc",
+            "title": "North Korea Summit 2019: Trump, Kim Jong Un meet in Hanoi, Vietnam for second summit",
+            "secondDuration": 23832,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

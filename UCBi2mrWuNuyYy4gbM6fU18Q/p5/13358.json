@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03qQbKsPMHE",
-            "title": "Dane Cook's New Comedy Album",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "lQXKB_3yEKI",
             "title": "Picking the Next Chief Justice",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "What's the Deal With Your Scar?",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZPxj15VSRY",
+            "title": "Mullen on Foreign Policy Challenges",
+            "secondDuration": 1308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c5JYrAOXLhg",
-            "title": "Survivors and supporters rally together in Girls for Gender Equity walkout",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "QazS3R4Qvuc",
             "title": "SCOTUS pick battles back against allegations of sexual misconduct",
             "secondDuration": 282,
@@ -61,8 +55,14 @@
             "title": "Siblings release campaign ad against candidate brother",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "l1_OwfFsxa0",
+            "title": "WH gives forceful response to 2nd Kavanaugh accuser",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

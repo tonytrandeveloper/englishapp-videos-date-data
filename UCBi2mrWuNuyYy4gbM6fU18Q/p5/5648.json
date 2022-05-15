@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8fANDNdL_Mg",
-            "title": "Giant inflated chicken with orange hair spotted near the White House",
-            "secondDuration": 2015,
-            "group": "group_7"
-        },
-        {
             "videoId": "8B2j4Rp9U7E",
             "title": "US State Department briefing following President Trump's North Korea warning",
             "secondDuration": 4030,
@@ -31,8 +25,14 @@
             "title": "'Rhinestone Cowboy' singer Glen Campbell dies at 81",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "jceMu_IpIWI",
+            "title": "New security warning of chips falling out of credit cards",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

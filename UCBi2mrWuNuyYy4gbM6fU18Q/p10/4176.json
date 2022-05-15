@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AAM_HNmnEAo",
-            "title": "Peter Jenning's Impact Still Lives on 10 Years After His Death",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "CqT6JmNIBrw",
             "title": "Donald Trump Disinvited From Conservative Event After GOP Debate",
             "secondDuration": 265,
@@ -61,8 +55,14 @@
             "title": "Sunroofs Shattering Without Warning?",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "3YpzXsGNtjc",
+            "title": "GOP Debate Coverage Recap",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

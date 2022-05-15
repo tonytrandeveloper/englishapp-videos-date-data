@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dupw2pH3oes",
-            "title": "Boston Marathon Explosions Video: Two Bombs Near Finish Line",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "3dHJK7kC7Vs",
             "title": "Boston Marathon Explosions: 'Like a War Zone'",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Boston Marathon Explosions: World News Now",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "CdgGj7wON10",
+            "title": "Boston Marathon Explosions: Terror at the Finish Line",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

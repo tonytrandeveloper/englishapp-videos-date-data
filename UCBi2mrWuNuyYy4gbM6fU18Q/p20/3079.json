@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S5jfYTsDYxU",
-            "title": "Japan Earthquake: Radiation Effects On Body (03.14.11)",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "XStcRzofmV4",
             "title": "What if a Major Quake Hit the U.S?",
             "secondDuration": 247,
@@ -121,8 +115,14 @@
             "title": "Japan Earthquake, Whirlpool off the Coast 3/11/2011",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "MBvkz5sPj5E",
+            "title": "Japan Earthquake Caught on Tape: 'This Is So Scary'",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

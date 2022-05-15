@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TaEvKB5sGbE",
-            "title": "Live: New Jersey Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3707,
-            "group": "group_7"
-        },
-        {
             "videoId": "njwnWWxjvOQ",
             "title": "Pelosi: Firing Of State Department Inspector General Is 'Scandalous' | NBC News NOW",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Pompeo Says State Department Inspector General Should Have Been Fired 'Some Time Ago' | NBC News NOW",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "E1VYfHjVCk8",
+            "title": "Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3275,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

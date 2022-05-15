@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bL-PBD5agnI",
-            "title": "'GMA' Behind the Scenes",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBXUkUNogo0",
             "title": "Your Swine Flu Questions Answered",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "The Bottom Line on Souter's Retirement",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "r2JGk_WM6VQ",
+            "title": "American Gothic",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

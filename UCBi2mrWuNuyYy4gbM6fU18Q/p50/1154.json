@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MiqQduwerHo",
-            "title": "Battle-torn Rebels Fight Back in Syria",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "YJWbX2Itn8Y",
             "title": "Nora Ephron: Wit and Wisdom from Writer, Director",
             "secondDuration": 185,
@@ -301,8 +295,14 @@
             "title": "Sandusky Guilty: Will He Appeal?",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "6TMhZobOzMY",
+            "title": "Rielle Hunter Details Secret Affair",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jY6TGPQyPL8",
-            "title": "Senate Candidate Ken Buck on 'Top Line'",
-            "secondDuration": 644,
-            "group": "group_7"
-        },
-        {
             "videoId": "7cG5hJExWlY",
             "title": "Diane Sawyer in the Gulf",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "'Grim Sleeper' Arrested",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "eJFxgZocdDs",
+            "title": "Synchronized Bombs Kill 74",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-6BdGypI-lM",
-            "title": "6-Month-Old Girl Breaks World Record on Water Skis",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "1GYLFzo9K2s",
             "title": "Tony Gwynn's Family Suing Tobacco Companies for Wrongful Death",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Airline Bomb Threats Cause Havoc at Airports",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "si422_gFUDE",
+            "title": "Trump, Clinton Exchange Personal Blows as White House Race Heats Up",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

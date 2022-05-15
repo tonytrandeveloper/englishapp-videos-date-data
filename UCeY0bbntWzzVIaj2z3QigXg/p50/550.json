@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nvAc1HSRhjo",
-            "title": "Port Authority Suspect Charged In Pipe Bomb Attack | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "IiOkihRG0Q8",
             "title": "Democrats Call For Investigation Of Sexual Misconduct Against President Donald Trump | NBC News",
             "secondDuration": 76,
@@ -301,8 +295,14 @@
             "title": "Travel Troubles: Snow Cancels Flights Along The East Coast | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q2AnfdNL2yc",
+            "title": "Southern California Wildfires Leave 800 Structures In Ashes | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

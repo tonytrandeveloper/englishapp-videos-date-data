@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iZj8CE7fwSE",
-            "title": "'Star Wars: The Last Jedi' movie (2017) and 'Darth Vader,' 'Poe Dameron' comics on 'Inside Marvel'",
-            "secondDuration": 1515,
-            "group": "group_7"
-        },
-        {
             "videoId": "6xe64i_4GhM",
             "title": "Controversial WH adviser speaks out on resignation",
             "secondDuration": 672,
@@ -31,8 +25,14 @@
             "title": "House, Senate GOP reach possible tax deal",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "KogjSyNk0L4",
+            "title": "Sandy Hook: Five years later, victims' families find new purpose",
+            "secondDuration": 453,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

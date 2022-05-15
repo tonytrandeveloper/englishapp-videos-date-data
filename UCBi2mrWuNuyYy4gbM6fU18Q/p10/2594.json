@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NS0LsfGAcBU",
-            "title": "Increasing number of children killed by flu epidemic",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "_RNxogfO0Lw",
             "title": "The family who gave Nikolas Cruz a home reveals more shocking details",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "Survivors Of The Parkland School Shooting Speak Out",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dij2eO-8Oqo",
+            "title": "President Trump claims vindication after new indictments in Russia probe",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

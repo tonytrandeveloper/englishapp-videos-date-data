@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rOMPYFT7nws",
-            "title": "Massachusetts police arrest suspect in murder of jogger",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "KWHAbL8v0ho",
             "title": "Protesters rally around the country demanding to see President Trump's tax returns",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Prince Harry to spend the Easter holiday with girlfriend Meghan Markle and her family",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "hT4VCPkxhIA",
+            "title": "North Korea shows military muscle at parade celebrating the country's late founder",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

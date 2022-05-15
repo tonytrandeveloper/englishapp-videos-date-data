@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PUz_CaKbT_c",
-            "title": "Bill Cosby sentenced to 3 to 10 years in prison for sexual assault: WPVI Coverage",
-            "secondDuration": 7633,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6duwP875vM",
             "title": "'The Briefing Room': Trump at UN, Kavanaugh's Fox interview, Rosenstein latest | ABC News",
             "secondDuration": 1227,
@@ -121,8 +115,14 @@
             "title": "Siblings release campaign ad against candidate brother",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "l1_OwfFsxa0",
+            "title": "WH gives forceful response to 2nd Kavanaugh accuser",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MeKxEhgx6lM",
-            "title": "'This Week': Vladimir Putin",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "xDJa_TbLEi4",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 1088,
@@ -61,8 +55,14 @@
             "title": "Road Rage Leads to Wild High Speed Chase",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "mbkwG8sF__g",
+            "title": "Super Bowl 2014: 49er's Jim Harbaugh Called Out for Fashion Faux Pas",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jPgKAnG6U7c",
-            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyJ1kzG0Wb4",
             "title": "‘I’m The One Hoarding Toilet Paper’: 10 Anonymous Confessions In The Time Of COVID-19 | NBC News",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "New Jersey Governor Closes State, County Parks After Too Many People Seen Gathering | NBC News Now",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "G7o_nwnkRYU",
+            "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5305,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

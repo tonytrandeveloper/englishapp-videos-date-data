@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mkF8VLlHSfQ",
-            "title": "Katie Holmes Files for Divorce From Tom Cruise",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "k3LFESN_I4Y",
             "title": "Person of the Week:  Kirk Douglas",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Chimpanzee Attacks American Student",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "cYG9J480DhU",
+            "title": "Triple-Digit Heat Across the Nation",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

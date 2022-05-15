@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "W8NkiGerjKs",
-            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "mz-aep91l8U",
             "title": "Life Inside Germany As National Lockdown Is Extended | NBC News NOW",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "California Gov. Warns Residents To Brace For New Normal | NBC Nightly News",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "CZdkubol6bg",
+            "title": "Florida Utility Worker Brings Birthday Joy To Nursing Home Resident Amid Coronavirus Pandemic | NBC",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yqXiiqYwyog",
-            "title": "The Danger of Drowsy Drivers",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "fSwYUVcEPJ0",
             "title": "The Conversation: High School Kids in China",
             "secondDuration": 110,
@@ -301,8 +295,14 @@
             "title": "Inside the Battle for Control of Congress",
             "secondDuration": 342,
             "group": "group_7"
+        },
+        {
+            "videoId": "mqqj8oqJ8BE",
+            "title": "Charlie and Brooke File for Divorce",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

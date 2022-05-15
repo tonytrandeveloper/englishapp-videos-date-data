@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fuxm5tVBNNo",
-            "title": "WEBCAST: Wave of Grief",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "ILLhH1cm53U",
             "title": "Virginia Tech Survivor Fights Back Against Guns",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "President Obama Promises Action to Reduce Gun Violence",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "wGfWTFwHpoo",
+            "title": "Blizzard Warnings Threaten Holiday Air Travel",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

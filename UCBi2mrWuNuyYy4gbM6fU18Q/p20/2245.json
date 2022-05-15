@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5YnByAMnJLQ",
-            "title": "On The Frontlines to Find the Terror in Paris Suspects",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vi7e0BkopGg",
             "title": "HOSTAGE SITUATION: Video of Manhunt for Suspects in Charlie Hebdo Attack",
             "secondDuration": 73,
@@ -121,8 +115,14 @@
             "title": "\"EXCLUSIVE INTERVIEW:  Phylicia Rashad on the Bill Cosby Firestorm",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPb7WcZbwtM",
+            "title": "CES 2015: Take a Ride in a Self-Driving Car",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

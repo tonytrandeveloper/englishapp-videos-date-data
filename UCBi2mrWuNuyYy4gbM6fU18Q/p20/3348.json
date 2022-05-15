@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PMlJInbWSRU",
-            "title": "How to be Happy",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "banUnW8CA68",
             "title": "Bristol Palin on Preventing Teen Pregnancy",
             "secondDuration": 545,
@@ -121,8 +115,14 @@
             "title": "Recession's New Gender Roles",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuWV85jt8Wk",
+            "title": "Amplified: Superdrag",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

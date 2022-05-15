@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XDCNowyPpe4",
-            "title": "A tiny community in South Korea is preparing in case of war with North Korea",
-            "secondDuration": 566,
-            "group": "group_7"
-        },
-        {
             "videoId": "PcwxXJ_H2Y4",
             "title": "House Speaker Paul Ryan trying to get GOP on board with bipartisan budget deal",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "WH reacts to Senate's sweeping spending deal",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "om8H9bfCzBQ",
+            "title": "Lawmakers race to strike a $500B budget deal",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

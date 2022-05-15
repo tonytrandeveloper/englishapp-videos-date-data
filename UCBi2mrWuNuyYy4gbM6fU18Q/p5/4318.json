@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yyno_T4LuIo",
-            "title": "Serial killer Ted Bundy's murder spree instills fear in the Pacific Northwest (NIGHTLINE)",
-            "secondDuration": 675,
-            "group": "group_7"
-        },
-        {
             "videoId": "0W5uIsZ1qzQ",
             "title": "Bundy 20/20 Pt 3: Witnesses recall a man named 'Ted' at lake where women were abducted by Bundy",
             "secondDuration": 487,
@@ -31,8 +25,14 @@
             "title": "Fatal shooting in Illinois, active shooter 'neutralized'",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "Obc00p2YxB0",
+            "title": "Trump declares national emergency in the Rose Garden",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

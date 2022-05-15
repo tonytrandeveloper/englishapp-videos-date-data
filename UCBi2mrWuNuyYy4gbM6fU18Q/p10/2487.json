@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IIfK4lqrUsQ",
-            "title": "Amazon Prime set to increase its annual membership fee by $10",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "o6sVvcS-Vcs",
             "title": "12-year police veteran in critical condition after neck stabbing",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Giuliani says special counsel can't indict the president",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "u78vLISDvKo",
+            "title": "The race to prevent the sudden death of mothers in childbirth in the U.S.",
+            "secondDuration": 607,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

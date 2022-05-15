@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "o_K6qLQmIUI",
-            "title": "Car ramming attack in California",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "SdmC7fW2q7M",
             "title": "'Jeopardy' new million dollar champ",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "ISIS claims responsibility for Sri Lanka bombings",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "bUhVG4mD3Ok",
+            "title": "Zookeeper mauled by tiger identified",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

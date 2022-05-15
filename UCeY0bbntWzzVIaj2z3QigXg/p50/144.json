@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fyJ9UxcdjSc",
-            "title": "Biden Announces Monthly Payments As Part Of Child Tax Credit",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "v0nsLPo5DzA",
             "title": "Cuomo Announces New York Will Adopt CDC's Guidelines On Masks",
             "secondDuration": 155,
@@ -301,8 +295,14 @@
             "title": "White House Holds Press Briefing: May 14 | NBC News",
             "secondDuration": 3091,
             "group": "group_7"
+        },
+        {
+            "videoId": "5zJTQFrvCoo",
+            "title": "Morning News NOW Full Broadcast - May 14 | NBC News NOW",
+            "secondDuration": 3101,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

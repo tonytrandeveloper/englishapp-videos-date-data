@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mCPoXenoNcs",
-            "title": "Deputy attorney general to resign from DOJ: Sources",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "mo9ARl3QAfA",
             "title": "Democrats, Pence differ on shutdown-meeting details",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "Trump walks out of meeting with congressional leaders",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFOho_9RJ2c",
+            "title": "Briefing Room: Hill Showdown on Shutdown, Trump southern border visit, Rosenstein plans DOJ exit",
+            "secondDuration": 1910,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

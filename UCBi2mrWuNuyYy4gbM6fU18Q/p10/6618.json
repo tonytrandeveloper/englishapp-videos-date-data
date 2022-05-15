@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QdETNKSN6ME",
-            "title": "News You Missed: Alligator Apprehended",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzNJxweGRmw",
             "title": "Recession Rebound?",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Inside the White House",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "iWhgln6qCwU",
+            "title": "Strange Brew at the Executive Mansion",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

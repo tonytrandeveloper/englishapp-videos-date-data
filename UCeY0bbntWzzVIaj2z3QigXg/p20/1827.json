@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "R3es2HUMVzI",
-            "title": "Maria Shriver: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "6zhCKGA-HfM",
             "title": "Richard Engel: \"I have a dream that...\"",
             "secondDuration": 17,
@@ -121,8 +115,14 @@
             "title": "Andrew Zimmern: \"I have a dream that...\"",
             "secondDuration": 6,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z5tuyu_05qs",
+            "title": "Lee Saunders: \"I have a dream that...\"",
+            "secondDuration": 7,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

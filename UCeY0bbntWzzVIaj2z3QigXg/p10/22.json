@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IFWpy8reu44",
-            "title": "'It's Everywhere': Latino Communities Mobilize Against Misinformation",
-            "secondDuration": 511,
-            "group": "group_7"
-        },
-        {
             "videoId": "GiXEiT9BFfo",
             "title": "American Dreaming With José Díaz-Balart: Dr. Alfredo Quiñones-Hinojosa",
             "secondDuration": 674,
@@ -61,8 +55,14 @@
             "title": "Humanitarian Aid Workers Struggle To Get Food, Supplies To Northern Ukrainian Towns",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "HUTT57imB7s",
+            "title": "How Ukrainian Teachers Are Coping With The War In Ukraine",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q04cyuHT784",
-            "title": "Top Story with Tom Llamas - Dec. 14 | NBC News NOW",
-            "secondDuration": 3107,
-            "group": "group_7"
-        },
-        {
             "videoId": "FWob9V6JmRI",
             "title": "NOW Tonight with Joshua Johnson Full Episode - Dec. 14 | NBC News NOW",
             "secondDuration": 3006,
@@ -31,8 +25,14 @@
             "title": "DHS Fears Critical Flaw In Software Program Could Lead To Widespread Hacks",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "wWyYd2zlyLU",
+            "title": "Officials Announce Former NFL Player Phillip Adams Had CTE At Time Of SC Shooting",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

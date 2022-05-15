@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9QBeakiLzNY",
-            "title": "Meet Aesha, a Symbol of Strength and Triumph",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "PrQxtNIVv1g",
             "title": "Stock Market Takes a Dramatic Dive",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Chris Pratt Discusses His Role in 'Guardians of the Galaxy'",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "3NqCM2sTEDA",
+            "title": "Will.i.am Discusses the Release of His Debut Solo Album",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

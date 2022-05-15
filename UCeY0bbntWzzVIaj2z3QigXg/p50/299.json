@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0K9l8ObNx5o",
-            "title": "Those Without Direct Deposit Info On File With IRS May Wait Months For Relief Checks | NBC News NOW",
-            "secondDuration": 601,
-            "group": "group_7"
-        },
-        {
             "videoId": "mxnUJixLQTM",
             "title": "Cruise Ship With COVID-19 Passengers Docks In Florida | NBC News",
             "secondDuration": 82,
@@ -301,8 +295,14 @@
             "title": "What You Need To Know About Coronavirus Stimulus Checks | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "K4cu2-UdLlo",
+            "title": "New Data Shows Social Distancing, Stay-At-Home Orders May Be Factor In Slowing Spread Of Virus | NBC",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

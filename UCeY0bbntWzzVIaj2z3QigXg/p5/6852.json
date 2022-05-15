@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yt5d9LZ8AHk",
-            "title": "Chuck Todd On Iowa Caucus Day: A Waiting Game | Meet The Press | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "yvrOnEMjEWs",
             "title": "Ted Cruz: 'Thrilled And Astonished' By Iowa Numbers | Meet The Press | NBC News",
             "secondDuration": 518,
@@ -31,8 +25,14 @@
             "title": "Brendan Dassey’s Attorneys Speak Out On Steven Avery Investigation | Dateline | NBC News",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "NF-6RRLM8ZU",
+            "title": "Tom Brokaw on Iowa’s Relationship With the Presidential Election Circus | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

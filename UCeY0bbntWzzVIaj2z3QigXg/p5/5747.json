@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GIpNGZVlMGs",
-            "title": "Aerial Footage Of Dominica Captures The Destruction Of Hurricane Maria | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "zoDWZE6LViI",
             "title": "NBC News Special Report: Hurricane Maria Makes Landfall | NBC News",
             "secondDuration": 358,
@@ -31,8 +25,14 @@
             "title": "American Red Cross Fails To Pay Funds Promised To Many Hurricane Harvey Victims | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "D1HAWGZPfCU",
+            "title": "How The City Of Providence Comforts Sick Children | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

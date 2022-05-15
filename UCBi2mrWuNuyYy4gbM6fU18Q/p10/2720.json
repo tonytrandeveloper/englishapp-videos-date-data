@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tXJycI1UMYg",
-            "title": "Boaters rescued after nearly 5 months lost at sea",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "r9x-5i-gCQc",
             "title": "10-year-old takes police on high-speed chase",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump declares opioid crisis a public health emergency",
             "secondDuration": 2843,
             "group": "group_7"
+        },
+        {
+            "videoId": "maCRgwBEKVc",
+            "title": "Ashley Judd describes alleged Harvey Weinstein encounter",
+            "secondDuration": 541,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jagxclby7IU",
-            "title": "Multi-state manhunt launched after 4 men escape prison | ABC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "cki6RNR0Qvw",
             "title": "Extremists attack US military base in Somalia | ABC News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "4 ‘extremely dangerous’ inmates escape Ohio prison",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "7u_SDQz7MWA",
+            "title": "House Intelligence Committee expects to hear from whistleblower 'very soon': Schiff | ABC News",
+            "secondDuration": 671,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

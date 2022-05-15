@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c-sDbeBIKSQ",
-            "title": "Comedian in Chief",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "iv_cmrVLMS8",
             "title": "Bottom Line on Obama's Health Care Plan",
             "secondDuration": 186,
@@ -121,8 +115,14 @@
             "title": "Is So-Called 'Roid Rage a Lot of Bunk?",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "17nD4FowE10",
+            "title": "Connie Culp Talks About Her Future",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

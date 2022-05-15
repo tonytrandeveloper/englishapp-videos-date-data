@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5U0Mr4ra4zw",
-            "title": "Lightyear: A Car That Runs On Sunshine | Mach | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "KJokRF0p3_Y",
             "title": "Meet Lien Pham, The 'Spacecraft Dressmaker' Sewing Thermal Blankets At NASA | NBC Asian America",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "'We Love You:' Obamas Honor Diana Ross For Lifetime Achievement At American Music Awards | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "emgdQkuJBgs",
+            "title": "Former Skinhead Seeks Redemption By Covering Hateful Tattoos For Free | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

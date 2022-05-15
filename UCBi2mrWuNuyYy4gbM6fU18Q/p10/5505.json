@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RjLGh9vyiQk",
-            "title": "Learning Lincoln",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "5wSIyyfAozs",
             "title": "Losing It All",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "David Petraeus Affair Scandal Fallout: 'This Week' Roundtable Discussion",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzdxAcG3Lxw",
+            "title": "'This Week' 2012 Election Prediction Results",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PeRgmo_qGG0",
-            "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "MVD4Ewhwtis",
             "title": "Nancy O'Dell Responds to Donald Trump's Leaked Comments",
             "secondDuration": 357,
@@ -61,8 +55,14 @@
             "title": "Last Night's Presidential Debate Was a War of Words",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "pnP3wJTgXTY",
+            "title": "California Community Mourning Death of 2 Police Officers",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

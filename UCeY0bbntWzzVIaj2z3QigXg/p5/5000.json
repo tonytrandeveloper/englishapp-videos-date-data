@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N7OpVy1EmLU",
-            "title": "Miss America Ends Swimsuit Competition | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "U9dTKGMtNhE",
             "title": "President Donald Trump Hosts A Celebration Of America | NBC News",
             "secondDuration": 639,
@@ -31,8 +25,14 @@
             "title": "Man Suspected In Series Of Killings In Arizona Found Dead | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "e6ezigPZLMk",
+            "title": "Parkland School Resource Officer Speaks Out, Giving His Side Of The Story | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r82456QphlQ",
-            "title": "Internet Trolls Brigade George Zimmerman's Gun Auction",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "DUtkS2w8JjY",
             "title": "Con Artist Feigns Blindness, Collects Social Security For Years",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Addresses Not Releasing Tax Returns",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVVOwP9bUoM",
+            "title": "George Zimmerman Auctioning Gun Used to Kill Trayvon Martin",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

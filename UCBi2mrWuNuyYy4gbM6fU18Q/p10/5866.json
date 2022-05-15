@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UP0agm3dCkQ",
-            "title": "Million Hoodie March Held in Honor of Trayvon Martin",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "R2EosJohR5A",
             "title": "Trayvon Martin Case Sparks Debate Over Law",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "French Police Raid House in Toulouse in Search for Gunman",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "CxyjdXdWlFE",
+            "title": "GasBuddy.com Finds Cheapest Gas in Town",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A67L5I-oqec",
-            "title": "Many American Military Families Struggling With Hunger | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tn98wPMAzJA",
             "title": "Vatican Mystery Deepens: Two Sets Of Bones Found Beneath Stone Slab | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Watch: Tropical Storm Barry Hits Louisiana With Floods And Strong Winds | NBC News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pFuksRMwYg",
+            "title": "Federal Prosecutors Accuse Jeffrey Epstein Of Witness Tampering | NBC News Now",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

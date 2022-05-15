@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IKDvbKAGGY0",
-            "title": "Watch Live: Way Too Early: The 2020 Election | NBC News",
-            "secondDuration": 9577,
-            "group": "group_7"
-        },
-        {
             "videoId": "3RVRTIHS9q4",
             "title": "NBC News Exclusive: Scientists Find Rare Bones From Civil War Battlefield | NBC Nightly News",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Parts Of Texas Submerged After Heavy Rain Triggers Flash Floods | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "s--L1L3ea8Q",
+            "title": "Massachusetts Jogger Attacked In Broad Daylight Speaks Out | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

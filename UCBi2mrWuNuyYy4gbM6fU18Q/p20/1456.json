@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y71tSCqvz54",
-            "title": "Andrea Constand takes the stand in the Bill Cosby sexual assault trial",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1wQuU66n6A",
             "title": "Donald Jr., Eric Trump take on their dad's critics",
             "secondDuration": 356,
@@ -121,8 +115,14 @@
             "title": "Trump turns to Twitter after London attack",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "IcQEndxBPd4",
+            "title": "London attack: Eight minutes of terror",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

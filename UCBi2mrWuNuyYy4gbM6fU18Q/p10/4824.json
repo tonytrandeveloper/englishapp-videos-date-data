@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y5cK80owQB0",
-            "title": "'Pretty Little Liars' Takes Over Twitter | Good Morning America | ABC News",
-            "secondDuration": 425,
-            "group": "group_7"
-        },
-        {
             "videoId": "YVUTIXIfGCc",
             "title": "'Dancing With the Stars' New Season Off to Sizzling Start",
             "secondDuration": 314,
@@ -61,8 +55,14 @@
             "title": "The Last Words of the Pilot and Co-Pilot on Malaysia Airlines Flight 370",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "m9OIryJNkYM",
+            "title": "TV Anchors Shaken Up by a Quake",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_t2zbk1zudY",
-            "title": "NASA Developing A New Way To Find Alien Life | Mach | NBC News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "3ZWfZbj_cmI",
             "title": "VP Mike Pence Breaks Senate Tie To Confirm Betsy DeVos | NBC News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "17-Year-Old Isaiah Cooper, Youngest African American To Fly Across US | NBC BLK | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "DLo_-uX0OYk",
+            "title": "Inspiring America: Hometown Hero Turns Family Bar Into Safe Haven For Kids | NBC Nightly News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

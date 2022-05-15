@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iQr9oy0Qsp0",
-            "title": "Obamas Campaign for Hillary Clinton in Cleveland",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUgs9WfHsFM",
             "title": "High School Runner Helps Fellow Runner Finish at Meet",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Confronted With Sexual Assault Allegations | ABC News",
             "secondDuration": 563,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wav4bEmYs6U",
+            "title": "Dogs Who Are Instagram Famous",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

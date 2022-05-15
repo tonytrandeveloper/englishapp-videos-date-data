@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KDRtkT0ze74",
-            "title": "Premature Baby Makes Full Recovery After Experimental Coronavirus Treatment | NBC News NOW",
-            "secondDuration": 666,
-            "group": "group_7"
-        },
-        {
             "videoId": "UQIKPTQOAX8",
             "title": "NYC Subway Will Play Essential Part In City’s Reopening | NBC News NOW",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "LAX Implements Thermal Screening To Scan Passengers For Coronavirus Symptoms | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Vh-rwfTZpQ",
+            "title": "Black Youth Suicide Attempt Rate Increasing At Alarming Rate | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_XsEByToBAw",
-            "title": "Bernie Madoff CFO Pleads Guilty",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "BqrmgBq3TgQ",
             "title": "Madoff Deputy Knew of Investment Scam",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Gun Dealer Linked to Deadly Shootings",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "WGtiiMIBsFA",
+            "title": "Gingrich and Dean Talk Health Care",
+            "secondDuration": 844,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

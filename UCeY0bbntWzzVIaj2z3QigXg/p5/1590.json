@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ApJXlh_ubo0",
-            "title": "Morning News NOW Full Broadcast - April 8 | NBC News NOW",
-            "secondDuration": 2935,
-            "group": "group_7"
-        },
-        {
             "videoId": "GNe704q6L_Q",
             "title": "‘Nobody Needs That’: Biden Calls To Ban Assault Weapons With High-Capacity Magazines | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Virginia Becomes First Southern State To Legalize Marijuana | NBC News NOW",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "B2IpTCWTAT8",
+            "title": "WrestleMania In Tampa To Allow 25,000 In-Person Fans | NBC News NOW",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

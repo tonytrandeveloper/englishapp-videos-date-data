@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1thtaiFQZgo",
-            "title": "Ex-NFL player killed over a parking spot in Colorado",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "euY-LMluOJk",
             "title": "The latest development in the Jussie Smollett attack",
             "secondDuration": 147,
@@ -301,8 +295,14 @@
             "title": "Rapper 21 Savage fears deportation after ICE arrest",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "jkVyfcjjwLY",
+            "title": "Trail runner describes near-deadly mountain lion attack",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

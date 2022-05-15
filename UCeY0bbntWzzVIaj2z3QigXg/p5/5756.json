@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EJGquUcCv14",
-            "title": "Sean Spicer Surprises Emmys Audience | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5S2CgsXSp0",
             "title": "President Donald Trump Opens U.N. Reform Meeting With Call For Burden-Sharing | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "St. Louis Protests: Second Night Of Protests Turns Violent | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "OclHC3qrMVU",
+            "title": "Hurricanes Jose Could Lash East Coast As Hurricane Maria Heads Toward Caribbean | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

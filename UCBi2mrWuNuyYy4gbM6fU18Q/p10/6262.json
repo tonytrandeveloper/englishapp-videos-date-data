@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VsBt-OSkSz0",
-            "title": "The Conversation: Redefining Beautiful",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "bdx95EnWkms",
             "title": "Family Campaigns to Eliminate the Word 'Retarded'",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Murder on the Lake?",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "QrbKk7SwMBc",
+            "title": "The Conversation: Psych Yourself Rich",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

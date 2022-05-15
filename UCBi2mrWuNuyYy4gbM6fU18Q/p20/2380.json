@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jpDupdXgquw",
-            "title": "New Donald Sterling Recording: 'I'm Not a Racist'",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "d9JNYa1IcbI",
             "title": "In Case You Missed It: 5/9/14",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "President Obama Discusses Climate Change",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qkmf0c7jpVE",
+            "title": "Circus Performer Speaks Out After Hair-Raising Accident",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

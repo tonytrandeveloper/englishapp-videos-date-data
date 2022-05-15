@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7pzYujG0Jww",
-            "title": "Florida Braces For Impact As Hurricane Dorian Moves In | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "76RrU-gK7_o",
             "title": "Portraying A Slave: Re-Enacting A Family History | NBC News",
             "secondDuration": 282,
@@ -31,8 +25,14 @@
             "title": "Former Google Engineer Charged With Stealing Trade Secrets | NBC News Now",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "snEBdC-RJkk",
+            "title": "Activists Say Uber, Lyft’s Minimum Wage Raise Still Not Enough | NBC News Now",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

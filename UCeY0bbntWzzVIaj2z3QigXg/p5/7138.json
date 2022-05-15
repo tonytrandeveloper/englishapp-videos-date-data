@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hmI8nD37cok",
-            "title": "Why Did SEALs Rescue Attempt Fail? | NBC News",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eda-HzwBOsM",
             "title": "Beyonce Is Most-Nominated Female Artist in Grammy History | NBC News",
             "secondDuration": 38,
@@ -31,8 +25,14 @@
             "title": "Lithium Batteries Threaten Cargo Planes | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "tnQc_6PPzzY",
+            "title": "Flu Vaccine Might Not Work | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

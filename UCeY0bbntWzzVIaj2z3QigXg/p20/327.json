@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UrQmuTv3zF8",
-            "title": "NY Lifts Covid Restrictions As State hits 70% Of Adults With One Dose",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "xCfSJj1iyIU",
             "title": "China Launches First Crewed Space Mission Since 2016",
             "secondDuration": 67,
@@ -121,8 +115,14 @@
             "title": "Putin Calls Talks With Biden 'Quite Constructive', Discusses Cyberattacks",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "4BdHo5NukN0",
+            "title": "Kim Jong Un Warns Of Possible Food Shortages In North Korea",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

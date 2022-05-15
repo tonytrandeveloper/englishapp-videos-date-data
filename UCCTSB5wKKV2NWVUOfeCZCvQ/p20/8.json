@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mFQpVNBW4Ws",
-            "title": "[Vietsub+Lyrics] Backyard Boy - Claire Rosinkranz",
-            "secondDuration": 145,
-            "group": "group_4"
-        },
-        {
             "videoId": "UUFF7cAUtws",
             "title": "[Vietsub+Lyrics] Told You So - Little Mix",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "[Vietsub+Lyrics] Love Paradise - Kelly Chen",
             "secondDuration": 198,
             "group": "group_4"
+        },
+        {
+            "videoId": "gBmPZjOUppI",
+            "title": "[Vietsub+Lyrics] Proud Of You - Fiona Fung",
+            "secondDuration": 184,
+            "group": "group_4"
         }
     ],
     "nbPages": 18,
-    "nbResults": 357
+    "nbResults": 356
 }

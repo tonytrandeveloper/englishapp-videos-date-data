@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6cb5KXSYFxM",
-            "title": "New Jersey Apartment Fire Consumes Building",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "6T2-fO8QRv0",
             "title": "Tense Moments: Bank Robbery Suspect Thought to Be Wired With Explosives in Salt Lake City",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "Young Boy Describes First Kiss in Adorable Video",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "tXvrbSnbs88",
+            "title": "Massive Fire Destroys New Jersey Apartment Complex",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

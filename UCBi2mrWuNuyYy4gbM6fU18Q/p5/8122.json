@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W_HVqDUj0dY",
-            "title": "Parachute Saves Small Plane from Crashing in Arkansas",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "RAyVLWz5uqM",
             "title": "Widow of Robin Williams Discusses His Crippling Brain Disorder",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Temperature Extremes on Both Sides of the Country",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "jDLowHB_G9E",
+            "title": "'GMA' Hot List: Donald Trump Live, Robin Williams' Widow | ABC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

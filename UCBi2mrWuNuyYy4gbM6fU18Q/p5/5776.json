@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vtfmwDUFPGc",
-            "title": "President Donald Trump signs  VA Accountability and Whistleblower Protection Act of 2017",
-            "secondDuration": 1612,
-            "group": "group_7"
-        },
-        {
             "videoId": "CqnRE7sRZo0",
             "title": "'Making a Murderer' subject scores court win",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "Johnny Depp jokes about assassinating the president",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "mU7INPQ9kfk",
+            "title": "Heavy winds, tornadoes rip through the South",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

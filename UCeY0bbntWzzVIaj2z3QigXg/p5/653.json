@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M8ENJSU5Sv0",
-            "title": "LIVE: Biden Delivers Remarks On Bipartisan Infrastructure Bill | NBC News",
-            "secondDuration": 2073,
-            "group": "group_7"
-        },
-        {
             "videoId": "5UZZcD366yU",
             "title": "Detroit School Shooting Leaves At Least Three Dead, Six Injured",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 2156,
             "group": "group_7"
+        },
+        {
+            "videoId": "LxSx2VFiC64",
+            "title": "LIVE: Biden Signs Bills on Supporting Veterans | NBC News",
+            "secondDuration": 860,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

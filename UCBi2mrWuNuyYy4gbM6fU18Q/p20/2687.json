@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "R9S6noxMOSM",
-            "title": "Cyclist Lance Armstrong: Bombshell Confession",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "OadUYKa_CWg",
             "title": "A Look Back at Obama Family's Years in White House",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Lance Armstrong's Confession to Oprah Winfrey: 'I View This Situation as One Big Lie'",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "sQ_o9_jaMc8",
+            "title": "American Hostages Escape From Algeria Terrorists",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

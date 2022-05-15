@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dCTMfiM6DGc",
-            "title": "Your Three Words: 'Rock and Roll Man'",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "VmosKBI32uQ",
             "title": "Mousavi Spokesperson Speaks Out",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "Republicans Criticize Health Care Plan",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "sgd7AV8HAak",
+            "title": "Amanda Knox On Trial: Her Mother Speaks Out",
+            "secondDuration": 697,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

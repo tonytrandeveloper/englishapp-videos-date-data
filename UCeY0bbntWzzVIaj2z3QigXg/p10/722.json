@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P3UbVNfJ_vU",
-            "title": "NBC Nightly News Broadcast (Full) - May 13th, 2021",
-            "secondDuration": 1283,
-            "group": "group_7"
-        },
-        {
             "videoId": "5x8PVTGTwMI",
             "title": "NBC News NOW Full Broadcast - May 13th, 2021",
             "secondDuration": 3103,
@@ -61,8 +55,14 @@
             "title": "Biden Discusses CDC Lifting Mask Restrictions For Fully Vaccinated People",
             "secondDuration": 540,
             "group": "group_7"
+        },
+        {
+            "videoId": "lOdoH793Ti8",
+            "title": "Biden Speaks After CDC Releases New Mask Guidelines",
+            "secondDuration": 1180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z7GI0pni5Ao",
-            "title": "Hospital Shooting Has Precendent",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "6WwaWlMb1yc",
             "title": "Wall Street Fuming About the New Sheriff in Town",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton on Peace Talk Progress",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "URnomv4QbxY",
+            "title": "Matisyahu on Religion, Music",
+            "secondDuration": 453,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x9F1ybK34Bc",
-            "title": "Trump's first state of the union address comes amid Russia investigation",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "SHqTQWTtMgY",
             "title": "Special prosecutor to investigate Michigan State",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Triumphant recovery for one Las Vegas shooting victim",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yw4sbMiGl4o",
+            "title": "Trump proposes path to citizenship for 1.8M",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

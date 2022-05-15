@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YoxIIelfTtc",
-            "title": "Recovering A Piece Of Black American History In Virginia | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKa3tzA2iRU",
             "title": "NASA Astronaut Accused Of Committing Crime From Space | NBC Nightly News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Half-Million Fewer Jobs: Revisions Hit Trump Economy | Meet The Press | NBC News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y6C0cf840LY",
+            "title": "MTP Compressed: Trump’s Trade War Escalates; GOP, Dem Candidates Navigate Running Against Trump",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

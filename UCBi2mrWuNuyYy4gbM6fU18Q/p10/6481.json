@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kk0KP3S1k34",
-            "title": "When the Cheering Stops",
-            "secondDuration": 486,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4U4S3RfDc8",
             "title": "King of the World Reigns Again",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Strike Up the Band",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "6-y69IwO0zY",
+            "title": "CIA Looking for Revenge After Attack",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

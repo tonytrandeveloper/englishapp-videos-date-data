@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IKtid8B1Yeo",
-            "title": "Community Theater Actor on Trial for Killing Two People",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCmRG1wGNsY",
             "title": "Marco Rubio Takes on Donald Trump",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "The Hottest Topics on Facebook in 2015 | ABC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "M2f6r0464iA",
+            "title": "The Obamas Reveal their Top Songs, Shows, and Moments of 2015 | ABC News",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

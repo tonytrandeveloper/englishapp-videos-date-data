@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WH6PCFSYdB4",
-            "title": "Morning News NOW Full Broadcast - Nov. 23",
-            "secondDuration": 2837,
-            "group": "group_7"
-        },
-        {
             "videoId": "eR7SvZgytVk",
             "title": "Supply Chain Crisis Fueled By Truckers Facing Low Pay And Poor Conditions",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Video Appears To Show Waukesha Parade Suspect’s Arrest Outside Home",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ergQ5K0rHN4",
+            "title": "Waukesha Mourns Parade Victims At Vigil",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

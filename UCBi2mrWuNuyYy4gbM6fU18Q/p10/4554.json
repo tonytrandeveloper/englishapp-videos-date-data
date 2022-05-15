@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O2Wd3GThiMY",
-            "title": "'Dancing With the Stars' Semifinals Heat Up the Dance Floor",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "9_wXMm4rPXw",
             "title": "Keira Knightley Sheds Light on Her New Film, 'The Imitation Game'",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "MIX: Feast Flavored Chips",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "jN7G4m603nE",
+            "title": "Gas Prices Expected to Drop to the Lowest in 5 Years",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xsecsyEsIg0",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2527,
-            "group": "group_7"
-        },
-        {
             "videoId": "7mhReEeA0U0",
             "title": "European Residents Receive Covid Vaccine | NBC Nightly News",
             "secondDuration": 110,
@@ -301,8 +295,14 @@
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2470,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvSsuxYeJs8",
+            "title": "Biden Introduces Nominee For Education Secretary | NBC News",
+            "secondDuration": 1600,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

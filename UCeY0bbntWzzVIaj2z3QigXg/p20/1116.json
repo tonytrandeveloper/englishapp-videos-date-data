@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JonnY9MUJ0s",
-            "title": "Drug Prices Are Rising. Here's How To Save Money. | Better | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hae415fZBZ0",
             "title": "Several People Were Killed In Indiana House Fire According To First Responders | NBC News",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "Heated Mississippi Runoff Election Will Bring A Historical First | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "kdLWUIYpQ8s",
+            "title": "Paul Manafort Denies Allegations He Met With Wikileaks’ Assange | NBC Nightly News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

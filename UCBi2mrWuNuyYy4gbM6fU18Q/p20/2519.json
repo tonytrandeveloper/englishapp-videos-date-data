@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rK15EXzuQDY",
-            "title": "Flash Flooding in Colorado: Extreme Weather Leads to at Least One Death",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "tsfQnELvt0A",
             "title": "John Kerry Meeting with Russian Foreign Minister About Syria Chemical Weapons",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "President Obama Delays Syria Strike",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ka80r1al5kc",
+            "title": "President Obama's Defining Moment on Syria",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

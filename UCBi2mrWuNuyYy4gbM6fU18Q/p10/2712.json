@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e0K0IcDL4Fs",
-            "title": "4 NJ police officers face charges for beating an innocent man on fire",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "dhGOLYMkdYc",
             "title": "Teen girls open up about the 'constant pressure' of social media",
             "secondDuration": 367,
@@ -61,8 +55,14 @@
             "title": "NYC attack suspect appears to have been influenced by ISIS propaganda",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "vq1BpqMB80s",
+            "title": "2 Americans among 8 killed in NYC truck attack",
+            "secondDuration": 585,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KR08rgBB90w",
-            "title": "Real Estate Agent Attacked by Client",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "KADpBA0HcQA",
             "title": "'50 Shades,' The Musical",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "New Evidence Revealed in 'American Sniper' Trial",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "4R6x0-DcUTg",
+            "title": "How to Survive a Potentially Deadly Avalanche (Episode 7)",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

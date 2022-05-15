@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LqlFLMclh1A",
-            "title": "The Best Christmas Movie Moments of All Time",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "5mYkNQXtnOY",
             "title": "Donald Cardinal Wuerl Discusses the Meaning of Christmas",
             "secondDuration": 258,
@@ -61,8 +55,14 @@
             "title": "The Pros and Cons of Gift Cards",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "AM0gzHs8lps",
+            "title": "Teen Shot and Killed by Missouri Police Officer",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

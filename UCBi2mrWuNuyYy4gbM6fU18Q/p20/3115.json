@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ThiAkPNXVAQ",
-            "title": "Thanksgiving History Under Debate",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "It1Jt4gPiiU",
             "title": "A Turkey Trot",
             "secondDuration": 341,
@@ -121,8 +115,14 @@
             "title": "Amplified: Guster",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "Up3kbzPO2g4",
+            "title": "Popcorn: Tom Felton",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oBxNdpEExGY",
-            "title": "Suspect Dead After Police Standoff in Tacoma",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "E19zACC2myg",
             "title": "The Attack: The Heroes of San Bernardino Part 1",
             "secondDuration": 536,
@@ -301,8 +295,14 @@
             "title": "Trump Transition | Chao, Price Tapped for Trump's Cabinet",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "SGUxb8eFE6E",
+            "title": "World's Oldest Person Celebrates Birthday",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

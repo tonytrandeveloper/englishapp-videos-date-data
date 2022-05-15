@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LmkCXTeys2M",
-            "title": "Olivia Wilde on the relevance of Broadway's '1984' today",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "1LBkuSC4vOg",
             "title": "Donald Trump arrives in Paris at the invitation of France's president, Emmanuel Macron",
             "secondDuration": 234,
@@ -121,8 +115,14 @@
             "title": "Trailer: ‘Surviving the Inferno: Escaping Grenfell Tower’ | ABC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "sCzfdATdGXY",
+            "title": "Donald Trump FBI head nominee Christopher Wray Senate confirmation hearing",
+            "secondDuration": 18793,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

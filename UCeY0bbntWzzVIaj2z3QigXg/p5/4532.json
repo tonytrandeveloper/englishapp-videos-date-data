@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gF76MCNVm4E",
-            "title": "Voter Turnout Surges In U.S. Midterm Elections | NBC Nightly News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "CFVqZmzF3s4",
             "title": "Girl Scouts File Lawsuit Against Boy Scouts Over Name Change | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Fresh Faces On Capitol Hill Making History | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "r4VurNVYh6M",
+            "title": "Democrats Win House While Republicans Keep Senate | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

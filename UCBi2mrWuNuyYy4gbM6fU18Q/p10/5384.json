@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UPngLPeIZQo",
-            "title": "Flu Season 2013: Low Vaccine Supply",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "F5NxnM3LAQw",
             "title": "Death Star Construction Formally Turned Down by White House",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Miss America 2013 - Pageant Confidential: The Big Day Arrives",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "pCdTaukB8nU",
+            "title": "Miss America 2013 - Pageant Confidential: Miss Nip and Tuck",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZgdGvqOVkeY",
-            "title": "NOW Tonight with Joshua Johnson - Mar. 18 | NBC News NOW",
-            "secondDuration": 3202,
-            "group": "group_7"
-        },
-        {
             "videoId": "n2QWoEMkWNY",
             "title": "Top Story with Tom Llamas - Mar. 18 | NBC News NOW",
             "secondDuration": 2424,
@@ -31,8 +25,14 @@
             "title": "Texas Wildfires Burn More Than 60 Square Miles",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "ybOMEjs-jmE",
+            "title": "Russia Targets Civilians In Kyiv",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

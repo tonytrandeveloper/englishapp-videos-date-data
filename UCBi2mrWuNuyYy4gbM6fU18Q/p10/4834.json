@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pOPydLOECq8",
-            "title": "March's Weather Madness",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "iyTBwXmYWkM",
             "title": "Obesity and Man's Best Friend",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Diving Into Pregnancy & Parenthood",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "pl7t52hMYwc",
+            "title": "Japan Tsunami Anniversary: 3 Years Later",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

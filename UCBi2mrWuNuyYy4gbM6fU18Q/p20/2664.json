@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zVvwFAyokX0",
-            "title": "Los Angeles Manhunt: Who Is Christopher Dorner?",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "YAgusVWvfH4",
             "title": "How to Get the Cheapest Tickets for Your Next Vacation",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "America's Secret Drone War",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "HvyQ-PMjtnQ",
+            "title": "Chris Christie Blasts Critics of His Weight",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

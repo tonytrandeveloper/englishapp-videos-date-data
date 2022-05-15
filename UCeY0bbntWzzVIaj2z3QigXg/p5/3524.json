@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1ZnS7yrwzDQ",
-            "title": "Lester Holt Reports On The Ground As Fast-Moving Easy Fire Scorches Southern CA | NBC Nightly News",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "TjWxDqU7p3E",
             "title": "Video Shows Raid That Killed ISIS Leader Al-Baghdadi | NBC News Now",
             "secondDuration": 298,
@@ -31,8 +25,14 @@
             "title": "Military Leaders Discuss ISIS Raid That Killed Al-Baghdadi | NBC News",
             "secondDuration": 5717,
             "group": "group_7"
+        },
+        {
+            "videoId": "wnWrAjmHSDo",
+            "title": "President Donald Trump Presents The Medal Of Honor To Matthew Williams | NBC News",
+            "secondDuration": 1286,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

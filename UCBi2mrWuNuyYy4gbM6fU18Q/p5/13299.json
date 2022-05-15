@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8HdfKNYciII",
-            "title": "Michael Jackson's Complicated Legacy",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "gC-OJN-_v1k",
             "title": "Boyfriend's Jealous Rage Turns Deadly",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "Did Michael Jackson Have a Drug Problem?",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "WwiYiTnx4_0",
+            "title": "The Music and Moves of Michael Jackson",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

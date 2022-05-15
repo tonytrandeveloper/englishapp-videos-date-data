@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BMY37SMQX-M",
-            "title": "Thief Stole Bucket of Gold Flakes Worth $1.6M, Police Say",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "19hTaNiaBVw",
             "title": "Donald Trump's Dinner With Mitt Romney",
             "secondDuration": 305,
@@ -61,8 +55,14 @@
             "title": "Police Pranked by Pictures Gorilla, Santa Suit",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "rGQ6SerKTwc",
+            "title": "Cirque Du Soleil Technician Killed During Rehearsal Accident",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

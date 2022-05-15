@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J0L8rWM61VU",
-            "title": "Say Sayonara to the 60-Hour Work Week",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "fCNFMyl2e4o",
             "title": "One Step You Need to Know to Pursue Your Passions  | Real Biz with Rebecca Jarvis",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "CMA Awards Recap",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "ggZpmH0DcLg",
+            "title": "MIX: Local News Anchor Breaks it Down on Set",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

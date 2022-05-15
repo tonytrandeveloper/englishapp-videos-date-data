@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FUheGtXV4Ng",
-            "title": "Full: White House Press Briefing with Sean Spicer Today (2/7/2017) | ABC News",
-            "secondDuration": 2184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cq5iw8K6fuM",
             "title": "Donkey Helps Donkey Climb Fence | ABC News",
             "secondDuration": 33,
@@ -61,8 +55,14 @@
             "title": "Tom Brady's Missing Super Bowl Jersey Search Continues",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "MRjBlvOJ6TI",
+            "title": "Trump Attacks Media in Address to Troops",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

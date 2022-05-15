@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IsfJQhsl3r4",
-            "title": "Police And Protesters Clash In Hong Kong’s Shopping Malls | NBC News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "PAjT7k7Eoi0",
             "title": "30 Years Of NBC/WSJ Polling Shows Nation's Growing Divide | Meet The Press | NBC News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Disturbing New Details In The Stabbing Death Of New York City College Student | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "px2HysjZeck",
+            "title": "Shooting At Crowded Atlanta Mall Sparks Panic; 1 Injured | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

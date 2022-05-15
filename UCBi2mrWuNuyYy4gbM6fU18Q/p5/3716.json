@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8O_i-1CcrRo",
-            "title": "Top 10 candidates take the stage for the Democratic Debate in Houston",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "PRPODbAp6x0",
             "title": "Plane crashes in the middle of a highway",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "The Briefing Room: Democratic Debate preview in Houston | ABC News",
             "secondDuration": 3655,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EBnXw9omGg",
+            "title": "Plane passengers see flames after bird strike l ABC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

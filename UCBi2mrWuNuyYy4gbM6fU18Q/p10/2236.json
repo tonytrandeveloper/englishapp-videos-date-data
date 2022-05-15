@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yvoR2z2WFeg",
-            "title": "How Dua Lipa became one of pop music's biggest breakout stars",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "vk_F9zqyGCY",
             "title": "Michael Cohen on Trump: 'Don't believe what he is saying'",
             "secondDuration": 297,
@@ -61,8 +55,14 @@
             "title": "Family of American student found dead in Netherlands speaks out",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "rb81QmP6fpo",
+            "title": "CBS acknowledges confidential $9.5M settlement with actress",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

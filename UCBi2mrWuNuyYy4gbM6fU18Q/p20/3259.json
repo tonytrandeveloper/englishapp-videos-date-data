@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cA9vBtuZYwE",
-            "title": "Steven King's Latest Nail-Bitter",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "08OGzJp_PPg",
             "title": "FBI Investigates Fort Hood Shooter",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "House Passes Health Care Bill",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "iiqjbE6k03Y",
+            "title": "Fort Hood Suspect's Ties to Terrorists",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

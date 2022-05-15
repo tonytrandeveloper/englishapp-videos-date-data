@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7QVDjftblwo",
-            "title": "Hear Why Black Millennials Are Key To The Democratic Nomination | NBC News Now",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rt01iZjKvhw",
             "title": "President Donald Trump Mocks Man At Rally: 'That Guy's Got A Serious Weight Problem' | NBC News",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Urges Lewandowski To 'Make A Decision' About Running For Senate | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "m1zTJi8Hes4",
+            "title": "President Donald Trump Speaks At New Hampshire Rally | NBC News",
+            "secondDuration": 7274,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

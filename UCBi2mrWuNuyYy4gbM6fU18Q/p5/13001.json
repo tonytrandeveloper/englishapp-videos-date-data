@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "irOduNxyIeU",
-            "title": "Beyond The Velvet Rope",
-            "secondDuration": 359,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZZHQxoIcKTU",
             "title": "Planes Nearly Collide Midair",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Children Could Have Undetected Heart Problems",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "f3YgwAbBpW0",
+            "title": "Peddling for Pablo",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

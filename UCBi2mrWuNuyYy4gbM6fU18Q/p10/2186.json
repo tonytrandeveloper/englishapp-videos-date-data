@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rmSWmrlCrBg",
-            "title": "Video shows man hanging from a car hood on the highway",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "2dJvN6JPO6M",
             "title": "Trump warns another shutdown could happen",
             "secondDuration": 206,
@@ -61,8 +55,14 @@
             "title": "20/20 Evil in Eden, Pt 2 – Steven Stayner's abduction changes family's life forever",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "SwY_Tgk5qWk",
+            "title": "20/20 Evil in Eden, Pt 4 – Cary Stayner takes refuge in Yosemite",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

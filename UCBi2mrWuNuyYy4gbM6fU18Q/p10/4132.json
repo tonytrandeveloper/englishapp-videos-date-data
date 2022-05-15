@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sLHHIUUskz4",
-            "title": "Ronda Rousey Will Star in Reboot of \"Road House\"| ABC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "G6RrooBBbvI",
             "title": "Donald Trump and Ted Cruz Slam Iran Nuclear Deal on Capitol Hill",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Legendary Supermodel Beverly Johnson on her New Memoir",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3BpGfvLNxI",
+            "title": "CMA 2015 Award Nominations Announced Live on 'GMA'",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

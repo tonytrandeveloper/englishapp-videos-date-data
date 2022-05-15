@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jPgKAnG6U7c",
-            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyJ1kzG0Wb4",
             "title": "‘I’m The One Hoarding Toilet Paper’: 10 Anonymous Confessions In The Time Of COVID-19 | NBC News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Deserted Paris Streets Show The Full Effect Of Coronavirus Lockdown | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "yRHoAt4hIj8",
+            "title": "Coronavirus Lockdown Lifted After 76 Days In Wuhan, China | NBC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

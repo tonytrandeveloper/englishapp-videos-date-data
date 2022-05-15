@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "COZ5L7aeEBE",
-            "title": "The Nukes Next Door",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "3IoRvxDQA8E",
             "title": "One on One With Barack Obama",
             "secondDuration": 304,
@@ -61,8 +55,14 @@
             "title": "John Sununu: Mitt Romney at 'Head of the Pack'",
             "secondDuration": 633,
             "group": "group_7"
+        },
+        {
+            "videoId": "tNBQsA7Ju9I",
+            "title": "Is the White House Concerned About Criticism?",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

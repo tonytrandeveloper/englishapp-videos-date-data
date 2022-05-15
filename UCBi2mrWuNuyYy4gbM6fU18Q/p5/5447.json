@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PYpe6D8yhNE",
-            "title": "More details surface about deadly ambush in Niger",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "GajhXKH5hsE",
             "title": "Widow of fallen soldier breaks silence about her call with Trump",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "3 Florida murders in 11 days",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "BpqfgHi74uk",
+            "title": "Gen. Dunford holds news conference on military operations, attack in Niger",
+            "secondDuration": 2956,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

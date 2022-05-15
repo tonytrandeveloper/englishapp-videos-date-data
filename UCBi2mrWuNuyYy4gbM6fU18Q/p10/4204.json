@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X_BhkxpUo7Y",
-            "title": "Torrential Rains and Flash Floods Swamp the Drought-Ridden Southwest",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "hNfW5q0bSag",
             "title": "The Smartest Man on Earth Searching for Alien Life",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Security Reacts Quickly as FIFA's Sepp Blatter Approached by Demonstrator",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "nozcPnpwdGI",
+            "title": "Donald Trump's Presidential Campaign Could Be Over",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

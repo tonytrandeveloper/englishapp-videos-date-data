@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PzydtzG7ptA",
-            "title": "Independence Day: Troops Come Home",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "wfPcVE2srCI",
             "title": "Casey Anthony Trial: Casey Anthony Speaks in Court, Defense Rests",
             "secondDuration": 357,
@@ -61,8 +55,14 @@
             "title": "Casey Anthony Trial: Defense Rests",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "OmxrHjHMv3g",
+            "title": "Will and Kate Take Ottawa",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

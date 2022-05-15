@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i1itufTRp64",
-            "title": "Donald Trump Takes Aim At Robert Mueller And Russia Investigation On Twitter | NBC Nightly News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jn8Xs5kroPE",
             "title": "White House Prepares To Roll Out Plan Addressing Opioid Crisis | NBC Nightly News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Rep. Conaway: We're Trying To Stay Away From The Mueller Probe (Full) | Meet The Press | NBC News",
             "secondDuration": 530,
             "group": "group_7"
+        },
+        {
+            "videoId": "KutaoRosWvo",
+            "title": "Sen. Marco Rubio: On McCabe, ‘I Don’t Like The Way It Happened’ (Full) | Meet The Press | NBC News",
+            "secondDuration": 580,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

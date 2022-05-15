@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a9hYAwKMZqI",
-            "title": "A Special Visit With Wounded Warrior Dogs",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "RJMR83UBgMQ",
             "title": "High-Speed Car Chase Caught on Camera",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Oscar Pistorius Trial: Forensics Take Center Stage",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "_xbPj2TW4Cc",
+            "title": "WEBCAST: Deadly Explosion",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

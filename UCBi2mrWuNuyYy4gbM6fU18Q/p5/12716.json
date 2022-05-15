@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ef01iZL7r4k",
-            "title": "A Killer on the Run?",
-            "secondDuration": 433,
-            "group": "group_7"
-        },
-        {
             "videoId": "cjG9Mhr4XnE",
             "title": "Oil Creeps Toward Florida Coast",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Washington Post's Chris Cillizza on 'Top Line'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "ceO-Bvs89WA",
+            "title": "Campbell: 'Always Opposed' New Drilling",
+            "secondDuration": 583,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

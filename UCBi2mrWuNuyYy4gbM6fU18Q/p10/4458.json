@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fft_S0jZMGA",
-            "title": "GoDaddy Super Bowl Commercial Pulled After Backlash",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "k99LNCQX9X8",
             "title": "Jordan Signals Possible Swap for ISIS Hostage",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Drinking & Droning: White House Breach Due to Pilot Drinking?",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "eQgP9fq96vo",
+            "title": "Auschwitz Anniversary: Survivors Gather In Remembrance",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BYk_xxDcGk8",
-            "title": "Antibody Testing Increases as FDA Authorizes Different Tests",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "fY99T_E3HvE",
             "title": "CDC Director Warns Of ‘Pandemic Of The Unvaccinated’ As Covid Cases Rise",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "AG Merrick Garland Reverses Trump-era Immigration Policy",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "JybUdXJWWcQ",
+            "title": "Morning News NOW Full Broadcast - July 16 | NBC News NOW",
+            "secondDuration": 2912,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

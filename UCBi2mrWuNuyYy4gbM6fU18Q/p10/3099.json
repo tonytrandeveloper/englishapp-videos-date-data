@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LAmNfQM0ndE",
-            "title": "3 Puppies Rescued From Avalanche in Italy | ABC News",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "ItaKLziUAb4",
             "title": "Man Steals Guitar in His Pants | ABC News",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "Trump's HHS Nominee Returns to Capitol Hill",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qri6I2OGRUI",
+            "title": "The Bachelor Week 4 Highlights: Nick Goes Home | ABC News",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

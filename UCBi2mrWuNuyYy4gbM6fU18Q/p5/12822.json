@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tNVOS1HB7OA",
-            "title": "Near Miss Over San Francisco Skies",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "VWSzS5mWTSg",
             "title": "Inside the Gap",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Highwater",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "XcRqKvAEerk",
+            "title": "Blind Fencers Face Off",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

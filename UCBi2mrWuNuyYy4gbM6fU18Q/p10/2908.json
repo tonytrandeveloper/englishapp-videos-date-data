@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TohWmyQgMzc",
-            "title": "7-year-old displays true American patriotism",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "zHovewgpmrM",
             "title": "James Comey Testimony: President Trump's attorney Full statement after Hearing",
             "secondDuration": 377,
@@ -61,8 +55,14 @@
             "title": "What to watch in James Comey testimony",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "_nbpuEXJ6hs",
+            "title": "Michael Flynn and his dealings with Russia are focus of FBI investigation",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

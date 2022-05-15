@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vybDq3d9B24",
-            "title": "Flu Is Widespread In 49 States | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "fQKCGW0RvFM",
             "title": "Desperate Search For Mudslide Survivors | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Mobile Skatepark In Greece Provides Sanctuary For Refugees | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "7B9ElXKq2SM",
+            "title": "President Donald Trump Signs Proclamation To Honor MLK Day | NBC News",
+            "secondDuration": 1853,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

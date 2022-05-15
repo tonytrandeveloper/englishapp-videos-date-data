@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h-kquTDglHY",
-            "title": "Trump Delivers Remarks To National Border Patrol Council Members | NBC News (Live Stream Recording)",
-            "secondDuration": 6614,
-            "group": "group_7"
-        },
-        {
             "videoId": "t7NOYNgPwww",
             "title": "Iran's FM Mohammad Javad Zarif: ‘We Were Very Close To A War’ | NBC News",
             "secondDuration": 323,
@@ -31,8 +25,14 @@
             "title": "Traditional Chinese Artist Chronicles Shanghai’s Battle Against Coronavirus | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8oqTf5UIEQ",
+            "title": "10,000 People Inside One Vietnamese Commune Quarantined Over Coronavirus Fears | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rGNxBrjE-0k",
-            "title": "Does Faith Help Bring the Nation Together?",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "2T-JVsQga6A",
             "title": "NORAD Tracks Santa's Movement Around the World",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "The Suspect in the Berlin Christmas Market Attack Shot Dead by Police",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "6soanMR4yWc",
+            "title": "Donald Trump's Latest Rant on Twitter Goes Nuclear",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

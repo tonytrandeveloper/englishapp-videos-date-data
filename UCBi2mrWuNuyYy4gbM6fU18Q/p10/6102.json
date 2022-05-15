@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8gbJIsn_gS0",
-            "title": "Caught on Tape: Lion Steals Camera, Records Journey in Mouth",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "o5Y9PrQirvA",
             "title": "Oprah's Final Farewell",
             "secondDuration": 396,
@@ -61,8 +55,14 @@
             "title": "Tornadoes in America's Heartland",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "IWQcQiXKmCQ",
+            "title": "Joplin, Missouri, Searches for Survivors",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

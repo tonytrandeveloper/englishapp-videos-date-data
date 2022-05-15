@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Uh7I4l9bZdM",
-            "title": "World Weighs In On Nobel-Winning Obama",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "xXaySLIGoU0",
             "title": "Top Line: Fmr. Bush Speechwriter: My Time With the President",
             "secondDuration": 280,
@@ -121,8 +115,14 @@
             "title": "Get Your Dream Home for Cheap",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "8D1TvlDsnLs",
+            "title": "The Bottom Line on Health Care",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

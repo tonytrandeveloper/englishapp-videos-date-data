@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HH45pVPaT8Q",
-            "title": "Mueller contradicts Trump, says report did not exonerate him",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sh32-AZwA58",
             "title": "Mueller testifies on Capitol Hill about Russia, Trump",
             "secondDuration": 515,
@@ -31,8 +25,14 @@
             "title": "Boris Johnson replaces Theresa May as UK prime minister",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "w5AM31JB5CY",
+            "title": "Puerto Rico governor may resign amid massive protests",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

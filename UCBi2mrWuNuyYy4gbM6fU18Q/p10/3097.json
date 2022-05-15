@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YxqhdBTm0sE",
-            "title": "President Donald Trump Vows to Launch 'Major Investigation' Into Alleged Voter Fraud",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4VRDCh5C4Ws",
             "title": "Company to Release Slow-Browning Apples",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Trump's Plan to Overhaul Obamacare",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "lTqnnl_ftN4",
+            "title": "Donald Trump's Inauguration | January 20, 2017",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

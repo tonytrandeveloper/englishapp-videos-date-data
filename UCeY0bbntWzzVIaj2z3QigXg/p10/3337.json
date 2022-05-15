@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fpWOPevvYag",
-            "title": "President Obama Sings Happy Birthday To Daughter Malia | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tz_wiGFh32A",
             "title": "Wounded Veterans Find Peace Through the Serenity of Fly Fishing | NBC Nightly News",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "How To Become A Member Of The Academy | 30STK | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mkv5irLqZhk",
+            "title": "Loretta Lynch Will Accept FBI Recommendations On Hillary Clinton Email Investigation | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

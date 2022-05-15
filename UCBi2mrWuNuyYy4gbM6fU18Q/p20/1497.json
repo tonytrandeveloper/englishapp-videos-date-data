@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "65X5qRJqPWg",
-            "title": "Firefighters rescue dog from frozen pond",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "_96pQc7v_-U",
             "title": "Satellite shows powerful cyclone passing over Australia",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Gymnasts testify before Congress about sex abuse claims",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6Y14P0yEGU",
+            "title": "Hillary Clinton takes aim at Trump administration",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

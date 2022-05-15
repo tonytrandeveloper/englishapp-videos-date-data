@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GUJEhneZFGU",
-            "title": "High Rise Terror:  Massive Blaze on the 20th Floor",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "W9KCxTCRKik",
             "title": "Jets Slides Off Runway at JFK Airport",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Remembering Phil Everly",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "t89BL-SHTjU",
+            "title": "Mega Millions Jackpot Winner Revealed: Better Late Than Never",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

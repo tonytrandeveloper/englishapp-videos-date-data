@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yp7hekWOcLw",
-            "title": "Man freed after 17 years in prison when doppelganger found",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2ZJRAzjsMo",
             "title": "US airstrikes target al-Shabab militants in Somalia",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "Trump says Comey's testimony is total and complete vindication",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGitzTGqA5s",
+            "title": "Exclusive Interview with Chelsea Manning",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

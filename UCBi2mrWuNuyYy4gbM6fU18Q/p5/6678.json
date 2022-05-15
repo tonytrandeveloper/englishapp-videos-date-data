@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gPwyL8_wNDU",
-            "title": "2nd PRESIDENTIAL DEBATE: Donald Trump, Hillary Clinton Discuss Clean Energy Plans, Coal Workers",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "OnK5hIK1pJU",
             "title": "Donald Trump, Hillary Clinton Discuss Muslim Ban",
             "secondDuration": 628,
@@ -31,8 +25,14 @@
             "title": "Debate Highlights | Hillary Clinton, Donald Trump Discuss WikiLeaks and Russia",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "oVvmVivdm1A",
+            "title": "Donald Trump, Hillary Clinton Discuss Tax Increases on the Wealthy | ABC News",
+            "secondDuration": 595,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cKu_6P2gUbw",
-            "title": "WEBCAST: Frisky Twins Steal The Show!",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "L74LcIbo7NA",
             "title": "The Cheney's Modern Family",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: First Family Field Trip",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Jnr5dUbQns",
+            "title": "Tornadoes Wreak Havoc Across Midwest",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KDIb4NvVaSs",
-            "title": "Taylor Swift, Billboard’s woman of the decade, sticks it to ‘the man’ l ABC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "cqoNw-pi5Lo",
             "title": "Trump impeachment articles debated, voted on by House Judiciary Committee| ABC News",
             "secondDuration": 4670,
@@ -121,8 +115,14 @@
             "title": "New security warning for in-home smart cameras l ABC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "K9ItQohDzrA",
+            "title": "House Judiciary Committee debates articles of impeachment | ABC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

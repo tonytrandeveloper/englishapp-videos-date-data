@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4bmybhP8lIA",
-            "title": "Documenting History: Photographing The Front Lines Of The Coronavirus Pandemic | NBC News",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "aPY900x584Q",
             "title": "Mayor de Blasio Closes New York City Schools For Remainder Of The Year | NBC News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Makeshift Hospitals Pop Up Around The Country To Combat COVID-19 | NBC News NOW",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "17izWM_mh1A",
+            "title": "Mental Health Professionals Working Around The Clock Amid COVID-19 Outbreak | NBC News NOW",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

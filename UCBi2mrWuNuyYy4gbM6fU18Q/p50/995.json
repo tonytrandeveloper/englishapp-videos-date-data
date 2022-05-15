@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "k5alOSexfm0",
-            "title": "Seattle-Tacoma International Airport Security Breached",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "f6m22Cgeb8c",
             "title": "Richie Incognito Slammed by Former Teammate",
             "secondDuration": 181,
@@ -301,8 +295,14 @@
             "title": "New Jersey Mall Shooting: Alleged Gunman Richard Shoop Opens Fire, Kills Himself",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "DJjZHlhLnXE",
+            "title": "New Jersey Mall Shooter Found Dead",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

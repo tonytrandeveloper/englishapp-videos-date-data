@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ibeT9BJ4vKA",
-            "title": "Hillary Clinton has harsh words for Bernie Sanders",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eb3uq5ycXsQ",
             "title": "Senate impeachment trial of President Trump: Day 1",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Trump impeachment trial set to begin, arrest in “pillowcase rapist” cold case and more | ABC News",
             "secondDuration": 1529,
             "group": "group_7"
+        },
+        {
+            "videoId": "8ZM6uCL7twk",
+            "title": "Trump speaks out as rules set for historic trial l ABC News",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

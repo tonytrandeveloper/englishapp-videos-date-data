@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mzX6XpQepKs",
-            "title": "Brussels Airport Bomber | New Video Released Shows Suspect",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "zGVhMElKE74",
             "title": "Presidential Candidates Battle for New York City",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "American Idol Series Finale Surprises | ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSvg6L8tAck",
+            "title": "A Final Farewell to 'American Idol'",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

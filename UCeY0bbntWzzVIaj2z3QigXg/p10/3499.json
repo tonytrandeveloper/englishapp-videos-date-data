@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UYgJVe7SwgA",
-            "title": "How the Daily Table Supermarket Is Cutting Grocery Bills | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "s2Ti-qd3G9Q",
             "title": "Lindsey Graham On Gay Marriage: 'Accept The Court's Ruling' | Meet The Press | NBC News",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "Amazon Echo: Siri On Steroids For The Connected Home | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "u4VAAY-jmbQ",
+            "title": "Supreme Court Upholds Obamacare Subsidies | NBC Nightly News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

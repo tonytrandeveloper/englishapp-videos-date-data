@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7BKb3djN3IA",
-            "title": "Trump says economy is 'strong' amid Dow plunge | ABC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y0_6to9l2GU",
             "title": "Kayakers avoid injury as cliff crashes into Lake Superior | ABC News",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Obituary for alleged Dayton shooter from Ohio funeral home sparks outrage",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "rsLw5TrvvcM",
+            "title": "Dow closes down more than 800 points as roller coaster in markets continues  | Special Report",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

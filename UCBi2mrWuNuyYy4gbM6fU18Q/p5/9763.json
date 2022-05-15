@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D-XEwZcYT2c",
-            "title": "Winter Storms Slams the South, Trapping Students",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "WpeQfEJlmWw",
             "title": "State of the Union Confidential",
             "secondDuration": 443,
@@ -31,8 +25,14 @@
             "title": "Tea Party Response: Stand Up to Government-Driven Inequality",
             "secondDuration": 690,
             "group": "group_7"
+        },
+        {
+            "videoId": "JdKf0z9uZvE",
+            "title": "Republican Response to President Obama's State of the Union 2014",
+            "secondDuration": 622,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

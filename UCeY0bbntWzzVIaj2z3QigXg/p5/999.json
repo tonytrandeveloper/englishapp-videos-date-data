@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QOjqCA-NeZs",
-            "title": "This Morning’s Top Headlines – September 3 | Morning News NOW",
-            "secondDuration": 1043,
-            "group": "group_7"
-        },
-        {
             "videoId": "987fojrCHMM",
             "title": "Taliban Expected To Announce New Government In Afghanistan",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Full Broadcast - September 2nd, 2021",
             "secondDuration": 1261,
             "group": "group_7"
+        },
+        {
+            "videoId": "NiMGY_BSBUg",
+            "title": "NBC News NOW Full Broadcast – September 2, 2021",
+            "secondDuration": 2979,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b8AkgxQ3KaI",
-            "title": "Amplified: The Jesus Lizard",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "uVX4RqLCfHo",
             "title": "'Miss Irresistible' Murders",
             "secondDuration": 541,
@@ -121,8 +115,14 @@
             "title": "NYC Terror Suspect Charged in Bomb Plot",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "qJxqk3cTuF0",
+            "title": "Why Pittsburgh for the G20 Summit?",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

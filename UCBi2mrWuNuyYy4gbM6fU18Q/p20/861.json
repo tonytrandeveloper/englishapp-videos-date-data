@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FZO2cHo5KqQ",
-            "title": "Michelle Obama, skiing Santas and Miss Universe: World in Photos, Dec. 9",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xh83SkMbRxo",
             "title": "Director of Investigations delivers opening statement at impeachment hearing | ABC News",
             "secondDuration": 2755,
@@ -121,8 +115,14 @@
             "title": "'Something is wrong with the system': Sen. Cory Booker on 'barriers' in 2020 race | ABC News",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZMn9Mmj1ss",
+            "title": "Judiciary Committee prepares to hear new testimony Monday | ABC News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

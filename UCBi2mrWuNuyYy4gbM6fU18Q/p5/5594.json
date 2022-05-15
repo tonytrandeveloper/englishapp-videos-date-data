@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iotLAqcfB0s",
-            "title": "Rising waters inundate whole section of Houston",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "G2GJVFjxGRg",
             "title": "Texas Gulf Coast area threatened by days of rain ahead",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Several deaths reported in the wake of Harvey",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "W8STuSF-8kc",
+            "title": "Oil and gas prices spike after the shock of Harvey",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

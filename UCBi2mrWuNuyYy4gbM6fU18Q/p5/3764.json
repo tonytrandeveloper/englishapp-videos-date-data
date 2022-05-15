@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lsZwDnXdb60",
-            "title": "Malaysian man admits to installing video camera in United Airlines restroom l ABC News",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "bQNnW0PNoLw",
             "title": "Johnson & Johnson ordered to pay $500M in opioid suit | ABC News",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Dorian nears Puerto Rico, Amazon burning, VMA red carpet | ABC News",
             "secondDuration": 1696,
             "group": "group_7"
+        },
+        {
+            "videoId": "ppANIvskkgY",
+            "title": "Puerto Rico braces for Tropical Storm Dorian | ABC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

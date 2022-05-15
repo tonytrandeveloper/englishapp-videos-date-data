@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UQZZr8GdmIk",
-            "title": "Mitt Romney Takes the Stage at the Republican National Convention",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "OGFG_-IYl44",
             "title": "Backstreet Boys Reunion: Boy Band Back After Six Year Hiatus",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney's Shining Moment at RNC",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "8F43SeCmx2k",
+            "title": "RNC's Balloon Boss",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

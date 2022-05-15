@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rufCXnCH2lo",
-            "title": "Manchester Attack: Police Manhunt For Accomplices Continues | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "DUPqYgyItKk",
             "title": "President Donald Trump Lectures NATO Allies On Defense Spending In Brussels | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Queen Elizabeth Speaks With Bomb Victims As Manchester Holds Minute Of Silence | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "S4aI2froOk0",
+            "title": "Senate Democrats: GOP Health Care Plan Should Be Dead On Arrival | NBC News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

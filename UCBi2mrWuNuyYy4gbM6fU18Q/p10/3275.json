@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VqqgQff99HQ",
-            "title": "Hillary Clinton Campaigns with Pharrell, Bernie Sanders",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "y1VPwhF1WtA",
             "title": "Lupita Nyong'o Slays on Lip Sync Battle",
             "secondDuration": 35,
@@ -61,8 +55,14 @@
             "title": "Dolly Parton Receives Willie Nelson Lifetime Achievement Awards at the CMAs",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "2F9qLmEmzCw",
+            "title": "Anthony Rizzo Pockets Baseball, Ends Chicago Cubs World Series Drought",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

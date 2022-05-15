@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FRZIWC2ZPTo",
-            "title": "Why YouTube Boosted Conspiracy Theory Videos In The Wake Of The Parkland Shooting | Mach | NBC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "O3tEEelE5kA",
             "title": "'Overwhelmingly Clear' Russia Behind Former Spy's Poisoning, U.K. Minister Says | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Bridge Collapses At Florida International University Near Miami | NBC News",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "VJf6TjHvupE",
+            "title": "Miami Pedestrian Bridge Collapses, Killing Four | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

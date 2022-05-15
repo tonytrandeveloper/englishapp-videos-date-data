@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PGDScQf11DY",
-            "title": "218: The Race for the House – 6 Weeks to Go",
-            "secondDuration": 2216,
-            "group": "group_7"
-        },
-        {
             "videoId": "oN5o6fMKXsc",
             "title": "Trump Speaks At United Nations General Assembly (Full) | NBC News",
             "secondDuration": 2544,
@@ -301,8 +295,14 @@
             "title": "Ted Cruz And Beto O'Rourke Face Off In First Debate | NBC News",
             "secondDuration": 3497,
             "group": "group_7"
+        },
+        {
+            "videoId": "ptEMp37-c_o",
+            "title": "Report: Rosenstein Suggested Secretly Recording Trump, Discussed Possible Removal | NBC Nightly News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

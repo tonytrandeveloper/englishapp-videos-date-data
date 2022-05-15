@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "alZKkFMw3eY",
-            "title": "Family Goes Missing in the Gulf of Mexico",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "7zrSGKONEJU",
             "title": "Midwest Braces for Severe Storms While Winds Sunder the East Coast",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "National Selfie Day 2016",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "rfs2nxJuyNw",
+            "title": "Police Discover Loaded Weapons in NYC's Holland Tunnel",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

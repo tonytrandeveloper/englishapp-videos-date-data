@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CGqKy28bD5Q",
-            "title": "Trump Declares A National Emergency Over The Coronavirus Outbreak | NBC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "3uQvmnEzTHc",
             "title": "WHO: ‘Europe Has Now Become The Epicenter Of The Pandemic’ | NBC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Dr. Joseph Fair Discusses The Coronavirus And The State Of Emergency In NY  | NBC News NOW",
             "secondDuration": 690,
             "group": "group_7"
+        },
+        {
+            "videoId": "mhp-px3tv6E",
+            "title": "Biden Lays Out His Plan For Coronavirus  | NBC News NOW",
+            "secondDuration": 656,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mlO2OpfSajo",
-            "title": "Kellyanne Conway: With FBI Letter, Hillary Clinton is Passing the Blame | Meet The Press | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sx341PV_6GE",
             "title": "Cory Booker: \"God Bless the Protesters\" (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 489,
@@ -31,8 +25,14 @@
             "title": "Donald Trump On Obamacare: Open To Keeping Some Provisions | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "IXZscV1H15g",
+            "title": "Latino Voter: ‘We Didn’t See Donald Trump Coming’ | NBC News",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

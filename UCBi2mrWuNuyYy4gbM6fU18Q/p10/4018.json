@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bv4N-X7uNyo",
-            "title": "When the Killer Couple Came to the US",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "FTWdg2-BN28",
             "title": "Thieves Pull a Bait-and-Switch Stealing Packages Right From Doorsteps",
             "secondDuration": 77,
@@ -61,8 +55,14 @@
             "title": "Police Shooting of Alleged Bank Robber Caught on Cell Phone Video",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9iWfRM6B_w",
+            "title": "President Obama Addresses ISIS | ABC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

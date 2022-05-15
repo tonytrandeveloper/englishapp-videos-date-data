@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8uSkLiFXx38",
-            "title": "Police Chase Armored Vehicle Stolen From Virginia Military Base | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tgyq2zsGPI0",
             "title": "Desperate Search For Loved Ones After Guatemala Volcano Eruption | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Pluto's Status: It's Complicated | Mach | NBC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "FIlOWqfdnz0",
+            "title": "‘We’re Asians, Gay & Proud’: The Story Behind The Photo | NBC Asian America",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

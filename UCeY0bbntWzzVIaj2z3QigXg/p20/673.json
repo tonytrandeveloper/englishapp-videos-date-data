@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Edp3D5l1iGs",
-            "title": "Live: President Donald Trump Holds News Conference On Jobs Numbers | NBC News",
-            "secondDuration": 3173,
-            "group": "group_7"
-        },
-        {
             "videoId": "l2BVymmBmfE",
             "title": "NYC Mayor Bill De Blasio Holds Briefing Amid George Floyd Protests, Coronavirus | NBC News",
             "secondDuration": 3748,
@@ -121,8 +115,14 @@
             "title": "Paul, Harris And Booker Debate On Anti-Lynching Bill Erupts On Senate Floor | NBC News NOW",
             "secondDuration": 571,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJ2R_JhCOiI",
+            "title": "Los Angeles County Lifts Curfew After Days Of Peaceful Protests | NBC News NOW",
+            "secondDuration": 676,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

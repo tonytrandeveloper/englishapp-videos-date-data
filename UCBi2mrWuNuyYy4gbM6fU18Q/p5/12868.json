@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GKzXcusdlGI",
-            "title": "Kid in Control",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "k8H7u2b_664",
             "title": "The Conversation: Digital Do's and Don'ts",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Obama's Final Health Care Push",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "vcLmmiY0VM4",
+            "title": "Chelsea King's Body Found",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yD7UHLfmj-A",
-            "title": "Windows 8 Consumer Preview: New Start Screen; Beta Version Released to Introduce Microsoft's New OS",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "3c7vKO9RL5A",
             "title": "Webcast: Leap Year 2012",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Mitt Romney Wins Michigan and Arizona",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "cOq94dAjhO0",
+            "title": "Romney Sweeps Michigan, Arizona",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

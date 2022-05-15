@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7hByu8MvIiU",
-            "title": "BEATING THE ODDS | 6 Stories That Prove Anything Is Possible",
-            "secondDuration": 414,
-            "group": "group_7"
-        },
-        {
             "videoId": "v1UQ3Cxu1is",
             "title": "Trump Lobs Attacks at Clinton in Major Speech; Calls Her a 'World-Class Liar'",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Bipedal Black Bear Strikes Again!",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "alZKkFMw3eY",
+            "title": "Family Goes Missing in the Gulf of Mexico",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

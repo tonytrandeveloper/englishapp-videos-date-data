@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JbSDR65zWiA",
-            "title": "Interview With Leon Panetta",
-            "secondDuration": 1480,
-            "group": "group_7"
-        },
-        {
             "videoId": "xlgd-fPuhG8",
             "title": "Drilling the Gulf Relief Well",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "'Bachelor' Breakup: Jake and Vienna Split",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "BudGHqnzCRw",
+            "title": "Osama Bin Laden Bounty Hunter Comes Home",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

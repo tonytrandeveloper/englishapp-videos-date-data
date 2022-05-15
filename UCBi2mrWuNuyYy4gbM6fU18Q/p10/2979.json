@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Su-JkYxZBY",
-            "title": "Man dragged off flight by law enforcement after not giving up seat",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "_RTgotMqB7o",
             "title": "Tragic shooting at San Bernardino elementary school",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "Behind the scenes of 'Dancing With the Stars'",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Qu98v93Y8E",
+            "title": "Manhunt underway for suspect who allegedly sent manifesto to Trump",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

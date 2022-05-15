@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iBAs0g5tCbo",
-            "title": "Sen. Ted Cruz On Presidential Bid (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 608,
-            "group": "group_7"
-        },
-        {
             "videoId": "twKk5vfOQY4",
             "title": "Sen. Cruz on Trump: 'I Salute Donald Trump' | Meet The Press | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "NASCAR Asks Fans to Leave the Confederate Flag at Home | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "fsfuGesuNzI",
+            "title": "Sesame Street’s ‘Maria’ Says Farewell After More Than Four Decades  | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

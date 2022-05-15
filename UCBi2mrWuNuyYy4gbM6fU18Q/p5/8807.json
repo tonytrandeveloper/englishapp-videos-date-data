@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Zs-KsnyvoU",
-            "title": "Harrison Ford Plane Crashes in California",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "eQiTp7M5iEM",
             "title": "Harrison Ford Injured in California Small Plane Crash",
             "secondDuration": 349,
@@ -31,8 +25,14 @@
             "title": "Plane Crashes Through Fence at LaGuardia Airport",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "fekMB-2qMa4",
+            "title": "Elephants No Longer to Perform at Barnum & Bailey Circus",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

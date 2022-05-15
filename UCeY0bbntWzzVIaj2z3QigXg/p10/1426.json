@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8oIK6cfGFyo",
-            "title": "Joe Biden Denies Former Senate Staffer's Sexual Assault Allegation | NBC Nightly News",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "VQDMcF-wX74",
             "title": "Surge Of Handwritten Cards Show Sympathy And Thanks During Coronavirus | NBC Nightly News",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Trump Announces Remdesivir Cleared By FDA For Emergency Coronavirus Treatment | NBC News NOW",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "JQc3bTXg51Y",
+            "title": "Trump Hosts Recognition Ceremony: 'Hard Work, Heroism, And Hope’ | NBC News",
+            "secondDuration": 1374,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

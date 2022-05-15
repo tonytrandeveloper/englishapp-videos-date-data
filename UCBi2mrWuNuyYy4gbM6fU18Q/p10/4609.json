@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ps7ynqjt0DU",
-            "title": "The Fight Over Virtual Marilyn Monroe",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "wOKIdaISpfU",
             "title": "Instant Index: Matthew McConaughey Football Pep Talk at the University of Texas",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: BOTCHED BEER ROBBERY",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "XduwZqR3HTw",
+            "title": "Amy Robach Reflects on Breast Cancer Diagnosis One Year Later",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

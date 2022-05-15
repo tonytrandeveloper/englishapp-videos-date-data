@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U9l_rFRzEZw",
-            "title": "'It came outta nowhere': NBA player speaks about being tased by police",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "RsKkv8w0lJw",
             "title": "Student who went from homeless to Harvard credits writing program",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Airbnb glitch sends man to wrong country",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGFeohvU2RA",
+            "title": "North Korea issues threat amid summit jitters",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

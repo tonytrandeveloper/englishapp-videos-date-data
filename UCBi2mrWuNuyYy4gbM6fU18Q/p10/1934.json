@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P9CFyehNIg8",
-            "title": "Robert Mueller takes questions for 7 hours from 2 committees",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-GnaFUoSSU",
             "title": "High school football team surprises child with 'best birthday ever'",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: The Mueller testimony | ABC News",
             "secondDuration": 1921,
             "group": "group_7"
+        },
+        {
+            "videoId": "tWHwVFaFTEY",
+            "title": "Russian meddling 'wasn't a single attempt. They're doing it as we sit here': Mueller",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

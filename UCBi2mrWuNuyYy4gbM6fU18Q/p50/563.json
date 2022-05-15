@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "53ne-bSjn6U",
-            "title": "Spanish authorities say Barcelona attack could have been even worse",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zE638l-5Qs0",
             "title": "Taylor Swift wins trial, late night comics take on Trump after Charlottesville on 'Real Live'",
             "secondDuration": 1528,
@@ -301,8 +295,14 @@
             "title": "Trump: 'We'll see what happens' with Steve Bannon",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "QwIU7iUfhow",
+            "title": "President Donald Trump full remarks at Trump Tower: Remarks on Charlottesville, Infrastructure",
+            "secondDuration": 3181,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RiWZYSqrQRE",
-            "title": "White House official says Democrats are taking an 'implausible position' on immigration",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "zfhgSA3hqb8",
             "title": "House Democrat: Pay the 'hostage takers' for the border wall to protect 'Dreamers'",
             "secondDuration": 364,
@@ -31,8 +25,14 @@
             "title": "Latest on the government shutdown",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ZhaNwZbco8",
+            "title": "Thousands rally for Women's March",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

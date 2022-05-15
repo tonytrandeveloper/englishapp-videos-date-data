@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W6Y14P0yEGU",
-            "title": "Hillary Clinton takes aim at Trump administration",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUDJUxzXVyY",
             "title": "New fallout in House investigation of alleged Russia election meddling",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Severe storm systems rip across the South",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "K8NfvMQXVRo",
+            "title": "Paul Ryan on health care: 'We're going to get this right' | ABC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

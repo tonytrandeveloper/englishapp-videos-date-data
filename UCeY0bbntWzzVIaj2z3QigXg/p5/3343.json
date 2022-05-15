@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fkTYPhk3sqg",
-            "title": "NASA Launches First Uncrewed Boeing Starliner, Spacecraft Experiences Docking Issue | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "4bJwNX6w8js",
             "title": "Watch The Democratic Debate In Less Than 5 Minutes | NBC News",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "Voters On USMCA Trade Deal: ‘More Stability Built In’ | NBC News NOW",
             "secondDuration": 396,
             "group": "group_7"
+        },
+        {
+            "videoId": "WpciAXsCEQQ",
+            "title": "Understanding The Fine Print Of The California Consumer Privacy Act | NBC News NOW",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

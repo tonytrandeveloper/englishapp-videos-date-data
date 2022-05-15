@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j1yPYbtAg7M",
-            "title": "Suspect drives truck into group outside London mosque",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zuypkzb2-94",
             "title": "Virginia Muslim girl's murder not a hate crime, officials say",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Seven sailors found dead after USS Fitzgerald Collision",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "dlrZYisSuo0",
+            "title": "At least 1 dead after 'horrific terrorist attack' in London, says mayor",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

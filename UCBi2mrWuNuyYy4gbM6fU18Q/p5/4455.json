@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-8XDMfkANk4",
-            "title": "A Chicago teenager's hard work and determination pays off in a big way",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "TeboOIciwwI",
             "title": "Referee's questionable call for wrestler to cut dreadlocks",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "Fiance of missing Colorado mom arrested on murder charges",
             "secondDuration": 494,
             "group": "group_7"
+        },
+        {
+            "videoId": "NnLoNyYG4gU",
+            "title": "Government shutdown begins",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

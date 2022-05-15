@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j7FQNgEbCFU",
-            "title": "The Camp Fire has destroyed more than 6,700 buildings in Northern California",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ZC54EvrrxQ",
             "title": "Florida gearing up for recounts in key governor and Senate races",
             "secondDuration": 367,
@@ -121,8 +115,14 @@
             "title": "'Briefing Room': California shooting, Jeff Sessions resignation,  Ruth Bader Ginsburg hospitalized",
             "secondDuration": 1636,
             "group": "group_7"
+        },
+        {
+            "videoId": "70S3CHHVpfE",
+            "title": "Bar shooting survivors recount horror",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

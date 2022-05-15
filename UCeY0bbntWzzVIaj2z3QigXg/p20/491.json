@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nvSsuxYeJs8",
-            "title": "Biden Introduces Nominee For Education Secretary | NBC News",
-            "secondDuration": 1600,
-            "group": "group_7"
-        },
-        {
             "videoId": "jEPhYsp0K-k",
             "title": "Biden Aides Consider Using Defense Production Act For Covid Vaccine Distribution | NBC News NOW",
             "secondDuration": 289,
@@ -121,8 +115,14 @@
             "title": "Your Questions Answered About The New Coronavirus Strain | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "OnTrP2cJUAQ",
+            "title": "Families Of Pan Am Flight 103 Victims Speak Out After New Charges Announced | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

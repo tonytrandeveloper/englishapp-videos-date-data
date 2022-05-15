@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wCIrFltZVeo",
-            "title": "Brett Kavanaugh SCOTUS Nomination Sparks Concerns Among The Right | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "MO6CTp12BR8",
             "title": "11 People Rescued After Plane Crashes In Alaska | NBC Nightly News",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Meghan Markle And Prince Harry Watch RAF Centenary Flyover | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "3s0lVBkO8oE",
+            "title": "Democratic Senators React To Brett Kavanaugh Nomination | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

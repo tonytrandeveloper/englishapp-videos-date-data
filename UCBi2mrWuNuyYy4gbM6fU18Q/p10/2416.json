@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pIp4bacLj0g",
-            "title": "Officers caught on bodycam deciding driver's fate with a coin flip",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "U5nrGfnrVsI",
             "title": "\"The Briefing Room': DOJ indictments, Trump visits UK, Londoners protest  | ABC News",
             "secondDuration": 1101,
@@ -61,8 +55,14 @@
             "title": "Documents suggest Cohen used WH connections for business",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LrfFIlGzFk",
+            "title": "Pres. Trump, PM May hold joint news conference in U.K",
+            "secondDuration": 3311,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

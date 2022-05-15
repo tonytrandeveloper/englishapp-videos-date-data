@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qfpfUCW9uc4",
-            "title": "United joins 2 airlines in canceling Boeing 737 flights",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "IVLTrW912-E",
             "title": "Democrats subpoena Trump's bank, accounting firm",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Notre Dame cathedral in Paris on fire | ABC News Special Report live stream",
             "secondDuration": 11328,
             "group": "group_7"
+        },
+        {
+            "videoId": "SM4EBNKErYA",
+            "title": "Notre Dame's spire collapses amid raging fire | ABC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

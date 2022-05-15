@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zCcQ06RNHHI",
-            "title": "Vice President Mike Pence meets with Harvey survivors",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "i8NqGuBXzDc",
             "title": "White House holds press briefing as Hurricane Harvey relief efforts continue",
             "secondDuration": 3950,
@@ -301,8 +295,14 @@
             "title": "30,000 people without shelter in Houston",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "w1AIuXXf7zw",
+            "title": "Displaced families in Texas must wait one week to return home",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

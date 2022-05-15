@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fuxm5tVBNNo",
-            "title": "WEBCAST: Wave of Grief",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "ILLhH1cm53U",
             "title": "Virginia Tech Survivor Fights Back Against Guns",
             "secondDuration": 313,
@@ -31,8 +25,14 @@
             "title": "The Year With Katie Couric: Celebrity Romance",
             "secondDuration": 458,
             "group": "group_7"
+        },
+        {
+            "videoId": "umCggirERig",
+            "title": "The Year With Katie Couric: 2012 Dishonor Roll",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

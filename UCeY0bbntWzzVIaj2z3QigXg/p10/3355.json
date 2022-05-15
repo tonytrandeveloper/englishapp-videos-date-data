@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EZ3VHv-9Xds",
-            "title": "Bernie Sanders Vows To Continue The Fight | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "khHL1JsrsWY",
             "title": "Before Hillary: Female Trailblazers In U.S. Politics | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Soledad O’Brien Shares Why She Started ‘I Am Latino In America’ Tour | NBC News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "heUvirTsz9w",
+            "title": "How NBC News Gets Its Election Data Points | Long Story Short | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

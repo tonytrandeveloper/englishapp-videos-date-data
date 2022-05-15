@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EebCDGMV75Q",
-            "title": "New York Attorney General Eric Schneiderman resigns after report he abused four women",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYQNWbFT6Zc",
             "title": "How false eyelashes become a must-have, everyday accessory and a booming market",
             "secondDuration": 381,
@@ -31,8 +25,14 @@
             "title": "Indiana Senate race: Mike Braun wins GOP primary",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "x6Z1JYjsFaI",
+            "title": "Patrick Morrisey projected to win West Virginia primary",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

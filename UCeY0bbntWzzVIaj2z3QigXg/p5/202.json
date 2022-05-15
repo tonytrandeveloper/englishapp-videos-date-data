@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NzPRfL4o_9I",
-            "title": "NOW Tonight with Joshua Johnson - Mar. 10 | NBC News NOW",
-            "secondDuration": 3196,
-            "group": "group_7"
-        },
-        {
             "videoId": "UK4tPEoWdag",
             "title": "Top Story with Tom Llamas - March 10 | NBC News NOW",
             "secondDuration": 2810,
@@ -31,8 +25,14 @@
             "title": "Exclusive Look At Rover That Could Be Heading To The Moon",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsBR--kB2VU",
+            "title": "Kherson, Ukraine Offers Glimpse Into Russian Occupation",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

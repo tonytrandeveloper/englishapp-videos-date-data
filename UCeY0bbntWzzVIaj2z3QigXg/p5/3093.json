@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JqOQ59FfEBA",
-            "title": "SpaceX Launches Last First-Generation Dragon Capsule To ISS | NBC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "acwlRKSBtEU",
             "title": "The BETTER Way To Protect Yourself From Coronavirus | Better | NBC News",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Coronavirus Fact Vs. Fiction: Leading Virologist On What Americans Should Know | NBC Nightly News",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "crfPe3LduAk",
+            "title": "Experts Say Stop Touching Your Face, These Are Our Tips On How To Break The Habit | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

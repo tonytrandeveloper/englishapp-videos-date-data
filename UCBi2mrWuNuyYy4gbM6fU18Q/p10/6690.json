@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7YXjPoY2qeM",
-            "title": "Mentally Ill Forced to Fight",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "muMupU_BdcM",
             "title": "HHS Secretary Talks Reform",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Tom Hanks Does it All",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "c-sDbeBIKSQ",
+            "title": "Comedian in Chief",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

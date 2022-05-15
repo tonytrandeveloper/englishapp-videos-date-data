@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dp1DSIeuHXU",
-            "title": "JetBlue Flight Turbulence Severely Injures 24",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ui4wczwZbAE",
             "title": "Olympics Medal Count | TEAM USA on Top",
             "secondDuration": 41,
@@ -121,8 +115,14 @@
             "title": "Trump Tower Climber: Who is Michael Ryan?",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "up6VLsIjNnA",
+            "title": "Brutal Military Standoff in Syria Caught on Tape",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

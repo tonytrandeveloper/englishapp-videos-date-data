@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t6HeFPwMK2g",
-            "title": "Tea Party Express: 'Reid Is Our Number One Target'",
-            "secondDuration": 608,
-            "group": "group_7"
-        },
-        {
             "videoId": "jhAEmv-FkyA",
             "title": "Jake Tapper on Campaign Confrontations",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "Jane Goodall's Golden Anniversary",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "HE627KCl8dk",
+            "title": "One in Three Adults May Be Diabetic in 40 Years",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

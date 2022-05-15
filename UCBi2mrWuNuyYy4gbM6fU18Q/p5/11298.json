@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "laxOBEuniyw",
-            "title": "Basketball Wives: Evelyn Lozada Speaks",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "uIml03HI6yk",
             "title": "Diving With Great White Sharks",
             "secondDuration": 266,
@@ -31,8 +25,14 @@
             "title": "Did Clint Eastwood's Speech Overshadow Mitt Romney?",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "szVbfdxPsBs",
+            "title": "Romney Campaign Treats Donors Like Royalty",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

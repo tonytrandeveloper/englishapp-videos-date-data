@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wCuolzw9KlY",
-            "title": "White House Press briefing on Trump's Putin meeting, news conference | ABC News",
-            "secondDuration": 2943,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Kltgn_eH5g",
             "title": "'I felt nervous and worried': 12 boys, coach trapped inside Thai cave:  20/20 Part 1",
             "secondDuration": 389,
@@ -31,8 +25,14 @@
             "title": "Boys rescued from Thai cave speak out for 1st time",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXhLE-OHn0g",
+            "title": "Trump walks back Russia summit comments",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

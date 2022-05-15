@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xIMsnKMiEtQ",
-            "title": "This Morning’s Top Headlines – April 6 | Morning News NOW",
-            "secondDuration": 1524,
-            "group": "group_7"
-        },
-        {
             "videoId": "G7jbz2yGppc",
             "title": "Russian Humanitarian Aid Distributed In Besieged Mariupol",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "NOW Tonight with Joshua Johnson - Apr. 5 | NBC News NOW",
             "secondDuration": 3224,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8kZ-gwDaqg",
+            "title": "Months After Surfside Collapse, Concerns Spark Miami Beach Apartment Evacuation",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

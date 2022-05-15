@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6PwwIDO0H68",
-            "title": "Live: President Donald Trump Holds A Cabinet Meeting | NBC News",
-            "secondDuration": 4140,
-            "group": "group_7"
-        },
-        {
             "videoId": "cDZCVtEgCLM",
             "title": "Live: Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1652,
@@ -31,8 +25,14 @@
             "title": "Murphy Announces N.J. Pharmacies Will Do COVID-19 Testing, Elective Procedures To Resume | NBC News",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "HMVVvYXfSTU",
+            "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 4067,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

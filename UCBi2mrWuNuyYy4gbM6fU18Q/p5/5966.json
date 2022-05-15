@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6J0R5gEBOGY",
-            "title": "U.S. launches military strike on Syria",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "6BY1qoDMduU",
             "title": "President Trump meets with Chinese President Xi Jinping",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Legendary insult comic Don Rickles dies at 90",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vp73lnWDQD8",
+            "title": "Senate OKs 'nuclear option,' clears path for high court nomination vote",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

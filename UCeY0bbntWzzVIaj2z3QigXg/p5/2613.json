@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fJCIk4OT7EE",
-            "title": "Trump Speaks To Arizona Youth | NBC News",
-            "secondDuration": 5654,
-            "group": "group_7"
-        },
-        {
             "videoId": "8fNHEKRJrk0",
             "title": "Powerful Farewell At Funeral For Rayshard Brooks | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Reverend At Brooks' Funeral: We Have Been Fighting 'Virus Of Racism' For Centuries | NBC News",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "xcCeTlnjCbM",
+            "title": "Fauci, CDC Chief Testify On Coronavirus Response | NBC News",
+            "secondDuration": 22309,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

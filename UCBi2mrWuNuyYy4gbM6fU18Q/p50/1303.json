@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wxkjcmPullc",
-            "title": "On the Trail With Sarah Palin",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2cUmMScYXg",
             "title": "Gold Fever",
             "secondDuration": 400,
@@ -301,8 +295,14 @@
             "title": "Caught on Tape: Woman Cheats Death",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "oxyIE248hco",
+            "title": "Bottle to Throttle: Was Pilot Flying Drunk?",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

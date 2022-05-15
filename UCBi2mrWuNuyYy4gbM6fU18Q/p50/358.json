@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "cZYqizAvJa8",
-            "title": "Ex-Juul executive sues over allegedly contaminated pods l ABC New",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nJWvdZpTXo",
             "title": "Informant helped bring down ISIS leader: Report l ABC News",
             "secondDuration": 172,
@@ -301,8 +295,14 @@
             "title": "The Wicked l 20/20 l PART 3",
             "secondDuration": 499,
             "group": "group_7"
+        },
+        {
+            "videoId": "lkaWOveMOVM",
+            "title": "Nationals host their 1st World Series home game | ABC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

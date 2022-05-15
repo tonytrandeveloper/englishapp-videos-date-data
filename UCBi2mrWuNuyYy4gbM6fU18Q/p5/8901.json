@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WD8wTzsHXmY",
-            "title": "The Winter That Won’t Give Up",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdaF63RWF9o",
             "title": "Super Bowl Save: Malcolm Butler's Interception",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "Midwest Starts to Dig Out After Winter Storm",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "a55gKcPJWwo",
+            "title": "Super Bowl Really Was Super",
+            "secondDuration": 392,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

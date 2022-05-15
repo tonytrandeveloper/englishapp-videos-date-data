@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7JZutPdmDn0",
-            "title": "White House Holds Press Briefing: Nov. 15 | NBC News",
-            "secondDuration": 2766,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ijm3gdsV41s",
             "title": "Biden Announces Initiatives 'To Improve Public Safety And Advance Justice' For Tribal Nations",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Inflation Spike Dampens Democrat's Win",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "UITu0ij43I4",
+            "title": "Full Sununu Interview: ‘If Everything Is A Party-Line Test, Nothing’s Ever Going To Get Done’",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

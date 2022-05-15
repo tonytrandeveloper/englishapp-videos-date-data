@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HRa6TW0Hkok",
-            "title": "Multi-millionaire due in court on new sex trafficking charges",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "SGWFvcW-HIg",
             "title": "Investigation grows into mysterious Florida explosion",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Dangerous weather marks an end to the holiday weekend",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "bdQCJRoh9QQ",
+            "title": "Trump addresses report detailing horrible conditions inside migrant holding centers",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

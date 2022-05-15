@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c5cBNm3xF2c",
-            "title": "Conrad Murray Trial 2011: Michael Jackson's Drug Addition Setback for Doctor",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "4V8J4dJMLXc",
             "title": "'The Wilds': A Safari in the Suburbs: Video of the Animal Conservation Center in Ohio",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "MTV Video Music Awards: Did Lady Gaga, Nicki Minaj and Katy Perry Hit or Miss?",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "7tdiGFNVdwM",
+            "title": "Hurricane Irene Leaves 6 Dead in North Carolina",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

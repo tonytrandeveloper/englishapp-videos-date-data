@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pWi0KbuBe94",
-            "title": "Senator Ron Johnson: 'We Should Not Be Voting' on Healthcare This Week | Meet The Press | MSNBC",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "37usznOGMlE",
             "title": "Senator Bernie Sanders: Obamacare 'Has Problems' But Can Be Fixed | Meet The Press | MSNBC",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Hot Car Deaths Up As Extreme Heat Sweeps Country | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZGwGyx056Hg",
+            "title": "Counting Penguins: What Penguins In Antarctica Might Be Telling Us About Climate Change | NBC News",
+            "secondDuration": 573,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

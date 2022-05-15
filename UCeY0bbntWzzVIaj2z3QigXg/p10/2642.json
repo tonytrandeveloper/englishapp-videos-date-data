@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZAVvPIoLa6A",
-            "title": "Marjory Stoneman Douglas Students Return To School | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "_cFgOmJ8GqA",
             "title": "President Donald Trump Invites Lawmakers To White House To Discuss School Safety | NBC News",
             "secondDuration": 3702,
@@ -61,8 +55,14 @@
             "title": "Jared Kushner Loses Top Security Clearance | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "klbPhwE44hI",
+            "title": "Counterfeit Goods Were Sold On USA's Top Online Retailers, Investigation Finds | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

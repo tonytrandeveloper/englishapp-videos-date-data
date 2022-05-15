@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NWzJ11WsFwk",
-            "title": "Mel Gibson's $450 Million Divorce: Biggest Payout in Hollywood History",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4BSJLWPbiI",
             "title": "Webcast: President Obama Approval; Drew Brees Leader",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "U.S. Troops:  Coming Home",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "VVOuWXLX0Tw",
+            "title": "Ron Paul Newsletter Controversy",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

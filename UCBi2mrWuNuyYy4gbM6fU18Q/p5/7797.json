@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ul6dLCnKL4A",
-            "title": "'Ransomware': The New Cyber Threat Targeting Hospitals and Police Departments",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "yU9XMnTR7lk",
             "title": "FBI Standoff With Apple Over San Bernardino Shooter's Phone Continues",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Says Donald Trump is \"Not Christian\" [FULL REMARKS]",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "36qhTfCWdiw",
+            "title": "Trump Responds To Pope Saying He's 'Not Christian' [FULL RESPONSE]",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

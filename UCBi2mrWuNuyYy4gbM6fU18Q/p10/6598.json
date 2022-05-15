@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-02OubBWeRY",
-            "title": "Rogue Wave Pulls Onlookers Into Atlantic",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddsExN295fI",
             "title": "Sen. John McCain: Afghanistan",
             "secondDuration": 1346,
@@ -61,8 +55,14 @@
             "title": "Reality Show Manhunt",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "aTGK7a2BxMI",
+            "title": "Parents Driving Drunk Endanger Kids",
+            "secondDuration": 572,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

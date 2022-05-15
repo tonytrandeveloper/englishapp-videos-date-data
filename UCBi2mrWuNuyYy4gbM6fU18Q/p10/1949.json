@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "We1HqGQRXkE",
-            "title": "Man on the moon 50 years later: The flag",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q_B29G5ge04",
             "title": "Man on the moon 50 years later: Surveying the surface",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "'I don't have a racist bone in my body': Trump",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "z9S3K3Mrng0",
+            "title": "The accident on the moon that nearly sabotaged historic landing",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

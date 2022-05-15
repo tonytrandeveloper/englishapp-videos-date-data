@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CjeFRqtEaY0",
-            "title": "Sandra Bland Jailhouse Video Shows Last Moments of Her Life",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wwa8QermRPw",
             "title": "Surfer Returns Home After Shark Attack in South African Waters",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Security Reacts Quickly as FIFA's Sepp Blatter Approached by Demonstrator",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "nozcPnpwdGI",
+            "title": "Donald Trump's Presidential Campaign Could Be Over",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

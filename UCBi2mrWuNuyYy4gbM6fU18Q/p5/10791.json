@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O2Hi9U6ZxfE",
-            "title": "WEBCAST: Alabama Crimson Tide Beats Notre Dame",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "cBqgo4XjVcA",
             "title": "Mariah Carey's New Role",
             "secondDuration": 396,
@@ -31,8 +25,14 @@
             "title": "Earliest Flu Season in a Decade: 80 Percent of Country Reports Severe Symptoms",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sb1HRZVYvbI",
+            "title": "Epic Showdown, Fighting Irish v. Crimson Tide: College Football Rivalry Ignites Fan Frenzy",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

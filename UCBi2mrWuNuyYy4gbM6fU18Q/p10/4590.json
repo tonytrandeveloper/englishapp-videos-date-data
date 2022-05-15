@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C3A84yqCpBw",
-            "title": "SungWoo Lee, the Human Good Luck Charm, is Back in Kansas City",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "thehFdhwOC4",
             "title": "Apple Hoping Consumers Ditch Their Wallets With Apple Pay",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Man Carried to Safety as Home Burns",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpLSgtai9yA",
+            "title": "MIX: Weatherman vs Dog",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

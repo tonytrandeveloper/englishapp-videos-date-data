@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9ZSBwFnaGyw",
-            "title": "Fierce reaction to Trump's decision to move US embassy to Jerusalem",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "060iyAz9EPo",
             "title": "Growing list of senators call on Al Franken to resign in wake of sexual misconduct scandal",
             "secondDuration": 159,
@@ -121,8 +115,14 @@
             "title": "Trump weighing plans to move US Embassy in Israel from Tel Aviv to Jerusalem",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "KIsKJq1tVVg",
+            "title": "Body camera captures Georgia cop saving infant in distress",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

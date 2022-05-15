@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tAM6e1LcD30",
-            "title": "Attorney General Jeff Sessions says he will stay in his job",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "tpQfsKcY7Us",
             "title": "Attorney for family of Australian woman killed by police calls for justice",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Attorney General Jeff Sessions announces international cybercrime enforcement action",
             "secondDuration": 2287,
             "group": "group_7"
+        },
+        {
+            "videoId": "yOvMU4b5DLk",
+            "title": "What to know about Sen. McCain's brain tumor diagnosis",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

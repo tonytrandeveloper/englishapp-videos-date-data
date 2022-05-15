@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CjeFRqtEaY0",
-            "title": "Sandra Bland Jailhouse Video Shows Last Moments of Her Life",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wwa8QermRPw",
             "title": "Surfer Returns Home After Shark Attack in South African Waters",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Surges In Polls After John McCain Comments",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "vtplGzvNGHc",
+            "title": "Drone Fitted With Firing Handgun Investigated by FAA",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "LqquhTCdzDY",
-            "title": "Health Care \"Vote-a-Rama\": What is it? | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZCfrGOvicyA",
             "title": "President Trump Honors 1st Responders | NBC News",
             "secondDuration": 1551,
@@ -301,8 +295,14 @@
             "title": "This Oregon Pub Is Pouring Compassion By The Pint | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "BUcKItSghwY",
+            "title": "Princess Diana Documentary: Through The Eyes Of Her Children | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

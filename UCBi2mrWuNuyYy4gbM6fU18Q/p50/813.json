@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1vpTvVbNsJs",
-            "title": "Chipotle Speaks Out on E.Coli Outbreak, Restaurant Closures",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "SNTkFDvclwg",
             "title": "Congress Weighs in On 'Gag Clauses' for Online Reviews",
             "secondDuration": 60,
@@ -301,8 +295,14 @@
             "title": "Race Against Time to Save a Toddler After an Amber Alert Is Issued",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "9BJrYOswogg",
+            "title": "Give the Kid Back the Puck. Hockey Fans Call Foul",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

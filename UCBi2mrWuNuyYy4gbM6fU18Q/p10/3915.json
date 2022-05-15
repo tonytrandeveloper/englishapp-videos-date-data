@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nzAirRzk9GU",
-            "title": "'Girls' Star Lena Dunham's Health Crisis",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "c_NtBYd6DCM",
             "title": "'Family Feud' Contestant's Hilarious Response Goes Viral",
             "secondDuration": 338,
@@ -61,8 +55,14 @@
             "title": "Index: Deadly Train Crash in Germany",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "WUkgZjeBkVA",
+            "title": "New Hampshire a Huge Victory for Donald Trump",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

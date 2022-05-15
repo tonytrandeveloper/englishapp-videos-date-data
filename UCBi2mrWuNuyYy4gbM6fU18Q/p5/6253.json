@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TCNHcgx1T0E",
-            "title": "Obama's Farewell Address: 'It Has Been the Honor of My Life to Serve You'",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "vAryxfCxNnA",
             "title": "'Black-ish' Tackles Donald Trump Presidency",
             "secondDuration": 390,
@@ -31,8 +25,14 @@
             "title": "President-Elect Donald Trump Calls for Immediate Repeal of Obamacare",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "KS4mFRODdRU",
+            "title": "President Obama's Farewell Address to the Nation",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

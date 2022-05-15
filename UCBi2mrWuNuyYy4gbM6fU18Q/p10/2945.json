@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KRA9NkpNcko",
-            "title": "More details emerge in horrific Penn State fraternity house party death | ABC News",
-            "secondDuration": 528,
-            "group": "group_7"
-        },
-        {
             "videoId": "LNv1nKM5YyA",
             "title": "Sara Bareilles on making her Broadway dreams come true",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "GOP faces backlash over health care bill",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "JRm3Q7M1VAQ",
+            "title": "Penn State fraternity brothers face charges in student's death",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

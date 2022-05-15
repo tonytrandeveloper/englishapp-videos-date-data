@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "syHIjidJVJk",
-            "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "WUuCws0E6nQ",
             "title": "Temperatures Expected To Climb Over Triple Digits During Heat Wave",
             "secondDuration": 186,
@@ -301,8 +295,14 @@
             "title": "CDC On Link Between Covid Vaccine And Rare Heart Condition in Young People",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "RSMMF9rWgjQ",
+            "title": "Britney Spears Speaks For First Time At Conservatorship Hearing",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

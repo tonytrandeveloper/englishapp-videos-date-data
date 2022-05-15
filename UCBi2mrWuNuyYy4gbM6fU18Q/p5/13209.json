@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ST5rimNAZN0",
-            "title": "Health Insurance Exec Turns Whistleblower",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "P9hiCOIH_fU",
             "title": "California Wildfires Spreading",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Suicide Car Bomb Rocks Kabul",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "lH_jX5iv3S0",
+            "title": "President Takes on Town Halls",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

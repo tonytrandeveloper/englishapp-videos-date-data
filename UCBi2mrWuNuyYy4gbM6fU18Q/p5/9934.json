@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3hyO6M_18jI",
-            "title": "The Winner of the Tallest Building in America Is ...",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pf89p2OpgrA",
             "title": "President Bill Clinton Weighs in on Obamacare",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Alec Baldwin to Testify Against Alleged Stalker Genevieve Sabourin",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "EfFXhrphJoI",
+            "title": "Typhoon Haiyan: Marines Bring Much-Needed Aid to Philippines",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

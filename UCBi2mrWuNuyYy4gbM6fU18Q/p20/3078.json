@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ypxDSJrv3FQ",
-            "title": "Fear of Fallout",
-            "secondDuration": 354,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-JY98NizBM",
             "title": "US Government Reevaluates Nuclear Infrastructure",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Japan Earthquake: Shocking New Tsunami Video (03.14.11)",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "S5jfYTsDYxU",
+            "title": "Japan Earthquake: Radiation Effects On Body (03.14.11)",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

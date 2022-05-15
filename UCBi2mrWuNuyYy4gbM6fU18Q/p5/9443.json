@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ayPcg7-UHQ",
-            "title": "Deadly Shooting Spree in Las Vegas",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOk42w78Ypc",
             "title": "Homecoming for Rare Set of Monoamniotic Identical Twins",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "'This Week': Nate Silver and Julie Foudy on the World Cup",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "O8OSeyP9SB4",
+            "title": "'This Week': Seattle's New Minimum Wage Hike",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

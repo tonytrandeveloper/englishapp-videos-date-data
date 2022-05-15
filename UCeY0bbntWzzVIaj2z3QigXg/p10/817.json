@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n21qmjHVWCw",
-            "title": "Defense: ‘The Evidence Is Far Greater Than 9 Minuets And 29 Seconds’ | NBC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "2V7mSgHnT_o",
             "title": "White House Holds Press Briefing: March 29 | NBC News",
             "secondDuration": 2344,
@@ -61,8 +55,14 @@
             "title": "How Important Opening Statements Will Be In Derek Chauvin’s Trial | NBC News NOW",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "gVJQv5AUIYg",
+            "title": "Giant Container Ship Blocking Suez Canal Finally Shifts | NBC News NOW",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

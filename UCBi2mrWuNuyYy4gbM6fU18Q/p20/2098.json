@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A1q_mQIEYqg",
-            "title": "Teenagers Lost at Sea",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "UANwRPEFNTs",
             "title": "Fire at Las Vegas Hotel",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "Police Learn Two Convicted Murderers Escaped From Prison",
             "secondDuration": 592,
             "group": "group_7"
+        },
+        {
+            "videoId": "ImYy_uXnYR0",
+            "title": "How Richard Matt and David Sweat Ended Up at Prison Together",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

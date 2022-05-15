@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tFqF4qOi4Qs",
-            "title": "Doctor Weighs In On Covid And Protecting Your Family",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ErU5Ri1Nb0",
             "title": "Firefighters Battle Dixie Fire As Nation Braces For Heat Wave",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Biden Says $1 Trillion Infrastructure Bill ‘Will Transform America’",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "7S1Q2w2mOLk",
+            "title": "Live: Biden Delivers Remarks on Infrastructure | NBC News",
+            "secondDuration": 2065,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

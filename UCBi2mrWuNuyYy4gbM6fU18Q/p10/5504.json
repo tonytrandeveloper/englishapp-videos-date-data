@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ax9dXwhPpLg",
-            "title": "Paula Broadwell: The Woman Who Shocked the Political World",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "qKMBkG2OKmY",
             "title": "NASCAR Controversy: Famed Driver Jeff Gordon Crosses the Line",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "NASCAR Fight: Jeff Gordon, Clint Bowyer",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "RjLGh9vyiQk",
+            "title": "Learning Lincoln",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

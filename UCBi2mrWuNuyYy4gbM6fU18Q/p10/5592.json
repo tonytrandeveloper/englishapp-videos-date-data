@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ptulqtYd9mY",
-            "title": "Bugatti Crashes into Lagoon: Caught on Tape - Did Driver Crash $1 Million Car Intentionally?",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "0bOcqvi16uE",
             "title": "Peanut Butter Recall: New Mexico Company Expands Recall After Salmonella Illnesses",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "American Airlines Seats Shake Loose in Flight",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "7HFYLelnfZo",
+            "title": "First Presidential Debate Archive: Do's and Don'ts",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

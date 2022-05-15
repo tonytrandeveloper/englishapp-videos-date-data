@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GnOnCvZFnCE",
-            "title": "New book gives behind-the-scenes look at Trump White House",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "R8_waozu4f4",
             "title": "NASA spacecraft expected to touch down on Mars",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Authorities work to recover American missionary's body from remote island",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "XbMv67ksWak",
+            "title": "Trump threatens to close US-Mexico border, says troops can use lethal force",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

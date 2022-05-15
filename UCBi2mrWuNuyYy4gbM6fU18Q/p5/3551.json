@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T6izUbGy9hE",
-            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "QWbRvvDU8XE",
             "title": "Exclusive look inside a nuclear-powered guided missile submarine l ABC News",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "A rare look inside nuclear powered submarine USS Florida | Nightline",
             "secondDuration": 521,
             "group": "group_7"
+        },
+        {
+            "videoId": "-CKoH3DyCuk",
+            "title": "ABC News’ David Muir gets exclusive access on USS Florida",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

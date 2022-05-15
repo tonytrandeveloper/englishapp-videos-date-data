@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Ke686VAh10",
-            "title": "Midterm Election Madness",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "-67e-cAaufg",
             "title": "Surprising News From Ford",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Amplified: We Have Band",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "0y5QrtZkm2U",
+            "title": "Incivility in Paris",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

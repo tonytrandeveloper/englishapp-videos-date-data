@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j6dDWwsgKsU",
-            "title": "Oscars 2014: Sandra Bullock Banks $70M for 'Gravity'",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "xgOp0CZCV5I",
             "title": "Ukraine's Ousted President Expected to Speak",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Happy Guys!",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "0YRppZsr8nY",
+            "title": "8-Year-Old Raises More Than Half a Million Dollars to Help Cure His Friend Jonah's Liver Disease",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

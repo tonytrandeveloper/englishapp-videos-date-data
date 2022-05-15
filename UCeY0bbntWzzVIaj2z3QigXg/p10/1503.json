@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cQVrYSkZ9gA",
-            "title": "Coronavirus: How to know when to go to the emergency room | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "RGJXSAJN2_w",
             "title": "Thousands of grocery delivery workers plan to strike for better protection | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "AOC: It's 'Shameful' What Republicans Fought For In Coronavirus Relief Bill | NBC News NOW",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Y-21SuoFNg",
+            "title": "Gov. Cuomo Gives Update On Coronavirus Spread Across NY State | NBC News",
+            "secondDuration": 5013,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "49KBz0s9_xw",
-            "title": "Protesters Take To The Streets Across The Country After Death Of George Floyd | NBC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "bLD9wiSzGMc",
             "title": "Live: Minnesota Gov. Tim Walz Addresses Protests | NBC News",
             "secondDuration": 2743,
@@ -31,8 +25,14 @@
             "title": "Examining The Murder & Manslaughter Charges Against Floyd's Arresting Officer Chauvin | NBC News NOW",
             "secondDuration": 687,
             "group": "group_7"
+        },
+        {
+            "videoId": "KbHBVAoiK6s",
+            "title": "Protests Over George Floyd’s Death Erupt Across The U.S. | NBC Nightly News",
+            "secondDuration": 753,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

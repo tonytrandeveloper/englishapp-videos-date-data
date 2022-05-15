@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r3CN9pZnLRA",
-            "title": "U.S. Commander In Afghanistan Says He Doubts He Was Target Of Deadly Kandahar Attack | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "utm3YLT8CyU",
             "title": "Honduran Mom-Of-Eight Joined Migrant Caravan To U.S. To ‘Rescue’ Her Daughter From Drugs | NBC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Pregnant Postal Worker Goes Missing | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "K3LGq9QsBIs",
+            "title": "Experimental Surgery Offers New Hope For Children With Polio-Like Illness | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

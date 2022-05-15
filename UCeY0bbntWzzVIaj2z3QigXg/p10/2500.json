@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_rpmHpuINfY",
-            "title": "Fashion Designer Kate Spade Found Dead In Her New York Apartment | NBC Nightly News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "U2ntfWSeMpY",
             "title": "Advocates Push For Alert System To Fight Hot Car Deaths | NBC Nightly News",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Man Suspected In Series Of Killings In Arizona Found Dead | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "e6ezigPZLMk",
+            "title": "Parkland School Resource Officer Speaks Out, Giving His Side Of The Story | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

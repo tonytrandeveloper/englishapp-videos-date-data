@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OaTtLgemfP0",
-            "title": "Court Orders Madonna’s Son to Return to U.S | ABC News",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "B59tA_aQiLc",
             "title": "Young Vermont Father Torn Between Family and Heroin: Part 1 | ABC News",
             "secondDuration": 504,
@@ -61,8 +55,14 @@
             "title": "Will Smith, Gugu Mbatha-Raw on Starring in 'Concussion'",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "JIIix_5N46Q",
+            "title": "Missouri College Student Suspected of Killing Her Fiance",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "alZKkFMw3eY",
-            "title": "Family Goes Missing in the Gulf of Mexico",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "7zrSGKONEJU",
             "title": "Midwest Braces for Severe Storms While Winds Sunder the East Coast",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Trump on Hillary Clinton, Personal Attacks",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "G0oFXmwg_pE",
+            "title": "Arsenal of Weapons Found in NYC | 3 Arrested",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

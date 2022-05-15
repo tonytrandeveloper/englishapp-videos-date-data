@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RV6LR0eNFwM",
-            "title": "Inspiring America: Former NFL Player Finds Purpose Training Amputees | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "KDbDpkKo3xw",
             "title": "'Fearless Girl' Statue Faces Off Against Wall Street Bull | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "An Aquaponic Vertical Farm Grows In Brooklyn | Mach | NBC News",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "zaAJsjuYpFM",
+            "title": "White House Struggles To Defend Trump’s Wiretapping Claims | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

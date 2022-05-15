@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QRhiEfkFLkI",
-            "title": "Clinical Trials Underway In Race For Coronavirus Vaccine | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "HDLFH7WhMLE",
             "title": "5-yr-old Daughter Of Detroit First Responders Dies After Contracting Coronavirus | NBC Nightly News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "U.S. Crude Oil Drops To Lowest Level In History, Dragging Down Stocks | NBC News NOW",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "MabmoHlFN44",
+            "title": "Several States Begin Easing Stay-At-Home Restrictions | NBC Nightly News",
+            "secondDuration": 649,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

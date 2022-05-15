@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8_NS7B8kkdA",
-            "title": "Christine O'Donnell Regrets 'Witch' Ad",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "aaUbu2hex40",
             "title": "The Judds on Family, Music and Life",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "Heroin Hits the Suburbs",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDjgWUYz7Z4",
+            "title": "Leisure Years Lost",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "00d4P_dCLhg",
-            "title": "Teen Vogue's evolution from fashion magazine to social movement | ABC News",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0J9FLCLEDk",
             "title": "Plane crash takes lives of 2 American families",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Gretchen Carlson named chairwoman of Miss America in shakeup",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuHduuMVMlQ",
+            "title": "Inside the break-up boot camp retreat designed to heal broken hearts",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

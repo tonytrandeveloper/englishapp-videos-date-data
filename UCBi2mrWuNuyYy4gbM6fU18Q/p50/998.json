@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ysqUys6Clss",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 846,
-            "group": "group_7"
-        },
-        {
             "videoId": "i04HCNI-ghA",
             "title": "'This Week': Healthcare.gov Website Havoc",
             "secondDuration": 825,
@@ -301,8 +295,14 @@
             "title": "Temperatures Plunge Across America",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "uuS6K2pKanE",
+            "title": "Dog and Cat Deaths May be Linked to Dog Treats",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

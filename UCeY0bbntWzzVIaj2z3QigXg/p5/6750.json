@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V0r5gnsmMag",
-            "title": "In This Inner-City Philadelphia Neighborhood, Concrete Cowboys Ride | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "ExT9LDPsy4U",
             "title": "Key And Peele Talk ‘Keanu’ And Dynamic Duos | NBC BLK | NBC News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz Fires Back At John Boehner Over ‘Lucifer’ Comment | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "yug2rvU6AfU",
+            "title": "U.N. Envoy Urges Obama, Putin To Save Syria Ceasefire | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

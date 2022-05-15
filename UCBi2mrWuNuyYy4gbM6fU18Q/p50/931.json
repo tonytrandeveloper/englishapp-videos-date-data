@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GMcoIN_vlXw",
-            "title": "Mission: Saving Money on a Last-Minute Summer Vacation",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "AM9sq93pXVg",
             "title": "Taylor Swift Interview 2014: Singer Premieres 'Shake It Off,' Announces New Album",
             "secondDuration": 294,
@@ -301,8 +295,14 @@
             "title": "Have Fun With These Summertime Treats",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vabjWhsYJ8",
+            "title": "Beauty Pageant Contestant Caught Up in a Disability Insurance Firestorm",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

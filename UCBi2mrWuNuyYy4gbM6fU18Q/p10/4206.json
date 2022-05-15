@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "89yZNmURIZk",
-            "title": "Donald Trump Causes More Campaign Chaos With John McCain Barb",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMyEbAvPPJg",
             "title": "Bill Cosby Deposition Published by New York Times",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Investigators Seek Motive in Chattanooga Shooting",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "fizHq-kjJ_Y",
+            "title": "Wildfire Burns Cars on California Interstate",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

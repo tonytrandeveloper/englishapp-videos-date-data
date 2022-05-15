@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LGVrMXZNkA4",
-            "title": "Paul Ryan: Bi-partisan Deals Advance Republican Priorities | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "AP_tlMJEJlk",
             "title": "Bomb Threat Triggering Massive L.A. School Closings Called a Hoax | NBC Nightly News",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "John Kasich's Abstract Flag: 2016 Campaign Logos | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "wOCPNWMpf8Q",
+            "title": "Rand Paul's Hidden Torch: 2016 Campaign Logos | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

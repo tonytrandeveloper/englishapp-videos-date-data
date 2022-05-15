@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rJTuSa4jDzo",
-            "title": "What You Don't Know About Sex",
-            "secondDuration": 296,
-            "group": "group_7"
-        },
-        {
             "videoId": "fw5S8ZAL_pY",
             "title": "Jake Tapper on Gitmo Prisoner Transfer",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Amplified: Best Coast",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "hmQ4yK_gjOM",
+            "title": "'The Blind Side': One Family's Inspiring Story",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

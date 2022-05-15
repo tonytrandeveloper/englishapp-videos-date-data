@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FjyAVsJy4EA",
-            "title": "Trump slams NYT op-ed by admin official as 'gutless'",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "PKHyvQeQ7BQ",
             "title": "2 Russians suspected in poisoning of ex-spy, daughter",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "Hearing begins for Supreme Court nominee Brett Kavanaugh",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "chxgWqCHGRA",
+            "title": "Colin Kaepernick new face of Nike's 'Just Do It' campaign",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JPgIltNgoYY",
-            "title": "Amtrak Crash Near Philadelphia Leaves 2 Dead",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "hM66CplHGqY",
             "title": "Xinjiang: Bob Woodruff's Journey Inside Alleged ISIS Breeding Ground",
             "secondDuration": 1101,
@@ -121,8 +115,14 @@
             "title": "Judge Orders Bailiff to Electric Shock Defendant",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "YvVDbvDl2tQ",
+            "title": "Tyrion Lannister Main Character of 'Game of Thrones' Mathematicians Declare",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

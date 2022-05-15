@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UdvHQl6ZVhc",
-            "title": "Trump on Election Rigging | Third Presidential Debate Highlights",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "reqqehkpU3M",
             "title": "3rd Presidential Debate Highlights | Trump Tax Returns & Clinton Foundation",
             "secondDuration": 390,
@@ -61,8 +55,14 @@
             "title": "Third Presidential Debate Highlights | Clinton, Trump on 2nd Amendment, Guns",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToF1Mur8QbI",
+            "title": "Third Presidential Debate Highlights | Trump, Clinton Discuss on Supreme Court",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

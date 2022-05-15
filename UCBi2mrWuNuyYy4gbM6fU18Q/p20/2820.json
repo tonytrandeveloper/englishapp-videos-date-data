@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "itmimTJZQbc",
-            "title": "ABC News Democratic National Convention Live Stream, 09.05.12 -- Part 1",
-            "secondDuration": 8466,
-            "group": "group_7"
-        },
-        {
             "videoId": "XgGwFqYaAD8",
             "title": "Bill Clinton, Barack Obama's Bumpy Relationship",
             "secondDuration": 344,
@@ -121,8 +115,14 @@
             "title": "Caroline Kennedy at DNC",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dj7KbciQdII",
+            "title": "Robbers Strap 'Bomb' to Bank Manager",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

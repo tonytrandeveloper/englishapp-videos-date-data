@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rfOiqcoasHU",
-            "title": "Countdown to kickoff for Super Bowl 54 between 49ers and Chiefs",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "pMH4A89FFvA",
             "title": "Confirmed case of coronavirus in Boston, possible case in New York",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Death toll from coronavirus on the rise",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "nTUaxMLRbbU",
+            "title": "Only 2 days until the Iowa caucuses",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

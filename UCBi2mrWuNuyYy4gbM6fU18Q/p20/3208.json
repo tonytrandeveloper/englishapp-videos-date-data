@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zmw3Ekwbqyk",
-            "title": "Sen. Scott Brown: Focus on Jobs",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "4x3xMSCKawc",
             "title": "Jake Tapper on Obama's Nuke Plans",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "Going Inside 'The Male Brain'",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "l5Cyj5H3wAE",
+            "title": "Women Fighting Fat",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

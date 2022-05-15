@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FFXHRYRmF0o",
-            "title": "Iran launches missiles at US military facilities in Iraq",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "-2KQik4FgPY",
             "title": "Koala sips water from emergency workers | ABC News",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Harvey Weinstein faces new sex crime charges l ABC News",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "CYwD-iQkgGM",
+            "title": "New threats from Iran as U.S. troops arrive in the Middle East l ABC News",
+            "secondDuration": 1435,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

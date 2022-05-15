@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vyBpr03QWw4",
-            "title": "Woman Charged for Gun in Deadly Firefighter Ambush",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "69VqMHPrchY",
             "title": "History of the Bible: Back to the Beginning: Road Trip Through History with Christiane Amanpour",
             "secondDuration": 86,
@@ -301,8 +295,14 @@
             "title": "WEBCAST: Hurricane Sandy Christmas",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "sHDE4RWWzGA",
+            "title": "How-to Guide to Making the Best of Those Christmas Gadgets",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

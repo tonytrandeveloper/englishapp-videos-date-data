@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BzvRqBznvfs",
-            "title": "Boston Dynamic’s Atlas Robot Goes Jogging | Mach | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "j83rQJEOlWc",
             "title": "A To Z 2018: Maia & Alex Shibutani, Olympic Medalists, On Ice & Social Media | NBC Asian America",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "A To Z 2018: Samhita Mukhopadhyay's Leap Of Faith Led Her To Teen Vogue | NBC Asian America",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdZR78aKbdw",
+            "title": "Students And Schools Struggle To Rebound After Hurricanes | NBC News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

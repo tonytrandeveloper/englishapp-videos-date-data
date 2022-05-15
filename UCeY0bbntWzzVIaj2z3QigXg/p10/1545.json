@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "160lLLv9cvY",
-            "title": "Grand Princess Cruise Ship Expected To Dock Monday After Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "sbe6fEij_WQ",
             "title": "New York Governor Cuomo Makes Coronavirus Announcement | NBC News (Live Stream Recording)",
             "secondDuration": 3583,
@@ -61,8 +55,14 @@
             "title": "Full Sanders: 'Establishment Put A Great Deal Of Pressure' On Buttigieg & Klobuchar | Meet The Press",
             "secondDuration": 699,
             "group": "group_7"
+        },
+        {
+            "videoId": "KvhvZS1rUCQ",
+            "title": "Full Fauci: For Coronavirus And Crowds, 'If You're A Vulnerable Person, Take It Seriously'",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

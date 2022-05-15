@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aLTR6-MnSWQ",
-            "title": "NBC Nightly News Full Broadcast - August 26th, 2021",
-            "secondDuration": 1154,
-            "group": "group_7"
-        },
-        {
             "videoId": "0QdhsyXpJT4",
             "title": "Florida Hospitals Near Breaking Point As Covid Surges",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Full Speech: Biden Honors Heroes After Kabul Airport Blast Kills U.S. Service Members",
             "secondDuration": 1701,
             "group": "group_7"
+        },
+        {
+            "videoId": "7NTr4jy3dIo",
+            "title": "White House Holds Press Briefing: August 26 | NBC News",
+            "secondDuration": 2303,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

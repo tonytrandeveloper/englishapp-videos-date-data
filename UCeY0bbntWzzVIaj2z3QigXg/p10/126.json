@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vbcTw5mbCqo",
-            "title": "Beto O’Rourke Touts Plan After Winning Texas Governor Primary",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "v3Xq1eGhQPA",
             "title": "Biden: ‘State Of The Union Is Strong Because You The American People Are Strong’",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Biden Details ‘Infrastructure Decade’ That Will Create ‘Millions’ Of American Jobs",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "mzjLMOv1lg4",
+            "title": "Top Story with Tom Llamas - March 1 | NBC News NOW",
+            "secondDuration": 3063,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

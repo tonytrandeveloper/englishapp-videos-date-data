@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v7TpcdRk9-s",
-            "title": "Brittany Mae Smith Amber Alert Extended",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eh5rxgKwNa0",
             "title": "Saying Goodbye to Elizabeth Edwards",
             "secondDuration": 499,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Edwards Dies of Cancer",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "z87GdzJoODs",
+            "title": "Jake Tapper on Obama's Tax Cut Deal with Republicans",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

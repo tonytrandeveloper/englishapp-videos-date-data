@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "83tK7pd-El0",
-            "title": "State of the Union 2015: \"I Know Because I Won Both of Them\" - Obama",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "tIafRj_p95M",
             "title": "State of the Union 2015: 3 Ways to Strengthen Middle-Class",
             "secondDuration": 666,
@@ -301,8 +295,14 @@
             "title": "Transgender Parents Who Conceived Two Sons Naturally | 20/20 | ABC News",
             "secondDuration": 479,
             "group": "group_7"
+        },
+        {
+            "videoId": "kcS_bmffLTs",
+            "title": "Teens' Alleged Underage Drinking Could Send Dad to Jail",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

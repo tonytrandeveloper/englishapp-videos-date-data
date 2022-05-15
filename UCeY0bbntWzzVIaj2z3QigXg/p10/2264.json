@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T7ghvkh1A4g",
-            "title": "NATO Warship Torn Open In Collision With Oil Tanker | NBC Nightly News",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "62vFnuHHHBk",
             "title": "Captain Indicted In Deadly Missouri Duck Boat Accident | NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "12 Killed In Mass Shooting In Thousand Oaks, California | NBC Nightly News",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "h_L6JFu3X2k",
+            "title": "NBC News Signal - November 8th, 2018",
+            "secondDuration": 1610,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

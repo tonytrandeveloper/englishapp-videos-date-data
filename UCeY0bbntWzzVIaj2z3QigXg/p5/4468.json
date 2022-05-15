@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_R4orZum4ao",
-            "title": "Trump participates in FIRST STEP Act roundtable",
-            "secondDuration": 2768,
-            "group": "group_7"
-        },
-        {
             "videoId": "B3HdRjS_ums",
             "title": "NASA Celebrates Another Historic Landing On Mars | NBC Nightly News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Chinese Scientist Says He Helped Create First Gene-Edited Babies | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "CRXT6BFcEK4",
+            "title": "Trump Makes Final Pitch For Cindy Hyde-Smith Before MI Senate Runoff Election | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

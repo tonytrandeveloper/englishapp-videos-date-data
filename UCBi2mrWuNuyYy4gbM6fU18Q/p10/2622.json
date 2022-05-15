@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YL5cSNblNqw",
-            "title": "CDC reports that the flu epidemic is the worst in nearly a decade",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "diOhfiUbOTE",
             "title": "Trump demanded Mueller be fired, but backed off: Report",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Triumphant recovery for one Las Vegas shooting victim",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yw4sbMiGl4o",
+            "title": "Trump proposes path to citizenship for 1.8M",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

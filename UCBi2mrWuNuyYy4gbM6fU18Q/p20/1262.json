@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_XsYF0EEtKA",
-            "title": "What happened when Southwest engine failed midair, forcing emergency landing",
-            "secondDuration": 391,
-            "group": "group_7"
-        },
-        {
             "videoId": "lCC_lmoBeLE",
             "title": "Former first lady Barbara Bush dies at age 92",
             "secondDuration": 215,
@@ -121,8 +115,14 @@
             "title": "How James Comey's wife found out about his firing",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "yne7yeeR9kY",
+            "title": "Trump tweets and calls James Comey, 'slippery' and 'out of whack'",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

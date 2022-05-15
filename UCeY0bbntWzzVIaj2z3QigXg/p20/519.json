@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Jdn3F8F27mE",
-            "title": "Trump Supporters Clash With Counter Protesters Over Election Results in Washington | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "_zwDb3FdBLA",
             "title": "Trump Tweets: 'I Concede Nothing' | Meet The Press | NBC News",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Trump Claims Covid Vaccine Will Be Provided 'Free Of Charge' | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "K43WveeSexg",
+            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
+            "secondDuration": 1981,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZLbI83uqL4k",
-            "title": "Nature's Edge: 'Earth 2100'",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "SBgUrD4lcA4",
             "title": "Whiz Kids Battle It Out",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Missing Mom Faces Criminal Charges",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "DV7XadEnWhM",
+            "title": "Ex-Husband Reacts to Kidnapping Hoax",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

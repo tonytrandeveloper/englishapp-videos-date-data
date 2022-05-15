@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fJCIk4OT7EE",
-            "title": "Trump Speaks To Arizona Youth | NBC News",
-            "secondDuration": 5654,
-            "group": "group_7"
-        },
-        {
             "videoId": "8fNHEKRJrk0",
             "title": "Powerful Farewell At Funeral For Rayshard Brooks | NBC Nightly News",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Watch: Officer Points Gun At Black Woman For Over 4 Minutes In Suspected Stolen Car | NBC News NOW",
             "secondDuration": 307,
             "group": "group_7"
+        },
+        {
+            "videoId": "tS0alYvQ2-4",
+            "title": "Texas Renters Left Scrambling After Statewide Eviction Ends | NBC News NOW",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

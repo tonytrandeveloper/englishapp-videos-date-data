@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8KdYZzU70Zg",
-            "title": "Webcast: Cruise Ship Arrives in Seychelles",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "kd0eeg9l3SM",
             "title": "Midwest Tornado Aftermath: Death Toll Rises",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "Michigan Primary Results: Mitt Romney Narrowly Beats Rick Santorum, Regains Momentum",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "yD7UHLfmj-A",
+            "title": "Windows 8 Consumer Preview: New Start Screen; Beta Version Released to Introduce Microsoft's New OS",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BGa7yPc6rus",
-            "title": "Mountain Lion Attacks Girl",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "CC-fE67hmU4",
             "title": "Selena Gomez on Justin Bieber's New Girlfriend",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Teen Asks Mother's Boyfriend to Adopt Her",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "r8jMqg-NkhY",
+            "title": "Trump Adviser Jeff Sessions Says Campaign 'Is Not Over'",
+            "secondDuration": 493,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

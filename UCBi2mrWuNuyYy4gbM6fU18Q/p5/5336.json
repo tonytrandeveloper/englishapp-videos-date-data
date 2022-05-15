@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ftvE3qd1tw8",
-            "title": "Trump weighs in on Alabama Special Election",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "iWPsJ5O9NC0",
             "title": "Doug Jones wins Alabama Senate race",
             "secondDuration": 532,
@@ -31,8 +25,14 @@
             "title": "Trump's lawyers call for new investigation of Robert Mueller's Russia probe",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "N2UpAEm39k4",
+            "title": "Online holiday sales expected to top $100 billion in US for the 1st time",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

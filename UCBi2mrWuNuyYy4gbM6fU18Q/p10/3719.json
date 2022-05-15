@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H1ipZt_H0KU",
-            "title": "JetBlue Gives Discounts for Crying Babies | ABC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "pmn_oS-vu3I",
             "title": "50 Cent Mocks Autistic Man, Apologizes",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "Prince Paisley Park Complex 911 Calls Released by Authorities",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "ljNEK28RPrI",
+            "title": "'Hamilton' Audition | Thousands Show Up for the Broadway Hit",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

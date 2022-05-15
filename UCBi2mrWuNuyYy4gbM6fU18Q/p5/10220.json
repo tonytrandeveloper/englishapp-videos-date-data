@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jm2b5-UoY-A",
-            "title": "Royal Baby Watch Continues Down Traditional Path",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Gaaj5BJfnc",
             "title": "Zimmerman Attorney Says Client Will Get Gun Back",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "'This Week' Web Extra: Mark Leibovich Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "W9hJN9s92kA",
+            "title": "'This Week' Report on George Zimmerman Verdict: Found Not Guilty in Trayvon Martin Case",
+            "secondDuration": 531,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

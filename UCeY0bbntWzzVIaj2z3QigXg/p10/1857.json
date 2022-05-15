@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YoxIIelfTtc",
-            "title": "Recovering A Piece Of Black American History In Virginia | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKa3tzA2iRU",
             "title": "NASA Astronaut Accused Of Committing Crime From Space | NBC Nightly News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Full Weld & McIntosh: Debate Over Four More Years Of President Trump | Meet The Press",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "qhvtf1C8jcI",
+            "title": "Kashmir Security Lockdown Results In 2,300 People Detained | NBC News Now",
+            "secondDuration": 388,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

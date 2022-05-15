@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b6WmJMM4le4",
-            "title": "NYPD Commissioner James O'Neill Names Suspect In NYC Attack | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2jQzLTBW5Q",
             "title": "NYC Mayor Bill De Blasio: 'This Was An Attempted Terrorist Attack' | NBC News",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Travel Troubles: Snow Cancels Flights Along The East Coast | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q2AnfdNL2yc",
+            "title": "Southern California Wildfires Leave 800 Structures In Ashes | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

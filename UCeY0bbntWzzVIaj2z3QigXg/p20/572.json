@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3YW_hlgJtmo",
-            "title": "Trump Holds News Conference At White House | NBC News",
-            "secondDuration": 3575,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mz5dyd_UsbQ",
             "title": "Barbados Governor-General: ‘Barbadians Want A Barbadian Head Of State’ | NBC News NOW",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Apple Unveils New Watch Prioritizing Health Monitoring | NBC News NOW",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "AyZP5jFQZiw",
+            "title": "Israel Signs Historic Diplomatic Deal With UAE And Bahrain At White House | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JbJz8XUB5ps",
-            "title": "Istanbul Bombing: Who Were the Attackers?",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "QATlXqGgMH4",
             "title": "ISIS Militants Killed in US Airstrikes",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Car Crashes Into Beauty Salon",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZuoq_0_PUk",
+            "title": "Police Chase Man in Go-Kart Down Freeway",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GxKJlI_HALg",
-            "title": "Your Blood, Your Brain",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "-JaW8K60K1w",
             "title": "Your Three Words: Seal",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "High Praise for Chile's Leader as Miners Rescued",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "YjFtXn1DbXw",
+            "title": "How Did Chile Succeed in Mine Crisis?",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

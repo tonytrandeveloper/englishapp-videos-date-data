@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6mcpY59lcSA",
-            "title": "Jeff Van Drew Explains Why He Switched To GOP | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "mF5ntsk4ADo",
             "title": "'I Am Free': Alice Marie Johnson Thanks Trump For Commuting Her Sentence At The RNC | NBC News",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "CDC Clarifies New Coronavirus Testing Guidelines After Controversy | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "o-92rdgZR-4",
+            "title": "Joe Biden And Kamala Harris Fire Back After Attacks From RNC | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

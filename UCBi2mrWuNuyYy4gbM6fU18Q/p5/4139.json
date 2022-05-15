@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AU7gKstF70I",
-            "title": "911 call from off-duty officer after she fatally shot a man in his own apartment",
-            "secondDuration": 461,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q99QNk7gvIU",
             "title": "Joe Biden and Dr. Jill Biden discuss plan to beat Trump in 2020",
             "secondDuration": 441,
@@ -31,8 +25,14 @@
             "title": "Synagogue shooting suspect appears in court",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMaqgnLI9xQ",
+            "title": "Jury reaches verdict for officer who shot Minneapolis woman",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

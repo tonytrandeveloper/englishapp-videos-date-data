@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dHzCNQkEIoI",
-            "title": "Drive a tank in Texas? Blow stuff up on this company's battleground",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xwZCRs3Sqc",
             "title": "Details of new emergency order from the Department of Homeland Security",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Trump-Russia allegations from 2016 campaign to FBI investigation",
             "secondDuration": 589,
             "group": "group_7"
+        },
+        {
+            "videoId": "b3p-kcHGePw",
+            "title": "The global impact of the FBI investigation into Trump-Russia allegations",
+            "secondDuration": 388,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

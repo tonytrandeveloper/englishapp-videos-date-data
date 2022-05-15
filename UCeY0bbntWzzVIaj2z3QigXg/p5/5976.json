@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "trKT1LOpUFE",
-            "title": "Towel Tug-Of-War Sparks Wimbledon Controversy | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jyfgqp_GjXg",
             "title": "Nikki Haley Condemns North Korea’s ‘Reckless And Irresponsible’ Missile Launch | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "North Korea Releases Video Of ICBM Test | NBC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZnD4R2qIiYE",
+            "title": "U.S. And South Korea Hold Joint Missile Drills In Show Of Force Against North | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

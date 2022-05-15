@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PDFP5aEL5FQ",
-            "title": "Apollo 11: Ten Things About NASA's Landmark Moon Mission You Might Not Know | Mach | NBC News",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "NIPeLvhjwXI",
             "title": "Watch President Donald Trump Take Aim At Democrats’ ‘Squad’: ‘They Hate Our Country’ | NBC News",
             "secondDuration": 582,
@@ -31,8 +25,14 @@
             "title": "Based On A lie: Filmmaker Talks Complicated Decision At The Heart Of ‘The Farewell’ | Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hr0BRFF0Iuw",
+            "title": "Investigation Underway After Major New York City Power Outage | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

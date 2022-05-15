@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "olrbF3IkjiM",
-            "title": "Yovanovitch jokes about ‘nasty things’ being said on social media | ABC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zpk9-pibcEE",
             "title": "Roger Stone found guilty on all 7 counts | ABC News",
             "secondDuration": 779,
@@ -31,8 +25,14 @@
             "title": "Trump’s comment ‘sounded like a threat’: Ex-ambassador to Ukraine | ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "r6WCktjV9w4",
+            "title": "Ex-ambassador to Ukraine testifies at impeaching hearings | ABC News",
+            "secondDuration": 1250,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

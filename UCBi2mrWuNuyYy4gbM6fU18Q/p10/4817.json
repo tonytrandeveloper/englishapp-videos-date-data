@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QfXAeuotGhQ",
-            "title": "'This Week': Cold War Redux",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "SJVtSpFlCPM",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 485,
@@ -61,8 +55,14 @@
             "title": "Missing Malaysia Flight: French Satellite Images Show Possible Objects",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "eu-tMLp7LXE",
+            "title": "3 Killed in Washington Mudslide",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

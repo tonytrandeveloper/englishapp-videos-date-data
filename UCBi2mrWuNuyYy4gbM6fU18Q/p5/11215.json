@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rS_8sVBX_Yc",
-            "title": "Green Day's Billie Joe Armstrong Out of Control on Stage",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "OYVTHg2-j30",
             "title": "Emmy Awards 2012 Preview: Who Will Win Big?",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "Washington State Wildfires Spark Fears",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "TfagsBIPG2E",
+            "title": "Reince Priebus 'This Week' Interview: Romney's Leaked Fundraiser Video a Defining Moment",
+            "secondDuration": 689,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

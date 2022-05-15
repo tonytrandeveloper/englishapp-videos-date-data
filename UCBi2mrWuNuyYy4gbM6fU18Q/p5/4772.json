@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bLhSK8jZ3a8",
-            "title": "'Firenado' churns through California mountains",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ra8GooF4c4",
             "title": "Brady Center launches new campaign to help keep kids safe from guns at home",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Young girl attacked by shark in shallow water",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "RsVV8brvRZM",
+            "title": "Cops ambushed on 'National Night Out'",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_KwcENen1hg",
-            "title": "Evacuations ordered as Hurricane Michael takes aim",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "85bxKn_4dJ0",
             "title": "The Debrief: Nikki Haley resigns, Hurricane Michael nears, NY limo crash, Kavanaugh on the bench",
             "secondDuration": 1554,
@@ -31,8 +25,14 @@
             "title": "New details on limo crash that killed 20",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "GOaQmFW4WrQ",
+            "title": "State of emergency declared ahead of Hurricane Michael",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

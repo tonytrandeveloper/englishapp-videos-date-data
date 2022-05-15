@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gQMbyvIXYQk",
-            "title": "Americans Try To Leave Spain Before Coronavirus Ban: 'I Just Hope To Be Able To Get Home' | NBC News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "g20dN5wi5sQ",
             "title": "Romney 'Not Quite Sure' Why Trump's Coronavirus Travel Restrictions Are Needed | NBC News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Tracing The Origin Of The Coronavirus | NBC News NOW",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "f2aDEPZbLEI",
+            "title": "Experts Hope Herd Immunity ‘Flattens’ The Coronavirus Curve | NBC News NOW",
+            "secondDuration": 915,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

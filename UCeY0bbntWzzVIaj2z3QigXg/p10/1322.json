@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QZGbeFhlssc",
-            "title": "Live: New York Governor Andrew Cuomo Holds Briefing | NBC News",
-            "secondDuration": 2774,
-            "group": "group_7"
-        },
-        {
             "videoId": "3L2OcIwB_A4",
             "title": "Police Use Military Vehicles At Peaceful Protests Across U.S. | NBC News NOW",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Tensions Flare After North Korea Demolished Liaison Office Near Border | NBC News NOW",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "qK_XNkpWwLI",
+            "title": "Air Force Security Officer Behind Two Deadly Attacks On Law Enforcement | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

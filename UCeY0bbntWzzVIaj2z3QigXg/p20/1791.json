@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cBLcilVKiI8",
-            "title": "Hello Kitty Con 2014 | NBC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1l3cxYeSOw",
             "title": "Joni Ernst Delivers Winner's Speech In Iowa | NBC News",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "Ebola Quarantine An Overreaction - Liberian President | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "zH5mnv25EGs",
+            "title": "AT&T Unlimited Data Plans Misleading | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

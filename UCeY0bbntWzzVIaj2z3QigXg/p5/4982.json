@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snVQ3HwaqN0",
-            "title": "AT&T Buys Time Warner: Welcome To The Media’s Merger Mania | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "5nhJ4II00o0",
             "title": "Have You Ever Wondered How Your Pet Sees The World? | Mach | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "President Trump Praises 'Talented' Kim Jong Un, Takes Another Swipe At Justin Trudeau | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "4akFLFq3b-g",
+            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
+            "secondDuration": 5028,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "we7bS7IZSYk",
-            "title": "Watch Rep. Jim Clyburn's Full Speech At The 2020 DNC | NBC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "BcmndvqO7H4",
             "title": "George Floyd's Brother Leads A Moment Of Silence At The DNC | NBC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Welker: 'We Could In Fact See Joe Biden Tonight' | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "NWsptVmOT-8",
+            "title": "A Look At Mail-In Voting In 6 Key Swing States | NBC News NOW",
+            "secondDuration": 714,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

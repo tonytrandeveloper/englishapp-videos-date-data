@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ggTgT0uutM0",
-            "title": "A Safari Adventure Like You've Never Seen Before",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "vXA2uAFtRXk",
             "title": "Apple CEO Tim Cook Stands Firm Against the FBI",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Bob Dole Endorses Marco Rubio | ABC EXCLUSIVE",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2dfad65M2g",
+            "title": "WATCH: SeaWorld Rescues Whale Caught In Fishing Line",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

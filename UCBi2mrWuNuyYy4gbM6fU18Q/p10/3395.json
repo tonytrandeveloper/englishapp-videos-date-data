@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N1m8bNBaVMs",
-            "title": "Dwayne Johnson on Playing Demigod Maui in 'Moana'",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "7rCrYs2YjVg",
             "title": "Donald Trump Concedes President Obama Born in US, Campaign Says",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Restaurant Hosts “Magic Mike” Themed Brunch | ABC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "7rWrG1YktV0",
+            "title": "Play-Doh Celebrates 60th Anniversary | ABC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wfDd1YabeNE",
-            "title": "'This Week' Game Changer: Malala Yousafzai",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y1lGaTgTk94",
             "title": "'This Week' Game Changer: Sen. Ted Cruz",
             "secondDuration": 598,
@@ -61,8 +55,14 @@
             "title": "PIN Data May Have Been Stolen During Massive Security Breach at Target",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "TKv-0XYYhiw",
+            "title": "Family Fights for Daughter on Life Support",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

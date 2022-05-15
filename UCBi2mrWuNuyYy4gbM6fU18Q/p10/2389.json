@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Udgb0bOxyUA",
-            "title": "Video captures massive fireball on Bologna highway",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "MvrpuwaFPTI",
             "title": "Police discover 11 kids living in New Mexico compound",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Venezuelan President targeted in apparent assassination attempt",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "K_dk1J4IxOQ",
+            "title": "Alt-right groups, counter protestors clash on the streets of Portland",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

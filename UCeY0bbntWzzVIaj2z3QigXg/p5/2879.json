@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E9RWwtZ9tDM",
-            "title": "Chuck Todd: 'We Have Failed To Meet The Moment' | Meet The Press | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z8w2JO5yq9g",
             "title": "As Pandemic Kills Thousands Each Day, Trump Peddles Dangerous Treatments | Meet The Press | NBC News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Full Panel: U.S. Cases Surpass 900,000 | Meet The Press | NBC News",
             "secondDuration": 514,
             "group": "group_7"
+        },
+        {
+            "videoId": "twEBUQevc_Y",
+            "title": "Full Birx: 'We Have To Have A Breakthrough' In Testing Technology | Meet The Press | NBC News",
+            "secondDuration": 778,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

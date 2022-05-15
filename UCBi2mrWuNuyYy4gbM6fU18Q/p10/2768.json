@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_4_FCWglHLQ",
-            "title": "3 dead after buses collide in Queens in New York",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "5tR5E9o0SuM",
             "title": "Paralyzed hiker treks 2,650 miles of Pacific Crest Trail",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "North Carolina fair worker tried to rescue boys from Ferris wheel",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "2V6En8YKQQ0",
+            "title": "Florida Keys residents return to ruins",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vvk2rOvpRsw",
-            "title": "Hillary Clinton: 'I Want to Save What Works About the Affordable Care Act' | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "xpysESjqSRU",
             "title": "Hillary Clinton: 'Okay, Donald, I Know You're Into Big Diversion' | NBC News",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Donald Trump On 2005 Tape: 'This Was Locker Room Talk' | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "x26-h3Q6VFw",
+            "title": "Donald Trump: 'I Guess I Have Been a Politician' | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

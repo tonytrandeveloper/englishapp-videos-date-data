@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z0_zhteU5ZQ",
-            "title": "New move by Democrats on the Trump investigation",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "a3CJ5_MQRi0",
             "title": "Desperate search for 2 missing little girls concludes",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Florida prosecutor delivers life-changing opening statement",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGDBH74gSCw",
+            "title": "SpaceX successfully launches rocket en route for the International Space Station",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

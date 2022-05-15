@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3Jvpw-s29M4",
-            "title": "Toyota Concert Series on TODAY: #Maroon5TODAY",
-            "secondDuration": 17,
-            "group": "group_7"
-        },
-        {
             "videoId": "KxuyHSF5pmk",
             "title": "We're not toying around. #Decision2012",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "ROUGH CUT: Salman Khan on the Future of the Khan Academy",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "kM7RPRmLy8c",
+            "title": "ROUGH CUT: Justice Sandra Day O' Connor on Keeping Civics Lessons Alive",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

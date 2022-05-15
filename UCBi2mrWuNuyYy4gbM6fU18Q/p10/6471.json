@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "be2v6MNe9Qg",
-            "title": "Fault Lines of America",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "XhtNBON1jXY",
             "title": "Amplified: Say Hi",
             "secondDuration": 361,
@@ -61,8 +55,14 @@
             "title": "Anniversary of Miracle on the Hudson",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QWGbfgQ7rY",
+            "title": "Haitians Frustrated Over Slow Aid",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

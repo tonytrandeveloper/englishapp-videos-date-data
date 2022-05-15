@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GDCN_PVjwBE",
-            "title": "Suge Knight Arrested For Hit & Run, Facing Homicide Charges",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "TfmZQlR1-9c",
             "title": "Katy Perry's Super Bowl Halftime Show Secrets",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Ex-NFL Star Sued By Insurance Over Workers' Comp Claim",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "vWyTy2VBErg",
+            "title": "Seahawks Gnome: The Real Mystery of the Super Bowl",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

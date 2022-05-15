@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Mrec1F6H7LM",
-            "title": "The Debrief: Dangerous weather impedes holiday travel & Thanksgiving dinner help | ABC News",
-            "secondDuration": 1503,
-            "group": "group_7"
-        },
-        {
             "videoId": "69N5Xbv8OTk",
             "title": "Elite female mountain climber speaks out after fall at Yosemite l ABC News",
             "secondDuration": 390,
@@ -61,8 +55,14 @@
             "title": "These growing families have a lot to be thankful for",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "GJCOTA8obmw",
+            "title": "Elite climber rescued after fall on Yosemite’s El Capitan",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

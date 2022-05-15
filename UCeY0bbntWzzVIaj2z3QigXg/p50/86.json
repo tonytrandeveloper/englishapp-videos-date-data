@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BLD_AGMsibs",
-            "title": "Benton Harbor, Michigan Faces Water Crisis Amid Unsafe Lead Levels",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZKe-6l983pI",
             "title": "Justice Department Asks Appeals Court To Suspend Texas Abortion Law",
             "secondDuration": 126,
@@ -301,8 +295,14 @@
             "title": "Hispanic Voters Now Key In Swing Counties Nationwide",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "dFop0vnyuko",
+            "title": "A Fragile Democracy, With Trump, Facebook and Congress At The Center",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

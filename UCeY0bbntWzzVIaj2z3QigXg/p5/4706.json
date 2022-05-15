@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uD4hy9JCtAk",
-            "title": "Bill Cosby’s Sexual Assault Sentencing To Begin On Monday | NBC Nightly News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "j3-iA01pBDk",
             "title": "Full Panel: Kavanaugh nomination challenges presumptions of innocence | Meet The Press | NBC News",
             "secondDuration": 529,
@@ -31,8 +25,14 @@
             "title": "Full Pompeo: 'We have our eyes wide open' with Kim Jong Un | Meet The Press | NBC News",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "AlVHebLMxCU",
+            "title": "Baseball Brings Hope And Unity To Puerto Rico After Hurricane Maria | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

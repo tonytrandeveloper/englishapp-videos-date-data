@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4Gd_oQhz6kA",
-            "title": "Are Banks Risking Your Money Again?",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "lTm6ch9Hu-M",
             "title": "Cool Cats Who Love Cats",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump's Advice for Women",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "it1SiI6vnbo",
+            "title": "Fight of their Lives",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

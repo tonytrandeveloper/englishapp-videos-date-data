@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nQj4KyA1BZE",
-            "title": "Donald Trump Reaches Magic Number for GOP Nomination",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "6xyqjXEoV3c",
             "title": "President Obama Makes History in Hiroshima",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "'Roots' Cast on Remaking Iconic Miniseries",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "BWn01ra9Txs",
+            "title": "Navy Jets Collide Midair Over the Atlantic",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

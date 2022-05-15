@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b6WmJMM4le4",
-            "title": "NYPD Commissioner James O'Neill Names Suspect In NYC Attack | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2jQzLTBW5Q",
             "title": "NYC Mayor Bill De Blasio: 'This Was An Attempted Terrorist Attack' | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Oklahoma Quarterback First Walk-On Player To Win A Heisman Trophy | NBC Nightly News",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "X01vfuRoTzE",
+            "title": "FCC To Vote On Barack Obama-Era Net Neutrality Rules This Week | NBC Nightly News",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

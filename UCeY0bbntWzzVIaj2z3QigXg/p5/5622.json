@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YbkRESfoa1k",
-            "title": "White House Press Briefing - October 31, 2017 | NBC News",
-            "secondDuration": 1302,
-            "group": "group_7"
-        },
-        {
             "videoId": "rLm2WTNX9og",
             "title": "An Alien Object Was Recently Detected In Our Solar System | Mach | NBC News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Russian Foreign Minister Sergey Lavrov Rejects Election-Meddling Accusations As ‘Fantasy’ | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "4m1d8DPKy2A",
+            "title": "Rare Spectacular Cloud 'Waterfall' Cascades Over Mountain Peak | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

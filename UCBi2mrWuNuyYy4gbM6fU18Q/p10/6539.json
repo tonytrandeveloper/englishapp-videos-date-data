@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HFLn_Q9ewrg",
-            "title": "Top Line: Poll Shows Americans Want Public Option",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "mWu8WicCGrY",
             "title": "Top Line: $247 Billion Medicare 'Fix",
             "secondDuration": 557,
@@ -61,8 +55,14 @@
             "title": "Army Horses Help Vets Gallop Toward Recovery",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "KdYPuKmoTY8",
+            "title": "Bottom Line on Obama Poll Results",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

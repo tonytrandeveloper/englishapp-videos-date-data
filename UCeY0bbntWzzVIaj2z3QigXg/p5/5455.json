@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mODBBmvcrTU",
-            "title": "Could Smart Toys Be Spying On Your Kids? | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "D2_zpZAOrdE",
             "title": "This Woman Was Taken Off Life Support To Die -- And Lived | NBC Nightly News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Investigators Searching For Clues In Pennsylvania Shooting Rampage | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "2jHNWiBhX6s",
+            "title": "Department Of Homeland Security Could Separate Immigrant Families At The Border | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

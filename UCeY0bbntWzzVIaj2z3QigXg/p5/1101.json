@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nbT5Q1ZEUxg",
-            "title": "NBC Nightly News Broadcast (Full) - August 7th, 2021",
-            "secondDuration": 794,
-            "group": "group_7"
-        },
-        {
             "videoId": "Da42HHYAPkA",
             "title": "More Than 1,000 Evacuated Due To Wildfires in Greece",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Gov. Cuomo Accuser Files Criminal Complaint",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "x4ELq2P02mM",
+            "title": "U.S. Hits New Covid Milestones",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

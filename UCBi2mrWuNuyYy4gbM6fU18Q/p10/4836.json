@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j3AfmD6sQCo",
-            "title": "The Multinational Effort to Find Missing Malaysia Airlines Flight 370",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "kCD6lGH6ZFk",
             "title": "Campaign Aims to Ban the Word 'Bossy'",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "'This Week': Cold War Echoes",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTo-KsiZuF8",
+            "title": "Nicole Kidman's New Role as Grace Kelly",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

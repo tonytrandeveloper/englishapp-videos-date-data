@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YKkyPB7gWXo",
-            "title": "White House Briefing | NBC News",
-            "secondDuration": 1463,
-            "group": "group_7"
-        },
-        {
             "videoId": "PNmfq7fys0E",
             "title": "Rehab Arrests Follow NBC News Report | NBC News",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Medal Of Honor Recipient: 48 Hours In Vietnam Were 'Hell On Earth' | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "pkvGdGhL81s",
+            "title": "HBO Hackers Claim To Have ‘Game Of Thrones’ Documents | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

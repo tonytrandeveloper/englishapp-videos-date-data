@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DKJGUGKdJ0I",
-            "title": "Woman Collapses During Rick Santorum Presidential Candidacy Announcement Speech (06.06.11)",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZFJ79fLTo7o",
             "title": "Frightening Video: Another Bounce House Takes Off in High Wind, Kids Hurt",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Interview with Austan Goolsbee",
             "secondDuration": 473,
             "group": "group_7"
+        },
+        {
+            "videoId": "ijckdQZpOUw",
+            "title": "Interview with Marwan Mausher",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

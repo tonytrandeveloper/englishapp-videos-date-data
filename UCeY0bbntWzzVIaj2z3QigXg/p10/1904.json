@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0QIKUN94He4",
-            "title": "Dems To Robert Mueller: ‘No One Is Above The Law.’ | NBC News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q4Tz9zgLspc",
             "title": "Theresa May Farewell Speech: ‘To Serve As Prime Minister Of The UK Is The Greatest Honor’ | NBC News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Robert Mueller Avoids Answering Rep. Eric Swalwell's Questions On Donald Trump Jr. | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "LlZDc2gwfnY",
+            "title": "Watch: Robert Mueller’s Full Opening Statement At House Intelligence Hearing | NBC News",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

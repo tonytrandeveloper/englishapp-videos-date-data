@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8pqAXOUSLfw",
-            "title": "Jet Hits Birds, Makes Emergency Landing",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "rjZMAxBdWu4",
             "title": "Etan Patz: First Milk Carton Face, 33 Years Later",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Dick Clark Dead From Massive Heart Attack",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8vdaHSBLyE",
+            "title": "Fans React to Dick Clark's Death",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

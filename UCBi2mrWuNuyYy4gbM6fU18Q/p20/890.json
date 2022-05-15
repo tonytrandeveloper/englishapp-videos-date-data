@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "drfElvLkrbc",
-            "title": "Federal regulators look into possible defect in Tesla batteries | ABC News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "ax5GbK76W7E",
             "title": "New Hampshire couple disappears on road trip across the country | ABC News",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Police listening to Amazon devices in fatal stabbing investigation",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQakWNzHj3c",
+            "title": "Trick-or-treater notices house is out of candy and leaves some of his own instead",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "REe9j19IPGM",
-            "title": "NYC Faces Unprecedented Security Challenge With Pope Visit",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "R7Ir2SubK7w",
             "title": "Pope Francis Travels to Cuba Ahead of US Visit",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Players Who Hit Referee Blame Coach",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "CyOOnlmcRcM",
+            "title": "Clear Air Turbulence Rattles Plane",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ORGrznVj6mU",
-            "title": "Mike Pompeo Briefs Senators On Jamal Khashoggi Killing | NBC Nightly News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "X5oWcqQhAJc",
             "title": "9-Year-Old Boy Convinces Colorado Town To Overturn Snowball Fight Ban | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Officer Won’t Be Charged For Killing Armed Who Defended Family From Home Intruder | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "nmdzSvlWwWg",
+            "title": "Jeffrey Epstein Settles Suit, Apologizes | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4ZftM7kMPZo",
-            "title": "The great American eclipse sweeps across the US",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xjzg8mmC0HI",
             "title": "Another violent collision involving a Navy destroyer",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Legendary comedian Jerry Lewis dies at 91",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpDSchKWt70",
+            "title": "Countdown to the historic total eclipse",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

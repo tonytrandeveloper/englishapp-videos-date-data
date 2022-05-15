@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ki2n_8mmU8",
-            "title": "Robert Mueller On Whether ‘Collusion’ And ‘Conspiracy’ Are Synonymous Terms | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "PNvA59xeZhU",
             "title": "Robert Mueller Says His Report Does Not Exonerate President Donald Trump | NBC News",
             "secondDuration": 253,
@@ -31,8 +25,14 @@
             "title": "Army Veteran Mike Esper Sworn In As Secretary Of Defense | NBC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yds8LugB70M",
+            "title": "ICE Agents Under Fire For Violent Arrest Of Undocumented Kansas City Immigrant | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

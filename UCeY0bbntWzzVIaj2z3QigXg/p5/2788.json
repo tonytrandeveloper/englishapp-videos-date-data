@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uJ173ntmjSc",
-            "title": "Over 100 Colleges And Universities Make The SAT Optional | NBC News NOW",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "e4f7PWFymgg",
             "title": "Common Pushes For Early Release Of Inmates During COVID-19 Pandemic | NBC News NOW",
             "secondDuration": 342,
@@ -31,8 +25,14 @@
             "title": "New Reopenings As CDC Models Project 100,000+ Deaths By June 1 | NBC Nightly News",
             "secondDuration": 753,
             "group": "group_7"
+        },
+        {
+            "videoId": "FxouwBKSZVk",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

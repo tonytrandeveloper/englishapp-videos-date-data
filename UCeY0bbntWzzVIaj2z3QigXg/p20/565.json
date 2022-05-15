@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "I1pghPEhx50",
-            "title": "Texas Tribune Festival: One-on-One with Gary Cohn | NBC News",
-            "secondDuration": 2016,
-            "group": "group_7"
-        },
-        {
             "videoId": "U7XDC4Cyu4s",
             "title": "Biden Urges GOP To ‘Do The Right Thing’ On Filling SCOTUS Seat After Election | NBC News NOW",
             "secondDuration": 278,
@@ -121,8 +115,14 @@
             "title": "Live: Former Louisville Police Officer Charged In Breonna Taylor case | NBC News",
             "secondDuration": 4332,
             "group": "group_7"
+        },
+        {
+            "videoId": "yIUtHy-Tohw",
+            "title": "Breonna Taylor Charges Explained: Grand Jury Indicts 1 Former Officer, Other Officers Not Charged",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

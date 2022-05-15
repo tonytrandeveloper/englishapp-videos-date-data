@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xnixbQ-LR2Y",
-            "title": "'Victory Rally' Held Following Baltimore Officers' Arrests",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "jYHslFbFzYo",
             "title": "Mayweather DEFEATS Pacquiao: Fight of the Century",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Prince William Takes George to Hospital to See Newborn Sister",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "4-PofteQVoU",
+            "title": "Kate Middleton Welcomes Baby Girl",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

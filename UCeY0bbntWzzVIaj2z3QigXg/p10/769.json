@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S6b0680GrvU",
-            "title": "Vice President Harris Speaks After Derek Chauvin Verdict: 'We Feel A Sigh Of Relief' | NBC News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "TD8nGZ5SDGM",
             "title": "Full Speech: President Biden Delivers Remarks After Guilty Verdict | NBC News",
             "secondDuration": 633,
@@ -61,8 +55,14 @@
             "title": "'All Three Counts!': Crowds Chant In Relief, Celebration Of Chauvin Guilty Verdict | NBC News",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "nLxq7E2Z41I",
+            "title": "Watch: Chauvin Declared Guilty On All Counts In Death Of George Floyd | NBC News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

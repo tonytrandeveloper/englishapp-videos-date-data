@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TME9NoTIA3Q",
-            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "xCOe8IFVhm8",
             "title": "Shark Attack Survivors Jump Back Into Ocean With Sharks",
             "secondDuration": 523,
@@ -61,8 +55,14 @@
             "title": "Fish Jumps Onto Boat to Avoid Shark Attack",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "595qJB7wM4U",
+            "title": "Tony Hale | Worst Advice | Real Biz with Rebecca Jarvis",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

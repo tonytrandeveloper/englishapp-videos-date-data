@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2vA5chFrO8k",
-            "title": "Priyanka Chopra Suffers 'Minor Incident' on Quantico Set",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "cN3zDln_ldw",
             "title": "Steve Harvey Talks Golf, Inner Cities With Donald Trump",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "Charlie Sheen Interview: Life After HIV Diagnosis",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "T8EnSWoz66g",
+            "title": "Kellyanne Conway Interview on Trump Russia Claims",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

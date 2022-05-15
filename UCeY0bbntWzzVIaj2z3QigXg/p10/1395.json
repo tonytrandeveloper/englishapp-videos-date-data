@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FxouwBKSZVk",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3178,
-            "group": "group_7"
-        },
-        {
             "videoId": "0yFw01pv84k",
             "title": "Students Adapt To New Graduation Ceremonies Amid COVID-19 Pandemic | NBC News NOW",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "'It's Not Right': Protesters Rally Against Pennsylvania Stay-At-Home Orders | NBC News NOW",
             "secondDuration": 1054,
             "group": "group_7"
+        },
+        {
+            "videoId": "eEIrk_Hlt5I",
+            "title": "Live: Trump Delivers Remarks at a Presidential Recognition Ceremony | NBC News",
+            "secondDuration": 1197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

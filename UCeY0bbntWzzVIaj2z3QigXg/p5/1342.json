@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rIgLnGA7Nlk",
-            "title": "NBC Nightly News Broadcast (Full) - June 7th, 2021",
-            "secondDuration": 1250,
-            "group": "group_7"
-        },
-        {
             "videoId": "UgcHXejSNcA",
             "title": "Growing Movement To End Single-Family Housing Zones",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Lester Holt On Record Surge Of Migrants To U.S.",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "SNfM7_DFMIQ",
+            "title": "NBC News NOW Full Broadcast - June 7th, 2021",
+            "secondDuration": 2952,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

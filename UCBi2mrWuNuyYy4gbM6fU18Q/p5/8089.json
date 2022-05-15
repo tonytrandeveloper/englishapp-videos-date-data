@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eX65h3Hhbps",
-            "title": "France and Allies Target ISIS With Airstrikes in Syria",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "beiTNtzc2GQ",
             "title": "Inside One Direction's Special London Concert",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Paris Attacks: New Video, Survivor Stories from Inside Bataclan Theater",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "0oPXay2iUuw",
+            "title": "Assessing Vulnerability of Americans In Wake of Paris Attacks",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

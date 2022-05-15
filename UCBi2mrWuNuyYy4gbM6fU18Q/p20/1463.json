@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UuN7FEjzD6k",
-            "title": "The Basin: Where coal is life, Trump seen as savior",
-            "secondDuration": 2615,
-            "group": "group_7"
-        },
-        {
             "videoId": "WMLF_-tysPc",
             "title": "Manchester United scores victory amid city's grief",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "Desperate search for survivors after Manchester attack",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "MdL6V2JZfJQ",
+            "title": "UK raises threat level to critical after concert terror attack",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

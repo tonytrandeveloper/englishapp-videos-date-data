@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Jwg4J6mNTCY",
-            "title": "Trump promises to fight congressional Democrats",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1IMDkkNfQk",
             "title": "Moose spotted running through Massachusetts town",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Test could show the effect of gaming on your kid's brain | ABC News",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "DrKMfCLtMDs",
+            "title": "Former White House counsel Don McGahn a no-show at House Judiciary Committee hearing",
+            "secondDuration": 1546,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

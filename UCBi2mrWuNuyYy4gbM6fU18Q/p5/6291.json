@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U5Jw2AXqKak",
-            "title": "Todd Fisher Speaks Out on Death of Carrie Fisher and Debbie Reynolds",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5pG1PIYkBM",
             "title": "NYC’s Carnegie Deli Closes Its Doors",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "The Mannequin Challenge Travels to Space",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tk2ROjMBpDg",
+            "title": "President Obama Expels Russian Diplomats After Election Hack",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

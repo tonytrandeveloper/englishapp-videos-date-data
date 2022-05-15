@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SZbNiKgLMZU",
-            "title": "Pacific Northwest battles record snowstorm",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "sffjImcj8js",
             "title": "IRS responds to outrage over smaller tax refunds",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Talks on Capitol Hill stall as another shutdown looms",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "LNDJTio4oyI",
+            "title": "Congress negotiators working hard to avert yet another government shutdown",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

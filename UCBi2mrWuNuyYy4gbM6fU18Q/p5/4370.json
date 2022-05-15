@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KESDM1lI194",
-            "title": "Man clings to the roof of speeding car during road rage incident",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "eFwS37dY3p0",
             "title": "'I expect to be acquitted and vindicated': Roger Stone on Mueller indictment",
             "secondDuration": 789,
@@ -31,8 +25,14 @@
             "title": "Police investigating officer's Russian roulette-style death",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "rmSWmrlCrBg",
+            "title": "Video shows man hanging from a car hood on the highway",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

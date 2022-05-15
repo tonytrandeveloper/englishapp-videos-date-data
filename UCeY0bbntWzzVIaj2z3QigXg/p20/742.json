@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G7o_nwnkRYU",
-            "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5305,
-            "group": "group_7"
-        },
-        {
             "videoId": "X1McuYYbGhA",
             "title": "Live: New York Gov. Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2159,
@@ -121,8 +115,14 @@
             "title": "Prime Minister Johnson In ICU, Will Be Placed On Ventilator If Condition Worsens | NBC News NOW",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "wQcG7lfx8rY",
+            "title": "California Gov. Newsom Gives Coronavirus Update | NBC News",
+            "secondDuration": 2428,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

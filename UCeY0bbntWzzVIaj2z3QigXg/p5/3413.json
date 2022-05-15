@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZfkqgWAWyJ4",
-            "title": "Prime Minister Johnson Hosts NATO Leaders At Downing Street | NBC News (Live Stream Recording)",
-            "secondDuration": 2854,
-            "group": "group_7"
-        },
-        {
             "videoId": "XaeQp-8-mko",
             "title": "Royals Host President Trump And First Lady For Tea In London | NBC News (Live Stream Recording)",
             "secondDuration": 7502,
@@ -31,8 +25,14 @@
             "title": "Trump meets with French President Emmanuel Macron | NBC News (Live Stream Recording)",
             "secondDuration": 2649,
             "group": "group_7"
+        },
+        {
+            "videoId": "XPeIffrejUg",
+            "title": "Meet Pete Buttigieg’s Campaign Body Woman | NBC News Now",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

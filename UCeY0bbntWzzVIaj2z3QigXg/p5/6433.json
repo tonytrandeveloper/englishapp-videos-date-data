@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ijJ2zNIPQO0",
-            "title": "Standing Rock Protests Don't Stop For Thanksgiving | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "TsmSW9PK2qg",
             "title": "Marco Rubio: Fidel Castro's Death An 'Historical Milestone' (Full) | Meet The Press | NBC News",
             "secondDuration": 596,
@@ -31,8 +25,14 @@
             "title": "Armed Man Jumps Out Of Trunk During Police Stop Caught On Camera | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "84zlBoXPpa0",
+            "title": "At Least 40 Killed In China Construction Collapse | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

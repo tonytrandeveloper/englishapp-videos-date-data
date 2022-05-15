@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QwIU7iUfhow",
-            "title": "President Donald Trump full remarks at Trump Tower: Remarks on Charlottesville, Infrastructure",
-            "secondDuration": 3181,
-            "group": "group_7"
-        },
-        {
             "videoId": "EeOJfiyuF2w",
             "title": "White nationalist groups vow to organize more events",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "4 injured after huge tree falls in NYC's Central Park",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "qbobvfu8rIE",
+            "title": "Teacher in Texas helped inspire pregnant student to graduate",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

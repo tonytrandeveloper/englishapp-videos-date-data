@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "66OE6WCn3ss",
-            "title": "Defense Closing Argument: Chauvin 'Does Not Need To Prove His Innocence' | NBC News",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_sa5To0C6E",
             "title": "White House Holds Press Briefing: April 19 | NBC News",
             "secondDuration": 2406,
@@ -31,8 +25,14 @@
             "title": "'His Name Was George Perry Floyd Jr.': Prosecution Delivers Closing Argument In Chauvin Trial",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "nEOv5HUy8kM",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 1562,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

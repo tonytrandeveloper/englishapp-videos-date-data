@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nEOv5HUy8kM",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1562,
-            "group": "group_7"
-        },
-        {
             "videoId": "hD9gAEEpqDQ",
             "title": "Spike In U.S. Mass Shootings 22 Years After Columbine High School Tragedy | NBC News NOW",
             "secondDuration": 538,
@@ -31,8 +25,14 @@
             "title": "WATCH: NASA Team Celebrates First Successful Helicopter Flight On Mars | NBC News NOW",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "PNjK01o9p2o",
+            "title": "NASA’s First Controlled Flight On Mars | NBC News",
+            "secondDuration": 821,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

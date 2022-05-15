@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6LY0qJUN0oU",
-            "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1kYW3ftoCg",
             "title": "COVID-19 First Responders: 'A Matter Of Time' Before It Spreads To Your Community | NBC News NOW",
             "secondDuration": 204,
@@ -121,8 +115,14 @@
             "title": "Prince Charles Opens London New Coronavirus Hospital Via Videolink | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "0K9l8ObNx5o",
+            "title": "Those Without Direct Deposit Info On File With IRS May Wait Months For Relief Checks | NBC News NOW",
+            "secondDuration": 601,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

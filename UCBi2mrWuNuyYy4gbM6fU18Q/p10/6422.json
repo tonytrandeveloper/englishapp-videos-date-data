@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eqGNwznmsBQ",
-            "title": "The President's Picks",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "bC0AyqUe9as",
             "title": "The Conversation:  March Madness Moves In",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Tiger Woods Returns to Golf",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "VWYpViL-30A",
+            "title": "A Legislative Card Trick",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

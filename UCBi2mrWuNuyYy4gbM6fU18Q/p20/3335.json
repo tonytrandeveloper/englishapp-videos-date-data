@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k2u_N51YkF8",
-            "title": "Cuban Spies Living in South Dakota",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "yoqOyCMZKEc",
             "title": "Quick Fix: Hating the Beautiful Game",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Paper or Plastic? Answer: Neither",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "IAtTistKETo",
+            "title": "College House Party Takes Dark Turn",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z6wMpZsjMUM",
-            "title": "Ohio College on Lockdown as Search Continues for Escapee",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "VSt9VRZ8_Yc",
             "title": "Chaos in the Capitol: Shots Fired",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Georgia Governor Vetoes 'Religious Liberty Bill'",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "28rF5eUiBHA",
+            "title": "Capitol Hill Shooting | Man Shot After Allegedly Pointing Gun at Officers",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

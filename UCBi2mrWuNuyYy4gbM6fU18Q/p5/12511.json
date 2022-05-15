@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Id1x9VLFGEo",
-            "title": "'Gerrymandering' Director on 'Top Line'",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "VSLcSihV3Vo",
             "title": "Ashjian: 'Two Worst Words In Nevada is Harry Reid'",
             "secondDuration": 601,
@@ -31,8 +25,14 @@
             "title": "Proposition 19: California May Vote to Legalize Marijuana",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "UaxATn7ODcc",
+            "title": "Revised CPR Guidelines",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

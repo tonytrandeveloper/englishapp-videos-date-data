@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UIW_4xR5OwQ",
-            "title": "Wonders of the Deep Blue Sea",
-            "secondDuration": 293,
-            "group": "group_7"
-        },
-        {
             "videoId": "SJyz_iauvKI",
             "title": "'Parisian Diet:' Just Savor Food, Author Says",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "Houses From Hell",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "951lB4Hk6Rs",
+            "title": "You Live Where?",
+            "secondDuration": 362,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

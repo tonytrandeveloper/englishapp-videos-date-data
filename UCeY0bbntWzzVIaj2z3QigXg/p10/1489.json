@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6LY0qJUN0oU",
-            "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "L1kYW3ftoCg",
             "title": "COVID-19 First Responders: 'A Matter Of Time' Before It Spreads To Your Community | NBC News NOW",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Markets Tumble After March Report Shows 701,000 Jobs Lost | NBC News NOW",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ZjHhbA8gIY",
+            "title": "Into Life and Loss in a Pandemic | Into America Podcast – Ep 6 | NBC News and MSNBC",
+            "secondDuration": 1493,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

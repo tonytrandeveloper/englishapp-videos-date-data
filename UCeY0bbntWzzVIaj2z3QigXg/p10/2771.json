@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ICTiCcIwZG8",
-            "title": "Work Smart: How To Stay On Top Of Your Inbox | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "O1zwBonFq-Q",
             "title": "Mick Mulvaney Trashes Consumer Protection Agency At January Confirmation Hearing | NBC News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Teen Linked To Mysterious Death Of Grandmother | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "jRQPCRdnV5E",
+            "title": "Death Toll Soars Over 300 In Egypt Mosque Attack | NBC Nightly News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

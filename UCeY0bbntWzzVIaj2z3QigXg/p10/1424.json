@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kUvYXfxqXiE",
-            "title": "Americans Donate Stimulus Checks To Help Others In Need | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "qK_n5wT_byc",
             "title": "Florida Gov. DeSantis holds coronavirus briefing | NBC News",
             "secondDuration": 2788,
@@ -61,8 +55,14 @@
             "title": "Trump Trails Biden In Battleground States In Latest Polls | Meet The Press | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "vAiSV8FewU0",
+            "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

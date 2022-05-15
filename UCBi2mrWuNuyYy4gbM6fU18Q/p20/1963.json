@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kYnjm5opfGc",
-            "title": "'GMA' Hot List:  Megyn Kelly Discusses 'Bizarre' Feud With Donald Trump",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "6HUclg-K-dQ",
             "title": "Playboy, From Porn to Last Nude Issue",
             "secondDuration": 401,
@@ -121,8 +115,14 @@
             "title": "Zika Virus Sparks State of Emergency in Florida; First Case Contracted by Blood Transfusion",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "fvDU8eHD_3w",
+            "title": "Deadly Hostage Standoff in Texas",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yWDv5Nr63BU",
-            "title": "Edible Pizza Box Created by Brooklyn Pizzeria",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "kgVYWhGytmY",
             "title": "Fishermen Reels in 60-Year-Old Beer",
             "secondDuration": 49,
@@ -31,8 +25,14 @@
             "title": "Solar Impulse Plane Begins First Leg of US Flight",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "hI0aUMhA54w",
+            "title": "Blind Woman Regains Sight After Accident",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

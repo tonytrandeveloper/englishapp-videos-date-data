@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "URhyq4LcFFk",
-            "title": "Marijuana Legalization: The Impact in Colorado",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "GHVddBKsCKk",
             "title": "Peter Liang, Former NYPD, To Be Sentenced in Deadly Shooting",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Doris Roberts Dead at 90",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ptwyzd7PHh8",
+            "title": "Boston Marathon Fan Creates Cute But Confusing Sign",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

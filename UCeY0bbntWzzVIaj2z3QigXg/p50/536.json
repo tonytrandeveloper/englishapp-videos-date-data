@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RTW7ciTuccQ",
-            "title": "A Season Of Protests For The NFL | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "DUURl8b70T0",
             "title": "Blazing Minivan Plows Into Pedestrians Near Starbucks In Shanghai | NBC News",
             "secondDuration": 45,
@@ -301,8 +295,14 @@
             "title": "White House Reviewing Memo That Alleges Bias In FBI And Justice Department | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToN4aNrIZBo",
+            "title": "State Of The Economy Ahead Of Donald Trump’s Speech | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

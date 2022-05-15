@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "W1V_AhwVahU",
-            "title": "Joe Biden accused of inappropriate touching",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lx-DhyjCAvc",
             "title": "Teen killed after knocking on the wrong door",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Missing show dog found outside Atlanta airport",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "T5xTpqqsYYg",
+            "title": "'Empire' actor Jussie Smollett charges dropped, Chicago mayor and top cop furious",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I3cvOEL0C_Y",
-            "title": "New York Weathermen Ring NYSE Closing Bell (11/1/2012)",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "tL25-rKDSpc",
             "title": "Country Music Awards 2012: Recap",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Sandy-Ravaged Staten Island: Floods, Fire",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "lI4JLESBlyA",
+            "title": "Hurricane Sandy 2012: Danger of Falling Trees Lingers After the Storm",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

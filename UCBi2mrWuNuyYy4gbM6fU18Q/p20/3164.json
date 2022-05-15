@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8lUnl2oNvqA",
-            "title": "Down in the Bayou",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAsWRFGlgkw",
             "title": "Racism in the Tea Party?",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Interview With David Axelrod (Part 2)",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1JcDXQMPI4",
+            "title": "News You Missed: 'A Double Rainbow!'",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

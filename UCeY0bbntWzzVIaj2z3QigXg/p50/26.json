@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vbcTw5mbCqo",
-            "title": "Beto O’Rourke Touts Plan After Winning Texas Governor Primary",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "v3Xq1eGhQPA",
             "title": "Biden: ‘State Of The Union Is Strong Because You The American People Are Strong’",
             "secondDuration": 165,
@@ -301,8 +295,14 @@
             "title": "Protests Around The World In Support Of Ukraine",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "wdw7-QbexqM",
+            "title": "New U.N. Report Warns Of Immediate Dangers Of Climate Change",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

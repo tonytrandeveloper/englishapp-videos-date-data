@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kbiAAtVy2ew",
-            "title": "The Debrief: California wildfires, raging Texas tornadoes, Facebook and 2020 | ABC News",
-            "secondDuration": 2655,
-            "group": "group_7"
-        },
-        {
             "videoId": "GdIbU09t0Cc",
             "title": "Texas starts to recover after devastating tornados l ABC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Key day in impeachment inquiry, Syria in crisis, Trudeau appears to win re-election | ABC News",
             "secondDuration": 1665,
             "group": "group_7"
+        },
+        {
+            "videoId": "PVQHKvAUS3E",
+            "title": "Former alt-right member wants to prevent others from joining these hate groups | Nightline",
+            "secondDuration": 544,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

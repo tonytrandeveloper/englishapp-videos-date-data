@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sgHPE2VWtFs",
-            "title": "Trump Releases First TV Campaign Ad",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "sEvNFZrE5ss",
             "title": "Miss Universe Philippines Speaks Out on Sharing Crown",
             "secondDuration": 329,
@@ -121,8 +115,14 @@
             "title": "Search for Birth Mother | Adopted Daughter Meets Mom",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0GcW5NCEUM",
+            "title": "Bill Cosby Speaks Out for the First Time Since Charged",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

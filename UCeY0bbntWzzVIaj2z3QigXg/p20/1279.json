@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u2TfeAjLS3k",
-            "title": "Representative Frank Pallone To Scott Pruitt: 'Your Actions Are An Embarrassment' | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "nK8YmY0O0zM",
             "title": "EPA Chief Scott Pruitt Grilled On Authorization Of Raises | NBC News",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "French President Emmanuel Macron Addresses Congress | NBC News",
             "secondDuration": 5891,
             "group": "group_7"
+        },
+        {
+            "videoId": "jrVAyUppUyA",
+            "title": "Security Footage Shows Fugitive Lois Riess' Arrest | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nFy4bOREc9I",
-            "title": "Lester Holt On Processing The Attack On Our Democracy At The Capitol | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "5kTM-711aW8",
             "title": "Critics Call Out Police Response To Capitol Riots Vs. Social Justice Protests | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "White House Press Secretary Kayleigh McEnany Condemns Riots At Capitol | NBC News NOW",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "T8n7AaKKr3A",
+            "title": "White House Holds Press Conference After Day Of Riots At Capitol | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

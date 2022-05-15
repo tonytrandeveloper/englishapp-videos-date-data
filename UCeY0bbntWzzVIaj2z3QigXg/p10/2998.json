@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N1wgwRzuT_c",
-            "title": "Probiotics Are The Latest Health Craze, But Are They Actually Good For You? | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "qLM0b7iwe5k",
             "title": "Survival Stories From Deadly Ferry Incident In Colombia | NBC Nightly News",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Sounds Off On Senate Healthcare Bill: ‘Nobody Can Be Totally Happy’ | NBC Nightly News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWi0KbuBe94",
+            "title": "Senator Ron Johnson: 'We Should Not Be Voting' on Healthcare This Week | Meet The Press | MSNBC",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

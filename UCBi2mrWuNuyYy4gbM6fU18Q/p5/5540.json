@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aQcTztRkBuI",
-            "title": "Angelina Jolie on her new film and the importance of family",
-            "secondDuration": 347,
-            "group": "group_7"
-        },
-        {
             "videoId": "dtrt5Ozb7N4",
             "title": "Michael Jackson's brother Tito Jackson marries his high school sweetheart: Part 1",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "British Prime Minister speaks out about London terror attack",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fo64U7mL0is",
+            "title": "Police investigating possible deadly hazing incident at LSU",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

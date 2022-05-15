@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nydn6pDNu48",
-            "title": "Sarah Palin is 'Ready' For Hillary Clinton",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFm5TMF4dHQ",
             "title": "Trump Blasts Romney, Bush; Says GOP Has 'Nobody Like Trump'",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "TSA Seizes Record Numbers of Guns",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "1nVBLD4CDfE",
+            "title": "Hidden America: Prostitutes, Pimps and Online Sex Trafficking (World News)",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

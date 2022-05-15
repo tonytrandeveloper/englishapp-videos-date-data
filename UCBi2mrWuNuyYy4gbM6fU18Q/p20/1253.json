@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PsPA3Dgh73M",
-            "title": "White House lawyer Ty Cobb plans to retire",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nc-zkUyVe0",
             "title": "A military aircraft crashes on a Georgia highway",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "Comedian defends anti-Trump jokes at WHCD dinner",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "LB1-KO3I4UY",
+            "title": "WH chief of staff denies he called Trump an 'idiot'",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

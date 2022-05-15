@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G5RB13RBCA4",
-            "title": "Dramatic Footage Of D.C. Car Chase | Archives | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "XaHKnrJ9dcc",
             "title": "Toronto Mayor Rob Ford Defends Himself | Archives | NBC News",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "The 'Debt Limit' Explained | Debunker | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "6c1CI213byA",
+            "title": "Time-Lapse: Costa Concordia Wreck Rotated | Archives | NBC News",
+            "secondDuration": 17,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

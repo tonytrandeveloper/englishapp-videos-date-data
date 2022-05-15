@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "26wqUaXOv3g",
-            "title": "New questions raised after Mar-a-Lago security breach",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "u_Lk8CreWCE",
             "title": "Energy drinks may cause heart risks: Study",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Police seeking man seen on video pummeling ride-share driver",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Zy3uEK6Ne8",
+            "title": "'Jeopardy James' less than $300,000 from Ken Jennings' record",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

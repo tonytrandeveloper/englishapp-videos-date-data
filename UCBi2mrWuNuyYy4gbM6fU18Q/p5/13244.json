@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Vowwy5bVwnE",
-            "title": "Jake Tapper on Beer Diplomacy",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "9sSLrs3SbAI",
             "title": "Mary Jo Buttafuoco's 'Life Lift'",
             "secondDuration": 381,
@@ -31,8 +25,14 @@
             "title": "Weekend Window to Pemaquid Peninsula, Maine",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "fC7NLYdsKqk",
+            "title": "Sarah Palin's Swan Song",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

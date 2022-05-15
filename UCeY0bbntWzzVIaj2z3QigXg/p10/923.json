@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7ZcGZqpL7cw",
-            "title": "GOP Leadership Facing Criticism Over Rep. Marjorie Taylor Greene | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "uzVAK6Imf2k",
             "title": "What We Know About Biden’s Planned Task Force To Reunite Migrant Families | NBC Nightly News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Live: Biden Delivers Remarks on Health Care | NBC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "IDv59yGsoms",
+            "title": "‘Proud Boys’ Leader Cooperated With FBI After 2013 Arrest | NBC News NOW",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

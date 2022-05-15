@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ou2WMpAXR9k",
-            "title": "WEBCAST: Budget Deadline Tonight",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "JGBjL28DbnI",
             "title": "Pope Benedict XVI's Historic Farewell",
             "secondDuration": 301,
@@ -121,8 +115,14 @@
             "title": "Pope Benedict Delivers Farewell Address",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "3TRphsB0S2E",
+            "title": "'The Bible': Remaking the Oldest Stories Ever Told",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

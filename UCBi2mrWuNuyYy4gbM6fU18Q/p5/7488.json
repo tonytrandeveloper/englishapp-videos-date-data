@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WNycDqvUSqg",
-            "title": "Ohio Gunman Kills 8 | Frantic Manhunt for Killer Continues",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "P7kFqsfaLjs",
             "title": "Obamas Dine with Prince William, Duchess Kate",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Boston Bombing Day 5 | Never-Before-Heard 911 Call That Ended It All",
             "secondDuration": 699,
             "group": "group_7"
+        },
+        {
+            "videoId": "lgjCugdAOek",
+            "title": "'Game of Thrones' Cast on Fate of Their Characters",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G5RB13RBCA4",
-            "title": "Dramatic Footage Of D.C. Car Chase | Archives | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "XaHKnrJ9dcc",
             "title": "Toronto Mayor Rob Ford Defends Himself | Archives | NBC News",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "Students Respond to President Obama's 2014 State of the Union Address",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "te3ZTuYIj80",
+            "title": "Coming Up on MTP: SOTU, Spying & Football",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

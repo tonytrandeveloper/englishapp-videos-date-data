@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "POiWIU0OCVI",
-            "title": "Seven New Plays by Black Playwrights On Broadway For First Time",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ujLkAygSi0",
             "title": "Inside The Nation’s Supply Chain Crisis",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 3021,
             "group": "group_7"
+        },
+        {
+            "videoId": "SC55K5usAaw",
+            "title": "'My Heart Is Broken': Alec Baldwin Releases Statement On Prop Gun Death",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

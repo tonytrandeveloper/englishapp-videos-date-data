@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EffDXxH2cDA",
-            "title": "Navy SEALS' Failed Rescue of American Hostage | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "FHJs3TwgsUQ",
             "title": "Union Carbide Disaster In Bhopal India | Flashback | NBC News",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Orion Deep-Space Capsule Blasts Off | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "a4ADZBjjfiw",
+            "title": "Eric Garner Case: Feds Investigating Excessive Force | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

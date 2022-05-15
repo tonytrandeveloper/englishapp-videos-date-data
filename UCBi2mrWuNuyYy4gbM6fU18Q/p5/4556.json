@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4YQFu4UURfY",
-            "title": "Shooting at Southern California bar",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "vdOPRLykvFA",
             "title": "Telling legendary journalist Marie Colvin's story in 'A Private War'",
             "secondDuration": 510,
@@ -31,8 +25,14 @@
             "title": "Fight between teacher, student on video divides California community",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "OBxY8YG5lC0",
+            "title": "Jeff Sessions forced to resign from US attorney general post",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

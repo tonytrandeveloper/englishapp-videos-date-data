@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AkZ56u3ZUk8",
-            "title": "What Ants Are Saying",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "r64XVBNA8DM",
             "title": "Reaching Moderate Republicans",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Did TV Spotlight Hurt Gosselin Marriage?",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7NzsKtZVM0",
+            "title": "How Fast Will Swine Flu Spread?",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

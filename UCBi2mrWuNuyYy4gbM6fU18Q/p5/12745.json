@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PErZJXI8viA",
-            "title": "Study Links ADHD to Pesticide",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "AeEGTdYsOfU",
             "title": "Two New Supreme Court Decisions",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "'Dancing' Couples Feel the Heat",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "iShG7qQECQM",
+            "title": "BP Exec: Won't Hide Behind $75M Cap",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

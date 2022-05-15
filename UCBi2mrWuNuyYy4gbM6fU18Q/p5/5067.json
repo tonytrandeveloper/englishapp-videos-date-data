@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tkTQFluCrU8",
-            "title": "Facebook users to learn if their data was shared",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z_HlnLYPliY",
             "title": "Trump faces GOP calls to strike back on Syria",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Unseasonable weather continues to batter the US",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "tnF515GF9No",
+            "title": "Alleged chemical attack in Syria may have killed up to 40 people",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5mnBSPkh0Yc",
-            "title": "Paris Attacks Alleged Mastermind Killed in Raid",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "bsanR_q3LD0",
             "title": "Donald Trump's Family Speaks Out on Presidential Run",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "After Paris Attacks, Mounting Fear of Refugees at Home",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "-fVHBDSJAFM",
+            "title": "Inside the Paris Raid Authorities Say Thwarted a New Terrorist Attack",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

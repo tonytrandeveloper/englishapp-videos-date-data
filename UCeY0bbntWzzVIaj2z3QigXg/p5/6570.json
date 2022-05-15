@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_GzE7TZldfk",
-            "title": "Man With Cleaver Injures NYPD Officers Before Being Shot In Manhattan | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "RAJ_0FFaM20",
             "title": "George W. Bush Enters The Art World | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Lays Out Goal Of 4% Economic Growth | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "DbWoqQIJQrU",
+            "title": "Paul Ryan Says Donald Trump Should Release His Tax Returns | NBC News",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

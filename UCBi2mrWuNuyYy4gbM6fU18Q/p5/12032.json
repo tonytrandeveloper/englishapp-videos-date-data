@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iDwCKSMdWuk",
-            "title": "High Tech Fitness Apps and Gadgets",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCCrxgYPx4g",
             "title": "Living Proof Malawi",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Jacqueline Kennedy Tapes Reveal Thoughts on JFK, Caroline Kennedy on Her Mother's Tapes",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "dPDOSF814VM",
+            "title": "Jacqueline Kennedy: In Her Own Words",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

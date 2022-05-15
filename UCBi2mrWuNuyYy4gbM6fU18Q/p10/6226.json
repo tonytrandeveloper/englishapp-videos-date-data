@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "azP9zDZ1mZY",
-            "title": "Hero Teacher Saves Lives in Hostage Situation",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "4L2g8urpQCQ",
             "title": "Finding Jobs on the Road",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Glickman: Public Said 'No' to 'Hyper-partisanship'",
             "secondDuration": 694,
             "group": "group_7"
+        },
+        {
+            "videoId": "fdi19mVlcRs",
+            "title": "Former Taliban Hostage David Rohde Shares Details of Escape",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

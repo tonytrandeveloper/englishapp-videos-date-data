@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2TUwibkTZt4",
-            "title": "Alton Sterling's Family: 'They Took A Father Away' | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "yIbTGT-U1aQ",
             "title": "There Is No Way To Fix Facebook. So How Do We Protect Ourselves From It? | Think | NBC News",
             "secondDuration": 235,
@@ -31,8 +25,14 @@
             "title": "Police Shooting Of Stephon Clark Announced As Independent Oversight By California DOJ   | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "olysFQkYkCA",
+            "title": "How Cambridge Analytica Used Algorithms To Trawl Through Facebook User Data | Mach | NBC News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

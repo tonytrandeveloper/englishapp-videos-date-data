@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H8n1UxvQvjw",
-            "title": "60 police Ford SUVs taken off the street",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "YSOOq3i2dMU",
             "title": "Deadly plane crash in Utah kills 4 people onboard instantly",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "New developments in case where driver livestreamed deadly car crash",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SD4K6-tkBk",
+            "title": "New TSA electronics policy announced",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

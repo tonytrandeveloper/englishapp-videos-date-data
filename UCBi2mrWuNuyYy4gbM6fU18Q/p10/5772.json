@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gBcJmTYjUOg",
-            "title": "Kelly Macdonald on Pixar's 'Brave'",
-            "secondDuration": 521,
-            "group": "group_7"
-        },
-        {
             "videoId": "Oq7bJLzRNrM",
             "title": "'Vampire Hunter': Benjamin Walker Is 'Abraham Lincoln: Vampire Hunter'",
             "secondDuration": 640,
@@ -61,8 +55,14 @@
             "title": "Athletes Use Controversial Pain Therapy",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "hr-F6BuuIt8",
+            "title": "King Lebron James Finally Snags Crown",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

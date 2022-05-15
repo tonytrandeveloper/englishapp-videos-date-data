@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IXW1RnPzCt0",
-            "title": "Republican Election Confessions: Why I Won't Vote For Donald Trump | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "K8iKK-AczS0",
             "title": "Tom Brokaw Examines Social Media as a Force in 2016 Election | NBC Nightly News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Ohio's Governor John Kasich Reveals Why He's Not At The RNC In Cleveland | NBC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "9VL-vNtqLhI",
+            "title": "TV Actor Scott Baio Supports Donald Trump At RNC | NBC News",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BPZgqLcTUEQ",
-            "title": "Spy Swap: Deal in Works With Russians",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "3VptAolxL0c",
             "title": "Lindsay Lohan's Tragic Fall",
             "secondDuration": 343,
@@ -121,8 +115,14 @@
             "title": "Amplified: Electric Tickle Machine",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "NYcGmOAYUlc",
+            "title": "'Boston Med' Nurse Balances Work, Personal Life",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

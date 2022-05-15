@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "tpk8cgrLlSM",
-            "title": "A $30 Augmented Reality Headset That’s Made From Cardboard | Mach | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXNtVZYzfkM",
             "title": "Russia Fires Cruise Missiles At ISIS Targets In Syria | NBC News",
             "secondDuration": 60,
@@ -301,8 +295,14 @@
             "title": "A Better Way To Use Snapchat (If You're Not 18) | Better | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "F1fUkUtmzMc",
+            "title": "World In Crisis: Global Refugees Reach Record Numbers | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

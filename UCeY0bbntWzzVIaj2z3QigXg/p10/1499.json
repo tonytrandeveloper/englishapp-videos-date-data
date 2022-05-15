@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nRUTAat1Yeg",
-            "title": "Teddy bear hunt brings welcome distraction for children | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "RvVKVzQ72SI",
             "title": "'COVID On My Face,' Colleagues Fall Ill: NYC Doctors, Nurses Plead For Help | NBC News",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "Hearses, Songs And Drones: How Colombian Police Get The Coronavirus Message Across | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "xSc7FJFk_8U",
+            "title": "Police In Nepal Use Special Device To Keep Safe Distances During Coronavirus Lockdown | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

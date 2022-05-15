@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h451vl8pKys",
-            "title": "Bill Clinton Talks Trump Protests",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "X4Dr1b7lwts",
             "title": "Trump Protester Rushes Stage at Ohio Rally",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Arrests Made as Donald Trump's Rally Called off",
             "secondDuration": 576,
             "group": "group_7"
+        },
+        {
+            "videoId": "gFyCR07mb6M",
+            "title": "Johnny Manziel Cut by Cleveland Browns",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

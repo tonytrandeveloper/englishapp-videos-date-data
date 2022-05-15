@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HeCl18UWDR4",
-            "title": "Trump denies tweets that ignited firestorm were racist",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "3hsHxL6CjWE",
             "title": "Remembering the day US astronauts landed on the moon",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Briefing Room: Trump's inflammatory tweets, ICE Raids, 2020 candidates' healthcare plans | ABC News",
             "secondDuration": 1785,
             "group": "group_7"
+        },
+        {
+            "videoId": "jH5Em9Le9KM",
+            "title": "Treasury Secretary Steve Mnuchin holds news conference on cryptocurrency | ABC News",
+            "secondDuration": 1647,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

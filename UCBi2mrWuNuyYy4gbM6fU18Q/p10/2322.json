@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PjmoT6dmQjY",
-            "title": "Mom of 13-year-old shark attack victim speaks out",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "icuToV3jxJA",
             "title": "Melania Trump travels solo to Africa",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "'Briefing Room': FBI investigates Kavanaugh accusations, US-Mexico-Canada trade deal, Medal of Honor",
             "secondDuration": 1383,
             "group": "group_7"
+        },
+        {
+            "videoId": "u8oVrCC9W1I",
+            "title": "President Donald Trump awards Medal of Honor to Staff Sgt. Ronald J. Shurer | ABC News",
+            "secondDuration": 1347,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cKUSt37zl4Y",
-            "title": "Ukrainian Troops Use Chernobyl Ghost Town For Training Exercises",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "eYhni8PNioA",
             "title": "Russia Receives Strong Support From China in Ukraine Standoff",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "Texas Faces Power Outages, Freezing Temperatures During Winter Storm",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "exy1dBpFb4A",
+            "title": "U.S. Accuses Russia Of Disinformation Campaign As Pretext For Invasion Of Ukraine",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

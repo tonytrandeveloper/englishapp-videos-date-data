@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0s_f-oCxj8g",
-            "title": "Full Panel: Bernie Sanders Drops Out Of 2020 Race | Meet The Press | NBC News",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JlnyLaZwug",
             "title": "Full Hahn: 'I Cant Predict At This Point' If May 1 Re-Opening | Meet The Press | NBC News",
             "secondDuration": 562,
@@ -301,8 +295,14 @@
             "title": "Recreating Classic Art With Household Items To Kill Time In Quarantine | NBC News NOW",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "yaJtoq0-zkQ",
+            "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3598,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

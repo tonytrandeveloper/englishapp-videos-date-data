@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZvBlZscnvis",
-            "title": "Deadly Weather In The Eastern US As Tornadoes Rip Through Five States | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "ot8r6kyDB_M",
             "title": "Students Return To Marjory Stoneman Douglas High School Since School Shooting | NBC Nightly News",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Artist Ai Weiwei’s Journey Following Refugees Takes Him To Puerto Rico | NBC News",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "H0v0xp2JGG0",
+            "title": "House Intel Chair Devin Nunes Responds To Release Of Democratic Memo | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

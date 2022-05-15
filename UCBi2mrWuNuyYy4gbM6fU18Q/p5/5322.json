@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HNK0c__qn0k",
-            "title": "GOP bill would cut taxes for the ultrarich",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "CDoJRFADpqs",
             "title": "House debates, votes and passes GOP tax bill",
             "secondDuration": 15869,
@@ -31,8 +25,14 @@
             "title": "Flight delays continue after Atlanta airport blackout",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "gc35-OKu4oU",
+            "title": "Mystery surrounds death of pharmaceutical tycoon and his wife",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

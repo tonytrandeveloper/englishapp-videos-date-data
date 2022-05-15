@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MeKxEhgx6lM",
-            "title": "'This Week': Vladimir Putin",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "xDJa_TbLEi4",
             "title": "'This Week': Powerhouse Roundtable",
             "secondDuration": 1088,
@@ -31,8 +25,14 @@
             "title": "Chris Christie Accused of Bullying Hoboken Mayor",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "p-tytt_Evpk",
+            "title": "'Bachelor' Backlash Over Remarks on Homosexuality",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

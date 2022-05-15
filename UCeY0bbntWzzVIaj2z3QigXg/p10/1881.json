@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yzEMGU5Ao1c",
-            "title": "Deep Dive: The Impact Guns Have On Urban Areas | NBC News Now",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "nS16H2FVCM0",
             "title": "Grieving While Fearing Deportation: Inside El Paso Residents’ Fears | NBC News Now",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "Inside The Trauma Center That Saved Lives After The El Paso Massacre | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "5wZ1PEghQ0s",
+            "title": "'I Come From A Very Strong Mexican Family': El Paso Survivor On Healing | NBC News Now",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

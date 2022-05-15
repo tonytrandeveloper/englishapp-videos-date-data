@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hDtCOtTOQ2g",
-            "title": "LIVE: Russia Invades Ukraine | NBC News NOW Simulcast of Sky News",
-            "secondDuration": 18000,
-            "group": "group_7"
-        },
-        {
             "videoId": "pA-1b_QjeoI",
             "title": "Top Story with Tom Llamas - March 3 | NBC News NOW",
             "secondDuration": 2960,
@@ -61,8 +55,14 @@
             "title": "Ukraine Crisis: Russia Captures Kherson",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8pXgJakkjM",
+            "title": "January 6 Committee Subpoenas Trump Jr. Fiancée Kimberly Guilfoyle",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

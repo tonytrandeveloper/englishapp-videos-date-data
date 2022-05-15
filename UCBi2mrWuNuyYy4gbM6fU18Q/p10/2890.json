@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bd94GfT1mJY",
-            "title": "‘Darth Vader’ Marvel comic books: Go inside the ‘Star Wars’ stories",
-            "secondDuration": 1929,
-            "group": "group_7"
-        },
-        {
             "videoId": "PHJTy52tCZk",
             "title": "Bill Cosby juror reveals what prevented guilty verdict",
             "secondDuration": 233,
@@ -61,8 +55,14 @@
             "title": "Police officer on duty at a Michigan airport is stabbed repeatedly in the neck",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Q5-OrSCc4s",
+            "title": "One little girl has reason to smile as she graduates from kindergarten",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

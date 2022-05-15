@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wdw7-QbexqM",
-            "title": "New U.N. Report Warns Of Immediate Dangers Of Climate Change",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "1pXUY2J7mvc",
             "title": "Ukraine Crisis: Russia Attacks Kharkiv",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "New York Man Wins $10M Jackpot For A Second Time",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "BjKwQ_EyRa8",
+            "title": "Facebook, Twitter Remove Anti-Ukrainian Disinformation Accounts From Platform",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

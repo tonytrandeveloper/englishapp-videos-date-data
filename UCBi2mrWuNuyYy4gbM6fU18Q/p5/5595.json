@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W8STuSF-8kc",
-            "title": "Oil and gas prices spike after the shock of Harvey",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "XPRFEPVm0Pk",
             "title": "Hurricane Harvey Live Coverage - 'Unprecedented' flooding in Houston as Harvey stalls over area",
             "secondDuration": 23472,
@@ -31,8 +25,14 @@
             "title": "Mayor of Texas town tells evacuated residents not to return home at this time",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "_8EBbVUz4cU",
+            "title": "Hurricane Harvey is the first natural disaster test for Trump",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

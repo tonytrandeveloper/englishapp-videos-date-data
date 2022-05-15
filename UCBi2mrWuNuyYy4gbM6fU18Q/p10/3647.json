@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fn1q3YT-c3M",
-            "title": "Gorilla Attack | Frantic 911 Calls Released",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "rUnBhMdcWsw",
             "title": "UCLA Shooting | Professor Targeted During Alleged Murder-Suicide",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "How This N.Y. Company  Is Changing the E-Commerce Game",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "HHSsyt7Yxmg",
+            "title": "Mommy Blogger Says Blog Consumed Her Life",
+            "secondDuration": 458,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

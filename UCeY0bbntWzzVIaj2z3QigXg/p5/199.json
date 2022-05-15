@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B1FMnOgMHrE",
-            "title": "Putin Says There Are 'Positive Shifts' In Talks With Ukraine",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "iJyVcdOVbWo",
             "title": "Morning News NOW Full Broadcast - Mar. 11",
             "secondDuration": 3190,
@@ -31,8 +25,14 @@
             "title": "New Ukraine Cities Hit By Strikes As Russia's Attack Moves West",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRl1U-roFxM",
+            "title": "Video Shows Aftermath Of Dnipro Airstrike, Emergency Services Say",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uTWfl48kcfE",
-            "title": "The Briefing Room: Trump on Iran, Biden comments/son's foreign business dealings | ABC News",
-            "secondDuration": 1676,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iM7zWA4zyM",
             "title": "World in Photos, June 20: Mountainside yoga, World Cup soccer goal, cuckoo chicks",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Briefing Room: EPA new rules on power plants, Hope Hicks testifies, Trump launches 2020 campaign",
             "secondDuration": 1510,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y2xA5rUkA78",
+            "title": "World in Photos, June 19: President Trump's rally, stray polar bear, tango tournament",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

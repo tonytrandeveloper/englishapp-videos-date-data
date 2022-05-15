@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nUsI7Gi94jA",
-            "title": "New Mexico Fires Threaten Los Alamos Nuclear Lab",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "CD94yonULh0",
             "title": "Dated Evacuation Plans: Nuclear Crisis?",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "Casey Anthony Trial: Judge Dismisses Court for Weekend, Sparks Speculation of Plea Deal",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "WoBgt_MJlCo",
+            "title": "'GMA' Searches for America's Next Teen Pop Star: Will They go Viral?",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

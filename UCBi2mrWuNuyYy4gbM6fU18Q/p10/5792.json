@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QXevjlAJYjQ",
-            "title": "Michael Fassbender Interview on 'Prometheus' Character's Android Privates, Heavy Metal  Music Dreams",
-            "secondDuration": 564,
-            "group": "group_7"
-        },
-        {
             "videoId": "6VxYzPuArbQ",
             "title": "Michael Fassbender Interview on Ridley Scott's 'Prometheus': Rumored 'Alien' Prequel",
             "secondDuration": 642,
@@ -61,8 +55,14 @@
             "title": "Syria Massacre: UN Monitors Fired Upon?",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "bGmn-XIT_rQ",
+            "title": "White House Intelligence Leaks Under Investigation",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

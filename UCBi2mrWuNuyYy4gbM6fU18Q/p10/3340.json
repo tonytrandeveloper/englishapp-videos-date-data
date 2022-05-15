@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oVvmVivdm1A",
-            "title": "Donald Trump, Hillary Clinton Discuss Tax Increases on the Wealthy | ABC News",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1I82pyUBns",
             "title": "Clinton, Trump Discuss Ways to Bring Insurance Costs Down, Improve Coverage | ABC News",
             "secondDuration": 492,
@@ -61,8 +55,14 @@
             "title": "Woman Says She Found Boyfriend's Body Covered in Blood: Part 1",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "I2u_GWXr5Aw",
+            "title": "Florida Streets Flooded After Hurricane Matthew Hits",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4I6_6qga4e4",
-            "title": "World Series Game 6 Highlights | Cubs Grand Slam Keep Hope Alive",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "HAthT1ZInck",
             "title": "Trump, Clinton Tied in Latest Tracking Poll",
             "secondDuration": 182,
@@ -301,8 +295,14 @@
             "title": "Peter Thiel Explains Trump Support",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "jrc6sho022E",
+            "title": "Sarah Michelle Gellar: Worst Advice",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

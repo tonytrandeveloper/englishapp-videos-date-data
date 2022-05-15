@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_IAydlcgILw",
-            "title": "Sacramento EMTs Overwhelmed Amid Omicron Wave",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "jAPX0Ko1hzk",
             "title": "Pfizer Testing Omicron-Specific Covid Vaccine",
             "secondDuration": 149,
@@ -121,8 +115,14 @@
             "title": "‘Encanto’ Sparks Conversation About Diversity On Screen",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "t20veMaZZF4",
+            "title": "Top Story with Tom Llamas - Jan. 24 | NBC News NOW",
+            "secondDuration": 2402,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

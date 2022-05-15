@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L_z4GHC_YaQ",
-            "title": "7,000 Confirmed Cases Of The Flu In The U.S. | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "FDyl0otHQrk",
             "title": "Here’s What Scientists Say A Nuclear Attack Would Look Like | NBC Nightly News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Trump Advisers On The Campaign: 'He Would Tear Your Face Off' (Full) | Meet The Press | NBC News",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "9hiT4NoQ3tg",
+            "title": "Panel: Will Russia Investigation Lead To A Constitutional Crisis? (Full) | Meet The Press | NBC News",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

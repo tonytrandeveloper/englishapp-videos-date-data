@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mNc0UBkSEto",
-            "title": "In-depth Look At Coronavirus Antibody Testing | NBC Nightly News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnDiuUVKDAw",
             "title": "As Unemployment Grows, Americans Struggle To Get Food On The Table | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Oil Prices Fall As Oversupply Pressures Market | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "i-uocsU3hNM",
+            "title": "An Inside Look At What Doctors And Nurses Are Facing On The Front Lines | NBC News NOW",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

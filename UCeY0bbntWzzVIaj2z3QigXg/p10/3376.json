@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yug2rvU6AfU",
-            "title": "U.N. Envoy Urges Obama, Putin To Save Syria Ceasefire | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "aheHE7IBkT4",
             "title": "'Nuestra Palabra' Celebrates 18 Years Showcasing Latino Literature | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "A Promising New Approach to Treating Children With ADHD | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "HyHVLq-KtFo",
+            "title": "Chobani CEO Giving Employees an Ownership Stake in Yogurt Empire | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

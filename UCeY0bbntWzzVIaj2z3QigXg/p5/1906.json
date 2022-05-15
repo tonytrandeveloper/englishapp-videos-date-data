@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5TDibfcSA3s",
-            "title": "Growing Number Of Social Media Companies Ban Trump | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "kvQW6PQ-GAI",
             "title": "U.S. Secret Service Expands Security Plan For Biden Inauguration | NBC Nightly News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "FBI Memo Warns Of Possible Armed Protests At All 50 State Capitols | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "qnUE3odIZPw",
+            "title": "WATCH: Biden Receives Second Covid Vaccine Dose | NBC News NOW",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "OZSGMMUC7FQ",
-            "title": "Watergate: Inside the scandal that took down a presidency",
-            "secondDuration": 614,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qovLaE3dEM",
             "title": "Richard Nixon's relationship with the press, his secret tapes: Part 1",
             "secondDuration": 723,
@@ -301,8 +295,14 @@
             "title": "President Trump announces Virginia shooting suspect's death",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1kGIcxvmVk",
+            "title": "Jogger describes being almost hit by gunfire",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

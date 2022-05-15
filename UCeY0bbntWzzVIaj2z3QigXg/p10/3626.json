@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qihoW9JgOdg",
-            "title": "Raw: Tornado Touch Down | Archives | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "TALwNlM6gFI",
             "title": "What Is Consumer Price Index (CPI)? | Show Me | NBC News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Wearable Tech Tracks Health, Performance | Short Cuts | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWQ26B3oQNc",
+            "title": "\"Washio\" App Delivers Laundry, Drycleaning | Short Cuts | NBC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

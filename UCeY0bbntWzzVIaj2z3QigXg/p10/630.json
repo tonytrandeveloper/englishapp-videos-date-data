@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DTNEpZWPYoc",
-            "title": "NBC News NOW Full Broadcast - June 28, 2021",
-            "secondDuration": 2569,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nvfg9JSZG3Q",
             "title": "U.S. Launches Airstrikes On Targets In Syria And Iraq",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: June 28 | NBC News",
             "secondDuration": 3085,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFpwlDkP3f4",
+            "title": "Justice Clarence Thomas Questions Federal Policy On Marijuana",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

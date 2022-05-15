@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "055PoVOg__E",
-            "title": "Missouri KKK Murder: Wife, stepson Charged | ABC News",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jd27p3T_e6E",
             "title": "Kellyanne Conway Reacts to Michael Flynn's Resignation | ABC News",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Two young girls shot in separate Chicago incidents fight for their lives",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhn-CVdQHTM",
+            "title": "President Trump, Canadian PM Justin Trudeau hold joint press conference",
+            "secondDuration": 2053,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

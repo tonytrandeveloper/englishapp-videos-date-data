@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rDcdim8SbZQ",
-            "title": "Attack on a Norway mosque stopped",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "SVGulYZNYTk",
             "title": "Trump 'can give cover to' Republicans for passing gun control bills: Rahm Emanuel",
             "secondDuration": 971,
@@ -61,8 +55,14 @@
             "title": "Case against Jeffrey Epstein will continue",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "d3AouiAWbmI",
+            "title": "Accused sex-trafficker Jeffrey Epstein dies",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

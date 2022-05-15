@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tdPhGzeQrjw",
-            "title": "Growing Pressure In Race To Evacuate Thousands In Afghanistan",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "TciwNDLckSk",
             "title": "Troubling Spike In Covid Cases Among Children",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "Gen. Petraeus Speaks On Afghanistan Collapse, U.S. Withdrawal",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "BajkhpVNYT8",
+            "title": "Haiti Hit By Serious Storm After Deadly Earthquake",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "J9mdqjfkptY",
-            "title": "Boston Bombing: Tsarnaev's Blood-Stained Message Shown To Jury | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "z11F3CdJ8tA",
             "title": "OU Fraternity House Mom Repeats Racial Slur In New Video | NBC Nightly News",
             "secondDuration": 153,
@@ -301,8 +295,14 @@
             "title": "Keystone XL Pipeline: Meet the Voters On Opposite Sides | Meet The Press | NBC News",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieoL2QpwD6E",
+            "title": "The Failure In Libya: How U.S. Actions Destabilized A Region | Meet The Press",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tbx_2x-f2yw",
-            "title": "Student Accepted to Cornell, Family Goes Wild",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7pTjtYQ_KM",
             "title": "Kellyanne Conway Interview on Russian Hack Claims",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Trump: Russian Hacking Claims 'Ridiculous'",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "zafEJrLZ2fE",
+            "title": "Nigerian Church Collapses, 160 Dead, Says Hospital Director",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ck7PwjNEIpY",
-            "title": "Self-described 'imperfect role model' Jake Paul opens up about his YouTube empire",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "_3OBo0Nu3wU",
             "title": "Woman dies after being hit by self-driving Uber",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Puerto Rico still on the road to recovery post-hurricanes",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "ma0bcxCkHeo",
+            "title": "Firm with Trump ties accessed Facebook user's data",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

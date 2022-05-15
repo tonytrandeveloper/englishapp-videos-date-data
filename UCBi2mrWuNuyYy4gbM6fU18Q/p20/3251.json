@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "irOduNxyIeU",
-            "title": "Beyond The Velvet Rope",
-            "secondDuration": 359,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZZHQxoIcKTU",
             "title": "Planes Nearly Collide Midair",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "Joe Biden: Obama's Plan 'Is Going to Work'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "su5dzLoWigY",
+            "title": "Obama's Defining Moment",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

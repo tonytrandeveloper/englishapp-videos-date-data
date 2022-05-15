@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9VrM1lA24T0",
-            "title": "A Year Later Activists Still Say Sandra Bland's Name | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "d0pHyI82un0",
             "title": "Chuck Todd: Donald Trump's Mike Pence Pick 'Pragmatic, Political' | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Medical Choppers Rush In To Assist Injured In France | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "34itbh9oY_4",
+            "title": "Philando Castile’s Body Makes Its Final Trip Through Minnesota Streets | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

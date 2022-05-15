@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lWTlFRdbOuU",
-            "title": "New developments in the murder of Arkansas state senator",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2J1c9pr9K8",
             "title": "A preview of ABC News' exclusive one-on-one interview with Trump",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Notre Dame Cathedral has first mass since fire two months ago",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "JP-HNcROSU8",
+            "title": "Amanda Knox returns to Italy for first time since 2015 acquittal",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

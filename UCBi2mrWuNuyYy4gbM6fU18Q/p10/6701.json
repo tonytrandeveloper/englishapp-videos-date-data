@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tORXi4heyss",
-            "title": "What Does Pandemic Alert Mean?",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "JSJ8G7yAkBg",
             "title": "Boom Town U.S.A",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Amplified: Mac McCaughan",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "wlo0mT0ECVQ",
+            "title": "Outbreak in America",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

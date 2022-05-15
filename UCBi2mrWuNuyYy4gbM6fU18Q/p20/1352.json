@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "biPi0UBRpt8",
-            "title": "Trump adviser says he lied to FBI out of loyalty to Trump: Source",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hbk8HVI6S70",
             "title": "GOP Senate candidate accused of molesting 14-year-old girl",
             "secondDuration": 263,
@@ -121,8 +115,14 @@
             "title": "A new accusation against Kevin Spacey",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "olNkAB55gds",
+            "title": "Voters send message to Trump as Democrats win several key races",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

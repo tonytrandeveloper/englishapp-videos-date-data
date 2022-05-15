@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v8SepkXh0_g",
-            "title": "Mysterious Underwater Orb Baffles Scientists",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "nSLNiO5CmBQ",
             "title": "Zika Concerns Continue After 4 People in Florida are Likely Infected",
             "secondDuration": 261,
@@ -31,8 +25,14 @@
             "title": "New Harry Potter Book Excites Fans",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ARvjSjepzs",
+            "title": "DC Intern Murder | New Evidence Emerges",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

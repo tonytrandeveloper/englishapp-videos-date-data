@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "loIiNz9FZ0s",
-            "title": "'Pretty Little Liars' Star Troian Bellisario's Family Staged Intervention",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "hlEkS_MuS8g",
             "title": "Polar Vortex Freezes Parts of US",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Waitress Receives $6,000 Tip",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "GUJEhneZFGU",
+            "title": "High Rise Terror:  Massive Blaze on the 20th Floor",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H02PZKK1SGY",
-            "title": "A banker from Connecticut is charged with killing a hotel worker in the Caribbean | ABC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZVFj9XMW7QU",
             "title": "An army veteran was given a ride by police to his doctor’s appointment | ABC News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Growing Up Buttafuoco | 20/20 | PART 1",
             "secondDuration": 574,
             "group": "group_7"
+        },
+        {
+            "videoId": "0zi75o1-RUs",
+            "title": "Growing Up Buttafuoco l 20/20 l PART 5",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

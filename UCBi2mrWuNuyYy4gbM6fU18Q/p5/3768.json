@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KBEuZUflcSo",
-            "title": "Trump holds joint news conference with French Pres. Macron at G7 summit | ABC News Live coverage",
-            "secondDuration": 4794,
-            "group": "group_7"
-        },
-        {
             "videoId": "toa3gotHpBM",
             "title": "The Debrief: Trump at G7, Hong Kong clashes, Brazil rain forest wildfires",
             "secondDuration": 1556,
@@ -31,8 +25,14 @@
             "title": "Police fire warning shots, tear gas amid Hong Kong protests | ABC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "957rWPqrGa0",
+            "title": "Colts star Andrew Luck stuns with retirement announcement l ABC News",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

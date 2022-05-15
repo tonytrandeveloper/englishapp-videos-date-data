@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FZTKf6zBmnw",
-            "title": "McConnell Promises Congress Is 'Not Leaving Here Without A Covid Package' | NBC News NOW",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "eDkbz4EWxYI",
             "title": "104-Year-Old Spanish Covid-Beater Celebrated By Hospital Staff | NBC News NOW",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "President-Elect Biden Speaks After Electoral College Vote | NBC News NOW",
             "secondDuration": 821,
             "group": "group_7"
+        },
+        {
+            "videoId": "MIMXxUdgLoU",
+            "title": "Biden Delivers Remarks On Electoral College Vote Certification | NBC News",
+            "secondDuration": 1108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

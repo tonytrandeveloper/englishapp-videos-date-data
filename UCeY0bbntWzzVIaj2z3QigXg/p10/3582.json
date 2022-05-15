@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-g5RePn5QCY",
-            "title": "Obese Crash Test Dummies Introduced | NBC News",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "huLmWtat-RY",
             "title": "Why Nik Wallenda Didn't Take a High-wire Selfie | NBC News",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Ebola Quarantine An Overreaction - Liberian President | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "zH5mnv25EGs",
+            "title": "AT&T Unlimited Data Plans Misleading | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

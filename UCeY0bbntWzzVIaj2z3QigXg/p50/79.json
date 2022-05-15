@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-B4zY2c0nrc",
-            "title": "Nightly News Full Broadcast - October 29th",
-            "secondDuration": 1139,
-            "group": "group_7"
-        },
-        {
             "videoId": "aLac5rHgPsE",
             "title": "Top Story with Tom Llamas - October 29th | NBC News NOW",
             "secondDuration": 2583,
@@ -301,8 +295,14 @@
             "title": "Translator’s Family Stranded in Afghanistan, Desperate And In Danger From Taliban",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "CvYpuUV6wTc",
+            "title": "Severe Weather From Coast To Coast",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

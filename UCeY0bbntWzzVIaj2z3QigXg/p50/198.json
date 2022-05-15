@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "r4nRU6jrRfk",
-            "title": "Central CA Reaches Zero Percent ICU Capacity, Leaving 27 Million Vulnerable | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y8tjtaFXCFw",
             "title": "Pence Receives Covid Vaccine On Live Television | NBC Nightly News",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Biden Campaigns For Jon Ossoff And Rev. Raphael Warnock In Georgia | NBC News",
             "secondDuration": 1071,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZTKf6zBmnw",
+            "title": "McConnell Promises Congress Is 'Not Leaving Here Without A Covid Package' | NBC News NOW",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

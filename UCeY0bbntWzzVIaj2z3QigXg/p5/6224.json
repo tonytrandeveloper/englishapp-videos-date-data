@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3DGkyS4mVvQ",
-            "title": "Bernie Sanders Launches Facebook Live Show To Get His Message Out | NBC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "uQz9eZ0Iukk",
             "title": "The State Of America's Bridges And Infrastructure | NBC News",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "March Madness: South Carolina Readies For First Final Four Ever | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "tUhohwrCss4",
+            "title": "Three-Year Degree Programs Cut College Costs | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

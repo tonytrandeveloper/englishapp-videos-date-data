@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "rtHONuTOlqo",
-            "title": "Chipotle Sued Over Calorie Count Claims",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "msn3i22FgVs",
             "title": "Parent of Child in Chattanooga School Bus Crash Full Interivew",
             "secondDuration": 231,
@@ -301,8 +295,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "aawSMBaLAu8",
+            "title": "Trump Transition Team Announces Sen. Jeff Sessions as AG Nominee",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

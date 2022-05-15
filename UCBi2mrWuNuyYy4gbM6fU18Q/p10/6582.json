@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qwnRysFDLl4",
-            "title": "Jon and Kate: How They Fell in Love",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "aGS3pVYA-jQ",
             "title": "Roundtable: Health Care Reform",
             "secondDuration": 917,
@@ -61,8 +55,14 @@
             "title": "The Beatle Re-Invasion",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "vTz2x9G52Qk",
+            "title": "Weekend 'GMA' Turns 5!",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

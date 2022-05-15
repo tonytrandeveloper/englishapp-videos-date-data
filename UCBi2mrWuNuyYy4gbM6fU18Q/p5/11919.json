@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D1UWG4vWMco",
-            "title": "Imagine Me and You Contest",
-            "secondDuration": 21,
-            "group": "group_7"
-        },
-        {
             "videoId": "NpbhzOfoHKc",
             "title": "Emeril Lagasse's Thanksgiving Leftover Ideas",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "JLo Fiat Commercial Body Double",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "B-CIbXSuBxo",
+            "title": "Ashton Kutcher's Mistress Speaks Out",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

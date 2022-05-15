@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "maK2sthjlJU",
-            "title": "Meet The Press Broadcast (FULL) - Dec. 12",
-            "secondDuration": 2851,
-            "group": "group_7"
-        },
-        {
             "videoId": "oh4eC40BfBY",
             "title": "‘SNL' Tackles The Pandemic Era, America’s Vaccination Dilemma",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "‘National Lampoon’-Themed Home Fights To Keep The Christmas Lights On",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "pp6mkIscllM",
+            "title": "Mass Shooting Plot Thwarted After Students Report Snapchat Messages To Police",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

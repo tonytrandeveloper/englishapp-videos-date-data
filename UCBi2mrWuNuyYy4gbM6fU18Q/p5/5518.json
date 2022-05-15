@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6bm-KXBYU7w",
-            "title": "President Donald Trump makes announcement on jobs",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "823TbWhzuJk",
             "title": "White House press briefing following President Donald Trump's remarks about NFL flag protests",
             "secondDuration": 2475,
@@ -31,8 +25,14 @@
             "title": "NFL star speaks out on the league's unity after Trump comments",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "fLLDZE_Jhys",
+            "title": "NFL players send message to Trump in national anthem dispute",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

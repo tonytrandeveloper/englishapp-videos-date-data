@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EBz1rba5gSU",
-            "title": "WEBCAST: Pakistan Protests",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "e3DXNCkWTnc",
             "title": "Bullied on the Bus: The Gift",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Your Voice, Your Vote:  The Likeability Gap",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "lDsT8SEwaO8",
+            "title": "Homegrown Terror Averted?",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

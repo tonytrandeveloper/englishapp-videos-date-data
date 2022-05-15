@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DpLSgtai9yA",
-            "title": "MIX: Weatherman vs Dog",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nm9oaNbvEgA",
             "title": "Cruise Ship Carrying Dallas Hospital Worker Docks in Texas",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "FRIDAY FUNNIES",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "l0J3U9NVKpc",
+            "title": "The Secret to How Singer Charli XCX Writes Hit Songs",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

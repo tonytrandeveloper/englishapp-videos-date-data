@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "msZ6oBXBRCs",
-            "title": "Majority Of Americans Think U.S. Is Heading In The Wrong Direction, According To NBC News Poll",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "Asr9v7b8Apo",
             "title": "Biden Considers Deploying U.S. Troops Near Ukraine",
             "secondDuration": 434,
@@ -121,8 +115,14 @@
             "title": "Omicron Cases Drop In Northeast Amid Vaccine Mandate Battle",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "KgRDhNWH_18",
+            "title": "Extreme Weather Hits The U.S.",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

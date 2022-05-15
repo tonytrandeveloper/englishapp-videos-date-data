@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_3_Bc5_32jc",
-            "title": "Kerry Defends Obama's Foreign Policy Record | NBC News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "LQAjQV-Zfh8",
             "title": "MH17 Crash Intensifies Relationship with Russia | NBC News",
             "secondDuration": 175,
@@ -301,8 +295,14 @@
             "title": "What Does 'GDP' Mean? | Show Me | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "t9_er_h_wI8",
+            "title": "Computers Teach Themselves to Play Pac-Man | Nerdwatch | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dX0vH6iAhfs",
-            "title": "Betty Ford Dies at Age 93: Wife of Gerald R. Ford and Former First Lady (07.08.11)",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFn438K6904",
             "title": "NASA Shuttle Launch: Atlantis Blasts Off From Cape Canaveral",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "Casey Anthony Closing Arguments: Who Has the Edge? The Prosecution or Defense?",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "p-JSZ8n2mhY",
+            "title": "Tour Boat Capsizes Off Coast of Mexico: American Tourist Dead",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

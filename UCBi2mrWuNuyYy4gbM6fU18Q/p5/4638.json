@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b7DSaZJHVaY",
-            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "FL9GqJempV0",
             "title": "Sen. Feinstein: WH blocked FBI in Kavanaugh probe",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Coaches, parents throw punches at youth football game",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "hZmGDWY_C-A",
+            "title": "FBI ignored testimony in Kavanaugh investigation: Report",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

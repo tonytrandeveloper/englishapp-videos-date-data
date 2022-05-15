@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mBgF9e4l2rI",
-            "title": "Poll: After Mueller Summary, Americans Are Still In 'Wait-And-See Mode' | Meet The Press | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "88UH-KbUaDc",
             "title": "Democrats Reject Barr Timeline, Demand Full Mueller Report | Meet The Press | NBC News",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Protests In Venezuela As Humanitarian Crisis Deepens | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "romOXXmK_Wg",
+            "title": "Pope Francis Explains Viral Video Of Him Withdrawing His Hand To NBC News | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

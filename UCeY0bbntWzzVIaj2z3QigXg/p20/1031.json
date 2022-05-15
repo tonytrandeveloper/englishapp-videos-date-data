@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G5cNJfTNuQ4",
-            "title": "Special Report: Trump Speaks During Netanyahu White House Visit | NBC News",
-            "secondDuration": 1417,
-            "group": "group_7"
-        },
-        {
             "videoId": "il8P4jle3e8",
             "title": "Figure Skater Alysa Liu, Colors Of Spring, Bald Buddies | NBC News For Universal Kids",
             "secondDuration": 459,
@@ -121,8 +115,14 @@
             "title": "Outrage After Pittsburgh Officer Found Not Guilty In Antwon Rose Killing | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "OXVcTUMcbBw",
+            "title": "U.S.-Backed Forces Declare Victory Over ISIS In Syria After Last Stronghold Falls | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

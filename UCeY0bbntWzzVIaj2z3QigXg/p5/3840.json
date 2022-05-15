@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kyNacDa_QvQ",
-            "title": "New NBC/WSJ Poll: Two Separate Races Emerge In Democratic 2020 Primary | Meet The Press | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "n4IA3ERONbg",
             "title": "Full Sanders: Pelosi Being 'A Little Bit' Too Tough On AOC | Meet The Press | NBC News",
             "secondDuration": 504,
@@ -31,8 +25,14 @@
             "title": "Popular Vacation Destinations Push Back Against Overtourism | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "A67L5I-oqec",
+            "title": "Many American Military Families Struggling With Hunger | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

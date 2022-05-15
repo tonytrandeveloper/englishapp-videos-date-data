@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aUdrAJoBkRw",
-            "title": "Kate Upton accuses Guess co-founder of sexual assault",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "AN8-pNnvJ5s",
             "title": "Millions of monarch butterflies flutter to the mountains in Mexico every October",
             "secondDuration": 416,
@@ -61,8 +55,14 @@
             "title": "Dow dives again as stocks fall overseas",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "XDCNowyPpe4",
+            "title": "A tiny community in South Korea is preparing in case of war with North Korea",
+            "secondDuration": 566,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

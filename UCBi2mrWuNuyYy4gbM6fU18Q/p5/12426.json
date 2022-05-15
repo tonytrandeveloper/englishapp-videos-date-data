@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jWumprRsN7I",
-            "title": "'Don't Ask, Don't Tell' Repealed, But Not Gone",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Ig1kN5XwCs",
             "title": "The Conversation: Game Show Guy",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Grouplove Acoustic: Naked Kids",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "pFmVZ-Z3QLI",
+            "title": "National Journal's Major Garrett on 'Top Line'",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

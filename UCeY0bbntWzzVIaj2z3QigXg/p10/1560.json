@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YEmxikRb4_Q",
-            "title": "Seoul Department Store Disinfected As South Korean Coronavirus Cases Spike | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "brsOXdEb9tc",
             "title": "Former GE CEO Jack Welch Dies At 84 | NBC News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Watch Joe Biden's Full South Carolina Victory Speech | NBC News",
             "secondDuration": 735,
             "group": "group_7"
+        },
+        {
+            "videoId": "oMNVqrMZD4M",
+            "title": "Watch 2020 Presidential Candidates React After South Carolina Primary Results | NBC News",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yPIz7LBIlGc",
-            "title": "Edward Sharpe and the Magnetic Zeros Interview Preview: Alex Ebert on Band's Evolution on \"Here\"",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "uore2cCdo60",
             "title": "Blizzard 2013: Boston Families Brace for Extreme Weather",
             "secondDuration": 186,
@@ -121,8 +115,14 @@
             "title": "Singing Walmart Cashier Goes Viral",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "zVvwFAyokX0",
+            "title": "Los Angeles Manhunt: Who Is Christopher Dorner?",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

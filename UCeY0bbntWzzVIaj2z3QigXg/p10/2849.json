@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iaIiYmnLFFM",
-            "title": "Steve Scalise On Tropical Storm Nate: 'Confident' New Orleans Is Ready | Meet The Press | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "w4RvDA3sKTk",
             "title": "Celebrity Chef Seamus Mullen Discovered How To Live A Healthier Life | Better | NBC News",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "NFL Calls Cam Newton’s Sexist Comments To Female Reporter ‘Disrespectful’ | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "M7wyI46VIVU",
+            "title": "AAA: Infotainment Car Technology Contributes To Distracted Driving Accidents | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

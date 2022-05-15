@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IMH7nlGjYhM",
-            "title": "Hannah Graham's Parents Plead For Her Return | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "-yMMqU0nx7c",
             "title": "People's Climate March: Worldwide Action | NBC News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "ISIS Coalition: What You Need To Know  | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "X9XHFjqsH5g",
+            "title": "3,000 Troops Headed To Ebola Hot Zone | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

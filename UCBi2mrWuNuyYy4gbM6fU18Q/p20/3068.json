@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_B_aBIRRf1g",
-            "title": "'American Idol' Front Row Fan Speaks Out",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "lDJ0-eTU7Is",
             "title": "TSA Frisking of 6-Year-Old Caught on Tape",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "Robert Redford Interview: \"The Conspirator\"",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "kRW4cKISbpQ",
+            "title": "Interview With Reps Pence and Van Hollen",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

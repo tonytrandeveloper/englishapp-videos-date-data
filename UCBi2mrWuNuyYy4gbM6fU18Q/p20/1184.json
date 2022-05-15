@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g2E32JEyMaA",
-            "title": "Fiery crash on Los Angeles highway",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "E33knL-CfCQ",
             "title": "'Briefing Room': Trump CFO immunity deal, Trump push back on Sessions,  Pompeo NK trip canceled",
             "secondDuration": 850,
@@ -121,8 +115,14 @@
             "title": "Miss America 2018 leads the call for Gretchen Carlson to resign",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "99ms4zemN2Q",
+            "title": "Asia Argento accuser Jimmy Bennett speaks out",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KketnUK5JWo",
-            "title": "LeBron James Chooses Miami Heat",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWd6Y_sEWBk",
             "title": "Swap Done: Spies Go Home",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Heat Wave's Impact on Travel",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "BPZgqLcTUEQ",
+            "title": "Spy Swap: Deal in Works With Russians",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eBzmF8Wvql0",
-            "title": "Parent holds 1st-grade teacher hostage",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "ugE-y44ikwM",
             "title": "New York City eyewitness describes deadly truck attack",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Possible terror attack leaves at least 8 dead in NYC according to Officials",
             "secondDuration": 12646,
             "group": "group_7"
+        },
+        {
+            "videoId": "9iFNj_-zXWQ",
+            "title": "Trump's attorney reacts to Russia investigation charges",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

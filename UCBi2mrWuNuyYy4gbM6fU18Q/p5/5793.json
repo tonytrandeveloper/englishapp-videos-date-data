@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gXdAKBYJsMA",
-            "title": "New details emerge in Otto Warmbier's medical condition",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "SINxkXGjakM",
             "title": "Estate of Playboy model Katie May suing chiropractor over her death",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "President Trump calls reports of obstruction of justice investigation a 'witch hunt'",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "mmLijKnnoGo",
+            "title": "Republicans and Democrats honor Rep. Steve Scalise at annual baseball game",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xKxz7Tpxvxk",
-            "title": "Michael Jace Sentenced to 40 Years",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "SaXZ56om39I",
             "title": "Muhammad Ali Funeral | Will Smith, Mike Tyson, & Others Carry Ali's Casket",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Rescue of Young Dolphin Caught on Video",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "v31tm86H2Mk",
+            "title": "Horse Learns to 'Play Dead'",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oBzU1bFNdGI",
-            "title": "New Congress Members Flex Their Muscles",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "UGdKy_nVHVQ",
             "title": "George Clooney takes on Sudan, Challenges the World to Pay Attention",
             "secondDuration": 685,
@@ -301,8 +295,14 @@
             "title": "Some Musicians Stand out With Holiday Classics",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "KE4EFpC-8YQ",
+            "title": "Healing Racial Divides Through Music",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

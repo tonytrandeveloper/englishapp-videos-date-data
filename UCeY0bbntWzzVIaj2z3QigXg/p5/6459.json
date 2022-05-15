@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vSjSox7yf3s",
-            "title": "President Obama Stresses Team Mentality: ‘We Are Americans First’ | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bcck7hr9Su8",
             "title": "Hillary Clinton's Full Concession Speech | NBC News",
             "secondDuration": 733,
@@ -31,8 +25,14 @@
             "title": "Chuck Todd: Donald Trump, Like Andrew Jackson, ‘Doesn’t Owe Anybody Anything’ | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "ratvcCZqjwU",
+            "title": "Katy Tur: Donald Trump's Acceptance Speech 'Gracious' | NBC News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

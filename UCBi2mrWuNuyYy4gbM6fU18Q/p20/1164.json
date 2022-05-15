@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ewSCGtEQeZM",
-            "title": "Brett Kavanaugh's testimony: The moments that mattered",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "AxwiaaPLtcg",
             "title": "Americans around the US tune into Kavanaugh, accuser hearing",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "'The Briefing Room': Trump at the UN, Kavanaugh Accusations | ABC News",
             "secondDuration": 1528,
             "group": "group_7"
+        },
+        {
+            "videoId": "61PPhs52S4M",
+            "title": "Trump backs two-state solution for Israeli-Palestinian conflict",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

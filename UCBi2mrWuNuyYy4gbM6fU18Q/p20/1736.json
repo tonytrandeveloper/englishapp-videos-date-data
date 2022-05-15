@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Hx0pSpTnqOI",
-            "title": "Alligator Attacks Woman, Chomps off Hand",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "HBxj1GqAqAc",
             "title": "Making a Murderer Brendan Dassey's Conviction Overturned",
             "secondDuration": 479,
@@ -121,8 +115,14 @@
             "title": "Boy Falls Off Roller Coaster in Pennsylvania",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "dp1DSIeuHXU",
+            "title": "JetBlue Flight Turbulence Severely Injures 24",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

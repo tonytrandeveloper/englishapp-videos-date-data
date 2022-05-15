@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lv_GYfEaJU4",
-            "title": "Homeowners Hit Jackpot With Apple",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "0meqcKTAcMU",
             "title": "Westboro Baptist Goes to the Supreme Court",
             "secondDuration": 468,
@@ -61,8 +55,14 @@
             "title": "Guilty: Petit Trial Verdict",
             "secondDuration": 406,
             "group": "group_7"
+        },
+        {
+            "videoId": "vjf4e7ZAc9M",
+            "title": "Tsunami of Toxic Sludge",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

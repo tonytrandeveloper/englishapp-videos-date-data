@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "skDd61mPda0",
-            "title": "8-year-old meets his bone marrow donor for the 1st time",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "zNFnVIlE6cA",
             "title": "Island of Puerto Rico 'destroyed' by Hurricane Maria",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump meets with UK PM Theresa May amid UN General Assembly",
             "secondDuration": 892,
             "group": "group_7"
+        },
+        {
+            "videoId": "pPXw7jymWaM",
+            "title": "Former President Obama speaks at Gates Foundation event",
+            "secondDuration": 2922,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6GzWXI-O1WQ",
-            "title": "Flooding and Falling Ice as Temperatures Rise in the Northeast",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "McBCV-aFYK8",
             "title": "Emailgate: Hillary Clinton Defends Private Email Account",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Firefighters Save Baby From Burning Home",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8bAlHeBrfs",
+            "title": "The League: Dating App With Higher Standards?",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

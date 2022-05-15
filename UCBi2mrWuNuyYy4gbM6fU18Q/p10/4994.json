@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TGobbEDwpno",
-            "title": "'This Week' Web Extra: Peter Baker's 'Days of Fire' - NY Times White House Corresponden on New Book",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "i6RM-mLlHIE",
             "title": "BART Maintenance Workers Killed by Out-of-Service Train",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Lupita Nyong'o Interview: 'This Week' Sunday Spotlight",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "nSX-5wy53eg",
+            "title": "'This Week': 2016 Presidential Election Forecast - Jeb Bush, Roundtable on What to Expect",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

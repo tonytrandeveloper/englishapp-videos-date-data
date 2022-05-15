@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z6TlyrToXqQ",
-            "title": "Third Covid Wave Devastates ICUs in Europe | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "U21jy9OQiIQ",
             "title": "European Micronation San Marino Begins Administering Russia’s Sputnik V Vaccine | NBC News NOW",
             "secondDuration": 269,
@@ -31,8 +25,14 @@
             "title": "Surveillance Video Shows Moments Before Atlanta Spa Shootings | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "CoojQ-EROHk",
+            "title": "Cuomo Faces New Sexual Harassment Allegation | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

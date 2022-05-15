@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "umzYjqlXnE8",
-            "title": "FBI Investigates Connecticut Plane Crash Mystery",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "wFO3aSFGEKs",
             "title": "Drink Beer For A Good Cause | ABC News",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Shark Attacks Surfer in Oregon",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "PeRgmo_qGG0",
+            "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

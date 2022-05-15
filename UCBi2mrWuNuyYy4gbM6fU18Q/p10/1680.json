@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cEOgzu1pLbs",
-            "title": "Reactions on the ground as Trump announces new sanctions against Iran l ABC News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y8NXruh2ZwY",
             "title": "Estranged husband charged with murder, could post $6M bond l ABC News",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Trump addresses the nation following Iran’s missile strikes on US forces in Iraq | ABC News",
             "secondDuration": 1074,
             "group": "group_7"
+        },
+        {
+            "videoId": "DrSSR3mihdo",
+            "title": "6.4 earthquake hits Puerto Rico leaving 1 dead, multiple injured l ABC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

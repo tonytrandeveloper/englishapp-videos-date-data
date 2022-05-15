@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PqU9XQO7Gcw",
-            "title": "Fiery crash snarls traffic in Kansas City, Missouri",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Sp_-E2jmlc",
             "title": "Charlottesville holds memorial service for woman killed in car ramming",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Trailer: Hora Cero/Zero Hour  | ABC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "oFzQkMbDOpE",
+            "title": "Arizona teacher raises money to buy 1,000 eclipse glasses for entire school",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

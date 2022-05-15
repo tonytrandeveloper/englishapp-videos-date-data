@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mZQ2IuwuzqA",
-            "title": "Recording: Ronald Reagan Called African U.N. Delegates 'Monkeys' | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "ieYEPwlAWuo",
             "title": "‘Fire Pantaleo!’ Hecklers Interrupt Debate With Eric Garner Chant | NBC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Police Searching For Killer Of 71-Year-Old Lyft Driver Who Was Shot To Death | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "IhXlGvnap78",
+            "title": "Trump Administration Reveals Plan To Allow Drug Imports From Canada | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

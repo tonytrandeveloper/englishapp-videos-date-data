@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nG9jPrXSDhg",
-            "title": "Son of 'Last Lecturer' Takes on Father's Fight",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "gZWmUTlPb9g",
             "title": "'Rolling Stone' Writer on McChrystal's Blunt Talk",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "52 Shot in Violent Chicago Weekend",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rdkg1uZ_syA",
+            "title": "The Conversation:  Too Soon to Leave Afghanistan?",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

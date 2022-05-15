@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eAIREUYF4L4",
-            "title": "Severe Weather Causes Destruction Across The U.S. | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "42v5GQg_23k",
             "title": "Humans Are Responsible For Climate Change, Report Says | NBC Nightly News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "North Korea Has Constructed A Miniature Nuclear Warhead, U.S. Officials Believe | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "voaIetuob3E",
+            "title": "Country Music Singer Glen Campbell Has Died | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

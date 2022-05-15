@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cTB1iargxjI",
-            "title": "Florida Sen. Marco Rubio Discusses the New Hampshire Primary",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "XsQOjAEovyg",
             "title": "Video Shows Chaos Aboard Royal Caribbean Cruise Caught in Storm",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Supermarkets of the Future | ABC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "3GeH9GpGhIs",
+            "title": "The 2016 Race For President Heats Up Ahead of New Hampshire Primary",
+            "secondDuration": 448,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

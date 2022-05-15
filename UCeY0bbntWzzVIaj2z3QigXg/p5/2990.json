@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8Ne8ZzoKIkQ",
-            "title": "Doctors Test Treating COVID-19 With Plasma Of Recovered Patients | NBC Nightly News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQCj32gNSoU",
             "title": "Coronavirus: Medical Workers Rush To New York City As Bed Spaces Fill Up | NBC Nightly News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "What You Need To Know About Coronavirus Stimulus Checks | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "K4cu2-UdLlo",
+            "title": "New Data Shows Social Distancing, Stay-At-Home Orders May Be Factor In Slowing Spread Of Virus | NBC",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

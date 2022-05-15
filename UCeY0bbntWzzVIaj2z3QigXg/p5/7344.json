@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wNoDG3jsJ7k",
-            "title": "Lester Holt Dateline NBC",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "l8oFllRGQQo",
             "title": "The 2011 Education Nation Teacher Town Hall Sunday September 25",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Stronger America live chat with MSNBC's Richard Lui",
             "secondDuration": 2270,
             "group": "group_7"
+        },
+        {
+            "videoId": "rZbWJOCHG5U",
+            "title": "Palin arrives at Tea Party rally in Iowa",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ip-yDq0wlp8",
-            "title": "Mysterious 'Music' Heard in Outer Space",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "aEAGOwT_i8A",
             "title": "Megabus Explodes in Flames on Illinois Highway",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Wins in Nevada, Looks Towards the Future",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "gpIDqqg4dxA",
+            "title": "Michigan Shooting Spree | 6 Killed",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

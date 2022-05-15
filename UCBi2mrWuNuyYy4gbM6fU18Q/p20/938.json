@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "37UQRV1IRX8",
-            "title": "FEMA chief describes latest Hurricane Dorian preparations | ABC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "P6ShYNAAyAQ",
             "title": "Hurricane Dorian tears through parts of the Bahamas",
             "secondDuration": 216,
@@ -121,8 +115,14 @@
             "title": "Coco Gauff advances in US Open, set to face defending champ",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCKukwohuWk",
+            "title": "911 dispatcher under fire for chastising woman who later died drowning in flash flood",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

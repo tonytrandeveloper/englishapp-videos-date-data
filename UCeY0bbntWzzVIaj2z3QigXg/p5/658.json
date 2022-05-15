@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LEk4NDk502I",
-            "title": "New York AG’s Office Releases New Video Of Cuomo Testimony To Investigators",
-            "secondDuration": 286,
-            "group": "group_7"
-        },
-        {
             "videoId": "CYAnBuFda5w",
             "title": "Covid Omicron Variant: What You Need To Know",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Biden: Omicron Variant Is 'Cause For Concern, Not A Cause For Panic'",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "LXQD-4HjmOk",
+            "title": "Gov. Reeves: 'I Think Roe [V. Wade] Was Wrongly Decided'",
+            "secondDuration": 630,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

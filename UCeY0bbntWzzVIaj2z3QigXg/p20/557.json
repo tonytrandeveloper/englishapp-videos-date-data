@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hzq5Vphs_28",
-            "title": "How Former Presidents Have Dealt With Health Challenges | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "cxoWnIBBDao",
             "title": "Trump Posts Video Saying ‘I Think I’m doing Very Well’ | NBC News",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "With Covid, Trump Needs To Isolate For 10 Days. Here's How That Differs From Quarantine. | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "tiiw5Ehezgw",
+            "title": "Watch live:  President Trump, First Lady test positive for Covid-19",
+            "secondDuration": 724,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

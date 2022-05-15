@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5ZOniCgliYk",
-            "title": "White House Press briefing after G-20, Donald Trump Jr.-Russian attorney meeting revelation (audio)",
-            "secondDuration": 3571,
-            "group": "group_7"
-        },
-        {
             "videoId": "uKRF9raKQOU",
             "title": "Conway: No meaningful information received in Trump Jr's meeting with Russian lawyer",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "Western wildfires force thousands of evacuations",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "EGdnJnh_L_k",
+            "title": "An American veteran wins gold in the military's Wounded Warrior Games",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

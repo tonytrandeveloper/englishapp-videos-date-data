@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qgxge2Bc2Wc",
-            "title": "Mystery Virus Kills Little Boy in New Jersey",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "4NvLvfcUb80",
             "title": "A Behind-the-Scenes Look at Bringing 'Frozen' to Life",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Secret Service Under Fire: Is the President Safe?",
             "secondDuration": 446,
             "group": "group_7"
+        },
+        {
+            "videoId": "oZsm30jmU3M",
+            "title": "America's Newest Memorial: 'In War, There are No Unwounded Soldiers'",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

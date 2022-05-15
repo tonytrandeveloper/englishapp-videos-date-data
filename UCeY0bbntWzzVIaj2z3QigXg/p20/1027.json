@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mBgF9e4l2rI",
-            "title": "Poll: After Mueller Summary, Americans Are Still In 'Wait-And-See Mode' | Meet The Press | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "88UH-KbUaDc",
             "title": "Democrats Reject Barr Timeline, Demand Full Mueller Report | Meet The Press | NBC News",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "George Clooney Calls For Boycott Of Nine Luxury Hotels Tied To Sultan Of Brunei | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "jNhIck2rKRI",
+            "title": "President Donald Trump On General Barr Releasing Mueller Report: 'I Have Nothing To Hide' | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

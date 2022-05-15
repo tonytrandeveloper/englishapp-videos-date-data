@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TCC1Ahp6O3o",
-            "title": "Man in Texas Shootout ID'd as Colorado Parolee",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "bgrS-ALUJH0",
             "title": "WEBCAST: Push for Gun Control",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "911 Operator Hailed as Hero",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "HRqsgh-WnZw",
+            "title": "Housing Market Roaring Back to Life",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

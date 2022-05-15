@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cHuutqa3CrE",
-            "title": "James Holmes Trail: Largest Jury Pool In History | NBC News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "fKwjHln6T5k",
             "title": "Lindsey Graham Warns Of Another 'Paris' | Meet The Press",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Marco Rubio: Cuba A 'Terrible Deal' For America | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "YULEHrPc8js",
+            "title": "Martin Luther King Accepts Nobel Prize | Flashback | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

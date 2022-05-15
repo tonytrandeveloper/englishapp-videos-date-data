@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vbS1MWNRFE0",
-            "title": "Celebrating Queen Elizabeth’s 70 Years On The Throne",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdx4KSmu_mU",
             "title": "Meet The Press Broadcast (Full) - Feb. 6th",
             "secondDuration": 2856,
@@ -121,8 +115,14 @@
             "title": "Hallie Jackson NOW - Feb. 4 | NBC News NOW",
             "secondDuration": 3219,
             "group": "group_7"
+        },
+        {
+            "videoId": "cKUSt37zl4Y",
+            "title": "Ukrainian Troops Use Chernobyl Ghost Town For Training Exercises",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

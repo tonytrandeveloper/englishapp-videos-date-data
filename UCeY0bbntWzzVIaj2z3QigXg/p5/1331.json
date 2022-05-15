@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FFP4XMMHlHU",
-            "title": "Consumer Prices Surged 5% in May, Largest Yearly Increase Since 08'",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "rA4mBLd3NkM",
             "title": "Morning News NOW Full Broadcast - June 10 | NBC News NOW",
             "secondDuration": 3049,
@@ -31,8 +25,14 @@
             "title": "Border Patrol Agents Struggle As Migrant Crossings Surge",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "BfHq2P8wWFc",
+            "title": "Employees Resist Returning To Work As Businesses Reopen Nationwide",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

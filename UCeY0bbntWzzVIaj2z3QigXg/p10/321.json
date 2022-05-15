@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zgjRxrbg8oA",
-            "title": "Blinken Seeks To Ease Russia-Ukraine Tensions",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "wPSalMzox-g",
             "title": "Congressional Leaders Scrambling To Avoid Government Shutdown",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - Dec. 2",
             "secondDuration": 2950,
             "group": "group_7"
+        },
+        {
+            "videoId": "k-Dv5MhSqRY",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3095,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

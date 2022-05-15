@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t4AyFGPbfaU",
-            "title": "American details coronavirus on cruise ship as passengers are quarantined l ABC News",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "ffFJ-1dpOxQ",
             "title": "Biggest moments from historic 2020 Oscars l ABC News",
             "secondDuration": 267,
@@ -61,8 +55,14 @@
             "title": "'I didn't attack Pete. Pete's been attacking me': former Vice President Joe Biden | ABC News",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "LX8D2zRyS90",
+            "title": "American couple stuck on cruise ship in Japan due to quarantine",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

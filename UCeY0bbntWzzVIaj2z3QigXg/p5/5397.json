@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E74voqZHzd8",
-            "title": "Phoenix Police Arrest Suspected Serial Killer | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "tmiYdsKXDlU",
             "title": "President Donald Trump Delivers Economy Speech From Pennsylvania Factory | NBC News",
             "secondDuration": 1496,
@@ -31,8 +25,14 @@
             "title": "Deadly Storm Makes Crossing The Street A Battle In The Netherlands | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "jldQpq28Y38",
+            "title": "Lifesaving Drone Rescues Swimmers Off Australian Coast | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

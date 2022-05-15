@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mp-FgK-Z8Lg",
-            "title": "100-Year-Old Woman Tries Running Into Record Books | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "FBOcJyvTQqg",
             "title": "Intelligence Chief Briefs On Cyber Security For Political Candidates | NBC News",
             "secondDuration": 180,
@@ -301,8 +295,14 @@
             "title": "2-Day Shooting Rampage Ends With Gunman's Capture Near Washington, DC | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3uF-GEzVHQ",
+            "title": "Speaker Ryan Refuses to Endorse Donald Trump, Trump Returns the Favor | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

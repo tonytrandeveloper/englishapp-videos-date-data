@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f5XnETDlxig",
-            "title": "This Morning’s Top Headlines – November 1 | Morning News NOW",
-            "secondDuration": 1561,
-            "group": "group_7"
-        },
-        {
             "videoId": "HDpFZ0_KZrE",
             "title": "Nightly News Full Broadcast - Oct. 31",
             "secondDuration": 1321,
@@ -61,8 +55,14 @@
             "title": "Meet The Press Broadcast (Full) - October 31st, 2021",
             "secondDuration": 2851,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKP6jcECR9k",
+            "title": "County to County: Seven Communities To Watch For 2022",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UQZZr8GdmIk",
-            "title": "Mitt Romney Takes the Stage at the Republican National Convention",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "OGFG_-IYl44",
             "title": "Backstreet Boys Reunion: Boy Band Back After Six Year Hiatus",
             "secondDuration": 289,
@@ -121,8 +115,14 @@
             "title": "RNC 2012: Newt Gingrich Links Romney's Agenda to President Reagan",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ZlB7aR-2h8",
+            "title": "RNC 2012: Church Members Share Moving Tale of Son's Tragic Death",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

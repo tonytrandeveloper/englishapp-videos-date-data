@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZfkqgWAWyJ4",
-            "title": "Prime Minister Johnson Hosts NATO Leaders At Downing Street | NBC News (Live Stream Recording)",
-            "secondDuration": 2854,
-            "group": "group_7"
-        },
-        {
             "videoId": "XaeQp-8-mko",
             "title": "Royals Host President Trump And First Lady For Tea In London | NBC News (Live Stream Recording)",
             "secondDuration": 7502,
@@ -61,8 +55,14 @@
             "title": "Bride And Wedding Guest Meet For First Time After A life-Saving Gift | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ckYMCb75Nc8",
+            "title": "Rep. Duncan Hunter To Plead Guilty To Misusing Campaign Funds | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

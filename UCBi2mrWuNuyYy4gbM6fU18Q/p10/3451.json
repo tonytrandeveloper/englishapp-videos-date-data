@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rcUkiW270WA",
-            "title": "Obama to Visit Louisiana to Survey Flooding Recovery Efforts",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "rDCwgO8KYQA",
             "title": "Donald Trump Insists He's Not Flip-Flopping on Immigration",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Five Including A Pregnant Woman Murdered in Alabama",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuVI9eDaa6o",
+            "title": "Usain Bolt Challenged by Prince Harry on the Track",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

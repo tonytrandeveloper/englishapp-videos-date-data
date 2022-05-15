@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8D1TvlDsnLs",
-            "title": "The Bottom Line on Health Care",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "km0ofKqfstU",
             "title": "Is it Ever OK to Date Your Boss?",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Letterman Extortion: Ransom or Revenge?",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRpOYTg-CH8",
+            "title": "John Berman vs. Dan Harris",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

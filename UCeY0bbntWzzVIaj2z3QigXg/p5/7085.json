@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l4wzqbPmREE",
-            "title": "Las Vegas Road-Rage Murder Suspect in Custody | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "AxD1nV9dZOw",
             "title": "Election 2016: Jeb Bush Distances Himself From Bush Family | NBC Nightly News",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "President Obama: 'We Are Not at War With Islam' | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "UmefPeeZC9k",
+            "title": "Record-Breaking Cold Freezes Eastern U.S. | NBC Nightly News",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

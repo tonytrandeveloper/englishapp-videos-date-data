@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "28nl--iIFfU",
-            "title": "Donald Trump Takes Late Night by Storm on 'Jimmy Kimmel Live'",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8qrVbcfubU",
             "title": "Former Players Join Lawsuit Against the NHL",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Judge Declares Mistrial for Baltimore Cop | ABC News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "8kRsmgsLHG8",
+            "title": "Jimmy Kimmel Grills Donald Trump on Doctor’s Note | ABC News",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

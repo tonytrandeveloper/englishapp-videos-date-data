@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2BkcVJeOAdY",
-            "title": "Mike Pompeo Defends President Donald Trump’s Foreign Policy On Capitol Hill | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWSXPQMf1pU",
             "title": "Secretary of State Mike Pompeo Testifies On North Korea, Russia | NBC News",
             "secondDuration": 10594,
@@ -61,8 +55,14 @@
             "title": "Ariane 5 Rocket Launch And SpaceX Falcon 9 Launch | NBC News",
             "secondDuration": 1598,
             "group": "group_7"
+        },
+        {
+            "videoId": "JfuckOZT-D4",
+            "title": "President Trump Admin Will Spend $12 Billion To Assist Farmers Hurt By Tariffs | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

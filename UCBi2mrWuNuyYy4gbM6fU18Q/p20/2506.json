@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6jVUc_4n6I4",
-            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "-gBgRK_0Prg",
             "title": "'Scandal' Season 3 Behind the Scenes Look",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Bear-y Talented!",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "AySyPB1WlUo",
+            "title": "Government Shutdown Day Three",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

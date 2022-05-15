@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GxKJlI_HALg",
-            "title": "Your Blood, Your Brain",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "-JaW8K60K1w",
             "title": "Your Three Words: Seal",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Nor'easter Takes Hold of East Coast",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "4_Bx31xroBo",
+            "title": "NYC UFO: Just a Bunch of Balloons?",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

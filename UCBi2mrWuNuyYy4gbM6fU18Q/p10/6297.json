@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UWshdVc4DvE",
-            "title": "Egg Recall Investigation",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "dtQK71NRLEs",
             "title": "Sea World Cited in Trainer's Death",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "FDA: Egg Contamination Source Unclear",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "bxXnBiOchcY",
+            "title": "Using Google to Track Down Criminals",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

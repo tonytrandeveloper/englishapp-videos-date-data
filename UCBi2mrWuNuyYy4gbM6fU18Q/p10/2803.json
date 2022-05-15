@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ac4w5dZBkHs",
-            "title": "Gulf Coast states brace for Tropical Storm Harvey",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UUEjlJ2l7w",
             "title": "'Jenny Jones Show' murder convict released from prison",
             "secondDuration": 194,
@@ -61,8 +55,14 @@
             "title": "Google to join forces with Walmart",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "uAEhEbDRRfs",
+            "title": "President Donald Trump Full Remarks to the American Legion",
+            "secondDuration": 2793,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lex82waof8E",
-            "title": "Briefing Room: Shutdown showdown, Rep. Steve King NY Times fallout, 20/20 election, Justice Ginsburg",
-            "secondDuration": 1356,
-            "group": "group_7"
-        },
-        {
             "videoId": "-0HEpa0Cc_s",
             "title": "The Debrief: Wisconsin teen found, US troops begin Syria pullout, shutdown day 21 | ABC News",
             "secondDuration": 1188,
@@ -31,8 +25,14 @@
             "title": "Bus driver hailed as hero for rescuing baby",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "-qR2VnKH2LQ",
+            "title": "Lawmakers say they see no path forward on shutdown",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "COXBtqZsMQc",
-            "title": "7th Democratic debate wraps up in New Hampshire | ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "5ln0qHye2_M",
             "title": "Steyer makes play for South Carolina | ABC News",
             "secondDuration": 628,
@@ -121,8 +115,14 @@
             "title": "Candidates discuss gun policy | ABC News",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "1TlKNGiN52E",
+            "title": "Democratic candidates discuss decriminalization of drugs | ABC News",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

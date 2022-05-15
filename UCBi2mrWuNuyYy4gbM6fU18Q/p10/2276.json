@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8rTtbO5dYiI",
-            "title": "New video shows terrifying moments of California bar massacre",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "eo0TMpVwoPM",
             "title": "Trump's pick for temporary AG faces possible legal challenge",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "'Briefing Room': California shooting, Jeff Sessions resignation,  Ruth Bader Ginsburg hospitalized",
             "secondDuration": 1636,
             "group": "group_7"
+        },
+        {
+            "videoId": "70S3CHHVpfE",
+            "title": "Bar shooting survivors recount horror",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

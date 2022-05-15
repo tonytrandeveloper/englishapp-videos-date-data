@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q6TMUrYPr4s",
-            "title": "Scenes From The Ground: Puerto Ricans Document Shattered Lives | NBC Latino | NBC News",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "eyPRFJCZtmw",
             "title": "Second Rockslide In Two Days At Yosemite National Park Injures Man | NBC News",
             "secondDuration": 58,
@@ -31,8 +25,14 @@
             "title": "At Least 22 Killed In Mumbai Stampede | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "4T04qNN1UfM",
+            "title": "HHS Secretary Tom Price Says He Will Pay Back Taxpayers For Use Of Private Jets | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

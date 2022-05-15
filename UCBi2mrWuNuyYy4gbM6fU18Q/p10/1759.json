@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OvA7bXtSotk",
-            "title": "Virginia schools closed in search for Marine",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "tODQDxRfWDU",
             "title": "America Strong: The Women of CMA",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Revelations and fallout from Day 1 of impeachment hearings l ABC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "MeMd1xeDDeQ",
+            "title": "Multiple NFL teams to send reps to Colin Kaepernick’s workout l ABC News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

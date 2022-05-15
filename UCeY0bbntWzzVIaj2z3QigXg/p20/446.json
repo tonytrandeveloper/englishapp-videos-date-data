@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y1jDeSaDA6c",
-            "title": "High School Students Speak Out About Stress And Pandemic Pressure | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "JN2JSYMpgt4",
             "title": "Vaccination Chaos As States Expand Eligibility | NBC Nightly News",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Raskin: 'We Have No Regrets At All' On Impeachment Trial Loss | Meet The Press | NBC News",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FQ9tQGFYXw",
+            "title": "CDC Director: 'We Have Hit The 50 Million' Mark For Vaccinations | Meet The Press | NBC News",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

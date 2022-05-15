@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SeDEiEdzHOQ",
-            "title": "Deadly arctic blast sweeps Northeast",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "CVP8haUC_Uw",
             "title": "Ex-Marine appears in court in Moscow",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "2019 Oscar nominations announcement live stream | ABC News",
             "secondDuration": 2742,
             "group": "group_7"
+        },
+        {
+            "videoId": "INySoK1B-UU",
+            "title": "The deadly risks women and their babies face at childbirth in the United States",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5_D0ZuNyXi0",
-            "title": "O'Reilly on Terror: 'Not Just a Few Bad Apples'",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "1uAi2svBYMU",
             "title": "Who Is Faisal Shahzad?",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "SCOTUS Fight Depends on Nominee",
             "secondDuration": 538,
             "group": "group_7"
+        },
+        {
+            "videoId": "AsZpSoUVaD8",
+            "title": "100504_ann_tl_2_YouTube 4x3_1.mpg",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

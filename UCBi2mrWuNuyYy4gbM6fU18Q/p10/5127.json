@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gl4EmnrRfPk",
-            "title": "WEBCAST: 19 Firefighters Killed in Arizona Wildfire",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2A_S4cdiE0",
             "title": "19 Firefighters Dead in Yarnell Hill Wildfire",
             "secondDuration": 246,
@@ -61,8 +55,14 @@
             "title": "Celebrity Double Standard Following Extreme Public Meltdowns?",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "eHA-kj_wCYY",
+            "title": "Ultimate Food Craze Has America Going 'Cronuts'",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

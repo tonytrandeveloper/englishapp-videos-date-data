@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PDyZduPfjSQ",
-            "title": "Blue in the Face: Avatar Fanatics",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "XdmGBGkOKU4",
             "title": "Charlie Signs Off for the Last Time",
             "secondDuration": 385,
@@ -121,8 +115,14 @@
             "title": "Robert Downey Jr. Is Sherlock Holmes",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "tyBuNina-_U",
+            "title": "Roll of the Dice",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

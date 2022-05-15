@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "588FrW1eAv8",
-            "title": "NBC News NOW Full Broadcast – August 24, 2021",
-            "secondDuration": 3011,
-            "group": "group_7"
-        },
-        {
             "videoId": "KRR0xb6Y_RM",
             "title": "NBC Nightly News Full Broadcast - August 24th, 2021",
             "secondDuration": 1160,
@@ -61,8 +55,14 @@
             "title": "Community Remembers American’s Tallest Man As ‘Gentle Giant’",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Iv_NEsSQRE",
+            "title": "Biden: 70,700 People Evacuated From Afghanistan Since August 14",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

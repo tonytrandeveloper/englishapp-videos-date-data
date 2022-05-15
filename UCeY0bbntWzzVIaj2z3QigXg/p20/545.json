@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NJXjwwNLYcE",
-            "title": "Biden Delivers Remarks On Health Care | NBC News",
-            "secondDuration": 2055,
-            "group": "group_7"
-        },
-        {
             "videoId": "D2vCLBi_89g",
             "title": "Trump Announces Plan To Provide Covid Vaccines To Nursing Homes At No Cost | NBC News NOW",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "Grandfather Pleads Guilty In Toddler’s Cruise Ship Death | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "mVVWHpR5z0k",
+            "title": "U.S. Surpasses 8 Million Coronavirus Cases | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

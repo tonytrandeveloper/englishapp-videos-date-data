@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XoLLaPsWgOE",
-            "title": "Morning News NOW Full Broadcast - June 8 | NBC News NOW",
-            "secondDuration": 2913,
-            "group": "group_7"
-        },
-        {
             "videoId": "LrLbr9PrxSQ",
             "title": "Virginia, New Jersey Begin Voting In Gubernatorial Primaries",
             "secondDuration": 272,
@@ -121,8 +115,14 @@
             "title": "2 Adults, 4 Children Dead After Dead-On Collision On Kentucky Highway",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "AVO30A6z7eQ",
+            "title": "Morning News NOW Full Broadcast - June 7 | NBC News NOW",
+            "secondDuration": 2956,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

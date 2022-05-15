@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oY4p5pAx-lU",
-            "title": "White House Touts Biden’s Trip After Putin Summit",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "h-sY9Btx6_A",
             "title": "Fewer Homes For Sale Causing Lag In Housing Market",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Rafael Nadal To Skip Wimbledon & Tokyo Olympics",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "GVGA-6RT2E8",
+            "title": "McConnell Shuts Down Manchin’s Voting Rights Compromise Head Of Vote",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

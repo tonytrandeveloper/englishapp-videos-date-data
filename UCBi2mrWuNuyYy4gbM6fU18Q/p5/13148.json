@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-Wi4vn8PcPI",
-            "title": "George's Bottom Line on Tea Parties",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "MlvEty_VXEg",
             "title": "Captured Dolphins Released in Japan",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Yale Student Missing Without a Trace",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugYE3djp09Y",
+            "title": "When Animals Attack",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

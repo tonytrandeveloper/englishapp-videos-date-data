@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eQMVhkfvLto",
-            "title": "Fort Bragg’s Real Captain America and His Amazing Rescue",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "QI1JZZNnftk",
             "title": "Bikers’ Revenge? Reports of Retribution Threat Over Deadly Shootout in Waco",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Key City in Iraq Falls to ISIS",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "0g9L4sOPHFE",
+            "title": "What Happens When Only President Obama Has an Umbrella?",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

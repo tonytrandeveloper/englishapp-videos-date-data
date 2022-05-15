@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TME9NoTIA3Q",
-            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "xCOe8IFVhm8",
             "title": "Shark Attack Survivors Jump Back Into Ocean With Sharks",
             "secondDuration": 523,
@@ -121,8 +115,14 @@
             "title": "2016 BET Awards | Beyonce Surprise Opening",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "0p2ulgRcYHY",
+            "title": "2016 'World's Ugliest Dog'",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

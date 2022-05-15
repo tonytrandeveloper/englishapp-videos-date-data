@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m-2iSdUC6kU",
-            "title": "White House: President Obama, Donald Trump Have Spoken Since Oval Office Meeting | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "N7npa1fOgjA",
             "title": "Father Of Daughter Injured At Dakota Protest: Police Threw At Grenade At Her | NBC News",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "President Obama Gives Advice To Democratic Party, His Views On Nancy Pelosi, More | NBC News",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "tuxBiTwHNhU",
+            "title": "Jeff Sessions’ 1986 Confirmation Hearing | Flashback | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

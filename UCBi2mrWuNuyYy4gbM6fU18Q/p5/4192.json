@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dk6pDZEuSl0",
-            "title": "Federal authorities investigating fires at 3 black Louisiana churches",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "-kyU4tE6y_w",
             "title": "Felicity Huffman agrees to plead guilty in 'Varsity Blues' cheating scam",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Nielsen out at DHS, American Kidnapped in Uganda free, Louisiana Church fires",
             "secondDuration": 1670,
             "group": "group_7"
+        },
+        {
+            "videoId": "j2lqe3K1klk",
+            "title": "Mother says school 'failed' to protect her daughter",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fkldIKStTWQ",
-            "title": "Last decade was warmest on record: Report",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "l5ZfdgvQkmM",
             "title": "Empty villages covered in ash as volcanic eruption looms l ABC News",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "School gym torn apart by microburst l ABC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJ0Gpz_pi6A",
+            "title": "Jet plane dumps fuel over elementary school yard l ABC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

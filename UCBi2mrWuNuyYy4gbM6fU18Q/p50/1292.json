@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "aiIxwMb1SwE",
-            "title": "Toyota's CEO Apologizes",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "HdMryj2OWHY",
             "title": "Green Your Car: Go Electric",
             "secondDuration": 78,
@@ -301,8 +295,14 @@
             "title": "Winter Storm Slams Southern U.S.",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9pLEuDt29M",
+            "title": "Tragic Twist",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

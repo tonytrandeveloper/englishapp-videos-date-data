@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zHNJlpo6SFY",
-            "title": "Santa Fe School Shooting: Possible Explosive Devices Found | NBC News",
-            "secondDuration": 576,
-            "group": "group_7"
-        },
-        {
             "videoId": "L-97QJtUyG8",
             "title": "President Donald Trump On Santa Fe School Shooting: ‘We’re With You In This Tragic Hour’ | NBC News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Meghan Markle And Prince Harry Arrive At Windsor Castle For Wedding Rehearsal | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "MjlQpwFC3YA",
+            "title": "TSA’s New Watch List Monitors Passengers Who Have Gotten Physical With Officers | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

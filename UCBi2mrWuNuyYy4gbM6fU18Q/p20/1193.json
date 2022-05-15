@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UKCOCURqoyw",
-            "title": "'Briefing Room': Mueller probe, Manafort trial, Space Force, Melania's parents get citizenship",
-            "secondDuration": 835,
-            "group": "group_7"
-        },
-        {
             "videoId": "D3_9ewoYy1k",
             "title": "Arson arrest made in connection with California wildfire",
             "secondDuration": 159,
@@ -121,8 +115,14 @@
             "title": "Young girl attacked by shark in shallow water",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "RsVV8brvRZM",
+            "title": "Cops ambushed on 'National Night Out'",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

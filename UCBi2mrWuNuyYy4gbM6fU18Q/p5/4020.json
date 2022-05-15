@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9JmdTykYgkM",
-            "title": "Urgent search for Texas police chief in Galveston Bay, Texas l ABC NEWS",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "6SG_a6OBtHc",
             "title": "NASA announces plans to let tourists visit International Space Station",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "How YouTube's 'Hot Ones' 'humanizes' celebrities with hot sauce-covered chicken wings",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "gYp0gW0lRCU",
+            "title": "Students in California town destroyed by Camp Fire graduate",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DnJxCmXonco",
-            "title": "Serena Williams Upset at US Open, Ending Grand Slam Dream",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xu7mtcz_1Vk",
             "title": "Donald Trump Takes Over Late Night While Rick Perry Drops Out of Presidential Race",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Police Release Interrogation Tapes in Kayak Murder Mystery",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "a8a4n8FE4cQ",
+            "title": "New Study Suggests Lowering Top Blood Pressure Number Reduces the Risk of Heart Attack",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

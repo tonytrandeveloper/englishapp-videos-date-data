@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2EH4ZfKDRg8",
-            "title": "Kmart Employee Protests Thanksgiving Day Schedule",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "GmGBVHmXflA",
             "title": "Freezing Temperatures Grip the Country",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Student's Death Prompts Fraternity Investigation",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "aRHcbJ9DHEg",
+            "title": "What It's Like Inside a School Shooting Drill",
+            "secondDuration": 504,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

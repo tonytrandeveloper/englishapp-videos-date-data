@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7pUaWV7s5h8",
-            "title": "Rainfall hampering statewide search for alleged cop killer: Authorities",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "3RIs_QmVrDo",
             "title": "Pompeo says it would be 'tragic' to let the US-North Korea summit 'go to waste'",
             "secondDuration": 164,
@@ -121,8 +115,14 @@
             "title": "Top North Korea official travels to US",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "AiEzDHZxDT4",
+            "title": "Actor demands CNN retraction over sexual misconduct story",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

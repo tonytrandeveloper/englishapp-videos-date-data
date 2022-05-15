@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ua0vBgp3GDk",
-            "title": "In Search of the Headless Horseman",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkjuPRBT19M",
             "title": "Extreme Pumpkin Carver",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Victim Faces Garridos in Court",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "ds03yXzN89c",
+            "title": "Are Blueberry Farmers Exploiting Kids?",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

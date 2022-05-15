@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eWDpOpnONL4",
-            "title": "Can An Algorithm Save America's Justice System? | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NE62AY69y0",
             "title": "Earthquake Rattles Italian Island | NBC News",
             "secondDuration": 53,
@@ -121,8 +115,14 @@
             "title": "High Blood Pressure In At Least 2 Million American Children and Teens | NBC Nightly News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "D-fHsc0Mg3c",
+            "title": "Secret Service Budget Stretched Thin | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

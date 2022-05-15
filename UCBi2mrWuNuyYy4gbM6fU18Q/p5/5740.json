@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ybApUww4jXU",
-            "title": "Trump, Putin's high-stakes G-20 meeting",
-            "secondDuration": 444,
-            "group": "group_7"
-        },
-        {
             "videoId": "MXf7flkxFxg",
             "title": "Following the serial killer who murdered Versace",
             "secondDuration": 473,
@@ -31,8 +25,14 @@
             "title": "Putin denies involvement in 2016 election hacking",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "HNqu2rO2e_M",
+            "title": "Millions in path of deadly storms from Kentucky to Pennsylvania",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

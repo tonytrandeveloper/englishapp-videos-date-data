@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h3fLDFpWglA",
-            "title": "Airline bag handler arrested for alleged $250K heist | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qxHMirU3T0",
             "title": "J. Lo and Shakira to perform at Super Bowl halftime show | ABC News",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "Trump's acting intelligence chief testifies after whistleblower complaint released | ABC News",
             "secondDuration": 3176,
             "group": "group_7"
+        },
+        {
+            "videoId": "uW3Z2uGE5-A",
+            "title": "Whistleblower complaint bombshell",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

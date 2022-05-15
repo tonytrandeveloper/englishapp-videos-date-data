@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rFj7GI0U7v4",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2939,
-            "group": "group_7"
-        },
-        {
             "videoId": "3qMk1KMv2eI",
             "title": "Chinese Climbers First To Scale Mount Everest In 2020 After Coronavirus Cancellations | NBC News",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Widower Asks Twitter To Delete Trump's 'Horrifying Lies' | NBC Nightly News",
             "secondDuration": 491,
             "group": "group_7"
+        },
+        {
+            "videoId": "AO0C8RkP-Eo",
+            "title": "Protesters Gather In Minneapolis Where George Floyd Was Killed | NBC News NOW",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

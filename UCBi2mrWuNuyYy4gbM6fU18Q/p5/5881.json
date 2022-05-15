@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H6VPud8W4S4",
-            "title": "Michigan high school hosts '13 Reasons Why Not' project",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "AF1DlCw1nDg",
             "title": "President Trump reveals he planned to fire Comey before DOJ recommendation",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Science teacher and students make prosthetic arm for farmer",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "5DQvxJ6BCAU",
+            "title": "Shark warnings along the California coast",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

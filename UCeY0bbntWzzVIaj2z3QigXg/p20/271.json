@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3EyWy4Mg-ls",
-            "title": "FDA Expected To Authorize Third Vaccine Dose For Immunocompromised People",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmaSKfjLrDY",
             "title": "RSV Spreading In Summer Surge",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "U.S. Postal Service Plans Holiday Shipping Price Hikes",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gz5wvwt4b5k",
+            "title": "Afghan Soldiers in Kunduz Surrender As Taliban Seizes More Cities",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

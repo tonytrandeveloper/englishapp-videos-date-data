@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "f69XcGL239c",
-            "title": "Teen Binge Drinking Erupts in Scandal",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "4POSkBKp7Q0",
             "title": "Hunting for Air France's Black Box",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Paper or Plastic? Answer: Neither",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "IAtTistKETo",
+            "title": "College House Party Takes Dark Turn",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

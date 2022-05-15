@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qCSEO1VXOns",
-            "title": "‘I’ve Never Seen Anything Like It’: Tennessee Resident On Deadly Floods",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "pHuV1g-hbSg",
             "title": "Biden Calls On Private Companies 'To Step Up With Vaccine Requirements'",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Cuomo Makes Final Address As Governor Of New York",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aa2koSluth0",
+            "title": "Biden Delivers Remarks on Covid Vaccines - August 23 | NBC News",
+            "secondDuration": 1215,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

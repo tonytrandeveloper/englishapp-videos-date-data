@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bGQYXPijMQ4",
-            "title": "What Barack Obama Doesn’t Miss About The White House | NBC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "qNc20gfgHrY",
             "title": "President Barack Obama Speaks On The Dangers Of Climate Change | NBC News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Health Officials Warn Of Deadly Powassan Virus | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "WSuQrshVG1I",
+            "title": "A New French President: A Look At Challenges Ahead | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

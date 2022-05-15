@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X7nDU2Esp0s",
-            "title": "Trump Protests | Civil War Monuments Vandalized in Richmond",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yh77IH92HK0",
             "title": "Trump's Plane Lands in Washington D.C.",
             "secondDuration": 540,
@@ -61,8 +55,14 @@
             "title": "Man in Wheelchair Crowd Surfs at NOFX Concert",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "6DD6tOJ5vb4",
+            "title": "Wall Street Rebounds After Donald Trump Victory",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

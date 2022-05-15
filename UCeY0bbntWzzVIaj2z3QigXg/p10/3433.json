@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KVJYA8ikdO4",
-            "title": "Bernie Sanders: Police Must Be Held Accountable | Democratic Debate | NBC News-YouTube",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "EPvYXSMwNR8",
             "title": "Clinton: Must Stop Treating Drug Addicts As Criminals | Democratic Debate | NBC News-YouTube",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Marco Rubio On Immigration, ISIS, Ted Cruz (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 427,
             "group": "group_7"
+        },
+        {
+            "videoId": "JAnxf6AbppY",
+            "title": "Bernie Sanders Talks Guns, Iran, Democratic Debate | Meet The Press | NBC News",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

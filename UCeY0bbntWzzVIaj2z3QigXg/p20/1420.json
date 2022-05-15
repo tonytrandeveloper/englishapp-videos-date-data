@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oWLQOdABac0",
-            "title": "Facebook Just Announced Affordable Virtual Reality | Mach | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "HcnjSlkzZAg",
             "title": "Neil deGrasse Tyson On “Star Talk,” His Lowest Point, And All Things Deep Space (Full) | NBC News",
             "secondDuration": 1211,
@@ -121,8 +115,14 @@
             "title": "This Artist Is Using Glass To Explore How Mental Health Is Discussed | NBC Asian America",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "NPX3FY2_nVw",
+            "title": "California Wildfires: \"It Takes Your Life Away\" Residents Return To Nothing | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

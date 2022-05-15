@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "894mXgVIZBw",
-            "title": "Morning News NOW Full Broadcast - Feb. 16",
-            "secondDuration": 3195,
-            "group": "group_7"
-        },
-        {
             "videoId": "833K1OqNYoM",
             "title": "GOP-Led Arizona Senate Passes 15-Week Abortion Ban",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Santa Fe Mayor Addresses City’s Climate Change Issues",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "nYZOrRyzNxc",
+            "title": "Airport Reunites Young Boy With Lost Teddy Bear Through Viral Campaign",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

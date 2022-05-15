@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NRYF9qZCDwg",
-            "title": "Florida At Center Of Undeclared Elections | NBC Nightly News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "lWVfOes_hx4",
             "title": "Deadly Wildfire Ravages Northern California | NBC Nightly News",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "How A Russian Troll Farm Tried To Interfere With The Election...Again | NBC News Signal",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "e-b4XSzMbE8",
+            "title": "Do Sanctions Actually Work? | NBC News Signal",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

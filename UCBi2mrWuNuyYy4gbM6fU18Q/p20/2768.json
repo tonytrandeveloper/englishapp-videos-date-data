@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aNQmZLGtsog",
-            "title": "Taylor Swift: New Album, New Pressures",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "rDhY3azhtRU",
             "title": "Taylor Swift, Katie Couric Interview 2012: The Charmed Evolution of Taylor Swift",
             "secondDuration": 450,
@@ -121,8 +115,14 @@
             "title": "School Buses Over the Limit",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPB8aTulBko",
+            "title": "Real Money:  Turn Your Old Gadgets Into Cash",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

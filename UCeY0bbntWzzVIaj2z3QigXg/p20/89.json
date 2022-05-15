@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K9_lGG35QWI",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2871,
-            "group": "group_7"
-        },
-        {
             "videoId": "gyYLikKVpns",
             "title": "Philadelphia Streets Flooded After Water Main Break",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Top Story with Tom Llamas - Feb. 8 | NBC News NOW",
             "secondDuration": 2036,
             "group": "group_7"
+        },
+        {
+            "videoId": "f6Vu_AxofQw",
+            "title": "Inside Oklahoma’s Booming Marijuana Industry",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

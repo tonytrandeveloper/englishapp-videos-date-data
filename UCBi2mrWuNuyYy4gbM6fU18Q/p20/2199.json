@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t-8JFmpOFrM",
-            "title": "Facebook Fraud Suspect Paul Ceglia on the Run",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MCFAReOnJnQ",
             "title": "“Zoolander 2” Fashion Week Surprise",
             "secondDuration": 231,
@@ -121,8 +115,14 @@
             "title": "Firefighters Save Baby From Burning Home",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8bAlHeBrfs",
+            "title": "The League: Dating App With Higher Standards?",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

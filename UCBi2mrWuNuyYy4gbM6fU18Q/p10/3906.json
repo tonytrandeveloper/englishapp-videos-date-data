@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TwUZwYCiviM",
-            "title": "New Breeds Make Their Debut at the Westminster Dog Show",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "XA_Qd2QX8ps",
             "title": "Donald Trump's Tirade",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "How to Survive Falling Through Ice",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "R5gwXKHdnkA",
+            "title": "Leonardo DiCaprio Kisses Maggie Smith, Wins Big at BAFTA Awards",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "57kMM3J5h6s",
-            "title": "Trump, FAA ground Boeing Max 8 and Max 9 planes in US",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "BBma5h5d6Tw",
             "title": "FAA administrator explains data similarities between plane crashes",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "'Full House' actress appears in court in alleged college admissions scam",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "_wswUcOpP6k",
+            "title": "Trump issues emergency order grounding all 737 Max 8, Max 9 planes",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "viXOvxwdWVI",
-            "title": "Pittsburgh Pirates pitcher arrested for solicitation of child",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "XpjwCvb6Qg8",
             "title": "Watch Live: Ex-Trump aide Corey Lewandowski testifies before House Judiciary Committee | ABC News",
             "secondDuration": 18800,
@@ -121,8 +115,14 @@
             "title": "Trump backtracks after Saudi attack: ‘I don’t want war with anybody’",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "jenrB3tqz6g",
+            "title": "The Briefing Room: Iran, GM strike, Kavanaugh, Biden",
+            "secondDuration": 1760,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

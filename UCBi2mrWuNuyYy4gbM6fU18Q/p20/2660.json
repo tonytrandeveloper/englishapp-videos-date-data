@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t0fI-rSJTis",
-            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "jG-AgVf8Jzo",
             "title": "Pope Benedict XVI Resignation: What Does it Mean for Catholics in the US?",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: California Manhunt",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZ_Vf6EpfUs",
+            "title": "Family of Former Penn State Coach Speak Out",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

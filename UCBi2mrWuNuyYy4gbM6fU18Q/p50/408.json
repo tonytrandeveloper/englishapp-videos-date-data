@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MoCrwcWvqJ8",
-            "title": "Avenatti charged with misappropriating Stormy Daniels' money",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "l9KGcXOgbog",
             "title": "Trump storms out of meeting with Pelosi, Schumer",
             "secondDuration": 163,
@@ -301,8 +295,14 @@
             "title": "Great white shark believed to be lurking off Connecticut coast",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1Y9XXSIzcw",
+            "title": "Scientists study humpback whales for clues on climate change impact",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g1UeLRlCVHs",
-            "title": "Education Nation Highlights",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "UH-urZZA_fE",
             "title": "NBC News' Jo Kent: A Day On The Campaign Trail",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "ROUGH CUT: Salman Khan on the Future of the Khan Academy",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "kM7RPRmLy8c",
+            "title": "ROUGH CUT: Justice Sandra Day O' Connor on Keeping Civics Lessons Alive",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

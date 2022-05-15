@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0Hld8C5YqOk",
-            "title": "Dallas Officer Killed Remembered by Transit Chief",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "OnUCx5XVJBw",
             "title": "Inside the Sniper Attack on Dallas Police",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Dallas Shooting | Mother Gives Eyewitness Account",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "axsN_w9aHWs",
+            "title": "Dallas Police Ambush | Mayor Mike Rawlings Interview",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

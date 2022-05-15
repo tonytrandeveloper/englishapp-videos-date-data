@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TY_tHs286SU",
-            "title": "A Slow-Motion View of the Women's March | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "dPASQ1JDvB8",
             "title": "Inspiring America: Using Magic To Unlock The Healing Powers Of A Smile | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Daughter Remembers ‘Weather Nut’ Father Killed In Georgia Tornado | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "YaHNHfRO2GY",
+            "title": "Meet Peeqo, The Adorable, Sassy Robot That Speaks In GIFs | Mach | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

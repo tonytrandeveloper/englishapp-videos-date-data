@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ACes5mv-ouA",
-            "title": "Kim Jong Un, Trump shake hands, make history",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "QzoJXA4Ov5Y",
             "title": "'Very, very good:' Trump says of his meeting with Kim Jong Un",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Kim Jong Un, Trump shake hands for the first time",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "pD3VNgci7lI",
+            "title": "Trump and allies trade barbs at G7",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

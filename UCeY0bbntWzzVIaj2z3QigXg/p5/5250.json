@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g8endKw_3qg",
-            "title": "Work Smart: Learn From The Best Business Books | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "8R1A9JxbRnY",
             "title": "‘A Wrinkle In Time’ Is Probably Right About Multiple Dimensions | Mach | NBC News",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Fat Tire Biking: A Cool Way To Cycle Around Snowy Alaska | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "iBVyy2gthso",
+            "title": "Texas School District Has Anonymously Armed Employees Since 2007 | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GwvjVrUDh3Q",
-            "title": "France Terror Plot | 5 Suspects Arrested",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGXJ5N2Y3LQ",
             "title": "Trump Adds 2 More Names to His Administration, Including His White House Counsel",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Jill Stein Calls for Recount",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "P53Rquk53h8",
+            "title": "Boy Calls 911 to Invite Cops to Thanksgiving Dinner",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

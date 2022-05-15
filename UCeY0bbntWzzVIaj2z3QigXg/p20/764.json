@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OhZtvNHjWjw",
-            "title": "First Coronavirus Vaccine Trial Dose Given | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "MVX9CWcHPC4",
             "title": "Frustration At Lack Of Coronavirus Testing, Slow Results Continues | NBC Nightly News",
             "secondDuration": 703,
@@ -121,8 +115,14 @@
             "title": "COVID-19 State Of Emergency Places Madrid In Lockdown | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "1M5acB2fKrs",
+            "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

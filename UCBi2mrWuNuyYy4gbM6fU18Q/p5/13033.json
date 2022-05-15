@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cA9vBtuZYwE",
-            "title": "Steven King's Latest Nail-Bitter",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "08OGzJp_PPg",
             "title": "FBI Investigates Fort Hood Shooter",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Warning Signs",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "s4wofmm8P1g",
+            "title": "Oct. 24, 2002: D.C. Sniper Suspects Arrested",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

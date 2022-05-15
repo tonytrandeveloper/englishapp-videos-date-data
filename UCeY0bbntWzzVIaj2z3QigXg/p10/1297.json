@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5TvpVwS0qz0",
-            "title": "'Every American Is Affected By It' Trump Unable To 'Bluff His Way Out' Of COVID-19 | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "OezppaFym4I",
             "title": "Pence: 'Truly Remarkable Progress' On COVID Despite Spike In Infections | Meet The Press | NBC News",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Protesters Demand Justice For Elijah McClain As Outrage Grows | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "159MPoIukPg",
+            "title": "Florida Reports Nearly 10,000 New Coronavirus Cases In One Day As State Halts Reopening | NBC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

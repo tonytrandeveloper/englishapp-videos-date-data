@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GRI3RIfVDJQ",
-            "title": "Oscars Countdown: Red-Carpet Worthy Makeovers",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "jCqZgghtm58",
             "title": "Celine Dion's 1st Performance Since Husband's Death",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Combating Rhino Poaching in Africa with Drones",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "hPwptjDWsTI",
+            "title": "Ted Cruz | Loss Speech after Nevada Caucus",
+            "secondDuration": 572,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

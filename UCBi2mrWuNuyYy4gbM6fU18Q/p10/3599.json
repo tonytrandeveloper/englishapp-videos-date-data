@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rYimk6I6fLY",
-            "title": "Bear Attacks Marathon Runner",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "fw826uPacWw",
             "title": "Donald Trump, Jr. Discusses Father's Campaign Changes",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "Why Did Donald Trump Fire His Campaign Manager?",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ia7cRGd5EAQ",
+            "title": "Hear Omar Mateen's 911 Call",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

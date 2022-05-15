@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jqCXi0yEsZU",
-            "title": "Republican Lawmakers Cite Conspiracy Theories At Social Media Hearing | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "JdnL5hGdG3g",
             "title": "President Donald Trump: I Have \"Full Faith And Support\" For U.S. Intelligence Agencies | NBC News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Lester Holt’s Final Thoughts On The President Donald Trump-Vladimir Putin Meeting | NBC Nightly News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "ujQp192AueM",
+            "title": "Russian TV Praises Vladimir Putin After President Donald Trump Meeting | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

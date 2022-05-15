@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XgMiHO7WVIk",
-            "title": "Experts Warn Of Election Disinformation Aimed At Black And Latino Voters | NBC Nightly News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "b51GOCP1Qoc",
             "title": "Coronavirus Hospitalizations At Peak In At Least 16 States | NBC Nightly News",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Early In-Person Voting Begins In Florida | NBC News NOW",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "fxM8iAEIvY0",
+            "title": "Trump On Fauci: 'He Has A Bad Arm, But He's A Good Guy' | NBC News NOW",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

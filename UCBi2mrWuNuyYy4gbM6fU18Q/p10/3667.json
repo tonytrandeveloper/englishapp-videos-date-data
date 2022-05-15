@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ybYNdL0AUYQ",
-            "title": "NYC Bank Burglary Through Roof Is Latest in Heists by 'Pros,' Police Say",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "axOMbS9jP28",
             "title": "Plane Lands at LAX After Receiving Threat",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "The Arctic Free Divers of Russia",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRsMtOiT2iE",
+            "title": "Charles Koch on the Lessons of His Father",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g-p560xPc3c",
-            "title": "EBOLA: How Dangerous Is It?",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUJPjGE5Dlo",
             "title": "INSOMNIAC KITCHEN: Tacos Taken Up a Notch",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Ebola: Heightened Alert Across America",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "xes5PzOucko",
+            "title": "James Cameron’s Deep Sea Challenge in 3D",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

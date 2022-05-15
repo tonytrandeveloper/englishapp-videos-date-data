@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qyTJEwWNCDE",
-            "title": "Rep. Aaron Schock Gives Farewell Speech",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "vCo0ZZ8XGaE",
             "title": "Ted Cruz, Zayn Malik Included in Late Night Monologues",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "‘Downton Abbey’ is Coming to an End",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "-jq62grrjB0",
+            "title": "Andreas Lubitz: Details Revealed about Germanwings Co-Pilot",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

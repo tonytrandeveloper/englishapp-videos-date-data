@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JrCZrsTvgQ4",
-            "title": "ISIS Attack Plan: Threat to the US Homeland?",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "M21zD0IVwA8",
             "title": "Find Out Your Odds of Hitting the Powerball",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "John Oliver on Making Current Events Funny",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "cubAa13BUwc",
+            "title": "In Case You Missed it: 2-6-15",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

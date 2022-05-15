@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fjboDxEWjCg",
-            "title": "Mindy McCready Ignores New Court Order",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZpEgAI7Yla0",
             "title": "'Virgin Diaries' on TLC: The Life of an Adult Virgin",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Los Angeles Weather Leaves LAX Powerless; Powerful Santa Ana Winds Strongest in Years",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "tZLiWWK_TYI",
+            "title": "Meth Lab Crackdown in Kentucky",
+            "secondDuration": 482,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

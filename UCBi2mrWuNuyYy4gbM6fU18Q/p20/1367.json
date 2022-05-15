@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uBI4qDnpW3U",
-            "title": "President Donald Trump, Sen. Mitch McConnell deliver statement from the Rose Garden",
-            "secondDuration": 3360,
-            "group": "group_7"
-        },
-        {
             "videoId": "KSv2Ycmdfpw",
             "title": "President Trump remarks to media during cabinet meeting",
             "secondDuration": 1554,
@@ -121,8 +115,14 @@
             "title": "Multiple women describe alleged encounters with Harvey Weinstein: 20/20 Part 1",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "4e5qXZi5EB0",
+            "title": "Angelina Jolie, Gwyneth Paltrow claim Weinstein harassed them: 20/20 Part 2",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

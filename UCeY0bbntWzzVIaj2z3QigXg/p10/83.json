@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Ei3DnpMKRA",
-            "title": "NOW Tonight with Joshua Johnson - March 17 | NBC News NOW",
-            "secondDuration": 3223,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZ2zkPB6e-Q",
             "title": "WNBA Player Brittney Griner's Detention In Russia Extended Until May",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Disaster-Struck Communities Still Struggling After FEMA Aid Denied",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "WnoFSslt5ZQ",
+            "title": "Ukrainian Refugees Taking Shelter in Churches",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

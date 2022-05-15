@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xDOil81EZ94",
-            "title": "Barack Obama Calls GOP’s Relentless Obamacare Repeal Efforts ‘Aggravating’ | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "2vjbW5EiWyY",
             "title": "First Lady Melania Trump At U.N. Luncheon: Children Must Be Taught By Example | NBC News",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Category 5 Storm Heading To Puerto Rico | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXRXi_MwRcc",
+            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tceo9bdVOuA",
-            "title": "Grand Juror Speaks Out On Breonna Taylor Case | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "NFNaTjw8GZA",
             "title": "NASA Spacecraft Lands On Asteroid To Collect Sample | NBC News",
             "secondDuration": 5180,
@@ -31,8 +25,14 @@
             "title": "Video shows Customer's Racist Mask Rant After Refusing To Cover Her Face In California Starbucks",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "RC2xV923bSs",
+            "title": "How Police Departments Are Using Facial Recognition To Identify Protesters Breaking The Law",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

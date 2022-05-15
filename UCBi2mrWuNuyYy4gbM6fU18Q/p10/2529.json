@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z7qbUNJX7Xw",
-            "title": "Chemical weapons inspectors headed to site of suspected chemical attack",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "WeQFSGnGG6w",
             "title": "32-year-old NBA rookie describes his dream come true",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Trump says missiles 'will be coming' to Syria",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "UArVaxBwUBY",
+            "title": "Lakers called up 11-year minor league veteran",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

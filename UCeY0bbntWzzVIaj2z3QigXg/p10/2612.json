@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TxB2hv70SGE",
-            "title": "Police On Scene At School Shooting In Great Mills, Maryland | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "0BE3R3RCOsE",
             "title": "Chef Explores Family Narratives And Comfort Food Through New Book | NBC Asian America",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Opioid Plan Includes Death Penalty For Traffickers | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKVITDfXzfk",
+            "title": "President Donald Trump Sharpens Attack On Robert Mueller | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

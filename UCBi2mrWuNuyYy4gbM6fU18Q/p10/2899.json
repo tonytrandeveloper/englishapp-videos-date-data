@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ti_Jr-sRaAs",
-            "title": "Congressmen describe how the GOP baseball shooting unfolded",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "wVz_CZjN2R0",
             "title": "Congressman in critical condition after baseball practice shooting",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "London high-rise apartment building becomes deadly towering inferno",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "cr0NFtWND-k",
+            "title": "Shockwaves sent through the halls of Congress after shooting",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

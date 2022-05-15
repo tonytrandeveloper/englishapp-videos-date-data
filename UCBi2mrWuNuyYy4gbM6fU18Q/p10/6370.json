@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z6RuEgB-Wqc",
-            "title": "The Conversation: 101 Odd Uses for a Wedding Dress",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "UCJU7vF8j1w",
             "title": "Mike Myers on Life Beyond Movies",
             "secondDuration": 487,
@@ -61,8 +55,14 @@
             "title": "2010 Primaries: Sick of Politics as Usual",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "OQOCy8OZBvU",
+            "title": "America's Favorite Family: 'Modern Family' Cast",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "InA85ZI-pCA",
-            "title": "How to Survive a Plane Crashing into Water (Episode 3)",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "HtCsp0x_zqs",
             "title": "New Video of Alleged NJ Mall Carjacking Raises Safety Concerns",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Town of Ferguson on Edge",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "468OlgR7c00",
+            "title": "Bono's Harrowing Flight",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

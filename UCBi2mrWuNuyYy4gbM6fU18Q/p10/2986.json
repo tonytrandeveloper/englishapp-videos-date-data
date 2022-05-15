@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Xa47TeVS8mY",
-            "title": "Another suspected chemical weapons attack is latest chapter in brutal Syrian conflict",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "OpsIlnFQuis",
             "title": "Latest North Korea Missile Test | ABC News",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Corporate lawyer killed in shooting in Atlanta, suspect arrested",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "IkK2zMTnQYI",
+            "title": "High school junior takes his 93-year-old grandmother to prom",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

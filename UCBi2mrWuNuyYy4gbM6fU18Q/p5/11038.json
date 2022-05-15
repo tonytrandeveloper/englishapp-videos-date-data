@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7vc_T1mSmrU",
-            "title": "Train Hits Water Tanker",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "7L85K3gZDmE",
             "title": "Vote 2012: Mitt Romney Campaign",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "2012 Presidential Election Predictions; 'This Week' Roundtable Discussion",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMAQc2xqBlI",
+            "title": "Swing State Outlook for 2012 Presidential Election; 'This Week' Roundtable Discussion",
+            "secondDuration": 1209,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hk6q1QqzGhA",
-            "title": "Chelsea King's Parents Fight for Justice",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "avcNxjD-PSY",
             "title": "Amanda Knox Case File Opened",
             "secondDuration": 302,
@@ -121,8 +115,14 @@
             "title": "Obama's Final Health Care Push",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "vcLmmiY0VM4",
+            "title": "Chelsea King's Body Found",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

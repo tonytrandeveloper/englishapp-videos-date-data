@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DRbtcs2EjIY",
-            "title": "Inside A San Diego Detention Center Where Children Live In Limbo | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "SOrR0wpJLXw",
             "title": "President Donald Trump Talks Kim Jong Un, Immigration In Freewheeling Interviews | NBC Nightly News",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Stephen Hawking Laid To Rest In Westminster Abbey | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "O6UjNshYmB0",
+            "title": "Paul Manafort Headed To Jail, But Will President Donald Trump Pardon Him? | NBC News",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

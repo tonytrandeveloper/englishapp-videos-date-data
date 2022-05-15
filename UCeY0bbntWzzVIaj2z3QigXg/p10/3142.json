@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TGS1UO2r9-o",
-            "title": "President Trump: We Are Taking Strong Measures Against 'Radical Islamic Terrorism' | NBC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1BZoXv95GQ",
             "title": "President Trump Calls On Congress To 'Repeal And Replace Obamacare' | NBC News",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "The Modern-Day 'Romeo And Juliet' Who Died For Their Love | NBC News",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1N1Y77xqBk",
+            "title": "Chicago Seeing Little To No Snow Through Winter | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

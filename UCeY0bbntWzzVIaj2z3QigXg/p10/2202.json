@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wR5n8XFPCvE",
-            "title": "Pilot Nearly Killed During Military Exercise | NBC Nightly News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "4k51V9gStlk",
             "title": "Video Captures Terrifying Explosion During Five-Alarm Fire | NBC Nightly News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Police Respond To Fake Bomb Threats Nationwide | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "fDgxrRQJ1lk",
+            "title": "Watch Virgin Galactic Spaceplane Make Successful Test Flight | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

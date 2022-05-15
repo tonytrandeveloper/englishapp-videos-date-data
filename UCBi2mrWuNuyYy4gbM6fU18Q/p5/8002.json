@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gpDoBmGYJ04",
-            "title": "Inside the Manhunt for the 'Affluenza' Teen",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "yLXb5-4qE2A",
             "title": "LeBron James Tumbles Into, Injures Wife of PGA Star Mid-game",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Friend Of San Bernardino Terrorists Arrested | ABC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "5AMmhuJ33oA",
+            "title": "Tooth Myth Debunked | ABC News",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

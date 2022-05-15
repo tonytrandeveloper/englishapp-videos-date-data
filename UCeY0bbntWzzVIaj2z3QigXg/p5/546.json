@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QoVi5FXq48Y",
-            "title": "80 Years After Pearl Harbor, Survivors Reflect On The Day That Changed History",
-            "secondDuration": 798,
-            "group": "group_7"
-        },
-        {
             "videoId": "7CY9F2dQ33s",
             "title": "Morning News NOW Full Broadcast - Dec. 24",
             "secondDuration": 3072,
@@ -31,8 +25,14 @@
             "title": "Multiple Carjackings, Robberies Add To Crime Surge In Philadelphia",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "1mejS3RVPHk",
+            "title": "Sports World Reacts To Nationwide Covid Surge Due To Omicron",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

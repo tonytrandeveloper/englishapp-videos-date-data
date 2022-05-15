@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "XnKrZyVd-zQ",
-            "title": "What makes the super blue blood moon unique?",
-            "secondDuration": 371,
-            "group": "group_7"
-        },
-        {
             "videoId": "GvKqlsPDLnY",
             "title": "Notable moments from Trump's State of the Union address",
             "secondDuration": 313,
@@ -301,8 +295,14 @@
             "title": "At least 95 dead in Kabul suicide bombing",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "x9F1ybK34Bc",
+            "title": "Trump's first state of the union address comes amid Russia investigation",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

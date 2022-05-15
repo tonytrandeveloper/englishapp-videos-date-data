@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sU0K5XydASw",
-            "title": "The Debrief: Jussie Smollett arrest, Vatican sex abuse summit, alleged terror plot folied",
-            "secondDuration": 1603,
-            "group": "group_7"
-        },
-        {
             "videoId": "zvdfm2FCRqg",
             "title": "Police crack decades-old murder case using DNA",
             "secondDuration": 263,
@@ -31,8 +25,14 @@
             "title": "'Empire' actor Jussie Smollett taken into custody by Chicago police",
             "secondDuration": 508,
             "group": "group_7"
+        },
+        {
+            "videoId": "_6COzWi5pfY",
+            "title": "Coast Guard lieutenant accused of plotting terror attack",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

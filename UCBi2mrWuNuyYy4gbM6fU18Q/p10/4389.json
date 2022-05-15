@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Up4qAkx91PU",
-            "title": "NCAA Bracket: Craziest March Madness Fans",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qd4ZzNIeMaE",
             "title": "'Dancing With the Stars' Season Premiere: Behind the Scenes",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "March Madness 2015: Kentucky and Wisconsin Secure #1 Seeds",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "9AdwvyEg86o",
+            "title": "Ferguson Police Shooting: Jeffrey Williams Arrested",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

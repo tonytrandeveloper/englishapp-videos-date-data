@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Hg7RJ5wu4gU",
-            "title": "Officials to oversee police probe into officers' shooting of unarmed black man",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "xQVZoFjTsRs",
             "title": "Packages with 'potential destructive devices' could still be in the mail: FBI",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Family of unarmed black man shot 20 times demands justice",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "iayaqyGHOQo",
+            "title": "FBI investigates suspicious packages at several military bases",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

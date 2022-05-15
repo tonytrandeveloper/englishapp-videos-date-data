@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kMQ-JmwjT2c",
-            "title": "Top Story with Tom Llamas - Jan. 17 | NBC News NOW",
-            "secondDuration": 3012,
-            "group": "group_7"
-        },
-        {
             "videoId": "R039MhghTFw",
             "title": "New Bodycam Video Emerges In The Shooting Of Jason Walker",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Race to Rescue Manatees Dying At Unprecedented Rate in Florida",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "I3Vhi4I7dTY",
+            "title": "Dr. Bernice King Urges Americans To Use Their Voice",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

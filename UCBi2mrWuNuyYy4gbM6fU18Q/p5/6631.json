@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FI2yW4ye6zU",
-            "title": "Clinton Campaign Reacts to Trump's Election Results Claim",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "eRj8KyAeWSg",
             "title": "T-Mobile Fined $48M for Slowing 'Unlimited' Data Plans",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "Experts' Take on the Final Presidential Debate",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ea-o9Vdz7Es",
+            "title": "Third Presidential Debate Fact Check",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

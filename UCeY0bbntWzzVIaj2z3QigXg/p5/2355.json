@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ajh4XFGXgpo",
-            "title": "Watch Karen Pence's Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Ydzbb5pUAQ",
             "title": "Watch Kayleigh McEnany's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Melania Trump Urges Americans To Recognize Pandemic’s Toll On Mental Health | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "JyLfJicA1eg",
+            "title": "CDC Faces Backlash Over Controversial Change To Coronavirus Testing Guidance | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

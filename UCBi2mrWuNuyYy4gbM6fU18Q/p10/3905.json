@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GDF_T96uDew",
-            "title": "Winter Storm Creates Icy Conditions Across Several States",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "JrQix9OxRr8",
             "title": "Eliot Spitzer Denies Accusations of Alleged Assault",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "17 States Under Weather Advisory Because of Dangerous and Severe Cold",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "TwUZwYCiviM",
+            "title": "New Breeds Make Their Debut at the Westminster Dog Show",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

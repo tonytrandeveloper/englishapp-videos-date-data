@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZbHttUbh5IM",
-            "title": "White House Press Briefing- January 17, 2018 (Full) | NBC News",
-            "secondDuration": 2907,
-            "group": "group_7"
-        },
-        {
             "videoId": "fU90J3_ExEI",
             "title": "Former Gymnastics Coach Thomas Brennan Slams Larry Nassar For Sexual Abuse | NBC News",
             "secondDuration": 88,
@@ -301,8 +295,14 @@
             "title": "Big Changes Are Coming To Your Facebook News Feed | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "vybDq3d9B24",
+            "title": "Flu Is Widespread In 49 States | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

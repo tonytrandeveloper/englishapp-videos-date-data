@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-NJsutnyqOM",
-            "title": "Democratic National Convention | Stars at the DNC",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "u-QEZd_Vyl0",
             "title": "NYPD to Spend $7.5M on Vests, Helmets for Police",
             "secondDuration": 70,
@@ -301,8 +295,14 @@
             "title": "Donald Trump, Mike Pence Hit the Campaign Trail",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "O6icdH45DNk",
+            "title": "Florida Club Shooting | 2 Dead at Club Blu",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

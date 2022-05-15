@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MeMd1xeDDeQ",
-            "title": "Multiple NFL teams to send reps to Colin Kaepernick’s workout l ABC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIo3B1gMXbo",
             "title": "Holiday travel alerts for busiest travel days in history l ABC News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Trump impeachment hearings begin 20 years after Clinton proceedings | Nightline",
             "secondDuration": 626,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0C0nm8KGBw",
+            "title": "Impeachment battle goes public with millions watching",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

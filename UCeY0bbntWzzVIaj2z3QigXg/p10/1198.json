@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sFnmIkBsygI",
-            "title": "Watch President Jimmy Carter And Rosalynn Carter's Tribute To Joe Biden At The 2020 DNC | NBC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "0DnNj4Fy50Q",
             "title": "Watch Chuck Schumer’s Full Speech At The 2020 DNC | NBC News",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "Notre Dame Moves Classes Online After Coronavirus Outbreak | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "rNol4EhMCOI",
+            "title": "Postmaster General DeJoy Suspends Changes To Postal Service To Avoid Any Impact On Election Mail",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8h0mRyBjXv0",
-            "title": "One Couple's 30-Day Sex-Periment",
-            "secondDuration": 341,
-            "group": "group_7"
-        },
-        {
             "videoId": "lIJmmBwG1T4",
             "title": "Crisis in Iraq:  US launches Second Round of Airstrikes in Iraq",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Tropical Storm Iselle Batters Hawaii",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "mv0NZSg7eng",
+            "title": "California Driver Shot, Chases Down Assailant",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

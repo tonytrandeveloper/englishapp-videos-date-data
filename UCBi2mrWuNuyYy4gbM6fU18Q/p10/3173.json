@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5x7sybqWcFk",
-            "title": "New Video Revealed in Dylann Roof Trial",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "IMdZqm5jf3c",
             "title": "5 Marines Rescued After Osprey Goes Down Off Coast of Okinawa",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Bill Cosby Trial | Screaming Match Erupts Between Prosecutors, Attorneys",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZnqozmGGoG8",
+            "title": "Aleppo Has Fallen to the Syrian Government, Russia Says",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

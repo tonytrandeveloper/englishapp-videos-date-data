@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yQQX3oO9X-8",
-            "title": "The Moped Stunt Crews of Manila | NBC Left Field",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "y0p9kBq-sR4",
             "title": "Screams And Shouts As Venezuelan Opposition Leader Seized At Home | NBC News",
             "secondDuration": 46,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Speaks at Small Businesses Event at White House | NBC News",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "YKkyPB7gWXo",
+            "title": "White House Briefing | NBC News",
+            "secondDuration": 1463,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

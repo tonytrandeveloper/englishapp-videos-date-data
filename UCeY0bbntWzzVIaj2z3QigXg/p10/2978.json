@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CpV16BQfbrQ",
-            "title": "Ukraine's Hyper-Nationalist Military Summer Camp for Kids | NBC Left Field",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "WOPkFoOsqHg",
             "title": "Massive Iceberg Breaks Off Antarctica | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Christopher Wray Weighs In On Potential Loyalty Oaths, Illegal Political Requests | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-GfRGOGpas",
+            "title": "Christopher Wray FBI Nomination Hearing | NBC News",
+            "secondDuration": 16454,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

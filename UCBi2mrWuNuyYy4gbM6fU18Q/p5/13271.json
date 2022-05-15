@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oAXj-ico4Oo",
-            "title": "Jake Tapper on Obama's Road Blocks",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mq1_9D7IKag",
             "title": "Amplified: Mates of State",
             "secondDuration": 391,
@@ -31,8 +25,14 @@
             "title": "Sotomayor Showdown",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "nXdySAACBmw",
+            "title": "Weekend Window to Giant's Causeway",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

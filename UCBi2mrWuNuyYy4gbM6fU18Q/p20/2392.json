@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yarEbKyk8PU",
-            "title": "'Game of Thrones' Author George R.R. Martin",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "CkXR9Zkr0hU",
             "title": "Mt. Everest Tragedy: At Least 12 Dead",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "Spring Freeze",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgxquuGHv3o",
+            "title": "The Royals Down Under",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

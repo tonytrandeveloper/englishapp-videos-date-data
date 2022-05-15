@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k-StEtXWYM0",
-            "title": "Ebola Patients Discharged | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "eHF-HROmeIQ",
             "title": "Details Of Failed James Foley Rescue | NBC News",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Quantum Dots Changing Medicine | Nerdwatch | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "RNSTcb9pXTA",
+            "title": "California Wildfires Threaten Yosemite | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q29GjmFDiRA",
-            "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "LMfzdyel1Qc",
             "title": "Donald Trump On Protesters: 'They're Disrupters, They're Professionals' | Meet The Press | NBC News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Secret Service Agents Rush Stage to Protect Donald Trump At Rally | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "pZkW5AZa-v0",
+            "title": "‘Wounded Warrior Project’ CEO, COO Fired Amid Lavish Spending Scandal | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

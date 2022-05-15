@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fMeyJhoyvyM",
-            "title": "Connecticut Shooting Tragedy:  Two Brothers' Escape",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qp9xSkOePC0",
             "title": "Connecticut Shooting Tragedy:  The Victims",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Why Did Adam Lanza Snap?",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "bxz18i015tE",
+            "title": "Sandy Hook Elementary School Shooting: Shooter Forced Way Into School",
+            "secondDuration": 781,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZBLe2zJ3lig",
-            "title": "First FDNY battalion chief to enter the north tower on 9/11 set to retire",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q5vt_XuUXq4",
             "title": "Trump launches harsh attacks on Germany, NATO at summit",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "‘The Briefing Room': Trump at NATO summit, Judge Kavanaugh’s SCOTUS nomination | ABC News",
             "secondDuration": 4311,
             "group": "group_7"
+        },
+        {
+            "videoId": "jy0x5DLNEH8",
+            "title": "Russian pop star behind Trump Tower meeting taunts investigators",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

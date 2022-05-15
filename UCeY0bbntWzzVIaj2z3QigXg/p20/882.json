@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wnWrAjmHSDo",
-            "title": "President Donald Trump Presents The Medal Of Honor To Matthew Williams | NBC News",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "GZZk-Y9hsMg",
             "title": "Chuck Schumer: Vindman Should Be Given 'Appropriate Protections' After Testifying | NBC News",
             "secondDuration": 176,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Releases Photo Of ‘Hero Dog’ In Al-Baghdadi Raid | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "HRZhZHW1J0c",
+            "title": "Former Boston College Student Charged In Boyfriend’s Suicide | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

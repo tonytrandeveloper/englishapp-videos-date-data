@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3Nb9ngF8htQ",
-            "title": "NBC News NOW Full Broadcast - June 16th, 2021",
-            "secondDuration": 3012,
-            "group": "group_7"
-        },
-        {
             "videoId": "cd_m3KpfYCE",
             "title": "New Legislation Could Marginalize Transgender Community",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Mississippi Legislator Found Dead On Property Relative's Body Was Found",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "qGWVmH_EFAg",
+            "title": "Hungary’s Parliament Passes Anti-LGBTQ Law Ahead of 2022 Election",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

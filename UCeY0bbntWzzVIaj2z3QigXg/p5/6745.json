@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UA7pqlLoDd0",
-            "title": "Wildfire Forces Evacuations Of Alberta City | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "zgUlV7CwDxA",
             "title": "This School Is Helping Young Adults With Autism Make Movie Magic | NBC Nightly News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Cruz Unloads On Trump: ‘This Man is Utterly Amoral’ | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "nErlC-7fObE",
+            "title": "Prisoners Paint Others Who 'Should Be Behind Bars' | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

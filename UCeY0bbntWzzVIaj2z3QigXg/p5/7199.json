@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5Y2vsuVCvxg",
-            "title": "Russians Push Deeper Into Ukraine | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "S44KA6y5uBg",
             "title": "Brokaw Details Interview With Gorbachev | Flashback | NBC News",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "U.S. Native On Quest To Join ISIS | NBC News",
             "secondDuration": 298,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uq7KU5FVg_8",
+            "title": "Ebola Survivor Nancy Writebol Speaks Out | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

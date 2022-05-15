@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yh8bilaGvpg",
-            "title": "Kellogg's Workers Ratify Tentative Contract After Strike",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "TKsG1gXjNhw",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Dec. 21 | NBC News NOW",
             "secondDuration": 3100,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Dec. 21",
             "secondDuration": 1270,
             "group": "group_7"
+        },
+        {
+            "videoId": "-e1_wZYdMhA",
+            "title": "Truckers Protest 110-Year Sentence In Colorado Crash",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

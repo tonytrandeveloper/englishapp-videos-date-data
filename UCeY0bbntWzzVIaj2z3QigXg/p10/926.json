@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lgw7B-iaMdM",
-            "title": "Biden Looks To Begin Climate Policy With Executive Orders | NBC News NOW",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "kZjkhRRFQc8",
             "title": "How The Black Doctors COVID-19 Consortium In Philadelphia Is Working To Vaccinate Black Americans",
             "secondDuration": 634,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci Says We’re In A Race Against Time To Beat Covid Variants | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "zb3O6DupZeQ",
+            "title": "Biden Announces Covid Vaccine Supply Surge To States Across U.S. | NBC Nightly News",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

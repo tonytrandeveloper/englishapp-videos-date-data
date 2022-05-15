@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yP5ps1FxUPo",
-            "title": "1 Week Away Until Spring",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "XcD1uCfmZRI",
             "title": "Death Toll Increases after East Harlem Building Explosion",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Oscar Pistorius Trial: Forensics Take Center Stage",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "_xbPj2TW4Cc",
+            "title": "WEBCAST: Deadly Explosion",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

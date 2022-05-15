@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_Q2zm9Extkc",
-            "title": "Mach's Year On Review: 2017's Most Impressive Robots | Mach | NBC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "tQXPFQaa-78",
             "title": "Year In Review: The 10 News Stories That Defined 2017 | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "The Global Project Working To Eliminate Traffic Deaths | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "LVaHR1mbfaw",
+            "title": "President Trump Connects With Service Members On Christmas Eve At Mar-A-Lago | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

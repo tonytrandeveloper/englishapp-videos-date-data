@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7Xogghp8juU",
-            "title": "The Astronaut Who Agreed to Leave Earth for 342 Days",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "skjAnzUaiAk",
             "title": "East Village Fire: Gas Leak Possible Cause of Explosion",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "‘Downton Abbey’ is Coming to an End",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "-jq62grrjB0",
+            "title": "Andreas Lubitz: Details Revealed about Germanwings Co-Pilot",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

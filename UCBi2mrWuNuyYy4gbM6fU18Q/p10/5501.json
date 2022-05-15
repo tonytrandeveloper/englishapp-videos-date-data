@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UCDiw3R8wks",
-            "title": "Guy Fieri's New York Times Food Critic Review Slams New Eatery",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "zwvnHAPgjMg",
             "title": "Classified Documents Taken from Alleged David Petraeus Mistress' Home",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "'The Outpost' Recounts U.S. Military Heroism in Afghan War",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nrdmarb7M_c",
+            "title": "John McAfee: Belize Police Searching for Antivirus Pioneer",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

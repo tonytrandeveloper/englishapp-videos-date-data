@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ftd87dQ3gU0",
-            "title": "Live: Arizona Governor Gives Coronavirus Updates | NBC News",
-            "secondDuration": 4288,
-            "group": "group_7"
-        },
-        {
             "videoId": "PoE-HVH_bWI",
             "title": "McEnany: ’Science Should Not Stand In The Way’ Of Schools Opening | NBC News NOW",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Into the Philadelphia D.A’s Office | Into America Podcast – Ep. 42 | NBC News and MSNBC",
             "secondDuration": 1075,
             "group": "group_7"
+        },
+        {
+            "videoId": "q8MCadLDKG4",
+            "title": "Live: Trump Remarks On Environmental Regulation Rollbacks | NBC News",
+            "secondDuration": 2723,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

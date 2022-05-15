@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PCB9J2_3Lxo",
-            "title": "New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5668,
-            "group": "group_7"
-        },
-        {
             "videoId": "rtJbO51B5WM",
             "title": "Thank you, heroes. | NBC News & MSNBC",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "CDC Recommends Americans Wear Non-Medical Cloth Masks As U.S. Coronavirus Cases Top 270,000",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LY0qJUN0oU",
+            "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OMPioDtqct4",
-            "title": "Donald Trump Vows To Draw Down Troops In Afghanistan | NBC Nightly News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "IecwfhmE7Rg",
             "title": "‘Too Bad!’: Donald Trump Reacts To Break-In At Cummings’ Baltimore Home | NBC Nightly News",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Trump Claims Tariffs On China Haven't 'Cost Our Consumer Anything' | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KI0HMOfIdH4",
+            "title": "Wasteland: Our Food Waste Problem Is Bigger Than You Think | Mach | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

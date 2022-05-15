@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AVqIyFZdI8A",
-            "title": "George Will on Election 2012 Results: Marco Rubio is 'Big Winner'",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXpxa4sFH4o",
             "title": "Election 2012: Scott Brown Says He's Leaving Dysfunctionality",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "2012 Presidential Election Newsroom Tour",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "k612wv59Og0",
+            "title": "2012 Election: Music Americans Thought About While Voting",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

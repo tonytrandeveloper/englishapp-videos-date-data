@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VIaJ89hXB0U",
-            "title": "Trump says he wants to hear from Kavanaugh's accuser",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "muQDCWhzV5M",
             "title": "10-year-old recovering from heart transplant: 'I feel more alive'",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Trump reacts to new North Korea denuclearization promises",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dyVTEJJ6wBs",
+            "title": "Kavanaugh accuser won't testify before FBI probe",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

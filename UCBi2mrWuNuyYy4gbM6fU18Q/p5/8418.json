@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mKqfHqRzfKs",
-            "title": "Caitlyn Jenner's Emotional Speech at the ESPYs",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lu7LVNxiXBg",
             "title": "16-Year-Old Girl's Miraculous Survival After Plane Crash",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Lost & Found: Here's What Was Left Behind at the 2015 ESPYs",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "pQMLMsrezrc",
+            "title": "Four Dead in Chattanooga Military Office Shootings",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GAVrdzMyxSo",
-            "title": "Meet The Group Of Journalists Behind NBC Nightly News",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "A4foog9YsnU",
             "title": "Powerful James Webb Telescope Set To Launch On Christmas Morning",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Severe Weather Across Western U.S.",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "UyJf9fAvXHg",
+            "title": "Nightly News Full Broadcast - Dec. 24",
+            "secondDuration": 1276,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

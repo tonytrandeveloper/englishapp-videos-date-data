@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AZVIvxQAZVg",
-            "title": "Mom Vows to Fight Billionaire Dad",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "sKYgs_uUsDI",
             "title": "Iraq Power Vacuum Fears",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "Pentagon Enlists Teenage 'Geeks' for Cyber War",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "9qmnfwLuYJE",
+            "title": "The Conversation: Capturing New Orleans",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

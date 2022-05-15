@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dD82YxvCZ9c",
-            "title": "Bloomberg Focusing On Super Tuesday States | NBC News NOW",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "M0CXh1BhA0A",
             "title": "Inside Pro-Trump Women’s Group ‘Trumpettes USA’ | NBC News NOW",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "Pete Buttigieg Speaks To Supporters In New Hampshire | NBC News NOW",
             "secondDuration": 492,
             "group": "group_7"
+        },
+        {
+            "videoId": "YxvAAEbzm_4",
+            "title": "Tom Steyer Confirms He's Staying In The Presidential Race | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

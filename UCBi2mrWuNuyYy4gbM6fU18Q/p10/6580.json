@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AkZ56u3ZUk8",
-            "title": "What Ants Are Saying",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "r64XVBNA8DM",
             "title": "Reaching Moderate Republicans",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Autistic Kids Go to The Extreme",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "8F3gMHqQ9vE",
+            "title": "Sharks Spotted Off Mass. Shore",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

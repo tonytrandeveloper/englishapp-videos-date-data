@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GQzlzalscrM",
-            "title": "Uber Covered Up Hack On 57 Million People | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "PHRl-Y03Wi4",
             "title": "Charlie Rose Accused Of Sexual Misconduct By 8 Women | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Investigators Say 'Winter Is Coming' For HBO Hacker | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "JmpJdws29Ho",
+            "title": "Celebrations In Zimbabwe As Robert Mugabe Resigns | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8kBcPUAAq-k",
-            "title": "Trump blasts Democrats as shutdown heads into Day 7",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "A0EYKvJ4VoE",
             "title": "Homeland Security secretary to visit border after 2nd child's death",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Government shutdown continues",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "JU1t2xisQpM",
+            "title": "New developments in urgent manhunt for suspected cop killer in CA",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eLwmOU7exlA",
-            "title": "Player Kicks 67-Yard Field Goal",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "ofNL3TbRpRE",
             "title": "President Obama on 'The Daily Show With Jon Stewart'",
             "secondDuration": 60,
@@ -121,8 +115,14 @@
             "title": "Lance Armstrong Steroid Allegations Leads Cyclist to Step Down as Livestrong Leader",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "5mEbeKDzZQ0",
+            "title": "'World News' Instant Index: Pilot's Odd Request; Google's 'Willy Wonka' HQ",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

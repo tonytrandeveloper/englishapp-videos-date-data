@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tLpbm5TiUfE",
-            "title": "‘Horn Doctor’ Keeping Jazz Alive In Kansas City | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "4y9XgHXz5WM",
             "title": "NBC News Signal - October 11th, 2018",
             "secondDuration": 1604,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump On Kanye West At White House: 'That Was Quite Something' | NBC News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "gODQnewLPS4",
+            "title": "Watch Live: President Donald Trump Delivers Remarks At Trafficking Taskforce Meeting | NBC News",
+            "secondDuration": 705,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

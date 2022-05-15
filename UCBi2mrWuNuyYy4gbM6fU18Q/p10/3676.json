@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9-zNFtShNpw",
-            "title": "Evolution of the Watch | From the Sundial to the Smartwatch",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "wCsXcW12Kwk",
             "title": "Police Body Cam Footage Shows Officers Save Georgia Man's Life",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Wounded Warrior Makes Mount Everest History",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "YoKY_YoWJwE",
+            "title": "Phil Mickelson Accused of Insider Trading",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

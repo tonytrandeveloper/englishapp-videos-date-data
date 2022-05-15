@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3-YJw8TMXDU",
-            "title": "Juju Juggles Gender Identity",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "uN0C-rk7-80",
             "title": "Shots Fired at Iranian Protesters",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Regional Airline Safety Summit",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "X8BjsGE1rHo",
+            "title": "'New Normal': Goodbye to Credit Cards",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

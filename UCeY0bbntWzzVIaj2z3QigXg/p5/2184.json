@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UgGxw9PlKtw",
-            "title": "Amy Coney Barrett Senate Confirmation Hearings | Day 3 | NBC News",
-            "secondDuration": 33586,
-            "group": "group_7"
-        },
-        {
             "videoId": "ROMQF9k5y2k",
             "title": "'In Another Time And Another Place You Would Get Everybody’s Vote' | NBC News NOW",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Barrett: 'I Can't Express A View' On Trump Administration Border Separation Policies | NBC News NOW",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "2IF40he7EhE",
+            "title": "Amy Coney Barrett: 'I Am Not A Liar' | NBC News NOW",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

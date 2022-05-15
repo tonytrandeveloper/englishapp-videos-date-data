@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gMwCfk6I2vo",
-            "title": "\"World News\" Portrait of a Candidate: Barack Obama Interview",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "ROdsr0oiUu4",
             "title": "Hurricane Sandy Relief: National Guard Delivers Supplies to Stranded Senior Citizens",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Superstorm Hurricane Sandy, New York City ING Marathon 2012: Should Race Be Cancelled?",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvf2FUHCTKM",
+            "title": "Superstorm Hurricane Sandy 2012: A Tale of Two NYC's - Going Inside Powerless Lower Manhattan",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

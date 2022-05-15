@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ItotBz9p7Nc",
-            "title": "Intel chiefs issue warning about Russia and 2018 election",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "UvvNl63gZlQ",
             "title": "After fighting deadly disease, Torin Yater-Wallace goes for Olympic gold",
             "secondDuration": 448,
@@ -61,8 +55,14 @@
             "title": "Letter with powder sent to Trump Jr.'s apartment: Police",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "6T9tusqmS2c",
+            "title": "Woman dies after declining Tamiflu due to cost",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zaTtPJynbR8",
-            "title": "Meet Chris Kim: The Meatless Butcher | Better | NBC News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "X_3pm7beeDc",
             "title": "Aerials Show Bird's-Eye View Of Boston Region After 'Bomb Cyclone' | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Thousands Of Canceled Flights As Winter Storm Pummels East Coast | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "qfp3F10rhj0",
+            "title": "‘Bomb Cyclone’ Paralyzes Massachusetts | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

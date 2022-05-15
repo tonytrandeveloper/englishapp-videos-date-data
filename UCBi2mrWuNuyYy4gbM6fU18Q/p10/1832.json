@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gKV5tpI2eYU",
-            "title": "Siegfried & Roy: Behind the Magic l 20/20 l PART 1",
-            "secondDuration": 585,
-            "group": "group_7"
-        },
-        {
             "videoId": "noIjQG1aqdc",
             "title": "State Department issues subpoena to Secretary of State Mike Pompeo",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Acting DNI chief testifimony, vaping emergency, climate change walkout| ABC News",
             "secondDuration": 1942,
             "group": "group_7"
+        },
+        {
+            "videoId": "h3fLDFpWglA",
+            "title": "Airline bag handler arrested for alleged $250K heist | ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

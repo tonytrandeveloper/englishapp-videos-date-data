@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7LyP6TiYMvo",
-            "title": "The Clock Is Ticking For Biden | Short Take | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "WpAi3OivO3k",
             "title": "Protests Likely As President Obama Lands In Roseburg, Oregon | Short Take | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "This Mailman and Little Boy’s First Class Friendship Will Make You Smile | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "nVueRfD9sPM",
+            "title": "Judge Tells Domestic Abuse Victim ‘You Haven’t Even Seen Anxiety’ | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

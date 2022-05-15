@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RIosTSBlFGQ",
-            "title": "NASA Announces Discovery of 7 New Planets, 3 In ‘Habitable Zone’ | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "aSlMaRz0VjE",
             "title": "The View On President Donald Trump From Norway, ‘The World’s Best Democracy’ | NBC News",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "YouTube GlamTwinz, Kelsey and Kendra Murrell, Embrace Natural Beauty | NBC BLK | NBC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "MBnyyJd_CBA",
+            "title": "Lester Holt’s Biggest Little Fan, Jaden, Pays A Visit To 30 Rock | NBC Nightly News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

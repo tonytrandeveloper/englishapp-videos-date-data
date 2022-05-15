@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qcx0EdVxUms",
-            "title": "Vice President Pence declares end to 'strategic patience' on North Korea",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "WzBLY6VX_Rw",
             "title": "North Korea's ballistic missile test explodes seconds after blastoff",
             "secondDuration": 241,
@@ -121,8 +115,14 @@
             "title": "Prince Harry to spend the Easter holiday with girlfriend Meghan Markle and her family",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "hT4VCPkxhIA",
+            "title": "North Korea shows military muscle at parade celebrating the country's late founder",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

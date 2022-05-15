@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8pkHw_t73fM",
-            "title": "Manhunt grows for suspected Florida serial killer",
-            "secondDuration": 359,
-            "group": "group_7"
-        },
-        {
             "videoId": "9U9UptV-qP0",
             "title": "Sen. Bob Corker on Niger, tax reform and Trump",
             "secondDuration": 287,
@@ -31,8 +25,14 @@
             "title": "George Clooney, Matt Damon respond to Weinstein allegations",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "PYpe6D8yhNE",
+            "title": "More details surface about deadly ambush in Niger",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

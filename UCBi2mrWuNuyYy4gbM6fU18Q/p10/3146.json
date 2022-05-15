@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U5Jw2AXqKak",
-            "title": "Todd Fisher Speaks Out on Death of Carrie Fisher and Debbie Reynolds",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "d5pG1PIYkBM",
             "title": "NYC’s Carnegie Deli Closes Its Doors",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Obama Responds to Alleged Russian Hacking",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "BHMuE-7dkJc",
+            "title": "Debbie Reynolds,  Carrie Fisher | Hollywood Reeling From Back-to-Back Deaths",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

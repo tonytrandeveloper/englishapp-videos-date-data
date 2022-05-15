@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yzEMGU5Ao1c",
-            "title": "Deep Dive: The Impact Guns Have On Urban Areas | NBC News Now",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "nS16H2FVCM0",
             "title": "Grieving While Fearing Deportation: Inside El Paso Residents’ Fears | NBC News Now",
             "secondDuration": 410,
@@ -301,8 +295,14 @@
             "title": "Two Mass Shootings In 13 hours: Lester Holt Reflects From El Paso | NBC Nightly News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf3XrWxI3T8",
+            "title": "Watch live: officials give updates after shooting in Ohio",
+            "secondDuration": 5905,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U11uM51hqJM",
-            "title": "Kanye West 'SNL' MELTDOWN LEAKED",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "z5Pi7zUumh4",
             "title": "Teen Arrested for Impersonating a Doctor | EXCLUSIVE INTERVIEW",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "Pope Francis heads Back to the Vatican",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "qR1CMJsNXNo",
+            "title": "'Elkhart 4' Arrested For Murder in Burglary Gone Wrong: Part 1",
+            "secondDuration": 495,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

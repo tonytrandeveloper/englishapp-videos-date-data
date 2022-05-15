@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R9EKeOTprBo",
-            "title": "Two Teens Charged In Connection With Death Of Teacher",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "CgkybkTVbRs",
             "title": "Democrats Celebrate As House Passes Infrastructure Bill",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "Armchair Detectives: Can The Internet Fight Crime?",
             "secondDuration": 309,
             "group": "group_7"
+        },
+        {
+            "videoId": "ho1dX1ozZHI",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 2910,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

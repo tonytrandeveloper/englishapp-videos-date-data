@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gLIGIjzOwiU",
-            "title": "Blinken 'Concerned' China May Directly Support Russia With Military Equipment",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "WtNj4YpxT5U",
             "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
             "secondDuration": 1580,
@@ -121,8 +115,14 @@
             "title": "Nightly News Full Broadcast - March 16",
             "secondDuration": 1264,
             "group": "group_7"
+        },
+        {
+            "videoId": "gb9p_Ew8QuQ",
+            "title": "Ukraine Crisis: Inside Refugee Shelter Above Lviv Train Station",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FnI4CTToDpQ",
-            "title": "Watch Live: New Year's 2019 Celebrations Around The World | NBC News",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTrlR-9rn2E",
             "title": "Lester Holt Takes Part In Times Square New Year’s Eve Celebration | NBC News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "High Security And Severe Weather As World Rings In 2019 | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "x39CsRGbZsE",
+            "title": "Trump’s War Of Words With Generals As Kelly And Jim Mattis Depart White House | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

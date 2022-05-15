@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dEO5hSwst2I",
-            "title": "Strangers Jump in to Help Man Having a Medical Emergency While Running a Marathon",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ZU6nqvQevc",
             "title": "Serena Wins Meeting of Williams Sisters in Australian Open Finals",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Middle School Students Accused of Plotting Columbine-Style Attack",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "CjUWAGfmnGE",
+            "title": "Mike Pence: First VP to Address March for Life",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

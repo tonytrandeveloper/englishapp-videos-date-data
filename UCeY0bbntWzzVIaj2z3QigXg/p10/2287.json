@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zQ92z_jGf9w",
-            "title": "Vigil for Pittsburgh shooting victims",
-            "secondDuration": 8415,
-            "group": "group_7"
-        },
-        {
             "videoId": "zAIp3s1i9bE",
             "title": "‘A Horrific Crime Scene:’ Officials Describe Aftermath Of Pittsburgh Shooting | NBC Nightly News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Full Greenblatt: 'Single Deadliest Attack On The Jewish Community' | Meet The Press l NBC News",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "yI6PQkkpqQ4",
+            "title": "Full Panel: Is divide growing in America with acts of violence? | Meet The Press | NBC News",
+            "secondDuration": 581,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7u_SDQz7MWA",
-            "title": "House Intelligence Committee expects to hear from whistleblower 'very soon': Schiff | ABC News",
-            "secondDuration": 671,
-            "group": "group_7"
-        },
-        {
             "videoId": "vE-vDUUS5lc",
             "title": "'I'm deeply disturbed' by whistleblower complaint: Former Trump adviser | ABC News",
             "secondDuration": 360,
@@ -301,8 +295,14 @@
             "title": "Trump holds bilateral meeting with president of Ukraine | ABC News",
             "secondDuration": 2492,
             "group": "group_7"
+        },
+        {
+            "videoId": "UPTDxXgqmVI",
+            "title": "Impeachment inquiry, Meghan Markle, Parliament returns: World in Photos: Sept. 25",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

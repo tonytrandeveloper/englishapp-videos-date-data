@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aPfv1c-9HJY",
-            "title": "Bill Cosby's Wife Camille Speaks On Rape Allegations | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q7mRXS24Yxs",
             "title": "Jihadist Networks' History In Australia | NBC News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Taliban School Attack: Wounded Receive Treatment | NBC News",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJYAiq36pIY",
+            "title": "Hollywood Revisits Moses In 'Exodus' | Long Story Short | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

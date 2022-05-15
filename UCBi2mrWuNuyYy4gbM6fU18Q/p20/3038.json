@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dvvs1zTHTqY",
-            "title": "Rob Do My Job: Lucky Strike Bowling Alley",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXpa5pbpIbA",
             "title": "'Nightline' Investigation: War on Drugs",
             "secondDuration": 322,
@@ -121,8 +115,14 @@
             "title": "Casey Anthony Trial: Judge Dismisses Court for Weekend, Sparks Speculation of Plea Deal",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "WoBgt_MJlCo",
+            "title": "'GMA' Searches for America's Next Teen Pop Star: Will They go Viral?",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

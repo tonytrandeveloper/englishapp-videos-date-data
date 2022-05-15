@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fyJ9UxcdjSc",
-            "title": "Biden Announces Monthly Payments As Part Of Child Tax Credit",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "v0nsLPo5DzA",
             "title": "Cuomo Announces New York Will Adopt CDC's Guidelines On Masks",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Israeli Bombardments Strike At Gaza's Fragile Infrastructure",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Sf4OIAqweA",
+            "title": "UK Eases Restrictions, Variant Creates Doubt Of Complete Reopening",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

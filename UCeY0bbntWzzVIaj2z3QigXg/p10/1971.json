@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oJE6NqizaQc",
-            "title": "What Happens To Our Digital Life After We’re Gone? | NBC Nightly News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tu9lpYaVkag",
             "title": "Hundreds Of Thousands Protest Extradition Law In Hong Kong | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "What The Tariffs On Mexico Mean For Americans | NBC News Now",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "HOFSbPAkzWQ",
+            "title": "The Death Of The Business Suit | NBC News Now",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

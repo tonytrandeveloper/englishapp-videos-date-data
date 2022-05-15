@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y7rljDpSszQ",
-            "title": "Hurricane Hanna Hits Texas Coast With Storm Surge And Heavy Rain | NBC Nightly News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "naGlaCq17Zw",
             "title": "Family Members Honor Rep. John Lewis During Memorial In Alabama | NBC News",
             "secondDuration": 253,
@@ -31,8 +25,14 @@
             "title": "Rise In Overdose Deaths Reviving Fight For Safe Injection Site In Philadelphia | NBC News NOW",
             "secondDuration": 466,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6EdBnHP9VM",
+            "title": "Families Struggle To Pay Bills As Federal Assistance Set To End | NBC News NOW",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

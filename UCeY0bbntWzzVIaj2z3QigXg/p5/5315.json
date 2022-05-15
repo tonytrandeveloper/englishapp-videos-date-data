@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BPlb2_4ZROc",
-            "title": "Broward County Authorities Hold Briefing On Florida School Shooting | NBC News",
-            "secondDuration": 1016,
-            "group": "group_7"
-        },
-        {
             "videoId": "pdKZWb8bzH0",
             "title": "Florida Officials Give New Details On Nikolas Cruz And Parkland School Shooting | NBC News",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Attorney For Family Connected To Parkland Shooter, Nikolas Cruz, Speaks Out | NBC News",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QBxqHz79aI",
+            "title": "FBI Agent Robert Lasky On Probe Into 2017 Vlog Comment About Florida School Shooting | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

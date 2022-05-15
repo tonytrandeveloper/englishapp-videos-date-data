@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NJkixwIFWu8",
-            "title": "'Six Little McGhees' Take Over 'GMA'",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "KQ6OteBaie4",
             "title": "Calif. Elementary Principal Accused of Killing her Husband",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Two Drug Related Deaths Force NYC Music Festival to Shut Down",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "2IXb_xAeK9M",
+            "title": "'Mortal Instruments' Series Is the Hot New Book Series",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

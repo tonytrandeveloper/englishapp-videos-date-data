@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YoKY_YoWJwE",
-            "title": "Phil Mickelson Accused of Insider Trading",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2BKPFcvwI0",
             "title": "Seven Days Inside Riker's Island | A Hidden America with Diane Sawyer (GMA)",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "EgyptAir Flight Feared Downed by Terrorists, Officials Say",
             "secondDuration": 450,
             "group": "group_7"
+        },
+        {
+            "videoId": "muq5q5Nc_3U",
+            "title": "EgyptAir Flight 804 Mystery Deepens",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

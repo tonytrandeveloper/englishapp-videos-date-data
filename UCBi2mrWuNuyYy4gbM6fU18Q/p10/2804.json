@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uAEhEbDRRfs",
-            "title": "President Donald Trump Full Remarks to the American Legion",
-            "secondDuration": 2793,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHd1d2OAglo",
             "title": "'10% Happier': Arianna Huffington | ABC News",
             "secondDuration": 3611,
@@ -61,8 +55,14 @@
             "title": "Navy removes commander of 7th Fleet following string of accidents",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "RGf0uINmzOs",
+            "title": "Natalee Holloway's father talks about a shocking discovery in her disappearance",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

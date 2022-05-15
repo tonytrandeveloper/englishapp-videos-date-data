@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IfZCHP8K938",
-            "title": "NBC News NOW Full Broadcast - May 24th, 2021",
-            "secondDuration": 2872,
-            "group": "group_7"
-        },
-        {
             "videoId": "HoHcpVh3-t0",
             "title": "New Covid Cases In U.S. At Lowest Since Last June",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "States Get Creative Offering Covid Vaccine Incentives",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "h0jtXtG_TsU",
+            "title": "Sondland Sues Pompeo, Government For Legal Fees Over Impeachment Probe",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

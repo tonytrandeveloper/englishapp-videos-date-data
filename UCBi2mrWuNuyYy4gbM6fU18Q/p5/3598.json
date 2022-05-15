@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xll225Wyy4E",
-            "title": "Military training accident leaves 3 soldiers dead",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "QcMtRj_l2NY",
             "title": "'I'll do everything I'm required to do by law': Pompeo on whether he will testify | ABC News",
             "secondDuration": 1100,
@@ -31,8 +25,14 @@
             "title": "Sen. Bernie Sanders returns to campaign trail after heart attack | ABC News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "i0wnefBUy8w",
+            "title": "A young father is killed after a home invasion in Texas",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5EJGj47lWvE",
-            "title": "Meet The Press Broadcast (Full) - November 8th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2876,
-            "group": "group_7"
-        },
-        {
             "videoId": "UD8rXeFpLsc",
             "title": "How Biden Won: Three key Voter Groups in 2020 | Meet The Press | NBC News",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Full Romney Interview: Trump Should Be 'Careful' In His Next Steps | Meet The Press | NBC News",
             "secondDuration": 473,
             "group": "group_7"
+        },
+        {
+            "videoId": "W1NZtRoXTH8",
+            "title": "Biden Will Announce Transition Team, Covid Task Force on Monday | NBC News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

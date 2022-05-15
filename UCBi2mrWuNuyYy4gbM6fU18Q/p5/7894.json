@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5uSp9k3FHIc",
-            "title": "Kenny Chesney | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 355,
-            "group": "group_7"
-        },
-        {
             "videoId": "jF_ID9ZdXBg",
             "title": "Ted Cruz interview with George Stephanopoulos on GMA",
             "secondDuration": 339,
@@ -31,8 +25,14 @@
             "title": "East Coast Braces for Storm of 'Historic Proportions'",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "WUQW_qPqsKg",
+            "title": "Uber Driver Attacks | CAUGHT On CAMERA",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

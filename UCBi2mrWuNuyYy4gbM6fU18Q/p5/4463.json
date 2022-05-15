@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jegUNn2pddI",
-            "title": "Flynn sentencing delayed after attack from federal judge",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "SwsKHjV3k9Y",
             "title": "Body cam video shows moment police breached Las Vegas shooter's hotel room: Part 1",
             "secondDuration": 546,
@@ -31,8 +25,14 @@
             "title": "GOP offers $1.6B in new spending for border security, not wall",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAHoF6JKdbQ",
+            "title": "2 Chicago officers fatally struck by train while pursuing suspect",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

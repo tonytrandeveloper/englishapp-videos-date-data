@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mjZ-DSD0T_E",
-            "title": "'DWTS' Contestants Cody Simpson and Witney Carson Leave the Ballroom",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "R_WAc6iNH9Y",
             "title": "Rare 'Blood Moon' AKA Red Lunar Eclipse Brings Selfies, Conspiracy Theories",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "'Blood Moon' Captivates Stargazers",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "VBOlUc8GXSk",
+            "title": "Boston Strong One Year after Terror Attack",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

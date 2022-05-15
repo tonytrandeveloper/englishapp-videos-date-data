@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MltgcggG4dk",
-            "title": "Special Report: Trump meets North Korea's Kim Jong Un in the DMZ",
-            "secondDuration": 1424,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tqx9HVQSZss",
             "title": "This Group Is Defaulting On Their Student Loans Intentionally | NBC Nightly News",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "Michael Bennet On Family Separations: 'When I See These Kids At The Border, I See My Mom' | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "oHB3xRj47bY",
+            "title": "Jimmy Carter Suggests Trump Is Illegitimate President Because Of Russian Interference | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

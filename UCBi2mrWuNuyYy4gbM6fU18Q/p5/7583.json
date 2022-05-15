@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tcj7xTQXsPE",
-            "title": "'Baby Ariel' | Musical.ly Star Interview on 'GMA'",
-            "secondDuration": 372,
-            "group": "group_7"
-        },
-        {
             "videoId": "zEiq5vn5UQg",
             "title": "Amy Schumer Calls Out Glamour Magazine",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Woman Found Dead at University of Texas at Austin",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "COKlu4WjbHo",
+            "title": "Bernie Sanders Defeats Hillary Clinton in Wisconsin",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

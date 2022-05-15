@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qyZcCdWtQN0",
-            "title": "'Briefing Room': Amazon's new HQs, Pelosi & the Speakership, Florida & Georgia recounts,",
-            "secondDuration": 1165,
-            "group": "group_7"
-        },
-        {
             "videoId": "blr1OAHQAKE",
             "title": "California wildfires: Live reports from the scene | ABC News",
             "secondDuration": 580,
@@ -31,8 +25,14 @@
             "title": "New fires ignite in California amid devastation",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Kq7KTWZcyk",
+            "title": "More than 200 people missing in devastated California town",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

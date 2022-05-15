@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J-s0VE-ZTDA",
-            "title": "Remembering an American Classic: Edith Bunker Beloved by All",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "rgZM2gXK8dA",
             "title": "Oklahoma 'Tornado Alley' Residents Fear for the Future",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Tornadoes Strike During Rush Hour, Overturn Trucks",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "cs7hWzVSEME",
+            "title": "Oklahoma Tornadoes Devastate Residents",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

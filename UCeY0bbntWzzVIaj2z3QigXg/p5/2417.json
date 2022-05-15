@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eKKfHoiDoFo",
-            "title": "Biden, Harris Call For Nationwide Mask Mandate Amid Coronavirus Pandemic | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBxSBb1UiR4",
             "title": "Live: Trump Holds News Conference At The White House | NBC News",
             "secondDuration": 2715,
@@ -31,8 +25,14 @@
             "title": "Jared Kushner On Meeting With Kanye West: 'He Has Some Great Ideas' | NBC News NOW",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "VFOeI3Zrit4",
+            "title": "Live: White House Holds Press Briefing: August 13 | NBC News",
+            "secondDuration": 2560,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

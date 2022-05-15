@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YmlNMPtkSPA",
-            "title": "WATCH: Videos Show Mount Etna Spewing Lava, Ash During Brief Volcano Eruption | NBC News NOW",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "pwxTIBvNvUk",
             "title": "Trucks Carrying First U.S. Coronavirus Vaccines Depart Pfizer’s Michigan Plant | NBC News NOW",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "First Doses of Pfizer Covid Vaccine On The Move | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "rD0X9CPAk8A",
+            "title": "First Vaccinations For Front-line Workers To Take Place This Week | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

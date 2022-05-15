@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mydta6NsXZo",
-            "title": "Sarah Sanders' controversial legacy as press secretary",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "G9vx7IRmNLQ",
             "title": "Trump says McGahn lied, U.S. blames Iran for tanker attacks, new video in Cuba Gooding Jr. case",
             "secondDuration": 1751,
@@ -61,8 +55,14 @@
             "title": "Wife of California congressman pleads guilty to corruption charges",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "uduvPN-TpSs",
+            "title": "Sarah Sanders leaving post as White House press secretary",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

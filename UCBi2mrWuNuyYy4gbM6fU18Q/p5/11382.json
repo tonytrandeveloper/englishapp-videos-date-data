@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MtHzrrUReCg",
-            "title": "ABC World News Now - WEBCAST: Colorado Shooting Update",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "ASDTaKP0KVA",
             "title": "Break Food Addictions in 28 Days?",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "Florida Teen Posed as a Doctor and Cop",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "SxvvqLFoIs4",
+            "title": "London 2012 Soccer: Team USA Beats Japan for Gold",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

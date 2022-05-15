@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6KiZ1udKKdQ",
-            "title": "What it means for Democrats' control of the House",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "aLc7acWY0x8",
             "title": "Rashida Tlaib to become the first Muslim-American woman in Congress",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "Ron DeSantis to become Florida governor after Andrew Gillum concedes",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "AnZJxpWlzc4",
+            "title": "Democrats take control of the House",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

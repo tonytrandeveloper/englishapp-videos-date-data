@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y3Ql-3COwvs",
-            "title": "Biden Calls For Bonuses' To Increase Firefighter's Wages Ahead of Wildfire Season",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "qJjlEvm_Ni0",
             "title": "Bill Cosby's Team Speaks After His Release From Prison | NBC News",
             "secondDuration": 734,
@@ -31,8 +25,14 @@
             "title": "Bill Cosby Officially Released From PA Prison After Overturned Conviction",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "uWmtpl-7aCY",
+            "title": "Bill Cosby Leaves Prison After Conviction Overturned | NBC News",
+            "secondDuration": 980,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

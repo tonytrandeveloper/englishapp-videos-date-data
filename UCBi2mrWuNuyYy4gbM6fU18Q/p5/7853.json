@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fvDU8eHD_3w",
-            "title": "Deadly Hostage Standoff in Texas",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "7QhWb8OGS0Y",
             "title": "Jeb Bush Says \"PLEASE CLAP\"  | NEWS CYCLE",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Why Are Quarterbacks Considered Handsome?",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "5koNYFeVIpM",
+            "title": "Ted Cruz Criticized for Iowa Caucus Campaign Email",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

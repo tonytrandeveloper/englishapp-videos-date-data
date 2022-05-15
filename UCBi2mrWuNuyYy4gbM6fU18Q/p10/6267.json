@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XgWXwv4LVfM",
-            "title": "Town Hall Debate: Setting Up the Debate",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "eNaeWbSevKM",
             "title": "Travel Alert to Be Issued for Americans in Europe",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Tapper on Rahm Emanuel's Departure",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "h6Q7steg3U8",
+            "title": "Going Home: Georgetown Changes With the Times",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

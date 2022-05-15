@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RzGBIUk3JxM",
-            "title": "White House Holds Press Briefing: March 24 | NBC News",
-            "secondDuration": 2586,
-            "group": "group_7"
-        },
-        {
             "videoId": "waMJgStynO8",
             "title": "WATCH: Mother Shouts Racial Slurs At Black Cashier After Refusing To Wear Mask | NBC News NOW",
             "secondDuration": 95,
@@ -301,8 +295,14 @@
             "title": "Black Residents In New Orleans Hit Hardest By Covid | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "A46MYgvyO9o",
+            "title": "NYPD Searching For Suspect Who Attacked Anti-Asian Violence Protester | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T144Ht7miiw",
-            "title": "Storms hit during one of the busiest travel weeks of the year",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7NGY4MtpfY",
             "title": "Bushfires in Australia threaten koalas with extinction",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Tesla truck’s ‘unbreakable’ windows shatter during demonstration",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "bTsjO8ZnGXg",
+            "title": "Former college student facing charges in boyfriend’s suicide",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

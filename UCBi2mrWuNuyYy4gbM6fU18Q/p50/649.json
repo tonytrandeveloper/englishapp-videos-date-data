@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "e1Z2PPXmT7g",
-            "title": "Southern  Fires | 3,000+ Firefighters Battle Dozens of Fires",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-Ic8upxwWo",
             "title": "Rescued Thanksgiving Turkey Is Now a Pet",
             "secondDuration": 103,
@@ -301,8 +295,14 @@
             "title": "Facebook Under Fire for Fake News Stories",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QTnAmE4sKQ",
+            "title": "Aspiring Weatherman Arrested for Starting Forest Fire",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

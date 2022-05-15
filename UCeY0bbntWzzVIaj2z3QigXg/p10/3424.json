@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nOV6TixesZU",
-            "title": "Donald Trump Looks Ahead to New Hampshire | Meet The Press | NBC News",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "eWOesrffzXo",
             "title": "Hillary Clinton Talks Foreign Policy, Wall Street | Meet The Press | NBC News",
             "secondDuration": 585,
@@ -61,8 +55,14 @@
             "title": "‘Bei Bei’ Helping Scientists Learn More About Beloved Pandas | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "1NCbXDSXlo4",
+            "title": "New Hampshire’s Heroin Crisis Takes Toll with Record Overdose Deaths | NBC Nightly News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

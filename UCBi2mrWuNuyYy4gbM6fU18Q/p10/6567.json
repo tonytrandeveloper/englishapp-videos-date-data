@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "smKrSlEazH0",
-            "title": "3 Terror Plot Suspects Arrested",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "lgBzmoo9izw",
             "title": "An Interview With the President",
             "secondDuration": 1046,
@@ -61,8 +55,14 @@
             "title": "Terror Plot Suspect Questioned",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "a7NSBxZ9a-s",
+            "title": "Garrido Yard Searched for Cold Case Clues",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

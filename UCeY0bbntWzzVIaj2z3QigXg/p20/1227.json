@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nkAf6trL3gE",
-            "title": "U.S. Allies Wary As President Donald Trump Criticizes NATO | NBC Nightly News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "L2Dg7VuRZAQ",
             "title": "New Images Of Thai Soccer Team As They Recover In The Hospital | NBC Nightly News",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Meghan Markle And Prince Harry Watch RAF Centenary Flyover | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "3s0lVBkO8oE",
+            "title": "Democratic Senators React To Brett Kavanaugh Nomination | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

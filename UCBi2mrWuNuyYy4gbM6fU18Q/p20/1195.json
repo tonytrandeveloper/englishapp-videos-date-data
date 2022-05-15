@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Udgb0bOxyUA",
-            "title": "Video captures massive fireball on Bologna highway",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "MvrpuwaFPTI",
             "title": "Police discover 11 kids living in New Mexico compound",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "An investigation into an off-duty NYPD sergeant allegedly shooting a man in the face",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "sDnMzytFaFI",
+            "title": "Fired Ohio State assistant football coach breaks silence",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hcvZFmOSC8I",
-            "title": "Biden Calls On Facebook To Stop Spread Of Misinformation On Vaccines",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "bZn4G4Ewito",
             "title": "Biden Administration Transfers First Detainee Out Of Guantanamo Bay",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Schumer Sets Wednesday Deadline For Bipartisan Infrastructure Deal",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "YSJkY8Pzp4Q",
+            "title": "England Scraps Most Covid Restrictions As Boris Johnson Self-Isolates",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

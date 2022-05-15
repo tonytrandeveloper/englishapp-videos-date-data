@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NJrHrZBAMtc",
-            "title": "Panel: Will Donald Trump Confront Putin Over Election Interference? | Meet The Press | NBC News",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "s9rUq-mMloc",
             "title": "Senator Dan Sullivan: ‘Vladimir Putin Understands Power’ | Meet The Press | NBC News",
             "secondDuration": 444,
@@ -31,8 +25,14 @@
             "title": "Georgia Police: Use Coin Flip To Decide To Arrest Woman, Body Cam Footage Shows | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "yjPRoRF_5P8",
+            "title": "President Trump Says He’ll Bring Up Election Meddling During Summit With Putin | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

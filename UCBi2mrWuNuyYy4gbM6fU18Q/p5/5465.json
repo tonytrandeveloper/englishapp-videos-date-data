@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uBI4qDnpW3U",
-            "title": "President Donald Trump, Sen. Mitch McConnell deliver statement from the Rose Garden",
-            "secondDuration": 3360,
-            "group": "group_7"
-        },
-        {
             "videoId": "KSv2Ycmdfpw",
             "title": "President Trump remarks to media during cabinet meeting",
             "secondDuration": 1554,
@@ -31,8 +25,14 @@
             "title": "Urgent manhunt for two inmates after a jail break in Missouri",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uszxj8Gp1m4",
+            "title": "Only 15 percent of Puerto Rico has power a month after Hurricane Maria made landfall",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bY8ngJv8XnE",
-            "title": "8,000 Baby Sea Turtles Released In Mexico | NBC News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "bZsZvUrhb4E",
             "title": "Japan’s PM: Donald Trump a ‘Leader With Whom I Can Have Great Confidence’ | NBC News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "At Final Press Conference, Angela Merkel Calls President Obama ‘My Partner And Friend’ | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "8DEZ4Kmygwk",
+            "title": "Nancy Pelosi Blames James Comey Letter For Hillary Clinton's Loss | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hbeoLrcS3JI",
-            "title": "'This Week' Web Extra: Jonathan Karl Answers Viewer Questions",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "US88sBx1n-s",
             "title": "Fiscal Cliff's Economic Impact on World Markets: 'This Week' Panel Discussion",
             "secondDuration": 312,
@@ -61,8 +55,14 @@
             "title": "Real-life Angry Birds Attack Cars at Everglades National Park",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "CrcT6lmeJjk",
+            "title": "Bank of America Employee Kidnapped, Bomb Strapped Around Her Neck",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

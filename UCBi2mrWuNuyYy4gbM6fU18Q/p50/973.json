@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2baGfrwHqkU",
-            "title": "'This Week': Michael Sam's Breakthrough",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4YQD89dbEc",
             "title": "'This Week': Hollywood Takes on D.C.",
             "secondDuration": 217,
@@ -301,8 +295,14 @@
             "title": "Olympics 2014: Team USA Wins Gold in 1st Ever Men's Slopestyle Event",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "KHd5-OEAxgo",
+            "title": "Backstage at the 138th Annual Westminster Dog Show",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

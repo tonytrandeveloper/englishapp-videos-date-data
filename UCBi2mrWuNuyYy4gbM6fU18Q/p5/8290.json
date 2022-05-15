@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZsLyiBugy_o",
-            "title": "Refugee Crisis in Europe Intensifies",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "U1Lkp0uq1D0",
             "title": "Nancy Grace Discusses Owen Labrie Trial Verdict",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "Texas Authorities Search for Gunman Who Killed Deputy",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZAvsT90Jgnc",
+            "title": "What Virginia On-Air Shooting Survivor Remembers About the Incident",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

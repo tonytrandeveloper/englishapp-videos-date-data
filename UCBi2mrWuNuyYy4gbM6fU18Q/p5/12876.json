@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tx7bu6b7tKM",
-            "title": "John McCain on Obama's Health Care Plan",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "OHl0y-k_V_s",
             "title": "Winter Snowstorm Buries Northeast",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "What Not to Ask Your Doctor",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "fQe619ILQn0",
+            "title": "Bottom Line on Health Care Summit",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

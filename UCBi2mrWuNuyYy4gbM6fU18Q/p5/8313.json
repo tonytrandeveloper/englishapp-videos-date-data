@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ya-v3EmWCNg",
-            "title": "Donald Trump Holds Stadium Rally in Alabama",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZGgM6IE58s8",
             "title": "Investors React to Huge Losses Across Global Stock Markets",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Three Florida Women Found Mysteriously Murdered",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "6_giyeGL9gQ",
+            "title": "Why This Woman Fell in Love With a Convicted Killer on Death Row",
+            "secondDuration": 425,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

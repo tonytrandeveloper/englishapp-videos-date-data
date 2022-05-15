@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uNzTd0mEB3Y",
-            "title": "Mickey Rooney Dead at Age 93",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "VSu-GHtPdHM",
             "title": "'This Week': Opting Out on Vaccines?",
             "secondDuration": 357,
@@ -31,8 +25,14 @@
             "title": "'This Week': Powerhouse Puzzler",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "6FVer2R10Cg",
+            "title": "'This Week': Mozilla Controversy",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

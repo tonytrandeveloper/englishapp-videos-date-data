@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h-GbVeQz8MU",
-            "title": "Mike Pence FULL INTERVIEW on This Week with George Stephanopoulos",
-            "secondDuration": 1390,
-            "group": "group_7"
-        },
-        {
             "videoId": "XKQZv67Tenw",
             "title": "Gen. David Petraeus on if He Voted for Trump: 'I Don't Vote'",
             "secondDuration": 675,
@@ -31,8 +25,14 @@
             "title": "VP-elect Mike Pence Defends Trump's Unsubstantiated Claim of 'Millions' of Illegal Votes",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJmXoS_vHpY",
+            "title": "College Football Set to Decide Playoff Bracket",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

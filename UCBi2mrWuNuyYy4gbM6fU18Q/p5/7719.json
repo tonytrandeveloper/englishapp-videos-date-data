@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2Q8WZ5xOE7A",
-            "title": "Girl Asks Man Who Raised Her To Adopt Her | ABC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "CVloavoABiE",
             "title": "Historic Flooding Swamps Louisiana  | ABC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Illegal Mexican National Suspected in Murder Spree That Killed 5",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "YGh_IKOU-3s",
+            "title": "Nancy Reagan Funeral | Public Pays Respects to Former First Lady",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

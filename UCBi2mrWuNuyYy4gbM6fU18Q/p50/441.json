@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ggyyWmdVCDU",
-            "title": "High-end complex in Nairobi under 'attack,' police say",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "6hzh4JxDjOA",
             "title": "'Sully' reunites with passengers 10 years after miracle landing",
             "secondDuration": 262,
@@ -301,8 +295,14 @@
             "title": "Truth and Lies: Monica and Bill - Part 1",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "-hjsuUFujY0",
+            "title": "Truth and Lies: Monica and Bill - Part 2",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

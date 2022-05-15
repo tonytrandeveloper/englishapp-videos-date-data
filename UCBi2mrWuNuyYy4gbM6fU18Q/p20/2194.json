@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z3jnAepJZjw",
-            "title": "SXSW: Where a Dog Can Charge Your Phone",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kx1RsDXC_AA",
             "title": "DWTS: Rumer Willis Stuns on Season 20 Premiere",
             "secondDuration": 367,
@@ -121,8 +115,14 @@
             "title": "National Zoo: Andean Bear Cubs Need Names",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Up4qAkx91PU",
+            "title": "NCAA Bracket: Craziest March Madness Fans",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

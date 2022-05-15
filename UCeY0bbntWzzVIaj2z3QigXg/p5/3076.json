@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NvN5S8mWEbM",
-            "title": "Special Report: Harvey Weinstein Sentenced In Court | NBC News (Live Stream Recording)",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "6XfAFRfkqZ0",
             "title": "National Lockdown May Not Be Right Policy To Beat Coronavirus, Medical Experts Says | NBC News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Seoul Subway Trains Receive Deep Clean As South Korea Reports A Jump In COVID-19 Cases | NBC News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "lWh_9IL90N4",
+            "title": "Joe Biden Promises ‘Bold Progressive Vision’ After Primary Wins | NBC News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

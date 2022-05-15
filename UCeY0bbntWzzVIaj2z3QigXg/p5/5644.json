@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "82hbzLugdc4",
-            "title": "Tampa Residents Terrorized By Possible Serial Killer | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "eL-CgPvmZYA",
             "title": "Bill O'Reilly Defends Himself After New York Times Report | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Lobbies For Major Overhaul Of Tax Code | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "rq7lMmeVQGM",
+            "title": "New Information Emerges On Niger Ambush | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

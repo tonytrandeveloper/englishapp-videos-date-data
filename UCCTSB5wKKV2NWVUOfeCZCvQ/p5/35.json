@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V7R6HoYQu_Q",
-            "title": "[Vietsub+Lyrics] Roar - Katy Perry",
-            "secondDuration": 231,
-            "group": "group_4"
-        },
-        {
             "videoId": "1qKmbE4iH_Y",
             "title": "[Vietsub+Lyrics] Skechers - DripReport",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "[Vietsub+Lyrics] Sunflower - Post Malone, Swae Lee",
             "secondDuration": 190,
             "group": "group_4"
+        },
+        {
+            "videoId": "YLRY3mdjgcE",
+            "title": "[Vietsub+Lyrics] That’s What I Like - Bruno Mars",
+            "secondDuration": 238,
+            "group": "group_4"
         }
     ],
     "nbPages": 72,
-    "nbResults": 357
+    "nbResults": 356
 }

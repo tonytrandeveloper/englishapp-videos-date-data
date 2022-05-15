@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sw8UfjAFYOE",
-            "title": "This Morning’s Top Headlines – Dec. 15 | Morning News NOW",
-            "secondDuration": 1333,
-            "group": "group_7"
-        },
-        {
             "videoId": "op5Q5ny72lY",
             "title": "D.C. Attorney General Files Lawsuit Against Proud Boys, Oath Keepers Over Jan. 6 Capitol Riot",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Condors Surprise Scientists With Ability To Reproduce Asexually",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "iXXF1hMIYP0",
+            "title": "Feds Say Texas Man Hired Hitmen To Kill Mistress And Blackmailer",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

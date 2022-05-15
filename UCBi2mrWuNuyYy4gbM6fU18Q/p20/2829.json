@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gjWuP1P5EHM",
-            "title": "SEAL Book Details Bin Laden's Death",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "fwgE9PagDHY",
             "title": "Republican National Convention: Romney's Long Climb to the Nomination",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Paul Ryan, Gen X on the GOP Ticket",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "yIKi1b5QvQU",
+            "title": "Hurricane Isaac 2012: Mark Schleifstein Interview",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

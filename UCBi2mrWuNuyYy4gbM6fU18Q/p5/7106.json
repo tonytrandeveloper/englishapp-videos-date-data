@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "otrB9ImUxT8",
-            "title": "Obama Full Remarks at Dallas Memorial Service",
-            "secondDuration": 2394,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wyl0G1jWho4",
             "title": "Paraglider's 150-Foot Fall Caught on Video",
             "secondDuration": 42,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Endorses Hillary Clinton [FULL SPEECH]",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "kdPtpXw3zaY",
+            "title": "Bernie Sanders Endorses Hillary Clinton",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

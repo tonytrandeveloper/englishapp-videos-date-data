@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ltWDltLVkqo",
-            "title": "The Better Way To Ride Your Bike In Cold Weather | Better | NBC News",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "BMOxQc2uRps",
             "title": "There's An App To Reduce Racial Bias In Young Children | Think | NBC News",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Otto Warmbier’s Parents Receive Standing Ovation At State Of The Union | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0lE9Ag3_UM",
+            "title": "President Trump Calls North Korea's 'Reckless Pursuit Of Nuclear Missiles' A Threat | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

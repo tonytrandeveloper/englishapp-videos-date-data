@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SDKStdoC21U",
-            "title": "Paul Ryan Heckled in Campaign Trail Debut",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "3-pchLmznyg",
             "title": "Taylor Swift on New Song Inspiration: ABC Exclusive",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Jet Skier Breaches JFK Airport Security",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "YLFd5SKYXyQ",
+            "title": "Cosmo Editor Helen Gurley Brown Dies",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

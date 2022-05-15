@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kV8s9kFMR2c",
-            "title": "Kurdish Fighters Gun Fight With ISIS | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkTlczPCqYQ",
             "title": "Hunting Elusive Wild Turkeys On Long Island | NBC News",
             "secondDuration": 285,
@@ -61,8 +55,14 @@
             "title": "UVA Fraternities Suspended Amid Rape Scandal | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "atTmbhqDJOA",
+            "title": "Bill Cosby Rape Allegations Mount | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

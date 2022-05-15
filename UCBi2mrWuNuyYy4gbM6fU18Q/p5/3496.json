@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4eF4acrxpX0",
-            "title": "‘The president has 5 Pinocchios on a daily basis’: Rep. Speier | ABC News",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ZXWPDxCxEY",
             "title": "Trump impeachment hearing key moments: Day 4 | ABC News",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Ambassador to EU addressed withholding aid at briefing with Vice President Pence | ABC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "US0ovfkSqB0",
+            "title": "‘Very bad idea’ to withhold money from Ukraine: Ambassador to European Union | ABC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

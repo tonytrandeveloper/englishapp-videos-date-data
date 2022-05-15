@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mCUGeYdoyZY",
-            "title": "Meet the Press - Keeping America Safe, Obama at 100 Days, Jason Collins & Gay Rights - May 5, 2013",
-            "secondDuration": 27,
-            "group": "group_7"
-        },
-        {
             "videoId": "hWcvU8zKGmY",
             "title": "Coming Up on Meet the Press - May 5, 2013",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Coming up on Meet the Press - April 28, 2013",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "5TrVqHhPmsY",
+            "title": "Coming up on Meet the Press - Terror in Boston - April 21, 2013",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

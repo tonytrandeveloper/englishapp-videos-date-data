@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lS8DajuD6zI",
-            "title": "Trump Org. Attorney Calls Weisselberg Charges ‘Politically Driven’",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uy1P8H0PrnM",
             "title": "Live: Prosecutors Unveil Trump Organization Tax-Related Charges | NBC News",
             "secondDuration": 1596,
@@ -31,8 +25,14 @@
             "title": "Live: White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1681,
             "group": "group_7"
+        },
+        {
+            "videoId": "mhc4mE_ptQU",
+            "title": "Pelosi Appoints Republican Rep. Liz Cheney to Jan 6th Committee",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "74dFbQVx4jA",
-            "title": "New York Early Voting Begins With Record Turnout | NBC News NOW",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "O5YiZOElwNw",
             "title": "Trump Encourages Poll Watching In Pennsylvania: ‘We’re Watching You Gov. Wolf’ | NBC News NOW",
             "secondDuration": 576,
@@ -61,8 +55,14 @@
             "title": "Chileans Celebrate Overwhelming Vote To Scrap Pinochet-Era Constitution | NBC News NOW",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "X82FvM75hjc",
+            "title": "Mini Donald, Melania Steal Show At White House Halloween | NBC News NOW",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

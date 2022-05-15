@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cOq94dAjhO0",
-            "title": "Romney Sweeps Michigan, Arizona",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "2MZo7_B9vHg",
             "title": "Michigan Primary Results 2012: Rick Santorum Proud of His Impact in Tight Race",
             "secondDuration": 1122,
@@ -31,8 +25,14 @@
             "title": "Ron Paul: Restoring the American Republic",
             "secondDuration": 1449,
             "group": "group_7"
+        },
+        {
+            "videoId": "h759Havq2wU",
+            "title": "Michigan Primary Night: Newt Gingrich Re-emerges",
+            "secondDuration": 1263,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

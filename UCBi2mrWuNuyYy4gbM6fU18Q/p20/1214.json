@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CLTWPZCFXjo",
-            "title": "Child with cerebral palsy shows delight taking first steps on her own",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "f8XJEPdHnKs",
             "title": "Island is evacuated after woman climbs Statue of Liberty",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Missing soccer team found alive in a cave in Thailand after 10 days",
             "secondDuration": 472,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZChoyCwgnkc",
+            "title": "Boys' soccer team and coach found alive in Thailand cave",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

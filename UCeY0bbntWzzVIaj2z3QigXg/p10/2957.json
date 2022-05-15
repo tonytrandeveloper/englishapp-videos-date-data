@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2PJHzcK3s_k",
-            "title": "Kansas City Withstands Massive Flooding | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "gFeUMyeaxdA",
             "title": "The Moon Might Be Hiding A Lot More Water Than We Thought | Mach | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Men Significantly Less Fertile Than 40 Years Ago, Study Finds | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "cbKMX4hotBE",
+            "title": "North Korea Could Have Nukes As Early As Next Year, US Assessment Warns | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3VsGxIgvTfY",
-            "title": "Trump's tax reform plan unveiled by Treasury Sec’y Steve Mnuchin, National Economic Dir. Gary Cohn",
-            "secondDuration": 1403,
-            "group": "group_7"
-        },
-        {
             "videoId": "cpBqoMLebv8",
             "title": "Amazon seeking 'Mad Scientists' for hire",
             "secondDuration": 441,
@@ -61,8 +55,14 @@
             "title": "Michigan teen gets a special surprise after a bone marrow transplant",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "4wztrrxzOwM",
+            "title": "Body camera video shows encounter between police and 5 black teens in Michigan",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

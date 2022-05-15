@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gsIjMgwQQD4",
-            "title": "NBC News Projects Joe Biden Will Win Missouri Primary | NBC News Now",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "d4DhUAq3BQ4",
             "title": "NBC News Projects Joe Biden Will Win Mississippi Primary | NBC News Now",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Trump Wants Payroll Tax Cut, Other Measures To Offset Coronavirus Economic Damage | NBC Nightly News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "NMeeqHYvQZk",
+            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

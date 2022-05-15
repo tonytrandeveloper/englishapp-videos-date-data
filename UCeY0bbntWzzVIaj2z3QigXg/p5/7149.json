@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atTmbhqDJOA",
-            "title": "Bill Cosby Rape Allegations Mount | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "gaVCoahlIDM",
             "title": "Defense Secretary Chuck Hagel Resigns | NBC News",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Mike Nichols, A Legendary Director Remembered | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "f9GUcnsp8vY",
+            "title": "Slain Israeli Rabbi's Family Mourns Loss | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

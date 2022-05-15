@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "X-NINpsGr7I",
-            "title": "Donald Trump Defies Polls and Takes the White House",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "hj6iinK4O5o",
             "title": "Hillary Clinton Blindsided by Defeat",
             "secondDuration": 215,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton Wins Colorado | Election 2016 Results",
             "secondDuration": 25,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZfldwAQGFI",
+            "title": "Trump Wins Ohio | 2016 Election Results",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

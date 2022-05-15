@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BowdmgysDko",
-            "title": "Woman Dies on Zip Line Course",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "s12F8_YwjXM",
             "title": "Trump: Hillary Clinton Is a Bigot",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "American University in Kabul Attacked by Gunmen",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7C13EQhBZQ",
+            "title": "Wrongfully Convicted Man Freed After Retrial",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

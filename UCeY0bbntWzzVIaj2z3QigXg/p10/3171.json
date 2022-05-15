@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZcMe8mPxi1Y",
-            "title": "Prime Minister Theresa May Pays Respects At Arlington National Cemetery | NBC news",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvfF8iSREUw",
             "title": "Families Fear Wall Will Tear Them Apart | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Arnold Schwarzenegger And Pope Francis Team Up Against Climate Change | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "cLxwAbwHlrg",
+            "title": "Paul Ryan And Mitch McConnell: 'Torture Is Not Legal' | NBC News",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YAlOEbG9WmI",
-            "title": "Watch Live: U.S. Women's Soccer Team Celebrates World Cup Win | NBC News",
-            "secondDuration": 14658,
-            "group": "group_7"
-        },
-        {
             "videoId": "sYlclncQLWY",
             "title": "Watch live: Trump to order overhaul of kidney disease program",
             "secondDuration": 3367,
@@ -301,8 +295,14 @@
             "title": "Full Panel: Trump Keeps Up Fight For Citizenship Question On The Census | Meet The Press | NBC News",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "IyccqUR5BAU",
+            "title": "Full Klobuchar: 'I'm Not Going To Make Promises Just To Get Elected' | Meet The Press | NBC News",
+            "secondDuration": 498,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

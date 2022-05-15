@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "d5-YxyA16Yo",
-            "title": "The Briefing Room: Trump Immigration policy, Abortion, De Blasio 2020  | ABC News",
-            "secondDuration": 1787,
-            "group": "group_7"
-        },
-        {
             "videoId": "D5rH87ceDHY",
             "title": "The Debrief: Abortion fight, chopper crash, Trump immigration plan | ABC News",
             "secondDuration": 1776,
@@ -301,8 +295,14 @@
             "title": "Massive waterspout looms off Singapore coast",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "sqJ2kCszGZc",
+            "title": "Radio legend Howard Stern recalls interviewing Trump",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

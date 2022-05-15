@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kSXu4ysMc5M",
-            "title": "President Donald Trump Signs Major NASA Initiative (Full) | NBC News",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "cCTqLoT9b7A",
             "title": "White House Press Briefing (Full) - December 11, 2017 | NBC News",
             "secondDuration": 2578,
@@ -31,8 +25,14 @@
             "title": "Grow Fast: Utilize Year End Planning | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "b6WmJMM4le4",
+            "title": "NYPD Commissioner James O'Neill Names Suspect In NYC Attack | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

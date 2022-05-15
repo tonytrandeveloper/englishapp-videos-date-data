@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wtb-OK4bEs4",
-            "title": "Superstorm, Hurricane Sandy 2012: Inside NYC's Flooded Subways",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "_rf-4fgUOUE",
             "title": "Superstorm, Hurricane Sandy 2012: Superstorm Sandy Wipes Out Seaside Heights, New Jersey",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Hurricane Sandy Miracle: Baby Born During the Storm",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "OawPd0eePqk",
+            "title": "Hurricane Sandy Flight Cancellations Exceed 16,000",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

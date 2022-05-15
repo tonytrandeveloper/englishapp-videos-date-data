@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N2EylkcloAo",
-            "title": "Trump holds a 'campaign' rally a month into his presidency",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "r0B-vqQC6zA",
             "title": "Deadliest storm in years slams Southern California",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Heroic man rescues trapped driver seconds before car goes up in flames",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "w18hMCwcVjE",
+            "title": "NBA stars help repair tornado damage in New Orleans",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

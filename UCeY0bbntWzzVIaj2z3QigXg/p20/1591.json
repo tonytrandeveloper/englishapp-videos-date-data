@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "O7cDI28qy5Q",
-            "title": "President Obama Praises Free Press: ‘Our Democracy Needs You’ | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "m8Jj2FVZrCU",
             "title": "Betsy DeVos Faces Off Against Democrats in Hearing for Secretary of Education | NBC News",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "Lewis Calls For Special Commission to Investigate Russian Interference | Meet The Press | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "4C682ngcgT8",
+            "title": "Rep. John Lewis: I Would Not Invite Donald Trump to Selma | Meet The Press | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

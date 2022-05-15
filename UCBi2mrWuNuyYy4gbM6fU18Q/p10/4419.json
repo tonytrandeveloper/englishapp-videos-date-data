@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WtuJR2bzIO0",
-            "title": "OLD NEWS: Steve Jobs Talks About Starting Company in Silicon Valley",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "wA5fp5I6gt0",
             "title": "Pee-Wee Herman Is Coming to Netflix",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "'Dancing With the Stars' 2015: New Cast Answers Fan Questions",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "fUYLIx8NST0",
+            "title": "'The Bachelor': Kaitlyn Shares Thoughts on Final Moments",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

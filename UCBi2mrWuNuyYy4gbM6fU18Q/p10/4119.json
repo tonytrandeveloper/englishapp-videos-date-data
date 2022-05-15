@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CyOOnlmcRcM",
-            "title": "Clear Air Turbulence Rattles Plane",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "bXAxKXRHneU",
             "title": "Tyra Banks Real Talk | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 483,
@@ -61,8 +55,14 @@
             "title": "Seal Spotted Taking A Ride On A Whale | ABC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "RdQaoWy6wnI",
+            "title": "David Letterman Goes from Comedy to Climate Change | ABC News",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

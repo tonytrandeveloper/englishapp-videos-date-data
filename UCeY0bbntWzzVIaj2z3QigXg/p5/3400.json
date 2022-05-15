@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UE0rT3NEpjQ",
-            "title": "Trump Hosts United Nations Security Council Representatives | NBC News (Live Stream Recording)",
-            "secondDuration": 3067,
-            "group": "group_7"
-        },
-        {
             "videoId": "yrh6ExrmIoY",
             "title": "Biden Has Tense Exchange With Voter Over Age, Son Hunter: ‘You’re A Damn Liar’ | NBC News",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg Talks 2020 Election, Diversity In Democratic Party | NBC News",
             "secondDuration": 881,
             "group": "group_7"
+        },
+        {
+            "videoId": "SK_XOMun15w",
+            "title": "Pelosi Clashes With Reporter Who Asks If She Hates Trump: 'I Don't Hate Anyone' | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

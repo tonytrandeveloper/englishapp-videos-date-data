@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HVh35LIBd_c",
-            "title": "Powerful nor’easter slams the East Coast l ABC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "nP7mdZVnWmU",
             "title": "US ambassador to EU to testify in impeachment inquiry l ABC News",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Trump and Pelosi’s war of words, Rep. Elijah Cummings dies, royals in Pakistan l ABC News",
             "secondDuration": 1449,
             "group": "group_7"
+        },
+        {
+            "videoId": "_LQIcOpk6iY",
+            "title": "After US withdrawal, a heartbreaking look at growing humanitarian crisis in Syria | Nightline",
+            "secondDuration": 667,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

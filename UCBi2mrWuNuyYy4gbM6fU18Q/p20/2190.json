@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VEAYCd8u4gY",
-            "title": "Self-Driving Car to Make Cross-Country Journey",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "F46-eIqDcmc",
             "title": "March Madness Brackets Crush Some Fan's Predictions",
             "secondDuration": 216,
@@ -121,8 +115,14 @@
             "title": "Suge Knight Collapses After Bail Set at $25 Million",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZQgCib21XRk",
+            "title": "The Secrets Behind Apple Watch's Most-Anticipated Feature",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

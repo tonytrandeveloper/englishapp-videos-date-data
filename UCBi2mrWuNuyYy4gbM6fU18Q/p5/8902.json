@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a55gKcPJWwo",
-            "title": "Super Bowl Really Was Super",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Z9sMDuXT48",
             "title": "Groundhogs Day 2015: Punxsutawney Phil Sees Shadow; 6 More Weeks of Winter",
             "secondDuration": 298,
@@ -31,8 +25,14 @@
             "title": "Massive Winter Storm Sweeps U.S.",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOyJfcxFudA",
+            "title": "Super Bowl 2015: Facts and Figures",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_hsJJk4-xhA",
-            "title": "Green Pastures Can Boost Concentration",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "RkL2sfCv4k0",
             "title": "An Energy Drink Made in America in a Dorm Room",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "FIFA’s Alleged ‘World Cup of Fraud’",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "DsK1s2rKTv8",
+            "title": "Taylor Swift and Calvin Harris Are Officially a Couple",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

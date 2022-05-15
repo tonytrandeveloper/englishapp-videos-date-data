@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bL-PBD5agnI",
-            "title": "'GMA' Behind the Scenes",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBXUkUNogo0",
             "title": "Your Swine Flu Questions Answered",
             "secondDuration": 356,
@@ -121,8 +115,14 @@
             "title": "Recession Rush Hour",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "tORXi4heyss",
+            "title": "What Does Pandemic Alert Mean?",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

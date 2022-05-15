@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8h0z2zUA06k",
-            "title": "New Zealand Places Biggest City On Lockdown After Four COVID-19 Cases Confirmed | NBC News NOW",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "yPx-Mr5LM_A",
             "title": "How Kamala Harris Went From Prosecutor To Vice Presidential Candidate | NBC News NOW",
             "secondDuration": 306,
@@ -61,8 +55,14 @@
             "title": "Severe Storm System Causes Destruction Across At Least Nine States | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dnjlVuE7ME",
+            "title": "Young Vapers Up To 7 Times More Likely To Get COVID-19 Than Non-E-Cig Users, Says New Stanford Study",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

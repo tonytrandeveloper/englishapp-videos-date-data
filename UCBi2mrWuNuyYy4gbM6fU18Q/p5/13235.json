@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QdETNKSN6ME",
-            "title": "News You Missed: Alligator Apprehended",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzNJxweGRmw",
             "title": "Recession Rebound?",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Health Care: Does Canada Do It Better?",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "XGwkA6dKHew",
+            "title": "Banks' Bailout Bonus Babies",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZQn8P0TUMs0",
-            "title": "Trump Surprises Troops In Afghanistan On Thanksgiving | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "ioWTr4woilE",
             "title": "Snow Falls On Land Burned By Cave Fire | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "AWOL Marine Wanted For Murder Captured After More Than Two-Week Manhunt | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "tp_swMqeXas",
+            "title": "The Changing Economics Of The Movie Business | NBC News Now",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

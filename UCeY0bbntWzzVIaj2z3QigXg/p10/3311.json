@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0UJF9V732C4",
-            "title": "Life Stories: Buzzfeed's Eugene Lee Yang | NBC Asian America",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "T8UpMnOwY5Y",
             "title": "Yosemite Ranger Discovers Park’s True Owners | NBC News",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "The Cost Of Going For Gold | NBC News",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2RlD853Dc8",
+            "title": "Attorney Describes 'Debtors' Prison' Scheme Targeting Poor Minorities | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

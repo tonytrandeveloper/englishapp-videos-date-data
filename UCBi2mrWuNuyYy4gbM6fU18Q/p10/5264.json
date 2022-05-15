@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rF7V8RJPIKk",
-            "title": "Plane Crashes Into House, Boy Inside Survives",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "OjwbQWt81uQ",
             "title": "Family Sues Walmart Over False Accusations of Child Pornography",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Pilots, Flight Attendants Revolt Against New TSA Policy",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "tSKQFtB8JuU",
+            "title": "Whole Foods to Provide Labels on Genetically Modified Products",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

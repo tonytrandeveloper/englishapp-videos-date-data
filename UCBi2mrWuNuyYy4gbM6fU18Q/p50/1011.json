@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JVIeYm-PCl0",
-            "title": "President Obama's Syria Strike Plan: 'This Week' Panel",
-            "secondDuration": 408,
-            "group": "group_7"
-        },
-        {
             "videoId": "CXjAxBSHKTI",
             "title": "Secretary of State John Kerry 'This Week' Interview: Obama's Plan for Syrian Military Strike",
             "secondDuration": 690,
@@ -301,8 +295,14 @@
             "title": "Feed Frenzy: Touching Reunions",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "6W6MVrLgHLM",
+            "title": "Remembering The March on Washington",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

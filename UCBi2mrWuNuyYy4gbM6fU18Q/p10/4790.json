@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YJxY4MAdgaU",
-            "title": "Defiant Cattleman Wins Land Fight",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "CU3XCnoOgTw",
             "title": "Tax Refunds Seized",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Oscar Pistorius Brought to Tears in Court",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "zODFMw5TdI4",
+            "title": "Fresh Clues in Tragic California Bus Crash",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

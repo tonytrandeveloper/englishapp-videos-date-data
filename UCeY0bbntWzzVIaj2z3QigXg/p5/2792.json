@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8YVNaIfml0Y",
-            "title": "New Traditions: Finding A Silver Lining In Quarantine | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZQj4OS_h3Ts",
             "title": "Live: Trump Delivers Remarks On Vaccine Development | NBC News",
             "secondDuration": 2171,
@@ -31,8 +25,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2668,
             "group": "group_7"
+        },
+        {
+            "videoId": "XW3nL6Or3qU",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 4145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

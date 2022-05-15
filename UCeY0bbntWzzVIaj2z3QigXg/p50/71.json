@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iosfLgMSdYk",
-            "title": "LIVE: Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
-            "secondDuration": 2770,
-            "group": "group_7"
-        },
-        {
             "videoId": "fMtlWc0O0Sw",
             "title": "Addressing The Mental Health And Trauma Black Women Face In America",
             "secondDuration": 310,
@@ -301,8 +295,14 @@
             "title": "Biden Touts Infrastructure Law In New Hampshire",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "BsKFb8NnUjM",
+            "title": "New England Battling Rise In Covid Cases Among The Unvaccinated",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

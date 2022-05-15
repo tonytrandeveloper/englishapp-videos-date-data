@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sLVy7MEZIwY",
-            "title": "Texas Officials: Over 60 People Decontaminated After Chemical Leak At Water Park",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "vxUfNT0r4wQ",
             "title": "John Lewis: One Year After His Death National Tributes Honor His Legacy",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Broadcast (Full) - July 17th, 2021",
             "secondDuration": 1264,
             "group": "group_7"
+        },
+        {
+            "videoId": "d4uTOwdeIKg",
+            "title": "DACA Ruled Illegal By Federal Judge",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WKu10kBYdv0",
-            "title": "High school drama club gets high marks for 'Alien' musical",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "AbkGj-lw5Mg",
             "title": "Napa Valley vineyard owner among parents charged in admissions scandal",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "FBI reviewing dropped Jussie Smollett charges",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRC6QFPXeuI",
+            "title": "How high school girls fought back after male classmates rated their appearances",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EZMn9Mmj1ss",
-            "title": "Judiciary Committee prepares to hear new testimony Monday | ABC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "3FQXv9O1h2U",
             "title": "New details emerge in Pensacola naval base shooting as investigation ramps up | ABC News",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "Weinstein attorney dismisses accuser allegations: 'You have to see the full picture' | Nightline",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "bK2k8Yw-XWo",
+            "title": "Dog rescued by US Coast Guard",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

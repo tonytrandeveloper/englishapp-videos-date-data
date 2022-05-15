@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t0o32ZAGxJg",
-            "title": "Top Story with Tom Llamas Full Broadcast - October 19th",
-            "secondDuration": 2984,
-            "group": "group_7"
-        },
-        {
             "videoId": "03j8Gd73kSA",
             "title": "Nightly News Full Broadcast - October 19th",
             "secondDuration": 1271,
@@ -61,8 +55,14 @@
             "title": "Watch: Video Shows Sikh Men Using Turbans To Rescue Hikers At Canada Waterfall",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "bT5p4-ro7Ig",
+            "title": "Diver Finds Sword, Believed To Be 900-Years-Old From The Crusades",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

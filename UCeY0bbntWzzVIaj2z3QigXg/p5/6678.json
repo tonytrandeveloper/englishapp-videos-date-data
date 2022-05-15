@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "51ULCyivVDg",
-            "title": "Istanbul Airport Attacked, Dozens Killed and Wounded | NBC Nightly News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "IlfyV-UrLao",
             "title": "House Republicans Release Long-Awaited Benghazi Report | NBC Nightly News",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "NYC Queer Party Is ‘Open For All’ | NBC Out | NBC News",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "mMMCC4hV-sQ",
+            "title": "Texas Lieutenant Governor Condemns SCOTUS Ruling | NBC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e8Wn4JzRnuc",
-            "title": "Gas Station Explodes After Botched Diesel Heist in Florida",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ukmbd6Rx8HA",
             "title": "Protesters, Police Clash Despite Curfew in Ferguson, Missouri",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "Demi Lovato Readies Herself for World Tour",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sh7NZjxRGAI",
+            "title": "Florida Georgia Line Makes Big Announcement on 'GMA'",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

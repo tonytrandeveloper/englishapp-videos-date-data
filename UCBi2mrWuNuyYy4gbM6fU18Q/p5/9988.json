@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cVlo8fCeBJY",
-            "title": "'This Week': Back From the Brink From the Government Shutdown",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ji2my2BjESQ",
             "title": "'This Week': Talking to the Tea Party",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "Lupita Nyong'o Interview: 'This Week' Sunday Spotlight",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "nSX-5wy53eg",
+            "title": "'This Week': 2016 Presidential Election Forecast - Jeb Bush, Roundtable on What to Expect",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

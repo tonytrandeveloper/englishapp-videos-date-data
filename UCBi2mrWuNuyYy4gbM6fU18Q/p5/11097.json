@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HgkVOhPERcw",
-            "title": "First Lady Debate",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "6jlkxDikeiI",
             "title": "Hacking Hotel Locks in Seconds With Cheap Tools",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Former Senator George McGovern Dies",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "0UHHYoipuVg",
+            "title": "Housing Market Bounces Back",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

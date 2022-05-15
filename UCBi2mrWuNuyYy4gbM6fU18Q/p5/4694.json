@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FLJyYUhZmz4",
-            "title": "CBS under fire over severance for ex-CEO",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "4NTLk9b-pTw",
             "title": "Over 1 million set to evacuate ahead of Florence",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Tennis officials stand by US Open umpire in Serena Williams flap",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ONbX3tGXqY",
+            "title": "Homecoming queen makes game-winning kick during football game",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

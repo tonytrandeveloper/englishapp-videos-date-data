@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4_f4yBuhRAY",
-            "title": "Massive Alligator Spotted at Nature Preserve",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgzIoVVmPtw",
             "title": "John Legere at CES | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 789,
@@ -31,8 +25,14 @@
             "title": "D.C. Hotels Unveil Pricey Perks for Trump’s Upcoming Inaugeration | ABC News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z-OMCmI3bSQ",
+            "title": "Trump's War of Words with Civil Rights Icon Rep. John Lewis",
+            "secondDuration": 511,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

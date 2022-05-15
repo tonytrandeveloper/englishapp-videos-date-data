@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MF0z1j6e-fs",
-            "title": "Hurricane Dorian emergency, Brexit outrage, Italian volcano erupts l ABC News",
-            "secondDuration": 1386,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z95HP7CRO6s",
             "title": "Families of Muslims allegedly detained by Chinese government speak out I Nightline",
             "secondDuration": 555,
@@ -61,8 +55,14 @@
             "title": "Final day for 2020 Dem. presidential candidates to qualify for Houston debates l ABC News",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "SnoIpoVggXM",
+            "title": "Hindu festival, 'Tomatina' and football match: World in Photos, Aug. 28",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ysqUys6Clss",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 846,
-            "group": "group_7"
-        },
-        {
             "videoId": "i04HCNI-ghA",
             "title": "'This Week': Healthcare.gov Website Havoc",
             "secondDuration": 825,
@@ -31,8 +25,14 @@
             "title": "Dick Cheney 'This Week' Interview - Former Vice President on NSA Spying Revelations and GOP Politics",
             "secondDuration": 547,
             "group": "group_7"
+        },
+        {
+            "videoId": "AkaSSX8Le6s",
+            "title": "'This Week': Dick Cheney's Heart Transplant, New Book 'Heart: An American Medical Odyssey'",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

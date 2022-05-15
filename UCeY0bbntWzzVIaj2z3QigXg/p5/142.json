@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IHNtfrz4e60",
-            "title": "Top Story with Tom Llamas - March 22 | NBC News NOW",
-            "secondDuration": 3060,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sbd8U-YyO8A",
             "title": "St. Jude’s Mission To Save Ukrainian Children With Cancer",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Devastation In Texas After String Of Storms",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "4JM7MIETTA4",
+            "title": "Day 2 of Confirmation Hearings For Jackson Marked By Contentious Questioning",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

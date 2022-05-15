@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7UE9jAJFwgc",
-            "title": "'Deliberate' car ramming injures 19 in Australia",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "15NFBH4rYTk",
             "title": "Spending 10 days inside Putin's Russia: Part 1",
             "secondDuration": 637,
@@ -61,8 +55,14 @@
             "title": "Family claims doorbell app saved their lives",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "lcpxLXjYAa8",
+            "title": "Americans could see tax bill impact in early 2018",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

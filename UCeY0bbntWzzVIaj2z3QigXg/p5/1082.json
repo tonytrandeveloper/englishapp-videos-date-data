@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GzrJfKyb1Cc",
-            "title": "Morning News NOW Full Broadcast - August 12",
-            "secondDuration": 2861,
-            "group": "group_7"
-        },
-        {
             "videoId": "hUh6-dSHn-8",
             "title": "Live: Biden Delivers Remarks on Prescription Drug Prices | NBC News",
             "secondDuration": 1160,
@@ -31,8 +25,14 @@
             "title": "Should Gov. Cuomo be impeached despite his resignation?",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "qsNciDKo3vY",
+            "title": "How The U.S. Is Becoming More Diverse Than Ever",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

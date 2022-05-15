@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4m4YQlMtB1c",
-            "title": "Woman in so-called 'Gone Girl' case recounts the 'nightmare'",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "5DoqIbTVJvs",
             "title": "Siblings allegedly held captive free for 1st time",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Guardian angel helps Loyola Chicago basketball team enter the Sweet 16",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "VxB25HAW8I4",
+            "title": "More than 100,000 people still without power after Hurricane Maria",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

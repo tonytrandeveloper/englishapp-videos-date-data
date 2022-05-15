@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hZ5saK1OyRU",
-            "title": "Michelle Obama Takes Aim At ‘Birther’ Controversy | NBC News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "GrN40WqiODk",
             "title": "John Kasich Says Chances Of Voting Donald Trump Are 'Miniscule' | Meet The Press | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: President Barack Obama Was Born In The United States, Period | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "PuFhHFd_O5A",
+            "title": "Hillary Clinton: Donald Trump's Campaign Founded On, Led ‘Birther’ Movement | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

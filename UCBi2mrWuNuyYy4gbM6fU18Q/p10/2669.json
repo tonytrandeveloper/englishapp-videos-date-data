@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N2UpAEm39k4",
-            "title": "Online holiday sales expected to top $100 billion in US for the 1st time",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "6pA72dIzGHs",
             "title": "Mayor of San Francisco dies after collapsing inside grocery store",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "New York City on heightened alert after ISIS-inspired attack",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "_wru1IYVZjk",
+            "title": "Women accusing Trump of sexual misconduct urge Congress to investigate",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

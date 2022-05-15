@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "k612wv59Og0",
-            "title": "2012 Election: Music Americans Thought About While Voting",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "xI4VE_Li3pM",
             "title": "Presidential Election: Hurricane Sandy Victims Cast Their Votes",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "New York City Marathon Canceled Due to Superstorm Sandy",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Dhq9Oet9bs",
+            "title": "Violent Home Invasion Caught on Video: Police Hunt Two Suspects",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

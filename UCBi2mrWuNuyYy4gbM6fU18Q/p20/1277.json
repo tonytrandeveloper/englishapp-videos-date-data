@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5AOyCWB-Jn4",
-            "title": "Demonstrators march to protest police shooting of unarmed man",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "BbWVW76dQxk",
             "title": "Woman claiming to be Trump's ex-mistress: 'There was a real relationship'",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "Pres. Donald Trump signs a Presidential Memorandum targeting China’s economic aggression | ABC News",
             "secondDuration": 1558,
             "group": "group_7"
+        },
+        {
+            "videoId": "RUIF2yuHnUI",
+            "title": "White House update on spending bill | ABC News",
+            "secondDuration": 1213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

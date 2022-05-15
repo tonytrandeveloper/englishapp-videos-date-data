@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qJxqk3cTuF0",
-            "title": "Why Pittsburgh for the G20 Summit?",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "lRYY6IuFjvY",
             "title": "Murder of Teens Stuns Houston Suburb",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Gadhafi's Speech, and Tent, Draw Protests",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "x1OyYCo5Moo",
+            "title": "Eureka! Water Found on the Moon",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

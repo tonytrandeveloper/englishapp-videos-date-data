@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VkVZweUuUkg",
-            "title": "Health Care Town Halls Get Tense",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "zgDtzofR5f0",
             "title": "Flu in School: Potential Health Crisis",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Jobs Report: Is Anyone Hiring?",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "GrCCAm1Rqfk",
+            "title": "Sex Pain Leads to Physical, Emotional Anguish",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

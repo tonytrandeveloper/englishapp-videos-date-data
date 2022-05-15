@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jlqs7ptwRDE",
-            "title": "6-year-old sees color for the 1st time",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hfzuz_llY6g",
             "title": "Ex-NFL cheerleader accuses team of discrimination",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "In new book, former FBI director likens President Donald Trump to a mafia boss",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z7qbUNJX7Xw",
+            "title": "Chemical weapons inspectors headed to site of suspected chemical attack",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0p2ulgRcYHY",
-            "title": "2016 'World's Ugliest Dog'",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ql4sauqVvdA",
             "title": "'Game of Thrones' Finale Stuns Viewers",
             "secondDuration": 45,
@@ -121,8 +115,14 @@
             "title": "Brain Eating Amoeba Kills Young Girl",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "wUfLk2xgXtU",
+            "title": "Many Are Reeling After the U.K.'s Decision to Leave the European Union",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

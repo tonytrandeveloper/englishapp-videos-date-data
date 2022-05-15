@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kb1FQ_Q_ZC8",
-            "title": "Obama, Trump react to judge's health care ruling",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "DAwxrWH_RYw",
             "title": "Family of girl who died in border custody calls for 'thorough' investigation",
             "secondDuration": 50,
@@ -31,8 +25,14 @@
             "title": "Family disputing how 7-year-old migrant girl died in US custody",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "5bMIPk6X3WY",
+            "title": "Federal judge strikes down Obamacare law",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

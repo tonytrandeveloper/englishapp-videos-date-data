@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DuaqCV0z5lM",
-            "title": "Air Travel Alert: Homeland Security Warns of Possible Shoebomb Attack",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "i4gIPEe7J34",
             "title": "Sochi Winter Olympics 2014: Thrills and Chills in Women's Figure Skating",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Battles Windy Weather",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "CjsHX7H4wqw",
+            "title": "Australian Landmark Destroyed in Controlled Explosion",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8ich6Q9Lpu0",
-            "title": "Around The Globe: Exploring Brazil | Nightly News: Kids Edition",
-            "secondDuration": 1287,
-            "group": "group_7"
-        },
-        {
             "videoId": "xlQWiE6i9Mg",
             "title": "New Report Reveals Specifics Of Racial Wealth Gap in America",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "Biden: U.S. Troops Will Withdraw From Afghanistan by August 31",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "oa8MbqRZQ4E",
+            "title": "Biden Delivers Remarks On U.S. Troop Withdrawal From Afghanistan | NBC News",
+            "secondDuration": 1895,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

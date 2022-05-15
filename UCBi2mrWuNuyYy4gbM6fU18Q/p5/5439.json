@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tXJycI1UMYg",
-            "title": "Boaters rescued after nearly 5 months lost at sea",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "r9x-5i-gCQc",
             "title": "10-year-old takes police on high-speed chase",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Intrigue still surrounds assassination of President John F. Kennedy",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "2FBmpU0EMtM",
+            "title": "Ashley Judd reflects on how she handled alleged Weinstein encounter",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

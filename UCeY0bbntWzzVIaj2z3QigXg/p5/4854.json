@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xPugR-h-nBI",
-            "title": "Facebook Uncovers Apparent New Efforts To Influence U.S. Elections | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "eQGBMsTE9Kc",
             "title": "Alan Alda Reveals He Has Parkinson’s Disease | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Holds Roundtable Discussion On Jobs In Tampa | NBC News",
             "secondDuration": 1454,
             "group": "group_7"
+        },
+        {
+            "videoId": "CAKkiQNiTn8",
+            "title": "Homeland Security Sec. Kirstjen Nielsen On U.S. Election Meddling: 'It Was The Russians' | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

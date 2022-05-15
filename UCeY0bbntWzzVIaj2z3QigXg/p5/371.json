@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GX7k8UrE_-c",
-            "title": "Trump Lashes Out at Pence Over Critical Speech",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "M2hfcY5WbBc",
             "title": "Newly Deployed U.S. Troops Arrive in Europe",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "NOW Tonight With Joshua Johnson Full Episode - Feb. 4 | NBC News NOW",
             "secondDuration": 2919,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xut8rRwIUro",
+            "title": "New Leader In Burkina Faso Following Military Takeover",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

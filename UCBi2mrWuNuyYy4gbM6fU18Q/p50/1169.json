@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vQ6Frh6WMVs",
-            "title": "Shark Attack Death Blamed on Reality TV",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "_q2VTQzt6wY",
             "title": "Pakistan Plane Crash: No Survivors",
             "secondDuration": 62,
@@ -301,8 +295,14 @@
             "title": "Webcast: Secret Service Scandal; Deadly Tornadoes",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6YEwjVMqus",
+            "title": "Secret Service Scandal: President Calls for 'Thorough, Rigorous' Investigation",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

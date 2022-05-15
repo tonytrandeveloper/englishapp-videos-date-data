@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Reg5icxHeyM",
-            "title": "Dramatic Helicopter Rescue From Ship Capsized By Hurricane Maria | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "dBWhPbLg8iE",
             "title": "'Everything Gone:' Villager Surveys The Devastation Of Hurricane Maria In Dominica | NBC News",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "CVS Pharmacy To Limit Opioid Prescriptions | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "xLX2ZWobmeA",
+            "title": "GOP Health Care Bill Cassidy Faces The ‘Jimmy Kimmel Test’ | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

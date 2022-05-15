@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IxlSYQvGJuY",
-            "title": "London Apartment Building Burns In Massive Fire | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "-e2FGvbbwr8",
             "title": "Survivors Recall London Fire Horror: 'People Were Screaming for Help' | NBC News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "North Korea Frees US Student Otto Warmbier | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "th2mFQGv6W8",
+            "title": "Rumors President Donald Trump Considering Firing Special Counsel Robert Mueller | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

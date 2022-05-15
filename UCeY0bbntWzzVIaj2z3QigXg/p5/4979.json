@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7RAqXnzdfVk",
-            "title": "Way Too Early: The 2020 Election | NBC News",
-            "secondDuration": 19709,
-            "group": "group_7"
-        },
-        {
             "videoId": "gNYz4-B5m7E",
             "title": "API TransFusion: The Journey To The Historic Retreat | NBC Asian America",
             "secondDuration": 454,
@@ -31,8 +25,14 @@
             "title": "Mr. GOOOAL, Andres Cantor, Is Excited For The World Cup | NBC News",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "ON-5JxALfnQ",
+            "title": "North Korean TV Hails President Donald Trump’s Decision To Ax War Games | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

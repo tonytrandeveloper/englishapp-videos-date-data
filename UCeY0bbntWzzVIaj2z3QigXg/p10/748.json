@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eIZgGjpITyM",
-            "title": "Testing New York State’s Excelsior Pass | NBC News NOW",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "RirLVZPLrjY",
             "title": "Brennan: ‘The President Needs To Remain Very Vigilant’ When Dealing With Russia | NBC News",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "Texas Redistricting Fight Split Over Party Lines After Census Results | NBC News NOW",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "PvAaE5b6tOs",
+            "title": "Fake Covid Vaccination Cards Circulating In Online Forums | NBC News NOW",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

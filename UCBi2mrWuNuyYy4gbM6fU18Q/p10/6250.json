@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eac8gCdYyGc",
-            "title": "ABC News Yahoo! News Poll on 'Top Line'",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "VUyzhjnvQLw",
             "title": "Wallace: First Female Pres. 'Watching Top Line'",
             "secondDuration": 629,
@@ -61,8 +55,14 @@
             "title": "Tova Wang: Turn Out is 'Key' to 2010 Election",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "t6HeFPwMK2g",
+            "title": "Tea Party Express: 'Reid Is Our Number One Target'",
+            "secondDuration": 608,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

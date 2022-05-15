@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YYnwnjLwFBE",
-            "title": "Sarah Palin Bus Tour Reignites Talk of Presidential Run",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "XR6nfwLa0_o",
             "title": "Lady Gaga Interview: 'GMA' Concert a 'Dream Come True' (05.27.11)",
             "secondDuration": 168,
@@ -301,8 +295,14 @@
             "title": "Inside DSK's Indictment",
             "secondDuration": 323,
             "group": "group_7"
+        },
+        {
+            "videoId": "YNOHWrAbX2w",
+            "title": "Tylenol Killings Linked to Unabomber?",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

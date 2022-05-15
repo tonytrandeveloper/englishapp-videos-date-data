@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4HnjDE5Baa0",
-            "title": "San Bernardino Shooting: News Helicopter Captures Dramatic Play-by-Play",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "c2btJfna3Zk",
             "title": "San Bernardino Shooting: At Least 2 Suspects Identified",
             "secondDuration": 591,
@@ -61,8 +55,14 @@
             "title": "San Bernardino Shooting Eyewitness: ‘Bodies on the Floor’",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "zqFUpPcqlxY",
+            "title": "'GMA' Hot List: Chris Christie on the State of His Presidential Campaign",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

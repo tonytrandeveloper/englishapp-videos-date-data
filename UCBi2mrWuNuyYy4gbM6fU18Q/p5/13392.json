@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pLzceGPMXJw",
-            "title": "The ESPN of Shopping: Backstage at QVC",
-            "secondDuration": 455,
-            "group": "group_7"
-        },
-        {
             "videoId": "iA-Bb0XgXM4",
             "title": "Quick Fix: When the Lovey Stops Loving",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Recession's New Gender Roles",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "zuWV85jt8Wk",
+            "title": "Amplified: Superdrag",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

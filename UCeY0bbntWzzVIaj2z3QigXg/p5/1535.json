@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bSfyiZzDpIE",
-            "title": "How One Woman Aims To Cash In On Her Savings And Travel The World | NBC News",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "iN9wH6UVWcw",
             "title": "Chauvin Convicted Of Murder, Manslaughter In George Floyd’s Death | NBC Nightly News",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Replay: Derek Chauvin Found Guilty On All Charges In Murder Of George Floyd | NBC News",
             "secondDuration": 20935,
             "group": "group_7"
+        },
+        {
+            "videoId": "KnKtagdvcWA",
+            "title": "Lester Holt On State Of The Nation After Guilty Verdict In Death Of George Floyd | NBC Nightly News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

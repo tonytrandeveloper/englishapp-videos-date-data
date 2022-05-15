@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cr36nfEylvE",
-            "title": "Tropical Storm Beryl Heads Toward East Coast",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "hQYF4xI6JLc",
             "title": "Syrian Massacre of 32 Children Pressures Obama's White House to Back President Assad's Removal",
             "secondDuration": 54,
@@ -61,8 +55,14 @@
             "title": "80-Year-Old Skydiver's Nightmare Jump",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "u3in7_x1zQw",
+            "title": "Pippa's Fashion Flop",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

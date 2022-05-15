@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8ZM6uCL7twk",
-            "title": "Trump speaks out as rules set for historic trial l ABC News",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "00thGVawFuQ",
             "title": "Pro-gun rally at Virginia capital draws thousands of armed protesters | Nightline",
             "secondDuration": 456,
@@ -61,8 +55,14 @@
             "title": "Man kills 2 officers, burns 7 homes to the ground",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "HfYfUWIDzOw",
+            "title": "Increased security, state of emergency amid Virginia weapons ban",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

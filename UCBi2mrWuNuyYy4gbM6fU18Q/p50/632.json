@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "BwgcG4LZXKc",
-            "title": "NC Lawmakers Fail to Repeal HB2 'Bathroom Bill'",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "LVs6utsQ6XM",
             "title": "Dashcam Shows Semitrailer Driver Swerve Off Highway",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Donald Trump Surpasses 270 Electoral Votes Despite Calls for Protest",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "LiSSKRga4Bg",
+            "title": "Police Search for Man Accused of Killing 3-Year-Old in Road Rage Incident",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

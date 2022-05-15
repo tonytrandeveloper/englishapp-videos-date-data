@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2vxY5Rm9C28",
-            "title": "Biden Delivers Remarks On Covid Response | NBC News",
-            "secondDuration": 910,
-            "group": "group_7"
-        },
-        {
             "videoId": "pgWe4sYoH88",
             "title": "How The Chauvin Murder Conviction May Impact The Future Of Policing | NBC News NOW",
             "secondDuration": 472,
@@ -121,8 +115,14 @@
             "title": "Minnesota Governor: Chauvin Guilty Verdict Is ‘Important Step Towards Justice’ | NBC News NOW",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "S6b0680GrvU",
+            "title": "Vice President Harris Speaks After Derek Chauvin Verdict: 'We Feel A Sigh Of Relief' | NBC News",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

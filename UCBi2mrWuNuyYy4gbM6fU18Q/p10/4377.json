@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tANLQAUQss8",
-            "title": "Self-Driving Car Makes Progress on Cross-Country Expedition",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "D6k1bdEx52Q",
             "title": "Alleged ISIS 'Hit List' Released Online",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Starbucks Drops 'Race Together' Initiative",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "WBvBJUCcdA8",
+            "title": "Science Examines Why Your Brain Loves BBQ",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

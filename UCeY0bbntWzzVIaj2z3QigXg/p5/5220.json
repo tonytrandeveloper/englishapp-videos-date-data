@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "exNRspRZtn8",
-            "title": "Melania Trump Addresses Critics At Cyberbullying Summit | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "kCTikNtreQw",
             "title": "6 Months After Hurricane Maria, ‘Forgotten’ Areas In Puerto Still Without Power | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Federal Trade Commission Reportedly Probing Facebook | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "MgAEmzP9OZs",
+            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

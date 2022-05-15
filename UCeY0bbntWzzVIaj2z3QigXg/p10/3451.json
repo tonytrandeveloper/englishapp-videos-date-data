@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cdA9FpFqh5M",
-            "title": "Donald Trump On 9/11 Statement: 'I'm Not Taking It Back' (Full) | Meet The Press | NBC News",
-            "secondDuration": 691,
-            "group": "group_7"
-        },
-        {
             "videoId": "j3EKi5vJz2k",
             "title": "Dr. Ben Carson On His Trip To Jordan (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 614,
@@ -61,8 +55,14 @@
             "title": "A Little Boy’s Mission to Thank Every New York City Cop, One-by-One | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "rcS-zaxw-W0",
+            "title": "John Kasich Talks Judeo-Christian Agency (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

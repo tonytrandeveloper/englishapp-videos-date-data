@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5wZ1PEghQ0s",
-            "title": "'I Come From A Very Strong Mexican Family': El Paso Survivor On Healing | NBC News Now",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "stICYuP8j2U",
             "title": "Watch live: SpaceX launches Israeli satellite AMOS-17",
             "secondDuration": 2245,
@@ -31,8 +25,14 @@
             "title": "Vice President Mike Pence Calls El Paso And Dayton Mass Shootings 'Acts Of Pure Evil' | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "yEvdzL9PoMY",
+            "title": "Ohio Governor Outlines Planned Safety Protection Orders After Dayton Shooting | NBC News",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

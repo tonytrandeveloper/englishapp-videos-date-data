@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZFu2g_vqi1s",
-            "title": "Covid Cases Surge In China And Europe",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "8PP5MKqqTlk",
             "title": "Two British-Iranian Dual Citizens Released By Iran",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - March 16",
             "secondDuration": 1264,
             "group": "group_7"
+        },
+        {
+            "videoId": "gb9p_Ew8QuQ",
+            "title": "Ukraine Crisis: Inside Refugee Shelter Above Lviv Train Station",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

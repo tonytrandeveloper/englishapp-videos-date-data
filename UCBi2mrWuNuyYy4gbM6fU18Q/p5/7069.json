@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Bvj2VkmOM08",
-            "title": "Tiffany Trump RNC Speech: Highlights Trump's Best Qualities",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "GZlnNSIYh8I",
             "title": "Ben Carson Full Speech Supporting Trump",
             "secondDuration": 442,
@@ -31,8 +25,14 @@
             "title": "Mitch McConnell: 'Elect a President Who Thinks America Is Exceptional'",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "minBZQOkSZ4",
+            "title": "NRA Lobbyist on Protecting 2nd Amendment Rights at RNC",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

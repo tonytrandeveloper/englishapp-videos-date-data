@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Zcosdg2NiI",
-            "title": "Political impact and terror threats in the wake of Baghdadi's death | ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "cKpGScQv2oI",
             "title": "Trump announces ISIS leader dies in US commando raid l ABC News",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "California is in a statewide emergency as 2 new fires ignite near San Francisco l ABC News",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBOOB58_cMw",
+            "title": "The founder and leader of ISIS has been killed in a US raid l ABC News",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

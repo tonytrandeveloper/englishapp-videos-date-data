@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dg6UWGpajlU",
-            "title": "A&E Receives Death Threats Over 'Duck Dynasty' Star's Suspension",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "DdWvT4rZ69Y",
             "title": "NASA Begins Series of Spacewalks to Fix Space Station Cooling System",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Nine Year Old Bowls Perfect Strikes",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "tF--5KUzObw",
+            "title": "ABC World News Now - Christmas Songs",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

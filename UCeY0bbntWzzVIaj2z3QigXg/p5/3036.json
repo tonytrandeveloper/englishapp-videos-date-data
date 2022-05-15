@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FYVuNu5eeVY",
-            "title": "U.S Cases near 13,000, More Than Half In 10 counties  | NBC Nightly News",
-            "secondDuration": 724,
-            "group": "group_7"
-        },
-        {
             "videoId": "9jEMgLsVBvw",
             "title": "Trump Tells Mass. Governor To Acquire Face Masks Without Federal Help | NBC News NOW",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "How Rural Hospitals Are Preparing For Coronavirus Patients | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XH8OqojDvCA",
+            "title": "Italy Overtakes China In Coronavirus-Related Deaths | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

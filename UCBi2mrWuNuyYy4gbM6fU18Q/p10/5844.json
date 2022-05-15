@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JsZYXZtT3Q8",
-            "title": "Space Shuttle Discovery Makes Final Flight",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "75zxxhU8OD4",
             "title": "Gray Whale Rescue In California; Whale Gets Entangled in Fishing Line Off Coast of San Onofre",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Cute Baby Caught Doing Pull-Ups",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0jD2KnA0gQ",
+            "title": "Tupac Alive at Coachella, Performs with Snoop Dogg",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

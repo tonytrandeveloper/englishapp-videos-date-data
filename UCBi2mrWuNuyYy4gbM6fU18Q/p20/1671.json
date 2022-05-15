@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "I2u_GWXr5Aw",
-            "title": "Florida Streets Flooded After Hurricane Matthew Hits",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "q7T0a4KBhXg",
             "title": "Mike Pence Doesn't Answer Questions About Trump's Vulgar Comments",
             "secondDuration": 31,
@@ -121,8 +115,14 @@
             "title": "SPECIAL REPORT: President Obama Comments on Hurricane Matthew",
             "secondDuration": 565,
             "group": "group_7"
+        },
+        {
+            "videoId": "y4BKfL-PA2Y",
+            "title": "Aerials Show Hurricane Matthew Damage in Cuba",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

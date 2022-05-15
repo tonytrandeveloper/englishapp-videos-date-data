@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mb0gWGxEACI",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Feb. 7 | NBC News NOW",
-            "secondDuration": 2713,
-            "group": "group_7"
-        },
-        {
             "videoId": "SGQEQtOsx5E",
             "title": "Top Story with Tom Llamas - Feb. 7 | NBC News NOW",
             "secondDuration": 2970,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW - Feb. 7 | NBC News NOW",
             "secondDuration": 2599,
             "group": "group_7"
+        },
+        {
+            "videoId": "6yKwkAW5pN8",
+            "title": "New Interview With Chinese Tennis Star Peng Shuai Raises More Questions",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

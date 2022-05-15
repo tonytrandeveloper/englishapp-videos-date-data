@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iSajJwypYRE",
-            "title": "Americans Rush to Get the Best Holiday Deals",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "XMG4Cl00kIo",
             "title": "Drones Put Other Aircraft at Risk",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Talkin’ Turkey",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "OiG_MjDR900",
+            "title": "Two Lucky Turkeys",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

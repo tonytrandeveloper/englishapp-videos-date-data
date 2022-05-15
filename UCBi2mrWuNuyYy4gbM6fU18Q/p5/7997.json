@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YVVLNPN6TTg",
-            "title": "Bernie Sanders's Closing Statements at ABC News Democratic Debate",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "oTDnxyJtEro",
             "title": "Democratic Candidates Debate Gun Control Laws",
             "secondDuration": 480,
@@ -31,8 +25,14 @@
             "title": "Martin O'Malley's Opening Remarks in ABC News Democratic Debate",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "ympF6aNWK7E",
+            "title": "Bernie Sanders's Opening Remarks in ABC News Democratic Debate",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

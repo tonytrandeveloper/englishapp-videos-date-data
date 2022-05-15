@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KFy3QwMZnBg",
-            "title": "Holocaust and Pittsburgh synagogue attack survivor celebrates 81st birthday",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "FlIPjK5rVWs",
             "title": "Trump addresses paid family leave, abortion at State of the Union",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Trump says new Mexico-Canada deal will replace NAFTA",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXCN4id2MVc",
+            "title": "Trump honors Debra Bissell at State of the Union",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uRvr64hwoXc",
-            "title": "WATCH: Jet Suit Paramedic Joins Mountain Rescue Drill | NBC News NOW",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "hE4N7d7R0hk",
             "title": "Drone Video Reveals Glass Fire Devastation In Northern California | NBC News NOW",
             "secondDuration": 73,
@@ -301,8 +295,14 @@
             "title": "Florida Governor Announces Restaurants, Bars Can Reopen At Full Capacity | NBC News NOW",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "IBxaFWttVv0",
+            "title": "Live: Trump Delivers Remarks On Black Economic Empowerment | NBC News",
+            "secondDuration": 3335,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jxROk7NyDuo",
-            "title": "The Conversation: Tiger Woods Says He's Sorry",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "42-OkOCdRVA",
             "title": "Top Line: Rep. Issa: Republicans 'Can't Mess It Up Again'",
             "secondDuration": 566,
@@ -31,8 +25,14 @@
             "title": "Republicans Rising: GOP in D.C.",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "NEl6t2zHtv0",
+            "title": "Bitter Pilot Crashes Plane Into IRS Building",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

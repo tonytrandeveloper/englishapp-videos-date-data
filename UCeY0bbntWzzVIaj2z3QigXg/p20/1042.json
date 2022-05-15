@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "StlNc2VtsuU",
-            "title": "What Causes Tornadoes, And Why Are They So Destructive? | Mach | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "yo4OBDmlkRY",
             "title": "Irshad Manji: Diversity Based On Labels Is Not Diversity At All | Think | NBC News",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "No Charges For Police In Stephon Clark Killing | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "kwcBp3yl3J8",
+            "title": "ISIS Making Last Stand In Small Syrian Village | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

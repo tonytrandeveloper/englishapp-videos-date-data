@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ei1yyoEwgU",
-            "title": "Newt Gingrich calls special counsel team 'bad people'",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZKiviVIAec",
             "title": "NBA MVP Kevin Durant reacts to Warriors win",
             "secondDuration": 266,
@@ -31,8 +25,14 @@
             "title": "Megyn Kelly faces backlash over interview with Alex Jones",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "EgTgncwggPs",
+            "title": "What to expect from AG Jeff Sessions' testimony",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

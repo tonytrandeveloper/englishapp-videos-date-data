@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BjZjnrsnu7U",
-            "title": "White House Holds Press Briefing: March 4 | NBC News",
-            "secondDuration": 3104,
-            "group": "group_7"
-        },
-        {
             "videoId": "0-oV-YBTKjE",
             "title": "Biden Delivers Remarks On His Made In America Commitments | NBC News",
             "secondDuration": 1986,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - March 4",
             "secondDuration": 2985,
             "group": "group_7"
+        },
+        {
+            "videoId": "0jJCVauPyKM",
+            "title": "How Ukrainian Doctors In The U.S. Are Helping Overwhelmed Hospitals In Their Home Country",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

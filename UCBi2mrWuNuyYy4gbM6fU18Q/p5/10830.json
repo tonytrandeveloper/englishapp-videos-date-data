@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "daGXVb8gq6o",
-            "title": "'Back to the Beginning' Christiane Amanpour Part 3: Moses and the Exodus: Was It Real?",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "BkT32VGH8cw",
             "title": "Gen. Norman Schwartzkopf Dead: World Remembers 'Stormin Norman' Military Legacy",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Norovirus Cruise Ship Outbreak: Virus Leaves Hundreds Ill on Queen Mary 2, Emerald Princess",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "vyBpr03QWw4",
+            "title": "Woman Charged for Gun in Deadly Firefighter Ambush",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

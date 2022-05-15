@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vp1EdXvZYFA",
-            "title": "Donald Trump Keeps Up the Heat on Bill Clinton",
-            "secondDuration": 307,
-            "group": "group_7"
-        },
-        {
             "videoId": "8q2EKcr6yCY",
             "title": "'The Bachelor' Premiere: Best and Worst Moments",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Woman Speaks Out After Escaping From From Alleged Carjacker",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "qEG9FdLfiTE",
+            "title": "Putin Inspires a Cologne called \"Leaders Number One\"",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

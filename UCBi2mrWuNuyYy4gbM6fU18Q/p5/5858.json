@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pyOE12hrexI",
-            "title": "New device touted as preventing shark attacks",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "KWPlQ_JVdM8",
             "title": "Former FBI Director Comey prepares for public testimony",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Trump delivers major speech to Muslim leaders on 1st international trip",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "g5ILI2cwUAg",
+            "title": "One-on-One with White House National Security Advisor Lt. Gen. H. R. McMaster",
+            "secondDuration": 718,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

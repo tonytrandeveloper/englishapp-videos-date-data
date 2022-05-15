@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3Vf7IdPnih8",
-            "title": "Celine Dion says she feels 'stronger, more beautiful' and 'more grounded' than ever",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "GemXBak_6HE",
             "title": "Chaos, complexities asylum seekers, border agents face in possible US border shutdown",
             "secondDuration": 476,
@@ -61,8 +55,14 @@
             "title": "Dozens of women sue hospital over hidden cameras",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSAfNj_kUmk",
+            "title": "Suspect identified in LA rapper's murder",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-8L6i6kfmRQ",
-            "title": "Stock Market Whiplash: Dow Surges and Crashes Back Down in Day | NBC Nightly News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "dvsHQldA6fs",
             "title": "How ISIS Tortured a 14-Year-Old Boy Who Defied Them | NBC Nightly News",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Western Wildfires: On the Front Lines With Firefighters Battling the Blazes | NBC Nightly News",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "QWaeD32LhIM",
+            "title": "Panda-monium: Why the Twin Pandas Cubs Are Reason to Celebrate | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

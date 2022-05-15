@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BcApuL07Krg",
-            "title": "Former employee accuses NBC of killing Weinstein story",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "7q-HQ7pFeHA",
             "title": "6-foot lizard terrorizes family in their backyard",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "GOP candidate uses 'monkey it up' discussing black opponent",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "nTs-h5jaByU",
+            "title": "Tennis association apologizes in female player's shirt flap",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

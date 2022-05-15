@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I0N6tocSHoY",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 2026,
-            "group": "group_7"
-        },
-        {
             "videoId": "knoXwWR2Bjo",
             "title": "The Return Of Live Music: The Flaming Lips Hold Space Bubble Show At Oklahoma City Venue | NBC News",
             "secondDuration": 406,
@@ -61,8 +55,14 @@
             "title": "Live: Astronauts Conduct Spacewalk To Upgrade International Space Station | NBC News",
             "secondDuration": 28481,
             "group": "group_7"
+        },
+        {
+            "videoId": "t2c86oX8aXk",
+            "title": "Huge Iceberg Breaks Off Antarctic Ice Shelf | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

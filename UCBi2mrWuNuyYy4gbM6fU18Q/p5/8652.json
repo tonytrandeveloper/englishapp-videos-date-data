@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2G9uPjrY9Ho",
-            "title": "CIA Drones Kill Two Innocent Men",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "ICyBc5nqASQ",
             "title": "Bruce Jenner Describes ‘Emotional Roller Coaster’",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Tyler Oakley Interviewed by Former Footballer Jesse Palmer",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "AQckEVgfr90",
+            "title": "Jesse Palmer Takes You on a Tour of 'Good Morning America'",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

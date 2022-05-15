@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jE6heHu4n6A",
-            "title": "Double Agent's Revenge Killings",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "NSTcbQP6i2E",
             "title": "Weekend Window to St. Vincent and the Grenadines",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "This Little Piggy",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "HyKhWPkB2zQ",
+            "title": "Switch to Credit Union, Avoid Bank Fees",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

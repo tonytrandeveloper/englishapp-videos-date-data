@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4B6GP_F3KuY",
-            "title": "Former Senator Bob Dole Dies at 98",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "B28scAL1LhE",
             "title": "Investigation Into Michigan High School Shooter Continues",
             "secondDuration": 162,
@@ -301,8 +295,14 @@
             "title": "How Amazon Gets Gifts To Your Door Just Two Days After Purchase",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zgjRxrbg8oA",
+            "title": "Blinken Seeks To Ease Russia-Ukraine Tensions",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

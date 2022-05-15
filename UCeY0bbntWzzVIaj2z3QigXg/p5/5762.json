@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TzOUrXSc5FA",
-            "title": "Security Alert After Blast, Fire Reported On London Tube Train | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "AkxvfWRarb0",
             "title": "President Donald Trump Reacts To London Subway Explosion | NBC News",
             "secondDuration": 45,
@@ -31,8 +25,14 @@
             "title": "Pop Star Selena Gomez Reveals Kidney Transplant | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kt-XscUkG7Y",
+            "title": "Equifax, Software Company Blame Each Other For Security Breach | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

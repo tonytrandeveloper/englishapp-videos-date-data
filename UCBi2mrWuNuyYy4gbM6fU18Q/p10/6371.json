@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OQOCy8OZBvU",
-            "title": "America's Favorite Family: 'Modern Family' Cast",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEKBP2AdZFs",
             "title": "Ochocinco Booted From 'Dancing'",
             "secondDuration": 246,
@@ -61,8 +55,14 @@
             "title": "Dem and GOP Strategists Talk 2010 Elections",
             "secondDuration": 622,
             "group": "group_7"
+        },
+        {
+            "videoId": "fSSfPwb_Spg",
+            "title": "Teary Eyed Sen. Arlen Specter Votes in Primary",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "192XFY01wk0",
-            "title": "Armed Man 'Self-Investigates' Pizza Parlor Based on Fake News Claim",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "gRFfLlWDqSE",
             "title": "Trump Team Still Looking for Secretary of State",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Fake News Prompts Shooting Inside DC Pizzeria",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "-J-gsaPeMhw",
+            "title": "Trump Transition: Ben Carson Nominated for Cabinet Position",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

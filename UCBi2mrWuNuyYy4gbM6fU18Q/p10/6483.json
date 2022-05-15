@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_OEDntHL-80",
-            "title": "Financial New Year's Resolutions",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "fNdnBMXV1rE",
             "title": "Findings From Terror Report Expected",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Top Line: Health Care Reform in 2010",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZHtSGErkLe8",
+            "title": "Top Line: GOP and Dem Strategists Go Head-to-Head",
+            "secondDuration": 587,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

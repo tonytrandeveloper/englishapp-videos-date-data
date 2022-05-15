@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JcSx0yrZ3l0",
-            "title": "Three U.S. Army Soldiers Honored with Medal of Honor",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-ya3QdzrqI",
             "title": "Inside Vermont’s Police Reform Effort",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "5 Killed As Storms, Tornadoes Move Across Midwest",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJY6eqh3Mek",
+            "title": "Climate Change In Guatemala: Between Starvation And Migration",
+            "secondDuration": 737,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

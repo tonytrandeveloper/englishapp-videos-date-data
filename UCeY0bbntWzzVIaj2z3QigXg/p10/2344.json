@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ye2TKplLqp0",
-            "title": "360 Video: Inside Boeing’s Starliner Capsule | Mach | NBC News",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "a4vZJgpitJI",
             "title": "Michelle Obama Speaks At Voter Registration Rally | NBC News",
             "secondDuration": 1471,
@@ -61,8 +55,14 @@
             "title": "Senator Lindsey Graham, More Subdued, Urges Judiciary Committee To Move On | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Em_tb48tXo",
+            "title": "Kamala Harris: Brett Kavanaugh Vote ‘Is About Raw Power’ | NBC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

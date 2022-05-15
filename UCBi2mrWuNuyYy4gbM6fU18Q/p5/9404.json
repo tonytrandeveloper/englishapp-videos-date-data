@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4-28GPw-s84",
-            "title": "GoPro: An American Success Story Goes Public",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "oC2PgFCPFiI",
             "title": "Extreme Weather: Flash-Flooding Devastates Minnesota, Other Midwest States",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Beast Burger Packs Both Flavor and Nutrients in One Patty",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "kC9tYZSr7Qo",
+            "title": "Dozens Hospitalized After Falling Ill at DJ Avicii Boston Concert",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

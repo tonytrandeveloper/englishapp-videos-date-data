@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sf9BEjhUb9A",
-            "title": "Time For An Election Holiday | PRESS Pass | NBC News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "c2a8nbEGOU8",
             "title": "Hillary Clinton Asks Voters To Imagine Donald Trump With The Nuclear Codes | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Ballot Typo Leaves Hillary Clinton With ‘Liar’ In Her Name | NBC news",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nn6ficYg0ac",
+            "title": "Life Of An Election Ballot | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2PwNWyQDLS4",
-            "title": "The 'Hot Hand': Explaining The Randomness Of March Madness | Mach | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ex7aAjMsad8",
             "title": "Conviction Episode 6: Video Extra | Conviction | Dateline NBC",
             "secondDuration": 1017,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: Obamacare Is 'Something We Can't Live With In This Country' | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "XHloXe1wCv0",
+            "title": "Goodyear's New Tire Concept Is For The Autonomous Flying Cars Of The Future | Mach | NBC News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

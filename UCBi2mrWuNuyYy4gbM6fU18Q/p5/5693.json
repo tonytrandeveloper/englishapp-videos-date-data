@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EyjizUNG3sc",
-            "title": "President Donald Trump holds ‘Make America Great Again’ rally in Youngstown, Ohio",
-            "secondDuration": 3516,
-            "group": "group_7"
-        },
-        {
             "videoId": "s6f2n8ryW7o",
             "title": "Sen. John McCain returns for vote on health care, delivers remarks",
             "secondDuration": 2487,
@@ -31,8 +25,14 @@
             "title": "Donald Trump says he's 'disappointed' in Jeff Sessions",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "RXHIB4b8unQ",
+            "title": "McCain gets standing ovation when he returns to DC after diagnosis",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

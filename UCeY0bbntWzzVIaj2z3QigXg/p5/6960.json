@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QWaeD32LhIM",
-            "title": "Panda-monium: Why the Twin Pandas Cubs Are Reason to Celebrate | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "23bEQcFuTS8",
             "title": "Meet The Voters Fueling The Donald Trump Surge | Meet The Press | NBC News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Along The ISIS Front Line | NBC News",
             "secondDuration": 648,
             "group": "group_7"
+        },
+        {
+            "videoId": "fEmX5O3bOHQ",
+            "title": "70 International Firefighting Experts Join To Contain Wester Wildfires | Short Take | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

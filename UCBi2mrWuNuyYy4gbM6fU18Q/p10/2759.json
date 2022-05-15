@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V7Ug8gdIEcQ",
-            "title": "Athletes defend NFL protests amidst Trump's condemnations",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "oTtMpq5N1GE",
             "title": "Lebron James on Trump: 'The people run this country ... damn sure not him'",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "NFL star speaks out on the league's unity after Trump comments",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "fLLDZE_Jhys",
+            "title": "NFL players send message to Trump in national anthem dispute",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

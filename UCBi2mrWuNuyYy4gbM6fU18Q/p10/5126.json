@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "htK2L0kNV34",
-            "title": "Mysterious Death at Cirque Du Soleil",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "LL5F7ffUfXI",
             "title": "Aaron Hernandez Murder Investigation: Former Friend Says Ex-NFL Star Shot Him",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Orphaned Cincinnati Zoo Gorilla Gladys Adopted by New Mom",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "gl4EmnrRfPk",
+            "title": "WEBCAST: 19 Firefighters Killed in Arizona Wildfire",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

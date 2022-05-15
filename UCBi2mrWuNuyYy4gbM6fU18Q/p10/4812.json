@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z0ksg-EDHKQ",
-            "title": "Cancer Survivor Hollye Jacobs Pens the Ultimate Survival Guide 'Silver Linings'",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "ewq_r7mBPzs",
             "title": "LAX Baggage Handlers Arrested in Theft Sting",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Saved from a Burning Inferno",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "GvVU1Wt5g-E",
+            "title": "Spring Blizzard Hits Northeast",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

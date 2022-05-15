@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ECVkecIIDSs",
-            "title": "Edited Nancy Pelosi Video Highlights Concerns About Misinformation And Elections | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "RdQsxkqnlMA",
             "title": "Man Who Kidnapped Jayme Closs And Murdered Her Parents Gets Life In Prison | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Full FutureHAUS: Inside The Hi-Tech Home Of The Future | Mach | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "w_rgv0cKNq8",
+            "title": "SpaceX Deploys 60 Starlink Satellites After Successful Launch | Mach | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

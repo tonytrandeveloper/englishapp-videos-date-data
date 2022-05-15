@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2-Ewf_9OZIE",
-            "title": "The 2017 Inauguration Parade",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "nH7DvitF3d8",
             "title": "Black Celebrities Face Backlash for Working with President Trump",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "360º Trump Presidential Inauguration (VR) | ABC News",
             "secondDuration": 5649,
             "group": "group_7"
+        },
+        {
+            "videoId": "PigKT_Nu-Mk",
+            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

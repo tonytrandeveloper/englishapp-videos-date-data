@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JyMSB1kEYSY",
-            "title": "WEBCAST: Speed To Blame",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "VPdUiLWq1D8",
             "title": "The Greatest Play in Sports History?",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Cyber Monday Alert:  Beware of Cyber Scams",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "qjhdWO7RWfQ",
+            "title": "Paul Walker Dead: Actor and Pro Racer, Roger Rodas, Killed in Fiery Crash",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

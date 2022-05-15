@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SKVITDfXzfk",
-            "title": "President Donald Trump Sharpens Attack On Robert Mueller | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "VR-iW-TFE88",
             "title": "Self-Driving Uber Car Involved In Fatal Accident In Arizona | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Self-Driving Uber Causes Pedestrian Death In Arizona | Mach | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "ek30156gMvw",
+            "title": "Mika: I Figured Out How To Get Paid What I'm Worth And You Can Too | Better | NBC News",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

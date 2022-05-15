@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BXKuA-WwrPs",
-            "title": "Authorities Concerned Escaped Killers Headed Towards Vermont | NBC Nightly News",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "I_NQQmUUFQw",
             "title": "As Lake Mead Dries Up, Engineers Dig Deep For Water | NBC Nightly News",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Manhunt For Two Killers In New York Prison Escape | NBC Nightly News",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "_xY4iz6Ly94",
+            "title": "President Obama On Russia Sanctions At G7 Summit | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

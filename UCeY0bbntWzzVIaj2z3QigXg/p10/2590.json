@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2F6lqZKdQcU",
-            "title": "YouTube Shooter Repeatedly Posted Grievances About The Video Platform | NBC Nightly News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "rYY5Th8QhHE",
             "title": "Facebook Data Harvesting Scandal May Have Widened To 87 Million People | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "MLK Talks 'New Phase' Of Civil Rights Struggle, 11 Months Before His Assassination | NBC News",
             "secondDuration": 1611,
             "group": "group_7"
+        },
+        {
+            "videoId": "E66CGSmor04",
+            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I1eZ-MZ4PkY",
-            "title": "Why New York Attorney General Did Not Bring Charges Against Cuomo",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "4D5wM0Hmaes",
             "title": "Pentagon On Lockdown After Reports Of Gunshots Nearby",
             "secondDuration": 41,
@@ -61,8 +55,14 @@
             "title": "U.S. Reaches 70 Percent Covid Vaccine Goal As Cases Continue To Rise",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpG4CaCwdjc",
+            "title": "How Stress Impacts Olympic Athletes’ Performances",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

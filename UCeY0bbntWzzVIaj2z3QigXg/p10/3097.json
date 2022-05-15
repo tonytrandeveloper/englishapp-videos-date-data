@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "144GgCUOvxg",
-            "title": "Daughter, Attorney Of United Airlines Passenger Speak Out | NBC News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "8XS1tOGKh8k",
             "title": "White House Confirms Afghanistan Bomb Strike On ISIS Target | NBC News",
             "secondDuration": 72,
@@ -61,8 +55,14 @@
             "title": "In A Major Reversal, President Donald Trump Says NATO Is ‘No Longer Obsolete’ | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "XhGXFbcIXJQ",
+            "title": "President Donald Trump: US-Russia Relations May Be At ‘All-Time Low’ | NBC Nightly News",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

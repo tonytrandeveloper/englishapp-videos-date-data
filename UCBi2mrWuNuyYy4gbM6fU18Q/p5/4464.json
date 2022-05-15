@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XAHoF6JKdbQ",
-            "title": "2 Chicago officers fatally struck by train while pursuing suspect",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "_htSacdHOPI",
             "title": "Briefing Room: Flynn sentencing delayed, shutdown looms, bump stock ban, McSally Senate appointment",
             "secondDuration": 1505,
@@ -31,8 +25,14 @@
             "title": "New bodycam video shows dramatic moments of  Las Vegas shooting",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMb4pT_KlVU",
+            "title": "Ex-NASA engineer uses glitter to thwart package thieves",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

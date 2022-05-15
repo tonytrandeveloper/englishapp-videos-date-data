@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ggZpmH0DcLg",
-            "title": "MIX: Local News Anchor Breaks it Down on Set",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CEE3euuOfE",
             "title": "SKINNY: CMA Awards Red Carpet Recap",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Anne Hathaway Dishes on Her Upcoming Film, 'Interstellar'",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z6giLkNTGmg",
+            "title": "Chris Christie Discusses Successful GOP Governor Races in the 2014 Election",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

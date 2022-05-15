@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5STOw71wrdg",
-            "title": "Skier Rescues His Son after falling into a TREE well",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "M3ANj0Rd-ak",
             "title": "Candidates Chances of Winning Based on Facebook Likes | ABC News",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "Grammys 2016 | Best Moments of the Night",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDF_T96uDew",
+            "title": "Winter Storm Creates Icy Conditions Across Several States",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

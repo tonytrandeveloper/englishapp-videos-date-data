@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4BdHo5NukN0",
-            "title": "Kim Jong Un Warns Of Possible Food Shortages In North Korea",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "ycRRP95ilwE",
             "title": "Attorney General Lays Out New White House Domestic Terrorism Policy",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "The Vladimir Putin Interview: An NBC News exclusive",
             "secondDuration": 1236,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXoRRm-XC2g",
+            "title": "All 5 Candidates For This Local DC Election Are Behind Bars",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

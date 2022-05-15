@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "82pTfPS2pag",
-            "title": "Biden Signs Executive Orders Aimed At Reversing Trump Immigration Policies | NBC News NOW",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "SuJEVSANWiQ",
             "title": "Jeff Bezos To Step Down As Amazon CEO | NBC News NOW",
             "secondDuration": 235,
@@ -121,8 +115,14 @@
             "title": "Punxsutawney Phil Makes Groundhog Day 2021 Prediction | NBC News",
             "secondDuration": 3567,
             "group": "group_7"
+        },
+        {
+            "videoId": "S09i3JrQgUI",
+            "title": "Republicans Say Covid Meeting With Biden ‘Productive’ | NBC News NOW",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

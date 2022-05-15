@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lBfxaedHjNU",
-            "title": "Former USA Olympics Doctor Larry Nassar: ‘I’m So Horribly Sorry’ For Abusing Girls | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "6grJ0ZViyss",
             "title": "A Brief History Of President Donald Trump's Feud With LaVar Ball | NBC News",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Busiest Thanksgiving Travel In A Decade | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "pmghf6WUlMo",
+            "title": "Missing Submarine Could Soon Run Out Of Air | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

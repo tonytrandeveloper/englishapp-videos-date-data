@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l9FSwFlqB8c",
-            "title": "Chicago Sees Covid Testing Rush Ahead Of Holidays | NBC News NOW",
-            "secondDuration": 694,
-            "group": "group_7"
-        },
-        {
             "videoId": "iB0ufU4T9ik",
             "title": "Lilly Aspell Tells Us What It’s Like To Play A Superhero | Nightly News: Kids Edition",
             "secondDuration": 1258,
@@ -31,8 +25,14 @@
             "title": "From Hurricanes To Wildfires, 2020's Biggest Climate Headlines | NBC News NOW",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBUnASkeQ_o",
+            "title": "Frontline Covid Nurse Gets A Proposal | NBC News NOW",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

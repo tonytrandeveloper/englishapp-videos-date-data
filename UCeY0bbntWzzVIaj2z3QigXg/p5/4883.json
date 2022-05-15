@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mBxIl1x7RH4",
-            "title": "Firefighters Battle Wildfires And Heat On West Coast | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "RH8-POdGe6Q",
             "title": "Thai Soccer Team Rescued From Cave Speaks Out | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Celestial Object May Help Unlock Mysteries Of The Early Universe | Mach | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "vU4azWBK5sw",
+            "title": "Thai Soccer Boys Speak Out After Dramatic Rescue From Flooded Cave | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

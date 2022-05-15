@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SHQN8FhvILs",
-            "title": "Hero Teacher Stops Gunman",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "IFZ6TpSYDtI",
             "title": "Getting to Know Kathryn Bigelow",
             "secondDuration": 259,
@@ -31,8 +25,14 @@
             "title": "Charlie Sheen Enters Rehab",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZACSlKefZQk",
+            "title": "Is It OK to Be Fat?",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

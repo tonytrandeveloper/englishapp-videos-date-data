@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EqLKiq22B3k",
-            "title": "Aziz Ansari opens up about sexual misconduct allegations",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "tORPO1XLx4g",
             "title": "El Chapo found guilty on all 10 charges",
             "secondDuration": 440,
@@ -31,8 +25,14 @@
             "title": "IRS facing backlog of more than 5 million pieces of mail: Internal audit",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "1w-qRL4t110",
+            "title": "Federal lawsuit accuses police officer of wrongful arrest, excessive force",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

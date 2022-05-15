@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-UtMp1phfqY",
-            "title": "Algerian Military Plane Crash Kills 257 | NBC Nightly News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "snDGFwvLVm8",
             "title": "Facebook CEO Mark Zuckerberg Testifies Before House Committee | NBC News",
             "secondDuration": 19187,
@@ -61,8 +55,14 @@
             "title": "Facebook CEO Mark Zuckerberg Testifies Before Senate (Full) | NBC News",
             "secondDuration": 25837,
             "group": "group_7"
+        },
+        {
+            "videoId": "hUDLKVYK3_o",
+            "title": "Watch The Moment Technology Opened This Blind Man’s Eyes To The World Around Him | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

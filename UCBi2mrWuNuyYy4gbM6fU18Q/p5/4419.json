@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2Yx-_WkdC7I",
-            "title": "John Bobbitt on how his life changed after notorious trials – 20/20 Extra",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "evDBEFYVxRg",
             "title": "Pence calls for Congress to address border issue",
             "secondDuration": 337,
@@ -31,8 +25,14 @@
             "title": "US Navy veteran held captive in Iran since July",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3a8dNArAtA",
+            "title": "Kevin Spacey in court on felony sexual assault charge",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

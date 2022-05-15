@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Dm2FQviiuS4",
-            "title": "Russian Soldiers Fled Chernobyl After Suffering Acute Radiation Sickness",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "xkt-ORVibtQ",
             "title": "Justice Dept. Charging 12 In Gun-Running Conspiracy To Supply Chicago Gang",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - April 1",
             "secondDuration": 2445,
             "group": "group_7"
+        },
+        {
+            "videoId": "t4-zwiH-rvQ",
+            "title": "Dozens Injured In Protest Outside Sri Lankan President's Home",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

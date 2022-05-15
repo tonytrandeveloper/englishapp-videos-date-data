@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Rd_xgL1CorI",
-            "title": "Stuck on a Cliff? It Should Cost You",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "gsYQb0iRUJw",
             "title": "Unemployment Rates in Robin's Hometown",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Taliban Preys on Poverty",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMlJInbWSRU",
+            "title": "How to be Happy",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dRuHYcltmDs",
-            "title": "Hong Kong, China Celebrates the Start of 2018",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "iKSefnMEECM",
             "title": "Seoul, South Korea Celebrates the Start of 2018",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "12 dead in massive New York City apartment fire",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "fLZq0RaaFVk",
+            "title": "Apple apologizes for slowing down older iPhone models",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

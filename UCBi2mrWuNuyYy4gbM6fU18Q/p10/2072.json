@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dmj-kwEIS_I",
-            "title": "'Boyz N the Hood' director John Singleton dies after suffering major stroke",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXHonEpIsQA",
             "title": "Suspect in synagogue shooting charged with one count of murder",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Rabbi speaks out after deadly synagogue shooting",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "x_Ld7-ihbTQ",
+            "title": "Trump takes aim at 2020 democratic frontrunners",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

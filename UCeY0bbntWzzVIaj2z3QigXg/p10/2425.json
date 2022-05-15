@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iclpEmivA4U",
-            "title": "LAPD: Body Cam Footage Of Officers Fatally Shooting Hostage, Knife-Wielding Man | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "8V9oN6M3wKI",
             "title": "Families Sue Alex Jones For Defamation Over Sandy Hook Conspiracy Claims | NBC Nightly News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Zimbabwean Election Causes Military Clash With Opposition Protesters | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vbt4IqEVMe8",
+            "title": "Senator Ron Wyden On Neutral Social Media Filtering: Those Days ‘Are Over’ | NBC News",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

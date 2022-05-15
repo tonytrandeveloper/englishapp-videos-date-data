@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h3do_U8SYj8",
-            "title": "FCC Chairman Announces Push To Target Net Neutrality Rules | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "FUk7QAQ45rQ",
             "title": "GOP Health Care Plan Back On Track As Freedom Caucus Approves | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Sanctuary Cities: What's At Stake Under President Donald Trump's Crackdown | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "05Wzzaxkpl0",
+            "title": "Econ Chief Gary Cohn Details Simplified Tax Code, Including Condensed Tax Brackets | NBC News",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

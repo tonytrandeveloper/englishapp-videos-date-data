@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IKtid8B1Yeo",
-            "title": "Community Theater Actor on Trial for Killing Two People",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "BCmRG1wGNsY",
             "title": "Marco Rubio Takes on Donald Trump",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "'Star Wars: The Force Awakens' Cast on Training for Roles",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "UDe41B-jGns",
+            "title": "Growing Concerns About Some of This Season's Hottest Gifts Going Up in Flames",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

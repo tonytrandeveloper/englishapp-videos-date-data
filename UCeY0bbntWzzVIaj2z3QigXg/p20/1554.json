@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "y6gUCa4289I",
-            "title": "Sarin Gas: The Colorless, Odorless Chemical Killer | NBC News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "S9WPV0Efh8Q",
             "title": "President Donald Trump's Immigration Policy Means Bad Business For Chicago Neighborhood | NBC News",
             "secondDuration": 306,
@@ -121,8 +115,14 @@
             "title": "Senator Jeff Merkley Holds Overnight Talk-A-Thon Protesting Neil Gorsuch Nomination | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "QZxa1tomAP8",
+            "title": "Syria Chemical Attack Massacre: Hundreds Killed And Injured | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

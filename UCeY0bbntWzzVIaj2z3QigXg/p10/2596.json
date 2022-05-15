@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nQt9PNcCZ6k",
-            "title": "Panel: Is President Donald Trump Tough Enough On Russia? (Full) | Meet The Press | NBC News",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "xwHK0yDgPYM",
             "title": "Senator Ron Johnson: Russia Is An 'Unfriendly Adversary' (Full) | Meet The Press | NBC News",
             "secondDuration": 612,
@@ -61,8 +55,14 @@
             "title": "Doctor: Stephon Clark Autopsy Shows He Received Eight Gunshot Wounds | NBC News",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "VbG9LcJC7i0",
+            "title": "Chris Hadfield: Before We Colonize Mars, We Should Settle The Moon | Think | NBC News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

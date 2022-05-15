@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TbDhb5WAY5A",
-            "title": "Assault Weapon Ban Standoff",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q-W26SpbZcc",
             "title": "Instant Index: 'SNL' Star Jason Sudeikis Engaged to Olivia Wilde",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Miss America 2013 - Pageant Confidential: The Big Day Arrives",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "pCdTaukB8nU",
+            "title": "Miss America 2013 - Pageant Confidential: Miss Nip and Tuck",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

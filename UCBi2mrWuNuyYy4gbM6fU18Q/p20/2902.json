@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "diQxQ2wFYe0",
-            "title": "George W. Bush Portrait Unveiled: White House Ceremony With President Obama",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "NUZpPf6dpLs",
             "title": "Government Shuts Down Tour Bus Companies",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "John Edwards Trial: Jury Delays",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "t05d3mqYIyk",
+            "title": "401k Hidden Fees?",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

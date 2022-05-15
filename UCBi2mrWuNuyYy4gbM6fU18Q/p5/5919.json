@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3VsGxIgvTfY",
-            "title": "Trump's tax reform plan unveiled by Treasury Sec’y Steve Mnuchin, National Economic Dir. Gary Cohn",
-            "secondDuration": 1403,
-            "group": "group_7"
-        },
-        {
             "videoId": "cpBqoMLebv8",
             "title": "Amazon seeking 'Mad Scientists' for hire",
             "secondDuration": 441,
@@ -31,8 +25,14 @@
             "title": "Market reacts ahead of Trump's tax plan reveal",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "RvvIPqW92rA",
+            "title": "Trump expected to call for major cuts in tax blueprint",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

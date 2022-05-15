@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sGIrv6LnNd0",
-            "title": "Felicity Huffman to be sentenced in ‘Varsity Blues’ scandal l ABC News",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "HAv5CwcOr0o",
             "title": "Democrats clash over health care at 2020 debate l ABCNews",
             "secondDuration": 314,
@@ -121,8 +115,14 @@
             "title": "Sanders highlights health care plan after debate",
             "secondDuration": 371,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qwt9WHe68TY",
+            "title": "Andrew Yang says campaign will give 10 people $1,000 a month for a year",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

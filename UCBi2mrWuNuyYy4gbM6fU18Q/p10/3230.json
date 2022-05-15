@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TupDi5H5KcM",
-            "title": "Kansas Mother Murdered, Baby Snatched Then Found",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "ByCnDvscdho",
             "title": "New York City Murder Victim's Father Gives Emotional Interview",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "aawSMBaLAu8",
+            "title": "Trump Transition Team Announces Sen. Jeff Sessions as AG Nominee",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

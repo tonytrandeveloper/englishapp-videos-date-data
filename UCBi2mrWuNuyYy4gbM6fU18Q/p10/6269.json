@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oE7fRSuZ1Ok",
-            "title": "Alaska Senate Candidate Joe Miller on 'Top Line'",
-            "secondDuration": 10,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tu9AdvDaLmA",
             "title": "Muslim Explains Why She Wears the Veil",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Can Obama Rally His Base?",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "zpf4zRz56tU",
+            "title": "Assessing the Terror Threat in Europe",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

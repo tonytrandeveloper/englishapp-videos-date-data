@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yUbdmStzZ1s",
-            "title": "News 'Costumes'",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "vlqFlk7G1YE",
             "title": "Women's Conference: Dealing With Grief",
             "secondDuration": 354,
@@ -121,8 +115,14 @@
             "title": "Swine Flu Declared a National Emergency",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "N8DQNnJZLQ0",
+            "title": "Madoff Billionaire Friend Found Dead",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

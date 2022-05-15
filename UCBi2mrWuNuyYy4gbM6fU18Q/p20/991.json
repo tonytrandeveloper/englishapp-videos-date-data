@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "brANIwtajLg",
-            "title": "The Debrief: Muller to testify, 2020 Democratic debates, San Francisco e-cig ban",
-            "secondDuration": 1703,
-            "group": "group_7"
-        },
-        {
             "videoId": "hY_yLQQiWpE",
             "title": "The Debrief: Border detention facilities, Iran sanctions, police racism probe  ABC News",
             "secondDuration": 11300,
@@ -121,8 +115,14 @@
             "title": "Police release video of Jussie Smollett with noose",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "erWwK61-GAs",
+            "title": "Iran calls US sanctions 'outrageous and idiotic'",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

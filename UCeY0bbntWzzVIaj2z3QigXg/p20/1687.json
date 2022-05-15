@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UA7pqlLoDd0",
-            "title": "Wildfire Forces Evacuations Of Alberta City | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "zgUlV7CwDxA",
             "title": "This School Is Helping Young Adults With Autism Make Movie Magic | NBC Nightly News",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "Ted Cruz On Indiana, John Boehner, Donald Trump (Full) | Meet The Press | NBC News",
             "secondDuration": 1425,
             "group": "group_7"
+        },
+        {
+            "videoId": "-Vd4Yo-m58o",
+            "title": "Donald Trump Supporter Roughed Up Outside California GOP Convention | NBC News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

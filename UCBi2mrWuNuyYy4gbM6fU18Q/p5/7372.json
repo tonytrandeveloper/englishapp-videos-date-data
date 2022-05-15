@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eJDd9_HQ97A",
-            "title": "Uncle Accused of Abducting 9-Year-Old Niece",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "P1OCCjiyGC0",
             "title": "Hillary Clinton Mocks Donald Trump in Debate",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Threatens to Sue The New York Times",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "RRrujLNIjBE",
+            "title": "'DWTS' Semi-Final HIGHLIGHTS | The Skinny",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

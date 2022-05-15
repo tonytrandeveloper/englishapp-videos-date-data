@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jU6iQD_f7fM",
-            "title": "NYPD Killings Shock New York City | NBC Nightly News",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "EbJk1za74kE",
             "title": "How The U.S. Dollar Shaped The World Economy | Long Story Short | NBC News",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Which McDonalds Burger Got Axed From The Menu? | NBC News",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sl1cqJ2VBK8",
+            "title": "Raw: Kurdish Peshmerga Drive ISIS From Sinjar | NBC News",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

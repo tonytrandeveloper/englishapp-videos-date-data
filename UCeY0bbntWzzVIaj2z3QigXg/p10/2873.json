@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xDOil81EZ94",
-            "title": "Barack Obama Calls GOP’s Relentless Obamacare Repeal Efforts ‘Aggravating’ | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "2vjbW5EiWyY",
             "title": "First Lady Melania Trump At U.N. Luncheon: Children Must Be Taught By Example | NBC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Hurricane Maria Pummels Puerto Rico With Powerful Winds | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "GIpNGZVlMGs",
+            "title": "Aerial Footage Of Dominica Captures The Destruction Of Hurricane Maria | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

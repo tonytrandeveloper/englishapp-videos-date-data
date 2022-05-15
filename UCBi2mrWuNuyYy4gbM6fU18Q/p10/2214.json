@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8KjTOryQev4",
-            "title": "Trump: 'Without borders, we don't have a country'",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "YKccgkYUAnc",
             "title": "Trump calls Rep. Rashida Tlaib's profane promise 'disrespectful'",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Stock market sees huge drop amid fears of Apple slowdown",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "kJlBg3Lne90",
+            "title": "Tainted drugs: When medicine makes patients sicker",
+            "secondDuration": 398,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

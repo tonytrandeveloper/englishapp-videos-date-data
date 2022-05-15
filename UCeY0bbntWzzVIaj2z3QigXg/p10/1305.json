@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XInKfVKHXU0",
-            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
-            "secondDuration": 2250,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2opIG82AtY",
             "title": "Into the Kentucky Primary | Into America Podcast – Ep. 32 | NBC News and MSNBC",
             "secondDuration": 1088,
@@ -61,8 +55,14 @@
             "title": "Google Employees Petition Tech Giant To Cancel Contracts With Police Departments | NBC News NOW",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "CsIQVXDjZKs",
+            "title": "Alexandria Ocasio-Cortez Says Her Showing In New York Primary Is 'A Mandate' | NBC News NOW",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

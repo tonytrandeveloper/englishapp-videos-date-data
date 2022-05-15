@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RUIF2yuHnUI",
-            "title": "White House update on spending bill | ABC News",
-            "secondDuration": 1213,
-            "group": "group_7"
-        },
-        {
             "videoId": "2l_7veHc_cE",
             "title": "Marjory Stoneman Douglas students attend #NeverAgain rally | ABC News",
             "secondDuration": 2609,
@@ -121,8 +115,14 @@
             "title": "Trump criticized for congratulating Putin",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "y7kD4SxPCFs",
+            "title": "Mudslide-devastated California towns brace for downpour",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

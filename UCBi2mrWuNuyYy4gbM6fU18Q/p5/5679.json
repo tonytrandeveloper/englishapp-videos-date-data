@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-CjQAuPFzEI",
-            "title": "Fire at outdoor music festival in Barcelona forces 20,000 people to evacuate",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQwEydUvBSo",
             "title": "Arrests made in suspected terror plot in Australia",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Survivors of the Ohio State Fair deadly accident speak out",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "01lGiOa_DEA",
+            "title": "A power outage is proving to be a headache for vacationers on North Carolina's popular Outer Banks",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

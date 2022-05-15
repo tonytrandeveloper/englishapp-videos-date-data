@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ghtA5XskYDQ",
-            "title": "Coronavirus: Inside Hard-Hit Utah Hospital | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "onhk3pCfrmY",
             "title": "Evacuations Ordered As Colorado Wildfire Rages | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "'My Culture Is Being Erased’: An American Uighur Votes For Change | NBC News",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "LHRwNgujgJk",
+            "title": "Inspiring Kids: Sending Postcards Encouraging People to Vote | Nightly News: Kids Edition",
+            "secondDuration": 735,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

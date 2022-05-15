@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q610giI0sHg",
-            "title": "Mila Kunis on \"That 70's Show\"",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "fUJLx7lb_HI",
             "title": "Mila Kunis on Natalie Portman, Black Swan, & Growing Up",
             "secondDuration": 561,
@@ -61,8 +55,14 @@
             "title": "What Did A.J. See?",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "lY-PikuXTYY",
+            "title": "The Underwater Impact of the BP Oil Spill",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

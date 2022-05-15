@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J8jlHEMl3O8",
-            "title": "Palin for President?",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "cy9gp8943zM",
             "title": "Person of the Week: Garth Brooks",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Jonathan Karl Tracks Holiday Pork in Washington",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "KysA5xwdDHU",
+            "title": "Families USA's Ron Pollack on 'Top Line'",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

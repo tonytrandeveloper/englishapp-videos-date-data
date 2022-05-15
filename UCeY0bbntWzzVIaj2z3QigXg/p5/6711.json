@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "heUvirTsz9w",
-            "title": "How NBC News Gets Its Election Data Points | Long Story Short | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "8CmK2hS4e0s",
             "title": "Remembering Helen Chavez, Activist And Co-Founder Of United Farm Workers | NBC News",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Muhammad Ali Remembered In His Hometown Of Louisville | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Il0_d671kT0",
+            "title": "Judge Criticized For Light Sentence In Stanford Sexual Assault Case | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

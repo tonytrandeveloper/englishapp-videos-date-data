@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Dij2eO-8Oqo",
-            "title": "President Trump claims vindication after new indictments in Russia probe",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "-hC6XcCnovo",
             "title": "Dancers competing near Parkland, Florida, honor shooting victim Jaime Guttenberg",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Trump faces allegations of a 9-month affair with a Playboy Playmate",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "PDx4vgzGsxQ",
+            "title": "Flu vaccine as high as 59% effective for children 6 months to 8 years old: CDC",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

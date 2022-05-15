@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EovIGye_O4w",
-            "title": "ICE preparing to raid 10 major cities",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "YYbsOjtXs-M",
             "title": "President Trump reverses on Iran strike",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "15 states face flooding, wind threats",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qhg1sjDFrXM",
+            "title": "Trump ordered Iran strike, reversed course",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

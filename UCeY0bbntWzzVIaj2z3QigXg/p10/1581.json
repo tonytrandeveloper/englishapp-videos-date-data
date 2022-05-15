@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YbEgZp8_1Lg",
-            "title": "Democrats Sharpen Attacks On Michael Bloomberg Ahead Of Las Vegas Debate | NBC News Now",
-            "secondDuration": 470,
-            "group": "group_7"
-        },
-        {
             "videoId": "IGLMXlmO8KA",
             "title": "California Blaze Leaves One Firefighter Dead, One Missing | NBC News",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Bloomberg Qualifies For Next Democratic Debate | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "dcc_LwE-af0",
+            "title": "Timeline: The Fall Of Harvey Weinstein | NBC News NOW",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

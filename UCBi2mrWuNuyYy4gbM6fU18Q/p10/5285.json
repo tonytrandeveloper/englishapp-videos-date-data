@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3TRphsB0S2E",
-            "title": "'The Bible': Remaking the Oldest Stories Ever Told",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbz8oMR9z1w",
             "title": "Pope Benedict XVI Says Goodbye to Cardinals Amid Resignation- ABC News Special Report",
             "secondDuration": 885,
@@ -61,8 +55,14 @@
             "title": "Pope Benedict XVI Retirement: The Papacy By The Numbers",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "TzZtILC-mXE",
+            "title": "Edward Sharpe and the Magnetic Zeros Interview 2013: Alex Ebert on New Album 'Here,' Band Evolution",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

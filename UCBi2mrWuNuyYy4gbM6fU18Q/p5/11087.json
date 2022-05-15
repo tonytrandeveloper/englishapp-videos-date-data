@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y0LkcyUCDqM",
-            "title": "Third Presidential Debate:  Fact vs. Fiction",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "YRBVoWLtGN0",
             "title": "Campaign 2012: The Final Showdown",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Presidential Campaigning: Getting to Know You",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "7dDJLccMhPQ",
+            "title": "Final Presidential Debate 2012 Winner: George Will, Donna Brazile, Nicolle Wallace on Who Won",
+            "secondDuration": 1017,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

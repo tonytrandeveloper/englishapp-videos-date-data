@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hiXA-0aCshk",
-            "title": "‘GMA’ Hot List:  Lupita Nyong’o Discusses Her ‘Star Wars’ Character | ABC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Ng2BsrVel0",
             "title": "Bowe Bergdahl Reveals Why He Left Afghan Military Base",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "2016 Golden Globe Nominations Announced Live",
             "secondDuration": 706,
             "group": "group_7"
+        },
+        {
+            "videoId": "IKtid8B1Yeo",
+            "title": "Community Theater Actor on Trial for Killing Two People",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

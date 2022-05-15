@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HczZ_e1P5R0",
-            "title": "Historic Climb: All-Black Crew To Climb Mount Everest For First Time",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "iBqOLQDYjPU",
             "title": "Unemployment Clawback: States Asking Unemployed To Pay Back Benefits",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "Britney Spears’ Father Suspended From Conservatorship",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "YmPsEbYzxE4",
+            "title": "Congress Racing To Prevent Government Shutdown",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

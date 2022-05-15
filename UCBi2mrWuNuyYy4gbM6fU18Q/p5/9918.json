@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FWXgaYf8hbw",
-            "title": "Florida Rep. Trey Radel Target of Undercover Drug Sting",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "iIK6e3dts6g",
             "title": "WEBCAST: Married Upon Arrival",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Details of Va. Sen. Creigh Deeds' Stabbing",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "p1SP5ggJHtg",
+            "title": "JPMorgan Chase Settlement: Bank to Pay $13B for Selling Bad Mortgages",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

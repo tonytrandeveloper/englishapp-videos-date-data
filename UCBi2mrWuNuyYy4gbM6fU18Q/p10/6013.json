@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PBxutYcDmMs",
-            "title": "Million Moms Challenge: Bloggers in Somalia",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "5N2HtB65cwE",
             "title": "Emmy Winners of Fashion: Red Carpet Hits and Misses; Jane Lynch, Sofia Vergara Impress",
             "secondDuration": 221,
@@ -61,8 +55,14 @@
             "title": "NASA: Satellite to Fall From Sky",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "hfBA1bctzQU",
+            "title": "Asian Tiger Mosquito Invades California",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

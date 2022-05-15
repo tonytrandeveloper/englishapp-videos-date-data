@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wg2csx1E_pE",
-            "title": "White House Press Briefing - February 7, 2018 | NBC News",
-            "secondDuration": 1194,
-            "group": "group_7"
-        },
-        {
             "videoId": "-aZAnbfIOxM",
             "title": "Iowa Snowstorm Causes Massive Pileup | NBC News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "5 Better Ways To Winterize Your Car | Better | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "xxIda477vvg",
+            "title": "Deadly Earthquake Topples Buildings In Taiwan | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HZa4W_jr1W0",
-            "title": "Philadelphia To Become First Major City To Ban Minor Traffic Stops",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "D_aRVH_yQ5I",
             "title": "Corruption Claims Plague Nicaraguan Election",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - November 4th",
             "secondDuration": 1123,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEIwzrHybjI",
+            "title": "Inside Nashville’s Iconic Ryman Auditorium",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

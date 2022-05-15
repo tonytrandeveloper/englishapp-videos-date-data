@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u8oVrCC9W1I",
-            "title": "President Donald Trump awards Medal of Honor to Staff Sgt. Ronald J. Shurer | ABC News",
-            "secondDuration": 1347,
-            "group": "group_7"
-        },
-        {
             "videoId": "MflNCcdnPI8",
             "title": "President Trump delivers remarks on new trade deal with Mexico, Canada  | ABC News",
             "secondDuration": 4803,
@@ -121,8 +115,14 @@
             "title": "Jonestown Part 3: Jim Jones was 'a predator,' ex-members allege",
             "secondDuration": 486,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0B1sMfxWYw",
+            "title": "Jonestown Part 1: Who was the Peoples Temple leader Jim Jones?",
+            "secondDuration": 696,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

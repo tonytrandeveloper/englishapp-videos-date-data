@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HULHM7CjuZQ",
-            "title": "A Blizzard of Stories",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "ELiVQlgJBnw",
             "title": "The Conversation: Lady Gaga and Cyndi Lauper",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "Ellen DeGeneres Debuts on 'Idol'",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "UU66C_9Xksw",
+            "title": "Airline Probe Report Imminent",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

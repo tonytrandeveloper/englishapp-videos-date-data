@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9l9vQExLFZ0",
-            "title": "Donald Trump On Giuliani Comments: ‘He Started Yesterday, He’ll Get His Facts Straight’ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "hngJF9mcqss",
             "title": "A Mexican Pastime Takes Root In The U.S. | NBC Latino | NBC News",
             "secondDuration": 341,
@@ -61,8 +55,14 @@
             "title": "Will North Korea Release Three American Prisoners? | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "uymkJwpxmWs",
+            "title": "New Allegations Against Charlie Rose And Multiple CBS Executives | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YaHNHfRO2GY",
-            "title": "Meet Peeqo, The Adorable, Sassy Robot That Speaks In GIFs | Mach | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBbFBCgcOuk",
             "title": "Donald Trump's Administration Redefining The ‘Fact’ | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Hundreds Of Thousands March For Women In Washington | 360 Video | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "4NAdXOZpGJ8",
+            "title": "At Least 12 Dead, 23 Injured As Severe Storms Devastate Georgia | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

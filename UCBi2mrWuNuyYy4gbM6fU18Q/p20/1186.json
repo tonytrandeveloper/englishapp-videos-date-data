@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zImSquX7Llw",
-            "title": "Arrest made in disappearance of Iowa jogger",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSpNjD-nGho",
             "title": "Paul Manafort found guilty on 8 counts",
             "secondDuration": 1799,
@@ -121,8 +115,14 @@
             "title": "Harvey Weinstein accuser faces her own sexual assault allegations",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-QfzQJy_S4",
+            "title": "Former Miss America slams pageant, calls for Gretchen Carlson to step down",
+            "secondDuration": 340,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

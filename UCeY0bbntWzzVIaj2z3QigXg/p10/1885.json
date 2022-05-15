@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "shw8zMphD2o",
-            "title": "Watch live: El Paso hospital provides update on mass shooting",
-            "secondDuration": 2348,
-            "group": "group_7"
-        },
-        {
             "videoId": "xDm3AQoTYxE",
             "title": "Watch live: Officials in Dayton, Ohio, hold news conference",
             "secondDuration": 4506,
@@ -61,8 +55,14 @@
             "title": "Two Mass Shootings In 13 hours: Lester Holt Reflects From El Paso | NBC Nightly News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf3XrWxI3T8",
+            "title": "Watch live: officials give updates after shooting in Ohio",
+            "secondDuration": 5905,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

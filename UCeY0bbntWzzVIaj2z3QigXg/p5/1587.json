@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yRlE03xaN18",
-            "title": "NBC News NOW Full Broadcast - April 8th, 2021 | NBC News NOW",
-            "secondDuration": 3115,
-            "group": "group_7"
-        },
-        {
             "videoId": "N1qt6iPjfDg",
             "title": "At Least 1 Killed, Multiple Injured In Texas Workplace Shooting | NBC Nightly News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "President Biden Announces New Restrictions On Guns | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gbb0DD0lZNA",
+            "title": "Police Say Former NFL Player Shot And Killed Five People In South Carolina | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

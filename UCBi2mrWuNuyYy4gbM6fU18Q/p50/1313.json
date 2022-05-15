@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "b8AkgxQ3KaI",
-            "title": "Amplified: The Jesus Lizard",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "uVX4RqLCfHo",
             "title": "'Miss Irresistible' Murders",
             "secondDuration": 541,
@@ -301,8 +295,14 @@
             "title": "Bill Clinton on Obama's Challenges",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "xVbNviah4xs",
+            "title": "Jake Tapper on Obama's Diplomatic Dance",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

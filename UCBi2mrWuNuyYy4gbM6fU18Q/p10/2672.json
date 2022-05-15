@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yZbA80ld3Q8",
-            "title": "First fatality reported from California wildfires",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "0VZIgR-ftmM",
             "title": "Tensions build between Trump, civil rights activist John Lewis",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Roy Moore accuser says he groped her when she was 16",
             "secondDuration": 492,
             "group": "group_7"
+        },
+        {
+            "videoId": "fqLqWpFb3_4",
+            "title": "LA Times releases audio of Roy Moore’s offhand comment on slavery",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

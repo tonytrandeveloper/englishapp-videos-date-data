@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3sFpN0R1_H0",
-            "title": "Briefing Room: Kushner security clearances questions, North Korea summit fallout, Michael Cohen",
-            "secondDuration": 1421,
-            "group": "group_7"
-        },
-        {
             "videoId": "7QfDH-a-rH0",
             "title": "Bryce Harper signs with Phillies in $330M deal",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Washington governor launches 2020 run",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYYC1D3_5zk",
+            "title": "NY governor urges Amazon to reconsider HQ",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

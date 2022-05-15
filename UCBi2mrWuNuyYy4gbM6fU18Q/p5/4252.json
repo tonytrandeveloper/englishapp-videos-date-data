@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "glHbwuGm1oI",
-            "title": "How police tracked the serial bomber who terrorized Austin for 19 days",
-            "secondDuration": 683,
-            "group": "group_7"
-        },
-        {
             "videoId": "uENVtKrlLtE",
             "title": "The Debrief: Emergency declaration vote, US grounds Boeing jets, Beto joins the 2020 race | ABC News",
             "secondDuration": 1586,
@@ -31,8 +25,14 @@
             "title": "Giant storm sweeps across the country",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "57kMM3J5h6s",
+            "title": "Trump, FAA ground Boeing Max 8 and Max 9 planes in US",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

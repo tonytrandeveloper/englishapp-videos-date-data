@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S9_DDZ7zP1E",
-            "title": "University Team Creates Mobile Lab For Medical Research On Marijuana",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "vfFJXp1IeKk",
             "title": "CDC Director Speaks Out On Delta Variant and Falling Vaccination Rates",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "16 Members of Florida White Supremacist Gang Charged In Sweeping Indictment",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "aUCsJTofACE",
+            "title": "Lake Mead Hits All-Time Low Water Level",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

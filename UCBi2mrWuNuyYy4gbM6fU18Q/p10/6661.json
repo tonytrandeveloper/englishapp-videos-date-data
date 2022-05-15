@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3-YJw8TMXDU",
-            "title": "Juju Juggles Gender Identity",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "uN0C-rk7-80",
             "title": "Shots Fired at Iranian Protesters",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "ADHD Drugs Linked to Sudden Death",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "j23QBe_yURk",
+            "title": "The Mommy Blogger",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

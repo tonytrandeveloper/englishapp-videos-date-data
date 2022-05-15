@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lE_B2gO0R8A",
-            "title": "Andrew Arenge: \"For student success, I believe it takes...\"",
-            "secondDuration": 27,
-            "group": "group_7"
-        },
-        {
             "videoId": "npnsNT_uNDQ",
             "title": "Amber Peterson: \"For student success it takes...\"",
             "secondDuration": 8,
@@ -121,8 +115,14 @@
             "title": "Karyn Ruiz: \"For student success it takes...\"",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQRe95-xaVw",
+            "title": "Christiane Leitinger: \"For student success it takes...\"",
+            "secondDuration": 21,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

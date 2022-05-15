@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3FTruiwzkuQ",
-            "title": "The latest on Trump, border wall and the government shutdown",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "wDnmeD9tSLw",
             "title": "Drones shut down London airport",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Eliza Dushku breaks silence on CBS sexual harassment allegations",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "VhTr4IQQ_s0",
+            "title": "The 'floating island' where Bangladesh wants to send thousands of Rohingya refugees",
+            "secondDuration": 624,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

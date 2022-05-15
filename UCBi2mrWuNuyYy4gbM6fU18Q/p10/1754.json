@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JIkkno2otI0",
-            "title": "Unusual showcase for ‘blacklisted’ quarterback Colin Kaepernick l ABC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "FWXK7LGKV2w",
             "title": "Student found dead near Cornell University after attending off-campus frat party l ABC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Undercover Girlfriend l 20/20 l PART 4",
             "secondDuration": 387,
             "group": "group_7"
+        },
+        {
+            "videoId": "yxGgTTbCQFI",
+            "title": "Undercover Girlfriend l 20/20 l PART 3",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

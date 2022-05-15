@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eislVvV8BfA",
-            "title": "Watch Live: President Donald Trump Makes Statement In White House Rose Garden | NBC News",
-            "secondDuration": 3991,
-            "group": "group_7"
-        },
-        {
             "videoId": "pLZkDCyxOmk",
             "title": "McCarthy Slams Rep. Tlaib's Foul Trump Impeachment Language | NBC News",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Vice President Mike Pence Swears In Newly Elected Senators | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "IZ-5tWwoGw4",
+            "title": "Watch Live: White House Press Briefing January 3rd | NBC News",
+            "secondDuration": 509,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

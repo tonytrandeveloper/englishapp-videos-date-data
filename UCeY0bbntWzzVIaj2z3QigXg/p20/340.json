@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-WSAcJ23m_0",
-            "title": "From Homelessness To Graduation: One Graduate's Inspiring Journey",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "yEtJayB1rG4",
             "title": "Legal Battle Over Nazi-Looted Painting At University Of Oklahoma Ends",
             "secondDuration": 54,
@@ -121,8 +115,14 @@
             "title": "White House Holds Press Briefing: June 2 | NBC News",
             "secondDuration": 2566,
             "group": "group_7"
+        },
+        {
+            "videoId": "cN-iWQlSHiY",
+            "title": "Topps Baseball Cards Celebrates 70 Years Of A Sports Tradition",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

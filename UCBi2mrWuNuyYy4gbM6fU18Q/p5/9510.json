@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DMnvNsU0SJQ",
-            "title": "America's Money: Wall Street Stock Surge",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "rRBehByeVTw",
             "title": "Police Officer Killed, House Explodes in New Hampshire",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "The Michael Sam Effect",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "xQJv0bxxivM",
+            "title": "Instant Index: Disney CEO Bob Iger Commemorates Barbara Walters' Career",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZJeC8ntUBQ0",
-            "title": "New York Comic-Con 2017, 'Star Wars: The Last Jedi' and 'Darth Vader' Comic on 'Inside Marvel'",
-            "secondDuration": 1145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kc0XPrIj9rs",
             "title": "Accused killer clown could face the death penalty",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "OJ Simpson photographed golfing after prison release",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "ppf-krWypOQ",
+            "title": "Trump surveys hurricane damage in Puerto Rico",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

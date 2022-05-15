@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xE5HKgF5kBo",
-            "title": "American Student Found Dead in Italian River",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "sTomfl2wxP0",
             "title": "How July 4th Was Celebrated 40 Years Ago",
             "secondDuration": 335,
@@ -121,8 +115,14 @@
             "title": "Jet Ski Explodes on River",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "WPi7zjY-bTQ",
+            "title": "NYC Central Park Explosion Injures Man",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

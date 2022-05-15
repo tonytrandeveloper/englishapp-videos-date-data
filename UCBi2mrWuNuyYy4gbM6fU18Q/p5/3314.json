@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4ENOF3ezSac",
-            "title": "Trump becomes 1st president to speak at March for Life rally l ABC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "vlH3JdB_q20",
             "title": "Elizabeth Warren on impeachment trial of President Trump | ABC News",
             "secondDuration": 362,
@@ -31,8 +25,14 @@
             "title": "Democrats zero in on Trump’s timeline during impeachment trial | ABC News",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "1rix5ROd-1g",
+            "title": "Texas high school student told to cut dreadlocks | ABC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

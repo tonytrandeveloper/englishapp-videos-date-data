@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KT_4e-_Boa8",
-            "title": "A suspected shark attack has been reported off the coast of North Carolina",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "3KLbNYM2nyM",
             "title": "A massive luxury cruise ship crashed into a dock in Venice, Italy",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Rep. Schiff says Mueller 'has one last service to perform' l ABC NEWS",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "iKOLmukKtvI",
+            "title": "Rep. Jordan: Upper echelon of FBI had 'failure of leadership' l ABC NEWS",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

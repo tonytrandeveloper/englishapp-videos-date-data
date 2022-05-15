@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "89VdOiD-JH8",
-            "title": "Surgeon Shot: Gunman Targets Heart Doctor at Brigham Hospital",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "X9tEwQ_iimo",
             "title": "State of the Union 2015: President Obama’s Top 3 Talking Points",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "What Pope Francis Said About the Bedroom",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "qs59wUHFUrs",
+            "title": "State of the Union 2015: President Obama on Revived Space Program: 'Good Luck, Captain'",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

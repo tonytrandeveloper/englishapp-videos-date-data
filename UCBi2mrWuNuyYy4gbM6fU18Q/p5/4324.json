@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "n-SdTO19N-Q",
-            "title": "Air Force counterintelligence officer charged with spying",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "uRgfv1YnXhU",
             "title": "'Empire' star Jussie Smollett heartbroken over criticism after attack",
             "secondDuration": 308,
@@ -31,8 +25,14 @@
             "title": "Veteran New York police detective fatally shot in crossfire",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMnoPSq74q4",
+            "title": "Former Air Force counterintelligence specialist charged with spying",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

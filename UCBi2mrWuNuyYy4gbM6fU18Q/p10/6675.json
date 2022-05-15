@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bRIZoTWz3C8",
-            "title": "White House Retracts Sotomayor Remarks",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "zG88lOIHHc4",
             "title": "Roxana Saberi on her Life in Iran",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "General Turns Pain Into Knowledge",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZLbI83uqL4k",
+            "title": "Nature's Edge: 'Earth 2100'",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

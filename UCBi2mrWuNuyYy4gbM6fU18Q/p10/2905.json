@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yp7hekWOcLw",
-            "title": "Man freed after 17 years in prison when doppelganger found",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2ZJRAzjsMo",
             "title": "US airstrikes target al-Shabab militants in Somalia",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Remembering 'Batman' TV icon Adam West",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "1156XZTBJvQ",
+            "title": "3 US soldiers killed, 1 wounded in insider attack in Afghanistan",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EhpRulW4iwU",
-            "title": "NFL star Antonio Brown accused of sexual assault l ABC News",
-            "secondDuration": 360,
-            "group": "group_7"
-        },
-        {
             "videoId": "ISrfwTMpd5k",
             "title": "Trump insists he fired National Security Advisor l ABC News",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "Driver had heart attack before school bus crash: Authorities l ABC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "SUpfku1ccYc",
+            "title": "A look at ABC News’ 2020 presidential debate hall",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

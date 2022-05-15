@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "avCd4FMbiTM",
-            "title": "Luke Perry, Of ‘90210,’ ‘Riverdale’ Fame, Remembered | NBC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "mGstBIH9UCg",
             "title": "McConnell: 'There Will Be Enough Votes' To Stop Trump's Emergency Order | NBC News",
             "secondDuration": 64,
@@ -301,8 +295,14 @@
             "title": "TV Star Luke Perry Hospitalized | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "u2CipCHefcQ",
+            "title": "Michael Cohen Says President Donald Trump Is Focus Of Several Investigations | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K1jPKobmzIM",
-            "title": "'Shark Tank's' most memorable moments as it launches Season 10",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lfs-lqA8sps",
             "title": "Firestorm as FBI investigation on Kavanaugh concludes",
             "secondDuration": 328,
@@ -31,8 +25,14 @@
             "title": "Rescue efforts for survivors continue after Indonesia earthquake and tsunami",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7DSaZJHVaY",
+            "title": "Exclusive Interview: Melania Trump to speak out to ABC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_1imGb7LxOc",
-            "title": "Trump Weighs Travel Restrictions To Address Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNFRlxUn5N4",
             "title": "Investigators Search For Answers In Mystery California Coronavirus Case | NBC Nightly News",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Japan Closes Schools For A Month To Stop Coronavirus Spread | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "rD-YiFuQRT4",
+            "title": "What Americans Should Know About Preventing Coronavirus Spread | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

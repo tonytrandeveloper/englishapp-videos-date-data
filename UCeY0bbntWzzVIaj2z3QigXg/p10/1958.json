@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EIGTE7NpN8M",
-            "title": "‘Sully’ Sullenberger At House Hearing: ‘We Must Investigate Accidents Before They Happen’ | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "bWZY-tSd1bs",
             "title": "Ta-Nehisi Coates, Danny Glover And Sen. Booker Speak At House Hearing On Reparations | NBC News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Decorated Navy SEAL Faces Trial For War Crimes | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "cteqJLf0r38",
+            "title": "Escalating War Of Words Between Jon Stewart And Mitch McConnell | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

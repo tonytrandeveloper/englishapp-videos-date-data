@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PLaA_rHE6JU",
-            "title": "Broken Vows l 20/20 l PART 3",
-            "secondDuration": 383,
-            "group": "group_7"
-        },
-        {
             "videoId": "OnerNrw_P1w",
             "title": "Several states under threat of damaging thunderstorms | ABC News",
             "secondDuration": 192,
@@ -301,8 +295,14 @@
             "title": "Trump addresses the nation following Iran’s missile strikes on US forces in Iraq | ABC News",
             "secondDuration": 1074,
             "group": "group_7"
+        },
+        {
+            "videoId": "DrSSR3mihdo",
+            "title": "6.4 earthquake hits Puerto Rico leaving 1 dead, multiple injured l ABC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

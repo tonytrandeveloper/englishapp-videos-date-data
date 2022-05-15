@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-TTiDlK4vS8",
-            "title": "Presidential Election 2016 LIVE | ABC News FULL BROADCAST",
-            "secondDuration": 29881,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hg7ELSX5QcA",
             "title": "Donald Trump Wins US Presidential Election",
             "secondDuration": 35,
@@ -31,8 +25,14 @@
             "title": "Trump Wins Iowa | 2016 Election Results",
             "secondDuration": 14,
             "group": "group_7"
+        },
+        {
+            "videoId": "5q5gR1qegsk",
+            "title": "Trump Wins Florida, Clinton Wins Washington | 2016 Election Results",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

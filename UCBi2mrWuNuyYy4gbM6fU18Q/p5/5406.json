@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Rb6yvJstCw",
-            "title": "On set with 'Grey's Anatomy' stars for their 300th episode",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "2iJLKjYWjHY",
             "title": "Taylor Swift debuts new song 'New Year's Day'",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "GOP Senate candidate Roy Moore denies allegations",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "-gKfIfmoafM",
+            "title": "Trump's bodyguard told investigators he was offered women for Trump in Moscow in 2013",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

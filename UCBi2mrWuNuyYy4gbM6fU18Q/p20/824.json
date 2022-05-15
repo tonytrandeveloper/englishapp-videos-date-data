@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "C3KjY3R3LbU",
-            "title": "Senate Democrats' push for new witnesses voted down",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "XS27dMYjyII",
             "title": "Survivors of Auschwitz on why they all went back",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "WHO declares coronavirus a global health emergency l ABC News",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "mfOLZ_TyjlA",
+            "title": "Coronavirus declared global health emergency by WHO l ABC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

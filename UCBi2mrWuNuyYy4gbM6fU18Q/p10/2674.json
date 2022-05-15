@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Ql_jBghs10",
-            "title": "Tampa shooting suspect's parents risk jail",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQz61MqROkw",
             "title": "Violent protests erupt in Middle East after Trump declaration",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Senator Al Franken resignation speech (full speech)  | ABC News Special Report",
             "secondDuration": 1901,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ZSBwFnaGyw",
+            "title": "Fierce reaction to Trump's decision to move US embassy to Jerusalem",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

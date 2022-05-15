@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VAmECJDpVqs",
-            "title": "Video Shows Plane Crash On Southern California Freeway | NBC News",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "iD5MwvUlgLc",
             "title": "Press Knocks Over Oval Office Furniture During South Korean President’s Visit | NBC News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Examining Nevada's New Marijuana Law | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "1lryxizFe4I",
+            "title": "Wildfires Continue To Rage Across The West | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

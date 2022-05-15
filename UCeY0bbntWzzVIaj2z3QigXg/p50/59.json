@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TJY6eqh3Mek",
-            "title": "Climate Change In Guatemala: Between Starvation And Migration",
-            "secondDuration": 737,
-            "group": "group_7"
-        },
-        {
             "videoId": "qhc58eZycRc",
             "title": "Remaining Missionaries Kidnapped By Gang in Haiti Released Two Months After Abduction",
             "secondDuration": 250,
@@ -301,8 +295,14 @@
             "title": "DHS Fears Critical Flaw In Software Program Could Lead To Widespread Hacks",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "wWyYd2zlyLU",
+            "title": "Officials Announce Former NFL Player Phillip Adams Had CTE At Time Of SC Shooting",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

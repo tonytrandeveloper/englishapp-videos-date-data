@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bZEAV86IDNY",
-            "title": "Remembering the Victims of the San Bernardino Shooting",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "rBIiYeFfI4U",
             "title": "Index: Scathing Congressional Report Blasts the Secret Service",
             "secondDuration": 43,
@@ -61,8 +55,14 @@
             "title": "New Details About Suspected San Bernardino Shooters",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "4HnjDE5Baa0",
+            "title": "San Bernardino Shooting: News Helicopter Captures Dramatic Play-by-Play",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

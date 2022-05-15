@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y3BKTb4U-E4",
-            "title": "Billionaire's Advice for Economic Survival",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "-RdoZK_5hWs",
             "title": "Palin vs. Gingrich: Clash of the GOP Titans",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Quick Fix: Toy Truck Touches Juju's Heart",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "RCgNPEAXCUM",
+            "title": "Democracy's Stronghold in Lebanon",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

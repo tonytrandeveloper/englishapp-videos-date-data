@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zOPqCJmoy0Q",
-            "title": "Australia Offering 'Best Jobs In The World' Contest",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "FA1Tp3lMW4c",
             "title": "WEBCAST: The Coming Storm",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "America Issues New Warning to Iran About Nuclear Weapons",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "h50grFO3tUU",
+            "title": "Taxpayers' Money Spent on Portraits",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

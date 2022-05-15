@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pxGaikFnqQs",
-            "title": "Chicago Police Officer Indicted for Alleged Civil Rights Violations",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "rZf4ltNKJFI",
             "title": "Inside the iPhone 7",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Bill Bratton Retires as NYPD Commissioner",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "uP9dxaDpH_A",
+            "title": "Michelle Obama Hits the Campaign Trail for Hillary Clinton",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

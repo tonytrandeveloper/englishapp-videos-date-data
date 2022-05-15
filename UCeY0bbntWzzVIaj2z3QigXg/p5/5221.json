@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MgAEmzP9OZs",
-            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "dydIAY1WJYQ",
             "title": "President Donald Trump Speaks At National Republican Congressional Committee Dinner | NBC News",
             "secondDuration": 3669,
@@ -31,8 +25,14 @@
             "title": "Second Explosive Package Found At Texas FedEx Facility | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "5fhBNEQny4w",
+            "title": "President Donald Trump On Austin bombings: ‘We Will Get To The Bottom Of It’ | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

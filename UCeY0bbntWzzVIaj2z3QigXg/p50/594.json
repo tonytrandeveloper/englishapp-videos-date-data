@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-iNKBzD4aF8",
-            "title": "‘Smishing’ Cyber Attacks Target Customers Via Text Message | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "0t4l5I4FEQ4",
             "title": "O.J. Simpson's Daughter: We Just Want Him To Come Home | NBC News",
             "secondDuration": 87,
@@ -301,8 +295,14 @@
             "title": "Mitch McConnell Expresses Regret Over Health Bill Failure, Details New Plan | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "qh1FqZEYpMg",
+            "title": "Take A Seat In The Cockpit Of NASA's T38 Jet | Mach | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

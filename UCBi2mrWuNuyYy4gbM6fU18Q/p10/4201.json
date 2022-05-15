@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SeBhxLlXEJk",
-            "title": "Servicemen Murder Investigation Reveals Acts of Heroism",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHnL8oQEcjA",
             "title": "New Dash Cam Footage Released in Sandra Bland Case",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "The Dangers of Being Locked in a Hot Car",
             "secondDuration": 464,
             "group": "group_7"
+        },
+        {
+            "videoId": "2_bdXmFBKe4",
+            "title": "S’mores For National Ice Cream Month",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

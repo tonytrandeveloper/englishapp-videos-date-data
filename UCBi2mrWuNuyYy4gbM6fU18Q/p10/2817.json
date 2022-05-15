@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8fYgQng0lIM",
-            "title": "School video shows young boy with autism dragged down a hallway by teachers",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkVyBDqFUIg",
             "title": "FBI arrest suspect for allegedly trying to detonate a cargo van outside an Oklahoma bank",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump addresses Charlottesville attack: Special Report",
             "secondDuration": 1192,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ujzqju9i0O4",
+            "title": "'10% Happier with Dan Harris' and Lama Tsomo",
+            "secondDuration": 3720,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

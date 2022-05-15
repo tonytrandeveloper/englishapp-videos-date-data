@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "koy-KasFhFM",
-            "title": "Obama on Vladimir Putin",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "o1kXDW2nHbM",
             "title": "A Texas Woman Is Paralyzed After Her Uber Car Crashed",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Kim Kardashian on Robbery at Gunpoint",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "LgX71mICNbE",
+            "title": "NCAA College Football Championship Preview: Alabama Vs. Clemson",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

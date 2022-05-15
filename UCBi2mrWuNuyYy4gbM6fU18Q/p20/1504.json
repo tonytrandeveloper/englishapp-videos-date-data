@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r2oBnyiUUdI",
-            "title": "Attack on soldier creates chaos at Paris airport",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8V5CVcmfV0",
             "title": "Manhunt for teacher who allegedly abducted student",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Health care bill, Trump's budget plan face uphill battle in Congress",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sQz-GtmHqo",
+            "title": "Airport security officer hailed a hero for thwarting man's apparent suicide attempt",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

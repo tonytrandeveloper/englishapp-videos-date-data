@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dn7a-nlljb0",
-            "title": "Irene Causes Death, Historic Flooding",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "S69_q3Q--kg",
             "title": "Dick Cheney vs. Colin Powell",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "MTV Video Music Awards: Did Lady Gaga, Nicki Minaj and Katy Perry Hit or Miss?",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "7tdiGFNVdwM",
+            "title": "Hurricane Irene Leaves 6 Dead in North Carolina",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

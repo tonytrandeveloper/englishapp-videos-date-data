@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lEjkrW79Fcg",
-            "title": "Boston Dynamics' 4-Legged Robot Spot Could Be Coming To An Office Near You | Mach | NBC News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "f0YyKg-29Zw",
             "title": "Trump Holds News Conference After Release Of Notes On Ukraine Call | NBC News",
             "secondDuration": 4901,
@@ -121,8 +115,14 @@
             "title": "Impeachment Process Has Only Happened Three Times In American History | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "dTyv3dAbdkE",
+            "title": "Nancy Pelosi Announces Formal Impeachment Inquiry | NBC Nightly News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

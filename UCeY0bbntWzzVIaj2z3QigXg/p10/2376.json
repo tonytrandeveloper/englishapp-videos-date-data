@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u3YismPN8AM",
-            "title": "Full Ben Sasse Interview: 'Way Too Much Drama Everyday' | Meet The Press | NBC News",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "vaVpmMUUHbM",
             "title": "Full Panel: Does Anonymous Op-Ed Represent A 'Soft Coup' | Meet The Press | NBC News",
             "secondDuration": 468,
@@ -61,8 +55,14 @@
             "title": "Trump Calls On Attorney General Sessions To Investigate Who Wrote NYT Op-Ed | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "v9xeCn0rCCw",
+            "title": "Barack Obama Takes On President Donald Trump For First Time Since Leaving office | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

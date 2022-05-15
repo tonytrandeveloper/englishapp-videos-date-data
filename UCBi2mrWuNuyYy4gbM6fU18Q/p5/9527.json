@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "po-j5ar5-I4",
-            "title": "Pistorius Defense Enters Critical Stage at Trial",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "1fpSBN0G9uA",
             "title": "'This Week': Crisis in Ukraine",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "'This Week' Closer Look: Sen. Al Franken",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "T-ZPsG07iN4",
+            "title": "'This Week': Washington's Night Out",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

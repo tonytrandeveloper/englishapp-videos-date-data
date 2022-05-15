@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GLGv2GFkhkk",
-            "title": "Inspiring Kids: 9-Year Old On A Mission To Donate 1 Million Books",
-            "secondDuration": 1497,
-            "group": "group_7"
-        },
-        {
             "videoId": "cZROR8jzzGQ",
             "title": "Black History NOW",
             "secondDuration": 1704,
@@ -121,8 +115,14 @@
             "title": "Who is Supreme Court Nominee Judge Ketanji Brown Jackson?",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "rZJVne8XulI",
+            "title": "CDC Announces Masks No Longer Needed Indoors For Most Americans",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

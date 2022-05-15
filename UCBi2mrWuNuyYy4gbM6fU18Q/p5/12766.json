@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U1mDFFQ79Gw",
-            "title": "Robin's Flying High With Sully",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "vzUpYO3f1z0",
             "title": "Times Square Bomb Suspect in Custody",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Overseas Links Seen in Times Sq. Bombing",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "NYsAIa_Fbr4",
+            "title": "Times Square Vendors Save Lives",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

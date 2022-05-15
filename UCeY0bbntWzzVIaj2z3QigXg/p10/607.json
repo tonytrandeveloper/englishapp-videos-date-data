@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BWPYiZG-Kss",
-            "title": "This Morning’s Top Headlines – July 9 | Morning News NOW",
-            "secondDuration": 1435,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ai-eZA3_y0",
             "title": "Pfizer Announces Plans To Develop A Covid Booster Dose",
             "secondDuration": 399,
@@ -61,8 +55,14 @@
             "title": "New Details And Arrests In Assassination of President Jovenel Moïse",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "PNrbXN6F-mc",
+            "title": "Dr. Fauci: ‘Please Get vaccinated, It Will Protect You’ Against Delta Variant",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

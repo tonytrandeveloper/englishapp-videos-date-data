@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m47Zh6kOk7Q",
-            "title": "Dog Rescued After Surviving on California Highway for 5 Weeks",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "k1lw3JBnzqA",
             "title": "Evolution of the Motorcycle | The Bicycle to the Kawasaki Ninja",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Dude Perfect Breaks World Record for Tallest Basketball Shot from Roof Of Building",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "dmkWFak3zgk",
+            "title": "Man Wielding Knife in Midtown Manhattan Shot Dead by Police",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V26H9gDZRss",
-            "title": "Melania Trump RNC Speech Sparks Plagiarism Claims",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "vyrEpdRcDTM",
             "title": "Zika Mystery: Elderly Patient Transmits Virus to Caregiver",
             "secondDuration": 33,
@@ -31,8 +25,14 @@
             "title": "Melania Trump vs Michelle Obama Speech Comparison",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "hvDUCsoRd7s",
+            "title": "Hillary Clinton Hits at Donald Trump During the RNC",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

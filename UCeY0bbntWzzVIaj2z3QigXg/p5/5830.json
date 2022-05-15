@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yECWF4VgGGA",
-            "title": "Drone Shows Aftermath Of Swiss Mudslide in Bondo, Eight People Missing | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "Oud_VB5fnpY",
             "title": "Saudi-Led Airstrike Kills Dozens Near Yemen Capital | NBC News",
             "secondDuration": 51,
@@ -31,8 +25,14 @@
             "title": "Chuck E. Cheese Restaurants To Retire Iconic Animatronic Bands | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "R45Cy7R9v0c",
+            "title": "Walmart And Google Team Up To Take On Amazon | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

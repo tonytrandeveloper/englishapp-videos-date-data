@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NhtNk-Xtqh0",
-            "title": "Watch: Dust Devil Pitch Invasion Disrupts Bolivian Soccer Match",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "r8ZEWelqTjc",
             "title": "Nightly News Broadcast (Full) - July 21st, 2021",
             "secondDuration": 902,
@@ -61,8 +55,14 @@
             "title": "Senate Republicans Block Vote To Begin Debate On Infrastructure Bill",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYjOYPvChvs",
+            "title": "McCarthy Threatens To Pull All Republican Recommendations From Jan. 6 Committee",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

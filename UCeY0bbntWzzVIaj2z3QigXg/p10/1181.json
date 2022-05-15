@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NXQjCuWFdzI",
-            "title": "Abby Johnson Discusses Why She Left Planned Parenthood At The 2020 RNC | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vr_6h8J2LKU",
             "title": "Billy Graham's Granddaughter Praises Trump As A 'Fierce Advocate' For People Of Faith | NBC News",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "New Report Warns Current Social Distancing Rules May No Longer Be Effective | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "QCNQXK3GwO4",
+            "title": "Jacob Blake’s Family Speaks Out About His Condition After Police Shooting | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

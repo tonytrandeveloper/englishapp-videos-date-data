@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9O3Gdfb8utQ",
-            "title": "Eiffel Tower fireworks mark Bastille Day 2017 in Paris, France",
-            "secondDuration": 2245,
-            "group": "group_7"
-        },
-        {
             "videoId": "QQOunoiJIFQ",
             "title": "Beyonce Twins Sir and Rumi Debut, ‘Spider-Man Homecoming,' ‘Game of Thrones’ returns: ‘Real Live’",
             "secondDuration": 1752,
@@ -61,8 +55,14 @@
             "title": "Suspect confesses to the murders of four missing Pennsylvania men",
             "secondDuration": 434,
             "group": "group_7"
+        },
+        {
+            "videoId": "LmkCXTeys2M",
+            "title": "Olivia Wilde on the relevance of Broadway's '1984' today",
+            "secondDuration": 449,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

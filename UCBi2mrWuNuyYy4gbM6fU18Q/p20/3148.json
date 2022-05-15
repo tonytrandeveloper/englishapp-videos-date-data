@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9qmnfwLuYJE",
-            "title": "The Conversation: Capturing New Orleans",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "OMoDwHliyZA",
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 268,
@@ -121,8 +115,14 @@
             "title": "Inside Tiger Woods' Divorce",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "UWshdVc4DvE",
+            "title": "Egg Recall Investigation",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JIIix_5N46Q",
-            "title": "Missouri College Student Suspected of Killing Her Fiance",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "wPd7H0912Us",
             "title": "Drone Crashes During World Cup Race in Italy",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Takes on Hillary Clinton, Miss Universe Error",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "dwpf7uTSMpc",
+            "title": "J.K. Rowling Defends Black Hermione Casting in 'Harry Potter' Play",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

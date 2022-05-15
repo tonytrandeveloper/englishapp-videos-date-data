@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RYxMRiftYuY",
-            "title": "John McCain on the horrors he endured as a POW",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "WepACKqZcDQ",
             "title": "John McCain's colleagues, friends reflect on his legacy",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Houston security guard loses job for not aiding police officer with arrest",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "g2E32JEyMaA",
+            "title": "Fiery crash on Los Angeles highway",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

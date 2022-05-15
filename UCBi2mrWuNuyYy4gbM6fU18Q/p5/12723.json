@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XZNruZOTL9w",
-            "title": "Dennis Hopper Loses Fight With Cancer",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfbU5gVhGbE",
             "title": "Interview With Colin Powell (Part 2)",
             "secondDuration": 589,
@@ -31,8 +25,14 @@
             "title": "Gary Coleman: Another Child Star Dies",
             "secondDuration": 387,
             "group": "group_7"
+        },
+        {
+            "videoId": "cNZLTJUZvnE",
+            "title": "1,000 Dead: Afghanistan War Hits Grim Milestone",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

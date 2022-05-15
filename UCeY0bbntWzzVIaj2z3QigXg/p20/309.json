@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GMcgEdLUdu4",
-            "title": "Retired Power Plant Revived To Mine Bitcoin",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "9V8Q35KML5I",
             "title": "Iconic American Song Reimagined",
             "secondDuration": 185,
@@ -121,8 +115,14 @@
             "title": "Sinema Criticizes Supreme Court Decision As Battle Over Voting Rights Bill Looms",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBp2BimrTt8",
+            "title": "NBC Nightly News Broadcast (Full) - July 2nd, 2021",
+            "secondDuration": 1015,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NOgBo2q1irE",
-            "title": "New App Uses Interactive Approach To Pet Adoption | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "ihUIaEwNYpM",
             "title": "Life-Saving Sensor Created To Prevent Children From Dying In Hot Cars | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "North Korea’s Latest Threat Singles Out Guam, A U.S. Territory | NBC Nightly News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "E7GT-0--0A4",
+            "title": "FBI Searches Home Of Former Donald Trump Campaign Manager Paul Manafort | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

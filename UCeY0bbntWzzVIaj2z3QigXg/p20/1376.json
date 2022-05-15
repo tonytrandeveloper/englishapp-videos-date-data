@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q2AnfdNL2yc",
-            "title": "Southern California Wildfires Leave 800 Structures In Ashes | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "OM4RRXZRoKg",
             "title": "'The World Is Watching' The Alabama Senate Race (Full) | Meet The Press | NBC News",
             "secondDuration": 453,
@@ -121,8 +115,14 @@
             "title": "Fresh Protests Erupt In West Bank Cities And Jerusalem's Old City | NBC News",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "HpmTr9OQ6V4",
+            "title": "Football After The Flood: High School Vows To Fight After Hurricane Harvey | NBC News",
+            "secondDuration": 403,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

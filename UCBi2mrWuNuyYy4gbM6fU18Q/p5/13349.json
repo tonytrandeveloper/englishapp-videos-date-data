@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bRIZoTWz3C8",
-            "title": "White House Retracts Sotomayor Remarks",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "zG88lOIHHc4",
             "title": "Roxana Saberi on her Life in Iran",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "Hurricane Season Begins",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "ebrHs1knoE0",
+            "title": "Jake Tapper on the Stimulus Funds",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

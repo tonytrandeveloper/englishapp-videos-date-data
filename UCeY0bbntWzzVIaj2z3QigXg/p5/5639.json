@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fjm1Qg_HpwY",
-            "title": "New Film 'Only The Brave' A Tribute To Granite Mountain Hotshots | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "qQnRJNgLfj4",
             "title": "Albert Einstein Note Sells For $1.3 Million At An Auction In Jerusalem | NBC News",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "Cubans Forcefully Reject Blame For U.S. Diplomats’ Mystery Ailments | NBC Nightly News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "uuLtiGmmBV4",
+            "title": "Precision Oncology: Experimental Treatment Could Help Cancer Patients | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

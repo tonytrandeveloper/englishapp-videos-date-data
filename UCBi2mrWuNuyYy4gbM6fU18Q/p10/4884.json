@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1UxYlBR4qIU",
-            "title": "Frugal Foodies: Making Dinner at a Discount",
-            "secondDuration": 459,
-            "group": "group_7"
-        },
-        {
             "videoId": "chUjQQUCbgk",
             "title": "WEBCAST: Super Bowl Media Day",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Sochi Winter OlympicsTerrorist Threat: Olympic Torch Enters Militant Haven",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "dNC3C8EbuFo",
+            "title": "Justin Bieber DUI Arrest: Usher's Advice for Fellow Pop Star",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

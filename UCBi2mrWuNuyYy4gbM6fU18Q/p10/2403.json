@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bc3wOIw3-Dg",
-            "title": "Demi Lovato said to be in stable condition after suspected drug overdose",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "zessZ_PRC5Y",
             "title": "ABC News Live: Trump-Cohen tape, EU meeting, flooding in the East",
             "secondDuration": 2308,
@@ -61,8 +55,14 @@
             "title": "Trump-Cohen secret audio tape just made public",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "jSLkDoR7Jx0",
+            "title": "Fire department responds to medical call at Demi Lovato's home",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

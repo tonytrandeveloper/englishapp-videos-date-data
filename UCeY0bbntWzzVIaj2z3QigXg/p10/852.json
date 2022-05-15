@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZSyR1t6IVvY",
-            "title": "Biden: Johnson & Johnson, Merck Partnership Will Increase Vaccine Supply To Beat Pandemic | NBC News",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "a5phMjfTGrs",
             "title": "H.R. 1. To Expand Voting Rights, Improve Voter Access, End Gerrymandering | NBC News NOW",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1689,
             "group": "group_7"
+        },
+        {
+            "videoId": "QAqXs47O18U",
+            "title": "Record Number Of Unaccompanied Migrant Children Held In Border Patrol Custody | NBC News NOW",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

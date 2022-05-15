@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "jPgKAnG6U7c",
-            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyJ1kzG0Wb4",
             "title": "‘I’m The One Hoarding Toilet Paper’: 10 Anonymous Confessions In The Time Of COVID-19 | NBC News",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "How To Clean Your Home To Prevent Coronavirus Spread | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "gGi6b7xfNZA",
+            "title": "Dolly Parton Starts Virtual Story Time To Entertain Kids Stuck At Home | NBC Nightly News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

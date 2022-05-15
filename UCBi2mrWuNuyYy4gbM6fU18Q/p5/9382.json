@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nf33k2hrzlA",
-            "title": "MIX: Which States Drink The Most Beer?",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "k3epfc_ICeo",
             "title": "Boating Tragedy in Miami",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "McCartney's Magic Comeback Performance",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "enYln00UcEw",
+            "title": "World Without 'America'",
+            "secondDuration": 355,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O2aaWxwd5iI",
-            "title": "Candlelight vigil honors Charlottesville victims",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgzWxyINpRY",
             "title": "Manhunt underway for suspects in jewelry heist",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Donald Trump's news conferences continues to echo across America",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "PqU9XQO7Gcw",
+            "title": "Fiery crash snarls traffic in Kansas City, Missouri",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

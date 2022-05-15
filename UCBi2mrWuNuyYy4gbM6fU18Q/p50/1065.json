@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MZ_Vf6EpfUs",
-            "title": "Family of Former Penn State Coach Speak Out",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXduYf1EiFk",
             "title": "'Hello Kitty' Makes the Grade, Young Girl's Mission to Space",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Diana Perez WNN Polka",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "RIrdvfOX4R0",
+            "title": "Chris Dorner: Ex-LA Cop Wanted in Killing Spree",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kgqn73A-RPo",
-            "title": "Juju Juggles -- Family Secrets",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "vRv9aVwlnI0",
             "title": "George: Health Care's Key Senate Votes",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Top Line: Insurance Industry's Last Ditch Effort",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "3Tu3a6fAQkk",
+            "title": "Top Line: President Obama's Blogger Problem",
+            "secondDuration": 558,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

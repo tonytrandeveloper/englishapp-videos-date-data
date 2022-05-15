@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N2UpAEm39k4",
-            "title": "Online holiday sales expected to top $100 billion in US for the 1st time",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "6pA72dIzGHs",
             "title": "Mayor of San Francisco dies after collapsing inside grocery store",
             "secondDuration": 72,
@@ -121,8 +115,14 @@
             "title": "California's Thomas fire intensifying",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "JncS3qvjOXc",
+            "title": "Moore denies allegations in new TV interview",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

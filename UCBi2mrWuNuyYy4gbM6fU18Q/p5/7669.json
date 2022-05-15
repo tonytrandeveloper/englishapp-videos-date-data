@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "adYJqXqmMSg",
-            "title": "Obama in Cuba: Vows to 'Bury Last Remnants of Cold War' [FULL SPEECH]",
-            "secondDuration": 2037,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQRJm4h2Stk",
             "title": "Belgian Terror Attack | Possible Suspects Identified by Police",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "Brussels Explosions | EU Official Breaks Down In Tears",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "BE1GIl0xMEA",
+            "title": "Obama on Brussels Attacks: ‘We Stand in Solidarity’ With Belgium",
+            "secondDuration": 677,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

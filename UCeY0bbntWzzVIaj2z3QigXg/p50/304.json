@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1jUmohFv_zw",
-            "title": "Cancer Patients Forced To Delay Treatment Over Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJ8H1kzbV0w",
             "title": "Italy's Death Toll Rises Despite Lockdown | NBC Nightly News",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "Celebrities Take To Social Media To Be Voices In Reason In COVID-19 Pandemic | NBC News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "ODj5B_MzyTA",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
+            "secondDuration": 2697,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

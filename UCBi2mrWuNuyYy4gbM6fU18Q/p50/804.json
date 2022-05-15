@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uUIBNZSZJjA",
-            "title": "Video Raises Questions About Use of Force by Chicago Police",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "9e16MWk3sZw",
             "title": "80 Students Sickened After Eating at Chipotle in Boston",
             "secondDuration": 88,
@@ -301,8 +295,14 @@
             "title": "San Bernardino Shooting Investigated as 'Act of Terrorism'",
             "secondDuration": 1761,
             "group": "group_7"
+        },
+        {
+            "videoId": "IgsP4_VXep4",
+            "title": "San Bernardino Shooting Investigated as 'Act of Terrorism'",
+            "secondDuration": 1761,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

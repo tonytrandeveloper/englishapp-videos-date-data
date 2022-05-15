@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1VzJU4Q8wdE",
-            "title": "Terrifying Tornado Tears Through Oklahoma | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "MWVvInj88Jo",
             "title": "Voices: Who Is Vincent Chin? | NBC Asian America",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "2-Day Shooting Rampage Ends With Gunman's Capture Near Washington, DC | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3uF-GEzVHQ",
+            "title": "Speaker Ryan Refuses to Endorse Donald Trump, Trump Returns the Favor | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

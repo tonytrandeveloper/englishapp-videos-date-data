@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yMNvMexcV3o",
-            "title": "Americans On The Move For Thanksgiving Despite Expert Warnings | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "tYDni4ooOnI",
             "title": "Trump Pardons Former National Security Adviser Michael Flynn | NBC Nightly News",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Dozens Of Air Force Nurses Arrive In North Dakota As Covid Surges | NBC News NOW",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "BR5EkIDXwTE",
+            "title": "What Challenges Biden Will Face In The White House | NBC Nightly News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

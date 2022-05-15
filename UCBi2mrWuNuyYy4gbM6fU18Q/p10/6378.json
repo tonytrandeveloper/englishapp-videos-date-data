@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l9xnHNJStPo",
-            "title": "Washington Post's Chris Cillizza on 'Top Line'",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZVmLaqXd30A",
             "title": "McConnell: Kagan Not Enough 'Judicial Experience'",
             "secondDuration": 662,
@@ -61,8 +55,14 @@
             "title": "Casey Affleck on Joaquin Phoenix Doc",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "ByPPWaFE9g8",
+            "title": "The Fight for Confirmation",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "diblIzUjkHU",
-            "title": "Bernie Sanders On Campaign Strategy After SC Loss | Meet The Press | NBC News",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "zBRjUwdMDMA",
             "title": "Ted Cruz Challenges Donald Trump To Release Tax Returns | Meet The Press | NBC News",
             "secondDuration": 421,
@@ -61,8 +55,14 @@
             "title": "Tornadoes Carve Deadly Path of Destruction From North to South | NBC Nightly News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "lmjsgP7FFsU",
+            "title": "Flint Coffee Shop Owner Extremely Cautious With Water Use | NBC News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nE3-ee0TnmY",
-            "title": "Philip Seymour Hoffman Dead at 46",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dms2x6kz7x8",
             "title": "American Favorite Super Bowl Snack:  The Rise of the Chicken Wing",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "'This Week': Paul Ryan",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZfZjwrSWOo0",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 1020,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

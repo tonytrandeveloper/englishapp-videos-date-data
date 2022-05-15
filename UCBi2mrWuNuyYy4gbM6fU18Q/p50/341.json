@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "x3EdpMt1hNA",
-            "title": "The Year 2019: Remembering those we lost l ABC News",
-            "secondDuration": 367,
-            "group": "group_7"
-        },
-        {
             "videoId": "hKOtRoKHNVk",
             "title": "The Year 2019: Kevin Hart, Taylor Swift and other celebrity drama l ABC News",
             "secondDuration": 380,
@@ -301,8 +295,14 @@
             "title": "Pelosi not sending impeachment articles to Senate",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "o5lXnJyNplI",
+            "title": "Pregnant women seeking asylum in peril after ‘remain in Mexico’ policy: Part 1",
+            "secondDuration": 627,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

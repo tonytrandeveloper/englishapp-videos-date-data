@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_aDD55I2ORk",
-            "title": "Hurricane Matthew Leaves Devastation, Destruction in Haiti",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "c29xB2HPwvk",
             "title": "VP Debate Highlights | Pence & Kaine Hurl Insults, Interrupt",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Amazing Kitten Rescue Time-Lapse Video",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uj7Lj5AdXYA",
+            "title": "VP Debate | Clinton Campaign Reacts",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

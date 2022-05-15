@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GVfDmUdyalg",
-            "title": "Timothy Geithner on Unemployment, Taxes",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "dM-mUIGLDtg",
             "title": "'Bachelorette' Finale: The Morning After",
             "secondDuration": 372,
@@ -121,8 +115,14 @@
             "title": "Here Comes the Bride: Chelsea Through the Years",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOSRypHnSMs",
+            "title": "Help Wanted in Detroit: Auto Industry Turnaround",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

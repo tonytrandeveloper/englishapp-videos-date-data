@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pnP3wJTgXTY",
-            "title": "California Community Mourning Death of 2 Police Officers",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "faZu5rDvNNY",
             "title": "8-Year-Old Saves Pennies for Service Dog to Help Monitor His Diabetes",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Donald Trump's Treatment of Women in Question",
             "secondDuration": 414,
             "group": "group_7"
+        },
+        {
+            "videoId": "pPB3gG6xfTY",
+            "title": "2nd Presidential Debate's Impact on Undecided Voters",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

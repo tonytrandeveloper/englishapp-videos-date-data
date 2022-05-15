@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OAB9-FqLvRA",
-            "title": "Deadly Amusement Park Accident in Australia",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "4mXFOnhZmyM",
             "title": "Fan Warns Olympian of Possible Skin Cancer Threat",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Teacher Vows to Buy a New Bike for Every Student",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "OFzZsq4rxEw",
+            "title": "Carbon Dioxide Levels in the Atmosphere Reach New Heights",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

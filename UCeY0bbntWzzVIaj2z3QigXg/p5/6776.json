@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tN_KjzGRA3w",
-            "title": "Video Shows Lieutenant Mistakenly Shoot His Own Undercover Officer | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "3qE2w4B5tcM",
             "title": "Rosario Dawson to Hillary Clinton: Shame On You | NBC News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Leaked Audio Tapes Raise Pressure to Impeach Alabama Governor | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "1x0AggCyM-k",
+            "title": "Gunman Opens Fire at Virginia Bus Station, Multiple Victims Injured | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

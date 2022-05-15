@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RiNocTBA8Co",
-            "title": "Marie Claire Power Trip | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 337,
-            "group": "group_7"
-        },
-        {
             "videoId": "p2vwwlHJ6Bs",
             "title": "Brussels Philharmonic Plays 'Ode to Joy' at Place de la Bourse",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Playboy Explores a Possible Sale",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "-xeZOy4ulP8",
+            "title": "Shark Tank Barbara Corcoran | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 870,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

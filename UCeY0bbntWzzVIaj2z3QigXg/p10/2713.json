@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6eB4OkqUk9k",
-            "title": "President Donald Trump Speaks At Farming Convention In Nashville | NBC News",
-            "secondDuration": 3346,
-            "group": "group_7"
-        },
-        {
             "videoId": "kEnG9wVgc-Y",
             "title": "Tom Steyer To Donate $30 Million To Help Democrats Retake House In 2018 | NBC News",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "De-Prescribing Clinics Give Opioid Patients Skills To Manage Pain Without Drugs | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8TehiKK6N4",
+            "title": "Water Main Break Causes Mayhem And Delays At JFK Airport | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

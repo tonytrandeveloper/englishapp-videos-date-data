@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uHTaEf8zRvQ",
-            "title": "Tim Cook Reveals a Personal Message",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "buCum8DLG9s",
             "title": "Kaci Hickox and the State of Maine in a Deadlock",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Tiny Harris Undergoes Controversial Eye Color-Changing Surgery",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGmbBUMG6Rc",
+            "title": "FTC Fines Online Dating Site for Allegedly Creating Fake Profiles",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

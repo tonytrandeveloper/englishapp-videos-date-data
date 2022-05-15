@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vJeKbfyYG9E",
-            "title": "Wall Street 2011: Stocks Plunge",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rv9iu-3k-kQ",
             "title": "London Riot Video 2011: Britain Burning",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Dow Drops After Downgrade",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "3VW9cMo9SqU",
+            "title": "Can Democrats Find a 'Rogue Elephant' on Deficit Reduction, Avoid 'Sour Grapes' on S&P Downgrade?",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

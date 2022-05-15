@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "svyL4bHMn_o",
-            "title": "Katie Couric on 'Good Morning America'",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4D6ZNuOD20",
             "title": "Paul Dano, Robert De Niro in New Film \"Being Flynn\" That Tackles Homelessness",
             "secondDuration": 403,
@@ -31,8 +25,14 @@
             "title": "Paralyzed Man Dances With Wife for First Time: Caught on Tape",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "ON9fnIRVePs",
+            "title": "Katie Couric Returns to Morning Television: Anchor Will Co-Host 'GMA' for One Week",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

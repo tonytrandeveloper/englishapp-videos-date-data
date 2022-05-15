@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fH5K64OiHwM",
-            "title": "New 911 calls underscore devastation at Florida nursing home",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "EEzfBxrv7TM",
             "title": "Death toll rises in California wildfires",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "'Star Wars: Jedi Challenges' demo: Play testing the new augmented reality 'Star Wars' game",
             "secondDuration": 988,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBI4qDnpW3U",
+            "title": "President Donald Trump, Sen. Mitch McConnell deliver statement from the Rose Garden",
+            "secondDuration": 3360,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nZy8BC43r-0",
-            "title": "White House press briefing on  DACA, Trump's FISA tweets | ABC News",
-            "secondDuration": 3689,
-            "group": "group_7"
-        },
-        {
             "videoId": "319aYlsWsMA",
             "title": "How to stay healthy in the office during peak flu season",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Lawmakers say DACA deal is near",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "phlHlt2M8oE",
+            "title": "Backlash over alleged gender wage gap among 'All the Money in the World' cast",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

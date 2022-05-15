@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCpSXDngmvA",
-            "title": "How The Coronavirus Is Impacting Small Businesses | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "U-jEef6ylQA",
             "title": "More Colleges Suspend In-Person Classes Over Coronavirus Fears | NBC Nightly News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Markets Plummet, Close In Bear Market Territory Amid Coronavirus Crisis | NBC News NOW",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "G7EW5uDDLlk",
+            "title": "Trump Meets With Bankers On Coronavirus Response | NBC News (Live Stream Recording)",
+            "secondDuration": 1455,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

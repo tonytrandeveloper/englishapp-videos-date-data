@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7pb0YAGIl7U",
-            "title": "Meet The Press Broadcast (Full) - March 27",
-            "secondDuration": 2857,
-            "group": "group_7"
-        },
-        {
             "videoId": "2MsYFxI2LO0",
             "title": "Full Panel: President’s Call For Putin’s Ouster May Be ‘A Window Into What Biden Thinks And Feels’",
             "secondDuration": 463,
@@ -61,8 +55,14 @@
             "title": "Russia Ups The Ante On Ukrainian Attacks",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "WwUmEz3Cmjo",
+            "title": "Biden Delivers A Brazen Challenge To Putin",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

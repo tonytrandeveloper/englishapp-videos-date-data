@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KAB-Y3o1QSY",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2836,
-            "group": "group_7"
-        },
-        {
             "videoId": "lA7EOOVl0c4",
             "title": "Biden Announces Plans To Tap Into Oil Reserves To Combat Rising Prices",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Jury Deliberations Begin In Trial Over Death Of Ahmaud Arbery",
             "secondDuration": 255,
             "group": "group_7"
+        },
+        {
+            "videoId": "WH6PCFSYdB4",
+            "title": "Morning News NOW Full Broadcast - Nov. 23",
+            "secondDuration": 2837,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

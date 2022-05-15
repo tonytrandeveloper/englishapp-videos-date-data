@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w1xLqqvpu_4",
-            "title": "Plane loses tire during takeoff",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "G6Rt3eyP200",
             "title": "Trump responds to Iranian threats l ABC News",
             "secondDuration": 179,
@@ -121,8 +115,14 @@
             "title": "Survivor recalls terrifying captivity that lasted more than 9 years",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "M50thGSGQMc",
+            "title": "Trump: Slain Iranian general ‘No. 1 terrorist … in the world’",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

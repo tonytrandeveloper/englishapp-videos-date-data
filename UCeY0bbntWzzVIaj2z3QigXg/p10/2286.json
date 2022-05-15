@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O58QS5w_l_8",
-            "title": "‘You Need Your Voting Power’: Florida’s Ex-Felons Fight For Their Voting Rights | NBC News",
-            "secondDuration": 342,
-            "group": "group_7"
-        },
-        {
             "videoId": "rXqq3qKDg7Q",
             "title": "Deputy Attorney General Rod Rosenstein Renews Commitment To Tough Hate Crime Enforcement | NBC News",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "7-Alarm Fire Engulfs Boston Apartment Building | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "zQ92z_jGf9w",
+            "title": "Vigil for Pittsburgh shooting victims",
+            "secondDuration": 8415,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

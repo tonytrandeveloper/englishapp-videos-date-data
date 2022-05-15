@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EhgKNwy0IZw",
-            "title": "911 Outages Has Cincinnati Residents Demanding Answers | NBC Nightly News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "0_BDsDBofto",
             "title": "HHS Watchdog Investigating Health Secretary Tom Price’s Travel | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Pentagon Updates On Hurricane Response Efforts In Puerto Rico, Virgin Islands | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "_CtawtGNNc4",
+            "title": "Prime Minister Theresa May May Sets Out Updated Vision For Brexit | NBC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

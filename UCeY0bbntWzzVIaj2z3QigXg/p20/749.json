@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6PKoF4GqFBA",
-            "title": "The Coronavirus Pandemic's Impact On Pollution And Climate Change | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "uIhRM9pnH40",
             "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3874,
@@ -121,8 +115,14 @@
             "title": "FDA authorizes use of antimalarial drugs for coronavirus treatment | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "nRUTAat1Yeg",
+            "title": "Teddy bear hunt brings welcome distraction for children | NBC Nightly News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

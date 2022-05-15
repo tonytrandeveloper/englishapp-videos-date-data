@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ziWl6rLE4fw",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 1290,
-            "group": "group_7"
-        },
-        {
             "videoId": "zbX_QKC76Qw",
             "title": "She Has Low Immunity. See How She's Living During The Pandemic | NBC News",
             "secondDuration": 307,
@@ -61,8 +55,14 @@
             "title": "Pence: Masks ‘Good Idea’ When Distancing Not Possible | NBC News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "5TvpVwS0qz0",
+            "title": "'Every American Is Affected By It' Trump Unable To 'Bluff His Way Out' Of COVID-19 | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

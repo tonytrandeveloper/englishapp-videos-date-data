@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TDBKHmy_cro",
-            "title": "Warm Coats & Warm Hearts Kick-Off",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "9w2S2Pbders",
             "title": "The Bottom Line on the Health Care Bill",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Baby Born While Dad's in Space",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0LCFApp5JA",
+            "title": "Winging It in an Engineless Plane",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

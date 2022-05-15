@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QCTGWJm5gCk",
-            "title": "How George Resch, Long Island salesman, became an Instagram star",
-            "secondDuration": 371,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ALGAARYHGk",
             "title": "President declares he 'wants the United States to be the world's dominant nuclear power'",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "$50K reward to help solve the murders of two teen girls who went missing on a hike in Indiana",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "o9b3GoDksPI",
+            "title": "Authorities investigating deadly shooting and possible hate crime in Missouri",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

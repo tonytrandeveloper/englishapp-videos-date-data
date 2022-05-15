@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aYQGw28bkZ8",
-            "title": "Nightly News: Kids Edition Celebrates Its First Anniversary | Nightly News: Kids Edition",
-            "secondDuration": 1228,
-            "group": "group_7"
-        },
-        {
             "videoId": "OcLoNiXMpNM",
             "title": "Biden Holds Meeting With Congressional Asian Pacific American Caucus Leadership | NBC News NOW",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 3806,
             "group": "group_7"
+        },
+        {
+            "videoId": "RTJHAgLfgUI",
+            "title": "Live: CDC Director, Dr. Fauci Testify At House Hearing On Covid Pandemic | NBC News",
+            "secondDuration": 11286,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

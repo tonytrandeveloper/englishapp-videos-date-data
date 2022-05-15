@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "toun1NuBsHQ",
-            "title": "Last Stand For Rebels Holding Out in Aleppo",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "l_ABKWU5q3Q",
             "title": "Teen Shooting Sparks Heated Debate",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Second Officer Dies From Shooting in Georgia",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "J4RoMS-O8Ps",
+            "title": "7.8 Magnitude Earthquake Recorded Near Solomon Islands",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

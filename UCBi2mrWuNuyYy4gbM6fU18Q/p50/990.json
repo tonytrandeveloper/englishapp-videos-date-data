@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "5JDGO3AsTFs",
-            "title": "WEBCAST: Electronics Research Turns Into Giant Rubik's Cube",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "9nqjrAbf0cU",
             "title": "Daredevil Women Skydives Into Book of World Records With Free Fall",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Strippers for Jesus: Former Dancer Tries to Save Others",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "y3VgHB7LW8o",
+            "title": "Taylor Swift, Jon Bon Jovi and Prince William Sing 'Livin' on a Prayer'",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

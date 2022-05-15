@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wrEP7plA8KU",
-            "title": "Malaysian Airlines Flight 17 Shot Down: Drama at Ukraine Plane Crash Site",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ME9bU0mrx-Q",
             "title": "Allegations of Unnecessary Force as NY Man Dies After Arrest",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "Malaysia Flight 17: Families Mourn Victims at Amsterdam, Kuala Lumpur Airports",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "tVFI77VKipg",
+            "title": "Malaysia Flight 17: International Investigators En Route to Crash Scene",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

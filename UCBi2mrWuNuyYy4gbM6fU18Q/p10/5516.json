@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "k612wv59Og0",
-            "title": "2012 Election: Music Americans Thought About While Voting",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "xI4VE_Li3pM",
             "title": "Presidential Election: Hurricane Sandy Victims Cast Their Votes",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Barack Obama, Mitt Romney: Women's Votes in 2012 Election",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "RpuPjnbH6ro",
+            "title": "Barack Obama: Behind the Scenes of President's 2012 Campaign",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

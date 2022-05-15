@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YSxN_2Y2D_s",
-            "title": "Republicans storm impeachment hearing, California fire danger, Zuckerberg grilled | ABC News",
-            "secondDuration": 1534,
-            "group": "group_7"
-        },
-        {
             "videoId": "eIeP0_q3skA",
             "title": "‘Younger’ star Nico Tortorella on their untraditional marriage, LGBTQ+ advocacy | Nightline",
             "secondDuration": 525,
@@ -61,8 +55,14 @@
             "title": "Facebook founder Mark Zuckerberg testifies before House Financial Services Committee",
             "secondDuration": 23045,
             "group": "group_7"
+        },
+        {
+            "videoId": "owK7ChwfGHU",
+            "title": "Briefing Room: Trump claims 'breakthrough' on Syria, Impeachment latest, Zuckerberg on Capitol Hill",
+            "secondDuration": 1567,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

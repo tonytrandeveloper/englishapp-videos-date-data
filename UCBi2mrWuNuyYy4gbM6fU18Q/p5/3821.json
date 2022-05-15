@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4LMm98f725I",
-            "title": "Dayton hero recalls 'dead stare' in killer's eyes l ABC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "qbeTqPidqPA",
             "title": "Controversy over Trump's visits to grieving Dayton, Ohio, and El Paso, Texas I Nightline",
             "secondDuration": 553,
@@ -31,8 +25,14 @@
             "title": "Bodies of teen suspects wanted in Canada murders found dead",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "tLYsLfIoegg",
+            "title": "US on edge after double massacres in El Paso and Dayton",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

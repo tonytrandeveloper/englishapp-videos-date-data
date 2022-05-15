@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4fw86AjkS1o",
-            "title": "Luke Bryan's 'Roller Coaster' Ride",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2irMxtIC3s",
             "title": "Inside J.Lo's New $22 Million NYC Apartment",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Gunman Opens Fire Inside Parliament in Canada",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "D0MTWd-DPgc",
+            "title": "Warning for Owners of Cars With Defective Airbags",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

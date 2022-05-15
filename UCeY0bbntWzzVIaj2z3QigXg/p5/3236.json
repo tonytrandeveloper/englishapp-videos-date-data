@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E9skSWGXE7I",
-            "title": "Dramatic New Testimony In Harvey Weinstein Case | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "dc857fIRSjU",
             "title": "Longest Cross-Border Tunnel Ever Discovered On The Southwest Border | NBC Nightly News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "See American Evacuees Arrive From China, Greeted By People In Hazmat Suits | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "AJi_3WML5f4",
+            "title": "Alan Dershowitz Argues That A Quid Pro Quo 'In The Public Interest' Is Not Impeachable | NBC News",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

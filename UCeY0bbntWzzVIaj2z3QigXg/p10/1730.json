@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l0zOaS0XSOA",
-            "title": "Nunes Opening Statement: ‘Welcome Back To Act II Of Today’s Circus’ | NBC News",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFK4F0wDF6U",
             "title": "Highlights From Public Impeachment Hearing: Vindman, Williams | NBC News NOW",
             "secondDuration": 508,
@@ -61,8 +55,14 @@
             "title": "Trump Confirms He Received Partial Physical At Walter Reed Visit | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "YwukO-Q8EE8",
+            "title": "Trump Says GOP ‘Killing It’ At Impeachment Hearing, Denies Knowing Vindman | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

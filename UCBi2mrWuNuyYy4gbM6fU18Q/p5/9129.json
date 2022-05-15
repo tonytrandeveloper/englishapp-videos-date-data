@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RdkmPPHQNLs",
-            "title": "SKINNY: 2014 MTV EMA's",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "7BntSr_SGzo",
             "title": "MIX: Man Dances While Cleaning",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "NASA Confirms Meteor Hit in Central Texas",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "g6wEPJbcdio",
+            "title": "Jet Stream Dip Brings Arctic Air",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

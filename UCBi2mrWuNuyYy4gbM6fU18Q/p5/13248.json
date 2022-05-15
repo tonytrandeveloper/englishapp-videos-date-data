@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X27p1rXRi4k",
-            "title": "Sign of Economic Hope",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "gGhZs9wynFQ",
             "title": "The 'Cankle' Crisis",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Obama Stands by Police Remarks",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZceSNN_P_LE",
+            "title": "N.J. Mayors Trade Cash for Favors",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

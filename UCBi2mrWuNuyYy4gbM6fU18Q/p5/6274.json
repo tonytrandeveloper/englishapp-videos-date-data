@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ca5Aivi9-EE",
-            "title": "Donald Trump on Obamacare, Election Hacking",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "of6H-Uj8bnM",
             "title": "Trump, Obama Intelligence Reports: CIA and FBI to Take Lead",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Assault Video Posted Online Leads to 4 Arrests",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "c67FDdorqX8",
+            "title": "Lyle Menendez Speaks Out From Behind Bars",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

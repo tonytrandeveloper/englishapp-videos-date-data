@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dE57GTZ8_vk",
-            "title": "Mike Pence Responds To Donald Trump's 'Shackles Off' Tweet | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hy2CNvhmKNQ",
             "title": "Donald Trump Tells Supporters He'll Be 'Very Angry' If They Don't Vote For Him | NBC News",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Michelle Obama Advises Young Girls: ‘Do Not Be Afraid To Fail’ | NBC News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "veRHG7xnb6k",
+            "title": "Donald Trump Seemingly Praises WikiLeaks For Exposing Hillary Clinton Wall St. Speeches | NBC News",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

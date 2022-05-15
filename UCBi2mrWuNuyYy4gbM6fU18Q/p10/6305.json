@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Jcz5rbY8Yb8",
-            "title": "Washington Post's Karen Tumulty on 'Top Line'",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "hBmJyzkAjCI",
             "title": "Dem Strategist: Immigration 'Dramtically Shifted'",
             "secondDuration": 619,
@@ -61,8 +55,14 @@
             "title": "Michael Cera Sings Happy Birthday",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "j4ZvPfHX2Q0",
+            "title": "Kucinich: Liberals Support President",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

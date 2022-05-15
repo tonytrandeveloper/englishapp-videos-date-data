@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VfjvcKVBWVk",
-            "title": "WEBCAST: Impromptu Landing Strip",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "RxSzfaBWfgo",
             "title": "Kindergartener Gets School Absence Pardon From President",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "'This Week': Terror in Kenya",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "K2icGxsnyjQ",
+            "title": "Angry Priest Scolds Wedding Photographer Mid-Ceremony",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

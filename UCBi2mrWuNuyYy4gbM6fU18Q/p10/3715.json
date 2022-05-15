@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ExpQlbDroEA",
-            "title": "'Shark Tank' | Barbara Corcoran Controversial Tweet Explained",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "7AaDPhxt2xI",
             "title": "New Details in Prince's Death",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Goose Attack Goes Viral | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "UZ9VhaUDYoU",
+            "title": "Janet Jackson Pregnancy Rumors Spark Conception Questions",
+            "secondDuration": 443,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8c2x467FrVI",
-            "title": "WEBCAST: Chicago Teachers End Strike",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "OKfbiodknNs",
             "title": "Best in TV: Best Talk Show Host",
             "secondDuration": 445,
@@ -31,8 +25,14 @@
             "title": "Best in TV: Best Drama",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "xreAedVCmkA",
+            "title": "Best in TV: Best TV Mom",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

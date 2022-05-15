@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OB1wXFGUNuI",
-            "title": "‘It Has To Stop’: 2020 Candidates React To Odessa, Texas, Shooting | NBC News Now",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "o_GASx9jU6M",
             "title": "Australian Student Pilot Lands Plane After His Instructor Passes Out | NBC Nightly News",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Full Castro: Trump Has ‘Gone Back On His Word’ About Universal Background Checks | Meet The Press",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "XZGJwH5dfr0",
+            "title": "Full Panel: Biden Faces Questions Over Age And Gaffes, But Do Democrats Care? | Meet The Press",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

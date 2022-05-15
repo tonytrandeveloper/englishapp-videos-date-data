@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rwRC1KvXVtM",
-            "title": "Battle Over Executive Pay",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "AWUkf2PE-Ss",
             "title": "'We're Surrounded': Students Held in Iran",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Inside the White House",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "iWhgln6qCwU",
+            "title": "Strange Brew at the Executive Mansion",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

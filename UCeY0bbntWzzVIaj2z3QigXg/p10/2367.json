@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fnFi4zsUpfA",
-            "title": "Watch First Responders Rescue North Carolina Residents From Flooding | NBC News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "QePAmImu2wA",
             "title": "Defining Latino: Young People Talk Identity, Belonging | NBC Latino | NBC News",
             "secondDuration": 229,
@@ -61,8 +55,14 @@
             "title": "Former President Barack Obama Campaigns For Ohio Democrats | NBC News",
             "secondDuration": 2661,
             "group": "group_7"
+        },
+        {
+            "videoId": "asDInlkgi40",
+            "title": "President Trump Falsely Blames Democrats For Inflating Hurricane Maria Death Toll | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

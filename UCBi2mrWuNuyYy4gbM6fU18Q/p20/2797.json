@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7HFYLelnfZo",
-            "title": "First Presidential Debate Archive: Do's and Don'ts",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "PspiwW876uQ",
             "title": "Afghanistan: Insider Attacks Mark War's 11th Anniversary",
             "secondDuration": 152,
@@ -121,8 +115,14 @@
             "title": "One on One:  Matthew Dowd",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "8dTkftVWjfo",
+            "title": "2012 Election Debates: President Obama, Mitt Romney Countdown to Confrontation",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

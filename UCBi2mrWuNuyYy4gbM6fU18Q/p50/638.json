@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mDhsRztNIa4",
-            "title": "John Glenn Receives the Presidential Medal of Freedom in 2012 | ARCHIVAL VIDEO",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "7iXEIc0ClbQ",
             "title": "Hillary Clinton Full Speech at Harry Reid Portrait Unveiling",
             "secondDuration": 565,
@@ -301,8 +295,14 @@
             "title": "Prosecutor: Dylann Roof Stood Over Victims, Shooting Repeatedly",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "GAziH3u6MEU",
+            "title": "Underwater in Pearl Harbor",
+            "secondDuration": 2853,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

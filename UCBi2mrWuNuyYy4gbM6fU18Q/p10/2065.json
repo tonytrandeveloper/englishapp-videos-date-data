@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G60N3WBsBSo",
-            "title": "Peter Mayhew, who brought 'Star Wars' Chewbacca to life, has died",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "6d3_n8eg5I0",
             "title": "Video: Newborn slips from doctors' hands, falls into bassinet after delivery",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Venezuela latest, quarantined cruise ship, Kentucky Derby preview | ABC News",
             "secondDuration": 1606,
             "group": "group_7"
+        },
+        {
+            "videoId": "jckYdL9r60w",
+            "title": "Heavy rain wreaks havoc from Michigan to Arkansas",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

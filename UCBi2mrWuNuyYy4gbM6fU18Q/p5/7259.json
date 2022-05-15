@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rEBj6Z4W6oc",
-            "title": "Bernie Sanders' Next Moves",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "d7Dvzvr3Nu0",
             "title": "Tel Aviv Shooting Leaves 3 Dead, Deemed Terror Attack",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Best Friend Day 2016 | ABC News Remix",
             "secondDuration": 197,
             "group": "group_7"
+        },
+        {
+            "videoId": "NV7GzepwFpU",
+            "title": "Teen Wrongly Convicted for Murder, Freed After 9 Years",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

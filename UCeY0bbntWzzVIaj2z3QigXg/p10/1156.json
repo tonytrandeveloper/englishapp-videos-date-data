@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8nc-4TSf2CE",
-            "title": "White House Responds To Bob Woodward Tape Of Trump Speaking About Coronavirus | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "25teFqvB5TU",
             "title": "Joe Biden Delivers Remarks On His 'Made In America' Plans | NBC News",
             "secondDuration": 1685,
@@ -61,8 +55,14 @@
             "title": "Rochester Protesters Paint Black Lives Matter On Street | NBC News NOW",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "c3V3EkyG0wg",
+            "title": "Multiple Wildfires Burn Across Oregon | NBC News NOW",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

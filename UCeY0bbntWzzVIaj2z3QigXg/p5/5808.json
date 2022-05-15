@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FGCG6JTCK0c",
-            "title": "Not Uber, Not TaskRabbit: Inside The Real Gig Economy | NBC News",
-            "secondDuration": 501,
-            "group": "group_7"
-        },
-        {
             "videoId": "j4N-hsHmGcM",
             "title": "A Family Is Airlifted To Safety From Texas Floodwaters | NBC News",
             "secondDuration": 47,
@@ -31,8 +25,14 @@
             "title": "Meet Hexa, An Adorable, Terrifying, Spider-Like Robot | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "9EF_AsVo40w",
+            "title": "\"We Have To Go Help\": Texas Family Answers Call In Wake Of Harvey | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

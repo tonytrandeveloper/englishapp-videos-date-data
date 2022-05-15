@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3hzw8L9BpYM",
-            "title": "Pentagon On Hero Dog: ‘We’re Protecting His Identity’ | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sda3K9rUDU4",
             "title": "Drone Video Shows The Devastated Compound Where Al-Baghdadi Died | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "ISIS leader Abu Bakr al-Baghdadi Killed In U.S. raid | NBC Nightly News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "wfyySPHEWZ8",
+            "title": "Watch: Kincade Fire In California Unfold From The View Of A Car | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

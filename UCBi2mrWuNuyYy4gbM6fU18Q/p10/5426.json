@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uIzi6dw6nOk",
-            "title": "National Rifle Association News Conference Interrupted by Protesters",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "lJfLuChbn8s",
             "title": "Purchasing Window Starts to Close for Last Minute Christmas Shoppers",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "Biblical Noah's Ark Replica Sails in the Netherlands",
             "secondDuration": 409,
             "group": "group_7"
+        },
+        {
+            "videoId": "kLzKXhbumL8",
+            "title": "'Back to the Beginning': Bethlehem's Church of the Nativity",
+            "secondDuration": 428,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

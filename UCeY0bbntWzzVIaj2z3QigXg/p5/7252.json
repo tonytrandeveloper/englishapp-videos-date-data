@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7ljgniz_Nl8",
-            "title": "Time-Lapse: Costa Concordia Moves Upright | Archives | NBC News",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "wDik3lKqxX8",
             "title": "Time-Lapse Of Tornado's Destruction In Oklahoma City  | Archives | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Wearable Tech Tracks Health, Performance | Short Cuts | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWQ26B3oQNc",
+            "title": "\"Washio\" App Delivers Laundry, Drycleaning | Short Cuts | NBC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

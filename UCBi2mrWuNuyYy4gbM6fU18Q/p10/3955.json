@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gwJwoVDJU9A",
-            "title": "Oscars Diversity Controversy Grows as Stars Debate Boycott",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "UvwgISgnR9I",
             "title": "Zac Efron, Julianne Hough | 'Dirty Grandpa' Tie Scene",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "Tornado Hits Florida, Killing at Least One Person",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "_CkDkiRiDnM",
+            "title": "911 Dispatcher Makes Pizza Order a Priority",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

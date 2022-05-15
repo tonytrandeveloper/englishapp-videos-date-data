@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ARvjSjepzs",
-            "title": "DC Intern Murder | New Evidence Emerges",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "dTXdSZykvY4",
             "title": "NYPD Helicopter Helps Rescue Stranded Jet Skier",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Trump Wanted to 'Hit Back' After Democratic Convention",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "RA0tCXSkPFQ",
+            "title": "Guard Caught Assaulting Inmate [Surveillance Footage]",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

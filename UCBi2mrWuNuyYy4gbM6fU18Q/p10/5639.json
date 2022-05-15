@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "itmimTJZQbc",
-            "title": "ABC News Democratic National Convention Live Stream, 09.05.12 -- Part 1",
-            "secondDuration": 8466,
-            "group": "group_7"
-        },
-        {
             "videoId": "XgGwFqYaAD8",
             "title": "Bill Clinton, Barack Obama's Bumpy Relationship",
             "secondDuration": 344,
@@ -61,8 +55,14 @@
             "title": "Sen. Barbara Mikulski: Fighting With 'Our Lipstick On' (Democratic National Convention Speech 2012)",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "xH2sJr5R7gw",
+            "title": "Bill Richardson at DNC 2012: Obama 'Just Needs Support From the Other Side'",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

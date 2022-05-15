@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hlTv9AKfHVM",
-            "title": "Mark Zuckerberg Celebrates the Birth of His Daughter| ABC News",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "i9aDruFCqkE",
             "title": "Gadgets for the Car Enthusiast | ABC News",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Harrison Ford on Returning as Han Solo",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "FrmrtX2gtmg",
+            "title": "Chris Christie Takes on Donald Trump",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

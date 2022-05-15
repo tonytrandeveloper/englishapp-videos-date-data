@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HEAUhGy8hf0",
-            "title": "Dan Abrams: Bezos allegations 'kind of extortion-y' but may not fit legal definition",
-            "secondDuration": 463,
-            "group": "group_7"
-        },
-        {
             "videoId": "VrL1mLzrEEE",
             "title": "Sen. Elizabeth Warren officially announces 2020 presidential bid",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Political crises sweep the state of Virginia",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "x51LLWGoKh4",
+            "title": "Father surprises son at high school 'senior night'",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

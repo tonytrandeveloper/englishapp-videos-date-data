@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CfiTKrBEZHA",
-            "title": "ProPublica: Millions Of Americans’ Medical Records Exposed | NBC News Now",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "F7GyenygMCg",
             "title": "How The Term ‘Climate Change’ Became So Divisive | NBC News Now",
             "secondDuration": 445,
@@ -31,8 +25,14 @@
             "title": "Renowned Journalist Cokie Roberts Dies At 75 | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "z9GhRvBtDGU",
+            "title": "Climate In Crisis: Journey To Virginia’s Disappearing Island | NBC Nightly News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

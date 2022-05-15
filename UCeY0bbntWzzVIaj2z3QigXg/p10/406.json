@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8GcuF955LqU",
-            "title": "Nightly News Full Broadcast - October 21st",
-            "secondDuration": 1282,
-            "group": "group_7"
-        },
-        {
             "videoId": "M3JKFF0wzxE",
             "title": "Triceratops Skeleton Sold at Paris Auction For Over $7 Million to American Collector",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "FBI Confirms Brian Laundrie's Remains Were Found in Florida Reserve",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "aRZhNq443h0",
+            "title": "Trump To Launch New Media Company And Social Platform",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

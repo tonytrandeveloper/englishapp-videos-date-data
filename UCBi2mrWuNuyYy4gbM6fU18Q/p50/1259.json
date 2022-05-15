@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ibR7lYnbS8Y",
-            "title": "Coleman: 'No Effort To Replace Michael Steele'",
-            "secondDuration": 589,
-            "group": "group_7"
-        },
-        {
             "videoId": "zogDqDcEGCc",
             "title": "FEMA Gets Ready for Hurricane Earl",
             "secondDuration": 168,
@@ -301,8 +295,14 @@
             "title": "Drunk Driving Numbers Surprisingly High",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2ium9VLH08",
+            "title": "Small Slip-Up is Big Loss for New Jersey Kids",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

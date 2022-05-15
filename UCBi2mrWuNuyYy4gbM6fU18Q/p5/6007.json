@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dHzCNQkEIoI",
-            "title": "Drive a tank in Texas? Blow stuff up on this company's battleground",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "7xwZCRs3Sqc",
             "title": "Details of new emergency order from the Department of Homeland Security",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Desperate hunt for missing Tennessee teacher, student continues",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "vuadtDYqORQ",
+            "title": "Supreme Court nominee makes 1st congressional appearance",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JCZjhNvy2ps",
-            "title": "Bill Murray Crashes White House Press Briefing Room To Talk Baseball | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "PDPIbfpdgxg",
             "title": "Donald Trump Knocks President Obama For Campaigning: ‘He Oughta Be Out Working’ | NBC News",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Donald Trump: I Didn’t Apologize to My Wife 'Because I Didn't Do Anything' | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "pizsk0C__2I",
+            "title": "Hillary Clinton: 'Donald Thinks Belittling Women Makes Him Bigger' | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

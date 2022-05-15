@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m3Ez1aNlP-8",
-            "title": "Rudy Giuliani Denounces 'Islamic Extremist Terrorism'",
-            "secondDuration": 961,
-            "group": "group_7"
-        },
-        {
             "videoId": "snSwSJ7s-v0",
             "title": "Sen. Tom Cotton: 'Help Is on the Way'",
             "secondDuration": 431,
@@ -121,8 +115,14 @@
             "title": "Republican National Convention: What You Need to Know",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "p3_hvKVMvM4",
+            "title": "Trump vs Clinton: What Do New Yorkers Think? | Election Cycle",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

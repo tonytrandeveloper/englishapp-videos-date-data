@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B8l7nOUzNJ4",
-            "title": "Americans Say Thanks To Health Care Workers With Applause, Meals And More | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "SWOcKBZdwVU",
             "title": "New Clinical Trial Underway For Possible Coronavirus Treatment: Exclusive | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Americans today must come together like the Greatest Generation before us | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "cQVrYSkZ9gA",
+            "title": "Coronavirus: How to know when to go to the emergency room | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

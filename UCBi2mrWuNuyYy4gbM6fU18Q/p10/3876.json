@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Px5trTz5dc",
-            "title": "Index: New Record for World's Longest Passenger Flight",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "WweAqh3lnEU",
             "title": "Erin Andrews Cross Examined",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "WATCH: Woman Survives Tornado Behind Soda Machine",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "oN1g3Emt3K8",
+            "title": "Meet Piper, the Dog Who Keeps Airport Runways Safe",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

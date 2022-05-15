@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CU2Qnzy3vUs",
-            "title": "Alton Sterling | Baton Rouge Leaders Want Broader Investigation",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "7wxupAZmXS0",
             "title": "New 'Game of Thrones' Season May Be Delayed",
             "secondDuration": 45,
@@ -61,8 +55,14 @@
             "title": "Serena, Venus Williams Cruise to Wimbledon Semifinals",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "7aY-_Rn1-8c",
+            "title": "Trump Joined by Newt Gingrich",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

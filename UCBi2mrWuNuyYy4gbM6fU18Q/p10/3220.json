@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U1FwApULcak",
-            "title": "The Hottest Toys of the Year",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "7GneEVyr3fw",
             "title": "Donald Trump Appoints 2 Females in Cabinet Selections",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Obama's Dad Jokes During Turkey Pardoning",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "_a85PQ3LhUk",
+            "title": "Donald Trump: Waterboarding Views of Gen. Mattis 'Surprised' Him",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

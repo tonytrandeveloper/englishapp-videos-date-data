@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ObptEIuLOZI",
-            "title": "Eyewitness speaks about the El Paso shooting",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "stMlhA4SzuI",
             "title": "Investigators search El Paso shooter's home for motive",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Trump faces backlash for tweet about robbery at Elijah Cummings' home",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "BJnISZV_LDE",
+            "title": "Driver hits the gas with officer clinging to the side of his car in Atlanta",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

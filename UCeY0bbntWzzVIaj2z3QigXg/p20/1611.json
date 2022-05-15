@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tuxBiTwHNhU",
-            "title": "Jeff Sessions’ 1986 Confirmation Hearing | Flashback | NBC News",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "oMubRS-TY5s",
             "title": "Reince Priebus: 'No Violation' With Donald Trump's Business (Full) | Meet The Press | NBC News",
             "secondDuration": 444,
@@ -121,8 +115,14 @@
             "title": "At Final Press Conference, Angela Merkel Calls President Obama ‘My Partner And Friend’ | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "8DEZ4Kmygwk",
+            "title": "Nancy Pelosi Blames James Comey Letter For Hillary Clinton's Loss | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

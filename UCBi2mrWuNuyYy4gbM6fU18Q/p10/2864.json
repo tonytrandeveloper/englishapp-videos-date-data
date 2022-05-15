@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x_O0VkLWkno",
-            "title": "Mom who says baby was overheated on United flight speaks out",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "xpah7lCI0vc",
             "title": "Newly released video shows fatal attack on U.S. tourist in Greece",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "Trailer: ‘Surviving the Inferno: Escaping Grenfell Tower’ | ABC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "sCzfdATdGXY",
+            "title": "Donald Trump FBI head nominee Christopher Wray Senate confirmation hearing",
+            "secondDuration": 18793,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

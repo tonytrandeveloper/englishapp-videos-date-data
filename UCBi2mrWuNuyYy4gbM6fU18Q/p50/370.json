@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-iiSkXK5dAc",
-            "title": "Whistleblower reports Trump convo with foreign leader l ABC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "D4VdqyqIMVk",
             "title": "Justin Trudeau admits brownface photo was racist l ABC News",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "Trump backtracks after Saudi attack: ‘I don’t want war with anybody’",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "jenrB3tqz6g",
+            "title": "The Briefing Room: Iran, GM strike, Kavanaugh, Biden",
+            "secondDuration": 1760,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gNEhU2waMAU",
-            "title": "NBC News NOW Full Broadcast – August 25, 2021",
-            "secondDuration": 2994,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArOzi10VBhQ",
             "title": "NBC Nightly News Full Broadcast - August 25th, 2021",
             "secondDuration": 1157,
@@ -61,8 +55,14 @@
             "title": "'Government Can't Meet This Challenge Alone': Biden On Cybersecurity With Tech CEOs",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Svo_q3DJufI",
+            "title": "White House Holds Press Briefing: August 25 | NBC News",
+            "secondDuration": 3206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

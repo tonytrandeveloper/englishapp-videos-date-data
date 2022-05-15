@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DvOWV_vx5Vo",
-            "title": "Scuba Therapy for Soldiers",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "6bQp45eDEsU",
             "title": "Facing 6th Grade With Tourette",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on Fuel Standards",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "wvxCSqO9eQg",
+            "title": "Detroit's New Mayor Tackles Unemployment",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

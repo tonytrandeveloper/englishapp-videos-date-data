@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uYYC1D3_5zk",
-            "title": "NY governor urges Amazon to reconsider HQ",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "r2s4WEAxjBc",
             "title": "Trump ordered top clearance for Kushner: Report",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "The Briefing Room: Trump-Kim summit, House Bill on gun background checks, marijuana legalization |",
             "secondDuration": 1430,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKg8duiFiA4",
+            "title": "The Debrief: Trump-Kim summit, Cohen on the Hill, Amazon cargo plane crash | ABC News",
+            "secondDuration": 1518,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UCA1A5GqCdQ",
-            "title": "Final 2020 Presidential Debate Between Donald Trump, Joe Biden | NBC News",
-            "secondDuration": 7173,
-            "group": "group_7"
-        },
-        {
             "videoId": "RjEHXCnlhg8",
             "title": "Biden Addresses Obama Shortcomings On Immigration: I’ll Be President, Not Vice President | NBC News",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Trump: Migrant Children Separated From Families Are 'Well Taken Care Of' | NBC News",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "b8Vq5bBeJ8k",
+            "title": "Trump Defends Criticism Of Dr. Fauci: He Is 'Allowed To Make Mistakes' | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

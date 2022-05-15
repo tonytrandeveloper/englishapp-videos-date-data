@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C-ZPV3Ji4fU",
-            "title": "ZombiCon Shooter Killed 1, Injured Several Others | ABC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "UR66DA2Azqw",
             "title": "Jimmy Kimmel Returns to Brooklyn",
             "secondDuration": 291,
@@ -31,8 +25,14 @@
             "title": "Michigan Football Fans Outraged by Punter's Mistake",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "yMuf5-ikQXk",
+            "title": "Seth Rogen Throws James Franco a Bar Mitzvah",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

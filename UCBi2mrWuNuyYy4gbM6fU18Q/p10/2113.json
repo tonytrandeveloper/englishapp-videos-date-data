@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dTi9TGCD_jE",
-            "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRMFeoxK_rE",
             "title": "The Briefing Room: Mueller report, Netanyahu visits White House, 2020 hopeful Pete Buttigieg",
             "secondDuration": 1302,
@@ -61,8 +55,14 @@
             "title": "Former U.S. attorney Preet Bharara reacts to Mueller report",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "poJbtNC6QSY",
+            "title": "President Trump's attorney discusses Mueller report findings",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

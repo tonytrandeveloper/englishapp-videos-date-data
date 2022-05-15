@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nvAc1HSRhjo",
-            "title": "Port Authority Suspect Charged In Pipe Bomb Attack | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "IiOkihRG0Q8",
             "title": "Democrats Call For Investigation Of Sexual Misconduct Against President Donald Trump | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Senator Kirsten Gillibrand Slams President Donald Trump Tweet As A 'Sexist Smear' | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "-OAKYZNxHM4",
+            "title": "Alabama Senate Candidate Doug Jones Votes | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

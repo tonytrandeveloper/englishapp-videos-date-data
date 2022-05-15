@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y-UIA9ja-h4",
-            "title": "FEMA Provides Update On Hurricane Florence | NBC News",
-            "secondDuration": 1519,
-            "group": "group_7"
-        },
-        {
             "videoId": "K5w6a2x2QTA",
             "title": "How To Watch The 2018 Global Citizen Festival | NBC News",
             "secondDuration": 47,
@@ -61,8 +55,14 @@
             "title": "Still Recovering From Hurricane Katrina: Residents Say Brad Pitt’s Non-Profit Failed Them | NBC News",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZMeZKnhmWE",
+            "title": "President Donald Trump Delivers Remarks At Congressional Medal Of Honor Reception | NBC News",
+            "secondDuration": 1106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Kro5aBWUNjE",
-            "title": "Ruth Bader Ginsburg reveals details about her recovery | ABC News",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "OgTCAIv7wvg",
             "title": "Coco Gauff takes on Naomi Osaka in US open | ABC News",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "Final day for 2020 Dem. presidential candidates to qualify for Houston debates l ABC News",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "SnoIpoVggXM",
+            "title": "Hindu festival, 'Tomatina' and football match: World in Photos, Aug. 28",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

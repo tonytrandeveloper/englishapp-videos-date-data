@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XZvDzlvvqKg",
-            "title": "New poll shows Trump has the lowest approval rating of any president since 1945",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "XnedFf_1cds",
             "title": "More details on American Airlines' flight attendant's confrontation with passengers",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "Narrow escape from 2015 Mount Everest earthquake caught on camera",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "MtGNmZ1gr3A",
+            "title": "Caitlyn Jenner reflects on transitioning to a woman: Part 1",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

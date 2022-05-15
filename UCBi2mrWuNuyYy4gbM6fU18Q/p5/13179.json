@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "63_JL_RRQCk",
-            "title": "Sen. Kennedy's Funeral:  Final Commendation",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "3qLfDhNkg5g",
             "title": "President Obama's Eulogy for Sen. Kennedy Part 2",
             "secondDuration": 434,
@@ -31,8 +25,14 @@
             "title": "Sen. Kennedy's Funeral: the Homily Part 2",
             "secondDuration": 700,
             "group": "group_7"
+        },
+        {
+            "videoId": "QgB2XCF2dTg",
+            "title": "Sen. Kennedys Funeral:  Second Reading",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

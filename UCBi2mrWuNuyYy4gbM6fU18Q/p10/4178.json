@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bH2cc8orulY",
-            "title": "Jon Stewart’s Last Night On “The Daily Show” | ABC News",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EtPV7KgnRU",
             "title": "Jennifer Aniston and Justin Theroux Get Married, A 'Jumanji' Remake and Much More in Pop News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Man Terrorizes Tennessee Movie Theater With Hatchet and Pepper Spray",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "hN6V8M4G4Kc",
+            "title": "Jon Stewart Prepares to Signoff One Last Time",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

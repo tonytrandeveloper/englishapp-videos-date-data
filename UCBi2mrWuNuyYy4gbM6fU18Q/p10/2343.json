@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJzRTjDhpL8",
-            "title": "NC city hit hard by Hurricane Florence",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6xo2DYm2TY",
             "title": "Cats rescued from NC floodwaters l Hurricane Florence animal rescue",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "City braces for storm surge from Hurricane Florence",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "h8rOJ9v_jLU",
+            "title": "Hurricane Florence prompts disaster response",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

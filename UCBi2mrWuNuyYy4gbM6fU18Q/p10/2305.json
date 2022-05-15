@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vhFTRZTxUak",
-            "title": "The man behind Big Bird retires from 'Sesame Street' after 50 years",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "F6Mbz8Cjlak",
             "title": "Beto O'Rourke fights to unseat Sen. Ted Cruz in Texas midterm battle",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Anheuser-Busch delivering drinking water to Florida, Georgia",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "1d8xmWStkO4",
+            "title": "Search for missing teen after parents found dead in Wisconsin",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

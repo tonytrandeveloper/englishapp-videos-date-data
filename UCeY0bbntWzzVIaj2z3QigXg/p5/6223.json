@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e9IoSF7Cfrk",
-            "title": "Why People Brag About Being Busy | Better | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "VO6vTSCi6aA",
             "title": "View From South Korea: Lester Holt On Tensions On The Korean Peninsula | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Fmr. FBI Agent Clint Watts: Trump Campaign 'Picked Up On' Kremlin Lines | Meet The Press | NBC News",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "3DGkyS4mVvQ",
+            "title": "Bernie Sanders Launches Facebook Live Show To Get His Message Out | NBC News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

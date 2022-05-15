@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "be2v6MNe9Qg",
-            "title": "Fault Lines of America",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "XhtNBON1jXY",
             "title": "Amplified: Say Hi",
             "secondDuration": 361,
@@ -121,8 +115,14 @@
             "title": "Jan. 20, 1986: First MLK Day",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "slxobgwhI_c",
+            "title": "Top Line: Coakley v. Brown: Mass Senate Race",
+            "secondDuration": 606,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

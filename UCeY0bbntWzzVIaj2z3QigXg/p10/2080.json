@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VT5-mQezDyY",
-            "title": "This Princess Has Been Missing For Over A Year | NBC Nightly News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "faQiv3BAAk8",
             "title": "Why Migrants Are Going To Canada To Enter The U.S. | NBC Nightly News",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Watch live: NBC's Dylan Byers interviews Howard Schultz at SXSW | NBC News",
             "secondDuration": 3094,
             "group": "group_7"
+        },
+        {
+            "videoId": "z5cyhBoiB0Y",
+            "title": "Deplorable Living Conditions Found Inside Private Military Housing | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

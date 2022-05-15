@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2qrSasGPEVM",
-            "title": "Dwyane Wade Interview on Gun Violence in Chicago",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "oEj2jKX8Yrs",
             "title": "Donald Trump Portrays Immigration Plan as Positive and All-American",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Trump Narrows Clinton's Lead in New National Poll",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "S537XYmFkQY",
+            "title": "Senator Tim Kaine Reacts to Trump's Immigration Speech",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

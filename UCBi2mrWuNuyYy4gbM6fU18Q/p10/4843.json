@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g0X0JQPoW5I",
-            "title": "Oscar Pistorius Trial: Terrible Accident or Murder?",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "37eXLjz_yWM",
             "title": "WEBCAST: Happy Mardi Gras!",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Best Actress Winner Cate Blanchett: 'You Never Expect This to Happen'",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "CtolHpkkPIA",
+            "title": "Oscars 2014: Ellen's Best Oscar Moments",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

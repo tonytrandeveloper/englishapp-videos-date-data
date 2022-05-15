@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9mKj7fn4mC4",
-            "title": "Lifeguard Fired for Saving a Man's Life",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ypy0Jt5iMfs",
             "title": "Did Scientists Find the 'God Particle'?",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Usher Stalker: 911 Call Made After Woman Claiming to Be His Wife Allegedly Shows Up at Home",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Fllw987qq8",
+            "title": "WEBCAST: Happy Independence Day From World News Now!",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

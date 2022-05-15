@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_1imGb7LxOc",
-            "title": "Trump Weighs Travel Restrictions To Address Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNFRlxUn5N4",
             "title": "Investigators Search For Answers In Mystery California Coronavirus Case | NBC Nightly News",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Trump Says Closing Border Was ‘The Right Decision’ Amid Coronavirus Spread | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZOYGE2Prj0",
+            "title": "Coronavirus Cases Surge In South Korea As Outbreak Spreads To Nearly 50 Countries | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

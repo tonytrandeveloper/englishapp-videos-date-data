@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "P7uw9hXrFuk",
-            "title": "FBI thwarts possible attack on the White House",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hc2ggQ7sc3o",
             "title": "Cyntoia Brown: From convicted murderer to victims' advocate",
             "secondDuration": 640,
@@ -121,8 +115,14 @@
             "title": "AG nominee promises he won't interfere with Mueller as confirmation hearing begins",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "ggyyWmdVCDU",
+            "title": "High-end complex in Nairobi under 'attack,' police say",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

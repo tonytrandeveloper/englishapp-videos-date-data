@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mODBBmvcrTU",
-            "title": "Could Smart Toys Be Spying On Your Kids? | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "D2_zpZAOrdE",
             "title": "This Woman Was Taken Off Life Support To Die -- And Lived | NBC Nightly News",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Time-Lapse of Steam Fog Rolling Across Lake Superior | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Q2zm9Extkc",
+            "title": "Mach's Year On Review: 2017's Most Impressive Robots | Mach | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

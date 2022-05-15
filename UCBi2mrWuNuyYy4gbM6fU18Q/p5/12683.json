@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nG9jPrXSDhg",
-            "title": "Son of 'Last Lecturer' Takes on Father's Fight",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "gZWmUTlPb9g",
             "title": "'Rolling Stone' Writer on McChrystal's Blunt Talk",
             "secondDuration": 257,
@@ -31,8 +25,14 @@
             "title": "Chris Coons on Delaware Politics",
             "secondDuration": 595,
             "group": "group_7"
+        },
+        {
+            "videoId": "m1gATQU1ujw",
+            "title": "McChrystal Generally Sorry",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

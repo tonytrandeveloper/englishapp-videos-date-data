@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cSJ0Hy2Elx0",
-            "title": "Top Story with Tom Llamas - November 2nd | NBC News NOW",
-            "secondDuration": 3110,
-            "group": "group_7"
-        },
-        {
             "videoId": "V-6TJDJmXFc",
             "title": "Republican Mike Carey Projected Winner In Ohio House 15",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Day Care Worker Shortage Impacting Families Across St. Louis",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "rp897VCsWZg",
+            "title": "Biden Touts Climate Steps After U.N. Conference, Addresses Spending Plan Standoff",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

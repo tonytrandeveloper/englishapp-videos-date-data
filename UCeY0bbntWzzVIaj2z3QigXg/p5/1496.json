@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1MBjlelTSrQ",
-            "title": "White House Covid Team Announces 100 Million U.S. Adults Fully Vaccinated | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "47G69Q5yUxs",
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 2302,
@@ -31,8 +25,14 @@
             "title": "Texas Redistricting Fight Split Over Party Lines After Census Results | NBC News NOW",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "PvAaE5b6tOs",
+            "title": "Fake Covid Vaccination Cards Circulating In Online Forums | NBC News NOW",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

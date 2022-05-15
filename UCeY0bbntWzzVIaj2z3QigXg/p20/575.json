@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QRAehF33YPw",
-            "title": "Michael Bloomberg Commits To Spend $100 Million To Help Biden in Florida | Meet The Press | NBC News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MaeR5LR9coQ",
             "title": "Full Peter Strzok: 'I Believe ... Donald Trump Is Compromised By The Russians' | Meet The Press",
             "secondDuration": 544,
@@ -121,8 +115,14 @@
             "title": "Fauci Disputes Trump’s Claim That U.S. Is ‘Rounding The Corner’ | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "lr-tBaFGRyg",
+            "title": "CA Gov. Newsom On Wildfire Devastation: Impact Of Climate Change Cannot Be Denied | NBC Nightly News",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

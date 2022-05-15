@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TgtasCnrFs0",
-            "title": "San Bernardino Shooter Received Deposit of $28,500 Weeks Before Attack | NBC Nightly News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "DR4FRqJeKVA",
             "title": "Tom Brokaw Reflects on Trump’s ‘Dangerous Proposal’ to Ban Muslims | NBC Nightly News",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Donald Trump's List Of Controversial Comments Grows | NBC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y8ZjE87aRak",
+            "title": "San Bernardino Attacker Practiced at Gun Range Days Before Attack | NBC Nightly News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

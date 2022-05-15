@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6QEM1AFX-o8",
-            "title": "Inside the eye of Hurricane Irma",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "qzGZewdEAH4",
             "title": "Hurricane Irma devastates western coast of Florida",
             "secondDuration": 277,
@@ -121,8 +115,14 @@
             "title": "Florida governor on Hurricane Irma: 'The most important thing is to pray for us'",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "24BUzN6jqjU",
+            "title": "Rear Adm. Peter Brown on Coast Guard response to Hurricane Irma",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

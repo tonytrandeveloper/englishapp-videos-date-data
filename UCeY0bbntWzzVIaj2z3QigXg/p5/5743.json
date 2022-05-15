@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wdj9xcuJGgg",
-            "title": "President Donald Trump Says More Sanctions Will Be Placed On North Korea | NBC News",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "wrAJ0tJPT1I",
             "title": "Everyday Citizens Lend A Hand In Mexico City After Earthquake | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Mexico City Earthquake: At Least 225 Dead, Thousands Missing | NBC Nightly News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "v0Onl_PbWMc",
+            "title": "Hurricane Maria Knocks Out Power Across All Of Puerto Rico | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

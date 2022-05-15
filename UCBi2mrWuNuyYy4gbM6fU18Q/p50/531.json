@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dRuHYcltmDs",
-            "title": "Hong Kong, China Celebrates the Start of 2018",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "iKSefnMEECM",
             "title": "Seoul, South Korea Celebrates the Start of 2018",
             "secondDuration": 93,
@@ -301,8 +295,14 @@
             "title": "Elon Musk's SpaceX Falcon 9 rocket causes a spectacle in the sky",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "CAknXdvwdGY",
+            "title": "Former Miss America speaks out after leaders resign over derogatory emails",
+            "secondDuration": 406,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

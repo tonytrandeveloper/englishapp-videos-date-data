@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kAyW0YffLyI",
-            "title": "Michigan Courthouse Shooting | Shooter Was Handcuffed Before Killing 2",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "E9YTxKL8-eY",
             "title": "6 People Rescued off Ellis Island After Boat Capsizes",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders Endorses Hillary Clinton [FULL SPEECH]",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "kdPtpXw3zaY",
+            "title": "Bernie Sanders Endorses Hillary Clinton",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

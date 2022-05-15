@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RjbIVnnMT18",
-            "title": "Gov. Cuomo Gives Briefing On Coronavirus Pandemic | NBC News (Live Stream Recording)",
-            "secondDuration": 2601,
-            "group": "group_7"
-        },
-        {
             "videoId": "EHqlIYxBHCY",
             "title": "While We Wait, America Shuts Down To Stop The Virus Spread | Meet The Press | NBC News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Companies Step In To Manufacture Much-Needed Medical Supplies | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y1Sfvggxq0k",
+            "title": "Florida Gov. DeSantis Gives Update On Coronavirus | NBC News (Live Stream Recording)",
+            "secondDuration": 1659,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

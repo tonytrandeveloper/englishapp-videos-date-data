@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j3eJI0x3BhQ",
-            "title": "Donald Trump is the Presumptive GOP Nominee | NBC Nightly News",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQgwRyLyjqA",
             "title": "What Cinco de Mayo Is All About | NBC News",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders to Hillary Clinton: I Got Some Bad News For You | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "UA7pqlLoDd0",
+            "title": "Wildfire Forces Evacuations Of Alberta City | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

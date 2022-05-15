@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "zODFMw5TdI4",
-            "title": "Fresh Clues in Tragic California Bus Crash",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sj0tQHsVkGs",
             "title": "Sloth Sounds, Beyonce and Precocious Pets",
             "secondDuration": 211,
@@ -301,8 +295,14 @@
             "title": "20 Students and One Security Guard Stabbed at Franklin Regional High School",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "9l58FAhd13M",
+            "title": "WEBCAST: NYC Subway Freak-Out!",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

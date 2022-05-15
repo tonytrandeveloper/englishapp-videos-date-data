@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kS2U-H9kaEw",
-            "title": "Was it ‘do-or-die’ for Biden in New Hampshire debate? | ABC News",
-            "secondDuration": 744,
-            "group": "group_7"
-        },
-        {
             "videoId": "om0FF0ATAns",
             "title": "Gun industry ‘continues to call the shots’: Warren | ABC News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Andrew Yang calls Trump ‘symptom of a disease’ | ABC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pk7dCTfGSSo",
+            "title": "Candidates take on Trump’s climate change and trade policies | ABC News",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

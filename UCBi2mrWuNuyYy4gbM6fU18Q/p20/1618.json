@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "I6QYgikzwBE",
-            "title": "Officer in Deadly Minnesota Shooting Charged With Manslaughter",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "InuGf2eg6_c",
             "title": "Hillary Clinton Speaks About Presidential Election Loss",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Toddler With 'Magic Legs' Becomes Storybook Hero",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "4J_G7eXxxkg",
+            "title": "Joe Biden, Mike Pence Meet at Biden Residence",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "159h2s8YeWk",
-            "title": "EXCLUSIVE: Otto Warmbier's Father Speaks Out | NBC Nightly News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "stQVjGU5JnM",
             "title": "A Pediatrician’s Tips On Protecting Your Family From Flu | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Senator Tim Kaine Discusses Raising Military Spouse Employment | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "cHTRzoI1pN0",
+            "title": "President Donald Trump Comments On White House Aide Rob Porter’s Resignation | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

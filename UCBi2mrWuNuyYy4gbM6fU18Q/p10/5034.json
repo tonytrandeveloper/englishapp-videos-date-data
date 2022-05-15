@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m60kmlLKY6o",
-            "title": "Miss America 2013: The Inside Story",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "ToXWizxNdpE",
             "title": "Chris Christie Tours Seaside Heights Boardwalk After Fire",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Gas Station Skimming: Is Your Credit Card at Risk?",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "FpXgq8DEgLk",
+            "title": "Feed Frenzy: Freaky Friday the 13th",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

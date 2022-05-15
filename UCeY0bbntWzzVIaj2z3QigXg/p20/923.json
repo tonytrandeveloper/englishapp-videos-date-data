@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EpuDTtZOA5s",
-            "title": "Hurricane Dorian Lashing The Southeast As It Barrels Up The Coast | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "Syo3orJChv4",
             "title": "Thousands Stranded In Bahamas After Days Of Hurricane Dorian’s Winds And Rain | NBC Nightly News",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Hurricane Dorian Flooding Engulfs Bahamas International Airport | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "OB1wXFGUNuI",
+            "title": "‘It Has To Stop’: 2020 Candidates React To Odessa, Texas, Shooting | NBC News Now",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

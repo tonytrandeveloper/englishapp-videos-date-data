@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "777a4gwISVQ",
-            "title": "'Golden Girl' and everyone's friend Betty White turns 97",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "zStxXc6bBiA",
             "title": "Stunning reversal on collusion between Russia and campaign",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Trump visits Pentagon, shutdown hits contractors, Los Angeles teachers' strike",
             "secondDuration": 1551,
             "group": "group_7"
+        },
+        {
+            "videoId": "ysFXCMwb9fU",
+            "title": "Storms hit California resulting in flooding, rock slides",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dfHDML6hpOo",
-            "title": "Ken Starr on Manafort: Cooperation with special counsel 'significant breakthrough'",
-            "secondDuration": 670,
-            "group": "group_7"
-        },
-        {
             "videoId": "bMh_aznrvzw",
             "title": "JPMorgan Chase CEO says he's not running for president but 'never say never'",
             "secondDuration": 305,
@@ -301,8 +295,14 @@
             "title": "'Briefing Room': Hurricane Florence, Trump's Puerto Rico comments, 538's 2018 Senate forecast",
             "secondDuration": 1181,
             "group": "group_7"
+        },
+        {
+            "videoId": "936tUL9kGls",
+            "title": "Bob Woodward on 'Fear,' his new book that has President Trump enraged",
+            "secondDuration": 619,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

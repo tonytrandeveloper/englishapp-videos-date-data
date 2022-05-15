@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U8uzuPk8Hkc",
-            "title": "Matt Kibbe: 'This Isn't Stimulus, This Is Dodging'",
-            "secondDuration": 559,
-            "group": "group_7"
-        },
-        {
             "videoId": "bIlIHMzpLAE",
             "title": "Obama's Top Diplomat in Afghanistan, Richard Holbrooke, Dies",
             "secondDuration": 243,
@@ -121,8 +115,14 @@
             "title": "Javier Bardem on Biutiful, his family",
             "secondDuration": 474,
             "group": "group_7"
+        },
+        {
+            "videoId": "8vSklgimLpQ",
+            "title": "Kirsten Dunst on \"All Good Things\"",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

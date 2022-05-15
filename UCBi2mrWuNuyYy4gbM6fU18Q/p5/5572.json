@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SK0e-0EDzAw",
-            "title": "Trump expected to announce fate of so-called Dreamers",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "hTxDBPHz6WU",
             "title": "South Korean warships carry out live-fire exercises",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "South Korea responds to North Korea's largest nuclear test",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEhVBDAhZxI",
+            "title": "Rising from the ruins of Hurricane Harvey",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

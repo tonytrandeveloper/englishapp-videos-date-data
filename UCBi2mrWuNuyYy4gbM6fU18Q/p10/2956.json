@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g9UJnUaLqYo",
-            "title": "Netflix allegedly hit by 'The Dark Overlord' hackers",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "vj2W0HlcysA",
             "title": "Police release new photos of escaped prisoner",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Deep in the heart of coal country, folks watch the health care battle",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "8BTlzV7w2EA",
+            "title": "Housing may be on the upswing despite weak growth in the economy",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

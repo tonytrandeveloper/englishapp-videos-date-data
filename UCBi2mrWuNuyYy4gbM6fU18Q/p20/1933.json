@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QHD8nCuJAoo",
-            "title": "Ted Cruz Gaining on Trump After Winning in Kansas, Maine",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "0NxHX8EfHlg",
             "title": "Erin Andrews Awarded $55M Over Nude Video",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders Delivers Remarks on 'Super Saturday'",
             "secondDuration": 700,
             "group": "group_7"
+        },
+        {
+            "videoId": "ytsx6GHL3Jo",
+            "title": "Donald Trump Delivers 'Super Saturday' Remarks",
+            "secondDuration": 1814,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

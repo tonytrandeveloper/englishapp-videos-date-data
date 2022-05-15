@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3i5wnqvaoxE",
-            "title": "2016 Presidential Election Results: First State Projections",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "T_L6KWA_dZM",
             "title": "96-Year-Old Woman Casts Ballot for Hillary Clinton",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Mike Pence Votes | Election 2016",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQGLrIvp3jw",
+            "title": "Hillary Clinton FULL SPEECH with President Obama, Bill, Michelle, & Chelsea | Philadelphia Rally",
+            "secondDuration": 3330,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

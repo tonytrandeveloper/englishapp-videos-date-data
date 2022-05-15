@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jrVAyUppUyA",
-            "title": "Security Footage Shows Fugitive Lois Riess' Arrest | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "w3P5-YVFv0g",
             "title": "A Country In Crisis: A Healthcare System On The Brink Of Collapse | NBC News",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "David Copperfield Forced To Reveal Secret Behind Illusion In Las Vegas Courtroom | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ks3j2L9xWpY",
+            "title": "Family Turns Tragedy Into Mental Health Awareness For Teens | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

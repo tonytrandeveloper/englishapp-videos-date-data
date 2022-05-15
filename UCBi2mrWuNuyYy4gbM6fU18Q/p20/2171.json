@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "To4U_A_m6ug",
-            "title": "Dancing with the Stars: Grooving to Classic Disney Films",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2v8nkmFP2I",
             "title": "Teen Takes 80-Year-Old Grandpa to High School Prom",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "MTV Movie Awards: Channing Tatum Performs Sexy Dance",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "YxtQ0NbH3mQ",
+            "title": "Hillary Clinton 2016: Politicians, Commentators Discuss White House Run",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

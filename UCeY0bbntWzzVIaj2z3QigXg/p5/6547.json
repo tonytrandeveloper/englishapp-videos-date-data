@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dpk2Cn-geok",
-            "title": "Donald Trump: I Will Release Tax Returns When Hillary Clinton Releases Emails | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "pfNJsaMylF0",
             "title": "Hillary Clinton Criticizes Donald Trump Over Tax Returns | NBC News",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: 'Why Not' Blame Hillary Clinton for Everything? | NBC News",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "L6yk8cfril4",
+            "title": "Trump to Clinton: Why After 30 Years Do You Now Have Job Solutions? | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

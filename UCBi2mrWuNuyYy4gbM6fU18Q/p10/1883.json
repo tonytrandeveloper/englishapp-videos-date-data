@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ppANIvskkgY",
-            "title": "Puerto Rico braces for Tropical Storm Dorian | ABC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "1JnfmOHJAsc",
             "title": "Raging floodwaters push cars through streets of Spain | ABC News",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Police looking for driver who plowed into crowd, hitting 2 people",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "EqHqiOVtyiE",
+            "title": "Tropical Storm Dorian gains strength in the Atlantic Ocean l ABC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

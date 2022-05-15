@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dRuHYcltmDs",
-            "title": "Hong Kong, China Celebrates the Start of 2018",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "iKSefnMEECM",
             "title": "Seoul, South Korea Celebrates the Start of 2018",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "'Familial DNA' leads to cold-case arrest",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "34U9jcXOmd0",
+            "title": "Mega Millions jackpot grows to over $300 million",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

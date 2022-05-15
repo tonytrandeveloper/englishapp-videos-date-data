@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fpWOPevvYag",
-            "title": "President Obama Sings Happy Birthday To Daughter Malia | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tz_wiGFh32A",
             "title": "Wounded Veterans Find Peace Through the Serenity of Fly Fishing | NBC Nightly News",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Life Stories: Disability Activist Alice Wong | NBC Asian America Presents",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "YKditCmU_yw",
+            "title": "The Marines Are Taking 'Man' Out Of Gendered Job Titles | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

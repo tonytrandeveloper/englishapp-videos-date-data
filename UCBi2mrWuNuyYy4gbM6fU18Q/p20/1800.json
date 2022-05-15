@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rYimk6I6fLY",
-            "title": "Bear Attacks Marathon Runner",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "fw826uPacWw",
             "title": "Donald Trump, Jr. Discusses Father's Campaign Changes",
             "secondDuration": 264,
@@ -121,8 +115,14 @@
             "title": "Orlando Shooter Calls With Police Released",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "0DtcdzAUNcw",
+            "title": "Bounce House Blown Into the Air",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

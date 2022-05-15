@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rgQMnuCzcx0",
-            "title": "Bobby Jindal and Martin O'Malley Debate",
-            "secondDuration": 951,
-            "group": "group_7"
-        },
-        {
             "videoId": "i9il1IEsaTs",
             "title": "Owner Catches Burglar on Hidden CameraOwner Catches Burglar on Hidden Camera",
             "secondDuration": 284,
@@ -121,8 +115,14 @@
             "title": "Texas Principal Accused of Spying on Daughter's Coach",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "E6A3iAxj1xk",
+            "title": "Taliban Ambush Afghan Forces: Caught on Tape",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

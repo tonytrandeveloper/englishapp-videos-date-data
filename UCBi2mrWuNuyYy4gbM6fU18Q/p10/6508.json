@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RLAODRWFE_A",
-            "title": "Jake Tapper on President Obama's 9th War Council",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gv7uGL2tJqc",
             "title": "Sex, Faith and Scandal",
             "secondDuration": 491,
@@ -61,8 +55,14 @@
             "title": "Baby Born While Dad's in Space",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0LCFApp5JA",
+            "title": "Winging It in an Engineless Plane",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

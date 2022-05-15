@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-ZI1xH_QyHQ",
-            "title": "‘American Sniper’ Trial: Murder of Chris Kyle",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Thx1NOdPaAY",
             "title": "Reality Porn Competition: The Sex Factor",
             "secondDuration": 39,
@@ -301,8 +295,14 @@
             "title": "Bobbi Kristina Fighting for her Life",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "WD8wTzsHXmY",
+            "title": "The Winter That Won’t Give Up",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

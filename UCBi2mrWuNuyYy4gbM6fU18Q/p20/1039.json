@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "o_K6qLQmIUI",
-            "title": "Car ramming attack in California",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "SdmC7fW2q7M",
             "title": "'Jeopardy' new million dollar champ",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "'1969': Parrish Hirasaki, a heat shield specialist for the Apollo 11 program",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "3oxfAlKjoSw",
+            "title": "'1969': Hugh Brown, a communications specialist with NASA during Apollo 11",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

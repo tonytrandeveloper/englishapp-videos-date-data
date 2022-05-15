@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sDCrzOk7v90",
-            "title": "Queen's Jubilee Continues Across the Pond",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "bIrCKg4X9ls",
             "title": "Queen Elizabeth's Diamond Jubilee: Royal Celebration Honors 60 Years on the Throne",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "On the Town with Will.i.am",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3TJtwUOmQg",
+            "title": "Sugar: Latest Target in Diet Wars",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

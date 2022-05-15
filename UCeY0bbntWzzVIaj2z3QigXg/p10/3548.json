@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zcPeC8E0xgs",
-            "title": "Navy 'Sea Dragon' Helicopter Unsafe For Flight | NBC Nightly News",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "KvxaOT2MuKI",
             "title": "Detroit Man Walks 21 Miles Round Trip To Work Daily | NBC News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "NFL Stars Play Flag Football With US Veterans | 3rd Block | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "FdjTQPNaSW0",
+            "title": "Humans of NY Raises Over $1 Million For BK School | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

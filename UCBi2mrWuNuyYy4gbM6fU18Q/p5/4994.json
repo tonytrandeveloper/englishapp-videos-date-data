@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x6Z1JYjsFaI",
-            "title": "Patrick Morrisey projected to win West Virginia primary",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yizps-hRH8w",
             "title": "New York attorney general resigns amid allegations of abuse by 4 women",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Trump: 'The United States will withdraw from the Iran nuclear deal'",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "RjJAu5H-ZnU",
+            "title": "Voters in 4 states go to the polls in high-stakes primaries",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

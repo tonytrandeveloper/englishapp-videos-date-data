@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3YP-5TB39_8",
-            "title": "NYPD asking for public's help locating suspect related to college student's death",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "MFgCmO16cJg",
             "title": "Dash camera captures the moment deer jumped over car on Tennessee highway",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "Here’s why life-saving drugs may be missing on your next flight l ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "NkQgIsQ9568",
+            "title": "Trump reacts to impeachment, scathing new op-ed calls for his removal l ABC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

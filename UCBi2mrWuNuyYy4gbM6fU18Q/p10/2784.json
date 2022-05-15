@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZDRbjGqXDLI",
-            "title": "Hurricane Irma barrels through the Caribbean, claiming at least 3 lives",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "tcPpEZ3dYA4",
             "title": "Trump says he will revisit DACA issue if Congress cannot fix the program",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Woman catches mechanic taking a joyride in her car",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "dkjYWbLrL8A",
+            "title": "Florida governor discusses preparations as Hurricane Irma nears",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

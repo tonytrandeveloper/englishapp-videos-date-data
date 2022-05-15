@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "htK2L0kNV34",
-            "title": "Mysterious Death at Cirque Du Soleil",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "LL5F7ffUfXI",
             "title": "Aaron Hernandez Murder Investigation: Former Friend Says Ex-NFL Star Shot Him",
             "secondDuration": 170,
@@ -301,8 +295,14 @@
             "title": "George Zimmerman Trial for Trayvon Martin Death: Friend on Phone With Martin Testifies",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUpz3fc87pQ",
+            "title": "Demi Lovato Interview 2013: Singer on Father's Death, New Scholarship Initiative",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

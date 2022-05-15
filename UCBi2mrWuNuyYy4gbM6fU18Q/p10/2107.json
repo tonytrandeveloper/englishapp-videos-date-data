@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WKu10kBYdv0",
-            "title": "High school drama club gets high marks for 'Alien' musical",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "AbkGj-lw5Mg",
             "title": "Napa Valley vineyard owner among parents charged in admissions scandal",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Parents demand answers after child dies in classroom fight",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "PGACSQdY45Q",
+            "title": "'Amazing Grace': Exclusive look at never-aired footage of Aretha Franklin",
+            "secondDuration": 406,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

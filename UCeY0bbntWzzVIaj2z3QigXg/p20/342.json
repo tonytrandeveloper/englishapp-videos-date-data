@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "F3Wp76XBCdk",
-            "title": "Virginia Teacher Refuses To Comply With Proposed Pronoun Policy",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "vBymMVSI1sY",
             "title": "Morning News NOW Full Broadcast - June 1 | NBC News NOW",
             "secondDuration": 2745,
@@ -121,8 +115,14 @@
             "title": "Honoring The 100-Year History Of The Tomb Of The Unknown Solider",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "WV7HcQzJpSs",
+            "title": "Biden Marks First Memorial Day As Commander-In-Chief",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

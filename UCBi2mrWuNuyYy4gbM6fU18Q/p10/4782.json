@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZoCGIeFRLwM",
-            "title": "Kansas City Highway Shooting Suspect Held on $1 Million Bail",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "DQ5Sek83rWk",
             "title": "Surrogate Births: Rise in Women Using Surrogates for Social Reasons",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "Caught on the 'Price Is Right': Workers Compensation Fraud",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "yarEbKyk8PU",
+            "title": "'Game of Thrones' Author George R.R. Martin",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

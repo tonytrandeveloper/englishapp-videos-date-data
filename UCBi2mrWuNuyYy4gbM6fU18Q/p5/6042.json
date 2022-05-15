@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kGn8dWLdIzI",
-            "title": "The Bachelor Week 10 HIGHLIGHTS",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "WeoCZoBTaAk",
             "title": "Retracing President Trump's whirlwind wiretapping claims",
             "secondDuration": 503,
@@ -31,8 +25,14 @@
             "title": "SCOTUS returns case on transgender bathroom rights",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "KzkIHjlXMfs",
+            "title": "Old Georgia archives demolished in building implosion",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

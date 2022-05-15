@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FgAFK1EHIq4",
-            "title": "Full McAleenan: ICE Raids 'Done With Sensitivity' | Meet The Press | NBC News",
-            "secondDuration": 607,
-            "group": "group_7"
-        },
-        {
             "videoId": "JRreDSr3dWU",
             "title": "Full Panel: Senate Weighs 'Red Flag' Laws After Dual Mass Shootings | Meet The Press | NBC News",
             "secondDuration": 509,
@@ -31,8 +25,14 @@
             "title": "Planned Attacks On Las Vegas Synagogue And LGBTQ Bar Thwarted | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "eWJ2SDwUSuw",
+            "title": "What’s Next For Jeffrey Epstein Case After Accused Sex Trafficker’s Death | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

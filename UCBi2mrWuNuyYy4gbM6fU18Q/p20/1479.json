@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8BTlzV7w2EA",
-            "title": "Housing may be on the upswing despite weak growth in the economy",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "0KZxONoAJz4",
             "title": "Index: British authorities say they've foiled an active terror plot",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "White House promises 'massive' cuts in tax plan",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDzhCJeNSqE",
+            "title": "Homework ban sparks debate among educators, parents",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

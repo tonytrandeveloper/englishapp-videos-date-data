@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BOJU1u-FSjQ",
-            "title": "Pope Francis Celebrates Easter",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q8dME6N_xFo",
             "title": "Landslide Rips Houses, Roads Apart",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Michelle Obama Announced as Guest Star on 'Nashville'",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "ED087QaMsDE",
+            "title": "Mother Bear Fights to Raise Her Cubs in the Alaska Wilderness",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

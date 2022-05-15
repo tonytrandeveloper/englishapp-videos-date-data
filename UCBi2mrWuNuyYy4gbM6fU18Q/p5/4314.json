@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DMwSi0WFEsU",
-            "title": "How to keep your chimney safe",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "jB479_zAAOI",
             "title": "Trump lashes out at former acting FBI director",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "New details about the factory massacre in Aurora, Illinois",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "-8FpEdozVNc",
+            "title": "New allegation surfaces that Jussie Smollett staged his own attack: Source",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

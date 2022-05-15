@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NShTErLTiaw",
-            "title": "Paul Ryan: Donald Trump's DACA Meeting With Dems 'Was A Discussion, Not An Agreement' | NBC News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "mp3jffARp_4",
             "title": "Russian Military Drills Feared To Be Biggest Since Cold War | NBC News",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "At Least Eight Dead At Florida Nursing Home After Hurricane Irma Cut Power | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "pcb-wPY8lUk",
+            "title": "Saint Peter’s Bone Fragments Possibly Discovered At Roman Church | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

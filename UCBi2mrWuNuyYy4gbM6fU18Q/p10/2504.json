@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nxkt9NR7-k4",
-            "title": "President Donald Trump delivers remarks on National Day of Prayer | ABC News",
-            "secondDuration": 3554,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nlVhA7xamQ",
             "title": "New details emerge on alleged 'Golden State Killer'",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Giuliani: Trump reimbursed personal lawyer for 130K Stormy payment",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "PsPA3Dgh73M",
+            "title": "White House lawyer Ty Cobb plans to retire",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

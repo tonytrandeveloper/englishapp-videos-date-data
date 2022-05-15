@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WEoVtmbWMEQ",
-            "title": "Prince William, Princess Kate Meet Olympic Athletes",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "S8sddhoFJnc",
             "title": "Man Dies After Police Gunbattle",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Trump Invites Obama's Half-Brother to Presidential Debate",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "5LamfX2HJkE",
+            "title": "3rd Presidential Debate | What to Expect",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

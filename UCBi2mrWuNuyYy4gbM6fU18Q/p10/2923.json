@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zxAGFHvg-Js",
-            "title": "Javier Bardem on asking to be part of the 'Pirates' movie franchise",
-            "secondDuration": 346,
-            "group": "group_7"
-        },
-        {
             "videoId": "QniBvEi8ZGU",
             "title": "FBI calls emergency meeting with Eric and Donald Trump Jr.",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "New arrests in direct connection with Manchester attack",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "da6XQBn_QoM",
+            "title": "Air travel expectations for Memorial Day weekend",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

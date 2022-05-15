@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RYabbMf8TLc",
-            "title": "William and Kate: Royal Baby #2 Coming Soon",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "WjqYHnW0zWM",
             "title": "‘Game of Thrones’ Returns, Expected to Shock Fans Again",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "School Bus Seat Belt Safety Questioned After Crash Tests",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "wxNKzL7rKRY",
+            "title": "Obama-Castro's Historic Handshake",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

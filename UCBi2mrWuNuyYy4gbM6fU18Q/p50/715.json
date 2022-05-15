@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xE5HKgF5kBo",
-            "title": "American Student Found Dead in Italian River",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "sTomfl2wxP0",
             "title": "How July 4th Was Celebrated 40 Years Ago",
             "secondDuration": 335,
@@ -301,8 +295,14 @@
             "title": "ISIS Claims Responsibility for Bangladesh Cafe Attack",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "UyoppqQcaTI",
+            "title": "Cat and Bear Make for Unlikely Friends",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

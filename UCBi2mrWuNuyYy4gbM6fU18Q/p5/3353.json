@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HnM7p-U64ko",
-            "title": "The latest on the ongoing royals drama",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "ckISdrbTE00",
             "title": "Deadly school shooting in Mexico",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "'Just Mercy' and the real-life story of the attorney who exonerated death row inmates l Nightline",
             "secondDuration": 520,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCQlRd_H5co",
+            "title": "Boeing releases disturbing internal communications between employees",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ovHiyabByRw",
-            "title": "Demolition Day for the Cleveland House of Horrors",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "4kDvlgLlBNA",
             "title": "The Hazards of Walking Drunk",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "The New 'Bachelor': Who Is Juan Pablo?",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "nBct3XrFjCA",
+            "title": "Usher's Son Near-Drowning 911 Call Audio: Singer's Aunt Calls 911",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

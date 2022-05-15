@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BX0V5bTnSxk",
-            "title": "Michael Avenatti: 'I Have Never Struck A Woman' | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "GgdS1Yf4o4I",
             "title": "Family Offers Warning To Travelers After Son Killed On Trip To Mexico | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Parkland Mass Shooting Suspect Allegedly Attacks Jail Guard | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "2I5bsW4WU0s",
+            "title": "New Concerns Over Toxic Smoke As California Wildfire Death Toll Rises | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

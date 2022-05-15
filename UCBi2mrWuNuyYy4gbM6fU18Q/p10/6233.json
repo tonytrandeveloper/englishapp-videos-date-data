@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dnCdgqCza9o",
-            "title": "Tom Cole: 'A Very Dysfunctional Congress'",
-            "secondDuration": 637,
-            "group": "group_7"
-        },
-        {
             "videoId": "nVDzRPZbHTk",
             "title": "Child Left Outside Store on a Leash | What Would You Do? | WWYD | ABC News",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "The Conversation: Acupressure in the Classroom",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "xqOuJf-zUfU",
+            "title": "Airport Security Lapse Exposed",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "NalXhQYPx50",
-            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
-            "secondDuration": 36800,
-            "group": "group_7"
-        },
-        {
             "videoId": "hyc-cliBtD8",
             "title": "Travis Scott Breaks Silence In First Interview Since Astroworld Tragedy",
             "secondDuration": 118,
@@ -301,8 +295,14 @@
             "title": "Top Story with Tom Llamas – Dec. 7 | NBC News NOW",
             "secondDuration": 3020,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ezWYb9Qarc",
+            "title": "Nightly News Full Broadcast - Dec. 7",
+            "secondDuration": 1260,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

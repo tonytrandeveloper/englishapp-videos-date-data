@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rljrGixht0c",
-            "title": "White House targets Michelle Obama initiatives, big banks",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "lkSjvunRN7g",
             "title": "Gunman opens fire at San Diego birthday pool party, killing 1, injuring 7",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Prince’s band from ‘Purple Rain,’ the Revolution, on 2017 tour to honor the icon in live interiew",
             "secondDuration": 1547,
             "group": "group_7"
+        },
+        {
+            "videoId": "z8zQzZD0axE",
+            "title": "'Star Wars' cosplay makes you infinitely cooler, from a certain point of view",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

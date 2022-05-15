@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3jx_zpyJY7Y",
-            "title": "John Boehner Gets Emotional at NRCC",
-            "secondDuration": 309,
-            "group": "group_7"
-        },
-        {
             "videoId": "cYSYuUgknUA",
             "title": "Linda McMahon: 'We Have Made Washington Listen'",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Inside the Battle for Control of Congress",
             "secondDuration": 342,
             "group": "group_7"
+        },
+        {
+            "videoId": "mqqj8oqJ8BE",
+            "title": "Charlie and Brooke File for Divorce",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

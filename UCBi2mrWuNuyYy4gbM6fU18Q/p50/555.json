@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fo64U7mL0is",
-            "title": "Police investigating possible deadly hazing incident at LSU",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "dpLD0tqU2V4",
             "title": "Growing outrage over sign language interpreter in Florida",
             "secondDuration": 85,
@@ -301,8 +295,14 @@
             "title": "Parents sue Boy Scouts after son dies during hike",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dtr55ySh6YE",
+            "title": "Florida Keys residents returning to devastating damage",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

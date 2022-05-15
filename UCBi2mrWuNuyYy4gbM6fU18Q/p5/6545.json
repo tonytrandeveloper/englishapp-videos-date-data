@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qqSMNHHq6Pc",
-            "title": "2 NYPD Officers Shot in The Bronx",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8oUgSIUIRvw",
             "title": "Man Proposes Inside Crocodile Enclosure",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Obama Defends Trump Protester at Clinton Rally",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "gUCETgRhcb4",
+            "title": "Woman Found Captive in Storage Container",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

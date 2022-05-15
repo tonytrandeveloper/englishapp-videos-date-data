@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tG8FjqrFFvk",
-            "title": "Brooklyn Center Mayor Calls On Minnesota AG To Investigate Shooting Of Daunte Wright | NBC News NOW",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "xUEDHBKejlQ",
             "title": "How To lose: Concessions & Transitions | Meet the Press Reports | NBC News",
             "secondDuration": 1639,
@@ -31,8 +25,14 @@
             "title": "White House Holds Press Briefing On J&J Vaccine Pause | NBC News",
             "secondDuration": 3833,
             "group": "group_7"
+        },
+        {
+            "videoId": "salmIsCqzlY",
+            "title": "Dr. Fauci Says J&J Vaccine Pause A ‘Signal’ To Help Physicians | NBC News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

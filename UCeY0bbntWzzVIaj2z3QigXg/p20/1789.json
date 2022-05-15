@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vUllRCq9W5M",
-            "title": "9/11 Firefighter's Daughter Joins FDNY | NBC News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "GfjeumIsXPo",
             "title": "Airfares Rising Despite Lower Fuel Costs | NBC News",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Keystone XL Pipeline Comes To Vote In Congress | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bbj5XLP4wCk",
+            "title": "Data Security: A Strong Password Isn't Enough | Debunker | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

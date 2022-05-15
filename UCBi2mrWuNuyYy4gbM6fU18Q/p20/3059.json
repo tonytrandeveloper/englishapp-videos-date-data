@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DYuW2X2qhto",
-            "title": "Osama bin Laden Killed: OBL's 'Home Videos'",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "779OY7IgCfE",
             "title": "Osama bin Laden Killed: 'Home Videos' Released",
             "secondDuration": 358,
@@ -121,8 +115,14 @@
             "title": "Osama Bin Laden Raid: The Silent Storm",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "eO-AU3Z_myk",
+            "title": "Osama Bin Laden Dead: Photo to Remain Classified",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

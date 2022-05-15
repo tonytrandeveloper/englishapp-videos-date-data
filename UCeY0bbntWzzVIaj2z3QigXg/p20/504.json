@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g4nLx2LNpAs",
-            "title": "Biden Urges Congress To Pass Pandemic Relief Ahead Of ‘Very Dark Winter’ | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBC_c8x6OQM",
             "title": "Inside A Major Medical Center’s Covid Vaccine Distribution Drill | NBC Nightly News",
             "secondDuration": 104,
@@ -121,8 +115,14 @@
             "title": "U.S. Breaks Record For Daily Covid Deaths, Hospitalizations | NBC Nightly News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGgrOnFdCKA",
+            "title": "Thousands Forced To Evacuate As Bond Fire Spreads In Southern California | NBC News NOW",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

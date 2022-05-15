@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "u3YismPN8AM",
-            "title": "Full Ben Sasse Interview: 'Way Too Much Drama Everyday' | Meet The Press | NBC News",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "vaVpmMUUHbM",
             "title": "Full Panel: Does Anonymous Op-Ed Represent A 'Soft Coup' | Meet The Press | NBC News",
             "secondDuration": 468,
@@ -301,8 +295,14 @@
             "title": "President Donald Trump Reacts To Anonymous New York Times Op-Ed | NBC News",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "vuOkhbqbUs8",
+            "title": "President Donald Trump Meets With Sheriffs From Across The Country | NBC News",
+            "secondDuration": 850,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

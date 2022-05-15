@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U5AqpByrBJI",
-            "title": "Water Security: Climate, Health And Infrastructure | Meet The Press Reports",
-            "secondDuration": 1648,
-            "group": "group_7"
-        },
-        {
             "videoId": "_k5n8IVg660",
             "title": "Erin Brockovich: To Solve Water Crisis, 'Stand Up And Show Up' | Meet The Press Reports",
             "secondDuration": 451,
@@ -31,8 +25,14 @@
             "title": "Biden Announces Fully Vaccinated People May Unmask While Outdoors | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "IxhlIQAUvmw",
+            "title": "Biden Delivers Remarks On New CDC Mask Guidelines | NBC News",
+            "secondDuration": 810,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

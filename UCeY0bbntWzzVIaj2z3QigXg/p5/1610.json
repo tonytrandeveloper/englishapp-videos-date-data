@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mKbYCaBzbcE",
-            "title": "National Guard Troops Arrive To Secure Grounds After Capitol Incident | NBC News NOW",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "R5z4FAahFLw",
             "title": "Capitol Police Officer Dies After Attacker Rammed Car Into Checkpoint; Suspect Also Dead | NBC News",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "U.S. Capitol Goes On Lockdown After Car Ramming, Officers Injured | NBC News",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "IrDa5LMhhb0",
+            "title": "First Generation College Students Speak On Covid’s Impact | NBC News NOW",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

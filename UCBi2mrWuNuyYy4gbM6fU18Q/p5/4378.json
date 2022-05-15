@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KsuC2MveRI4",
-            "title": "Briefing Room: Senate shutdown votes , Venezuela situation, Trump on State of the Union | ABC News",
-            "secondDuration": 1315,
-            "group": "group_7"
-        },
-        {
             "videoId": "KHybqVynNXY",
             "title": "The Debrief: Cohen postpones testimony, Venezuela crisis, Florida bank shooting | ABC News",
             "secondDuration": 1585,
@@ -31,8 +25,14 @@
             "title": "Gunman kills 5 people at Florida bank",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "NZuxwNd-azo",
+            "title": "Search intensifies for missing 3-year-old",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aMXG-Lz2vUI",
-            "title": "10-year-old boy tests positive for the flu, later dies from pneumonia",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "MCgInd-sN9M",
             "title": "President Donald Trump attends Congressional Gold Medal ceremony for former Sen. Bob Dole | ABC News",
             "secondDuration": 4402,
@@ -121,8 +115,14 @@
             "title": "Americans honor Dr. Martin Luther King Jr.",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "vMqIlWpqA8Y",
+            "title": "Trump pushes back: 'No, I'm not a racist'",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

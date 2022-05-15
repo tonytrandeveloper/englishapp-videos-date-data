@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oN1g3Emt3K8",
-            "title": "Meet Piper, the Dog Who Keeps Airport Runways Safe",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnPWW-KeBZI",
             "title": "SUPER TUESDAY | Hillary Clinton Battles Bernie Sanders",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Trump Renounces KKK | 'Nobody That's Done So Much For Equality As I Have'",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "kB12wC0Y2Ok",
+            "title": "Oscars 2016 CONTROVERSY | Sam Smith Apologizes, Chris Rock vs. Jada Pinkett Smith",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

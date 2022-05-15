@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vuOkhbqbUs8",
-            "title": "President Donald Trump Meets With Sheriffs From Across The Country | NBC News",
-            "secondDuration": 850,
-            "group": "group_7"
-        },
-        {
             "videoId": "XYopckaXOmQ",
             "title": "President Trump: Woodward Excerpt Released To 'Interfere' With Brett Kavanaugh Hearings | NBC News",
             "secondDuration": 97,
@@ -301,8 +295,14 @@
             "title": "Dangerous Flooding In Mid-Atlantic States Forces Rescues | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "zTROhmMYzak",
+            "title": "New NAFTA Deal Stalled As President Trump Suggests Canada Could Be Left Out | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

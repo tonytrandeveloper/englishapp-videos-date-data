@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RRy1cwwP1W0",
-            "title": "Donald Trump Pushes Baseless Claim That ‘Millions’ Voted Illegally | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "XvOBb11mR00",
             "title": "Cyber Monday: How To Keep Porch Pirates From Pilfering Your Packages | NBC Nightly News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Infinite Flow, Wheelchair Ballroom Dance Company, Leading A 'Social Movement' | NBC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "ijJ2zNIPQO0",
+            "title": "Standing Rock Protests Don't Stop For Thanksgiving | NBC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

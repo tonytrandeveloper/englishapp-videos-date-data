@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_NH_nOW06TQ",
-            "title": "Video Shows Portland Protester Catch Fire During Police Clash | NBC News",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "r10P9NzZzfc",
             "title": "Belarus Protesters Beaten And Detained By Riot Police In Minsk | NBC News",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Meet The Press Broadcast (Full) - September 6th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2750,
             "group": "group_7"
+        },
+        {
+            "videoId": "zABKOjvNdx0",
+            "title": "In 2018, The Arizona Senate Race Looked Very Different Few Days After The Election | Meet The Press",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

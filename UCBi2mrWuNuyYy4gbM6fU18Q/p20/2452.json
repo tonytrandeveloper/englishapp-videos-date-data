@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OmDrF2kXB5Y",
-            "title": "Lane Closures at the George Washington Bridge and Chris Christie's Apology",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "HZC-vtsGBCE",
             "title": "Police Shootout in San Diego Raises Questions About Excessive Force",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Inside Fukushima: Beyond the 'No Go' Zone",
             "secondDuration": 961,
             "group": "group_7"
+        },
+        {
+            "videoId": "t-hgP891iWA",
+            "title": "WEBCAST: \"Cosmic Dawn\"",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

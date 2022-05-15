@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1om6RNtP-so",
-            "title": "Stan Lee Adds Handprints to Grauman’s Chinese Theater Concrete in Ceremony",
-            "secondDuration": 1927,
-            "group": "group_7"
-        },
-        {
             "videoId": "J1MFzzOxaY0",
             "title": "‘Bachelorette’ Rachel Lindsay Meets Dean, Peter, Bryan and Eric’s families",
             "secondDuration": 1421,
@@ -31,8 +25,14 @@
             "title": "Severe storms sweep the country",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "3GtVzcQKWRo",
+            "title": "Minneapolis mayor reacts to police shooting of bride-to-be",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "In0pS6UfVE0",
-            "title": "How Contact Tracing Could Prevent Second COVID-19 Outbreak | NBC News NOW",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "zhRSLmF-mus",
             "title": "Students Stuck On College Campuses Describe Life While Social Distancing | NBC News NOW",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Senate Passes Coronavirus Relief Bill | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "rj4BBgbN73Q",
+            "title": "Growing Backlash From Health Care Workers Over Reopening States Amid Coronavirus Pandemic | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

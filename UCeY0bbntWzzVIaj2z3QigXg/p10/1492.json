@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oo27By4k_sU",
-            "title": "Small Businesses Can Apply For Emergency Loans After Midnight | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JheD4f7ujY",
             "title": "Michigan Gov. Whitmer Holds Coronavirus Townhall | NBC News (Live Stream Recording)",
             "secondDuration": 3487,
@@ -61,8 +55,14 @@
             "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 4452,
             "group": "group_7"
+        },
+        {
+            "videoId": "0h_6L-5MHJk",
+            "title": "‘This Is War’: Medical Workers Share Their Fight On COVID-19 Frontlines | NBC News NOW",
+            "secondDuration": 780,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

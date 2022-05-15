@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Uz4TrB0Ps9Q",
-            "title": "‘Opportunity Of The Century’: Jared Kushner On His Middle East Peace Plan | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "CMGc75hlLWs",
             "title": "SpaceX Falcon Heavy Rocket Launches From Cape Canaveral | Mach | NBC News",
             "secondDuration": 146,
@@ -301,8 +295,14 @@
             "title": "After Drone Incident, Nancy Pelosi Says U.S. Can’t Be ‘Reckless’ On Iran | NBC News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "6kSAcXdf1VI",
+            "title": "Donald Trump On Iran Shooting Down U.S. Drone: 'Hard To Believe It Was Intentional' | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

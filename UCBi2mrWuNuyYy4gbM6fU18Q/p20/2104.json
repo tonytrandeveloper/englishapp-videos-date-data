@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fizHq-kjJ_Y",
-            "title": "Wildfire Burns Cars on California Interstate",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "_28mZ9F6ioE",
             "title": "Chattanooga Shooting Dead Were Decorated Veterans",
             "secondDuration": 430,
@@ -121,8 +115,14 @@
             "title": "Emmy Nominations Announced",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "LVder0RZec4",
+            "title": "Chattanooga Shooting Spree Suspect Identified",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

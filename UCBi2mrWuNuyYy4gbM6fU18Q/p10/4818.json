@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eu-tMLp7LXE",
-            "title": "3 Killed in Washington Mudslide",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "t6WkUQU1iQE",
             "title": "Studios Use CGI to Replace Paul Walker, Philip Seymour Hoffman",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Stronger Sunscreen Needs FDA Approval",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "fhIR4OMxO30",
+            "title": "Getting Back Your Mojo After Having Kids",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

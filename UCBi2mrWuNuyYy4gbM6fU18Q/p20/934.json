@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Vt5XPFuc4_s",
-            "title": "Recognizing the Coast Guard teams bringing aid to the Bahamas",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "6onFyZcOQDc",
             "title": "Dorian hits Outer Banks with 100 mph winds, 14 inches of rain l ABC News",
             "secondDuration": 232,
@@ -121,8 +115,14 @@
             "title": "Democratic presidential candidates talk climate change",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "HiFggoyX5FI",
+            "title": "Hurricane Dorian: Category 2 storm makes its way up east coast from South Carolina to North Carolina",
+            "secondDuration": 1745,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

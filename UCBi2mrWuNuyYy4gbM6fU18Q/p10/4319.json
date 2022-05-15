@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_JXBypP1WX8",
-            "title": "Miss Piggy Receives Prestigious Award",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "hr0O7IKfI0o",
             "title": "Victoria’s Secret Angels: 3 New Super Models Get Their Wings",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "Nicki Minaj Performs at NYC Bar Mitzvah",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bcd784SIzTU",
+            "title": "Viola Davis to Star in Harriet Tubman Biopic",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

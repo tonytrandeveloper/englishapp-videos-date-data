@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NYL-wPVzL64",
-            "title": "Paradise, California, In Ruins As Camp Fire Continues To Rage | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "hGPdKZXGb4A",
             "title": "Full Schiff: 'Facts for recusal are very strong here' for acting Attorney General | Meet The Press",
             "secondDuration": 548,
@@ -31,8 +25,14 @@
             "title": "Watch Live: President Trump participates in WWI commemoration ceremony at Suresnes American Cemetery",
             "secondDuration": 1886,
             "group": "group_7"
+        },
+        {
+            "videoId": "IupgJIyz9_g",
+            "title": "Watch Live: President Trump participates in Armistice Day Centennial Commemoration",
+            "secondDuration": 5120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

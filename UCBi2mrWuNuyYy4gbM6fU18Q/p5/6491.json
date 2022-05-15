@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9QTnAmE4sKQ",
-            "title": "Aspiring Weatherman Arrested for Starting Forest Fire",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "KZvnghc2fJE",
             "title": "California Deputy Shot Twice in the Head",
             "secondDuration": 31,
@@ -31,8 +25,14 @@
             "title": "Lesser-Known Gadgets | ABC News",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "0_FNByZdBgQ",
+            "title": "Trump Picks Reince Priebus as Chief of Staff",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

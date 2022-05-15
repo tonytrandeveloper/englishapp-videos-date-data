@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5mnBSPkh0Yc",
-            "title": "Paris Attacks Alleged Mastermind Killed in Raid",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "bsanR_q3LD0",
             "title": "Donald Trump's Family Speaks Out on Presidential Run",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Inspiring Father Explains Paris Tragedy to Child",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "pJ5qj4UkqAk",
+            "title": "Retracing the Steps of the Paris Attackers",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

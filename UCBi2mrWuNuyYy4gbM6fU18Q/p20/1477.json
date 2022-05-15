@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rljrGixht0c",
-            "title": "White House targets Michelle Obama initiatives, big banks",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "lkSjvunRN7g",
             "title": "Gunman opens fire at San Diego birthday pool party, killing 1, injuring 7",
             "secondDuration": 439,
@@ -121,8 +115,14 @@
             "title": "Hackers hold new episodes and other data from hit Netflix show, 'Orange is the New Black'",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y6dR_aaNFnk",
+            "title": "Freight train carrying crude oil derails in Money, Mississippi",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

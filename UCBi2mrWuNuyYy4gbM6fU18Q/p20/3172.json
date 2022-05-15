@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rdkg1uZ_syA",
-            "title": "The Conversation:  Too Soon to Leave Afghanistan?",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "r1Yw0KBL28I",
             "title": "New Invention Helps Girl's Leg Grow",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "Happy 100th Father's Day",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPJzA9mmCAY",
+            "title": "What's in an Apology for Apologizing?",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

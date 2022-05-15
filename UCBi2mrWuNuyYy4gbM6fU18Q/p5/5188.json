@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UuwhVygT4c8",
-            "title": "Trump blasts the FBI over Florida school shooting and Russia investigation",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "mRCQrPTwyHE",
             "title": "New information on alleged gunman in Florida school massacre",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "Survivors Of The Parkland School Shooting Speak Out",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dij2eO-8Oqo",
+            "title": "President Trump claims vindication after new indictments in Russia probe",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

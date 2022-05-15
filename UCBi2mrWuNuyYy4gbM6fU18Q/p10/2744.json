@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OkXhATnqaKQ",
-            "title": "Inside the mind of Jerry Seinfeld and his latest project | ABC News",
-            "secondDuration": 381,
-            "group": "group_7"
-        },
-        {
             "videoId": "12RmVE2L1Tw",
             "title": "After Las Vegas massacre, trying to move forward | ABC News",
             "secondDuration": 490,
@@ -61,8 +55,14 @@
             "title": "New York Comic-con 2017: 'LEGO Marvel Super Heroes 2' inside look",
             "secondDuration": 745,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZJeC8ntUBQ0",
+            "title": "New York Comic-Con 2017, 'Star Wars: The Last Jedi' and 'Darth Vader' Comic on 'Inside Marvel'",
+            "secondDuration": 1145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2qufdRp9fGg",
-            "title": "Interview With Gen. Jim Jones (Ret) - Part 1",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "uj4uw70L9Oc",
             "title": "US Soldiers Killed in Afghanistan",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Hole Rips in Roof of Plane",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "uMefXUShrSY",
+            "title": "High Tech Hoaxers Run Wild",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

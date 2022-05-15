@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sf3XrWxI3T8",
-            "title": "Watch live: officials give updates after shooting in Ohio",
-            "secondDuration": 5905,
-            "group": "group_7"
-        },
-        {
             "videoId": "1h2SIBJ3Ajo",
             "title": "‘Dead People…Everywhere’: Dayton Shooting Witnesses Capture Terrifying Scene | NBC News",
             "secondDuration": 80,
@@ -61,8 +55,14 @@
             "title": "Watch live: Officials update the public after mass shooting in El Paso",
             "secondDuration": 977,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVlOHFuh-60",
+            "title": "Watch Live: Police Respond To Active Shooter Near El Paso Mall | NBC News",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

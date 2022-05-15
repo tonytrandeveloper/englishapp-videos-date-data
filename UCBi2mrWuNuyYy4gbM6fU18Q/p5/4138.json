@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g5iVejG1PbE",
-            "title": "25 tornadoes reported in 5 states as heavy rain brings flooding",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "YgI9ZOQaDnA",
             "title": "Sen. Graham presents full Mueller report at Senate hearing",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "2 killed, 4 injured in shooting on college campus",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "AU7gKstF70I",
+            "title": "911 call from off-duty officer after she fatally shot a man in his own apartment",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

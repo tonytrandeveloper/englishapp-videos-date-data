@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a_HVXiTXMLM",
-            "title": "Top Line: Mass. Upset and Education Reform",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "biR-vQaHuzg",
             "title": "Reagan: Seldom Have the Stakes Been Higher",
             "secondDuration": 472,
@@ -121,8 +115,14 @@
             "title": "Teen Hopes to Sail Into Record Books",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3JCIosrxew",
+            "title": "U.S. Security Officials on Alert",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

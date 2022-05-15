@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W1gVLbeML4Y",
-            "title": "Trump: Tom Brady Voted for Me",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "-bwQo38XCH0",
             "title": "Impact of Presidential Candidates' Families on Election",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Holds Lead in Latest Poll",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "sUHz1l_dtxc",
+            "title": "Tim Kaine Casts Vote | Election 2016",
+            "secondDuration": 24,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

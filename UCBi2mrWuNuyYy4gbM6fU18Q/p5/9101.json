@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0AwENvrqgWI",
-            "title": "Dean Kamen On The Next Big Invention to Change the World",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "EhJ1bTSq0Jc",
             "title": "Dean Kamen's Plan to Wipe Out #1 Cause of Disease In The World",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Julianne Moore on Philip Seymour Hoffman, 'Hunger Games'",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "7tF3bRKMyW8",
+            "title": "Mark Ruffalo 'Foxcatcher' Interview: Working With Channing Tatum, Steve Carell",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

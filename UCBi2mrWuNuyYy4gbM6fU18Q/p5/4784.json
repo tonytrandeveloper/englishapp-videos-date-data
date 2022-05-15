@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-m6W8iMM6ek",
-            "title": "White House Press briefing election security, Mueller investigation",
-            "secondDuration": 3758,
-            "group": "group_7"
-        },
-        {
             "videoId": "x9z6-Lw93-s",
             "title": "Broadway cast performances LIVE in New York City's Bryant Park | ABC News",
             "secondDuration": 4077,
@@ -31,8 +25,14 @@
             "title": "Missing Iowa student possibly sighted in Missouri",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "wSblNawJ1n8",
+            "title": "Famed coach on leave amid investigation of former assistant",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

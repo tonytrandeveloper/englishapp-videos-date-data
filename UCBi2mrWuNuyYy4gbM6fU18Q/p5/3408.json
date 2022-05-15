@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3HiWcmhW2OM",
-            "title": "2020 Democratic candidates clash in final debate of the year l ABC News",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "k2m2BLkuEYM",
             "title": "Boeing sends Starliner passenger rocket into space l ABC News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Here’s why life-saving drugs may be missing on your next flight l ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "NkQgIsQ9568",
+            "title": "Trump reacts to impeachment, scathing new op-ed calls for his removal l ABC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

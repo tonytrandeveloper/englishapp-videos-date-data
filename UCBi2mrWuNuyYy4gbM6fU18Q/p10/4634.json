@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TV6c05gg_ls",
-            "title": "In Case You Missed It",
-            "secondDuration": 369,
-            "group": "group_7"
-        },
-        {
             "videoId": "8PRwnr3Yzoc",
             "title": "Remembering Joan Rivers",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "Explosion at Reno's Discovery Museum Injures 13",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "bNr_UxJjc9A",
+            "title": "Lindsey Vonn and Gisele Bundchen Introduce New Under Armour Campaign",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

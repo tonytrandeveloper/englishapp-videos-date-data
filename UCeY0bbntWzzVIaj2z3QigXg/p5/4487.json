@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FHzJ9Kz7SnA",
-            "title": "Ivanka Trump Under Investigation For Using Private Email Account | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Jy1a3i4hJ4",
             "title": "President Trump Reportedly Asked DOJ To Prosecute Hillary Clinton, James Comey | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Says U.S. Stands With Saudi Arabia Following Khashoggi Murder | NBC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "-BcpVQyTQAw",
+            "title": "Secretary of State Mike Pompeo On Saudi Arabia: 'They Are An Important Partner Of Ours' | NBC News",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

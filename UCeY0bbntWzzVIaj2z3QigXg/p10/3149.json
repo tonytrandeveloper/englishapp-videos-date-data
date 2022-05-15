@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MBnyyJd_CBA",
-            "title": "Lester Holt’s Biggest Little Fan, Jaden, Pays A Visit To 30 Rock | NBC Nightly News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "VyiExhg0baE",
             "title": "Four Americans Killed In Plane Crash During Dream Vacation In Australia | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Inspiring America: Free Suits For Men Struggling To Find Work | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "3DaPijPw_EI",
+            "title": "Kim Jong Nam Murder: Newly-Released Security Video Shows Attack | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

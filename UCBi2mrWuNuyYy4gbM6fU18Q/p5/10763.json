@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8jy6F3d4vzE",
-            "title": "Justin Timberlake New Album: New Song 'Suit and Tie' Single Big on iTunes",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBtcomdRI4c",
             "title": "Golden Globes 2013: Lena Dunham, 'Girls' Cast, Adele, Julianne Moore Interviews Backstage",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Gun Control Recommendations",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSU1ZPw1yJE",
+            "title": "Jodie Foster Speech: Golden Globes 2013",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

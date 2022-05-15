@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fOVxY2eD3XI",
-            "title": "Katie Ledecky Returns Home to Cheering Fans",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "yJRerPRd1F8",
             "title": "Trump Tower Climber Arraigned From Bed at Bellevue Hospital",
             "secondDuration": 35,
@@ -301,8 +295,14 @@
             "title": "Car Slams into Bus [Dashcam Video]",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "83oghbWjQSA",
+            "title": "NYC Imam Death | Man Charged in Murder",
+            "secondDuration": 30,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

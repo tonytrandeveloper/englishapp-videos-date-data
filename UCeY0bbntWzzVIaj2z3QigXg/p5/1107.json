@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0IXtTPXlfUU",
-            "title": "NBC Nightly News Broadcast (Full) - August 5th, 2021",
-            "secondDuration": 968,
-            "group": "group_7"
-        },
-        {
             "videoId": "acJ7lnYU5NA",
             "title": "NBC News NOW Full Broadcast – August 5, 2021",
             "secondDuration": 2704,
@@ -31,8 +25,14 @@
             "title": "What's Next As Cuomo Faces Impeachment Inquiry And Calls To Resign",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "aJpvIBSi6vA",
+            "title": "Georgia School Districts Face Controversy Over Mask Mandate",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

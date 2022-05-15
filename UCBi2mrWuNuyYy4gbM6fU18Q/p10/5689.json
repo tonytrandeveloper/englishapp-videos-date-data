@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EnpsGAJB-xo",
-            "title": "Romney VP Pick: Obama Campaign to Adjust Accordingly",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "9kyrVZwc7FQ",
             "title": "Mitt Romney VP Pick: Why Paul Ryan?",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Planes Involved in Close Call at Dulles Airport",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "lpUeaCETuKw",
+            "title": "Obama Leads Romney in New Polls",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

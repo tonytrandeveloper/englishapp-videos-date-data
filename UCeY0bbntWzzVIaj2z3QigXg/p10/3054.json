@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NFV5LyOLsqM",
-            "title": "Some Sunscreen SPF Labels Are Misleading: Consumer Reports | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "vZF0vJ85iqY",
             "title": "Roger Ailes, Polarizing Conservative Media Icon, Dead At Age 77 | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Ex-Fox News Chief Roger Ailes Dead At 77 | NBC News",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8YjxbzGlzw",
+            "title": "Disturbing Videos Show Turkish President's Guards Beating Protesters In DC | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

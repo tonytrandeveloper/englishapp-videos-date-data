@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ARpge2uLZk",
-            "title": "'Billions' Co-Creator Explains Why the Show's Main Characters Meditate",
-            "secondDuration": 2735,
-            "group": "group_7"
-        },
-        {
             "videoId": "KbSIq6yTtFc",
             "title": "Preparation and anticipation for total solar eclipse builds across the country",
             "secondDuration": 306,
@@ -31,8 +25,14 @@
             "title": "Legendary comedian Jerry Lewis dies at 91",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpDSchKWt70",
+            "title": "Countdown to the historic total eclipse",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

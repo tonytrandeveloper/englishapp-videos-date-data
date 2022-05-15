@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iZucrra5ecs",
-            "title": "President Trump makes statement on El Paso, Dayton mass shootings | ABC News",
-            "secondDuration": 4341,
-            "group": "group_7"
-        },
-        {
             "videoId": "egtYnCZcoKI",
             "title": "Hero citizens in El Paso ran toward danger to help others l ABC News",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "El Paso shooting witness Glendon Oakley addresses the media",
             "secondDuration": 624,
             "group": "group_7"
+        },
+        {
+            "videoId": "morST93gIJc",
+            "title": "Dayton, Ohio  shooting: Mayor Nan Whaley, Sen. Sherrod Brown discuss overnight shooting | ABC News",
+            "secondDuration": 1659,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

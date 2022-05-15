@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2FweXycdBp4",
-            "title": "Rigged Arcade Games: Classic Arcade Crane Game Rigged?",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "qbJw-CiWnZ4",
             "title": "Meteor Shower 2012: Halley's Comet Brings Meteor Shower Over California Skies",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Detroit Tigers Going To World Series",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "eLwmOU7exlA",
+            "title": "Player Kicks 67-Yard Field Goal",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RGA6NAdGhmI",
-            "title": "Jodi Arias appeals to have her conviction overturned",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkxEP6Kf1nQ",
             "title": "Actor speaks out after surviving kidnapping",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Wildfires continue to blaze across the West",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "dXMsms6GQCo",
+            "title": "Rescue of trapped boys in flooded Thai cave continues",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

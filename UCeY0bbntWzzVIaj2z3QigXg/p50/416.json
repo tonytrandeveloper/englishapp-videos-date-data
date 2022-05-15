@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eyan7Wu7ArY",
-            "title": "Ethiopian Airlines Crash: Black Boxes Remain 'In Limbo' | NBC News",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tzsovdr8irY",
             "title": "President Donald Trump On Paul Manafort Sentencing: 'I Do Feel Very Badly' For Him | NBC News",
             "secondDuration": 58,
@@ -301,8 +295,14 @@
             "title": "Watch live: NBC's Dylan Byers interviews Howard Schultz at SXSW | NBC News",
             "secondDuration": 3094,
             "group": "group_7"
+        },
+        {
+            "videoId": "z5cyhBoiB0Y",
+            "title": "Deplorable Living Conditions Found Inside Private Military Housing | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

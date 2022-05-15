@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2cZhXExqsT0",
-            "title": "'Instant bridge' that collapsed in Miami supposed to last 100 years",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "v2KOOpum03Y",
             "title": "Church shooter's sister arrested after social media post",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "White House press briefing  on Mueller subpoena of Trump organization, Russia Sanctions | ABC News",
             "secondDuration": 1941,
             "group": "group_7"
+        },
+        {
+            "videoId": "Km0mg9iQTto",
+            "title": "Family of slain DNC staffer speaks out",
+            "secondDuration": 340,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

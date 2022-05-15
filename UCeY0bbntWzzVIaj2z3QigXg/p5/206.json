@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fIByAv-sM6Y",
-            "title": "Morning News NOW Full Broadcast - Mar. 10",
-            "secondDuration": 3092,
-            "group": "group_7"
-        },
-        {
             "videoId": "34eegqd7Pkc",
             "title": "Inflation Up 7.9 Percent In February Compared To Last Year",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "How The U.S. Is Trying To Aid Ukraine Without Engaging In Conflict",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "uoi6DKyRz24",
+            "title": "Bombing Of Ukraine Children’s Hospital Leaves Three Dead, Including Child",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZYuwGVs6K5c",
-            "title": "Jeb Bush at an All-Time Low",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "413-o-fzrfY",
             "title": "Donald Trump Goes to New Hampshire to File for the Primary",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Smartphone Apps That Can Spy on You | ABC News",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "2wBhqw6ecmA",
+            "title": "Robin Williams' Widow Opens Up About Legal Battle Over His Estate",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JybUdXJWWcQ",
-            "title": "Morning News NOW Full Broadcast - July 16 | NBC News NOW",
-            "secondDuration": 2912,
-            "group": "group_7"
-        },
-        {
             "videoId": "LU8CAFgRdcw",
             "title": "White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1825,
@@ -61,8 +55,14 @@
             "title": "New Books Says Top General Feared Trump Would Attempt Coup",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9_DDZ7zP1E",
+            "title": "University Team Creates Mobile Lab For Medical Research On Marijuana",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FZO2cHo5KqQ",
-            "title": "Michelle Obama, skiing Santas and Miss Universe: World in Photos, Dec. 9",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xh83SkMbRxo",
             "title": "Director of Investigations delivers opening statement at impeachment hearing | ABC News",
             "secondDuration": 2755,
@@ -61,8 +55,14 @@
             "title": "House Judiciary Committee begins to write impeachment articles l ABC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "hmPCApbwsk4",
+            "title": "Impeachment hearing Monday, New Zealand volcano erupts, Pensacola shooting investigation | ABC News",
+            "secondDuration": 1648,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

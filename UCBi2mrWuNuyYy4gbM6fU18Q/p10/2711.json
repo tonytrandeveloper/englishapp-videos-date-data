@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9M0PS4cVDAg",
-            "title": "6 firefighters in Miami have been fired for harassing co-worker",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "61bIRunGdBc",
             "title": "Houston Astros celebrate World Series win with parade",
             "secondDuration": 17239,
@@ -61,8 +55,14 @@
             "title": "Houston Astros celebrate their 1st World Series Championship",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "e0K0IcDL4Fs",
+            "title": "4 NJ police officers face charges for beating an innocent man on fire",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hIvctbfcBx8",
-            "title": "Jaycee Dugard Interview: Diane Sawyer Speaks Candidly With Survivor",
-            "secondDuration": 260,
-            "group": "group_7"
-        },
-        {
             "videoId": "4mtlqsr5EgI",
             "title": "Rupert Murdoch's Media Empire Cracks",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "Peggy's New Story: Coming Thursday!",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sig7taltjhU",
+            "title": "Space Shuttle: A Brief History",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

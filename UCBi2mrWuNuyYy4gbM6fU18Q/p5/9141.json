@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AtGyDBDcx_Y",
-            "title": "Super Soaker Storm Barreling Across the Pacific Into the South",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "EteGKxhrFII",
             "title": "Gas Prices Nearly at a 4-Year Low and Expected to Go Lower",
             "secondDuration": 57,
@@ -31,8 +25,14 @@
             "title": "Ford Issues a Flurry of Recalls",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rx1P53vpPaA",
+            "title": "Louisiana Senate Race Will Go to Runoff",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PDx4vgzGsxQ",
-            "title": "Flu vaccine as high as 59% effective for children 6 months to 8 years old: CDC",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "e8K1RReAH4Q",
             "title": "At least five people were killed in a multi-vehicle crash in California",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Players and coaches share memories of 'hero' football coach",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ILr0-r24SM",
+            "title": "What triggered the suspected Florida school shooter's deadly rampage?",
+            "secondDuration": 338,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

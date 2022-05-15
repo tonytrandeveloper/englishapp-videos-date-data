@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mD-EdOCiIjc",
-            "title": "Saving Soldiers' Lives on the Battlefield Begins with High-Tech Training",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "QCCWH_CNjM0",
             "title": "Treating PTSD With Virtual Reality Therapy: A Way to Heal Trauma",
             "secondDuration": 245,
@@ -121,8 +115,14 @@
             "title": "Mom Says Ex Blamed Her Son For Their Relationship Ending: Part 2",
             "secondDuration": 489,
             "group": "group_7"
+        },
+        {
+            "videoId": "eFucFIgT0iI",
+            "title": "Amanda Knox on Life as an Exoneree",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6Xsj7psYghc",
-            "title": "The Conversation: Bible Tweeter",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "yWHqWabXtQ4",
             "title": "Jackson Kids Attend School Outside the Home",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Weekend Window: Cedar Breaks",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "TQSdStow1qw",
+            "title": "Tony Blair's Journey (Part 1)",
+            "secondDuration": 594,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

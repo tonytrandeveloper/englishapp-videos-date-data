@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AZI41Gc5y8o",
-            "title": "Find Space to Relieve Stress",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZCLut1BurM",
             "title": "Depression Warning Signs",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Robin Williams' Funniest Moments",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "wwVAV5q0yh0",
+            "title": "Cheryl Hines on Working With Robin Williams",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

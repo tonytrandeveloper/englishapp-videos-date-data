@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sywJ3GXEoZE",
-            "title": "How An Algorithm Is Fighting The Opioid Epidemic | Mach | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "QJVCf1SdVoI",
             "title": "Puerto Ricans Band Together After Receiving Little Help from Government | NBC News",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Fighting With Funny: Egypt’s Jon Stewart On Political Comedy | Think | NBC News",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZatVk94JZrI",
+            "title": "Solomeo, Italy: Where the King of Cashmere Rules with a Gentle Hand | Think | NBC News",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

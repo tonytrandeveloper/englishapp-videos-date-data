@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E3F_lKsFNfw",
-            "title": "Stem Cell Therapy Becomes More Widely Available",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "3pNrsHByHos",
             "title": "George Zimmerman Ruling Denies Audio Experts Testimony",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "'Supermoon' Shines a Bit Brighter in Tonight's Sky",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "COnGnDe6Gcs",
+            "title": "Tiger Mauls Employee at Exotic Rescue Center",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

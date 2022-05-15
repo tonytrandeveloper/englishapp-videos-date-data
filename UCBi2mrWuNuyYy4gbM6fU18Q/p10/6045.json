@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mftAoGLIG0E",
-            "title": "Interview with Gov. Martin O'Malley and Sen. Jeff Sessions",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "DbN5tyZ5IvE",
             "title": "Interview with Gloria Steinem",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Nicki Minaj 'GMA' Concert: One of Hip Hop's Hottest Artists Rocks Central Park",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "qQmshfw3TxU",
+            "title": "Hoarder's Children Speak Out on Living in Squalor",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

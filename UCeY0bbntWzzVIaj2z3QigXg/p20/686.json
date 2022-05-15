@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rFj7GI0U7v4",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2939,
-            "group": "group_7"
-        },
-        {
             "videoId": "3qMk1KMv2eI",
             "title": "Chinese Climbers First To Scale Mount Everest In 2020 After Coronavirus Cancellations | NBC News",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "Russia And China Spread Coronavirus Conspiracies About US In Middle East | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7ZRXpkH4u4",
+            "title": "Check Out The Puppies In Training That Have Become A Virtual Hit | Nightly News: Kids Edition",
+            "secondDuration": 792,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

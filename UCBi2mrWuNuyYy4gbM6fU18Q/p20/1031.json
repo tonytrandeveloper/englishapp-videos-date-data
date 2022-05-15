@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6Ofz4BwubMI",
-            "title": "Former Dem and GOP prosecutors lash out at Trump",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "jVReTiVPk4s",
             "title": "Cops arrest man wanted for gunning down police officer",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "Bernie versus Biden for the Democratic candidacy in the 2020 election",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "8ymDzZI7Cmo",
+            "title": "Vehicle pileup includes bus carrying university choir",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

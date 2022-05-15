@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dP1ESVzaAwM",
-            "title": "Several Tornadoes Touch Down Across Midwest",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "tGs3KdhDlEQ",
             "title": "At Least 2 Killed In San Diego Plane Crash",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Coding Program For Afghan Girls Determined To Continue After Taliban Takeover",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "kp2_nwXLlA8",
+            "title": "Puerto Rico’s Power Grid In Critical Condition As Frustration Grows",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

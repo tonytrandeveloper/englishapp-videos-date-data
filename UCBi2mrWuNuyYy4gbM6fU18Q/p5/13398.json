@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r2JGk_WM6VQ",
-            "title": "American Gothic",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "DmDUvxLWTj4",
             "title": "Quick Fix: Is John Anderson a Workaholic?",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "Dr. Tim Johnson: Swine Flu Not Lethal",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "JF2WKx-8LL8",
+            "title": "Chrysler's Extreme Business Makeover",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

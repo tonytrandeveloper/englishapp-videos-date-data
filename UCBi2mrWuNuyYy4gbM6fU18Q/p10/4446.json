@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-ZI1xH_QyHQ",
-            "title": "‘American Sniper’ Trial: Murder of Chris Kyle",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Thx1NOdPaAY",
             "title": "Reality Porn Competition: The Sex Factor",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "Measles Outbreak Ignites Fresh Vaccine Debate",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "hzV9UqtEfr8",
+            "title": "Train Engineer Helped Pull Passengers to Safety",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

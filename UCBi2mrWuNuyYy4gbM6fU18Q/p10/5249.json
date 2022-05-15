@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "66nH-q2ZpSc",
-            "title": "Northern Lights in Central Minnesota",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZH5dANvn3Mk",
             "title": "WEBCAST: New Pope Officially Installed Tuesday",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "John Boehner 'This Week' Interview: 'What's Balanced About a Budget That Never Gets to Balanced'",
             "secondDuration": 625,
             "group": "group_7"
+        },
+        {
+            "videoId": "DjZWrNBn4ys",
+            "title": "Steubenville Rape Trial Verdict Expected",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

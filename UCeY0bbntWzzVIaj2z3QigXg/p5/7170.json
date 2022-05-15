@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x9axHUvhg9c",
-            "title": "Ebola Quarantine Ends In Dallas | NBC News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ebo0wq5Kvyg",
             "title": "Keane University Riots At Pumpkin Fest | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Raw: Kurdish Forces Battle ISIS | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "klUb28Wa4Zw",
+            "title": "The Space Race | Flashback | NBC News",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

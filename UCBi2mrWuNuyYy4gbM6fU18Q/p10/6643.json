@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jv-m-Jme-tA",
-            "title": "Inside Lady Liberty's Crown",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "ct34ubjnTs8",
             "title": "Frugal Fireworks",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Was Michael Ready to Perform?",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "fjftPhCtDDw",
+            "title": "Catch Up With Brad Paisley",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

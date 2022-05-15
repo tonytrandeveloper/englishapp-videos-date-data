@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_qLvb1pk_ho",
-            "title": "New Details About the 6 Killed at a Mosque in Quebec City",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "if9YbpISP2o",
             "title": "Trump Announces Neil Gorsuch as Supreme Court Nominee | ABC News",
             "secondDuration": 809,
@@ -31,8 +25,14 @@
             "title": "Hit & Run Driver Hits Boy [GRAPHIC] | ABC News",
             "secondDuration": 21,
             "group": "group_7"
+        },
+        {
+            "videoId": "UtvPGwFr3BA",
+            "title": "Trump References DNC Hacking in Cybersecurity Remarks",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

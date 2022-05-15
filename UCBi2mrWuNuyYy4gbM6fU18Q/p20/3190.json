@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ByPPWaFE9g8",
-            "title": "The Fight for Confirmation",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "1S2SlVVogbQ",
             "title": "'Just Wright' for a Queen",
             "secondDuration": 321,
@@ -121,8 +115,14 @@
             "title": "Market Panic: What to Do With Your Money?",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "4KGHlxUOne0",
+            "title": "Wall Street Rollercoaster",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

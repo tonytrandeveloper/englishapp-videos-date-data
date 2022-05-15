@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q5ki5zUUU54",
-            "title": "Teens fall through ice in Central Park",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDGfheIsQyA",
             "title": "Baby kangaroo rejected by mom gets help from humans",
             "secondDuration": 56,
@@ -31,8 +25,14 @@
             "title": "President Trump Full Speech at Rally in Florida (Full Event) | ABC News",
             "secondDuration": 3798,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgKTEvniJmw",
+            "title": "Melania Trump Full Speech at Florida Trump Rally | ABC News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

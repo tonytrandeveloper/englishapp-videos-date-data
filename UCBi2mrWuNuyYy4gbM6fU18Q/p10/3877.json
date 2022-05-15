@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oN1g3Emt3K8",
-            "title": "Meet Piper, the Dog Who Keeps Airport Runways Safe",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnPWW-KeBZI",
             "title": "SUPER TUESDAY | Hillary Clinton Battles Bernie Sanders",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Trump's Security Slams Photographer To the Ground | ABC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "SXwYYJVbAmY",
+            "title": "Lady Gaga Oscars Performance | Activist on Stage Share Their Stories",
+            "secondDuration": 479,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

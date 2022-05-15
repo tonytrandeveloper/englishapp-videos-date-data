@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8doGS6VkeyU",
-            "title": "Florida Gov. DeSantis: ‘It’s A Tragic Day’ And First Responders ‘Still Hard At Work’",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "oPugYyY9nds",
             "title": "Remember The Flowers: Atlanta Shootings 100 Days Later | Nightly News Films",
             "secondDuration": 1352,
@@ -121,8 +115,14 @@
             "title": "CDC On Link Between Covid Vaccine And Rare Heart Condition in Young People",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "RSMMF9rWgjQ",
+            "title": "Britney Spears Speaks For First Time At Conservatorship Hearing",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

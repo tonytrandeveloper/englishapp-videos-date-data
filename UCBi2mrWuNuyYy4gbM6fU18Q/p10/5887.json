@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h0vdRmlPPcI",
-            "title": "Dunwoody Trial: The Insanity Defense",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "eNmJLHKKwAg",
             "title": "Cops Set Up Hidden Camera, Catch Sandwich Thief on Tape",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Chicken Nugget Looks Like Washington",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "eDNGOo47yBk",
+            "title": "Final GOP Debate 2012: 60 Second Recap",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

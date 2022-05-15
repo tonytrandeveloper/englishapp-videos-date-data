@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7dvTEqXOMGQ",
-            "title": "Deadly Hurricane Dorian batters Bahamas as storm impacts US I Nightline",
-            "secondDuration": 545,
-            "group": "group_7"
-        },
-        {
             "videoId": "OlTgCuKFYgw",
             "title": "Walmart to end sales of ammunition for handguns, assault rifles",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Bahamas official describes damage after Dorian l ABC News",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "P0iY124TGoM",
+            "title": "The Debrief: Tracking Hurricane Dorian, Texas shooting spree, deadly boat fire | ABC News",
+            "secondDuration": 1567,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

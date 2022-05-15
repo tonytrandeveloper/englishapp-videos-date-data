@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HgkVOhPERcw",
-            "title": "First Lady Debate",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "6jlkxDikeiI",
             "title": "Hacking Hotel Locks in Seconds With Cheap Tools",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "George Clooney Expected to Testify in Italian Sex Party Case",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7Jpq-BYlvQ",
+            "title": "George McGovern Dead: Former US Senator, 1972 Presidential Candidate Dies at Age 90",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tpk8cgrLlSM",
-            "title": "A $30 Augmented Reality Headset That’s Made From Cardboard | Mach | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXNtVZYzfkM",
             "title": "Russia Fires Cruise Missiles At ISIS Targets In Syria | NBC News",
             "secondDuration": 60,
@@ -121,8 +115,14 @@
             "title": "Journey Of A Bullet: Shot By Suspect | NBC News",
             "secondDuration": 465,
             "group": "group_7"
+        },
+        {
+            "videoId": "ah_Kvh-ISGM",
+            "title": "The LGBTQ Dance Company Challenging Gender Norms With Ballet | NBC Left Field",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dWbW7_kcIF8",
-            "title": "Pelican's Incredibly Dramatic Yawn",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pdh0M2-KCMY",
             "title": "Hate Incidents Apparently Tied To Trump Victory",
             "secondDuration": 71,
@@ -121,8 +115,14 @@
             "title": "Giuliani on Trump Protests: 'Professional Protesters'",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1Yp2XCp3vk",
+            "title": "Trump Softens Obamacare Pledge",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

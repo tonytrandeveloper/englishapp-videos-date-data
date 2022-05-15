@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h9E3c2yN_ks",
-            "title": "Rocket attack at airport in Kabul, Afghanistan",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "wnTIVBXZO0E",
             "title": "Puerto Ricans still facing a humanitarian crisis after Hurricane Maria",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump delivers remarks on tax reform in Indianapolis",
             "secondDuration": 3574,
             "group": "group_7"
+        },
+        {
+            "videoId": "WBJFJuwkBbs",
+            "title": "Holiday Toys 2017: Toy Insider’s top 20 hottest kids' toys, gifts",
+            "secondDuration": 1270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

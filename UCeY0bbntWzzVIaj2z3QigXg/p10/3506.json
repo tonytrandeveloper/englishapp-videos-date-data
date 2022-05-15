@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_xY4iz6Ly94",
-            "title": "President Obama On Russia Sanctions At G7 Summit | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "560jLxpN8oM",
             "title": "High Schools Claim Multiple Valedictorians | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Female Libido Pill Scores Major Victory With FDA Panel | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "otU1kbG8y1k",
+            "title": "The Cost of Cancer: Is Crowdfunding The Answer? | NBC Nightly News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

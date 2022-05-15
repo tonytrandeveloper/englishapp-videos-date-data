@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b5QF9PFFaY8",
-            "title": "Meet The Press Broadcast (Full) - January 31st, 2021 | Meet The Press | NBC News",
-            "secondDuration": 2855,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEiW796DarI",
             "title": "Kinzinger: 'It's Very Difficult' To Take A Stand In The Republican Party | Meet The Press | NBC News",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "Fauci Says Johnson & Johnson Covid Vaccine Effective In Preventing Severe Disease | NBC News NOW",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "xJ4513OPEwQ",
+            "title": "Biden Visits Covid Vaccination Site During Trip To Walter Reed | NBC News NOW",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

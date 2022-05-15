@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MeMd1xeDDeQ",
-            "title": "Multiple NFL teams to send reps to Colin Kaepernick’s workout l ABC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIo3B1gMXbo",
             "title": "Holiday travel alerts for busiest travel days in history l ABC News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Highlights and lowlights of the 1st public impeachment hearing | ABC News",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "2QzLRBAAvh0",
+            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

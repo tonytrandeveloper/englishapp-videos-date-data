@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RGxYiiZ-kqU",
-            "title": "Baby Rescued from Houston Flooding | ABC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "S42cJjBsUiM",
             "title": "Driver Stuck on Tracks Helped by Strangers | ABC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Melania Trump's Story: From Slovenia to the White House",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "E2Rf3-i7wt0",
+            "title": "Donald Trump's Children: Ivanka, Don Jr., Eric Interview on New Roles | ABC News",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C4rB7hSy3FQ",
-            "title": "WEBCAST: $1 Billion TSA Program",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "YZlznQpQBSs",
             "title": "Victims of Typhoon Haiyan in the Philippines Desperate for Assistance",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Black Friday Deals 2013: Biggest Black Friday Shopping Deals of the Year Revealed",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouo5L5IGWWE",
+            "title": "Disney's Maleficent Full Trailer: 'GMA' Gives First Worldwide Look at Angelina Jolie's 'Maleficent'",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

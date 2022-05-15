@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ojzws8LHuy4",
-            "title": "Logan and Table 19 | Insomniac Theater",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "CTWvNoftA_M",
             "title": "AG Jeff Sessions recuses himself from investigations into alleged Trump-Russia ties",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Russian fighter jets buzz USS Porter in the Black Sea",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "9FRmYMLw1eE",
+            "title": "George W. Bush Full Speech at the Reagan Presidential Library | ABC News",
+            "secondDuration": 3176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jVunmFYQDLo",
-            "title": "Breaking the Story",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "9DiAdsdkETc",
             "title": "Take a Chance on 'Abba Land'",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Obama Announces Tax Cuts for Education",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "x_zluj1TzTc",
+            "title": "Obama Touts Tax Cuts, Cantor and Boehner React",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

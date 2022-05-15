@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qWJkq6QGn9M",
-            "title": "Second Presidential Debate 2012: Obama, Romney Tangle Over Oil Permits",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "0q4yhtP1Y2k",
             "title": "Second Presidential Debate 2012: Obama: Mitt Romney Has a 'One Point Plan'",
             "secondDuration": 55,
@@ -301,8 +295,14 @@
             "title": "Space Shuttle Endeavour's Nightmare Commute Through Los Angeles",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "hHHwmQSlIIo",
+            "title": "Meningitis Outbreak: The Scramble",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

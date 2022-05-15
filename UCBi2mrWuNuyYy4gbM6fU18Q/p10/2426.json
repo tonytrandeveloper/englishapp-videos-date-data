@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Is7ah_4gZ1Q",
-            "title": "Woman describes terrifying parasailing crash in Mexico | ABC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZ_JqI8daWI",
             "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
             "secondDuration": 638,
@@ -61,8 +55,14 @@
             "title": "Leading Supreme Court pick has some Republicans concerned",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLTWPZCFXjo",
+            "title": "Child with cerebral palsy shows delight taking first steps on her own",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

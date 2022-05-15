@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yM6pJYNNWiw",
-            "title": "New Report Links Popular Antacids to an Increase in Dementia",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "6G6rcJmDbmI",
             "title": "Ted Cruz: Parents would be embarrassed if children repeated Trump's \"Priceless Gems\"",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "Grammys 2016 | Best Moments of the Night",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "GDF_T96uDew",
+            "title": "Winter Storm Creates Icy Conditions Across Several States",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

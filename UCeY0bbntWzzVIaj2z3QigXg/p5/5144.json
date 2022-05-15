@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mkDUlhIl9I0",
-            "title": "Barbara Bush, In Ailing Health, Focusing On ‘Comfort Care' | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "HmT8gMxYUoM",
             "title": "Wild Spring Weather Strikes All Across The U.S. | NBC Nightly News",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "South Carolina Official Discusses Events Surrounding Inmate Deaths | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "amWoSSfzuiY",
+            "title": "NASA’s New Satellite TESS Will Look For Undiscovered Alien Worlds | Mach | NBC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

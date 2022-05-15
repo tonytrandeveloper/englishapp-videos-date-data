@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VId8c82HWuQ",
-            "title": "Duo building full-scale replica of Millennium Falcon cockpit",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "pDw91BwqJ_Q",
             "title": "Woman who kidnapped baby girl 20 years ago tells her story for the first time",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Trump to NRA: Gun rights will 'never be under siege as long as I am your president'",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "eL6r11xpng0",
+            "title": "Trump says date and location are set for North Korea summit",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

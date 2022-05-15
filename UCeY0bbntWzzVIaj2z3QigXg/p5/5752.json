@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bSTRN3UsLpM",
-            "title": "Appetite For Change: The Nonprofit Building An Oasis Inside A Food Desert | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ZDowQMviic",
             "title": "President Donald Trump Denounces North Korea In United Nations Speech | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "NBC News Special Report: Hazing In America | NBC Nightly News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmheQNL7sEI",
+            "title": "American College Students Recovering From Acid Attack in Marseilles France | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

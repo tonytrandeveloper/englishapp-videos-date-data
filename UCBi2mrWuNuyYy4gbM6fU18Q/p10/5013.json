@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AySyPB1WlUo",
-            "title": "Government Shutdown Day Three",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "CKf7pIYjfH0",
             "title": "High Speed Chase From White House to Capitol Hill Ends With Suspect Dead",
             "secondDuration": 300,
@@ -61,8 +55,14 @@
             "title": "Silk Road Shut Down: FBI Seizes Online Drug Market, Alleged Kingpin Ross Ulbricht",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "sJImbTsbURw",
+            "title": "Washington, DC Synagogue Helps Furloughed Workers",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

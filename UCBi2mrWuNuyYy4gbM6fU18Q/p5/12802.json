@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9mQ_kJT4S7E",
-            "title": "Russian Adoption Gone Wrong",
-            "secondDuration": 409,
-            "group": "group_7"
-        },
-        {
             "videoId": "dicNAttjreI",
             "title": "Pain in Your Back? Get Some Relief",
             "secondDuration": 344,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Vacancy",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "f1awUpOUypU",
+            "title": "Death Valley: A Land of Extremes",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5AyFF11UuRw",
-            "title": "Edison Nation Turns Ideas into Sellable Products",
-            "secondDuration": 261,
-            "group": "group_7"
-        },
-        {
             "videoId": "g2KjLioQXxM",
             "title": "McDonald's Calorie Counts, NYC Big Soda Ban",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "Philip Seymour Hoffman Admits to Being a Little Nutty",
             "secondDuration": 585,
             "group": "group_7"
+        },
+        {
+            "videoId": "6RMOhHzD6UE",
+            "title": "Caused By Obamacare? Healthcare Costs Rising For Workers",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

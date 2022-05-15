@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SyKZl6sn_qY",
-            "title": "Top Line: John McCain Reacts to SOTU Speech",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "H9CpDShkEm4",
             "title": "Top Line: Dingell: Obama's Speech was Conciliatory and Bipartisan",
             "secondDuration": 547,
@@ -61,8 +55,14 @@
             "title": "Ford Cashes In",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "9gswWr4DMgA",
+            "title": "Stopping Teen Pregnancy",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

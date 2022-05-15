@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fo64U7mL0is",
-            "title": "Police investigating possible deadly hazing incident at LSU",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "dpLD0tqU2V4",
             "title": "Growing outrage over sign language interpreter in Florida",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Wounded warrior dog helps Army sergeant return home from Afghanistan - 'Career Canines' S1 E1",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "EtVgiX8V7EE",
+            "title": "8 residents found dead in Florida nursing home",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

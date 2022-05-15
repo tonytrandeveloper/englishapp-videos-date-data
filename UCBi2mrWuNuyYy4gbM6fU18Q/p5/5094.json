@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q4NGl24rai0",
-            "title": "White House press briefing on Trump Lawyer's reported Flynn & Manafort pardon talk, Alton Sterling",
-            "secondDuration": 1756,
-            "group": "group_7"
-        },
-        {
             "videoId": "bc3vyWrfB_k",
             "title": "Stormy Daniels' lawyer seeks Trump deposition",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Kim Jong Un visits China in historic first",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hg7RJ5wu4gU",
+            "title": "Officials to oversee police probe into officers' shooting of unarmed black man",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

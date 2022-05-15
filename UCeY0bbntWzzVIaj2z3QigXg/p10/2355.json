@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vmLfwT8Dl1g",
-            "title": "Watch live: Trump holds campaign rally in Missouri",
-            "secondDuration": 4479,
-            "group": "group_7"
-        },
-        {
             "videoId": "DjGj6Wpia_k",
             "title": "Ticketmaster Accused Of Scheming With Scalpers | NBC Nightly News",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz And Beto O'Rourke Face Off In First Debate | NBC News",
             "secondDuration": 3497,
             "group": "group_7"
+        },
+        {
+            "videoId": "ptEMp37-c_o",
+            "title": "Report: Rosenstein Suggested Secretly Recording Trump, Discussed Possible Removal | NBC Nightly News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

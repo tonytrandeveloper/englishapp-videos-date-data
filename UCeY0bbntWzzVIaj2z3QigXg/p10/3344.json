@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yKA4ATdAKfU",
-            "title": "Nine Million People Under Heat Alerts With Temps Over 100 Degrees | NBC Nightly News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "bglWRBB6ZM8",
             "title": "Meet The Woman Reuniting Vets With Their Retired Service Dogs | NBC Nightly News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Man Arrested At Donald Trump's Las Vegas Rally, Threatens Candidate's Life | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "KhAF-YuT9eA",
+            "title": "Democrats React To Gun Vote | NBC News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

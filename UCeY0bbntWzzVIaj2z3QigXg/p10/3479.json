@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nI-PT8lK9Fw",
-            "title": "Trombone Shorty and His Musical Tribute to the Big Easy | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLq-deqSVkI",
             "title": "What Joe Biden's Decision Really Comes Down To | Chuck's Take | NBC News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Doesn't Write Out His Own Tweets | Short Take | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "-8L6i6kfmRQ",
+            "title": "Stock Market Whiplash: Dow Surges and Crashes Back Down in Day | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

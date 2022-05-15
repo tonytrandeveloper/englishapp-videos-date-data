@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "btWcjFkn4E8",
-            "title": "NBC News Special Report: Nationwide Protests Over Death Of George Floyd | NBC News",
-            "secondDuration": 3628,
-            "group": "group_7"
-        },
-        {
             "videoId": "HPYI5t4sbkI",
             "title": "Live: Minnesota Governor Holds Briefing On George Floyd Unrest | NBC News",
             "secondDuration": 3242,
@@ -31,8 +25,14 @@
             "title": "NYC Mayor Bill de Blasio Briefing On Coronavirus, George Floyd Protests | NBC News",
             "secondDuration": 3669,
             "group": "group_7"
+        },
+        {
+            "videoId": "-knWMsoRVHw",
+            "title": "Footage Shows Atlanta Police Using Excessive Force To Arrest 2 College Students | NBC News NOW",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

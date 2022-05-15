@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Pb47AXrMm5c",
-            "title": "Supreme Court Denies Request To Block Texas Abortion Law",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4LORk99CiA",
             "title": "Hospitals On The Brink In Montana During Latest Covid Surge",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "New Survey Reveals Parents’ Biggest Concerns As Students Return To School",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "zsVqUxdfMiI",
+            "title": "NBC News NOW Full Broadcast – September 1, 2021",
+            "secondDuration": 3045,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

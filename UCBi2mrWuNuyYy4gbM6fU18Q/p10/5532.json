@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "llfF0_hKm4g",
-            "title": "Hurricane Sandy Downs Power Lines in Delaware",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "uMvnjBAR1pI",
             "title": "Hurricane Sandy: Air Travel Shuts Down on East Coast",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Hurricane Sandy Delays: Traveling Plans at Standstill With Flight, Transportation Cancellations",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "KRjK2QWH65g",
+            "title": "Tsunami Warning For Hawaii After Quake Hits British Columbia",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

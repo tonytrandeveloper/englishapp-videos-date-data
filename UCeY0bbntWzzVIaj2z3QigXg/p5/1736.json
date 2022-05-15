@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J6Mcc0OCKak",
-            "title": "White House Holds Press Briefing: March 1 | NBC News",
-            "secondDuration": 4139,
-            "group": "group_7"
-        },
-        {
             "videoId": "7hZerO9Tqng",
             "title": "Second Former Cuomo Aide Makes Sexual Harassment Accusation | NBC Nightly News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Changemakers: Women Of Color In STEM | Nightly News Films",
             "secondDuration": 553,
             "group": "group_7"
+        },
+        {
+            "videoId": "I0N6tocSHoY",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 2026,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

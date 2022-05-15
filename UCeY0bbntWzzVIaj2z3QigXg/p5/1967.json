@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wc1_KdggqBM",
-            "title": "McConnell: Deal Reached On Covid Relief Package | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "2BO8YxOOomg",
             "title": "California Hospitals Overwhelmed: “I’m Not Going To Sugarcoat This” | NBC Nightly News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Romney: Russia Hack Is An ‘Invasion’ of American Cyberspace That Could Cripple Infrastructure",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "d4arW6fOYW4",
+            "title": "The Size of Joe Biden's Win Depends On How You Count | Meet The Press | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

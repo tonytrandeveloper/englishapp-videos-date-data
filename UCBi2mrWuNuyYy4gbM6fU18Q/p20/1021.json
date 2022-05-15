@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g1Y9XXSIzcw",
-            "title": "Scientists study humpback whales for clues on climate change impact",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "hkJU_xxTq1Q",
             "title": "Billionaire Robert F. Smith pledges to pay off Morehouse graduates' loan debt",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Student suspect in high school shooting scare identified",
             "secondDuration": 335,
             "group": "group_7"
+        },
+        {
+            "videoId": "fa8EJZ5Fg_E",
+            "title": "8-year-old girl kidnapped and snatched from her mother",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

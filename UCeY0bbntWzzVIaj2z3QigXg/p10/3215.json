@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1kbNkklu45g",
-            "title": "The Robot Changing School For Students With Disabilities | Mach | NBC News",
-            "secondDuration": 340,
-            "group": "group_7"
-        },
-        {
             "videoId": "XUSQXlH4kXo",
             "title": "Al Gore Says He Supports Elimination Of Electoral College | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Trans-Pacific Partnership Withdrawal Could Have Far Reaching Consequences | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "RRy1cwwP1W0",
+            "title": "Donald Trump Pushes Baseless Claim That ‘Millions’ Voted Illegally | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

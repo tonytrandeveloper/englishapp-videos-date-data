@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hT4VCPkxhIA",
-            "title": "North Korea shows military muscle at parade celebrating the country's late founder",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "vGlEoIxCrvo",
             "title": "Excitement builds for the next Star Wars movie, 'The Last Jedi'",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "United Airlines passenger's daughter, attorney describe his injuries",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "g3pROZ2XiEU",
+            "title": "Transgender contestant outed on 'Survivor'",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

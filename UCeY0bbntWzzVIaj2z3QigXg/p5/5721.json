@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ww_IQUafX2c",
-            "title": "Hugh Hefner, Playboy Magazine Founder, Dies At 91 | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRdh1oA9fWI",
             "title": "Actress Julia Louis Dreyfus Reveals She Has Breast Cancer | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Acting DHS Secretary Elaine Duke: Focus On Distribution To 'Last Mile' In Puerto Rico | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "cM8ilBNi_FY",
+            "title": "Was A CEO Fired or Did They Retire? This Algorithm Claims To Have The Answer | Mach | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

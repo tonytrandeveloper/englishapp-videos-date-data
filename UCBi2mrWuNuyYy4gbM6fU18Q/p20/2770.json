@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yZEerhZwOWM",
-            "title": "Student Arrested in Jessica Ridgeway Murder",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "AdH_YSDVvU8",
             "title": "President Obama on 'Tonight Show with Jay Leno'",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Cerebral Palsy Sparks Brothers' Conner and Cayden Long's Triathlon Plan",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "LHFSiWUKK9Q",
+            "title": "WEBCAST: Mourdock Mess; New Poll Numbers",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

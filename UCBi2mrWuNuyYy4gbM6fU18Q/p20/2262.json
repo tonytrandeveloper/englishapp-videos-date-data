@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CLm4TkUgoxo",
-            "title": "WEBCAST: Hostages Flee Sydney Cafe",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQdXRFKPO7k",
             "title": "Undercover and Hired to Kill",
             "secondDuration": 567,
@@ -121,8 +115,14 @@
             "title": "MIX: Letters From The Past",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "vphALS_8quk",
+            "title": "WEBCAST: Powerful Storm Slams California",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

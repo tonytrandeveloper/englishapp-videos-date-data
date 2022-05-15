@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LWM89qdjxIQ",
-            "title": "Washington state Gov. Inslee Gives Updates On The Coronavirus | NBC News (Live Stream)",
-            "secondDuration": 2707,
-            "group": "group_7"
-        },
-        {
             "videoId": "uy9fG4s7wPI",
             "title": "Coronavirus Pandemic: Your Questions Answered | NBC News NOW",
             "secondDuration": 3980,
@@ -61,8 +55,14 @@
             "title": "Trump Invokes Defense Production Act To Aid Coronavirus Response | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZhNOuDYKkzM",
+            "title": "Trump, White House Coronavirus Task Force Hold News Conference | NBC News (Live Stream Recording)",
+            "secondDuration": 7841,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

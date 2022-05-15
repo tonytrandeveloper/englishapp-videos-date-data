@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "777a4gwISVQ",
-            "title": "'Golden Girl' and everyone's friend Betty White turns 97",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "zStxXc6bBiA",
             "title": "Stunning reversal on collusion between Russia and campaign",
             "secondDuration": 165,
@@ -61,8 +55,14 @@
             "title": "Kidnapping victim faces teacher who ran away with her",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "P7uw9hXrFuk",
+            "title": "FBI thwarts possible attack on the White House",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

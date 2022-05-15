@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "od5O27xwU-g",
-            "title": "John Glenn Laid To Rest Four Months After His Death | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "O8oW4sgmKks",
             "title": "Scientists Can Now Determine the Population Of A River With A Few Drops Of Water | Mach | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "For Syrian Doctor, 'Gas Attacks' Are Chilling Reality | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6gUCa4289I",
+            "title": "Sarin Gas: The Colorless, Odorless Chemical Killer | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

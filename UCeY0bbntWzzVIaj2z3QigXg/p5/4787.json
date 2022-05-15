@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VRpBybVl5qY",
-            "title": "Watch Senator Jeff Flake’s Full Senate Floor Tribute To Senator John McCain | NBC News",
-            "secondDuration": 633,
-            "group": "group_7"
-        },
-        {
             "videoId": "uKFRtDBNlvk",
             "title": "Ivanka Trump Briefly Extends Sympathies To Family Of Senator John McCain | NBC News",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Announces New Trade Agreement With Mexico | NBC News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "KLHSEl4OSEs",
+            "title": "Autonomous Grocery Delivery Is Almost Here | Mach | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

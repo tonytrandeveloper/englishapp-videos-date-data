@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oZj-pFW4hOg",
-            "title": "JFK assassination investigation files released",
-            "secondDuration": 394,
-            "group": "group_7"
-        },
-        {
             "videoId": "7qJmOp2jgbc",
             "title": "Trump withholds some pages of the recently released secret JFK files",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "New clues in search for suspected serial killer",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "tXJycI1UMYg",
+            "title": "Boaters rescued after nearly 5 months lost at sea",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

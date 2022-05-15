@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cQVrYSkZ9gA",
-            "title": "Coronavirus: How to know when to go to the emergency room | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "RGJXSAJN2_w",
             "title": "Thousands of grocery delivery workers plan to strike for better protection | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Trump Invokes Defense Production Act For Medical Supplies: 'We Need The Ventilators' | NBC News NOW",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "AsnE2uTCYrc",
+            "title": "'Info-Demic' : How Misinformation Is Spreading As Fast As Coronavirus Itself | NBC News",
+            "secondDuration": 1397,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

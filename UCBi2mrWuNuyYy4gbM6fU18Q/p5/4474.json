@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eZFhHyp5uI8",
-            "title": "A shootout between Indiana police and teen after tipster reported threat",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "mza0mGZ-KiM",
             "title": "5 alarm fire engulfs city block in Queens",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Prosecutors reach plea deal with National Enquirer publisher",
             "secondDuration": 358,
             "group": "group_7"
+        },
+        {
+            "videoId": "uhNotoMtVPg",
+            "title": "Authorities rescue 3 trapped in abandoned West Virginia mine",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VDMkTHwKpbc",
-            "title": "FBI Announces Iran, Russia Obtained Voter Registration Information, Interfering In Election",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBAn0d7J13g",
             "title": "OxyContin Maker Purdue Pharma To Plead Guilty As Part Of $8 Billion Settlement | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Trump Unlikely To Fulfill Promise To Deport Millions | NBC News NOW",
             "secondDuration": 676,
             "group": "group_7"
+        },
+        {
+            "videoId": "8un5qjFVCCQ",
+            "title": "NASA’s OSIRIS-REx Spacecraft Touches Down On Asteroid | NBC News NOW",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

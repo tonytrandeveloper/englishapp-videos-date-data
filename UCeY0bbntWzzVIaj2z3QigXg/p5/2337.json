@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yH_08wOTJh0",
-            "title": "Live: President Trump Holds News Conference At White House | NBC News",
-            "secondDuration": 1573,
-            "group": "group_7"
-        },
-        {
             "videoId": "kaxFSYlqKlc",
             "title": "QAnon Conspiracy Theories Spread Overseas | NBC News NOW",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Protesters March Through Kenosha, Wis., After A Week Marked By Violence | NBC News NOW",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "_XI6STIT0vo",
+            "title": "Portland Mayor To Trump: 'It's You Who Have Created The Hate And The Division' | NBC News",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "su6GhQOpLC0",
-            "title": "Nightly News Full Broadcast - March 28",
-            "secondDuration": 1012,
-            "group": "group_7"
-        },
-        {
             "videoId": "wo1plyzmVdE",
             "title": "Congress Recommends Holding Trump Aides Scavino, Navarro In Contempt",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Biden Defends Controversial Comment About Putin That Sparked Backlash From U.S. Allies",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "h8FVlFCHaGo",
+            "title": "Ukrainians Racing To Protect Odesa",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IWQcQiXKmCQ",
-            "title": "Joplin, Missouri, Searches for Survivors",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uc6iDSOeIng",
             "title": "Air France Flight 447: Pilot Errors?",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "'Dancing With the Stars' Finale Heats Up",
             "secondDuration": 258,
             "group": "group_7"
+        },
+        {
+            "videoId": "onzScXSYLlQ",
+            "title": "Direct Hit",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

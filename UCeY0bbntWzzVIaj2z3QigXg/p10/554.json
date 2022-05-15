@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0IXtTPXlfUU",
-            "title": "NBC Nightly News Broadcast (Full) - August 5th, 2021",
-            "secondDuration": 968,
-            "group": "group_7"
-        },
-        {
             "videoId": "acJ7lnYU5NA",
             "title": "NBC News NOW Full Broadcast – August 5, 2021",
             "secondDuration": 2704,
@@ -61,8 +55,14 @@
             "title": "Collaborative Project Reimagines ‘America The Beautiful’ Song Across The Nation",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "OVQtSNFM9Hw",
+            "title": "Biden Honors Responders Of Jan 6. Capitol Riot With Congressional Gold Medals",
+            "secondDuration": 1363,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cPaaV-Yh74w",
-            "title": "MIX: A Longhorn Christmas",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "IFJZMI1Yy7g",
             "title": "Why Oprah Decided to Take on \"Selma\"",
             "secondDuration": 418,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Surveillance Video Catches Fake Emergency",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "Srp3q3O1yPc",
+            "title": "A Portal to Tehran | TECH TWEAKS (Episode 11)",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

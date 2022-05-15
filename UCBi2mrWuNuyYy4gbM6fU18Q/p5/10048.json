@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "axVkDYPQOsM",
-            "title": "Kenya Mall Attack: Terrorists Still Hold Hostages in Westgate Mall",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "m1peU3o0V6w",
             "title": "Marvel's 'Agents of SHIELD' Continues 'The Avengers' Story",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Emmys 2013: Backstage With the Winners",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfjvcKVBWVk",
+            "title": "WEBCAST: Impromptu Landing Strip",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

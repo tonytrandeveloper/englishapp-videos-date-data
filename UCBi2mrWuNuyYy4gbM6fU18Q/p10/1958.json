@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GDKsMp7O0Kk",
-            "title": "Briefing Room: Trump and census, Migrant detention center conditions, 2020 campaign trail | ABC News",
-            "secondDuration": 1648,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7IfeUxMCk0",
             "title": "Buttigieg addresses racial injustice, Gillibrand begins 'Trump Broken Promises Tour'",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Doctor says airline targeted her due to race, curvy figure",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "mG061LVCFaY",
+            "title": "World Cup champs steal the show at the ESPYS",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

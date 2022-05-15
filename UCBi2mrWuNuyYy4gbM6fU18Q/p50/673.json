@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JNMD-x71CL0",
-            "title": "Rory McIlroy Heckler Sinks $100 Putt",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "bqlOpXTUOj4",
             "title": "College Surprises 8-Year-Old With Scholarship",
             "secondDuration": 63,
@@ -301,8 +295,14 @@
             "title": "NYC Bombing Investigation | FBI Identifies 2 Men Linked",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wzbr5gjt0Zs",
+            "title": "Alfred Olongo Shooting | Fresh Protests Over Police Shooting",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

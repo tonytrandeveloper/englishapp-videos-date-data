@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZSeDLAXGfYA",
-            "title": "ABC News talks about Trump’s take on Democrats",
-            "secondDuration": 215,
-            "group": "group_7"
-        },
-        {
             "videoId": "fknR0jqsS30",
             "title": "Klobuchar takes on Sanders during debate",
             "secondDuration": 234,
@@ -61,8 +55,14 @@
             "title": "Sanders highlights health care plan after debate",
             "secondDuration": 371,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qwt9WHe68TY",
+            "title": "Andrew Yang says campaign will give 10 people $1,000 a month for a year",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

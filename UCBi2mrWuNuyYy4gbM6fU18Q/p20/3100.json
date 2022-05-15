@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xqkAG85PxcY",
-            "title": "Brain Injury: The Long Road Back",
-            "secondDuration": 513,
-            "group": "group_7"
-        },
-        {
             "videoId": "vnjKi1mes_g",
             "title": "Let the iPhone Wars Begin",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Tucson Shooting: Jared Loughner's Neighbors, Classmates, and Friends React",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "_uogKLcQmHs",
+            "title": "Arizona Shooting: People Take to YouTube, Reacting to Jared Lee Loughner and the Tragedy in Tucson",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

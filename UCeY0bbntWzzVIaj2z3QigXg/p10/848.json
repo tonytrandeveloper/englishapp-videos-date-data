@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YumbgtMuzWA",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 2171,
-            "group": "group_7"
-        },
-        {
             "videoId": "IicHnlGbRxA",
             "title": "Activists Rally Around Breonna Taylor One Year After Her Death | NBC News NOW",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "NBC News NOW Full Broadcast - March 11th, 2021 | NBC News NOW",
             "secondDuration": 3059,
             "group": "group_7"
+        },
+        {
+            "videoId": "o3zXyYAVN_A",
+            "title": "Biden Directs States To Make All Adults Eligible For Covid Vaccines On May 1 | NBC News",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

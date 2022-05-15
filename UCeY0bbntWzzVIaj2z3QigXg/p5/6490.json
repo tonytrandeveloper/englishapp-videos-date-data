@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VXO3_YEQa5U",
-            "title": "AKA SEOUL (Trailer) | NBC Asian America",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "qeHkHOjUcu4",
             "title": "Haiti Facing Second Cholera Epidemic In Five Years | NBC News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Promises To Repeal Obamacare If Elected | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "o7i3A0SVSC4",
+            "title": "Miley Cyrus, Katy Perry Hit Campuses For Hillary Clinton | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

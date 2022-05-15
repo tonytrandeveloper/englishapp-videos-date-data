@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LQgOPcReCRE",
-            "title": "\"Frozen\" is Headed to Broadway",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "AMfBtvPDVyQ",
             "title": "Worst 'Family Feud' Answer",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Asia McClain Speaks Out About 'Serial's' Adnan Syed",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "nzAirRzk9GU",
+            "title": "'Girls' Star Lena Dunham's Health Crisis",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

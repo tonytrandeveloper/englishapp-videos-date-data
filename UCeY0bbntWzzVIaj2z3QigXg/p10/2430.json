@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p231DtNjTrg",
-            "title": "Heatwaves: Everything You Need To Know To Stay Safe | Better | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "xvh-D2hD3lU",
             "title": "Jeff Sessions Announces New Religious Liberty Task Force | NBC News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Celebrating Andrea Mitchell’s 40th Anniversary At NBC News | Meet The Press | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "OP3qCcg4mbM",
+            "title": "Russian Hackers Unsuccessfully Targeted Missouri Senator Claire McCaskill | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

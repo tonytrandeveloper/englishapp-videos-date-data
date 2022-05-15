@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t1N1Y77xqBk",
-            "title": "Chicago Seeing Little To No Snow Through Winter | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "d7Vou0Etcjw",
             "title": "New Wave Of Bomb Threats Target Jewish Centers And Schools Across East U.S. | NBC Nightly News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "‘Moonlight’ Director Barry Jenkins: ‘I’m Speechless’ After Wild Best Picture Moment | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "kRb6G66sX3I",
+            "title": "New DNC Chair Tom Perez: 'We Have To Rebuild' Democratic Party (Full) | Meet The Press | NBC News",
+            "secondDuration": 528,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zLQSLNoOGU8",
-            "title": "How The Polar Vortex Works And Why | Mach | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "ssiB13RAyQI",
             "title": "Why A New Nuclear Power Initiative Failed In China | Mach | NBC News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Watch Live: Cory Booker Announces Run For 2020 Presidential Election | NBC News",
             "secondDuration": 2817,
             "group": "group_7"
+        },
+        {
+            "videoId": "N6Eo6teWxgs",
+            "title": "Disney-Style Castles Dominate Ghost Town After Development Goes Bust | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

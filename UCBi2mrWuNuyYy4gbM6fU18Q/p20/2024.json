@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cYlUK4Qhmf0",
-            "title": "Paris Attacks: Eyewitness Account of Terror",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGIDHXntrJw",
             "title": "Paris Attacks: New Updates, At Least 100 Reported Dead",
             "secondDuration": 1793,
@@ -121,8 +115,14 @@
             "title": "World’s Oldest Yoga Instructor is a “Real-Life Forrest Gump!” | ABC News",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "HonXlE21lwo",
+            "title": "Jennifer Lawrence on Life After 'Hunger Games,' Fighting for Fair Pay",
+            "secondDuration": 563,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

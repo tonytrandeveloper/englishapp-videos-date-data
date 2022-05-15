@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YSJkY8Pzp4Q",
-            "title": "England Scraps Most Covid Restrictions As Boris Johnson Self-Isolates",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "FHh_h3Ablns",
             "title": "Texas Democrats Test Positive For COVID-19 While In D.C.",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Covid Cases On The Rise Across The Country",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "sLVy7MEZIwY",
+            "title": "Texas Officials: Over 60 People Decontaminated After Chemical Leak At Water Park",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

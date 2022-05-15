@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jV__CuGnmxY",
-            "title": "91 New Volcanoes Discovered Underneath The Antarctic Ice | Mach | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QjYoiF8RJE",
             "title": "President Trump Switches To Message Of Unity: 'No Division Too Deep For Us to Heal' | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump’s Charlottesville Defense Leaves Out Two Important Words | NBC News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "K3OBuyAat0I",
+            "title": "President Donald Trump Threatens Government Shutdown To Build Border Wall | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

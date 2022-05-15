@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Hej_QUYTS9o",
-            "title": "Aviation Expert on What May Have Happened to the AirAsia Plane",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "mnPyQq7VWbk",
             "title": "Alaskan Miraculously Survives a 30-Mile Trek While Severely Injured",
             "secondDuration": 173,
@@ -121,8 +115,14 @@
             "title": "First Responders Deliver Baby on Philadelphia Subway Train",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEGPnBT6F6c",
+            "title": "Florida Teen Recalls Escaping Bear Attack With Ralph's Help",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

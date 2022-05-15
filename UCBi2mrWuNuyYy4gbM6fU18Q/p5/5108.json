@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PKPnbvwghjE",
-            "title": "President Trump hosts Greek Independence Day celebration | ABC News",
-            "secondDuration": 690,
-            "group": "group_7"
-        },
-        {
             "videoId": "Shjebx1asCs",
             "title": "Tillerson laments 'mean-spirited' Washington as he departs",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Pres. Donald Trump signs a Presidential Memorandum targeting China’s economic aggression | ABC News",
             "secondDuration": 1558,
             "group": "group_7"
+        },
+        {
+            "videoId": "RUIF2yuHnUI",
+            "title": "White House update on spending bill | ABC News",
+            "secondDuration": 1213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

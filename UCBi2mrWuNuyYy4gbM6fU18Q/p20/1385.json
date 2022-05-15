@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2V6En8YKQQ0",
-            "title": "Florida Keys residents return to ruins",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "HWDUwXJFuwo",
             "title": "Hurricane Maria brings new threat",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "British Prime Minister speaks out about London terror attack",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fo64U7mL0is",
+            "title": "Police investigating possible deadly hazing incident at LSU",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

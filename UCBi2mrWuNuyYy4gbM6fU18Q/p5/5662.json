@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9eQroe0wjhs",
-            "title": "Dept. of Justice to announce crackdown on leakers",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xipk88ES_wU",
             "title": "Heavy rains and flooding wreak havoc across the country",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Transcripts released revealing Trump intended American taxpayers to front bill for Mexican wall",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "WdHzbYa-sLY",
+            "title": "Woman sentenced in texting suicide case",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

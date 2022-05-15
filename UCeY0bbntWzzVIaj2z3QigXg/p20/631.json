@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VqQVpIEBNZI",
-            "title": "Artist Hopes Viral Song Will Reinvigorate Calls For Justice For Breonna Taylor & McClain | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z3Xn7M7rKDs",
             "title": "Wells Fargo Paused Mortgage Payments For Some Customers Without Asking | NBC News",
             "secondDuration": 203,
@@ -121,8 +115,14 @@
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 1511,
             "group": "group_7"
+        },
+        {
+            "videoId": "hbsVw7wJ3VU",
+            "title": "Live: Florida Gov. DeSantis Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 4105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

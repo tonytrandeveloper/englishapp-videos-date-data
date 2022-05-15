@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k6mNvF9tSOw",
-            "title": "'Dancing With the Stars' Week 1 Results: Pamela Anderson Booted (2012)",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y461sAi_Blw",
             "title": "J.K. Rowling Interview on 'The Casual Vacancy': 'Harry Potter' Author on Rihanna's Influence",
             "secondDuration": 307,
@@ -31,8 +25,14 @@
             "title": "WEBCAST:NFL Ref Lockout",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "sJAjkegGKC8",
+            "title": "Hot Songs For Fall 2012",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

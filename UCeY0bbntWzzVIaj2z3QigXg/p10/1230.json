@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DGBeiAWSE2s",
-            "title": "Trump Escalates Attacks Over Election Integrity As Polls Show Him Losing | Meet The Press",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "bvbSkFn5cfQ",
             "title": "Chuck: Desperation Makes Trump 'Even More Unpredictable' | Meet The Press",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Tropical Storm Isaias Aims For Florida Amid Pandemic | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "HaJAwi8kSLU",
+            "title": "Behind The Scenes With Dogs Being Trained To Detect COVID-19 | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "32ezAsUCJ7s",
-            "title": "WEBCAST: Zimmerman Opening Statements",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "m25q2_RXyp8",
             "title": "Road Rage Epidemic",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Statue Seems to Rotate on Own in Manchester Museum",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "iw9cACtPtUg",
+            "title": "Supreme Court Decisions 2013: Voting Rights, Gay Marriage Among Hot-Button Issues Facing Justices",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

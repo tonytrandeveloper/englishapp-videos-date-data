@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bWzruH2KcR8",
-            "title": "Three Deadly Earthquakes Strike in 3 Days",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "DZWGSjOiFK0",
             "title": "Donald Trump Makes a Final Push for New York Delegates",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Johnny Depp, Amber Heard Shoot a 'Hostage' Video Apologizing to Australia",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "NCT3UBPSTaY",
+            "title": "Earthquakes in Japan | ABC News #360Video",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

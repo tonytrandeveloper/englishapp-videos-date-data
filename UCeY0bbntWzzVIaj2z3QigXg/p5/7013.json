@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "otU1kbG8y1k",
-            "title": "The Cost of Cancer: Is Crowdfunding The Answer? | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt7923ajQqY",
             "title": "Chinese Hackers Suspected Of U.S. Government Data Breach | NBC Nightly News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "The Cost of Cancer Care Driving Patients To Bankruptcy | NBC Nightly News",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL67HV1pSN0",
+            "title": "Can I Catch Bird Flu? | 30 STK | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

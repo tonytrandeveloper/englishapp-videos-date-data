@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_h2hHC8xOGo",
-            "title": "Former New Jersey Governor Chris Christie on the 'Powerhouse Politics' podcast | ABC News",
-            "secondDuration": 1135,
-            "group": "group_7"
-        },
-        {
             "videoId": "HkvBxWfAn_E",
             "title": "White House Press briefing on bipartisan budget deal, immigration | ABC News",
             "secondDuration": 2223,
@@ -61,8 +55,14 @@
             "title": "Amazon Alexa's Super Bowl commercial leads to questions about company's new location",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "_IhYsPw48qc",
+            "title": "Quentin Tarantino apologizes for Uma Thurman incident",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

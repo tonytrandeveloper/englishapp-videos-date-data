@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S6b0680GrvU",
-            "title": "Vice President Harris Speaks After Derek Chauvin Verdict: 'We Feel A Sigh Of Relief' | NBC News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "TD8nGZ5SDGM",
             "title": "Full Speech: President Biden Delivers Remarks After Guilty Verdict | NBC News",
             "secondDuration": 633,
@@ -31,8 +25,14 @@
             "title": "Minnesota AG: Chauvin Guilty Verdict Shows ‘Accountability, Which Is The First Step Towards Justice’",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "XQwEBr2fkyc",
+            "title": "LISTEN: Biden’s Call With Floyd Family | NBC News",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

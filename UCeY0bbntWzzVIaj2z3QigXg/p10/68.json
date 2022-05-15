@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yCTr0HribgY",
-            "title": "LIVE: Ketanji Brown Jackson Supreme Court Confirmation Hearings | NBC News",
-            "secondDuration": 41200,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdjR7kQbJB0",
             "title": "Ukraine Experiencing Medical Supply Shortages",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "‘In Order For Freedom To Prevail, It Needs To Be Well Armed’: Zelenskyy Asks France For Military Aid",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "KZ_JPydjPrQ",
+            "title": "Cruz and Durbin Clash Over Questioning of Judge Jackson: 'You Won't Allow Her To Answer'",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

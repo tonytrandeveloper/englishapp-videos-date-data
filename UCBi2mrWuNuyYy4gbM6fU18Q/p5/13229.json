@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_D2MR0JA-e0",
-            "title": "Curse of the 'Berm-bino'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "93B6onLECFE",
             "title": "Tearful Ling: Our Nightmare Has Ended",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "Post Office Eliminations",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "pzd7mY5VlKI",
+            "title": "North Korea Pardons American Journalists",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

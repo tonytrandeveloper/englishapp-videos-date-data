@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PDx4vgzGsxQ",
-            "title": "Flu vaccine as high as 59% effective for children 6 months to 8 years old: CDC",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "e8K1RReAH4Q",
             "title": "At least five people were killed in a multi-vehicle crash in California",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Letter with powder sent to Trump Jr.'s apartment: Police",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "6T9tusqmS2c",
+            "title": "Woman dies after declining Tamiflu due to cost",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

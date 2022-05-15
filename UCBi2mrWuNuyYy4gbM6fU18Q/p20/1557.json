@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bqiacmVX4VM",
-            "title": "Bernie Sanders Questions Betsy DeVos: Would you be here without contributions? | ABC News",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "WSOq4z_sbh8",
             "title": "President Obama Final Press Conference of His Presidency: Full Presser | ABC News",
             "secondDuration": 3523,
@@ -121,8 +115,14 @@
             "title": "Putin Accuses Obama Administration of Spreading False Rumors to Undermine Trump",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "LJgfXxYjQNI",
+            "title": "Fort Lauderdale Airport Shooter Held Without Bond",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

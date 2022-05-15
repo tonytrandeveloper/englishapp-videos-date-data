@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sUHz1l_dtxc",
-            "title": "Tim Kaine Casts Vote | Election 2016",
-            "secondDuration": 24,
-            "group": "group_7"
-        },
-        {
             "videoId": "7BPAGNUB2e8",
             "title": "Joe Biden Votes | Election 2016",
             "secondDuration": 36,
@@ -121,8 +115,14 @@
             "title": "Best Tweets of the 2016 Presidential Election",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "eND4nTTylH0",
+            "title": "Obama Mocks Trump Over Twitter Account",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

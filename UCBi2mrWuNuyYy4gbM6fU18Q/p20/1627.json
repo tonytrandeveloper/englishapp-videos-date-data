@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BlNWuwsAsaY",
-            "title": "Obama's History of Insulting Donald Trump",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "zSixoVVLLUc",
             "title": "Soldier Surprises Kids at School",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Man in Wheelchair Crowd Surfs at NOFX Concert",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "6DD6tOJ5vb4",
+            "title": "Wall Street Rebounds After Donald Trump Victory",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

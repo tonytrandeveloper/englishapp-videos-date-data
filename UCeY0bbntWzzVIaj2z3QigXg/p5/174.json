@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYkpa3UBOoA",
-            "title": "Watch: Newsroom in Japan Experiences 7.3-Magnitude Earthquake",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "e7fv7nT4Jog",
             "title": "Putin Tells Russians: We Are Fighting ‘For The Future Of Our Country And Our Children’",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Biden Announces Additional Assistance To Ukraine: 'America Stands With The Forces Of Freedom'",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "U-KzdYOQmK4",
+            "title": "Biden Delivers Remarks On Reauthorization Of Violence Against Women Act | NBC News",
+            "secondDuration": 1795,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

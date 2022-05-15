@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lanGvlnBt6c",
-            "title": "Born In Harlem, And Swept the World: The Story Of Latin Boogaloo | NBC News",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "dQUWcBKYE0Y",
             "title": "Alabama Governor Apologizes But Denies Having Physical Affair | NBC News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "John Kasich Critical Of President Obama's Response To Brussels Attacks | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "AMmyquq047s",
+            "title": "Cuban Entrepreneurs Consider The Future | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

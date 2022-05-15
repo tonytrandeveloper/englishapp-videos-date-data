@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_RMbE3DoFsE",
-            "title": "New York Times' Kate Zernike on 'Top Line'",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "HLMvi-vk1Hk",
             "title": "Ellsworth On Stimulus: 'It Did Work'",
             "secondDuration": 643,
@@ -31,8 +25,14 @@
             "title": "Murder on the Lake?",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "QrbKk7SwMBc",
+            "title": "The Conversation: Psych Yourself Rich",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

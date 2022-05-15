@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IMEsVy7b1ss",
-            "title": "Donna Brazile's tell-all book slams the DNC party",
-            "secondDuration": 331,
-            "group": "group_7"
-        },
-        {
             "videoId": "J8BMLX0dhbo",
             "title": "President Trump arrives in Japan",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "Significant development in the Harvey Weinstein case",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "9M0PS4cVDAg",
+            "title": "6 firefighters in Miami have been fired for harassing co-worker",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

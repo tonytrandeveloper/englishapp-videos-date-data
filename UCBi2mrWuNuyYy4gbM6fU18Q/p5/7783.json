@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c2dfad65M2g",
-            "title": "WATCH: SeaWorld Rescues Whale Caught In Fishing Line",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "F4Gebcgr2yI",
             "title": "Michigan Shooting Rampage | President Obama Remarks",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Bryan Cranston Opens Up On Success, Oscars",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "yypfxs0aq4c",
+            "title": "'GMA' on Safari: Anchors Check in From Africa",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

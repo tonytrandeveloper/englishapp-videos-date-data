@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_HsYvw8STRE",
-            "title": "Ferguson Protests Dispersed By SWAT Team | NBC News",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "xHZ9SwTk2UE",
             "title": "Furries Of Anthrocon: Beneath The Fursuit | NBC News",
             "secondDuration": 379,
@@ -121,8 +115,14 @@
             "title": "Obama Under Fire For Iraq Policy | NBC News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "xWHtZy-X5hI",
+            "title": "Iraq Airstrikes Aid Kurdish Forces | NBC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

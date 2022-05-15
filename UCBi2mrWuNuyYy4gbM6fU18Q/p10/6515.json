@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tETiJMSehkE",
-            "title": "Food Fight Lands Kids in Jail",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "nxYrwRRc1PA",
             "title": "High Risk Patients Await Flu Vaccines",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Caught on Tape: Woman Cheats Death",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "oxyIE248hco",
+            "title": "Bottle to Throttle: Was Pilot Flying Drunk?",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zvZIixKKebg",
-            "title": "Hillary Clinton On Donald Trump: 'When Someone Shows You Who They Are, Believe Them' | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HWxTdUyDd9A",
             "title": "Swimming’s Newest All-Star Simone Manuel Returns To U.S. | NBC News",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Flood-Ravaged Louisiana Area: Only 1 in 8 Have Flood Insurance | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "GjIYd9qTlUA",
+            "title": "Man Charged With Arson in Connection With California Wildfire | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

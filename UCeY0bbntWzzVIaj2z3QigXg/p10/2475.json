@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DVVZyUEJKF4",
-            "title": "President Donald Trump Campaigns For South Carolina Gov. Henry McMaster | NBC News",
-            "secondDuration": 7453,
-            "group": "group_7"
-        },
-        {
             "videoId": "WXyKqTxMYQQ",
             "title": "WH Press Sec. Sarah Sanders Slams Public 'Harassment' Of Trump Officials Unacceptable | NBC News",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "President Trump Calls For Deporting Migrants ‘Immediately’ And Without Trial | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "EpAgkEbnweQ",
+            "title": "James Lankford: 'Vast Majority' Of Migrants Coming For Economic Reasons | Meet The Press | NBC News",
+            "secondDuration": 595,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

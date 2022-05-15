@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zkHgA7p_SqI",
-            "title": "President Obama Remarks on ISIS, Orlando Terror Attack",
-            "secondDuration": 1898,
-            "group": "group_7"
-        },
-        {
             "videoId": "TbCSeakUt5I",
             "title": "Orlando Shooting | Prince William, Princess Kate Pay Respects to Victims",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Paris Knife Attack Called Act of Terror",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-cqjDL1esU",
+            "title": "Orlando Nightclub Survivor Shot Twice, Speaks Out",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

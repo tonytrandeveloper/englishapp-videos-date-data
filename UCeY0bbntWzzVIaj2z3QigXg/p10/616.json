@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b5QwiP1F3JI",
-            "title": "UK Prime Minister Boris Johnson Outlines End Of Covid Restrictions",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "xsO4YXQ5eHo",
             "title": "Surveillance Video Shows New Angle Of Surfside Demolition | NBC News",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Taliban Gaining Ground Before U.S. Troops Finish Withdrawal",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMcgEdLUdu4",
+            "title": "Retired Power Plant Revived To Mine Bitcoin",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

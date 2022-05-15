@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FSPBjOnHTaM",
-            "title": "Full Event: Hillary Clinton FULL Concession Speech | Election 2016",
-            "secondDuration": 2203,
-            "group": "group_7"
-        },
-        {
             "videoId": "OMl8F0hhAzw",
             "title": "Immigration Reform Under a Trump Administration",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Republicans Retain Majorities in US House, Senate",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "cCADSljlRnw",
+            "title": "Markets React to Donald Trump Victory",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

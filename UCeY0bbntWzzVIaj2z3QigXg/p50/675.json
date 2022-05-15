@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "F3uF-GEzVHQ",
-            "title": "Speaker Ryan Refuses to Endorse Donald Trump, Trump Returns the Favor | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "_R73OBShAk0",
             "title": "New Claims From Hacker Who Exposed Hillary Clinton’s Private Email | NBC Nightly News",
             "secondDuration": 239,
@@ -301,8 +295,14 @@
             "title": "Ted Cruz Fires Back At John Boehner Over ‘Lucifer’ Comment | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "yug2rvU6AfU",
+            "title": "U.N. Envoy Urges Obama, Putin To Save Syria Ceasefire | NBC News",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

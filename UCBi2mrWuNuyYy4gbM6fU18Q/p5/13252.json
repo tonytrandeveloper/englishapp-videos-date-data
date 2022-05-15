@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rt_uwNiEmF8",
-            "title": "Schwarzenegger Slashes Health Care",
-            "secondDuration": 294,
-            "group": "group_7"
-        },
-        {
             "videoId": "AeRK_0lc3yQ",
             "title": "Henry Louis Gates Jr.: I'm Outraged",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "A Daughter's Devotion",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "8IaZQ3MQGkM",
+            "title": "Driving Dangers Report Hidden for Years",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

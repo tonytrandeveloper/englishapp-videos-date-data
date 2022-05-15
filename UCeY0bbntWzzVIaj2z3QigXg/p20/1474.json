@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z5ffMIwvjo4",
-            "title": "White House Briefing | NBC News",
-            "secondDuration": 2930,
-            "group": "group_7"
-        },
-        {
             "videoId": "oqqd_muLg4c",
             "title": "U.S. Government Test Missile As Tensions Rise With North Korea | NBC News",
             "secondDuration": 57,
@@ -121,8 +115,14 @@
             "title": "Rex Tillerson: U.S.-Russian Relations At Historic Low | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "yQQX3oO9X-8",
+            "title": "The Moped Stunt Crews of Manila | NBC Left Field",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OFEa9BsELAQ",
-            "title": "Pete Buttigieg: Paid Family Leave Is ‘Not A Vacation’",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Klt4jNCsmBM",
             "title": "Evangelicals: 'The Bible Belt Is Unbuckling'",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "Full Panel: Congressional Democrats Stuck With 'Messaging Nightmare'",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "jyTZAyD-drw",
+            "title": "Full Hutchinson Interview: 'Mandate Debate Takes Away From Efficacy Of Vaccines'",
+            "secondDuration": 487,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6T9tusqmS2c",
-            "title": "Woman dies after declining Tamiflu due to cost",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "i-fnn4tpI3s",
             "title": "Rob Porter's first wife responds to Kellyanne Conway's domestic violence comments op-ed",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Bee Migration | ABC News",
             "secondDuration": 950,
             "group": "group_7"
+        },
+        {
+            "videoId": "xf-0AgzrE2Q",
+            "title": "Grass-Fed Beef  | ABC News",
+            "secondDuration": 605,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

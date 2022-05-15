@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t8yZPypZ3jE",
-            "title": "Interview with Timothy Geithner",
-            "secondDuration": 470,
-            "group": "group_7"
-        },
-        {
             "videoId": "mJqydT343Tg",
             "title": "Debt and Weather Creating Frustrated Americans",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Heat Wave Reaches the Northeast",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "WnY07FA7gXU",
+            "title": "Captain America the First Avenger: New Movie Follows the Super Solider of the Marvel Universe",
+            "secondDuration": 466,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

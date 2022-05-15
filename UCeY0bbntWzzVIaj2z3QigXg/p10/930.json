@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "41zxagM5SU0",
-            "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3531,
-            "group": "group_7"
-        },
-        {
             "videoId": "JQcUk_BveQI",
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3407,
@@ -61,8 +55,14 @@
             "title": "Biden To Reinstate Travel Ban On Certain Non-U.S. Travelers | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "mQpjzB7h9qw",
+            "title": "Downward Trend in Covid Cases Signs Possible End of Holiday Surge | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

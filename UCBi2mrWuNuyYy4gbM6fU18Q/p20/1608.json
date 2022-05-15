@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nWylOPO-qWY",
-            "title": "Wrong Way Driving Dangers",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "uDDWGLWFWZE",
             "title": "Clinton Team Joins Recount Effort",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Cubans On Surviving Fidel Castro's Cuba",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKK4WSxoU1U",
+            "title": "Fidel Castro's Death Impact on Cuba",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

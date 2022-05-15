@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LaYa_SKIcH4",
-            "title": "Ukrainians Head Back Home Despite Continued Shelling",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "HWtpDpEZNlY",
             "title": "Mass Shooting In Sacramento Leaving Six Dead",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Zelenskyy Says Retreating Russian Forces Leaving Mines Behind",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "WaxGtjIJJCs",
+            "title": "NASA Runs Final Tests On Rocket For Artemis I Mission",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sXCN4id2MVc",
-            "title": "Trump honors Debra Bissell at State of the Union",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bc6GnT-Jqqs",
             "title": "Democratic women give Trump standing ovation l State of the Union 2019",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Federal prosecutors probing Trump's inaugural committee",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ou06oAUTv2U",
+            "title": "White House: Trump's speech to call for unity, bipartisanship",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

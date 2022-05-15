@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uDfaMA-EXzE",
-            "title": "Trump's approval ratings on the rise",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ny8nzKpGb7k",
             "title": "Arizona police officers asked to leave Starbucks",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "7.1 magnitude earthquake strikes Southern California | ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "AkPM0bRq7nQ",
+            "title": "Explosion in South Florida injures at least 20 people",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NPX3FY2_nVw",
-            "title": "California Wildfires: \"It Takes Your Life Away\" Residents Return To Nothing | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "9gQFg-Y5drc",
             "title": "Facebook's Sheryl Sandberg: Things Happened On Facebook This Election That Shouldn't Have | NBC News",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Bark In The U.S.S.R: Russian President Putin Receives Puppy From Turkmenistan’s President | NBC News",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "sywJ3GXEoZE",
+            "title": "How An Algorithm Is Fighting The Opioid Epidemic | Mach | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

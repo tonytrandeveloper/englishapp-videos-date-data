@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oMNVqrMZD4M",
-            "title": "Watch 2020 Presidential Candidates React After South Carolina Primary Results | NBC News",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "T58AZtAuNHE",
             "title": "'Saturday Night Live' Targets Coronavirus And Democratic Presidential Candidates | NBC News",
             "secondDuration": 250,
@@ -121,8 +115,14 @@
             "title": "Pompeo Hopes For A 'Peaceful' Afghanistan As U.S. And Taliban Reach Peace Deal | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "_1imGb7LxOc",
+            "title": "Trump Weighs Travel Restrictions To Address Coronavirus Concerns | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WSuJUH_VWTs",
-            "title": "Both Dem And GOP Congress Members Rebuke Michael Cohen For Lying Under Oath | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "YJBiaPpQPzY",
             "title": "The Legendary O’Jays Are Back With A New Album And A New Message | Think | NBC News",
             "secondDuration": 590,
@@ -61,8 +55,14 @@
             "title": "NBC News Signal And NBC News Investigates Presents: Medical Device Dangers | NBC News Signal",
             "secondDuration": 1065,
             "group": "group_7"
+        },
+        {
+            "videoId": "JonnY9MUJ0s",
+            "title": "Drug Prices Are Rising. Here's How To Save Money. | Better | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

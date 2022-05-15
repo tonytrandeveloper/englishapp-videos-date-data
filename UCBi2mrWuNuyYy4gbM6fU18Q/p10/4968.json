@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EfFXhrphJoI",
-            "title": "Typhoon Haiyan: Marines Bring Much-Needed Aid to Philippines",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "NcTZeg6mMV8",
             "title": "Elizabeth Berkley's Shocking 'Dancing With the Stars' Elimination",
             "secondDuration": 365,
@@ -61,8 +55,14 @@
             "title": "Stargazers Watch Earthbound Satellite Make Fiery Reentry",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJ8D-PoqpY4",
+            "title": "Super-Typhoon Cuts Trail of Destruction in Philippines",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

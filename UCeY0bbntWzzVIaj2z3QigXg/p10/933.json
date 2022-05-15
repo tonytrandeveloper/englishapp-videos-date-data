@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aP90MsCfqPM",
-            "title": "Texas Threatens To Slash Covid Vaccines Doses Over County’s Plan | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "rR9zyzn7aQ4",
             "title": "Boris Johnson: Covid Variant Detected In England May Have Higher Degree Of Mortality | NBC News NOW",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Biden Admin. To Send 'Multipronged' Immigration Overhaul To Congress | NBC News NOW",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "e41luTFUZnw",
+            "title": "How West Virginia Became A Top State In Covid Vaccine Distribution | NBC News NOW",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

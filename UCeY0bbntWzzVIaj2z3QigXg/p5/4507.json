@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BX0V5bTnSxk",
-            "title": "Michael Avenatti: 'I Have Never Struck A Woman' | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "GgdS1Yf4o4I",
             "title": "Family Offers Warning To Travelers After Son Killed On Trip To Mexico | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Twin Doctors Hope To Change The Face Of Medicine | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "W4xh3NEqPh8",
+            "title": "Suspected Serial Killer Confessed To More Than 90 Murders, Prosecutors Say | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

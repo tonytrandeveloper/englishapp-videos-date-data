@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iZdT6Rlopmw",
-            "title": "Building Collapse Near Miami Prompts Massive Emergency Response",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YFiT15QQes",
             "title": "Schumer, Pelosi Hope For July Infrastructure Vote",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "CDC On Link Between Covid Vaccine And Rare Heart Condition in Young People",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "RSMMF9rWgjQ",
+            "title": "Britney Spears Speaks For First Time At Conservatorship Hearing",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

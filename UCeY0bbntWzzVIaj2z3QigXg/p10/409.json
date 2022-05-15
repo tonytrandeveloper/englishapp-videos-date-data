@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iIiw_WBfmPI",
-            "title": "Nightly News Full Broadcast - October 20th",
-            "secondDuration": 1286,
-            "group": "group_7"
-        },
-        {
             "videoId": "w4f6CMybix8",
             "title": "Some Netflix Employees Stage Walkout To Protest Dave Chappelle Special",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "Authorities Give Updates On Search For Brian Laundrie | NBC News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "0qoyjLtRRvo",
+            "title": "Three killed, Two Wounded in Wisconsin Shooting",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

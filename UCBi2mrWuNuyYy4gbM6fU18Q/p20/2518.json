@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FpXgq8DEgLk",
-            "title": "Feed Frenzy: Freaky Friday the 13th",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "girRZqeyBgI",
             "title": "New Jersey Boardwalk Fire Under Investigation",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "New Jersey Govenor Chris Christie Calls Seaside Boardwalk Fire An 'Unthinkable Situation'",
             "secondDuration": 747,
             "group": "group_7"
+        },
+        {
+            "videoId": "rK15EXzuQDY",
+            "title": "Flash Flooding in Colorado: Extreme Weather Leads to at Least One Death",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

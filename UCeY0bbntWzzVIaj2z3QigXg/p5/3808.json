@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gzqzr1O-E7E",
-            "title": "Mueller Clarifies Testimony On DOJ Guideline Against Indicting Sitting President | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "VHFQzPGwLfQ",
             "title": "Robert Mueller Outlines Why He Did Not Subpoena President Donald Trump For Interview | NBC News",
             "secondDuration": 312,
@@ -31,8 +25,14 @@
             "title": "Robert Mueller Avoids Answering Rep. Eric Swalwell's Questions On Donald Trump Jr. | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "LlZDc2gwfnY",
+            "title": "Watch: Robert Mueller’s Full Opening Statement At House Intelligence Hearing | NBC News",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

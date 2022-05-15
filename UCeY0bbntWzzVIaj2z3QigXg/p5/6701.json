@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FXXjUcI2kcc",
-            "title": "Do You Know Your Miranda Rights? | Debunker | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLESXK3OoMk",
             "title": "Orlando Gunman’s Dad: ‘I Condemn What He Did’ | NBC News",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "‘I’m Going To Die,’ Mom Reads Son’s Texts From Inside Orlando Nightclub | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "lcnsmNDKyPQ",
+            "title": "Pride Participants React To Orlando Shooting | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

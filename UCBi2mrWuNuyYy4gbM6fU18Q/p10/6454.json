@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N9DQG7au_lY",
-            "title": "Top Line: Doubling U.S. Exports",
-            "secondDuration": 617,
-            "group": "group_7"
-        },
-        {
             "videoId": "woZ5QRfjvM0",
             "title": "Top Line: Latta: Spending Freeze Doesn't Go Far Enough",
             "secondDuration": 495,
@@ -61,8 +55,14 @@
             "title": "Mid-Air Crash Kills Three Over Colorado",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "gZzOfmsX7D0",
+            "title": "Boy Scouts of America Celebrate Centennial",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

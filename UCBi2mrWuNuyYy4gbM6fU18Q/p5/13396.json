@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PS7AAAduKE0",
-            "title": "Firestarter",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "aucVhd6-pUM",
             "title": "Skating Makeover Hits Thin Ice",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Terry Moran's Moment of Truth",
             "secondDuration": 677,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL-PBD5agnI",
+            "title": "'GMA' Behind the Scenes",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

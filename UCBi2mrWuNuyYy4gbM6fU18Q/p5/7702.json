@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "idBwgO0XB6w",
-            "title": "Slain Maryland Cop Shot by Fellow Officer, Police Say",
-            "secondDuration": 24,
-            "group": "group_7"
-        },
-        {
             "videoId": "92PfEYz5Cc4",
             "title": "Kalamazoo Shooting Suspect’s Arrest [DASH CAM VIDEO]",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Deaf Dog Overwhelmed by Soldier, Owner Return",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "osgGOGP7LOE",
+            "title": "Google Computer Loses to 'Go' Grandmaster Lee Sedol",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

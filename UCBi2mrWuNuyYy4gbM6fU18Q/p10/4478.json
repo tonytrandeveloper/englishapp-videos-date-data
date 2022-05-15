@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Do4eB-hlUqs",
-            "title": "FRIDAY FUNNIES",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "6GxOYHlF2TA",
             "title": "In Case You Missed It: 1-16-15",
             "secondDuration": 311,
@@ -61,8 +55,14 @@
             "title": "Oscar Nominations: 7 Surprises and Snubs",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "GAGifApGVgc",
+            "title": "Caught on Tape: Stealing From Open House",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

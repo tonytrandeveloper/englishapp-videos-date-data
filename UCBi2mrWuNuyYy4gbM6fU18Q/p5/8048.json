@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Dp4qPtWEutw",
-            "title": "Hospital Officials Discuss San Bernardino Shooting",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "TLMmOQtAY6o",
             "title": "California Shooting Rampage: At Least 14 Killed in San Bernardino Mass Shooting",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "San Bernardino Shooting Eyewitness: ‘Bodies on the Floor’",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "zqFUpPcqlxY",
+            "title": "'GMA' Hot List: Chris Christie on the State of His Presidential Campaign",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

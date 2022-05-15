@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "InKGV_RbJmc",
-            "title": "The Learning Womb",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "K2LSy6H02lI",
             "title": "Scorching Heat Wave Hits 13 States",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Amplified: Electric Tickle Machine",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "NYcGmOAYUlc",
+            "title": "'Boston Med' Nurse Balances Work, Personal Life",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

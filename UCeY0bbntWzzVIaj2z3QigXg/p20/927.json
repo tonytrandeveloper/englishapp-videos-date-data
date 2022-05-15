@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tTLGqzvLsFA",
-            "title": "Hurricane Dorian Brings Heavy Rain, Strong Winds To Caribbean Sea Islands | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "WhxGXBRALr0",
             "title": "Who’s In? Who’s Out? The Latest On The Democratic Primary Race | NBC News Now",
             "secondDuration": 303,
@@ -121,8 +115,14 @@
             "title": "Kentucky Coal Miners Protest For Better Pay And pensions | NBC Nightly News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "63q9CamVVpM",
+            "title": "‘He Is A Coward’: Jeffrey Epstein’s Accusers Speak Out In Court | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

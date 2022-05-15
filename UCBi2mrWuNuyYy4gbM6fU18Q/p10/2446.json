@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LHCnRXDXAyY",
-            "title": "Trump supporters glad at Trump's tough stand on immigration",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "rmP3bHQNxz0",
             "title": "Trump signs executive order ending family separation policy at US-Mexico border",
             "secondDuration": 885,
@@ -61,8 +55,14 @@
             "title": "NBA player Sterling Brown files federal civil rights lawsuit over stun-gun arrest",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "6oHvxRb6bN0",
+            "title": "Technical glitch with American Airlines causes headaches for travelers",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

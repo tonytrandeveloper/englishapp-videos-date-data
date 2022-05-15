@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "AAM_HNmnEAo",
-            "title": "Peter Jenning's Impact Still Lives on 10 Years After His Death",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "CqT6JmNIBrw",
             "title": "Donald Trump Disinvited From Conservative Event After GOP Debate",
             "secondDuration": 265,
@@ -301,8 +295,14 @@
             "title": "Shutting Down Stereotypes | ABC News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "CTnEykjXL6o",
+            "title": "Kermit & Miss Piggy Are Over | ABC News",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

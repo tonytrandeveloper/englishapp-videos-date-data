@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "rFpwlDkP3f4",
-            "title": "Justice Clarence Thomas Questions Federal Policy On Marijuana",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBOWLiHT_P0",
             "title": "DeSantis: Investigation Into Cause Of Condo Collapse Will 'Take A Long Time'",
             "secondDuration": 95,
@@ -301,8 +295,14 @@
             "title": "Derek Chauvin Faces 4 Aggravating Factors That Could Impact Sentencing",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "syHIjidJVJk",
+            "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

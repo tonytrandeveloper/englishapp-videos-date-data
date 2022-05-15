@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8WvFgwiekSM",
-            "title": "Kharkiv Residents Secure Bombed-Out Homes Against Looters",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "k0IiYWWbtzU",
             "title": "Boeing Crash: Wreckage, No Survivors Found From Chinese Passenger Jet",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Ukrainian Hacker Joins War Effort Via internet",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "OR6cmJ-TSaY",
+            "title": "Higher Gas Prices Leading To Surge Of Fuel Heists",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

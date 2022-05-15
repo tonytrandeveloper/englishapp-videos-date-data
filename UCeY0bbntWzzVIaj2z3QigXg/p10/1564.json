@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9YUMm4nqPEw",
-            "title": "Pence Says Coronavirus Response Is An 'All-Hands-On-Deck Effort' | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "l5A2zw-t0Lw",
             "title": "Trump Supporters Believe Coronavirus Could Be A 'Nothing Burger' | NBC News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Trump Says Closing Border Was ‘The Right Decision’ Amid Coronavirus Spread | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZOYGE2Prj0",
+            "title": "Coronavirus Cases Surge In South Korea As Outbreak Spreads To Nearly 50 Countries | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

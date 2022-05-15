@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "afVQEkA-w_0",
-            "title": "Miss America 2015: New Yorker Wins Title",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "sHLZMI8fWzo",
             "title": "Which profession drinks the most coffee?",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Sparking New Speculation About a Potential 2016 Presidential Run",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "lr-GdfGmivs",
+            "title": "Garden Gnome's Mysterious Cross-Country Journey",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

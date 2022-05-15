@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rcuX4HG-6uY",
-            "title": "Kellyanne Conway: Trump Campaign 'Feeling Great' | Election 2016",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "VHaQCI4RrSw",
             "title": "Clinton Wins DC, MA, MD, NJ - Trump Wins MS, OK  | Election Results 2016",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Trump Wins West Virginia | 2016 Presidential Election Projection",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "3i5wnqvaoxE",
+            "title": "2016 Presidential Election Results: First State Projections",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

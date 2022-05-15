@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PjR-jqd22kw",
-            "title": "QUICK FIX: Geniuses or Fools?",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "054EPU-PiwM",
             "title": "Jake Tapper on Obama's Notre Dame Speech",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Obama's Graduation Address Sparks Protests",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "psYEwD9BquQ",
+            "title": "GM Cuts Dealers Loose",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

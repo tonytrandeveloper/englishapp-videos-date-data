@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9EDZaaZOdkA",
-            "title": "Bernie Sanders On Delegate Math, Hillary Clinton (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "1hrBexF7nOk",
             "title": "Pope’s New Document on Marriage, Family Calls for Less Judgment | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Teen Arrested in Killing of Univ. of Texas Freshman | NBC Nightly News",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "SmrOAIfctQo",
+            "title": "Teacher Volunteers to Donate Her Kidney to First Grade Student | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

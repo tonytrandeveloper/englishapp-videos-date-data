@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QhM5TcmTqXw",
-            "title": "Shoplifting suspect drags Connecticut police officer with car",
-            "secondDuration": 40,
-            "group": "group_7"
-        },
-        {
             "videoId": "T76954puOMQ",
             "title": "Trump Full Speech at Boeing 787 Dreamliner Unveiling | ABC News",
             "secondDuration": 3033,
@@ -61,8 +55,14 @@
             "title": "Man Plots to Bomb Target Stores, Allegedly",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "ifY0vBEBgbY",
+            "title": "FaceTime Saves Man From Armed Attack, Arizona Man Says",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

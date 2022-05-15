@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_05YVGiCafI",
-            "title": "Family Of George Floyd Calls For Officers To Be Charged With Murder | NBC Nightly News",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "4hK0-HOy1t0",
             "title": "U.S. Coronavirus Death Toll Hits Grim 100,000 Milestone | NBC News NOW",
             "secondDuration": 650,
@@ -61,8 +55,14 @@
             "title": "Remembering Author And AIDS Activist Larry Kramer, Dead At 84 | NBC News NOW",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFj7GI0U7v4",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2939,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

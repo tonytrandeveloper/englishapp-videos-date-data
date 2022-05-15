@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aUmn2j5Tmgw",
-            "title": "One-on-one with 2020 Democratic presidential candidate Steve Bullock",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "zXxnI4Eh6eA",
             "title": "U.S. women's national soccer team prepares for next game",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "World in Photos, June 14: World Oceans Day, protests in Hong Kong, Jon Stewart on Capitol Hill",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "okURdp9Rvak",
+            "title": "Trump says 'I never suggested firing Mueller,' despite former WH counsel testimony | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

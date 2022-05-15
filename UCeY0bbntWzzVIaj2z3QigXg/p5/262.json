@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sEGCk5Lhbr8",
-            "title": "White House Holds Press Briefing - Feb.28 | NBC News",
-            "secondDuration": 3197,
-            "group": "group_7"
-        },
-        {
             "videoId": "obsoRO96IOM",
             "title": "U.S. Continues Sanctions On Russia's Central Bank As Putin Escalates Ukraine Invasion",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "New York Man Wins $10M Jackpot For A Second Time",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "BjKwQ_EyRa8",
+            "title": "Facebook, Twitter Remove Anti-Ukrainian Disinformation Accounts From Platform",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

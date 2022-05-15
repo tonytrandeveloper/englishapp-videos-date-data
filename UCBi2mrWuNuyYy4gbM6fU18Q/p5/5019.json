@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fdv9l_Rs_kw",
-            "title": "From 'Black Panther' to 'Spider-Man,' superheroes abound in 'Avengers: Infinity War'",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "RgLyiVOywGo",
             "title": "Leaders from North, South Korea vow to sign peace treaty to end war",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "New details on capture of 'Golden State Killer'",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "-t_EhKU71uc",
+            "title": "Cosby accusers speak out after guilty verdict",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

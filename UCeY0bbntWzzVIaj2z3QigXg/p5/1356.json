@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L82e-zLuLyc",
-            "title": "White House Covid-19 Response Briefing | NBC News",
-            "secondDuration": 1950,
-            "group": "group_7"
-        },
-        {
             "videoId": "-cBPoqHtGg8",
             "title": "‘Don’t Eat Cicadas If You’re Allergic To Seafood,’ Warns FDA",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Nationwide Labor Shortage Continues As Businesses Reopen",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "-WSAcJ23m_0",
+            "title": "From Homelessness To Graduation: One Graduate's Inspiring Journey",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

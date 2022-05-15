@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jvdYwqryDGc",
-            "title": "Cease-Fire Ends Between Israel and Hamas",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvcZ1oY9wz4",
             "title": "Lake Closed After Swimmers Become Ill",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Jason Segel Interview 2014: Actor Discusses Experience Making 'Sex Tape'",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "hxtbuP6MexI",
+            "title": "Tracy Morgan Suing Walmart for Collision",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

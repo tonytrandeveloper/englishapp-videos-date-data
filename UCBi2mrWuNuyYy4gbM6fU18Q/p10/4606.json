@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oZsm30jmU3M",
-            "title": "America's Newest Memorial: 'In War, There are No Unwounded Soldiers'",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "3yWs3hXAvNc",
             "title": "Election Countdown: 30 Days to 2014 Midterms",
             "secondDuration": 472,
@@ -61,8 +55,14 @@
             "title": "Nearly 30,000 Fans Flock to LEGO Expo in Virginia",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMLleqyic_Y",
+            "title": "Coast Guard Rescues Man in Bubble",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

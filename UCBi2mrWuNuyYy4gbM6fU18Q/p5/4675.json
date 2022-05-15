@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dyVTEJJ6wBs",
-            "title": "Kavanaugh accuser won't testify before FBI probe",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "bI2s5aSTzgM",
             "title": "Anita Hill speaks out on Kavanaugh sexual assault allegation",
             "secondDuration": 463,
@@ -31,8 +25,14 @@
             "title": "Surgeon and his girlfriend accused of drugging, raping women",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "mlNN17wKhUE",
+            "title": "The award-winning proposal at the Emmys",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

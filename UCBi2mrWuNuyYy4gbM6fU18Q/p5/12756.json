@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RngHNgel8uE",
-            "title": "Supreme Decision",
-            "secondDuration": 259,
-            "group": "group_7"
-        },
-        {
             "videoId": "fyXAXxRoYuU",
             "title": "Barbara Walters to have Heart Surgery",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Casey Affleck on Joaquin Phoenix Doc",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "ByPPWaFE9g8",
+            "title": "The Fight for Confirmation",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

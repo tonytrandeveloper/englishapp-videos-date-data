@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DNq03tZ7J38",
-            "title": "North Korea threatens US over new sanctions",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cnhri8_3sMw",
             "title": "Severe summer storms: Flash flooding and monster winds affecting millions",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Italian police investigate alleged kidnapping of British model",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "vT4d_kC9opQ",
+            "title": "Search and rescue operation for 3 missing Marines suspended",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

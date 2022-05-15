@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RSMMF9rWgjQ",
-            "title": "Britney Spears Speaks For First Time At Conservatorship Hearing",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "40AOpqdsOng",
             "title": "Russia Claims Video Shows British Warship Forced Away From Crimea",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "'Do A Head Shot!': Bodycam Shows Owner Asking Police To Kill Pet Chimpanzee",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2C86QJi1N8",
+            "title": "SCOTUS Ruling Restricts Unions From Reaching California Farmworkers",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

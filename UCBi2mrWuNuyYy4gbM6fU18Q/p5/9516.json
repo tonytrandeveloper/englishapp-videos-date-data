@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3U2bnprzc4I",
-            "title": "Vladimir Putin Takes Victory Lap in Crimea",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "XJ6nYp8XDSA",
             "title": "California to Require Smartphone Kill Switches",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: TINY HAMSTER EATS TINY PIZZA",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "jpDupdXgquw",
+            "title": "New Donald Sterling Recording: 'I'm Not a Racist'",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

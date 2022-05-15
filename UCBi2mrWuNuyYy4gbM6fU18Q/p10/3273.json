@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qqSMNHHq6Pc",
-            "title": "2 NYPD Officers Shot in The Bronx",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8oUgSIUIRvw",
             "title": "Man Proposes Inside Crocodile Enclosure",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Most Gerrymandered Political District in America | Election Cycle",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "bpR5bxzpmR8",
+            "title": "Bridgegate Trial | 2 Former Chris Christie Aides Found Guilty",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

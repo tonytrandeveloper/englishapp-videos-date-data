@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C7dC48R7JMA",
-            "title": "Battleground Michigan | NBC News",
-            "secondDuration": 405,
-            "group": "group_7"
-        },
-        {
             "videoId": "fDK7ovVQW4E",
             "title": "Coronavirus Or The Economy? First Exit Polls Arrive | NBC News NOW",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "The Pro-Trump Kids Of TikTok | NBC News",
             "secondDuration": 426,
             "group": "group_7"
+        },
+        {
+            "videoId": "1uVE3VcIufE",
+            "title": "Voters Of Color In Florida, Georgia Face Higher Rates Of Ballot Rejection | NBC News",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

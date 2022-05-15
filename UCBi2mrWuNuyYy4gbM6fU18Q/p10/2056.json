@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SiTZq6ADLqo",
-            "title": "US seizes massive North Korean cargo vessel for violating sanctions",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "P2nQDq4muyA",
             "title": "Authorities uncover stockpile of more than 1k weapons in mansion",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Cell phone video shows Sandra Bland's arrest from her perspective",
             "secondDuration": 592,
             "group": "group_7"
+        },
+        {
+            "videoId": "pcdD3WaOcH8",
+            "title": "Trump 'very surprised' about subpoena for son",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

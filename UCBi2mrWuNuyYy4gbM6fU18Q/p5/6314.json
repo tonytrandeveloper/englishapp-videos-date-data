@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WDFxU5ssJC4",
-            "title": "Fireworks Explosion at Market in Mexico: Death Toll Rises",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "vBr_xKzsMyo",
             "title": "Jeopardy Champ Loses Cancer Battle Before Episodes Air",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "FBI Joins Search for Apparent Road Rage Killer of 3-Year-Old Boy",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dfyv5YyRqs0",
+            "title": "Fireworks Explosion Leaves At Least 29 Dead, 72 Injured",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nEedvmEhXOo",
-            "title": "This Morning’s Top Headlines – Jan. 17 | Morning News NOW",
-            "secondDuration": 1375,
-            "group": "group_7"
-        },
-        {
             "videoId": "WfPjftVogWo",
             "title": "Nightly News Full Broadcast - Jan. 16",
             "secondDuration": 1306,
@@ -31,8 +25,14 @@
             "title": "Texas Synagogue Hostages Rescued",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "xBMczwOS_V8",
+            "title": "Severe Winter Weather Hitting The Southeast",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

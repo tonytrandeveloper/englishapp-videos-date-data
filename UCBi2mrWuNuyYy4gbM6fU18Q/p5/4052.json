@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-fm4ITCQEUs",
-            "title": "The Debrief: Mueller remarks, Kansas tornadoes, Mt. Everest deaths, Pakistan HIV epidemic | ABC News",
-            "secondDuration": 1820,
-            "group": "group_7"
-        },
-        {
             "videoId": "iEhLmWRcGKE",
             "title": "Special counsel Robert Mueller makes first public comments on Russia investigation |  Special Report",
             "secondDuration": 3518,
@@ -31,8 +25,14 @@
             "title": "Kansas declares tornado emergency",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "26wqUaXOv3g",
+            "title": "New questions raised after Mar-a-Lago security breach",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GKIRVgsNd9A",
-            "title": "Ebola Outbreak in Uganda",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "M83wOOVXyGg",
             "title": "London 2012 Gymnastics: Gabby Douglas Slips on Beam",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "Cindy Crawford's Rule for Child's Makeup: Debate",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "D1wxX2xD0YA",
+            "title": "Sikh Temple Shooting in Wisconsin: Wade Michael Page's History With White Supremacist Movement",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

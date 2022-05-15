@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A2n6EjWh9i4",
-            "title": "What is a Political Outsider? | America 101",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "TjUWYQzlLhk",
             "title": "What is a Swing State? | America 101",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Trump Interrupted by Pastor After Talking About Clinton",
             "secondDuration": 24,
             "group": "group_7"
+        },
+        {
+            "videoId": "1HglquFdg5k",
+            "title": "Boy With Cerebral Palsy Tries to Stand for National Anthem",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

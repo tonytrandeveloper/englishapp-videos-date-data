@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Glf6xGqnGnw",
-            "title": "Passenger Jet Engine Bursts Into Flames After Landing In Denver | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "4AmgrDP1ZtI",
             "title": "Skiing On July 4th? It’s Possible On California’s Mammoth Mountain | NBC Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Senator Ben Sasse Outlines Proposal To Unbundle Repeal And Replace Health Care Efforts | NBC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "VAmECJDpVqs",
+            "title": "Video Shows Plane Crash On Southern California Freeway | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

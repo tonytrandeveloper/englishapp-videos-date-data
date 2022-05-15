@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h59wN4JfcVw",
-            "title": "Bannon calls Donald Trump Jr.'s meeting with Russian lawyer 'treasonous' and 'unpatriotic'",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tc0qG9g4fqo",
             "title": "Students help foundation reach $1 million for medical research",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Swatting call leads to an innocent man being killed",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "n74rvKrKwmQ",
+            "title": "Suspect in deadly swatting accident due in court",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

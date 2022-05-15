@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W8NkiGerjKs",
-            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "mz-aep91l8U",
             "title": "Life Inside Germany As National Lockdown Is Extended | NBC News NOW",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Live: LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 5326,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjxiFAWP9So",
+            "title": "U.S Deaths Top 32,000 , Global Cases Over 2 Million | NBC Nightly News",
+            "secondDuration": 746,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-KlsJRMNmI0",
-            "title": "Prosecutor Discusses O.J. Simpson’s Parole Hearing | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "yY_YmyWKr5Q",
             "title": "Senate Republicans React Following White House Health Care Meeting | NBC News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "This Is The Closest You Can Get To Zero Gravity Without Leaving Earth | Mach | NBC News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "H_eT1wRL4w8",
+            "title": "The Reporter Who Broke The Story Of Donald Trump Campaign Meeting | Megyn Kelly | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

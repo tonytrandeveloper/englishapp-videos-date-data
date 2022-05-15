@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RJGNmHXrBFw",
-            "title": "Random Animal Facts",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "hDaIEi2nViA",
             "title": "Another Bank Reports Huge Profits",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Jon Gosselin: From Divorce to Dating Within Days",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "GlRG5GtR0us",
+            "title": "Berman Achieves Ultimate Dream",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

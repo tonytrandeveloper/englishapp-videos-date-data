@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uLGXdweh5KE",
-            "title": "Across the Pond: Sudan's ruling military council says they've stopped a military coup",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jowev6VJ79Y",
             "title": "Seattle hit by 4.6 earthquake",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "Doctor says airline targeted her due to race, curvy figure",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "mG061LVCFaY",
+            "title": "World Cup champs steal the show at the ESPYS",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

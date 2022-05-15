@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E107TZ-3kJs",
-            "title": "Remembering JFK: A Presidential Funeral",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "NziTOWnW0yI",
             "title": "Kennedy Stumps for Kerry",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Kennedy Pays Tribute to RFK",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "J-D8cwnbhW8",
+            "title": "1991: Kennedy Faces Questions in Private Life",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

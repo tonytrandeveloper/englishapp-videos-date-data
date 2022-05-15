@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CrcT6lmeJjk",
-            "title": "Bank of America Employee Kidnapped, Bomb Strapped Around Her Neck",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "PqfNnVhGNdU",
             "title": "NFL Coach Faces Battle Off Field, Inspires Team to Victory",
             "secondDuration": 162,
@@ -121,8 +115,14 @@
             "title": "'Back to the Beginning' Christiane Amanpour Part 9: Search for the Ark of the Covenant",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "lkGe3GsxLRw",
+            "title": "'Back to the Beginning' Christiane Amanpour Part 8: Solomon's Temple: Fabled Sacred Spot for Faiths",
+            "secondDuration": 422,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

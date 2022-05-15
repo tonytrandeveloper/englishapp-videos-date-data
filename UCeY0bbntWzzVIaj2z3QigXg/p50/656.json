@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "vJluI4q5W0U",
-            "title": "Charlotte Shooting Videos:  Side-By-Side Comparison | NBC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAcZxEimTQo",
             "title": "President Obama Vetoes Bill Allowing 9/11 Victim Families To Sue Saudis | NBC Nightly News",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "Pastor At Terence Crutcher Protest: You Cannot Cut Down Our Sons And Daughters | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "TVN8cCMlxOE",
+            "title": "Standing Rock Sioux Tribe Takes Pipeline Fight To U.N. | NBC News",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

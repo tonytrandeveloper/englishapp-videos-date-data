@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BawFHfpwhk8",
-            "title": "White House Press Briefing - April 10, 2018 | NBC News",
-            "secondDuration": 1114,
-            "group": "group_7"
-        },
-        {
             "videoId": "4BNXdwL-ELw",
             "title": "Is Your Weed Killing The Environment? | NBC News",
             "secondDuration": 249,
@@ -31,8 +25,14 @@
             "title": "President Trump Says 'Major Decisions' On Syria Likely In Next 24 To 48 Hours | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "tC4D8OFDkO4",
+            "title": "NASA Tracks Greenland Glaciers To Understand Climate Change | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

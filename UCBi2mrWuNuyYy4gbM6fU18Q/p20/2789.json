@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-dyPfuThke8",
-            "title": "WEBCAST: 27 Days to Go Until Election Day",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "A95y_WozdOM",
             "title": "Michelle Obama on Helping Military Families",
             "secondDuration": 275,
@@ -121,8 +115,14 @@
             "title": "Talladega Crash Video 2012: Massive 25-Car Pileup",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "vT7rV9YAIYQ",
+            "title": "Michelle Obama on Keeping Marriage, Politics Separate",
+            "secondDuration": 423,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

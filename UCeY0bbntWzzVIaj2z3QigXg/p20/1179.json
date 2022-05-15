@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xRJenm7GFJI",
-            "title": "Meet The Helicopter Pilot Who Saved Lives During Hurricane Maria | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "FewFE_ObNvs",
             "title": "American Airlines Becomes Latest Carrier To Announce Increased Baggage Fees | NBC Nightly News",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "Massive Inferno Erupts At D.C. Senior Living Apartment Complex | NBC Nightly News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "gNgoC3aQkmA",
+            "title": "‘I Haven’t Felt This Free In A While:’ Talks About Life-Saving Transplant | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

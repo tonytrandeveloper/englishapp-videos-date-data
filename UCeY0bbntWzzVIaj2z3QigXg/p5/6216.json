@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oMLhkdJsxkk",
-            "title": "DHS Head John Kelly: Border Wall Won’t Extend ‘From Sea To Shining Sea’ | NBC News",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tvl69W8B9Hs",
             "title": "UN Ambassador Nikki Haley Condemns Russia, Iran After Chemical Attack In Syria | NBC News",
             "secondDuration": 485,
@@ -31,8 +25,14 @@
             "title": "Senator Jeff Merkley Holds Overnight Talk-A-Thon Protesting Neil Gorsuch Nomination | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "QZxa1tomAP8",
+            "title": "Syria Chemical Attack Massacre: Hundreds Killed And Injured | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

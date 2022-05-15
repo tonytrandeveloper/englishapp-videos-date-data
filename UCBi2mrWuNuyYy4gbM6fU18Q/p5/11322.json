@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sjTP10q7jKg",
-            "title": "News Helicopter Makes Emergency Landing",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "ET5CPSp8Ego",
             "title": "WEBCAST: Hantavirus at Yosemite National Park",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "'Roofers' Scale Moscow's Tallest Points",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "wrJEfycYS5w",
+            "title": "Republican National Convention 2012: Rep. Jason Chaffetz on Medicare Fight, Convention",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

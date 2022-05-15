@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B26YoHHaKTA",
-            "title": "Consider The Wishbone: From Dinosaur Holdover To Thanksgiving Leftover | Mach | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "GbVoQsA7N90",
             "title": "Teen In Wheelchair Marches In Macy’s Thanksgiving Day Parade With Friend's Help | NBC Nightly News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Chief Justice Roberts Challenges Trump For ‘Obama Judge’ Comment In Rare Rebuke | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "JDpbuTjMW30",
+            "title": "Record-Breaking Number Of People Flying For Thanksgiving This Year | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

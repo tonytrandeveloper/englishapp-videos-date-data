@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FpIt9fZGR6k",
-            "title": "Nation honors America's heroes on Veterans Day",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "c78iR7x10mI",
             "title": "Judge finds no sign of fraud as Florida Senate recount continues",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Country stars on dealing with hardships, divorce and tragedy",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMRWus6-Opo",
+            "title": "Keith Urban on speaking through the 'incredible language of music'",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

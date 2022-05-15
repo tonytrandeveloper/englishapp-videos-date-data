@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B2IpTCWTAT8",
-            "title": "WrestleMania In Tampa To Allow 25,000 In-Person Fans | NBC News NOW",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "_dtbpsoG8RM",
             "title": "Holocaust Survivors Continue To Document Their Testimonies During The Pandemic | NBC News NOW",
             "secondDuration": 308,
@@ -61,8 +55,14 @@
             "title": "Pandemic Threatens To Make Pay Divide Between CEOs And Employees Worse | NBC Nightly News",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "p4zDvT7kGg4",
+            "title": "Brooklyn DA Dismisses Drug Convictions After Detective Accused Of Lying | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

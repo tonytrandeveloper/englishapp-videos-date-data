@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DsK1s2rKTv8",
-            "title": "Taylor Swift and Calvin Harris Are Officially a Couple",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "PsiT51oQHRA",
             "title": "Kim Kardashian as Marilyn Monroe Heats Up Vogue Cover",
             "secondDuration": 43,
@@ -31,8 +25,14 @@
             "title": "FIFA Officials Arrested in Corruption Investigation",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "V4BDjthzoo4",
+            "title": "LeBron James Leads Cleveland Cavaliers Into NBA Finals",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

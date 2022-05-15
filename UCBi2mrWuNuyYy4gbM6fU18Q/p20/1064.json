@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "57kMM3J5h6s",
-            "title": "Trump, FAA ground Boeing Max 8 and Max 9 planes in US",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "BBma5h5d6Tw",
             "title": "FAA administrator explains data similarities between plane crashes",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "College admissions scandal ensnares celebs, CEOs",
             "secondDuration": 554,
             "group": "group_7"
+        },
+        {
+            "videoId": "XQQdeAer_zo",
+            "title": "When the system is rigged: What to know the about college admissions process",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

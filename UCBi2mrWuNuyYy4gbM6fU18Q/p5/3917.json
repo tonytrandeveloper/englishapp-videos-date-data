@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mG061LVCFaY",
-            "title": "World Cup champs steal the show at the ESPYS",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "qu7RvDWZkOQ",
             "title": "Gulf storms gather strength, Acosta under fire, inside migrant children’s center | ABC News",
             "secondDuration": 1441,
@@ -31,8 +25,14 @@
             "title": "US releases images of migrant children inside Texas holding facility",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "fErDPSxHXtg",
+            "title": "Thousands turn out in New York to celebrate US women's soccer team",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zcqj59uYIl4",
-            "title": "NOW Tonight with Joshua Johnson - March 23 | NBC News NOW",
-            "secondDuration": 3218,
-            "group": "group_7"
-        },
-        {
             "videoId": "juHE6738sKk",
             "title": "New Details Emerge In NYC Vocal Coach Homicide",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "Anti-War Russians Gather At U.S.-Mexico Border Seeking Asylum",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "MLSCPqK8SJY",
+            "title": "CDC ‘Closely Watching’ BA.2 Variant, Says No Evidence Of More Severe Disease",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

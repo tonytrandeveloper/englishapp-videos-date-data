@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RTW7ciTuccQ",
-            "title": "A Season Of Protests For The NFL | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "DUURl8b70T0",
             "title": "Blazing Minivan Plows Into Pedestrians Near Starbucks In Shanghai | NBC News",
             "secondDuration": 45,
@@ -61,8 +55,14 @@
             "title": "Michigan Police Apologize To Larry Nassar Victim | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFJc3YEn4Xg",
+            "title": "House Speaker Paul Ryan Says GOP Memo Does Not Challenge Mueller Investigation | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

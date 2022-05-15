@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cJSXKFx5jZ4",
-            "title": "Search And Rescue Efforts Underway After Hurricane Sally | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "a1IJmVwI_H8",
             "title": "Barr Equates DOJ Prosecutors To Preschoolers, ‘Headhunters’ | NBC Nightly News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Hurricane Sally Makes Landfall In Alabama | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "3YW_hlgJtmo",
+            "title": "Trump Holds News Conference At White House | NBC News",
+            "secondDuration": 3575,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

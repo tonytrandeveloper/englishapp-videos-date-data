@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LfioE4RR3-w",
-            "title": "Melania Trump Reads Dr. Seuss to Children | ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "WwnWQO6lUcg",
             "title": "Health Care Battle heats Up Amid Secret Replacement Bill Claims | ABC News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Lorde's Green Light Released",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ojzws8LHuy4",
+            "title": "Logan and Table 19 | Insomniac Theater",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

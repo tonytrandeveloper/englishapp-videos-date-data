@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j0uQ2Flvvxg",
-            "title": "Amy Coney Barrett On Ruth Bader Ginsburg: 'No One Will Ever Take Her Place’ | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "d7zNhIuZKIo",
             "title": "Tech Issues Prevent Professor From Speaking At Amy Coney Barrett's Confirmation Hearing | NBC News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "'The Senate Is Doing Its Duty': Graham Opens Amy Coney Barrett's Confirmation Hearings | NBC News",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q8nEW4-SwGo",
+            "title": "Covid-19 Virus Can Survive Up To 28 Days, Scientists Say | NBC News NOW",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kbiAAtVy2ew",
-            "title": "The Debrief: California wildfires, raging Texas tornadoes, Facebook and 2020 | ABC News",
-            "secondDuration": 2655,
-            "group": "group_7"
-        },
-        {
             "videoId": "GdIbU09t0Cc",
             "title": "Texas starts to recover after devastating tornados l ABC News",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "New lead in disappearance of 3-year-old Alabama girl l ABC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fa_yyH21jjs",
+            "title": "Video shows coach disarm, then embrace student with gun | ABC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I7ZNtgBOn5Q",
-            "title": "Trump Holds News Conference At White House | NBC News",
-            "secondDuration": 976,
-            "group": "group_7"
-        },
-        {
             "videoId": "AV9s3wcMMKY",
             "title": "U.S. Coronavirus Deaths Top 150,000 | NBC News NOW",
             "secondDuration": 406,
@@ -31,8 +25,14 @@
             "title": "Live: Joe Biden Delivers Remarks On 2020 Economic Plan | NBC News",
             "secondDuration": 1479,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jh-VgJqjyJ4",
+            "title": "Can Federal Officers Take Over For Local Law Enforcement? | NBC News NOW",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

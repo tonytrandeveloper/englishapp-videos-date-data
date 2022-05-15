@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1SF5a11EB4I",
-            "title": "How Sarcasm Is Linked to Creativity",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ue_jHuton58",
             "title": "A Mac & Cheese Masterpiece | ABC News",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "Celebrities React To Ashley Madison Scandal | ABC News",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "eN9H23KfJt0",
+            "title": "Donald Trump Clashes with Journalist at Campaign Event | ABC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wM9JHva2N5o",
-            "title": "NBC Nightly News Broadcast (Full) - May 18th, 2021",
-            "secondDuration": 1268,
-            "group": "group_7"
-        },
-        {
             "videoId": "qvyGMRtgg2M",
             "title": "Third Grader Stuns With Powerful National Anthem Performance",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Three Generations Fight For Equality In Louisville",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Z7mmAm8lUQ",
+            "title": "Texas Bans Mask Mandates Following CDC Guidance",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

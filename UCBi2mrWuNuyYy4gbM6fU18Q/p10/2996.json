@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K8NfvMQXVRo",
-            "title": "Paul Ryan on health care: 'We're going to get this right' | ABC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZxLgJuHrC58",
             "title": "Paul Ryan says Devin Nunes shouldn't recuse himself from Russia investigation | ABC News",
             "secondDuration": 38,
@@ -61,8 +55,14 @@
             "title": "Foster mom determined to give little girl her 'forever home'",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "KCPHkkg_XXM",
+            "title": "Authorities foil alleged massacre planned for a DC-area school",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m1ekcG3Tv10",
-            "title": "The 10 Minute Workout",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "ALbJTFJFlKs",
             "title": "This Pass Gets You Into Just About Every Gym Class",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Polo Tycoon DUI Trial: Millionaire's Girlfriend Takes Stand in Retrial",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "X2b_ed5H_D4",
+            "title": "Pregnant Mom Defends CrossFit Training Through Delivery",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

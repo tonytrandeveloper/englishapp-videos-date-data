@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aV1WxkMliYA",
-            "title": "U.K.’s Boris Johnson Announces Delay In Lifting Covid Restrictions",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "oCb4CG55xh0",
             "title": "Special Report: Biden Holds Press Conference | NBC News",
             "secondDuration": 2260,
@@ -61,8 +55,14 @@
             "title": "Pfizer Begins Low-Dose COVID-19 Vaccine Trials In Young Children",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUw39LbLGSg",
+            "title": "Nightly News Full Broadcast (June 13th)",
+            "secondDuration": 1157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

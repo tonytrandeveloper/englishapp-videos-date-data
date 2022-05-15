@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B-yHStTyojA",
-            "title": "Derek Chauvin Sentenced To 22 & A Half Years For Murder of George Floyd",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "mICE8msiI34",
             "title": "Chauvin’s Mother: ‘My Son Is A Good Man’",
             "secondDuration": 314,
@@ -31,8 +25,14 @@
             "title": "Derek Chauvin Faces 4 Aggravating Factors That Could Impact Sentencing",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "syHIjidJVJk",
+            "title": "George Floyd's Brother To Chauvin: 'Why? What Were You Thinking?'",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eWDpOpnONL4",
-            "title": "Can An Algorithm Save America's Justice System? | NBC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NE62AY69y0",
             "title": "Earthquake Rattles Italian Island | NBC News",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "Unforgettable Moments From The 2017 Solar Eclipse | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "VkIsT2nB1Gc",
+            "title": "Trump, Pence View Solar Eclipse from Washington, D.C.",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

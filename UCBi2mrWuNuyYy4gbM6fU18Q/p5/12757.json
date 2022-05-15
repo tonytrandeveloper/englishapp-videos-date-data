@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ByPPWaFE9g8",
-            "title": "The Fight for Confirmation",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "1S2SlVVogbQ",
             "title": "'Just Wright' for a Queen",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Interview With Eric Holder",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "lFyeF9d1Stc",
+            "title": "Weekend Window: North Cascades National Park",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

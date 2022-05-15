@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SwY_Tgk5qWk",
-            "title": "20/20 Evil in Eden, Pt 4 – Cary Stayner takes refuge in Yosemite",
-            "secondDuration": 442,
-            "group": "group_7"
-        },
-        {
             "videoId": "pZ2PWVmQ2Ok",
             "title": "20/20 Evil in Eden, Pt 1 - Two brothers tied to Yosemite, one a hero, the other a monster",
             "secondDuration": 306,
@@ -61,8 +55,14 @@
             "title": "Trump expected to announce temporary deal to end shutdown: Special Report | ABC News",
             "secondDuration": 2410,
             "group": "group_7"
+        },
+        {
+            "videoId": "g2oC7DiCXPA",
+            "title": "How intended victim of 1999 Yosemite killer views the tragedy today",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

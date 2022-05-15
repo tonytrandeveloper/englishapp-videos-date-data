@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jD9aQmFgIQQ",
-            "title": "Jimmy Carter Sends Video Message to the DNC | ABC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "HwxAddPpHJQ",
             "title": "Son Breaks Down After Dad Gives Him Surprise Birthday Gift",
             "secondDuration": 240,
@@ -31,8 +25,14 @@
             "title": "Michelle Obama Fact-Checked: White House 'Was Built by Slaves'",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "-NJsutnyqOM",
+            "title": "Democratic National Convention | Stars at the DNC",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

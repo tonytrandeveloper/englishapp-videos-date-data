@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XTvGQt-Thqs",
-            "title": "Comey accuses Trump of lying about him, FBI",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "QRQjfKf7m78",
             "title": "Theresa May loses conservative seats in UK election",
             "secondDuration": 56,
@@ -31,8 +25,14 @@
             "title": "Lawmakers concerned about Trump's seeming indifference to Russian hacking",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "TohWmyQgMzc",
+            "title": "7-year-old displays true American patriotism",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

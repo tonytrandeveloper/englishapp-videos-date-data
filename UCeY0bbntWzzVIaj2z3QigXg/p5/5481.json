@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b6Dyrk_AWKQ",
-            "title": "President Donald Trump Speaks At FBI National Academy Graduation (Full) | NBC News",
-            "secondDuration": 3040,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1ZwC9Wti_o",
             "title": "What Not To Do At Your Office Holiday Party | Better | NBC News",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Omarosa's Exit Raises Questions About White House Diversity | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "hcOOYSiIjfE",
+            "title": "FCC Scraps Net Neutrality Rules Regulating Internet Access | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

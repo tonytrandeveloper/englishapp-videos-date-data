@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ikiE3xH1Wms",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 2449,
-            "group": "group_7"
-        },
-        {
             "videoId": "o909yQ0IXjY",
             "title": "Morning News NOW Full Broadcast - March 3",
             "secondDuration": 3054,
@@ -31,8 +25,14 @@
             "title": "Dashcam Video Captures Explosions In Street In Chernihiv, North Ukraine",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "ILZ3MT-mGiY",
+            "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
+            "secondDuration": 1060,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

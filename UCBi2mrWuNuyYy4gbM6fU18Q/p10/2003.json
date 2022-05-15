@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S2HsUhK-gI0",
-            "title": "Trump says he may not alert FBI if info is offered by foreigners on 2020 candidates",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZrZTVtNwr7o",
             "title": "World in Photos, June 12: Hong Kong protests,  FIFA Women's World Cup win, Toy Story shoes",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Ron Goldman's family speaks out 25 years after murder",
             "secondDuration": 509,
             "group": "group_7"
+        },
+        {
+            "videoId": "G0VgYUazW20",
+            "title": "US women rout Thailand 13-0 at  FIFA World Cup",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6t8E2sRBYB4",
-            "title": "Health care bill makes for critical week at the White House",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "EN4zirgBuaU",
             "title": "New details about the California man who scaled the White House fence",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Pilot donates kidney to ailing crew member",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "JY8tigxoxY0",
+            "title": "Many states issue road safety warnings in preparation for Spring Break",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

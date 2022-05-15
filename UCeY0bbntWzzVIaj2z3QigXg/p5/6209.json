@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9wuZgQuG5wI",
-            "title": "Don Rickles, Master Of Comedy For Decades, Dies At Age 90 | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Dy6UaJZuDo",
             "title": "FDA Approves At-Home DNA Tests For 10 Diseases | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Called For Attack On Syrian Airfields Hours Before Attack Launched | NBC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "QdSu9ZLXWMc",
+            "title": "Footage Shows Launch Of Tomahawk Missiles Aimed At Syria Airfield",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

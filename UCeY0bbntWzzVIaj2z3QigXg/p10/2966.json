@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-iNKBzD4aF8",
-            "title": "‘Smishing’ Cyber Attacks Target Customers Via Text Message | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "0t4l5I4FEQ4",
             "title": "O.J. Simpson's Daughter: We Just Want Him To Come Home | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Muslims Protest New Security Measures At Jerusalem's Al-Aqsa Mosque | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "ivXHsSlRv3g",
+            "title": "Senate Republicans React To McCain's Cancer Diagnosis | NBC News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

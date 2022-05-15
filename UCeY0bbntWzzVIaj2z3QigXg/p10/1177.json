@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TPntPew1DoY",
-            "title": "Civil Rights Activist Encourages Peaceful Protesting At 2020 RNC | NBC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "RIGY7M7yzvE",
             "title": "Watch Vice President Mike Pence's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 2210,
@@ -61,8 +55,14 @@
             "title": "Watch Kellyanne Conway’s Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "ajh4XFGXgpo",
+            "title": "Watch Karen Pence's Full Speech At The 2020 RNC | NBC News",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

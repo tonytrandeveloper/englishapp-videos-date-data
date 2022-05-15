@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gzd8Oxtj4xU",
-            "title": "A Whole City Turns Out to See the Pope",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "4BpJvwELrsk",
             "title": "Ticker Tape Parade for World Cup-Winning U.S. Womened Soccer Stars",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Behind the Scenes of Marvel's Latest Hero Flick 'Ant-Man'",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "iqHvbJ2AXW0",
+            "title": "Fashonista Sisters Team Up to Repurpose Military Surplus Clothing",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

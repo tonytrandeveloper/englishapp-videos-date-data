@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pynAYKik4oA",
-            "title": "Hillary Clinton Talks 2016, Stands by Benghazi Testimony",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "YFdIX0l4QOM",
             "title": "Hillary's Next Chapter: On Family and Future",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Final Farewell: Hillary Clinton Steps Down as Secretary of State",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "gdhbVINhaRQ",
+            "title": "Wild Range of Weather for US as Jet Stream Shifts",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

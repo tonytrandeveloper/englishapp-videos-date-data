@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-kgsZjqEnOk",
-            "title": "East Coast Braces for Hurricane Irene",
-            "secondDuration": 399,
-            "group": "group_7"
-        },
-        {
             "videoId": "UBclROgNGRw",
             "title": "From Happy to Homeless: Teens in Trouble",
             "secondDuration": 507,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irene: Riding Into the Eye with Storm Chasers",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "KryYJYHOOD0",
+            "title": "Hurricane Irene: What Do 130MPH Winds Feel Like?  Testing High-Powered Winds",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

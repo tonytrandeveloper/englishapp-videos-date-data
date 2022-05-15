@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T4kBYYYvYfE",
-            "title": "Final Presidential Debate 2012: George Will - Debate Shows 'Remarkable Reversal' Between Parties",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSTnaSqP-KE",
             "title": "Obama, Romney Clash Over Status of Forces Agreement in Iraq",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Final Presidential Debate 2012: Obama on Romney's 'Biggest Whopper'",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJzfZr1bOSE",
+            "title": "Final Presidential Debate 2012: Romney on Middle East: 'Strong Economy' Allows for Global Peace",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

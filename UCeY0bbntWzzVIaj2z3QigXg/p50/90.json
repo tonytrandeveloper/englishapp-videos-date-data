@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "uqplr_QqhU0",
-            "title": "Top Story with Tom Llamas Full Broadcast - October 1st | NBC News NOW",
-            "secondDuration": 3003,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhxQ9o2X5HM",
             "title": "Nightly News Full Broadcast - October 1st",
             "secondDuration": 1124,
@@ -301,8 +295,14 @@
             "title": "Britney Spears’ Father Suspended From Conservatorship",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "YmPsEbYzxE4",
+            "title": "Congress Racing To Prevent Government Shutdown",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

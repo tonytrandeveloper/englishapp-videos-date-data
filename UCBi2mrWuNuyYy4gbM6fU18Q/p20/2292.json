@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6-cJdd8ISd8",
-            "title": "Teen Gunman Terrorizes Wash. State High School",
-            "secondDuration": 341,
-            "group": "group_7"
-        },
-        {
             "videoId": "AEys9D4fpqc",
             "title": "Instant Index: Halloween Surprise for Harry Potter",
             "secondDuration": 19,
@@ -121,8 +115,14 @@
             "title": "Secrets of an Identity Thief",
             "secondDuration": 365,
             "group": "group_7"
+        },
+        {
+            "videoId": "4fw86AjkS1o",
+            "title": "Luke Bryan's 'Roller Coaster' Ride",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tHz4r7nVDoE",
-            "title": "Donald Trump, Hillary Clinton Clash Over Terror",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "BrosYvng7zg",
             "title": "Drivers Waste Billions on Premium Gas New Report Shows",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Presidential Candidate' Terror Attacks Strategy",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZuYWKGtYTMU",
+            "title": "Boy Caught 'Stealing' Hugs From Neighbor's Dog",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

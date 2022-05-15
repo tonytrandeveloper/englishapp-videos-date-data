@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8DEZ4Kmygwk",
-            "title": "Nancy Pelosi Blames James Comey Letter For Hillary Clinton's Loss | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "JCOXaxN_haI",
             "title": "National Intelligence Director James Clapper Announces Resignation At House Hearing | NBC News",
             "secondDuration": 67,
@@ -121,8 +115,14 @@
             "title": "Conviction Episode 12: We're Going To Make It | Conviction | Dateline NBC",
             "secondDuration": 614,
             "group": "group_7"
+        },
+        {
+            "videoId": "f6xVoqGBD_U",
+            "title": "Power Of The Dinner Table: Every Thursday Is Like Thanksgiving Here | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

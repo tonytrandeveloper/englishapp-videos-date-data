@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1156XZTBJvQ",
-            "title": "3 US soldiers killed, 1 wounded in insider attack in Afghanistan",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "1xyixr0fmSU",
             "title": "One man takes to the skies for a tense and scary marriage proposal",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "All 3 London Bridge attackers have been identified",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y71tSCqvz54",
+            "title": "Andrea Constand takes the stand in the Bill Cosby sexual assault trial",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

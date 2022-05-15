@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z8Imh71sm60",
-            "title": "U.S. Army Releases Data Shows Troops Are Getting Vaccinated",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "l_NflSoj-Mc",
             "title": "Swimmer’s Records Spark Debate Over Trans Athletes In Women’s Sports",
             "secondDuration": 240,
@@ -121,8 +115,14 @@
             "title": "5 Killed As Storms, Tornadoes Move Across Midwest",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJY6eqh3Mek",
+            "title": "Climate Change In Guatemala: Between Starvation And Migration",
+            "secondDuration": 737,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

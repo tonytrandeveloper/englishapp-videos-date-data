@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "93CPO63n7Ss",
-            "title": "Elizabeth Warren releases Medicare for All plan l ABC News",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra_6YtyXMnQ",
             "title": "The Debrief: Maria fire burns California, Trump's new homestate, ISIS names leader | ABC News",
             "secondDuration": 1913,
@@ -31,8 +25,14 @@
             "title": "Snow, heavy rain, winds slam Midwest to East Coast | ABC News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "F2RQPVO-ibU",
+            "title": "ISIS names new leader, issues threat to US l ABC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

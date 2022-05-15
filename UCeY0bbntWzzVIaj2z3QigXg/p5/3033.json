@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tEP_RkTdivI",
-            "title": "Illinois Governor Expected To Announce Stay-At-Home Order | NBC News (Live Stream Recording)",
-            "secondDuration": 3163,
-            "group": "group_7"
-        },
-        {
             "videoId": "_E0I3mtF1BQ",
             "title": "Trump, White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
             "secondDuration": 9852,
@@ -31,8 +25,14 @@
             "title": "Pompeo Announces U.S. And Mexico Will Restrict Non-Essential Travel Across The Border | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "GnXLdEdVinI",
+            "title": "New York Governor Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
+            "secondDuration": 3097,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

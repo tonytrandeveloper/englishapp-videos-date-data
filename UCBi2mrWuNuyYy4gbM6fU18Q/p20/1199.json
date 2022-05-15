@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fPNxOR8bZVk",
-            "title": "CBS board to meet as CEO faces sexual misconduct allegations",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "r906ikuszjA",
             "title": "Deadly California fire burns over 90,000 acres",
             "secondDuration": 299,
@@ -121,8 +115,14 @@
             "title": "Hog farm searched for clues to missing University of Iowa student",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "kPJnlym5Na0",
+            "title": "Angela Bassett on the success of 'Black Panther'  and the #MeToo movement",
+            "secondDuration": 384,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

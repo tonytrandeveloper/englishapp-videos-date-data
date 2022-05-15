@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XcRqKvAEerk",
-            "title": "Blind Fencers Face Off",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "o57Vpcy2ly0",
             "title": "The Conversation: Recession Moralities",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Amplified: South by Southwest",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "YyBNVRN8zzM",
+            "title": "Russian Reporter Describes Subway Attack",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qgxge2Bc2Wc",
-            "title": "Mystery Virus Kills Little Boy in New Jersey",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "4NvLvfcUb80",
             "title": "A Behind-the-Scenes Look at Bringing 'Frozen' to Life",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Nearly 30,000 Fans Flock to LEGO Expo in Virginia",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMLleqyic_Y",
+            "title": "Coast Guard Rescues Man in Bubble",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

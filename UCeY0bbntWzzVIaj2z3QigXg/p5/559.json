@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0DKEiEATQTM",
-            "title": "One-On-One With U.S. Surgeon General As Covid Cases Rise",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_SNZo_U-5g",
             "title": "Airbus And Boeing Call For Pause On Rollout Of 5G",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Full Speech: Biden Announces Measures To Combat Omicron Variant",
             "secondDuration": 1325,
             "group": "group_7"
+        },
+        {
+            "videoId": "aGMTN2qhQJ4",
+            "title": "Biden Announces Purchase Of 500 Million At-Home Covid Tests For Americans",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AlVHebLMxCU",
-            "title": "Baseball Brings Hope And Unity To Puerto Rico After Hurricane Maria | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "-HdnQJ9MxAE",
             "title": "Ted Cruz And Beto O’Rourke Clash In First Debate For Texas Senate Seat | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Kavanaugh Accuser Agrees To Testify Before Senate Committee | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmLfwT8Dl1g",
+            "title": "Watch live: Trump holds campaign rally in Missouri",
+            "secondDuration": 4479,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

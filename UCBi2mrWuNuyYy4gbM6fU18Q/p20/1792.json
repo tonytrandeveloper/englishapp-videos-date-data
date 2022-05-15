@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z49LHoEuC-8",
-            "title": "Two Trains Collide Head On",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "-d3BPIb2mXM",
             "title": "Rescuers Attempt to Untangle Blue Whale From Fishing Line",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Tim Tebow Leads Prayer After In-Flight Emergency",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "TME9NoTIA3Q",
+            "title": "Bachelorette Season 12 Episode 8 Recap | ABC News",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

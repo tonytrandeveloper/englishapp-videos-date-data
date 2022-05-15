@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Jcz5rbY8Yb8",
-            "title": "Washington Post's Karen Tumulty on 'Top Line'",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "hBmJyzkAjCI",
             "title": "Dem Strategist: Immigration 'Dramtically Shifted'",
             "secondDuration": 619,
@@ -121,8 +115,14 @@
             "title": "Treacherous Mountain Climbing",
             "secondDuration": 570,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zh_oIE7a7EY",
+            "title": "Japan Rocks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

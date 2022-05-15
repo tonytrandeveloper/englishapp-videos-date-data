@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "kI-J_ENr4aY",
-            "title": "Under Fire in Ukraine: Kiev is a Combat Zone",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "qSI9K7cyl4g",
             "title": "Deadliest Day of Fighting in the Ukraine and America's Plan",
             "secondDuration": 211,
@@ -301,8 +295,14 @@
             "title": "'This Week': Extreme Weather Panel",
             "secondDuration": 468,
             "group": "group_7"
+        },
+        {
+            "videoId": "2baGfrwHqkU",
+            "title": "'This Week': Michael Sam's Breakthrough",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

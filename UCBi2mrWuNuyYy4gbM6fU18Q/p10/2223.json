@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JU1t2xisQpM",
-            "title": "New developments in urgent manhunt for suspected cop killer in CA",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRASuNEK1E8",
             "title": "The latest details in case against Kevin Spacey",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Suspected cop killer on the run in California",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "NonR2mPi4pw",
+            "title": "Dow Jones up 1,000 points after historic low Christmas Eve",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

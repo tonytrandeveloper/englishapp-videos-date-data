@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8N3MWbLxf-k",
-            "title": "How Dangerous Are the Risks of Flying in Hot Air Balloons?",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "4CG4iUmrOmE",
             "title": "Trump: 'I've Made a Lot of Sacrifices'",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "New Harry Potter Book Excites Fans",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ARvjSjepzs",
+            "title": "DC Intern Murder | New Evidence Emerges",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

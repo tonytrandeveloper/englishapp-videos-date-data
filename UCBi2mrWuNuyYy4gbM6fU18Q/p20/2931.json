@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ONerGHt8KpA",
-            "title": "Webcast: Magic Johnson Group Buying LA Dodgers",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "2QsqrZcoAKE",
             "title": "Kevin Smith - \"Tough Sh*t\"",
             "secondDuration": 291,
@@ -121,8 +115,14 @@
             "title": "Baby Beyonce, Possibly the World's Smallest Puppy, Appears on 'GMA' With Owner Beth Decaprio",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "ANkhJwaIOSU",
+            "title": "'The Hunger Games' Conquers 'Twilight' at Box Office With Record $155 Million Opening",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

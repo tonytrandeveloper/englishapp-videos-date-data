@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wGfWTFwHpoo",
-            "title": "Blizzard Warnings Threaten Holiday Air Travel",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "JTAT0qSd5I0",
             "title": "Retired Sandy Hook Principal Returns to Help Newtown Connecticut Community Heal",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Sandy Hook Elementary Shooting Leads to Deeper Look at The Aftermath of Gun Violence",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "E8pHXv0l8Q0",
+            "title": "Easy Bake Oven for Boys: Girl, 13, Helps Transform Easy-Bake Oven into Unisex Toy",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

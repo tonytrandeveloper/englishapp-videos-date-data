@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PFo7azCPNBs",
-            "title": "How To Talk To Kids About The Capitol Siege | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "x0ZWy5SiTVE",
             "title": "U.S. Economy Lost 140,000 Jobs In December | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "New York To Expand Covid Vaccine Distribution, Eligibility To Accelerate Process | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge62zgg0Zwk",
+            "title": "New York Gov. Andrew Cuomo Holds Briefing | NBC News",
+            "secondDuration": 5091,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

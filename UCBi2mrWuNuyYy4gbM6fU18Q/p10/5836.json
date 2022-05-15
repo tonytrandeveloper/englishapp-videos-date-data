@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iShrIY3GN6s",
-            "title": "Exclusive:  American Apparel CEO",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y_wirgxeXtU",
             "title": "Colorado Tornado Video: Survivors Dig Out",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "TV Anchors Moonwalk on ABC News",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "4I2JgzhUlZA",
+            "title": "Passengers Leave Delta Flight After Health Scare",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

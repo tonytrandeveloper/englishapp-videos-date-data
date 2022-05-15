@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tPapq7RJAas",
-            "title": "George Zimmerman Explains His Rationale for Auctioning Pistol That Killed Trayvon Martin",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "5LT1TXePZRE",
             "title": "Two Plane Crashes Within 2 Hours Kill 5 in Hawaii",
             "secondDuration": 34,
@@ -121,8 +115,14 @@
             "title": "Mother Accused of Child Abuse for Letting Her Kid Drive a Golf Cart",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "CAvAdOgVFzM",
+            "title": "Famous Iowa Septuplets Graduate From High School",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

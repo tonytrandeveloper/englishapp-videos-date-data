@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HbGuQaTvKHE",
-            "title": "Creative Post-it Battle Takes Over New York City Office Windows | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVJlQF1MJW4",
             "title": "Search for Missing EgyptAir Jet’s Black Boxes Intensifies | NBC Nightly News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Senator Bob Corker Downplays VP Talk After Donald Trump Meeting | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "C6rsdanCdHQ",
+            "title": "Oklahoma Student Walks For First Time During Graduation | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

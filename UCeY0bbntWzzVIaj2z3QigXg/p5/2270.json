@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "psJdL88WQ4o",
-            "title": "How To Fathom 200,000 American Deaths From Covid-19 | NBC Nightly News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "vgFpahvqHtQ",
             "title": "Climate Change’s Devastating Impact On West Coast Wildfires | NBC Nightly News",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Schumer: McConnell Has ‘No Right’ To Fill Ginsburg’s Seat Before Election | NBC News NOW",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "w7WElk7z2cs",
+            "title": "Joe Biden Delivers Remarks In Wisconsin | NBC News",
+            "secondDuration": 1564,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

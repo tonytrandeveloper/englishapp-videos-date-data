@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4THBt5r0cWM",
-            "title": "Mass Exodus of Haiti Quake Victims",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "7eyKVIC7oqs",
             "title": "Conan's Goodbye on 'Tonight'",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "John Edwards Admits to Love Child",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZM7fvTuiRic",
+            "title": "In Search of Tiger Woods",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

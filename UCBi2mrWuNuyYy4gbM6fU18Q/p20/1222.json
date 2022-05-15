@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2FhieIbkDns",
-            "title": "Hundreds protest police shooting death of teen in Pittsburgh",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Jtc0CBy8_w",
             "title": "As multiple patients sue, 'Dancing Doctor' defends videos",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Protests erupt after fatal police shooting of unarmed teen",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "RjA9fpzwl3M",
+            "title": "Trump uses immigration reversal to rally his base",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

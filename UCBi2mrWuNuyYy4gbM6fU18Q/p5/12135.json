@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DLWY_lqdo_4",
-            "title": "Yellowstone National Park Grizzly Bear Attack Leaves Hiker Dead",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "MA9b1tmb9IM",
             "title": "Casey Anthony Sentenced to 4 Years in Jail; $4,000 Fine",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Peggy Bunker Dazzled by Diamonds",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "rah0dpZ6-_U",
+            "title": "Grizzly Bear Attack in Yellowstone National Park",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

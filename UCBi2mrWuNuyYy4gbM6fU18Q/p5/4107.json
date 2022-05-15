@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WSlkyav1JTw",
-            "title": "Ryan Reynolds talks about switching it up in new movie 'Pikachu'",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "O3Yqx7pcD-4",
             "title": "Trump: Talks between US and China 'candid and constructive'",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Army sergeant reunites with sister at final baseball game after 3 years away",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "ByV1So1dWDI",
+            "title": "Bundy 20/20 Pt 4: Ted Bundy moves to Utah where one woman is able to escape from his grasp",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

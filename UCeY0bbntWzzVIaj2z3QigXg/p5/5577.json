@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q-8x99IRGDM",
-            "title": "President Donald Trump’s 'Relationship Building' Trip To Asia | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "R3cryAphAWE",
             "title": "New Disturbing Details In Green Beret Murder Case | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "New Evidence Found In Case Of Penn State Student Tim Piazza's Death | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "p4GXtevvBsg",
+            "title": "A Robotics Set That Lets Kids Bring Their Lego Creations To Life | Mach | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y1EX2--AO2g",
-            "title": "Scott Walker 'This Week' Interview",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "PYrvhmZIuhI",
             "title": "John F. Kennedy Remembered 50 Years After Assassination",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "2013 Governor's Awards Honors Angelina Jolie",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "90SgOD73CP4",
+            "title": "Thanksgiving Dinner for Rescued Turkeys",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pCerlpbYePc",
-            "title": "Tire Bursts Through Car Window on Highway",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "cyNpjEjcQWI",
             "title": "Plane Emergency Lands Without Gear",
             "secondDuration": 34,
@@ -61,8 +55,14 @@
             "title": "Boy Falls Off Roller Coaster in Pennsylvania",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "dp1DSIeuHXU",
+            "title": "JetBlue Flight Turbulence Severely Injures 24",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

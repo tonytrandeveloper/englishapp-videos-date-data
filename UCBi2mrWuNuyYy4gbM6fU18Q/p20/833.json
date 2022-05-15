@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nBLGDrpvq2Y",
-            "title": "NSA is withholding 'potentially relevant documents' to Ukraine: Rep. Schiff | ABC News",
-            "secondDuration": 527,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWc-pZ-T35A",
             "title": "Looking ahead to the impeachment fight | ABC News",
             "secondDuration": 362,
@@ -121,8 +115,14 @@
             "title": "Alleged highway sniper arrested in North Carolina",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "vB5iWS4575I",
+            "title": "More than a hundred million on alert for monster winter storm",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

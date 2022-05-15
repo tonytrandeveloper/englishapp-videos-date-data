@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JSOOXAvLddo",
-            "title": "Water Spout Hurls Bounce House and Injures Three Children",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "xLnw3bkpvVk",
             "title": "\"Bachelorette\" Forced to Eliminate Contestant Early",
             "secondDuration": 305,
@@ -61,8 +55,14 @@
             "title": "2015 Indy 500 Winner: Juan Pablo Montoya Wins Indianapolis 500",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "CO55m8_mPnI",
+            "title": "Veterans Stand Up",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

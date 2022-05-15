@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gTYOEUDyogk",
-            "title": "Los Angeles Set To Mandate Vaccines For Eligible Students",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "1wGCimynfHE",
             "title": "DOJ Announces Lawsuit Over Texas Abortion Law",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Biden Announces New Vaccine Requirement For Federal Workers, Large Employers, Healthcare Providers",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "WvKCHtydVM4",
+            "title": "Biden Addresses Plan To Stop Delta Variant, Boost Covid Vaccinations",
+            "secondDuration": 1866,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

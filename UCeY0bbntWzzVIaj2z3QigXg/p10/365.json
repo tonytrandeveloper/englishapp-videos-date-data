@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lUxTV7gt7eM",
-            "title": "SpaceX Crew-3 Astronauts Welcomed To ISS",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "5KbEZgxHK2k",
             "title": "Top Story with Tom Llamas - Nov. 11 | NBC News NOW",
             "secondDuration": 3039,
@@ -61,8 +55,14 @@
             "title": "How The U.S. and China Plan To 'Strengthen And Accelerate Climate Action And Cooperation’",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "pjTbdGbSJgc",
+            "title": "Trump Lawyers File Appeal To Block Release of Records to Jan. 6 Committee",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

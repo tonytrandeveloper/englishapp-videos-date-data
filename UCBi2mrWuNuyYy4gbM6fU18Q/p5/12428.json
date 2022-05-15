@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eVD3aEXAkO8",
-            "title": "Senator Kerry and Lugar on START",
-            "secondDuration": 663,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kphw3AYGvCY",
             "title": "Amanda Knox Awaits Appeal Decision",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Be the Change: The Tiniest Survivors",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "J8jlHEMl3O8",
+            "title": "Palin for President?",
+            "secondDuration": 437,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

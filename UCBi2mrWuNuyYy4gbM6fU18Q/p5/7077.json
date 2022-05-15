@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "m3Ez1aNlP-8",
-            "title": "Rudy Giuliani Denounces 'Islamic Extremist Terrorism'",
-            "secondDuration": 961,
-            "group": "group_7"
-        },
-        {
             "videoId": "snSwSJ7s-v0",
             "title": "Sen. Tom Cotton: 'Help Is on the Way'",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "Gov. Rick Perry Introduces Navy SEAL at RNC",
             "secondDuration": 607,
             "group": "group_7"
+        },
+        {
+            "videoId": "F7peEnmVnSo",
+            "title": "Republican Convention | Last-Ditch Effort to Stop Trump Fails",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

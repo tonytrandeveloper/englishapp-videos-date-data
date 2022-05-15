@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pZa9wv8QQ3Y",
-            "title": "Guy Grills Food Using Filing Cabinet | ABC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "N8xzlvD4qGE",
             "title": "Adele Has Credit Card Declined | ABC News",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "London Knife Attack | 19-Year-Old Arrested",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1VHkU-Ffuo",
+            "title": "Team USA Swimming Carpool Karaoke",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

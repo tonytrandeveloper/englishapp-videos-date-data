@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jKLWHpCu8xA",
-            "title": "Marco Rubio: Dems' Worst Nightmare",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZLkwMRVw6dc",
             "title": "Moderate GOPs 'Went the Way of the Buffalo'",
             "secondDuration": 574,
@@ -121,8 +115,14 @@
             "title": "Interview with Bill Clinton (Part 2)",
             "secondDuration": 747,
             "group": "group_7"
+        },
+        {
+            "videoId": "DUx_Kr-Qjn0",
+            "title": "Volcanic Disruption Spreads",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

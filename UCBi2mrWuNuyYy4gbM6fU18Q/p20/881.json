@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2QzLRBAAvh0",
-            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "keZC9S-lE0w",
             "title": "Trump impeachment hearing key moments: Day 1",
             "secondDuration": 230,
@@ -121,8 +115,14 @@
             "title": "Opening statements in first public impeachment hearing | ABC News",
             "secondDuration": 1397,
             "group": "group_7"
+        },
+        {
+            "videoId": "uo6PrCLfuVo",
+            "title": "Democrats say witnesses carry strong evidence in impeachment inquiry l ABC News",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

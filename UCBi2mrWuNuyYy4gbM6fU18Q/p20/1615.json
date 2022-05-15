@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QzeJzwObWsE",
-            "title": "NYC Murder Mystery | 2 Suspects to Appear in Court",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZnnPjRpdWk",
             "title": "4 Officers Shot Overnight",
             "secondDuration": 39,
@@ -121,8 +115,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "aawSMBaLAu8",
+            "title": "Trump Transition Team Announces Sen. Jeff Sessions as AG Nominee",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

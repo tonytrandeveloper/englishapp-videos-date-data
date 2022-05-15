@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "poJbtNC6QSY",
-            "title": "President Trump's attorney discusses Mueller report findings",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvelBsnijBc",
             "title": "A second student from Marjory Stoneman Douglas High has died in apparent suicide",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "President Trump claims 'complete and total exoneration' after Mueller report",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "YonHpUi05Rw",
+            "title": "SPECIAL REPORT: Attorney General Barr delivers Mueller report's main conclusions",
+            "secondDuration": 2247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

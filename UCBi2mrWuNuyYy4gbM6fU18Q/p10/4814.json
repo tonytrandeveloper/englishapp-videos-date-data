@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LXWqBwX38Is",
-            "title": "Dramatic Fire Rescue in Houston",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qp3xz-w1jvs",
             "title": "World News Now Says Farewell to Marci Gonzalez",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Officials Update the Investigation of Missing Malaysia Airlines Plane",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "pOti57fyICI",
+            "title": "WEBCAST: Search Suspended",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

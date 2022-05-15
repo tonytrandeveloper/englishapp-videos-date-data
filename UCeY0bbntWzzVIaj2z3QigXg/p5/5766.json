@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BKshx1qHfB8",
-            "title": "President Donald Trump Claims Paul Ryan, Mitch McConnell On Board With Potential DACA Fix | NBC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "406ZXQp5fEI",
             "title": "One Student Killed, Three Injured In Washington State School Shooting | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "At Least Eight Dead At Florida Nursing Home After Hurricane Irma Cut Power | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "pcb-wPY8lUk",
+            "title": "Saint Peter’s Bone Fragments Possibly Discovered At Roman Church | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

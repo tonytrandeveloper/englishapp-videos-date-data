@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OdThkqKU2gQ",
-            "title": "Aurora, Colorado Victims: Remembering Jessica Ghawi",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "PpIDp2KPlcg",
             "title": "Aurora, Colorado Movie Theater Shooting Heroism",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "Colorado Shooting: Debate Over 'Soft' Terror Targets",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "BEI4FmnCqZ0",
+            "title": "Aurora, Colorado Shooting: The Next Day",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

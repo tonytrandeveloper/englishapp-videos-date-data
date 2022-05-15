@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QrQLRMDzftw",
-            "title": "Full Surgeon General: 'There Is No Magic Bullet' To Stop Spread Of COVID-19 | Meet The Press",
-            "secondDuration": 568,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUeNnCGd4TE",
             "title": "Full Panel: Who Is In Charge Of The Federal Response? | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -61,8 +55,14 @@
             "title": "Inside A Major Coronavirus Vaccine Effort That Hopes To Start Early Production  | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "LoDcL0XyZ_A",
+            "title": "Trump Says Next Week Will Be The Worst Yet: ‘There Will Be A Lot Of Death’ | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

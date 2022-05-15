@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nofUeNU5XZw",
-            "title": "Taliban Video Shows Captured U.S. Soldier",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "D0wTVLF0d8o",
             "title": "Identical Triplets Survive House Fire",
             "secondDuration": 468,
@@ -121,8 +115,14 @@
             "title": "Anatomy of the Lunar Module",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tpe-gKbGnbQ",
+            "title": "Breakdown of Apollo 11",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

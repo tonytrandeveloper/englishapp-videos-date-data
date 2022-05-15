@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m5kuGnvuGGI",
-            "title": "Papal Conclave 2013: Cardinals Take Oath of Secrecy - ABC Digital Report",
-            "secondDuration": 1989,
-            "group": "group_7"
-        },
-        {
             "videoId": "f7m_wb_xFQU",
             "title": "Papal Conclave 2013: First Day of Voting Ends, No New Pope - ABC Digital Report",
             "secondDuration": 1010,
@@ -61,8 +55,14 @@
             "title": "Papal Conclave Countdown: Discovering the Meaning of Miracles",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "dAtUiwWcWhA",
+            "title": "Cardinal Wilfrid Napier on the Papal Conclave",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "adUuWUgYHw4",
-            "title": "Girl, 5, Swims With Sharks: Caught on Tape",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "oAGgdH8M0e8",
             "title": "Grandma Murder Trial: Grandson's 911 Call",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Iran Threat to Oil Route",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "YZ5jVm206h8",
+            "title": "New Car Sensor Warns Drivers Before Accident",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

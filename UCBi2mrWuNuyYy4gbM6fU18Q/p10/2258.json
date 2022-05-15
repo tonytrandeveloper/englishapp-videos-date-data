@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7Rp39z_DGb8",
-            "title": "Powerful storms impacting holiday travels",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "X9N3fqK-y18",
             "title": "Tensions rise in violence at border town of Tijuana",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Family of man shot, killed by police demands answers",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "GnOnCvZFnCE",
+            "title": "New book gives behind-the-scenes look at Trump White House",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

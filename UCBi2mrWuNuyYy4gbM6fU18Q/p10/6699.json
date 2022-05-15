@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bL-PBD5agnI",
-            "title": "'GMA' Behind the Scenes",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "OBXUkUNogo0",
             "title": "Your Swine Flu Questions Answered",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Dr. Tim Johnson: Swine Flu Not Lethal",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "JF2WKx-8LL8",
+            "title": "Chrysler's Extreme Business Makeover",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

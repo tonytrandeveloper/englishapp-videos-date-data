@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pq9pU2Jj77Y",
-            "title": "Houston Hotel Fire Kills Firefighters During Enormous Blaze",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjsKnc3o_5c",
             "title": "American Mom Freed From Mexican Jail",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "ABC Early Morning News",
             "secondDuration": 11,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jyr516h3NoM",
+            "title": "Yanira Maldonado Freed From Mexican Jail",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

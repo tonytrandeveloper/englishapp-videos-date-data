@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BjKwQ_EyRa8",
-            "title": "Facebook, Twitter Remove Anti-Ukrainian Disinformation Accounts From Platform",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "TJHeltDiUfs",
             "title": "Ukrainian Ambassador Reads Texts From Russian Soldier Before He Was Killed",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Feb. 27",
             "secondDuration": 1283,
             "group": "group_7"
+        },
+        {
+            "videoId": "0-0MndmcWac",
+            "title": "The Long-Term Effects of Covid",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

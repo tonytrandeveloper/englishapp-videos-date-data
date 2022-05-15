@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2krMTTST6Ns",
-            "title": "Man posthumously awarded Medal of Honor in fight against Al-Qaeda",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "GqO48Bl9LdU",
             "title": "Trump's defiant stand after two stunning legal blows",
             "secondDuration": 284,
@@ -31,8 +25,14 @@
             "title": "Cohen now cooperating with Mueller",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQkvhfZLyLk",
+            "title": "White House press briefing likely on Manafort verdict, Cohen Plea deal | ABC News",
+            "secondDuration": 2541,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atRHAE8Hwow",
-            "title": "Best of Jimmy Kimmel, Conan O' Brien, Seth Meyers and More!",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "n2S1Se9asTY",
             "title": "Autism: Yoga Therapy Helps Students on Spectrum",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "Aaron Hernandez Murder Trial: Explosive New Evidence",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "ohYjzu_4VVE",
+            "title": "Insta-ly Famous: Models Discovered Through Instagram",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

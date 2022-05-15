@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9-4bL2numSU",
-            "title": "Morning News NOW Full Broadcast - Dec. 16",
-            "secondDuration": 3086,
-            "group": "group_7"
-        },
-        {
             "videoId": "9fNSwmIYr8w",
             "title": "Harris Announces Plan To 'Significantly Accelerate The Removal Of Lead Pipes'",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Arkansas Server Fired After $4,400 Tip Dispute",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "vkY5ib356L8",
+            "title": "NOW Tonight with Joshua Johnson Full Episode - Dec. 15 | NBC News NOW",
+            "secondDuration": 3098,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

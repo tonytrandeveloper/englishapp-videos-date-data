@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7QNJyAIprhg",
-            "title": "Dallas Police Sniper Ambush | Video of Chaos After Snipers Kill 5 Officers",
-            "secondDuration": 570,
-            "group": "group_7"
-        },
-        {
             "videoId": "WPht2nZBlLI",
             "title": "Dallas Shooting | Panic and Chaos in Texas",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "Snipers Fire at Police at Dallas Protest | 5 Officers Killed, 12 Shot",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "PEjipYKbOOU",
+            "title": "Philando Castile Police Shooting Video Livestreamed on Facebook",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

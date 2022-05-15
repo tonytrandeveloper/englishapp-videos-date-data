@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eIofsiCtxrQ",
-            "title": "Misty Copeland's Hard-Fought Journey to Ballet Stardom",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "iua1XnCJqUY",
             "title": "Shark Attack Surge in Carolinas: What Could Be Causing It",
             "secondDuration": 416,
@@ -121,8 +115,14 @@
             "title": "New Fallout For Bill Cosby",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gzd8Oxtj4xU",
+            "title": "A Whole City Turns Out to See the Pope",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R3nLX2faXYI",
-            "title": "Person of the Week: Waiting for Superman",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "UTDCgOvVOx8",
             "title": "Colbert Humors, Annoys Congressmen",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Katy Perry Cut From 'Sesame Street'",
             "secondDuration": 379,
             "group": "group_7"
+        },
+        {
+            "videoId": "EecndOgekd8",
+            "title": "Jake Tapper on Ahmadinejad's U.N. Speech",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

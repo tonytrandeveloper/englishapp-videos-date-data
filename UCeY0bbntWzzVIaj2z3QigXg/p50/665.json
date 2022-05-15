@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oT5NEW1zOso",
-            "title": "Bill Clinton Makes Political History in Role Reversal at DNC | NBC Nightly News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "xMOosSADCKg",
             "title": "California Wildfire Destroys Homes, Forces Thousands to Evacuate | NBC Nightly News",
             "secondDuration": 141,
@@ -301,8 +295,14 @@
             "title": "Mitch McConnell on Donald Trump: 'He's Beginning To Be A Real Presidential Candidate' | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZunwtNVcPY",
+            "title": "Scott Walker: Hillary Clinton, The Ultimate Washington Insider | NBC News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

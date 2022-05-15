@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IdxlKCoKSjI",
-            "title": "Gas Prices On The Rise, Distressing Drivers | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "gcpyNecYzaU",
             "title": "FAA Orders Emergency Inspections After Southwest Engine Explosion | NBC Nightly News",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Legalization Of Recreational Marijuana Gaining Support On 4/20 | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "aL5ImOlVNok",
+            "title": "Students Rally For Gun Reform On Columbine Anniversary | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

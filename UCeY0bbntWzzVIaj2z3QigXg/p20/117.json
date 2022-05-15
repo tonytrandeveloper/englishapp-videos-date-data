@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gu4CISy_-pQ",
-            "title": "Video Game Giant Activision Blizzard Faces Worker Walkout",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnFRTx8tVfM",
             "title": "Ohio Supreme Court Battles Partisan Gerrymandering In Redistricting Process",
             "secondDuration": 310,
@@ -121,8 +115,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 2341,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ILii-zIuSs",
+            "title": "Biden Announces More Federal Help To Hospitals During Covid Surge",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

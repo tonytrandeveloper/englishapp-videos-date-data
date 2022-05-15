@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZfZjwrSWOo0",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 1020,
-            "group": "group_7"
-        },
-        {
             "videoId": "jzBlpRhZXZk",
             "title": "'This Week': Marijuana Legalization",
             "secondDuration": 380,
@@ -31,8 +25,14 @@
             "title": "Chris Christie Reacts to New Bridge Scandal Accusations",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "AFf_Hz7dy4k",
+            "title": "New Theories Develop Around Missing Texas Woman",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

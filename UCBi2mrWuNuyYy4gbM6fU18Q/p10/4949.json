@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NjPDnD3ASEI",
-            "title": "Lung Transplant Recipient's Quest to Know Donor",
-            "secondDuration": 443,
-            "group": "group_7"
-        },
-        {
             "videoId": "znkG4lw8n4w",
             "title": "One Life Lost, Another Saved",
             "secondDuration": 467,
@@ -61,8 +55,14 @@
             "title": "Thanksgiving Storm Causes Flight Cancellations",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "iSo7i0oHLOU",
+            "title": "Thanksgiving Soup Kitchen Meals Prepared by Culinary Master",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

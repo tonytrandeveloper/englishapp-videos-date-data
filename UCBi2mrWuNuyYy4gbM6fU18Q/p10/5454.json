@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qA7bnzB_boU",
-            "title": "James Carville and Mary Matalin Answer 'This Week' Viewer Questions",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "j1287bNPR8Q",
             "title": "NFL Faces Joshua Price-Brent Conviction, Jovan Belcher Murder-suicide: 'This Week' Roundtable",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "Same Sex Marriage Supreme Court Case",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncp41kjhkxw",
+            "title": "Mitt Romney Concedes to President Obama: 2012 Election Night Photo",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gODQnewLPS4",
-            "title": "Watch Live: President Donald Trump Delivers Remarks At Trafficking Taskforce Meeting | NBC News",
-            "secondDuration": 705,
-            "group": "group_7"
-        },
-        {
             "videoId": "5wRTFcyCw0c",
             "title": "5 New York Doctors Charged With Prescribing Unnecessary Opioid Pills | NBC News",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Accuses Hillary Clinton Campaign Of Russian Collusion | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "KVXVo-jEAbM",
+            "title": "Space-Bound Rocket Carrying U.S., Russian Astronauts Fails After Liftoff | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

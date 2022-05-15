@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fjboDxEWjCg",
-            "title": "Mindy McCready Ignores New Court Order",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZpEgAI7Yla0",
             "title": "'Virgin Diaries' on TLC: The Life of an Adult Virgin",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Newt Gingrich One-on-One",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "GkUp01S6U90",
+            "title": "Newt Gingrich Rises as Herman Cain Falls: Mitt Romney Brings Heat to New Iowa Frontrunner",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

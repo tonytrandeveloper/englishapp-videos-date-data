@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JaXNKGIQimM",
-            "title": "The Real Modern Family",
-            "secondDuration": 494,
-            "group": "group_7"
-        },
-        {
             "videoId": "jKNyKV8BEXE",
             "title": "FBI Recreates Failed Times Square Bombing",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Can Obama Rally His Base?",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "zpf4zRz56tU",
+            "title": "Assessing the Terror Threat in Europe",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

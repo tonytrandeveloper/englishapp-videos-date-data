@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E66CGSmor04",
-            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "WbZbRBMxpCA",
             "title": "Martin Luther King Assassination Witness Clara Ester Speaks Out, 50 Years Later | NBC Nightly News",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Shooting At YouTube HQ In California: Suspect Dead And Injuries Reported | NBC News",
             "secondDuration": 4078,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aq5TiKqspgs",
+            "title": "Authorities: Four Gunshot Victims In YouTube Shooting | NBC News",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

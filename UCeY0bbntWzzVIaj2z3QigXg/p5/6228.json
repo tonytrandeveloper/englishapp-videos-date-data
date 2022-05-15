@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T7koohD8LPY",
-            "title": "Captain Lands Plane After Co-Pilot Suffers Fatal Heart Attack | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "BIA5tMTDxNQ",
             "title": "Inspiring America: Customer Offers To Pay For Worker’s Education | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Domino's Droid Robot Delivers Pizza Right To Your Doorstep | Mach | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "oA1do7-QlNc",
+            "title": "Senate Intel Hearing: ‘Ample Examples’ Of Russian Interference In European Elections | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

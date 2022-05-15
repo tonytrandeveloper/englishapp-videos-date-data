@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iWhgln6qCwU",
-            "title": "Strange Brew at the Executive Mansion",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "SEIQ4cpDnPM",
             "title": "'Cash for Clunkers' Running out of Gas?",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Boy's Bold Attempt to Avoid Going to Church",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "5bCzK3Oo4zg",
+            "title": "Pregnant and in Peril",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

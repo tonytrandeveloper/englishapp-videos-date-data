@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SeEweWGfALM",
-            "title": "‘Justice For All’: Victims Demand Their Voices Be Heard | NBC Nightly News",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "pfP8kS6wVRs",
             "title": "Mechanic Tampered With American Airlines Plane Before Flight, Feds Say | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Hurricane Dorian Hits Coast Of North Carolina | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "CU6lVvrTL5A",
+            "title": "Satellite Images, Before And After Dorian, Reveal Extent Of Destruction In Bahamas | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

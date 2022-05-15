@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VBOlUc8GXSk",
-            "title": "Boston Strong One Year after Terror Attack",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "UeOM0jgmRdw",
             "title": "WEBCAST: Blood Moon",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Crime of Hate: 3 Killed at a Jewish Community Center Outside of Kansas City",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "rnflJHmMiyQ",
+            "title": "Extreme Weather All Over the Country, Could Snow Be on the Way?",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NHqCQAtSnqI",
-            "title": "Canyoneering to Uncharted Depths",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q7BcpsbBlew",
             "title": "Big Fat Experiment: Participants Paid to Eat Fast Food",
             "secondDuration": 329,
@@ -121,8 +115,14 @@
             "title": "American Airlines Seats Shake Loose in Flight",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "7HFYLelnfZo",
+            "title": "First Presidential Debate Archive: Do's and Don'ts",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

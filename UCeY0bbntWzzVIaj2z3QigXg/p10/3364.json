@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tFJdeQ2UcOM",
-            "title": "Tom Brokaw Awarded Legion of Honor in France | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "dS9nXjLQgiE",
             "title": "FDA Rolls Out New Nutrition Labeling for First Time in 20 Years | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Morley Safer, Legendary Correspondent, Dies at Age 84 | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "7X-KKxtYLEk",
+            "title": "Hillary Clinton: Donald Trump Is ‘Not Qualified’ To Be President | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

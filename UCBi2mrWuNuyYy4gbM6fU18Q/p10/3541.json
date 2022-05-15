@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p3_hvKVMvM4",
-            "title": "Trump vs Clinton: What Do New Yorkers Think? | Election Cycle",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYB3ZrODrA8",
             "title": "Loretta Lynch Condemns Police Attacks in Baton Rouge",
             "secondDuration": 279,
@@ -61,8 +55,14 @@
             "title": "Republican Convention 2016  | What Trump Hopes to Accomplish",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "C6JURGUHnBk",
+            "title": "Republican National Convention | Behind the Scenes",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

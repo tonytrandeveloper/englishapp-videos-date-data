@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U_j6lRsr4Aw",
-            "title": "Trump Campaign Manager Kellyanne Conway on VP Debate",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "2glspVAuurw",
             "title": "Matt Shoemaker Hit by Line Drive, Undergoes Brain Surgery",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "LA Sheriff's Sergeant Killed Answering Burglary Call",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "RaXpdGHmhHU",
+            "title": "Hurricane Matthew Batters the Bahamas",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

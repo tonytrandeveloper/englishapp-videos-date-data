@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "adYJqXqmMSg",
-            "title": "Obama in Cuba: Vows to 'Bury Last Remnants of Cold War' [FULL SPEECH]",
-            "secondDuration": 2037,
-            "group": "group_7"
-        },
-        {
             "videoId": "OQRJm4h2Stk",
             "title": "Belgian Terror Attack | Possible Suspects Identified by Police",
             "secondDuration": 30,
@@ -61,8 +55,14 @@
             "title": "Belgian Terror Attacks | At Least 26 Killed in Explosions",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "FLP0XjAKsWI",
+            "title": "Belgian Terror Attacks | Explosions Reported at Belgian Airport, Subway [BREAKING NEWS]",
+            "secondDuration": 1172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

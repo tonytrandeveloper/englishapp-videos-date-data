@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "olrV9UDHYsI",
-            "title": "Blizzard 2013: Nor'easter Weather Shuts Down Parts of Connecticut, Massachusetts",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "J2gQnb1oUKM",
             "title": "Christopher Dorner: Massive Manhunt Continues",
             "secondDuration": 361,
@@ -31,8 +25,14 @@
             "title": "The Boy in the Bunker",
             "secondDuration": 485,
             "group": "group_7"
+        },
+        {
+            "videoId": "jFP5ObuqI-0",
+            "title": "Saved! Getting Ethan Out",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

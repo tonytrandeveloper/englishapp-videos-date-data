@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QEx3IhATTDg",
-            "title": "Boy, 6, reads football coach a letter of thanks l ABC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "dmJia9jwJ7k",
             "title": "Woman accused of encouraging college boyfriend to kill himself",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Fire crews battle raging infernos in California | ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Zcosdg2NiI",
+            "title": "Political impact and terror threats in the wake of Baghdadi's death | ABC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "1HfUsPaIRWY",
-            "title": "The Briefing Room: Biden running, 2020 women of color, Flint water crisis 5 years later | ABC News",
-            "secondDuration": 1801,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wszhtaslvy4",
             "title": "'Modern Baby': Follow four families on their IVF journeys | FULL DOCUMENTARY",
             "secondDuration": 2890,
@@ -301,8 +295,14 @@
             "title": "Increased security at US churches in wake of Sri Lanka",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "0Hx8D913AHE",
+            "title": "Terrorist attack in Sri Lanka leaves more than 200 dead",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

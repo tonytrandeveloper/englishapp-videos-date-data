@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ka80r1al5kc",
-            "title": "President Obama's Defining Moment on Syria",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yp1p0s1RbfM",
             "title": "WEBCAST: Tallest Ferris Wheel",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "George Zimmerman Wife's 911 Call: Shellie Zimmerman Says: 'I'm Really Scared'",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvBgdzW6UKQ",
+            "title": "Serena Williams Interview 2013: Tennis Star Wins at 2013 US Open; Discusses Fifth Championship",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1b9NCo98XNk",
-            "title": "Mystery Of The Moon’s Formation May Finally Be Solved | Mach | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "sSggMZPSdeQ",
             "title": "House Speaker Nancy Pelosi: ‘I Was Heartbroken To Say’ AG William Barr Committed A Crime | NBC News",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Drone Video Captures Record Flooding In Iowa | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "sD9d3TUYHNo",
+            "title": "Democratic Presidential Candidate Joe Biden In Iowa: China ‘Not In Competition For Us’ | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

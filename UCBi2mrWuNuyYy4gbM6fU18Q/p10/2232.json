@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jegUNn2pddI",
-            "title": "Flynn sentencing delayed after attack from federal judge",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "SwsKHjV3k9Y",
             "title": "Body cam video shows moment police breached Las Vegas shooter's hotel room: Part 1",
             "secondDuration": 546,
@@ -61,8 +55,14 @@
             "title": "New bodycam video shows dramatic moments of  Las Vegas shooting",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMb4pT_KlVU",
+            "title": "Ex-NASA engineer uses glitter to thwart package thieves",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

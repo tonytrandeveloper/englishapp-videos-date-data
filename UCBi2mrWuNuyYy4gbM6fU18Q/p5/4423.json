@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qhe75Oi6RYg",
-            "title": "The Debrief: Shutdown showdown, American arrested in Syria, suspect in Jazmine Barnes' killing",
-            "secondDuration": 1495,
-            "group": "group_7"
-        },
-        {
             "videoId": "2TXOTStNLow",
             "title": "Torrential rain, winds and mudslides slam the West Coast",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "More than 800,000 government workers are without a paycheck",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "mGWsFXBv8mk",
+            "title": "Eric Black charged with capital murder in the death of Jazmine Barnes",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-kof18HkBp0",
-            "title": "Zika Warning Issued for Miami Beach Area",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ICcHxjJTWrg",
             "title": "What Happened to Ryan Lochte in Rio Olympics? | 2nd Hand News",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Campaign Manager Kellyanne Conway Talks Strategy",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "-RpAxMMRHYI",
+            "title": "Ryan Lochte's Rio Robbery Scandal",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

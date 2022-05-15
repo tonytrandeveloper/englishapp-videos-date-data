@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kLs3WWTlFgk",
-            "title": "Hurricane Irma: Mass Evacuations Underway In South Florida | NBC Nightly News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "LlPAfEELGYM",
             "title": "Hurricane Irma: At Least 3 Dead In Caribbean Islands, Heads Toward Puerto Rico | NBC Nightly News",
             "secondDuration": 194,
@@ -31,8 +25,14 @@
             "title": "With Irma On The Way, FEMA's About To Run Out Of Money | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "JrN9Peolkx4",
+            "title": "Delivery Startup Uses Social Media To Connect The Community | NBC Asian American",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

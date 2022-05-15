@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0kUnJv5rBEs",
-            "title": "Several Major Websites Go Down In Widespread Internet Outage",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "qC3RJMJHMd8",
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 3255,
@@ -61,8 +55,14 @@
             "title": "Pollution Concerns In Florida Grow Over Return Of Big Cruise Ships",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "NhtNk-Xtqh0",
+            "title": "Watch: Dust Devil Pitch Invasion Disrupts Bolivian Soccer Match",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K9ItQohDzrA",
-            "title": "House Judiciary Committee debates articles of impeachment | ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "CGTmWcbYURo",
             "title": "Harvey Weinstein inks $47M settlement without admitting wrongdoing l ABC News",
             "secondDuration": 287,
@@ -61,8 +55,14 @@
             "title": "Family files lawsuit against cruise line after toddler’s death l ABC News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "fygafn85480",
+            "title": "Greta Thunberg is Time’s Person of the Year l ABC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

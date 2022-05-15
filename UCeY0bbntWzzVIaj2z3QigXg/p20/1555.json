@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QZxa1tomAP8",
-            "title": "Syria Chemical Attack Massacre: Hundreds Killed And Injured | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "bym4Tsm36xs",
             "title": "North Korean Defector To Lester Holt: I'm A Marked Man | NBC Nightly News",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Jared Kushner Makes A Surprise Trip To Iraq | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUIrARmg06Q",
+            "title": "At Least 11 Dead, Dozens Injured In St. Petersburg Subway Explosion | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

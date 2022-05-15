@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dCDEob5MUgw",
-            "title": "Looks You Can Take to the Bank",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "QS4PhWQzBJc",
             "title": "Unemployment Down, Gas Prices Up",
             "secondDuration": 360,
@@ -31,8 +25,14 @@
             "title": "TED: Ideas Worth Spreading",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "OttqMTDIUFw",
+            "title": "Manufacturing Workers Are \"Persons of the Week\"  | David Muir | Made In America",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

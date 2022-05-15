@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TurzPN8CF5c",
-            "title": "Hurricane Harvey: Veteran Houston Police Officer Among The Dead | NBC Nightly News",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "tBVmkDoR-fk",
             "title": "Pastor Joel Osteen Opens Megachurch to Flood Victims After Criticism | NBC News",
             "secondDuration": 78,
@@ -301,8 +295,14 @@
             "title": "Texans Leave Everything Behind to Find Shelter From Harvey | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "OL_EqWIyHSY",
+            "title": "Watch Dramatic Video From Inside the Eye of Hurricane Harvey | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

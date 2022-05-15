@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E66CGSmor04",
-            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "WbZbRBMxpCA",
             "title": "Martin Luther King Assassination Witness Clara Ester Speaks Out, 50 Years Later | NBC Nightly News",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Defends Embattled EPA Chief Scott Pruitt | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "VUn9snUkbH0",
+            "title": "President Donald Trump Cracking Down On Illegal Immigration | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

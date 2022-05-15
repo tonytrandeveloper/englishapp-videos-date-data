@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tAM6e1LcD30",
-            "title": "Attorney General Jeff Sessions says he will stay in his job",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "tpQfsKcY7Us",
             "title": "Attorney for family of Australian woman killed by police calls for justice",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "A magical family vacation and Mickey Mouse's surprise",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "tHyZoXC07t0",
+            "title": "Surviving the Inferno: Escaping Grenfell Tower",
+            "secondDuration": 1635,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

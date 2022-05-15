@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NE9G830exA8",
-            "title": "Police search LA mall for reported gunman",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsY2Zd65hoE",
             "title": "United against hate in the wake of deadly mosque attack",
             "secondDuration": 60,
@@ -121,8 +115,14 @@
             "title": "Giant storm sweeps across the country",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "57kMM3J5h6s",
+            "title": "Trump, FAA ground Boeing Max 8 and Max 9 planes in US",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ELe51zHVcV8",
-            "title": "WEBCAST: First Family Holiday",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "y-8BvbeV0Vo",
             "title": "Fiscal Cliff: Let's Make a Deal",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "Same Sex Marriage Supreme Court Case",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncp41kjhkxw",
+            "title": "Mitt Romney Concedes to President Obama: 2012 Election Night Photo",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

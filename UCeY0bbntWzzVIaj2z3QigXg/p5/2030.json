@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KEq28SPuXVM",
-            "title": "California Gov. Newsom Holds Covid-19 Briefing | NBC News",
-            "secondDuration": 4961,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vy9kqPDli7s",
             "title": "Cuomo: Hospital Capacity ‘The Top Concern’ In New York’s Latest Covid Battle | NBC News NOW",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Jon Ossoff Accuses Sen. Perdue Of 'A Pattern Of Misconduct And Self-Dealing' | NBC News NOW",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "NH-M_sLPZrs",
+            "title": "Supreme Court Hears Arguments On Plan To Exclude Undocumented Immigrants From Census | NBC News",
+            "secondDuration": 5616,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

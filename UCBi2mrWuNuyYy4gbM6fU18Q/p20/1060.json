@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8OBYmFgi2u8",
-            "title": "New questions arise about the safety of Boeing 737 MAX jets",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "qVuDfQ0I7w4",
             "title": "Death toll rises after cyclone drowns Mozambique",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Two killed, dozens injured after charter bus rolls over on foggy interstate",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPlO86cGngI",
+            "title": "Teen sues for not being allowed to attend class without chicken pox vaccine",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

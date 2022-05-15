@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mz9UChyRjxI",
-            "title": "Hillary Clinton Wins New York Democratic Primary",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "kADCLp0mdHQ",
             "title": "Presidential Candidates Battle for New York",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "NYPD Officer Peter Liang Receives No Jail Time in Manslaughter Ruling",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "ib8Rh9bv0so",
+            "title": "FBI Hacks iPhone | Finds Answers Regarding San Bernardino Terrorists",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

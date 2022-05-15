@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "FLP0XjAKsWI",
-            "title": "Belgian Terror Attacks | Explosions Reported at Belgian Airport, Subway [BREAKING NEWS]",
-            "secondDuration": 1172,
-            "group": "group_7"
-        },
-        {
             "videoId": "FUBXfwkn5vI",
             "title": "Brussels Airport Explosion Aftermath [RAW VIDEO]",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "North Korea Fires Missiles Into Sea of Japan",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "jaBebqcduNU",
+            "title": "Adam LaRoche Starts Conversation on Family, Work",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

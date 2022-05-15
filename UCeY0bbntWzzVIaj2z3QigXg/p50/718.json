@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "klUb28Wa4Zw",
-            "title": "The Space Race | Flashback | NBC News",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "kvO7l7r-JU0",
             "title": "Ebola Response Has Texas Hospital In Hot Seat | NBC News",
             "secondDuration": 394,
@@ -301,8 +295,14 @@
             "title": "Netanyahu Responds To White House Slam | NBC News",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "xKnpHsnsjnI",
+            "title": "U.S. Ebola Case: Rick Perry Reassures Texans | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

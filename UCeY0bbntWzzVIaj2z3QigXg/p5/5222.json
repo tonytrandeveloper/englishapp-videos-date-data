@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5fhBNEQny4w",
-            "title": "President Donald Trump On Austin bombings: ‘We Will Get To The Bottom Of It’ | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "5jsRa0dFJcE",
             "title": "The Complicated Ethics Of Self-Driving Cars | Think | NBC News",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "Officials Confirm A Package Exploded At Texas FedEx Facility | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "TxB2hv70SGE",
+            "title": "Police On Scene At School Shooting In Great Mills, Maryland | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

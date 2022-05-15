@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y6egM9QaINk",
-            "title": "Children’s Hospital of Milwaukee Provides Update After Christmas Parade",
-            "secondDuration": 1152,
-            "group": "group_7"
-        },
-        {
             "videoId": "C4FFWGCxsZ4",
             "title": "Morning News NOW Full Broadcast - Nov. 22",
             "secondDuration": 2929,
@@ -121,8 +115,14 @@
             "title": "Full Panel: 'Stand Your Ground' Wins A Victory in Rittenhouse Trial",
             "secondDuration": 536,
             "group": "group_7"
+        },
+        {
+            "videoId": "3o-HsF9fiPU",
+            "title": "Full Buttigieg Interview: 'We’re Very Confident In The Safety Of Air Travel'",
+            "secondDuration": 532,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

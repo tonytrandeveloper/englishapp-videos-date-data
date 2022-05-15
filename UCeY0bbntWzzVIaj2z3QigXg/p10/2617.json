@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FRZIWC2ZPTo",
-            "title": "Why YouTube Boosted Conspiracy Theory Videos In The Wake Of The Parkland Shooting | Mach | NBC News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "O3tEEelE5kA",
             "title": "'Overwhelmingly Clear' Russia Behind Former Spy's Poisoning, U.K. Minister Says | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "FDA Proposes Lowering Amount Of Nicotine In Cigarettes | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "UDWw-Zjwxaw",
+            "title": "U.S. Troops Who Came Under Fire From Russian Mercenaries Prepare For More Attacks | NBC Nightly News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DlrsBNnbdPE",
-            "title": "Election 2016 Recounts Gains Momentum",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "KRsAbScMzm4",
             "title": "OSU Attacker Facebook Rant Investigated",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Church Shooting Suspect Can Act as His Own Attorney, Judge Rules",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZPMosoa5i_Y",
+            "title": "Michelle Obama, Family's White House Christmas Tree",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

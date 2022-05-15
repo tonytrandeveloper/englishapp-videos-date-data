@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RsVV8brvRZM",
-            "title": "Cops ambushed on 'National Night Out'",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "ulfwrVqHM3M",
             "title": "Imagine Dragons lead singer on his Mormon faith and supporting LGBTQ community",
             "secondDuration": 487,
@@ -121,8 +115,14 @@
             "title": "Police officers recount moment they saved man from burning car",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "Udgb0bOxyUA",
+            "title": "Video captures massive fireball on Bologna highway",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

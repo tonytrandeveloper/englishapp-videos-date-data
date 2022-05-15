@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i-VkyqTpGBk",
-            "title": "Family Shares Photo of 14-Year-Old Kalamazoo Shooting Survivor | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "BqnjzW_14aQ",
             "title": "Sheriff Investigating If Trump's Conduct at NC Qualifies as 'Inciting to Riot' | NBC Nightly News",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "John Kasich On Donald Trump: 'He's Not Going To Be The Nominee' | Meet The Press | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "q29GjmFDiRA",
+            "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

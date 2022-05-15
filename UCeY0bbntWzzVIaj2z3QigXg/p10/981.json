@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nvSsuxYeJs8",
-            "title": "Biden Introduces Nominee For Education Secretary | NBC News",
-            "secondDuration": 1600,
-            "group": "group_7"
-        },
-        {
             "videoId": "jEPhYsp0K-k",
             "title": "Biden Aides Consider Using Defense Production Act For Covid Vaccine Distribution | NBC News NOW",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Health Experts Warn Against Holiday Travel Amid Surge In Covid Cases | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "xeUVeiok0QQ",
+            "title": "Biden Assures His Covid Relief Plan Will Include More Stimulus Checks | NBC News",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

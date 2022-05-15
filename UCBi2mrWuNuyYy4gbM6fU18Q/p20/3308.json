@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_D2MR0JA-e0",
-            "title": "Curse of the 'Berm-bino'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "93B6onLECFE",
             "title": "Tearful Ling: Our Nightmare Has Ended",
             "secondDuration": 230,
@@ -121,8 +115,14 @@
             "title": "Tapper on Wall Street Bonuses",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "rwRC1KvXVtM",
+            "title": "Battle Over Executive Pay",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

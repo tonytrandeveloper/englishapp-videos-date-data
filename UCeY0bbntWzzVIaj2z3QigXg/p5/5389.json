@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XzWEmZdbAmU",
-            "title": "This Organization Is Turning Drawings Into A Social Pastime | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "RP77e3qdg7Q",
             "title": "New Hope For Those With ‘Ticking Time Bomb’ Aneurysms | NBC Nightly News",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Second Women’s March Draws Thousands Across The Country | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "krJaW6cvhy4",
+            "title": "Day One Of Government Shutdown Stalemate With No DACA Compromise | NBC Nightly News",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

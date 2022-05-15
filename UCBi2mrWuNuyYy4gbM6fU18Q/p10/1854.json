@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jN1ku1AAI54",
-            "title": "The Hustlers l 20/20 l PART 1",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wjvi1GA9NGQ",
             "title": "Felicity Huffman sentenced to 14 days in prison in ‘Varsity Blues’ case I Nightline",
             "secondDuration": 377,
@@ -61,8 +55,14 @@
             "title": "Top takeaways from the ABC News Democratic debate l ABC News",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGIrv6LnNd0",
+            "title": "Felicity Huffman to be sentenced in ‘Varsity Blues’ scandal l ABC News",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

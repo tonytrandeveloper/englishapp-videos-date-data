@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nalGPlG_p34",
-            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "0mykacTLwfw",
             "title": "How to Safeguard Your Car From Hackers",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Clinton Did Not Mishandle Emails FBI Director Says",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "nZQ0f37T9qY",
+            "title": "Obama Joins Hillary Clinton on Campaign Trail",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

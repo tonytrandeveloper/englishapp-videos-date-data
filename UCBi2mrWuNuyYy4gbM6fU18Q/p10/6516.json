@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oxyIE248hco",
-            "title": "Bottle to Throttle: Was Pilot Flying Drunk?",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6xCkTXMRPY",
             "title": "D.C. Sniper Executed",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Juggling Schedules and Free Time",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "cA9vBtuZYwE",
+            "title": "Steven King's Latest Nail-Bitter",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

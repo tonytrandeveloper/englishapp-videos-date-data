@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ajh4XFGXgpo",
-            "title": "Watch Karen Pence's Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "4Ydzbb5pUAQ",
             "title": "Watch Kayleigh McEnany's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "Hurricane Laura Strengthens To Category 4 | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "scZLKZ9StO8",
+            "title": "Live: Wisconsin AG Holds Press Conference On Kenosha Police Shooting | NBC News",
+            "secondDuration": 2339,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5wsexTmnaII",
-            "title": "Cha-Ching for the Newest Michigan Millionaire",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "18FUR6XRpTY",
             "title": "United Co-Pilot Passes Out in Flight",
             "secondDuration": 98,
@@ -121,8 +115,14 @@
             "title": "American Airlines Pilot Dies While in Flight",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRla3xeu7MQ",
+            "title": "Golden Retriever Serves as Best Man at Vet's Wedding",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UN8IBhVAXUg",
-            "title": "War Crimes Suspect Slobodan Praljak Claims To Have Taken Poison In Court | NBC News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "T8qT-HADaGI",
             "title": "Amateur Video Captures Sound Of Reno Nevada Gunfire | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "President Trump Rips ‘Weak’ Democratic Leaders For Skipping White House Meeting | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "vomTWAdKrGk",
+            "title": "Budget, Taxes, Ethics Lead Congress’ Lengthy End-Of-Year To-Do List | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

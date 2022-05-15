@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "H2ium9VLH08",
-            "title": "Small Slip-Up is Big Loss for New Jersey Kids",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "PgJLkDGaCwo",
             "title": "Housing Market Meltdown",
             "secondDuration": 365,
@@ -301,8 +295,14 @@
             "title": "Man's Best Friend Helps Kids Learn to Read",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8m0SChcszo",
+            "title": "The Conversation: 'Sarah Doesn't Speak for Me'",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

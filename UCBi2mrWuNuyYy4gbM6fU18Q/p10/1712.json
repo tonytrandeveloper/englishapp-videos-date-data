@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4ZA2u6VEmNg",
-            "title": "'Beginning of the end for this show trial that we've seen in the House': Sen. Ted Cruz | ABC News",
-            "secondDuration": 648,
-            "group": "group_7"
-        },
-        {
             "videoId": "TdPNcqWxcxc",
             "title": "House to vote on articles of impeachment against Trump | ABC News",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "The Hitman: From Pop to Prison l 20/20 l PART 4",
             "secondDuration": 506,
             "group": "group_7"
+        },
+        {
+            "videoId": "DHcKzYzNjL8",
+            "title": "The Hitman: From Pop to Prison l 20/20 l PART 2",
+            "secondDuration": 558,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

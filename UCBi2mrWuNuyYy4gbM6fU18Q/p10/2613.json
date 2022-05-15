@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZrBqYweKNF8",
-            "title": "A behind the scenes look at New England Patriots quarterback Tom Brady",
-            "secondDuration": 502,
-            "group": "group_7"
-        },
-        {
             "videoId": "hWgjC4D8c38",
             "title": "From the rambunctious to the devoted: Meet some of Philadelphia Eagles' fans",
             "secondDuration": 408,
@@ -61,8 +55,14 @@
             "title": "Trump rallies supporters but doesn't mention GOP memo",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "L5qYw75LkF4",
+            "title": "How to protect kids in sports from the flu",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

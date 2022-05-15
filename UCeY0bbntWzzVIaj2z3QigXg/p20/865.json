@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MI6E3WciTW0",
-            "title": "‘Magical 15 Minute Motions:’ Nunes Mocks Time Procedures In Hearing | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "e2yoc-sltCw",
             "title": "Tim Morrison Questioned About Lt. Col. Vindman’s Credibility | NBC News",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "Trump Confirms He Received Partial Physical At Walter Reed Visit | NBC News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "YwukO-Q8EE8",
+            "title": "Trump Says GOP ‘Killing It’ At Impeachment Hearing, Denies Knowing Vindman | NBC News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

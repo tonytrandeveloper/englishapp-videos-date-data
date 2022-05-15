@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EDr76YzTxHo",
-            "title": "A New Treatment for Stroke Patients When Every Second Counts | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "96GjJ_z1uaQ",
             "title": "At Least 7 Dead After Historic Floods Sweep Through Houston | NBC Nightly News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Woman Rescues Horse From Floodwaters | NBC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "E0FTw-WpU5o",
+            "title": "More Than 350 Dead and 2,500 Injured After Powerful Quake Hits Ecuador | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1rix5ROd-1g",
-            "title": "Texas high school student told to cut dreadlocks | ABC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEIqfLl1VeE",
             "title": "Race to stop spread of coronavirus expands across US  | ABC News",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Actress testifies against movie mogul Harvey Weinstein",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "oZEr9pBUFhA",
+            "title": "Chinese city of 11 million on lockdown amid deadly virus l ABC News",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

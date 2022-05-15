@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g-thRPirdmU",
-            "title": "State of the Union 2016: Obama Takes on Climate Deniers in the State of the Union Address",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "eguCrGR1xbI",
             "title": "State of the Union 2016: President Obama Celebrates the American Spirit of Innovation",
             "secondDuration": 203,
@@ -61,8 +55,14 @@
             "title": "10 Killed in New Deadly Attack in Turkey",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "7G28R6e70Ho",
+            "title": "Powerball Jackpot Reaches an Astounding $1.5 Billion",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

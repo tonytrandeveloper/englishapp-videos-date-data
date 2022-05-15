@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UGDBH74gSCw",
-            "title": "SpaceX successfully launches rocket en route for the International Space Station",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQmUC-5MB6U",
             "title": "Search for Osama Bin Laden's son intensifies",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "Washington governor launches 2020 run",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYYC1D3_5zk",
+            "title": "NY governor urges Amazon to reconsider HQ",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

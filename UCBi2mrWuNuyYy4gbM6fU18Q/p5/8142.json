@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ro2hlwP03iI",
-            "title": "FBI Investigating Classroom Takedown in South Carolina",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z5MQyn5H2wA",
             "title": "Tire Investigation Update: Feds Say Recall System 'Completely Broken'",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Chewbacca Busted",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1WVmn3HLRY",
+            "title": "'Dancing With the Stars' Booted Couple Speaks Out",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

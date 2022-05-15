@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8ZM6uCL7twk",
-            "title": "Trump speaks out as rules set for historic trial l ABC News",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "00thGVawFuQ",
             "title": "Pro-gun rally at Virginia capital draws thousands of armed protesters | Nightline",
             "secondDuration": 456,
@@ -121,8 +115,14 @@
             "title": "Trump's conduct 'does not rise to the level of an impeachable offense': Dershowitz | ABC News",
             "secondDuration": 474,
             "group": "group_7"
+        },
+        {
+            "videoId": "nBLGDrpvq2Y",
+            "title": "NSA is withholding 'potentially relevant documents' to Ukraine: Rep. Schiff | ABC News",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

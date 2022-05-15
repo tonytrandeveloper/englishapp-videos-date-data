@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3rj2QxXtj_c",
-            "title": "New High Tech Coronavirus Contact Tracing Efforts Stoke Privacy Concerns | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "5NLp0AS7AV8",
             "title": "Trump May Do Fewer Coronavirus Briefings At Urging Of White House Allies | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Watch Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3025,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRJIWy0U8Xk",
+            "title": "Watch Live: New York Governor Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2011,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gCw-lrw9iW0",
-            "title": "Severe Spring Storm Packs Ice, Snow, Tornadoes",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "j4_3dcHxX44",
             "title": "U.S. Believes North Korea Could Fire Nuclear Missile",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Kidnapped Boys Returned",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "887LllePKms",
+            "title": "Alleged Texas College Stabber Identified, Fantasized Attack",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

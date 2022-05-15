@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i0b3su52nLQ",
-            "title": "Rachel Zoe Revealed | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 383,
-            "group": "group_7"
-        },
-        {
             "videoId": "sV09JPIsVJ8",
             "title": "Joseph Gordon Levitt Talks 'The Walk'",
             "secondDuration": 284,
@@ -61,8 +55,14 @@
             "title": "New York City Greets Pope Francis In Historic Visit",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "FOlG2dYc-sY",
+            "title": "Pope Francis Addresses Congress, Refers to America as 'Land of Dreams'",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

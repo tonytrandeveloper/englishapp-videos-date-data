@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iSAfNj_kUmk",
-            "title": "Suspect identified in LA rapper's murder",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWMI36hWtH8",
             "title": "Man arrested for murder of USC student who mistook car for Uber",
             "secondDuration": 465,
@@ -61,8 +55,14 @@
             "title": "Huffman, Loughlin spotted before court appearances",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "rxeMF6ezF1g",
+            "title": "2 Marines killed in helicopter crash during training",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

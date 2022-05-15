@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SKEz7_TlTZA",
-            "title": "Trump: The World Is a Mess | Trump Interview with David Muir | ABC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "RxY_Z_nKPic",
             "title": "Doomsday Clock Moves Closer to Midnight, in Part Because of Trump, Scientists Announce",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Australian Open Final :Serena vs Venus Williams",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "wnw6EwTQ6B0",
+            "title": "Trump 'Absolutely' Thinks Waterboarding Works",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

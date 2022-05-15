@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OBxY8YG5lC0",
-            "title": "Jeff Sessions forced to resign from US attorney general post",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "I_dsyVadJD0",
             "title": "'Briefing Room': Sessions out, Trump's midterms remarks, election recap | ABC News",
             "secondDuration": 1371,
@@ -121,8 +115,14 @@
             "title": "Andrew Gillum gives concession speech",
             "secondDuration": 559,
             "group": "group_7"
+        },
+        {
+            "videoId": "6KiZ1udKKdQ",
+            "title": "What it means for Democrats' control of the House",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8lUnl2oNvqA",
-            "title": "Down in the Bayou",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "eAsWRFGlgkw",
             "title": "Racism in the Tea Party?",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Log Jam in Congress",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "jY6TGPQyPL8",
+            "title": "Senate Candidate Ken Buck on 'Top Line'",
+            "secondDuration": 644,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

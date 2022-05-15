@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1RB8ICFmhXs",
-            "title": "New concerns about election security as voters head to the polls",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "ISSZnL4FPuA",
             "title": "Severe storms targeting South, East on Election Day",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Daylight saving time, marijuana legalization among ballot initiatives",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "d-mp0jh8XWI",
+            "title": "Trump campaign ad pulled from airwaves",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

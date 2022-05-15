@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2QzLRBAAvh0",
-            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "keZC9S-lE0w",
             "title": "Trump impeachment hearing key moments: Day 1",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "George Kent delivers opening statement | ABC News",
             "secondDuration": 1001,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACJ_uSFuK-o",
+            "title": "Impeachment hearings begin, Venice floods, bushfires burn: World in Photos, Nov. 13",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

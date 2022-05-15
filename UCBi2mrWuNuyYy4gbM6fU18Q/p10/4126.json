@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AXblsDITMpg",
-            "title": "Arnold Schwarzenegger Is Back as New 'Celebrity Apprentice' Host",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "RsHCXxsk6Z0",
             "title": "'Monday Night Football' Kicks Off",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Behind the Scenes of 'Dancing With the Stars' Season 21",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "2VK7GFZ4r4s",
+            "title": "FBI Searches for Serial Jewelry Thief in Southern States",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

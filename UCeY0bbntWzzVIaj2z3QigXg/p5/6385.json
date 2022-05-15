@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pRD7vWDMLqE",
-            "title": "The Donald Trump Versus Rosie O'Donnell Feud Continues | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "TI7MHMRIaC0",
             "title": "'Banished Words' List Revealed: Dadbod, Ghosting, Bigly, More | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Inspiring America: The Teen Ice Cream Mogul Who Survived Brain Surgery | NBC Nightly News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "ST0gSS7InVc",
+            "title": "Toxic Pesticide-Water Combination At Texas Home Kills Four Children | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

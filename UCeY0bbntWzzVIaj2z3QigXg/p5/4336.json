@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jlzj3S2mnGE",
-            "title": "Apple's Not Doomed Just Yet | NBC News Signal",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "OXqNjIzFm10",
             "title": "Who’s Rallying Against Amazon’s New HQ2? | NBC News Signal",
             "secondDuration": 361,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Confirms He's Prepared To Have Shutdown Last Years | NBC News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "eislVvV8BfA",
+            "title": "Watch Live: President Donald Trump Makes Statement In White House Rose Garden | NBC News",
+            "secondDuration": 3991,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

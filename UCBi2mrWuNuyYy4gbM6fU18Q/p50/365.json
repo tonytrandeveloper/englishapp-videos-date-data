@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xxJSPS_ZiWU",
-            "title": "Trump goes after Mitt Romney as impeachment probe intensifies | ABC News",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "kgQHt1Eayq4",
             "title": "American woman claims diplomatic immunity after killing UK teen | ABC News",
             "secondDuration": 156,
@@ -301,8 +295,14 @@
             "title": "Police release body camera video in controversial horseback arrest",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "yymEH_bKkv0",
+            "title": "Ex-police officer Amber Guyger sentenced to 10 years in prison",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

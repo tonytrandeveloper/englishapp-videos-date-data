@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q6DC9xlbSA4",
-            "title": "Inside Ebola Isolation Rooms | NBC News",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "w7UHWESnQ1M",
             "title": "Deadly Sea Star Plague Stumps Scientists | NBC News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Deadly Plagues: Where Does Ebola Rank? | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "ANZ4LThlJzY",
+            "title": "RAW: Deadly Earthquake Rattles China | NBC News",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pN-S6Al-0C8",
-            "title": "Morning News NOW Full Broadcast - Dec. 31",
-            "secondDuration": 3100,
-            "group": "group_7"
-        },
-        {
             "videoId": "BDyRpn_StIg",
             "title": "This Morning's Top Headlines – Dec. 31 | Morning News Now",
             "secondDuration": 1663,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Dec. 30",
             "secondDuration": 817,
             "group": "group_7"
+        },
+        {
+            "videoId": "7k0ClWB_AGU",
+            "title": "Restaurants Brace For Omicron Impact On New Years Eve",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

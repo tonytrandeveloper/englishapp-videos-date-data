@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DTgNoxTRUnk",
-            "title": "Watch NBC News NOW Live - September 7",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "0ys6LmtJ5CM",
             "title": "Over 600 Iowa State University Students Test Positive For Coronavirus | NBC News NOW",
             "secondDuration": 713,
@@ -31,8 +25,14 @@
             "title": "Portland Protests Surpass 100 Consecutive Days | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "8lLKc6rHKpM",
+            "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

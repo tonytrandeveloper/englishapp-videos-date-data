@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LPjAsl0GgTg",
-            "title": "Sole Survivor l 20/20 l PART 3",
-            "secondDuration": 468,
-            "group": "group_7"
-        },
-        {
             "videoId": "6TX1_L4waBc",
             "title": "Sole Survivor l 20/20 l PART 2",
             "secondDuration": 478,
@@ -31,8 +25,14 @@
             "title": "Inspector General of Intel Community testifies behind closed doors | ABC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "R30f6Bp-b3M",
+            "title": "Kim Kardashian calls for Brendan Dassey’s release | ABC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

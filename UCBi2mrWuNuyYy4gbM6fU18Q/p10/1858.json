@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kAEhKh7eKzw",
-            "title": "Democratic candidates debate: Addressing country's racism l ABC News",
-            "secondDuration": 880,
-            "group": "group_7"
-        },
-        {
             "videoId": "nrc0-K3U0MQ",
             "title": "Democratic candidates debate: Gun reform l ABC News",
             "secondDuration": 945,
@@ -61,8 +55,14 @@
             "title": "The Briefing Room: Democratic Debate preview in Houston | ABC News",
             "secondDuration": 3655,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EBnXw9omGg",
+            "title": "Plane passengers see flames after bird strike l ABC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

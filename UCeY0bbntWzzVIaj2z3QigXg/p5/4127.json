@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rbWfXEblUMw",
-            "title": "Chuck Schumer: It's 'Imperative' Mueller Report Be Made Public | NBC News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "SkPk9gsYhzs",
             "title": "Blind Golden Retriever Has His Own Four-Legged ‘Seeing-Eye’ Companion | NBC Nightly News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "How Will President Donald Trump Respond To Robert Mueller Report? | NBC Nightly News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "_5rXaPZl-3o",
+            "title": "Special Counsel Robert Mueller Submits Report To Attorney General | NBC Nightly News",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

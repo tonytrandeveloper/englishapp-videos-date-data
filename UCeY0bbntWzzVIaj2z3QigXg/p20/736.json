@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0s_f-oCxj8g",
-            "title": "Full Panel: Bernie Sanders Drops Out Of 2020 Race | Meet The Press | NBC News",
-            "secondDuration": 365,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JlnyLaZwug",
             "title": "Full Hahn: 'I Cant Predict At This Point' If May 1 Re-Opening | Meet The Press | NBC News",
             "secondDuration": 562,
@@ -121,8 +115,14 @@
             "title": "Makeshift Hospitals Pop Up Around The Country To Combat COVID-19 | NBC News NOW",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "17izWM_mh1A",
+            "title": "Mental Health Professionals Working Around The Clock Amid COVID-19 Outbreak | NBC News NOW",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

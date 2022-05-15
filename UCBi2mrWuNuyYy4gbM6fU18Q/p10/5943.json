@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dJ37hvvGGeY",
-            "title": "North Korean Leader Kim Jong Il Dead at 69; Son Kim Jung Un Likely to Succeed",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "C4EPlzRTklE",
             "title": "Jeremy Irvine Interview: 'War Horse' From Theatre to Movie Screen",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "'There's Too Much Government in My Life'",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "i7EAsMNZ6uA",
+            "title": "Curing Kids with Extremem Social Phobias",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

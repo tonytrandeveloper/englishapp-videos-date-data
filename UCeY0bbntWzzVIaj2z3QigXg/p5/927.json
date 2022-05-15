@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V_WWJH4T3V0",
-            "title": "This Morning’s Top Headlines – Sept. 23 | Morning News NOW",
-            "secondDuration": 1375,
-            "group": "group_7"
-        },
-        {
             "videoId": "99kik0xjnck",
             "title": "12-Year-Old Gets Covid Vaccine As Birthday Gift",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Patient In Elizabeth Holmes Case Testifies About Incorrect Blood Test",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "drjRkrnfMiY",
+            "title": "Trump Files $100 Million Lawsuit Against Niece, New York Times",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

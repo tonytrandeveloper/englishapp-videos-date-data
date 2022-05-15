@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HAYkuWn8jP0",
-            "title": "Large family adopts six kids",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "1pv8wTqg2oc",
             "title": "Four people killed in deadly bus crash on the west side of Chicago",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "French presidential election hack",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "UnyaLzacTzM",
+            "title": "Anger mounting over the House health care bill",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "heUvirTsz9w",
-            "title": "How NBC News Gets Its Election Data Points | Long Story Short | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "8CmK2hS4e0s",
             "title": "Remembering Helen Chavez, Activist And Co-Founder Of United Farm Workers | NBC News",
             "secondDuration": 57,
@@ -301,8 +295,14 @@
             "title": "$1 Million Will Buy You an Entire West Virginia Town | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CrQKImYW01g",
+            "title": "Severe Storms, Tornadoes Tear Through Plains States | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

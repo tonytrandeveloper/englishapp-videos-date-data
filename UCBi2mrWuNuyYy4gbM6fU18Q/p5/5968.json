@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cKI93jsaPhU",
-            "title": "Match.com Complaints | ABC News",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "3NM5NEDXpNo",
             "title": "Alec Baldwin opens up on new memoir, past addiction, playing Trump",
             "secondDuration": 449,
@@ -31,8 +25,14 @@
             "title": "Trump defends Fox News' Bill O'Reilly",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "8L_VNiJqtXg",
+            "title": "Pepsi apologizes for new ad after receiving huge backlash",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

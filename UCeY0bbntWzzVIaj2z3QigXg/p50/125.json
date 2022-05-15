@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gelmePuBHm8",
-            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
-            "secondDuration": 1280,
-            "group": "group_7"
-        },
-        {
             "videoId": "KsWQfjVkYK0",
             "title": "Protests Sparked As Turkey Quits International Treaty On Women’s Rights",
             "secondDuration": 109,
@@ -301,8 +295,14 @@
             "title": "Bill Cosby Officially Released From PA Prison After Overturned Conviction",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "uWmtpl-7aCY",
+            "title": "Bill Cosby Leaves Prison After Conviction Overturned | NBC News",
+            "secondDuration": 980,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

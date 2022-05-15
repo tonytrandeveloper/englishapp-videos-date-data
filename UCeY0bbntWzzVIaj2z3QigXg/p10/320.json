@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sYGl41Ofbak",
-            "title": "How Smash-And-Grab Robberies Disproportionately Impact Small Businesses",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "YSv6l6ILOqg",
             "title": "NFL: Tampa Bay's Antonio Brown Suspended For Misrepresenting Vaccination Status",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "How Amazon Gets Gifts To Your Door Just Two Days After Purchase",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zgjRxrbg8oA",
+            "title": "Blinken Seeks To Ease Russia-Ukraine Tensions",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

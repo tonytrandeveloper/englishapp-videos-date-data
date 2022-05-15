@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "su6GhQOpLC0",
-            "title": "Nightly News Full Broadcast - March 28",
-            "secondDuration": 1012,
-            "group": "group_7"
-        },
-        {
             "videoId": "wo1plyzmVdE",
             "title": "Congress Recommends Holding Trump Aides Scavino, Navarro In Contempt",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "Body Camera Footage Shows Moments Following Florida Tiger Attack",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "SCYCMq4sA_A",
+            "title": "Top Story with Tom Llamas - March 25 | NBC News NOW",
+            "secondDuration": 2602,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

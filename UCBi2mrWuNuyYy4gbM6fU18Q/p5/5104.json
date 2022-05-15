@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dDXj1qSMUpw",
-            "title": "Protests in Sacramento continue after an unarmed man is killed by police",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "ma7-QTP6ksg",
             "title": "Couple in so-called 'Gone Girl' case on their ordeal and why they're speaking out",
             "secondDuration": 499,
@@ -31,8 +25,14 @@
             "title": "Inferno kills firefighter and destroys movie set in New York City",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "5AOyCWB-Jn4",
+            "title": "Demonstrators march to protest police shooting of unarmed man",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RjPhkrfOesc",
-            "title": "2020 Democratic Presidential Debate Pre-Show | NBC News (Live Stream Recording)",
-            "secondDuration": 3350,
-            "group": "group_7"
-        },
-        {
             "videoId": "z8mj_Rhfy_A",
             "title": "Elizabeth Warren Targets Mike Bloomberg For His Company's Non-Disclosure Agreements | NBC News",
             "secondDuration": 263,
@@ -31,8 +25,14 @@
             "title": "Mike Bloomberg Is 'Embarrassed' Stop And Frisk 'Got Out Of Control' | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "C59nexFXUWU",
+            "title": "Elizabeth Warren: ‘We Are All Responsible For Our Supporters’ | NBC News",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

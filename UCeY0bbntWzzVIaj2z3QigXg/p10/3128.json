@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rEZS7UDzLXA",
-            "title": "Lampix Transforms Any Surface Into An Interactive AR Panel | Mach | NBC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "r6HR-8IYqUU",
             "title": "5 Fun Facts About Pandas For National Panda Day | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Criticizes New Travel Ban Ruling | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "HESpTnsd75I",
+            "title": "Yahoo Hack: Russian Spies Charged By U.S. Over Hack Of 500M Accounts | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z-LduglB0L8",
-            "title": "Michael Cohen's secret recording of conversation with Trump",
-            "secondDuration": 415,
-            "group": "group_7"
-        },
-        {
             "videoId": "rmNJM64hnYg",
             "title": "NTSB investigating duck boat accident",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Parents fear for young daughter's safety as her behavior changes dramatically: 20/20 Jul 20 Part 1",
             "secondDuration": 503,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZWqPvqzIc70",
+            "title": "Iowa cities face massive cleanup after twisters touch down",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

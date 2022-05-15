@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gVgvD5-_8Uk",
-            "title": "Slow Iowa Caucus Results Due To 'Quality-Control' Checks | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "7yXzTgsaH0o",
             "title": "In One Des Moines Suburb: Record Turnout, Zero Delegates For Bernie Sanders | NBC News NOW",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Manchin Calls For Trump To Be Censured: 'His Behavior Cannot Go Unchecked By The Senate' | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "-kw2IcPu3uE",
+            "title": "Breaking Down The Economics Of Iowa And Its Voters | NBC News NOW",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

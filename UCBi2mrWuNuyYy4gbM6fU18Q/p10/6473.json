@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "slxobgwhI_c",
-            "title": "Top Line: Coakley v. Brown: Mass Senate Race",
-            "secondDuration": 606,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Ga-x0STwk8",
             "title": "Top Line: Obama's Haiti Response and Health Care",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "21st Century Disaster Relief",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "kDlxVonm50E",
+            "title": "Americans Reach Out",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

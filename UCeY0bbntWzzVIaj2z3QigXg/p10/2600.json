@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rWCYAn-WU84",
-            "title": "Scientists Stumble Upon New Organ We Never Knew We Had | Mach | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydp-TUjIRU0",
             "title": "Former Weinstein Assistant Lambasts Company Non-Disclosure Agreement | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Baton Rouge Officers Will Not Be Charged In Alton Sterling Death | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "HsNlXlwjn3s",
+            "title": "William Strampel, Larry Nassar’s MSU Boss, Hit With Sex Charges | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

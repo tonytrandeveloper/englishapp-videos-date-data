@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y9zmejGpSuI",
-            "title": "Nice Attack Driver Unknown to Security Officials",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "nTMltEApQ8M",
             "title": "Trump Picks Mike Pence as Vice President",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Break-In Reported at Pulse Nightclub in Orlando",
             "secondDuration": 27,
             "group": "group_7"
+        },
+        {
+            "videoId": "9cvgl8gUuqQ",
+            "title": "Nice Attack | Witness Describes Mayhem",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

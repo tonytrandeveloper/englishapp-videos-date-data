@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6m8XoLFiuBg",
-            "title": "Democratic Debate in Milwaukee  | ABC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "gcVKit7VDkA",
             "title": "Kim Kardashian's Parenting Challenge?",
             "secondDuration": 389,
@@ -121,8 +115,14 @@
             "title": "Democratic Presidential Candidates Face Off in Debate",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfsIhrQcNUw",
+            "title": "Oregon Occupiers Plan to Turn Themselves In",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

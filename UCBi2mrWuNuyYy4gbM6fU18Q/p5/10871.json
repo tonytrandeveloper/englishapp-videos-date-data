@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lybs1TP377U",
-            "title": "Friends: Shooter's Mom Struggled with Son",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "afXUjMrZFAM",
             "title": "Guns in America: Gun Ownership and Crimes by the Numbers",
             "secondDuration": 145,
@@ -31,8 +25,14 @@
             "title": "Mayor Pedro Segarra 'This Week' Interview: Newtown, Connecticut Sandy Hook Elementary Shooting",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "EuwHJFVbZT0",
+            "title": "Connecticut Governor Dan Malloy 'This Week' Interivew: Sandy Hook Elementary School Shooting",
+            "secondDuration": 372,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

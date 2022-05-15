@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sNllnF8DEkM",
-            "title": "President Obama Meets With His National Security Team to Discuss Syria",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "WEmYNi6smFY",
             "title": "Syria Chemical Attack Claims: Heated Debate Erupts In British Parliament Over Syria",
             "secondDuration": 733,
@@ -61,8 +55,14 @@
             "title": "Feed Frenzy: Touching Reunions",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "6W6MVrLgHLM",
+            "title": "Remembering The March on Washington",
+            "secondDuration": 527,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

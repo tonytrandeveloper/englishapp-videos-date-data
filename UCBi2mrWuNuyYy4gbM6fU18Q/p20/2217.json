@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PmByq-3hsnk",
-            "title": "Boston Mayor Addresses Harsh Winter Conditions",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "rZ17SNxq9Wo",
             "title": "Hollywood’s Biggest Stars Fight to Keep Mega Mansions",
             "secondDuration": 205,
@@ -121,8 +115,14 @@
             "title": "Big, Bad Bus Drivers Becoming a Problem",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "DchuEAxzH6A",
+            "title": "In Case You Missed It: 2-13-2015",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

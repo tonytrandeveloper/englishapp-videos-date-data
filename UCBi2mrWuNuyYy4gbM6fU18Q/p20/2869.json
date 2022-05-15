@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uykXnS4A-p0",
-            "title": "Kerry Kennedy in Court",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "McRhATl5oY8",
             "title": "HSBC Answers Cartel, Terror Cash Allegations",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "American Versailles",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "o4yyRndODE0",
+            "title": "Extreme Bachelorette Parties",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

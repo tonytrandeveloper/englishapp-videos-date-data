@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z1BVQEVUaho",
-            "title": "Obama's Prescription for America",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "1FuqYia_6Og",
             "title": "U.S. Journalist Escapes Taliban",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Dodd: 'Public' Health Not Dead",
             "secondDuration": 407,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQnGzK-u2c8",
+            "title": "Graham Slams Obama Iran Response",
+            "secondDuration": 431,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T493LjiDCc4",
-            "title": "Wild Flag Interview: All-Female Rock Group's All-Star Lineup",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "HnUuw9AxF8c",
             "title": "WEBCAST: Boston Bombing Suspect",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Bombing Suspect Dzhokhar Tsarnaev's Dad Advises Suspect to Give Up",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "C7ZoRL5xXF4",
+            "title": "Boston Marathon Bombing Suspect's Classmate: He Was A 'Nice, Funny Guy'",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

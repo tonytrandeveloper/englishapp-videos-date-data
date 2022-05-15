@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9SUehUgGiNw",
-            "title": "Alarming Rise in Child Illness Linked To Covid-19, Protests Continue Across the U.S | Nightly News",
-            "secondDuration": 663,
-            "group": "group_7"
-        },
-        {
             "videoId": "XjfTw20e4RY",
             "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 2699,
@@ -301,8 +295,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3689,
             "group": "group_7"
+        },
+        {
+            "videoId": "8qO-iQ3p6QQ",
+            "title": "Heroes Of COVID-19: How Watts Community Activists Banded Together To Feed Their Neighbors | NBC News",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZteDlU0GXfs",
-            "title": "Police Beating Unarmed Man In Mesa, Arizona | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "61POlQ6Rcyc",
             "title": "Remembering RFK’s Final Speech 50 Years Later | NBC News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "50 Year Anniversary Of RFK Assassination | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "_rpmHpuINfY",
+            "title": "Fashion Designer Kate Spade Found Dead In Her New York Apartment | NBC Nightly News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

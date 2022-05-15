@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d3kNYgXJTEo",
-            "title": "Watch NBC News NOW Live - July 28",
-            "secondDuration": 42902,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xr3Hiuvaif0",
             "title": "Iran, U.S. Tensions Heighten After Passenger Jet Incident | NBC News NOW",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Joe Biden To Announce VP Choice First Week Of August | NBC News NOW",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "SkajGMOjM6Y",
+            "title": "Biden Targets Racial Inequality In Final Plank Of Four-Part Economic Plan | NBC News NOW",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

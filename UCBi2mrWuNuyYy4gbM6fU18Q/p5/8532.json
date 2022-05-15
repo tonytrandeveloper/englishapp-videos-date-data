@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R88DTR0zWkc",
-            "title": "Acrobat Who Survived Houston Fall Recounts the Ordeal",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "UgPBcuKM7M4",
             "title": "Active Terror Investigation Leads to Deadly Confrontation in Boston",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Angler Reels In A 7-Foot Halibut",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "zbRT_KJHB34",
+            "title": "Inside the Lion Park Where American Was Mauled to Death",
+            "secondDuration": 433,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pDHa1AU77SI",
-            "title": "Grandmother Leads Slow-Speed Pursuit at 6 Miles per Hour",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "n7N7aWnFeUc",
             "title": "Prison Break: Scent of 2 Convicted Killers Picked Up In Small Town",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Inside a Woman's Bid to Be 1st to Row Across the Pacific Solo",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "BQHOcbruOyU",
+            "title": "Housekeeper on DC Mansion Fire: 'I Can't Stop Thinking About That Day'",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

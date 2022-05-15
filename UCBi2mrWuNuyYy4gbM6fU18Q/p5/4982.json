@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vUGLUmY_wnI",
-            "title": "Proud mother and son marking one very special milestone",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "xw2E3NVFbdM",
             "title": "Tesla's electric car crash under investigation",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "New details on the knife attack in central Paris",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "imSMWMoiq0Y",
+            "title": "Rudy Giuliani walked back recent comments that contradicted the White House",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

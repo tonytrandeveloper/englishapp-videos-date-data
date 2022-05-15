@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dmkWFak3zgk",
-            "title": "Man Wielding Knife in Midtown Manhattan Shot Dead by Police",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "n8j0lPMSw84",
             "title": "100-Year-Old Makes World Record in 100-Meter Dash",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Trump Tells Megyn Kelly 'I Go After People Hard'",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "D04f0vg5bcA",
+            "title": "Metro-North Railroad Fire Causes Travel Nightmare, Delays Commuters",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

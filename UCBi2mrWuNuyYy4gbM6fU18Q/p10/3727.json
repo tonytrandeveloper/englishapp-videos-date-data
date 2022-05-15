@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sBrqjitWa0c",
-            "title": "Gas Line Explosion Causes Inferno in Pennsylvania",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "FUnsCicmXvs",
             "title": "Scientology Leader's Father Discusses New Book 'Ruthless'",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Donald Trump, Ted Cruz Fight for Delegates in Indiana",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "xolTQRCbo58",
+            "title": "Prince's Vault Reportedly Drilled Open",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

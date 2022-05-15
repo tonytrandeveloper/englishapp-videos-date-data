@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hzJ4vIh48EA",
-            "title": "White House Holds Press Briefing: October 6 | NBC News",
-            "secondDuration": 2726,
-            "group": "group_7"
-        },
-        {
             "videoId": "oOn1n9rjnVw",
             "title": "Morning News NOW Full Broadcast - Oct. 6",
             "secondDuration": 2900,
@@ -31,8 +25,14 @@
             "title": "Texas High School On Lockdown After Shooting | NBC News",
             "secondDuration": 3569,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rm5OGBBS-Jk",
+            "title": "Timothy Simpkins Identified As Suspect In Texas High School Shooting",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

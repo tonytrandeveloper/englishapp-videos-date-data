@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "btfvKeJBLkk",
-            "title": "The Briefing Room: Justice Ginsberg cancer surgery, shutdown imminent, Mattis resignation",
-            "secondDuration": 1656,
-            "group": "group_7"
-        },
-        {
             "videoId": "Haf1mtkvh1o",
             "title": "The Debrief: Arrest in missing Colorado mom case, Trump warns \"shutdown today,\" Mattis resignation",
             "secondDuration": 1537,
@@ -121,8 +115,14 @@
             "title": "Eliza Dushku breaks silence on CBS sexual harassment allegations",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "VhTr4IQQ_s0",
+            "title": "The 'floating island' where Bangladesh wants to send thousands of Rohingya refugees",
+            "secondDuration": 624,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

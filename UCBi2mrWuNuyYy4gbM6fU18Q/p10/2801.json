@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WWFYOsB5_Wk",
-            "title": "North Korea test-fires another ballistic missile",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "jTsR3YC4bkg",
             "title": "Hurricane Harvey marks Trump's 1st test of response to a natural disaster",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Federal Emergency Management Agency chief briefs on Hurricane Harvey preparedness",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ybq9lDBnhT8",
+            "title": "Sesame Street visits children at Jordan refugee camp",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

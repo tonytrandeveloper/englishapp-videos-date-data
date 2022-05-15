@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "o4yyRndODE0",
-            "title": "Extreme Bachelorette Parties",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6nIdMxAf24",
             "title": "Sandwich, Hold the Needle",
             "secondDuration": 219,
@@ -121,8 +115,14 @@
             "title": "Mayor Rahm Emanuel Discusses Mitt Romeny's Tax Returns and Bain Capital History",
             "secondDuration": 676,
             "group": "group_7"
+        },
+        {
+            "videoId": "v6_mWlAOLn0",
+            "title": "Sen. Kelly Ayotte Discusses Mitt Romney's Tax returns",
+            "secondDuration": 407,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

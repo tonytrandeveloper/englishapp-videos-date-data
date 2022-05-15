@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "h9E3c2yN_ks",
-            "title": "Rocket attack at airport in Kabul, Afghanistan",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "wnTIVBXZO0E",
             "title": "Puerto Ricans still facing a humanitarian crisis after Hurricane Maria",
             "secondDuration": 158,
@@ -301,8 +295,14 @@
             "title": "Trump takes on NBA and NFL stars",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z6pjB9EuJ2U",
+            "title": "Residents of Puerto Rico facing long recovery after Hurricane Maria",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

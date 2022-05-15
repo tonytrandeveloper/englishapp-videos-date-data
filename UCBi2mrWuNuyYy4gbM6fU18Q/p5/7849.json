@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kYnjm5opfGc",
-            "title": "'GMA' Hot List:  Megyn Kelly Discusses 'Bizarre' Feud With Donald Trump",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "6HUclg-K-dQ",
             "title": "Playboy, From Porn to Last Nude Issue",
             "secondDuration": 401,
@@ -31,8 +25,14 @@
             "title": "Super Bowl 50: NFL Stars J.J Watt and Drew Brees Prep You for the Game",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "06PjAnW8QEU",
+            "title": "Republican Presidential Candidates Prepare for New Hampshire Debate",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

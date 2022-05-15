@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aNbGtWSAV_c",
-            "title": "Four countries are on the brink of famine",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "vqn7SXYZDqo",
             "title": "Hillary Clinton breaks her silence on what led to her devastating loss",
             "secondDuration": 226,
@@ -31,8 +25,14 @@
             "title": "Jimmy Kimmel reveals his newborn son's health scare",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "mEkQF_YJJoY",
+            "title": "Former police officer who fatally shot Walter Scott pleads guilty",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

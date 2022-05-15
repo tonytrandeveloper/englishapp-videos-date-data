@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yrzvoxe_Z6o",
-            "title": "Houston Astros defeat the New York Yankees to win a spot in the 2017 World Series",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "SmkQgi4lVWE",
             "title": "5 former presidents come together for concert for hurricane relief",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "2 new women accuse Harvey Weinstein of sexual assault",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "MrvEact-ilM",
+            "title": "Authorities searching for killer terrorizing a Tampa Bay neighborhood",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

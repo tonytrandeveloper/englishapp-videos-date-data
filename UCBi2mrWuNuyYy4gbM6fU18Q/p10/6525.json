@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DL_dmN2Ck10",
-            "title": "Juju Juggles Halloween",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "Drw_Cwuw8iY",
             "title": "How to Live For a Century",
             "secondDuration": 506,
@@ -61,8 +55,14 @@
             "title": "Top Line: Va. Gov Elections and Contractor Abuse Bill",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Ke686VAh10",
+            "title": "Midterm Election Madness",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

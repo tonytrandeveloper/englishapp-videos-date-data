@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FlI-1KITn7o",
-            "title": "Hospitals in the South Exceeding Capacity",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "IJniKvCbQKY",
             "title": "Billions Stolen in Covid Relief Funds",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Chaos Outside Kabul Airport With Afghanistan Evacuations Ongoing",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "zlfLaW3KozQ",
+            "title": "Families Of Fallen Service Members Speak Out About Chaotic Afghanistan Withdrawal",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

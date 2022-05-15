@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QESzE5HzbFo",
-            "title": "In Moment Of Crisis, Houstonians Come Together | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "BIYU4ohNXK0",
             "title": "Harvey Response: White House Says President Trump Will Visit Texas On Tuesday | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Historic Floods Hit Houston As Hundreds Rescued From Water | NBC Nightly News",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "8mbv5Iq3SS4",
+            "title": "Tropical Storm Harvey Flood Victims Rescued in Houston | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

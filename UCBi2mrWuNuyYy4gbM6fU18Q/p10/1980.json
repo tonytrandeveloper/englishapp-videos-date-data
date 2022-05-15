@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ij7lzjbQ1tw",
-            "title": "First Democratic Debate: ABC News Live post coverage",
-            "secondDuration": 3637,
-            "group": "group_7"
-        },
-        {
             "videoId": "jj5utfvP010",
             "title": "2020 Democratic primary debate: ABC News Live coverage",
             "secondDuration": 3135,
@@ -61,8 +55,14 @@
             "title": "Fiance of suspect in ex-state senator's murder speaks out",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "brANIwtajLg",
+            "title": "The Debrief: Muller to testify, 2020 Democratic debates, San Francisco e-cig ban",
+            "secondDuration": 1703,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

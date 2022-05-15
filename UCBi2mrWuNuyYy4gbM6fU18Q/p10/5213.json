@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a4QCY7jMFd4",
-            "title": "Boston Explosions 2013: Deep Sympathy for Victims",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "tpJ6yPJS59s",
             "title": "Boston Marathon Bombing: Investigation Breakthrough",
             "secondDuration": 444,
@@ -61,8 +55,14 @@
             "title": "Boston Marathon Explosions: World News Now",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "CdgGj7wON10",
+            "title": "Boston Marathon Explosions: Terror at the Finish Line",
+            "secondDuration": 557,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

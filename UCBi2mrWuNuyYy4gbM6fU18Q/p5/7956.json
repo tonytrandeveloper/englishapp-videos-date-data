@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3NKiipOex74",
-            "title": "ISIS' New Executioner May Be Known to Authorities",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "EiYmN9vk7ew",
             "title": "FBI Investigating Militia Standoff in Oregon",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Armed Oregon Militiamen Speak Out From Occupied Refuge",
             "secondDuration": 311,
             "group": "group_7"
+        },
+        {
+            "videoId": "sgHPE2VWtFs",
+            "title": "Trump Releases First TV Campaign Ad",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

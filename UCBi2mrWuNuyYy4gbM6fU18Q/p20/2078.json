@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_8xHx-KuZrk",
-            "title": "New York Prison Escape Re-Enacted From Convicts' Point of View",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "VVc-AJDm70c",
             "title": "Americans Honored for Thwarting Train Attack | ABC News",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Seven Dead After a Devastating Airshow Accident In England",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ya-v3EmWCNg",
+            "title": "Donald Trump Holds Stadium Rally in Alabama",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

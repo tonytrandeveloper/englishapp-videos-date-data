@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6PMw9iEGVls",
-            "title": "Oprah To Hit The Campaign Trail In Georgia For Stacey Abrams | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "--goyaVKEwA",
             "title": "President Donald Trump Focuses On Immigration With Midterms Just Days Away | NBC Nightly News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Is The Rare Billionaire Who Can Speak To The Working Class | Think | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "WdesWzSF5o0",
+            "title": "Steve Kornacki Looks At Which Midterm House Races Are Heating Up | NBC News",
+            "secondDuration": 1386,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

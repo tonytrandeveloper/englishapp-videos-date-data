@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4JCO2sQaeLg",
-            "title": "Christmas Miracle: Church's Window Saved",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "T6gYlZkUtoA",
             "title": "The Conversation: David Goldman Awarded Custody",
             "secondDuration": 238,
@@ -61,8 +55,14 @@
             "title": "Brian Ross Investigates FAA Christmas Conference",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "tRCN3Xh_O00",
+            "title": "Church Sells 100-Year-Old Window to Pay Bills",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

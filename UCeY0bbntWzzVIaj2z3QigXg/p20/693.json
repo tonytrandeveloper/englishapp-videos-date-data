@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QGsn5b4qKhE",
-            "title": "Connecticut Dentists Reopen For Non-Emergency Patients After COVID-19 Lockdown | NBC News NOW",
-            "secondDuration": 825,
-            "group": "group_7"
-        },
-        {
             "videoId": "m9i8iD8jQX8",
             "title": "WHO Chief On New COVID-19 Cases: ‘The Most In A Single Day Since The Outbreak Began’ | NBC News",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "New Study Raises Hopes Of COVID-19 Survivor Immunity | NBC Nightly News",
             "secondDuration": 728,
             "group": "group_7"
+        },
+        {
+            "videoId": "2OibNgPAJCE",
+            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
+            "secondDuration": 3058,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

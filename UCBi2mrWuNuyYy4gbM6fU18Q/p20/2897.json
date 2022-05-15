@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bGmn-XIT_rQ",
-            "title": "White House Intelligence Leaks Under Investigation",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "hybra6HVBWQ",
             "title": "Hottest Spring Weather on Record: Tornadoes, Wildfires, Hail",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Texting Teen Driver Convicted of Homicide: Car Accidents Caught on Tape",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zIGyj79u-bQ",
+            "title": "Sheryl Crow's Brain Tumor Diagnosis: Symptoms?",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

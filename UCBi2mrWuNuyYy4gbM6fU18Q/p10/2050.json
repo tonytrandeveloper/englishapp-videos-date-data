@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r-NJWGPkZIA",
-            "title": "White House reviewing military options for Iran: Report",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xyz65-gUIKc",
             "title": "Montana governor launches 2020 presidential bid",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "Massive waterspout looms off Singapore coast",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "sqJ2kCszGZc",
+            "title": "Radio legend Howard Stern recalls interviewing Trump",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

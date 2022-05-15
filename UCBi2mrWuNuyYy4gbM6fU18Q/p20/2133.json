@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EKxvfLnScMM",
-            "title": "Caitlyn Jenner’s New Docu-series",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "s_NSv6h3jQw",
             "title": "Woman Searches for Biological Father",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Angler Reels In A 7-Foot Halibut",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "zbRT_KJHB34",
+            "title": "Inside the Lion Park Where American Was Mauled to Death",
+            "secondDuration": 433,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

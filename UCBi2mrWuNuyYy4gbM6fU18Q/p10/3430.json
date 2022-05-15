@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wl4ChnqMA1c",
-            "title": "First US to Cuba Flight Takes Off",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "gtecAxO0kXc",
             "title": "US Open | Serena Williams Moves Closer to History",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Trump Accepts Meeting With Mexico's President",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "GeunfAHm-p4",
+            "title": "Trump Hotel to Sell High-End Wine in Crystal Spoons",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

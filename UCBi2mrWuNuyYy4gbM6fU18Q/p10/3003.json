@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eW2qHCOAkfw",
-            "title": "Friendly whales entertain tourists on a boat in California",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "LEke_sciQVo",
             "title": "Neil Gorsuch uses 'bigly' at confirmation hearing | ABC News",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "Transgender dad and daughter transition together from mother and son",
             "secondDuration": 486,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHzCNQkEIoI",
+            "title": "Drive a tank in Texas? Blow stuff up on this company's battleground",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r5Z20tjTzNs",
-            "title": "Trump revokes security clearance for former CIA director",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "I-n8De8cP9M",
             "title": "More than 1,000 children were victims of priest abuse, according to grand jury report",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Judge faces backlash after New Mexico suspects freed",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "1f0didWK98U",
+            "title": "Highway collapses in Italian city",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

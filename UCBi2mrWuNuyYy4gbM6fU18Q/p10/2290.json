@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MqUtq4PeXiU",
-            "title": "Trump greeted by protesters as he visits Pittsburgh synagogue",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "t8mRoOduBtc",
             "title": "Alleged plot against Robert Mueller referred to FBI",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Alleged synagogue shooter charged with 29 federal counts",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "fObXWYRSjuE",
+            "title": "New video shows chaos amid deadly school shooting",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

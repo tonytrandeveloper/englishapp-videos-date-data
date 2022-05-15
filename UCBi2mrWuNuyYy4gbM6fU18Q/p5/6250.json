@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SOowX1CKf-M",
-            "title": "Trump Refuses CNN Question: 'You Are Fake News'",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "LgnMKD0xmd8",
             "title": "T-Mobile CEO Talks Future of Wireless and Content",
             "secondDuration": 371,
@@ -31,8 +25,14 @@
             "title": "Charlie Sheen Interview: Life After HIV Diagnosis",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "T8EnSWoz66g",
+            "title": "Kellyanne Conway Interview on Trump Russia Claims",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

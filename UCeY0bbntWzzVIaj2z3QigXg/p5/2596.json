@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CPr4f-DIP1o",
-            "title": "Joe Biden Outlines Immigration Plan For First 100 Days In Office | NBC News",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "qfvRYu9uZgg",
             "title": "Live: APIA 2020 Virtual Presidential Town Hall | NBC News",
             "secondDuration": 8185,
@@ -31,8 +25,14 @@
             "title": "Fact-Checking Barr's Claim That Voting By Mail Leads To Fraud | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "dGlHMZQtO7U",
+            "title": "Minute-To-Minute Breakdown Leading Up To Elijah McClain's Deadly Stop | NBC News NOW",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LTR-FLp3Gto",
-            "title": "Trump faces swift backlash on Syria decision l ABC News",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "p05YJ5if8Ew",
             "title": "Europe's most iconic mountain is a climate change warning l ABC News",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "‘Jeopardy’ host Alex Trebek reveals ‘regrets’ about sharing diagnosis",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYaSEOrnVjQ",
+            "title": "Rescuers find dog trapped for weeks after Bahamas hurricane",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

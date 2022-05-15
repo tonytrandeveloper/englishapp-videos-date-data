@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OAPIinTjiQs",
-            "title": "South Side Chicago Team Looks to Win Little League World Series",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "-1wXU8K0APo",
             "title": "Michael Brown's Mother: 'Justice' Will Restore the Peace in Ferguson",
             "secondDuration": 270,
@@ -61,8 +55,14 @@
             "title": "Gov. Rick Perry Fighting Back",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Wn4JzRnuc",
+            "title": "Gas Station Explodes After Botched Diesel Heist in Florida",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

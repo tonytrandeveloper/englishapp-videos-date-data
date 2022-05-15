@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CBL7CdW4N-s",
-            "title": "Donald Trump Takes on the Clintons",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZEmnBCd7RoA",
             "title": "Deadly Tornadoes Tear Through Texas",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "Adele Breaks Her Own Record | ABC News",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZjCFRlaJEg",
+            "title": "Deadly Tornadoes in Texas | ABC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

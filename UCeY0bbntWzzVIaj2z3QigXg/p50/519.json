@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "E66CGSmor04",
-            "title": "The Israeli And Palestinian Doctors Who Put Saving Lives Above It All | NBC News",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "WbZbRBMxpCA",
             "title": "Martin Luther King Assassination Witness Clara Ester Speaks Out, 50 Years Later | NBC Nightly News",
             "secondDuration": 186,
@@ -301,8 +295,14 @@
             "title": "Shulkin: President Trump Tweet Firing 'Somewhat Of A Surprise' (Full) | Meet The Press | NBC News",
             "secondDuration": 600,
             "group": "group_7"
+        },
+        {
+            "videoId": "nQt9PNcCZ6k",
+            "title": "Panel: Is President Donald Trump Tough Enough On Russia? (Full) | Meet The Press | NBC News",
+            "secondDuration": 468,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

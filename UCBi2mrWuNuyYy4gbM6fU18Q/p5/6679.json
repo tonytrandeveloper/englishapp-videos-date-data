@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oVvmVivdm1A",
-            "title": "Donald Trump, Hillary Clinton Discuss Tax Increases on the Wealthy | ABC News",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1I82pyUBns",
             "title": "Clinton, Trump Discuss Ways to Bring Insurance Costs Down, Improve Coverage | ABC News",
             "secondDuration": 492,
@@ -31,8 +25,14 @@
             "title": "2nd PRESIDENTIAL DEBATE 2016: Clinton, Trump Respond to Question of Appropriate Behavior | ABC News",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "-78W9FJeLhQ",
+            "title": "Hillary Clinton Takes on Donald Trump",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1zGV9RYIhaQ",
-            "title": "Oregon Mall Shooting: Clackamas Town Center Gunman Identified as Jacob Tyler Roberts",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "hSKysDhWW1c",
             "title": "Ikea Monkey 'Darwin' Now Behind Bars After Adventure Inside Furniture Store",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Barbara Walters' 10 Most-Fascinating People: Ben Affleck and More",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "SytPqwOGtww",
+            "title": "Clackamas Town Center Shooting: Gunman Opens Fire at Oregon Mall",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

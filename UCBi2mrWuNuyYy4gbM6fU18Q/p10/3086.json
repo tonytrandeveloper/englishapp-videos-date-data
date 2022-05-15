@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BKdgtilDuXQ",
-            "title": "Sean Spicer: Trump Immigration Order \"...makes a heck of a lot of sense\"",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "g6_xGmEGznU",
             "title": "Families Reunite at U.S.-Mexico Border for a Few Minutes | ABC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Trump's Immigration Ban | Protests Grow in Wake of Trump Executive Order",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "bVOlYsIEZhU",
+            "title": "Robert Kraft Opens Up About 'Deflategate'",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

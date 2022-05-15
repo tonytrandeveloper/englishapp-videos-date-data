@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "00jsdCnDcXE",
-            "title": "President Donald Trump On Russian Interference in Election: 'Nobody Really Knows' | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEfKKw1-h8c",
             "title": "President Donald Trump’s Warsaw Speech Covers NATO, Russia and Terrorism | NBC News",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Arrives In Poland Ahead Of Crucial G20 Summit | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "z86T6gNvnYU",
+            "title": "North Korea Missile Is New Threat To America: What Are The Options Now? | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

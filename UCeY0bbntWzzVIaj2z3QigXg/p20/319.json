@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ou9DSWl3nFw",
-            "title": "This Morning’s Top Headlines – June 25 | Morning News NOW",
-            "secondDuration": 1330,
-            "group": "group_7"
-        },
-        {
             "videoId": "BLqi51fb_pQ",
             "title": "Florida Building Collapse: 'This Is A Tragedy Without Precedent'",
             "secondDuration": 237,
@@ -121,8 +115,14 @@
             "title": "Condo Collapse Eyewitness: I Heard A Yell From The Rubble ‘Please Don’t Leave Me’",
             "secondDuration": 313,
             "group": "group_7"
+        },
+        {
+            "videoId": "8doGS6VkeyU",
+            "title": "Florida Gov. DeSantis: ‘It’s A Tragic Day’ And First Responders ‘Still Hard At Work’",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

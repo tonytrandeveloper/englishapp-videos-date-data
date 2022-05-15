@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A2n6EjWh9i4",
-            "title": "What is a Political Outsider? | America 101",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "TjUWYQzlLhk",
             "title": "What is a Swing State? | America 101",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Inside Donald Trump's Childhood Home",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "a3uYyNtEfRM",
+            "title": "Ryan Lochte DWTS Protesters Speak Out",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qn6WOI5fMIU",
-            "title": "Up Close and Personal with a Whale",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "KcpAcBPyEkQ",
             "title": "Decision Approaching for 'Religious Freedom' Bill",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Lawsuits Filed Against Yoga Guru",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "B56aja420CI",
+            "title": "'Grey's Anatomy' Star Chandra Wilson Gives Series Sneak Peek",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

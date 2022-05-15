@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a-3sv0hd2-o",
-            "title": "17-Year-Old Accused of Plotting Attack on School to Rival Columbine",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "qn0bSHaBBDM",
             "title": "Anthony Weiner's Comeback: On the Trail With the Mayoral Candidate",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "'This Week' Web Extra: Maggie Haberman Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "P1UBabLtEQA",
+            "title": "'This Week' Sunday Spotlight: Inside 'Homeland'",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

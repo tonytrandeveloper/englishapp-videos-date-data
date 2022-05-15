@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "07OMAKo4goM",
-            "title": "Dozens Stuck 10,000 Feet Over The Alps Overnight | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "miuiAmLgVw4",
             "title": "'Items of Interest' Found In Search for Student Missing Since 1996 | NBC News",
             "secondDuration": 62,
@@ -301,8 +295,14 @@
             "title": "Mike Pence Talks Immigration And The Campaign (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 1416,
             "group": "group_7"
+        },
+        {
+            "videoId": "muPbS4M7WKU",
+            "title": "Bernie Sanders On The Future Of The Revolution (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 509,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

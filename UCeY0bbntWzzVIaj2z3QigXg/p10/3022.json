@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "En09093N69o",
-            "title": "‘Lord Buckethead’ Steals Limelight From British PM Theresa May | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "ccnV2GtyNpQ",
             "title": "UK Left-Wing Leader Jeremy Corbyn Delighted By Party’s Second-Place Finish In UK Election | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "James Comey Hearing Packs DC Bars: ‘It’s A Company Town’ | Meet The Press | NBC News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "VYK2Il-VFZo",
+            "title": "Marco Rubio Doesn't Think President Trump Purposely Impeded FBI Investigation | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tiiw5Ehezgw",
-            "title": "Watch live:  President Trump, First Lady test positive for Covid-19",
-            "secondDuration": 724,
-            "group": "group_7"
-        },
-        {
             "videoId": "9B5LsLLlnaU",
             "title": "Contact Tracing And The President: What's Next After Positive COVID-19 Test? | NBC News",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Chrissy Teigen And John Legend Mourn Loss Of Third Child | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "0fjNSwwsWSo",
+            "title": "Black Voters In NC Face Higher Mail-In Ballot Rejection Rate Than White Voters | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

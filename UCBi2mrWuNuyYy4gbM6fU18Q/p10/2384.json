@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7NG0w3p01ig",
-            "title": "Teen pushed off bridge thinks she 'fainted midair'",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "tmXvZH5dkqM",
             "title": "Charlottesville prepares for anniversary of deadly protests",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Vice President Pence tout groundwork for future 'Space Force'",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "UKCOCURqoyw",
+            "title": "'Briefing Room': Mueller probe, Manafort trial, Space Force, Melania's parents get citizenship",
+            "secondDuration": 835,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

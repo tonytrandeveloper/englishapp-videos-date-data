@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ZSBwFnaGyw",
-            "title": "Fierce reaction to Trump's decision to move US embassy to Jerusalem",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "060iyAz9EPo",
             "title": "Growing list of senators call on Al Franken to resign in wake of sexual misconduct scandal",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Near miss at New York's JFK Airport",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "PB2r1pEVgnE",
+            "title": "Christmas 2017: U.S. Capitol tree lighting ceremony live | ABC News",
+            "secondDuration": 2174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

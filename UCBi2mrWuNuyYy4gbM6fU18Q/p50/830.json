@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZAvsT90Jgnc",
-            "title": "What Virginia On-Air Shooting Survivor Remembers About the Incident",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "G78GEaaRUXo",
             "title": "'Warlords of Ivory': Tracking Ivory After Elephant Kills",
             "secondDuration": 157,
@@ -301,8 +295,14 @@
             "title": "Wildfire Grows Into the Largest in Washington State's History",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SF5a11EB4I",
+            "title": "How Sarcasm Is Linked to Creativity",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WMjxOTpC2nE",
-            "title": "Stony Brook University Prepares To Receive Coronavirus Patients From Strained Hospitals | News NOW",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "lhKCLUsCYak",
             "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4258,
@@ -31,8 +25,14 @@
             "title": "Live: NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 6390,
             "group": "group_7"
+        },
+        {
+            "videoId": "SBMOwceqMlE",
+            "title": "Mayor de Blasio Cancels All Non-Essential New York City Events In May | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

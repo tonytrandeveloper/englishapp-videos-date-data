@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B7I-FBuGgfQ",
-            "title": "Riders stranded on bungee ride at county fair",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "aiAPx9Adl_Q",
             "title": "New safety belt warning issued for backseat passengers",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Trump endorses new immigration plan",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "YNMSesnCNlY",
+            "title": "Amazon hires thousands of people on the spot",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

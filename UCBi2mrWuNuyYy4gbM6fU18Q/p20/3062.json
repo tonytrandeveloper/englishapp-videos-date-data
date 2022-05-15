@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "60tmSGxrV9o",
-            "title": "Interview With Rep. Paul Ryan",
-            "secondDuration": 567,
-            "group": "group_7"
-        },
-        {
             "videoId": "CurdFR-WRLA",
             "title": "Tuscaloosa Alabama: Mayor Walt Maddox Speaks",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "George W. Bush Interview on 'GMA':  Leads the Warrior 100 (2011)",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "nEZPfxTSvYA",
+            "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

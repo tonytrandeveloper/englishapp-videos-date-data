@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DPWgXuO01Qc",
-            "title": "NBC News NOW Full Broadcast - March 24th, 2021 | NBC News NOW",
-            "secondDuration": 2956,
-            "group": "group_7"
-        },
-        {
             "videoId": "tHpJRidNrJE",
             "title": "Exclusive: Gov. Northam Speaks Out About Signing Bill To Abolish Death Penalty | NBC Nightly News",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Zuckerberg To Testify Before Congress On Social Media’s Role In Extremism | NBC News NOW",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "RzGBIUk3JxM",
+            "title": "White House Holds Press Briefing: March 24 | NBC News",
+            "secondDuration": 2586,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

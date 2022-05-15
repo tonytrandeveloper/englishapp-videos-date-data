@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3D7f66l5AFY",
-            "title": "How The New Tax Law Will Affect Your Wallet | Better | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "OkCoFpB_gbA",
             "title": "Media Panel: Fake News And Twitter In The White House (Full) | Meet The Press | NBC News",
             "secondDuration": 535,
@@ -31,8 +25,14 @@
             "title": "Speaker Paul Ryan And Senator Orrin Hatch Sign Tax Bill | NBC News",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "QKWfk_0Wiro",
+            "title": "Amb. Nikki Haley: US Paying For 'Dubious Privilege' Of Being Disrespected By UN | NBC News",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

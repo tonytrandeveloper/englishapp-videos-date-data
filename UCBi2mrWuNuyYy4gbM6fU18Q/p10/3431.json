@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GeunfAHm-p4",
-            "title": "Trump Hotel to Sell High-End Wine in Crystal Spoons",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "mgFWQK6v0xw",
             "title": "The New “Bachelor” is Revealed | ABC News",
             "secondDuration": 274,
@@ -61,8 +55,14 @@
             "title": "Cornell Student Stabbed to Death on Campus",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "zCbrF7TU60I",
+            "title": "Ryan Lochte Interview on Alleged Rio Robbery",
+            "secondDuration": 499,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

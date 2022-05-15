@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DvOWV_vx5Vo",
-            "title": "Scuba Therapy for Soldiers",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "6bQp45eDEsU",
             "title": "Facing 6th Grade With Tourette",
             "secondDuration": 225,
@@ -121,8 +115,14 @@
             "title": "'The Most Dynamic Actor of his Generation'",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "PjR-jqd22kw",
+            "title": "QUICK FIX: Geniuses or Fools?",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

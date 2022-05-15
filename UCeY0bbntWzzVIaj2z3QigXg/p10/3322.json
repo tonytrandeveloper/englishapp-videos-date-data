@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mGS4pnRc0vE",
-            "title": "What’s The Youngest Age to Compete In The Olympics? | 30STK  | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ezTgr9wJNw",
             "title": "Michelle Obama: We Teach Our Daughters, 'When They Go Low, We Go High' | NBC News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Assange to Richard Engel: No Proof Russians Used WikiLeaks in DNC Leak | NBC Nightly News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "pGLUtAkHNG4",
+            "title": "‘It Feels Like It’s Alive’: Firefighters Battle California Blaze | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

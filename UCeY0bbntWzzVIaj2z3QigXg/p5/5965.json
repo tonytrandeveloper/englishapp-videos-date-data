@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "orOamCY3bv4",
-            "title": "Food Forward: Making Kelp the New Kale | Mach | NBC News",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "wWqDxIvIQEc",
             "title": "Ed Sheeran Discusses 'Game Of Thrones' Appearance In The Lightning Round | NBC News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Graham: Working with Russia 'Not the Dumbest Idea' But Close",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "PxTzYFrvHvE",
+            "title": "Brennan: 'Absolutely Wrong' That CIA Asked for Hacked DNC Server",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

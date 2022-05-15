@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PjR-jqd22kw",
-            "title": "QUICK FIX: Geniuses or Fools?",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "054EPU-PiwM",
             "title": "Jake Tapper on Obama's Notre Dame Speech",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "Parents of Missing Girl Confront Con",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZE9rHWhvyEQ",
+            "title": "Shocking Twist in Case of Missing Girl",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

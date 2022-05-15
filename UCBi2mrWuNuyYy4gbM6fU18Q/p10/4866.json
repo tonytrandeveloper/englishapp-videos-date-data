@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KHd5-OEAxgo",
-            "title": "Backstage at the 138th Annual Westminster Dog Show",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "dcbxN7EjURY",
             "title": "Glitz and Glamour at the 2014 State Dinner",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Sochi Winter Olympics 2014: Jamie Anderson Brings Home the Gold in Women's Slopestyle",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "3dYvK2sh_8U",
+            "title": "'Biggest Loser' Star Responds to Critics of Her Dramatic Weight Loss",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

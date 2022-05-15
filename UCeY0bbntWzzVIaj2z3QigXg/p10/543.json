@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Gz5wvwt4b5k",
-            "title": "Afghan Soldiers in Kunduz Surrender As Taliban Seizes More Cities",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "b-UYgqYAKew",
             "title": "Extreme Heat Across The U.S.",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "LIVE: Lt. Governor Kathy Hochul Addresses New Yorkers | NBC News",
             "secondDuration": 1201,
             "group": "group_7"
+        },
+        {
+            "videoId": "K2KG5hbGN0c",
+            "title": "Live: Biden Delivers Remarks on Jobs and the Economy | NBC News",
+            "secondDuration": 961,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

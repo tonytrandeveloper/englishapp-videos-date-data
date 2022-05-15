@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qPi_480tdWA",
-            "title": "American Airlines Reveals New Logo",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "reS6_Tvt3oQ",
             "title": "Woman Thrown on Subway Tracks in Attack",
             "secondDuration": 48,
@@ -31,8 +25,14 @@
             "title": "Lance Armstrong's Confession to Oprah Winfrey: 'I View This Situation as One Big Lie'",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "sQ_o9_jaMc8",
+            "title": "American Hostages Escape From Algeria Terrorists",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

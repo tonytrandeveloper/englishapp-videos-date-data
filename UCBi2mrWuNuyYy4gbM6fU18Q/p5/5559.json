@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eHmYopbV6as",
-            "title": "Naples, Fla., mayor on Hurricane Irma prep",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "nK3mgyDtMZA",
             "title": "Key West resident speaks out as Irma approaches",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Special Report: Hurricane Irma barrels toward Florida",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "vrTKK-vk7_A",
+            "title": "Special Report: Millions evacuate as Irma takes aim at Florida",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

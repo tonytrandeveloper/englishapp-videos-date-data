@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pjRx3okxCp8",
-            "title": "Biden Grants Temporary Protected Status To Ukrainians Already in U.S.",
-            "secondDuration": 295,
-            "group": "group_7"
-        },
-        {
             "videoId": "UgN-U8XNMTY",
             "title": "NATO Chief Supports Putin War Crimes Probe After Seeing 'The Use Of Cluster Bombs’",
             "secondDuration": 86,
@@ -121,8 +115,14 @@
             "title": "Nuclear Plant In Ukraine On Fire After Russia Shells Facility",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDtCOtTOQ2g",
+            "title": "LIVE: Russia Invades Ukraine | NBC News NOW Simulcast of Sky News",
+            "secondDuration": 18000,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "chxgWqCHGRA",
-            "title": "Colin Kaepernick new face of Nike's 'Just Do It' campaign",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "vuWedsSYd1o",
             "title": "'The Briefing Room': Brett Kavanaugh Hearing, McCain's replacement, Midterm poll numbers | ABC News",
             "secondDuration": 852,
@@ -31,8 +25,14 @@
             "title": "'Cosby' actor speaks out after being job-shamed online",
             "secondDuration": 464,
             "group": "group_7"
+        },
+        {
+            "videoId": "ctl4ujVd9ic",
+            "title": "Lewinsky shuts down interview after Clinton question",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

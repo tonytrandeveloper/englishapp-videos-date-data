@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nTrKR08sptE",
-            "title": "Gunman Kills Beloved Football Coach",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPz0aHUUvwo",
             "title": "Living in the Shadow of Health Care Fears",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Deadliest Crash in D.C. Metro History",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "aZfjk9fjHqM",
+            "title": "Could Mousavi Be Arrested for Protests?",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

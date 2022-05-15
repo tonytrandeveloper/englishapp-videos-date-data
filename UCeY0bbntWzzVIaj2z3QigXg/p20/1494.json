@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8DpYjm2LCKY",
-            "title": "President Donald Trump Meets Angela Merkel After Landing In Hamburg For G20 Summit | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQJjILhqj9A",
             "title": "Watch Donald Trump's Keynote Speech In Warsaw, Poland | NBC News",
             "secondDuration": 2194,
@@ -121,8 +115,14 @@
             "title": "North Korea Releases Video Of ICBM Test | NBC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZnD4R2qIiYE",
+            "title": "U.S. And South Korea Hold Joint Missile Drills In Show Of Force Against North | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

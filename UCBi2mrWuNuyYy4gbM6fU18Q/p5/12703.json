@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HdnsDctWxes",
-            "title": "Extreme Pet Grooming",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "CoivciuZE4A",
             "title": "Fighting Obama's Offshore Drilling Freeze",
             "secondDuration": 324,
@@ -31,8 +25,14 @@
             "title": "Wildlife in the Gulf",
             "secondDuration": 404,
             "group": "group_7"
+        },
+        {
+            "videoId": "qEECJLcHyQ4",
+            "title": "Testing Your Solutions to Gulf Oil Spill",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

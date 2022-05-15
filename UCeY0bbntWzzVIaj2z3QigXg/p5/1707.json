@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qidzoEgSrgw",
-            "title": "Queen Elizabeth Responds To Prince Harry, Meghan Markle Interview | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "JiR6cQ7U5p0",
             "title": "FBI Releases New Video In Search For Suspect Who Planted Pipe Bombs Night Before Capitol Riot",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "‘The Science Is Screaming At Us’: John Kerry Reboots U.S. Climate Cooperation | NBC News NOW",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "msirQwvF--o",
+            "title": "Live: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3385,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

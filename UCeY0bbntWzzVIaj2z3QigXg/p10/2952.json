@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VFJSTcjHF6k",
-            "title": "Outer Banks Power Outage: Businesses in Cape Hatteras on Edge",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "BwXHS_jCtB8",
             "title": "Venezuela Votes: Violence, Unrest Mark Day of Controversial Election",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "FDA: Regulatory Shift Targets Nicotine In Tobacco Products | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "2omzWaGWjzM",
+            "title": "Hospice Nurse And Patient’s Son Cross Paths Again | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

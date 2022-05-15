@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YMLY5ugrGtY",
-            "title": "White House says Trump has power to fire Mueller",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "DttOQhE0ksg",
             "title": "Facebook CEO Mark Zuckerberg answers questions, addresses possibility of regulation",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "Trump believes he can fire Robert Mueller",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "GQN4On0K7-w",
+            "title": "Facebook CEO Mark Zuckerberg testimony on data privacy before Senate committee | ABC News",
+            "secondDuration": 22916,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

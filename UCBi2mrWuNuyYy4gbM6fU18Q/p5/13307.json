@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1jigqTiaLZ8",
-            "title": "The Science of Predicting Weather",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "PEBN7tSjdXI",
             "title": "Iran Government Readies to Punish Protesters",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "'Jon and Kate' Couple to Divorce",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pw1V-jNfziI",
+            "title": "Michelle Obama on Healthy Living",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

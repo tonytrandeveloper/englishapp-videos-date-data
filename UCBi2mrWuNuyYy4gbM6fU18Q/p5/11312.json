@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Sa-sVY4mrLI",
-            "title": "West Nile Virus Kills 66 in One Week",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "xWvIBDHeXvo",
             "title": "Paul Ryan Uses Sarah Palin's Speechwriter",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Jeb Bush on Hispanic, Asian American Voters",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjWuP1P5EHM",
+            "title": "SEAL Book Details Bin Laden's Death",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QtqPHEWDc_g",
-            "title": "WNN Webcast for Monday, June 4, 2012",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "hmaDtbQ1nuA",
             "title": "Cerebral Palsy Inspirational Run: Matt Woodrum Cheered on by Family and Classmates",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "On the Town with Will.i.am",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3TJtwUOmQg",
+            "title": "Sugar: Latest Target in Diet Wars",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uYYC1D3_5zk",
-            "title": "NY governor urges Amazon to reconsider HQ",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "r2s4WEAxjBc",
             "title": "Trump ordered top clearance for Kushner: Report",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "Trump on no deal with North Korea: 'Sometimes you have to walk'",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHGCZna1IIc",
+            "title": "North Korea Summit 2019: Trump, Kim Jong Un meet in Hanoi, Vietnam for second summit",
+            "secondDuration": 23832,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

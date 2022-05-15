@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "41my6AhQT8A",
-            "title": "Coming up on Meet the Press - June 1, 2013",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "cY2j5SiCfjY",
             "title": "Coming up on Meet the Press - A Week of Controversies - May 19, 2013",
             "secondDuration": 38,
@@ -31,8 +25,14 @@
             "title": "Coming up on Meet the Press - May 12, 2013",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "mCUGeYdoyZY",
+            "title": "Meet the Press - Keeping America Safe, Obama at 100 Days, Jason Collins & Gay Rights - May 5, 2013",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

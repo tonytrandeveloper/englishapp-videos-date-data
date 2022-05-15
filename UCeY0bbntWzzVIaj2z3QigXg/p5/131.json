@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gfr6jOBvN9A",
-            "title": "California Considers Rebates For Drivers To Help Offset Rising Gas Prices",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "mXz-R8wCJpM",
             "title": "Chicago Businessman Donates $1 Million Of Gas To Local Residents",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "Ukrainian Artists Produce Bulletproof Vests For The Defenders Of Kyiv",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "nP0oSfZdblU",
+            "title": "Zelenskyy Accuses Russia Of Using Phosphorus Bombs During NATO Address",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yr9awePM1VE",
-            "title": "'Boston Med' Premieres June 24 on ABC",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "aeIQ5SUxiIw",
             "title": "Analyzing Obama's Oil Crisis Plan",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "Holding Out Hope for Missing Child",
             "secondDuration": 394,
             "group": "group_7"
+        },
+        {
+            "videoId": "RcUuw5dBZiA",
+            "title": "Obama Stresses Need for Clean Energy",
+            "secondDuration": 434,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

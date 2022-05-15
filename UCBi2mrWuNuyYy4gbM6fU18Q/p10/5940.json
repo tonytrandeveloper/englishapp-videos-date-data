@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UgMdhvTAv50",
-            "title": "Favorite Holiday Movies",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "DHZUU0l70NI",
             "title": "Christmas Deliveries: Will They Make It?",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "Drunk Woman Caught on Camera",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "P_ItWpMpoDM",
+            "title": "Iraq: Then and Now",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

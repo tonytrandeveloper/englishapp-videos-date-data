@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Lzm-vAmBoXw",
-            "title": "Passenger ejected from car after crash into toll plaza",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "ylDHCk81CDc",
             "title": "Guess co-founder resigns after sexual misconduct allegations",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Rose McGowan defends Anthony Bourdain's girlfriend",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "00G-mUn12os",
+            "title": "'I do trust him': Trump reflects on Kim meeting",
+            "secondDuration": 693,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

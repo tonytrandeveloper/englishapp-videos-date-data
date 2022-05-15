@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EyjizUNG3sc",
-            "title": "President Donald Trump holds ‘Make America Great Again’ rally in Youngstown, Ohio",
-            "secondDuration": 3516,
-            "group": "group_7"
-        },
-        {
             "videoId": "s6f2n8ryW7o",
             "title": "Sen. John McCain returns for vote on health care, delivers remarks",
             "secondDuration": 2487,
@@ -61,8 +55,14 @@
             "title": "Trump attacks Attorney General Sessions on Twitter",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5yPp5maK8s",
+            "title": "Trump lobbies for health care at Boy Scout jamboree",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

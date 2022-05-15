@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xRhyr61cq_k",
-            "title": "President Donald Trump: Hurricane Michael 'Grew Into A Monster' | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "bJ5esr0LB0U",
             "title": "Ronald Reagan Hologram Comes To Life At Former President's Library | NBC News",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Special Report: Hurricane Michael To Make Landfall In U.S. | NBC News",
             "secondDuration": 307,
             "group": "group_7"
+        },
+        {
+            "videoId": "A4IFkT4Ww4Q",
+            "title": "Hurricane Michael Is Seen From International Space Station | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

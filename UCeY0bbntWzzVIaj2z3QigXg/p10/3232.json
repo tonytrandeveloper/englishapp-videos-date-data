@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Oc21YlvUItk",
-            "title": "Hillary Clinton On Brink Of History As First Female President-Elect | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "2JKYa-CoLSQ",
             "title": "U.S. Intel: No Confirmed Russian Meddling on Election Day | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton: 'We Have To Bridge The Divides' In This Country | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "KxZBSL8xfko",
+            "title": "Donald Trump: If We Don't Win, This Will Have Been A Waste Of Time | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

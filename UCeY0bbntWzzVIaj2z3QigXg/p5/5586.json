@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-U7WZuuYNTE",
-            "title": "Australia Same-Sex Marriage Vote Spawns Toxic Debate | NBC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "2mUOaCSNZWk",
             "title": "NASA Releases Stunning New Images Of Jupiter | Mach | NBC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Hails Vietnam Veterans: 'Tough And Smart Cookies' | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "P93PEKO3G0k",
+            "title": "Louis CK Accused Of Sexual Misconduct By Five Women | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

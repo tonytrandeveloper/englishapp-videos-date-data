@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jmPEEQ_ngdo",
-            "title": "Being Melania - The First Lady Part 1: Melania Trump on becoming the first lady",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZ9sZWzPkb0",
             "title": "Being Melania - The First Lady Part 3: Melania Trump on immigration, 'the jacket'",
             "secondDuration": 452,
@@ -61,8 +55,14 @@
             "title": "Death toll rises as devastation from Hurricane Michael mounts",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "oMx5E64AzOQ",
+            "title": "Rescue efforts underway for animals after Hurricane Michael",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

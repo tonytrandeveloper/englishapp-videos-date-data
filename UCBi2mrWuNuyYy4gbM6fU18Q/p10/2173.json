@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HzI6YVl1PvM",
-            "title": "President Trump's 2019 State of the Union address: ANALYSIS",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "mNUgpGGdd84",
             "title": "Trump talks national security, North Korea",
             "secondDuration": 785,
@@ -61,8 +55,14 @@
             "title": "Trump says new Mexico-Canada deal will replace NAFTA",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXCN4id2MVc",
+            "title": "Trump honors Debra Bissell at State of the Union",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

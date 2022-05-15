@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UNHgfkiSPF8",
-            "title": "Tricks and Treats for a Successful Football Party | ABC News",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "QOoS58o0i_c",
             "title": "World Series Game 7 Highlights | Chicago Cubs Win",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Surfer Catches Wave With Shark",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "4I6_6qga4e4",
+            "title": "World Series Game 6 Highlights | Cubs Grand Slam Keep Hope Alive",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

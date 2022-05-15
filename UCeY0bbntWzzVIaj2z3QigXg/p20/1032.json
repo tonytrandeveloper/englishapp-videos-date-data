@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OXVcTUMcbBw",
-            "title": "U.S.-Backed Forces Declare Victory Over ISIS In Syria After Last Stronghold Falls | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Asc8N7o01Q",
             "title": "Passengers Airlifted From Stranded Cruise Ship Amid Turbulent Weather | NBC Nightly News",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Three Headlines From The Release Of The Robert Mueller Report | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "OhTdNq-skTQ",
+            "title": "‘Special Counsel’s Work Is Done’: Mueller Submits Report To DOJ | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

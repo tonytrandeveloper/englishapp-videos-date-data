@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9mK-xJgoPlM",
-            "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "PBpqH5fsqo0",
             "title": "Iowa caucuses give Democratic candidates first test of voter appeal | Nightline",
             "secondDuration": 705,
@@ -301,8 +295,14 @@
             "title": "Life with Bundy l 20/20 l PART 4",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "tcYdMz4hNcU",
+            "title": "Life with Bundy l 20/20 l PART 3",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

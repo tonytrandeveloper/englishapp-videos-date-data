@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MtGNmZ1gr3A",
-            "title": "Caitlyn Jenner reflects on transitioning to a woman: Part 1",
-            "secondDuration": 529,
-            "group": "group_7"
-        },
-        {
             "videoId": "mzhzVAc3MaY",
             "title": "Caitlyn Jenner on deciding not to live a lie, what she learned: Part 2",
             "secondDuration": 443,
@@ -61,8 +55,14 @@
             "title": "Missing student Elizabeth Thomas found, teacher arrested in California",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "MaJ-QllpgvE",
+            "title": "French presidential candidate Marine Le Pen and Europe's far-right movement",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

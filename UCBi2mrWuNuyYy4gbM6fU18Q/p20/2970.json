@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "d8FHgIC-Rbk",
-            "title": "The Great 'GMA' Gingerbread Competition",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_mNNDT5DJM",
             "title": "Prince Philip Rushed to the Hospital",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "Drunk Woman Caught on Camera",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "P_ItWpMpoDM",
+            "title": "Iraq: Then and Now",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YjFtXn1DbXw",
-            "title": "How Did Chile Succeed in Mine Crisis?",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "m7syDMCbCto",
             "title": "The Hill's Shane D'Aprile on 'Top Line'",
             "secondDuration": 255,
@@ -61,8 +55,14 @@
             "title": "The Conversation: Hiking Across America",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "ha6C3hIXibA",
+            "title": "New Drug Helps Fight Drug, Alcohol Addiction",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

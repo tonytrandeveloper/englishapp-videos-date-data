@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MBvkz5sPj5E",
-            "title": "Japan Earthquake Caught on Tape: 'This Is So Scary'",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "sD7_Yv3dV_s",
             "title": "Japan Tsunami Washes Away Cars, Boats",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Are Keys to a Happy Marriage in Your Wallet?",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "CC4UB5XPttI",
+            "title": "Behind NPR Sting: Who Is James O'Keefe?",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

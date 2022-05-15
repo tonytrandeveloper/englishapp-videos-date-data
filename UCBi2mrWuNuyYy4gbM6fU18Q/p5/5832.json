@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZCR1kHQ_uag",
-            "title": "Scientists investigate shark behavior, dying reefs as climate warnings | ABC News",
-            "secondDuration": 715,
-            "group": "group_7"
-        },
-        {
             "videoId": "FkviscA_nh4",
             "title": "Trump pulls America out of the Paris Climate Accord",
             "secondDuration": 285,
@@ -31,8 +25,14 @@
             "title": "Gunfire erupts at resort in Manila, Philippines",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "5uPoZhFrJ7Y",
+            "title": "President Trump withdraws US from Paris climate change agreement (full remarks)",
+            "secondDuration": 2042,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

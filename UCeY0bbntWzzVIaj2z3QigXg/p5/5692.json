@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XGbHbAbC-l0",
-            "title": "The Hidden Cost of Sleep Deprivation | Better | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCLD5qXmk4c",
             "title": "Is It Better To First Pay Off Debt Or Invest? | Better | NBC News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Las Vegas Shooting: Survivors Struggle To Finance Recovery Costs | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "drYXRxKoGi8",
+            "title": "Rohingya Muslim Refugees Flee Ethnic Cleansing In Myanmar | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

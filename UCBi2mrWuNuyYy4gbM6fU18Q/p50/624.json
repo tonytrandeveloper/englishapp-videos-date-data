@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "p98G02hqH24",
-            "title": "Mexico Nightclub Shooting Video",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "IHlkr4jRHJY",
             "title": "Trump Breaks on Policy With Some Cabinet Picks",
             "secondDuration": 106,
@@ -301,8 +295,14 @@
             "title": "Woman Kayaks Inside Own House",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "2vA5chFrO8k",
+            "title": "Priyanka Chopra Suffers 'Minor Incident' on Quantico Set",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

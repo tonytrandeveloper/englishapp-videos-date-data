@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L3-FnPd13Yo",
-            "title": "SKINNY: An All New Season of \"The Bachelor\" Starts Tonight",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "eJSTEzmG8Ag",
             "title": "Boston Marathon Bombing: Jury Selection to Begin",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "50,000 Homeless Veterans Nationwide",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "nJKY3ECbHIg",
+            "title": "Is Mike Huckabee Running for President?",
+            "secondDuration": 631,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

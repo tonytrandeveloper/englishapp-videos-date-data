@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NE9G830exA8",
-            "title": "Police search LA mall for reported gunman",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsY2Zd65hoE",
             "title": "United against hate in the wake of deadly mosque attack",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "The Debrief: New Zealand terror attacks, global climate march, college admissions scam | ABC News",
             "secondDuration": 1510,
             "group": "group_7"
+        },
+        {
+            "videoId": "TPPeCtO3EPo",
+            "title": "49 killed in terror attack at New Zealand mosques",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

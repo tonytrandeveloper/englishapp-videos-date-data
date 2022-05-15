@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lSsyCmsn-iA",
-            "title": "How A Mortgage Actually Works | Show Me | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "zcd1267yXD0",
             "title": "Israel And Palestine Exchange Rocket Fire | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "California Redwood Trees Under Attack | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "YUbu9Zj4hEI",
+            "title": "Is Lethal Injection Painful? | Debunker | NBC News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

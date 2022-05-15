@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BGOOmWjyuKo",
-            "title": "Michael Cohen: I'm Going To 'Tell The American People My Story' | NBC News",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "cYv2zOFK-4g",
             "title": "Amtrak Passenger: 'I Couldn't Believe We Were Stuck' | NBC News",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "See What Happens When An Orca Gets Too Close To A Selfie Stick | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "KR6NU5gqbm8",
+            "title": "Meet The 86-Year-Old Soaring To Great Heights As The World’s Oldest Trapeze Artist | Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

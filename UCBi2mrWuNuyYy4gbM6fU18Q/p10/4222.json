@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BlHcoJ5tDF4",
-            "title": "Wimbledon Fans See Fantastic Tennis but Hear Loud Grunts",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "85Di01jlMGc",
             "title": "Video Shows Moments Leading Up to Deadly Las Vegas Shootout",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "New Fallout For Bill Cosby",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gzd8Oxtj4xU",
+            "title": "A Whole City Turns Out to See the Pope",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

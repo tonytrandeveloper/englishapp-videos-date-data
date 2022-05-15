@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AjO-nQad1Fk",
-            "title": "Orlando Business Mass Shooting: Fired Employee Kills 5 | NBC Nightly News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "mokptQrPn2o",
             "title": "The Non-Surgical Weight Loss Procedure That Takes 40 Minutes | NBC Nightly News",
             "secondDuration": 114,
@@ -121,8 +115,14 @@
             "title": "Winter Melt Off Bring Breathtaking Waterfalls To Yosemite | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "4d8vtFluORk",
+            "title": "London Terror Attack: 12 Arrested As Investigation Intensifies | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

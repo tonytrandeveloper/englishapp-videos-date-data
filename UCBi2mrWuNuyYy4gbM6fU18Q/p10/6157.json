@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S5jfYTsDYxU",
-            "title": "Japan Earthquake: Radiation Effects On Body (03.14.11)",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "XStcRzofmV4",
             "title": "What if a Major Quake Hit the U.S?",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Potential Nuclear Meltdown. Nightmare in Japan: Earthquake, Tsunami 3/11/2011",
             "secondDuration": 457,
             "group": "group_7"
+        },
+        {
+            "videoId": "9nTlgtf7TME",
+            "title": "Japan Earthquake Pictures, Video. Disaster in the Pacific 3/11/2011",
+            "secondDuration": 581,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

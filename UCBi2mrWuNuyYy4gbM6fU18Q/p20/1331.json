@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lcpxLXjYAa8",
-            "title": "Americans could see tax bill impact in early 2018",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "eQ-MBYGLnbs",
             "title": "'Black and Blue': Black police officers navigate a divided country",
             "secondDuration": 611,
@@ -121,8 +115,14 @@
             "title": "Train derails near Seattle, Washington: KOMO-TV Coverage | ABC News",
             "secondDuration": 19548,
             "group": "group_7"
+        },
+        {
+            "videoId": "j4BVd35Z3hY",
+            "title": "President Donald Trump delivers remarks on national security strategy| ABC News",
+            "secondDuration": 3546,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

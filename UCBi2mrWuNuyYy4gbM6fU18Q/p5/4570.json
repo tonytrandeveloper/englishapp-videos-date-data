@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "buFmaWeLZ8I",
-            "title": "Mom strangled to death by her own teenage son",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "3YQV_iAKmmU",
             "title": "Jonathan Karl: Trump's 'counting on fear and loathing to rally' GOP is a 'gamble'",
             "secondDuration": 722,
@@ -31,8 +25,14 @@
             "title": "Video shows a California music teacher punching a student",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "LfY4540dZt8",
+            "title": "Trump rallies in red states, where his approval ratings are high",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rwRC1KvXVtM",
-            "title": "Battle Over Executive Pay",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "AWUkf2PE-Ss",
             "title": "'We're Surrounded': Students Held in Iran",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Geithner Talks Economy",
             "secondDuration": 881,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhBXnaaeNsA",
+            "title": "Confusion Over Cash for Clunkers",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

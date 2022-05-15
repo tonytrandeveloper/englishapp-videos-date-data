@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q1MU4uIzHtY",
-            "title": "Deadly storms threatening several states",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "H_2Hf5cWG4g",
             "title": "The Briefing Room: Mueller report reactions| ABC News",
             "secondDuration": 2076,
@@ -121,8 +115,14 @@
             "title": "Mueller report details Trump reaction to Mueller appointment: 'I'm f---ed'",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "SX1sTPMuPc8",
+            "title": "Diver describes rescuing man who helped rescue Thai cave boys",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

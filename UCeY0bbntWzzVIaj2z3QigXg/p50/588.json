@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "U29Q_36HeR8",
-            "title": "President Donald Trump Officially Declares Opioid Crisis A National Emergency | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "r65SN4482o8",
             "title": "President Trump To McConnell: ‘Get To Work’ On Health Care, Tax Reform And Infrastructure | NBC News",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "First Human Embryo Editing Experiment In U.S.; Possible Future ‘Designer Babies’? | Mach | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ae7bmxzxBuY",
+            "title": "Meet the Nation’s First Travel Girls Baseball Team | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-ByCGNjbFRE",
-            "title": "Annie Le's Former Roommate Speaks",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "VroPBqHt-7w",
             "title": "What's Changed Since Lehman Collapsed?",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "Yale Student Missing Without a Trace",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugYE3djp09Y",
+            "title": "When Animals Attack",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

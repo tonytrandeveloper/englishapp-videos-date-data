@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F8nutsguPZA",
-            "title": "Line Psychology",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "ucLzVcg8Hr0",
             "title": "Mother's Quest to Find Somer's Killer",
             "secondDuration": 345,
@@ -31,8 +25,14 @@
             "title": "House Passes Health Care Bill",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "iiqjbE6k03Y",
+            "title": "Fort Hood Suspect's Ties to Terrorists",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

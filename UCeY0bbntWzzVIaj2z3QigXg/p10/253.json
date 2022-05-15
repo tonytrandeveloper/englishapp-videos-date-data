@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HJrlCSosA8s",
-            "title": "Morning News NOW Full Broadcast - Jan. 6",
-            "secondDuration": 2981,
-            "group": "group_7"
-        },
-        {
             "videoId": "isSnaZrU5P4",
             "title": "Lack Of Support From Republicans During Jan. 6 Events Shows Congress Remains Divided Over Riot",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "California Police Dog Mauls Driver After Car Reported As Stolen",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "yDWCJ1eiRbE",
+            "title": "Nightly News Full Broadcast - Jan. 5",
+            "secondDuration": 1287,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

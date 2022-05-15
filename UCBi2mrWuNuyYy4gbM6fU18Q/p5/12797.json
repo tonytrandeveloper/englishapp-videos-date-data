@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hIQCWq8uGZ8",
-            "title": "Russians Halt Adoptions by Americans",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wpx2iQaO-8U",
             "title": "Chris Rock's Take on 'Death at a Funeral'",
             "secondDuration": 353,
@@ -31,8 +25,14 @@
             "title": "Reading, Writing and Running",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "FqiXKN08ANA",
+            "title": "Amplified SXSW: Fools Gold",
+            "secondDuration": 456,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

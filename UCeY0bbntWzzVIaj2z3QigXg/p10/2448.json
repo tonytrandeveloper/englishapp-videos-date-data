@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NJrHrZBAMtc",
-            "title": "Panel: Will Donald Trump Confront Putin Over Election Interference? | Meet The Press | NBC News",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "s9rUq-mMloc",
             "title": "Senator Dan Sullivan: ‘Vladimir Putin Understands Power’ | Meet The Press | NBC News",
             "secondDuration": 444,
@@ -61,8 +55,14 @@
             "title": "Food Safety Alert As CDC Warns ‘Do Not Eat’ Kellogg’s Honey Smacks Cereal | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "905Anfw98HM",
+            "title": "12 Russian Intelligence Officers Charged By Mueller With Election Interference | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

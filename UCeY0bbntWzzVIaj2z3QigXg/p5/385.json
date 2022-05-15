@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "onTmo1CLemc",
-            "title": "Rikers Island: People Living In ‘Inhumane Conditions’",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "qxZUtgG0m3s",
             "title": "Poll Suggests 55 Percent Of Teachers Want To Quit Due To Covid Burnout",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "Bob Dole Laid To Rest at Arlington National Cemetery",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "V4y5JZKgAs4",
+            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
+            "secondDuration": 2200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

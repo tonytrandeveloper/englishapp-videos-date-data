@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_L_OuG1npM4",
-            "title": "Man Buys For Groceries For 10 People | Archives | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "GKqoigPkLO4",
             "title": "Is Your Data Safe? | Archives | NBC News",
             "secondDuration": 207,
@@ -61,8 +55,14 @@
             "title": "Is Coffee Bad For You? | Debunker | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnpLvBM7WVg",
+            "title": "Bird Picks Up Camera, Records Epic Flight | Archives | NBC News",
+            "secondDuration": 38,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

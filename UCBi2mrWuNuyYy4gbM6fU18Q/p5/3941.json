@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CP8j5iBi-j4",
-            "title": "The Briefing Room: Border detention facilities, Trump's 4th of July event, 2020 candidates",
-            "secondDuration": 1531,
-            "group": "group_7"
-        },
-        {
             "videoId": "uFl6ifq5eNk",
             "title": "Kaepernick speaks out against Nike ad showing shoes with Betsy Ross flag",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "Joe Biden's son addresses drug addiction, relationships and corruption allegations",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "P2gFJoC5hC8",
+            "title": "Iran is 'playing with fire' after enriched uranium, Trump says",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

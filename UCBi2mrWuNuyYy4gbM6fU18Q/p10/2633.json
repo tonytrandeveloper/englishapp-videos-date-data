@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aMXG-Lz2vUI",
-            "title": "10-year-old boy tests positive for the flu, later dies from pneumonia",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "MCgInd-sN9M",
             "title": "President Donald Trump attends Congressional Gold Medal ceremony for former Sen. Bob Dole | ABC News",
             "secondDuration": 4402,
@@ -61,8 +55,14 @@
             "title": "20 children across the US have died from the flu this winter: CDC",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "swo-I2Bl3zY",
+            "title": "Toddler with Down syndrome sings with sister in video thanks to music therapy",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

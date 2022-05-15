@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r4nRU6jrRfk",
-            "title": "Central CA Reaches Zero Percent ICU Capacity, Leaving 27 Million Vulnerable | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y8tjtaFXCFw",
             "title": "Pence Receives Covid Vaccine On Live Television | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2583,
             "group": "group_7"
+        },
+        {
+            "videoId": "ee2UZSrhY64",
+            "title": "Advocates Warn Early Voting Changes In Georgia Counties Are Suppressing Turnout | NBC News NOW",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

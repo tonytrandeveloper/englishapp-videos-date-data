@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o0qhVG9o4nQ",
-            "title": "Ken Jennings kept 'Jeopardy' win a secret from children",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "nNfD9-FbtjM",
             "title": "Van carrying college rowing team crashes, killing 1",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Trump signs partial trade deal with China l ABC News",
             "secondDuration": 861,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hs3a-7yydHM",
+            "title": "House votes to send articles of impeachment to Senate for trial l ABC News",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

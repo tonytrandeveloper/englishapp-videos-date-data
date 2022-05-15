@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_xbPj2TW4Cc",
-            "title": "WEBCAST: Deadly Explosion",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "4UV0aTejRnk",
             "title": "NYC on Edge After Powerful Explosion in Harlem Kills 3",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Juan Pablo Says He's Not the Character of 'The Bachelor'",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "hlb2cXddpBI",
+            "title": "Target Photoshop Error Fuels Body-Image Debate",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

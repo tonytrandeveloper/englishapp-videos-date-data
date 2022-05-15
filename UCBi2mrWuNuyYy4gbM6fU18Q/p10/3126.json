@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T8EnSWoz66g",
-            "title": "Kellyanne Conway Interview on Trump Russia Claims",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0ca3kHAujM",
             "title": "Star Wars Rogue One: Creating K-2SO",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "President Barack Obama's Farewell Address | ABC News",
             "secondDuration": 3592,
             "group": "group_7"
+        },
+        {
+            "videoId": "TCNHcgx1T0E",
+            "title": "Obama's Farewell Address: 'It Has Been the Honor of My Life to Serve You'",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

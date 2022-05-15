@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6x1Q_ZgLTAs",
-            "title": "'Lady Lex' reemerges after 76 years at the ocean's bottom",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ChCmMNK0KQ",
             "title": "Man, 18, says he was abused by disgraced USA Gymnastics doctor",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump, Swedish PM Lofven hold joint news conference | ABC News",
             "secondDuration": 2591,
             "group": "group_7"
+        },
+        {
+            "videoId": "PrvWarsQoxc",
+            "title": "Man arrested for stealing Oscar winner's statue",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

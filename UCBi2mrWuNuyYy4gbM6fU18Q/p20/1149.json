@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "be6NlL5jgHg",
-            "title": "7th child dies from outbreak at NJ rehabilitation center",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFPuTq-xRnY",
             "title": "'Briefing Room': Explosive devices sent to Clinton, Obama, & CNN; Saudi Arabia; 2018 midterms",
             "secondDuration": 1356,
@@ -121,8 +115,14 @@
             "title": "'The Debrief': Saudi journalist, migrant caravan, search for missing Wisconsin  girl | ABC News",
             "secondDuration": 2171,
             "group": "group_7"
+        },
+        {
+            "videoId": "47wZfMQ9H1c",
+            "title": "Turkish President lays out what happened to Washington Post columnist",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

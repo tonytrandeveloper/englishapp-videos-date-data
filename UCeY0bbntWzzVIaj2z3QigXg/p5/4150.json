@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u0Qcbdhn4wg",
-            "title": "‘Dear Evan Hansen’ Gets Its First Teen Lead | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "4D22gOFuurk",
             "title": "New Study Offers Hope For Alternative Cholesterol-Lowering Drug | NBC Nightly News",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "Paul Manafort’s Slap On The Wrist Exposes The Fraud Of The U.S. Justice System | Think | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "eyan7Wu7ArY",
+            "title": "Ethiopian Airlines Crash: Black Boxes Remain 'In Limbo' | NBC News",
+            "secondDuration": 280,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

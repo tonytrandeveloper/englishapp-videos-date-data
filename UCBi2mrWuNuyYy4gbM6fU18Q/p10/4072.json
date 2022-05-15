@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G1WVmn3HLRY",
-            "title": "'Dancing With the Stars' Booted Couple Speaks Out",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZH_EJiElh3o",
             "title": "Police Officer Appears to Manhandle Student",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Trump Loses Ground | ABC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "2rxXMAiYedw",
+            "title": "Alarming New Warning About Some of Our Favorite Meats",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

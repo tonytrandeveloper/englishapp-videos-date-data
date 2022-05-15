@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AyU2GjkiPUc",
-            "title": "Mayor de Blasio Speaks at New York City Food Bank | NBC News",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "ADFb-2SeiHs",
             "title": "Watch Full Coronavirus Coverage - April 17 | NBC News Now (Live Stream)",
             "secondDuration": 42901,
@@ -31,8 +25,14 @@
             "title": "What Doctors And Nurses Wish They Knew At The Start Of The COVID-19 Pandemic | NBC News",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "5QeZju3oBp0",
+            "title": "Trump and Coronavirus Task Force Hold White House Briefing | NBC News",
+            "secondDuration": 6278,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

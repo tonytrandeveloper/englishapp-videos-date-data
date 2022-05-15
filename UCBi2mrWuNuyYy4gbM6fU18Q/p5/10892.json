@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CMha0DOVLew",
-            "title": "Hillary Clinton Discusses Political Future: 'There Are Many Ways to Serve'",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "_XiM2xyWMiw",
             "title": "Wrong-Way Drivers Kill Almost 400 People Every Year",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Kim Jonh Un's North Korea Launches Successful Long-Range Missile",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "1zGV9RYIhaQ",
+            "title": "Oregon Mall Shooting: Clackamas Town Center Gunman Identified as Jacob Tyler Roberts",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

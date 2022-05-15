@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MZBoqjNEK4o",
-            "title": "Tropical Storm Isaac Threatens Haiti",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wk6jf7Gn57A",
             "title": "Isaac: Tracking the Storm",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Ashley Greene Dishes on New Thriller",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "oWvCnvGm4hk",
+            "title": "Prince Harry Photos; Katy Perry Split?",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

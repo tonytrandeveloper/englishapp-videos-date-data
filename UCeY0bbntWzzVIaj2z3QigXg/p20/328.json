@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4BdHo5NukN0",
-            "title": "Kim Jong Un Warns Of Possible Food Shortages In North Korea",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "ycRRP95ilwE",
             "title": "Attorney General Lays Out New White House Domestic Terrorism Policy",
             "secondDuration": 277,
@@ -121,8 +115,14 @@
             "title": "Israeli Nationalist Flag March Draws Angry Palestinian Protest",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "xBUYTBCqsz0",
+            "title": "FBI Director Wray Calls Capitol Riot 'An Affront To The Rule Of Law'",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

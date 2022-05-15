@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ch3fIr1iy_o",
-            "title": "Black Female Cadets Make History At West Point | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "QoSlSKypzpk",
             "title": "Some Baltimore City Services Frozen After Ransomware Attack Hits City Computers | NBC Nightly News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Track Star Goes From High School Commencement To Olympic Training | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "llGN_ebXSrU",
+            "title": "Robert Smith Pledges To Clear Student Debt Of Morehouse College Grads | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

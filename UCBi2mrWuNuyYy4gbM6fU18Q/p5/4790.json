@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wHweANGcJwM",
-            "title": "Paul Manafort to stand trial in special counsel case",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZgqsecnXJMY",
             "title": "At least 6 killed and 7 still missing as Carr fire scorches miles of land | ABC News",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "US spy agencies obtain images of North Korea working on possible missiles",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "4k4plZGF3dw",
+            "title": "Minneapolis officials brace for demonstrations police shooting",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

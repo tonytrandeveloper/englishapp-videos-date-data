@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W82RDt5nvVM",
-            "title": "Chaos ensued after Spirit Airlines cancelled 11 flights and delayed dozens more",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "6ZUhSghbN74",
             "title": "Eastwood meets his newly adopted family",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "White House press secretary Sean Spicer answer questions following Sally Yates testimony",
             "secondDuration": 2485,
             "group": "group_7"
+        },
+        {
+            "videoId": "8rEKYxX5Atg",
+            "title": "Hail ravages parts of Denver",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

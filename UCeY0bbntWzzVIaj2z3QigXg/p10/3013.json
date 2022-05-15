@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pTxCr6YnN-k",
-            "title": "Emojis Can Help Improve Communication And Our Relationships | Better | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "wPxXjz408T8",
             "title": "London Apartment Tower Blaze: 12 Confirmed Dead | NBC News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Steve Scalise Shot In Hip, Undergoing Surgery And In Stable Condition | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "v9bYgyoEPBQ",
+            "title": "Suspected Alexandria Gunman James T. Hodgkinson Pronounced Dead | NBC News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

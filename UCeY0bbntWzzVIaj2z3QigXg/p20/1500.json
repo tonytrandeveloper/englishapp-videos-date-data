@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pWi0KbuBe94",
-            "title": "Senator Ron Johnson: 'We Should Not Be Voting' on Healthcare This Week | Meet The Press | MSNBC",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "37usznOGMlE",
             "title": "Senator Bernie Sanders: Obamacare 'Has Problems' But Can Be Fixed | Meet The Press | MSNBC",
             "secondDuration": 439,
@@ -121,8 +115,14 @@
             "title": "As Stores Close Nationwide, Summer Retail Jobs Harder For Teens To Find | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "tpk8cgrLlSM",
+            "title": "A $30 Augmented Reality Headset That’s Made From Cardboard | Mach | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

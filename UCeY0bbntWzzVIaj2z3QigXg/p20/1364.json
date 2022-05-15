@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VDeZzVD5c1M",
-            "title": "Washington County Deputy On Saving A Boy From Frozen Pond: 'I'm Coming In. I Got Him' | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "ht9jNrVD4wI",
             "title": "5 Groundbreaking Scientific Discoveries Of 2017 That Could Change Our Future | Mach | NBC News",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Time-Lapse of Steam Fog Rolling Across Lake Superior | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Q2zm9Extkc",
+            "title": "Mach's Year On Review: 2017's Most Impressive Robots | Mach | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

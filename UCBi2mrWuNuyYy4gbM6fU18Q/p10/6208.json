@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4MfUsivZ9NY",
-            "title": "The Stories That Shaped 2010",
-            "secondDuration": 332,
-            "group": "group_7"
-        },
-        {
             "videoId": "iLXTlZkusYY",
             "title": "Snow Snarls NY Transit",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Roll Call's Christina Bellantoni on 'Top Line'",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "pJ-r6BaBBug",
+            "title": "Dem. Strategist: 'Obama in a Win-Win Position'",
+            "secondDuration": 610,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

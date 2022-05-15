@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ghXGNjAuosg",
-            "title": "President Trump's 2020 campaign kicks off with a rally in Orlando, Florida",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "aKDAld5fwAA",
             "title": "Acting Defense Secretary Patrick Shanahan steps down from the confirmation process",
             "secondDuration": 260,
@@ -31,8 +25,14 @@
             "title": "Orangutan celebrates 50th birthday with strawberry cake",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "iQj6gaM36R0",
+            "title": "World in Photos, June 18: 'Strawberry Moon', Toronto Raptors and a baby monkey",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

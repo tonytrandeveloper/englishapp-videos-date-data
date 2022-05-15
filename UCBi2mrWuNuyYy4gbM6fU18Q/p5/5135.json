@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oK7samrHJlI",
-            "title": "O.J. Simpson discusses murders in newly released interview",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkq2QeUaygw",
             "title": "Trump to announce gun safety proposals",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "A decade-old video interview of O.J. Simpson emerges",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "2dC4S0mAQjU",
+            "title": "Possible human remains have been discovered behind a home in Florida",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

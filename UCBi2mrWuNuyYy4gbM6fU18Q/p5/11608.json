@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hDBIp0N1Lns",
-            "title": "Syria Massacre: U.S. Student Killed",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "BTJ1_rVeFAk",
             "title": "Gunman Opens Fire at Seattle Cafe",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "John Edwards Trial: Jury Delays",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "t05d3mqYIyk",
+            "title": "401k Hidden Fees?",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

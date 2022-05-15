@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QUSHrHaQ8aU",
-            "title": "Airport security checkpoints close amid shutdown",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "mFnt3XhSeHE",
             "title": "The Briefing Room: Day 24 of Shutdown, Trump reacts to Russia stories, William Barr AG hearing",
             "secondDuration": 1537,
@@ -61,8 +55,14 @@
             "title": "A mother and her long-lost daughter reunite after five decades of separation",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "iOfZiYM57bM",
+            "title": "A Washington Post report claims President Trump concealed details of talks with Putin",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

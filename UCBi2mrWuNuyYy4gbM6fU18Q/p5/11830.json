@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G72HwpQOdCE",
-            "title": "Joe Paterno Passes Away at Age 85",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "ChMqYyOEw9Y",
             "title": "Heidi Klum and Singer Seal Call It Quits?",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Inside the Costa Concordia Disaster",
             "secondDuration": 518,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vXwcOtwTPE",
+            "title": "Newt Gingrich Closes Gap in South Carolina",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NoGjB5EqzA8",
-            "title": "President Donald Trump Hosts White House Hispanic Heritage Month Celebration | NBC News",
-            "secondDuration": 1218,
-            "group": "group_7"
-        },
-        {
             "videoId": "hg6iVIFdXkE",
             "title": "President Trump On Delayed Brett Kavanaugh Vote: 'I'd Like To See A Complete Process' | NBC News",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Kellyanne Conway Says Brett Kavanaugh Accuser 'Should Not Be Ignored' | NBC News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z8T1tG4pTaI",
+            "title": "Dangerous Flooding Continues In The Carolinas | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

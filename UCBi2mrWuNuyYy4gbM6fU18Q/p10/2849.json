@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YDE5Oj-MbNY",
-            "title": "Trump tells reporter to be 'quiet'",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "TlwA-FjzVAs",
             "title": "Pagoda sinks after strong storm in Myanmar",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Syrian forces battle ISIS for the city of Raqqa",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRdMcivMifM",
+            "title": "Suspected driver in human-smuggling case to appear in court",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

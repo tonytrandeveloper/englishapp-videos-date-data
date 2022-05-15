@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ugYE3djp09Y",
-            "title": "When Animals Attack",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEjJKmDebRM",
             "title": "Obama Opponent Speaks Out",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "La Toya: Prince Summoned to Death Bed",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "mYwxD2ArO4g",
+            "title": "La Toya: Paris Gives Private Farewell to Dad",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

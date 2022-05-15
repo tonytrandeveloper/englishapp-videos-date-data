@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W3sKL-PZOCk",
-            "title": "Sen. McCain's Admiration for Sen. Kennedy",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "22rlmTvQ8NU",
             "title": "Coming Home After 18 Years",
             "secondDuration": 521,
@@ -31,8 +25,14 @@
             "title": "Family Fun for Free",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "DKNszECtAs4",
+            "title": "Ladies of Lipstick Bail Bonds",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

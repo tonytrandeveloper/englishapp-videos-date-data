@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SJQupmJWBS4",
-            "title": "Christo's The Floating Piers Allows Visitors to Walk on Water",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "ALe42R8z89g",
             "title": "Rose Wine, 'It's a Lifestyle'  | ABC News",
             "secondDuration": 412,
@@ -31,8 +25,14 @@
             "title": "Why Did Donald Trump Fire His Campaign Manager?",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ia7cRGd5EAQ",
+            "title": "Hear Omar Mateen's 911 Call",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

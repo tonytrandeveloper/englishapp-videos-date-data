@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mgQ-_0FEO1M",
-            "title": "Person of the Week:  Major League Baseball players",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "flCTASfGzH4",
             "title": "Former Trump campaign aide pleads guilty to 2 counts",
             "secondDuration": 218,
@@ -31,8 +25,14 @@
             "title": "Former Trump aide pleads guilty in Russia probe: Special Report",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "QsUZCo7hasI",
+            "title": "President Donald Trump delivers remarks at CPAC conference | ABC News",
+            "secondDuration": 5301,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

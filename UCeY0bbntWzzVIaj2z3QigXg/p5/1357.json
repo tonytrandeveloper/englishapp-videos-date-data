@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-WSAcJ23m_0",
-            "title": "From Homelessness To Graduation: One Graduate's Inspiring Journey",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "yEtJayB1rG4",
             "title": "Legal Battle Over Nazi-Looted Painting At University Of Oklahoma Ends",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "NBC News NOW Full Broadcast - June 2nd, 2021",
             "secondDuration": 2901,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SLA39T1qwA",
+            "title": "NBC Nightly News Broadcast (Full) - June 2nd, 2021",
+            "secondDuration": 1089,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

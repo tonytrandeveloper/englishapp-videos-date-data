@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TurzPN8CF5c",
-            "title": "Hurricane Harvey: Veteran Houston Police Officer Among The Dead | NBC Nightly News",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "tBVmkDoR-fk",
             "title": "Pastor Joel Osteen Opens Megachurch to Flood Victims After Criticism | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Nikki Haley Says ‘Enough Is Enough’ After North Korea’s Latest Missile Launch | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "RbfOJlEDM1M",
+            "title": "Donald Trump in Texas to Survey Harvey Damage (Full) | NBC News",
+            "secondDuration": 1182,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

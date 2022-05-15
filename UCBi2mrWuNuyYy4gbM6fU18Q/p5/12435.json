@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r_qgAblFMdA",
-            "title": "Bestselling 'Diary of a Wimpy Kid' Out With New Installment",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "fy3t_wAzOqQ",
             "title": "30 Passengers Injured on Mediterranean Cruise",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Smart Kidnapper",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "LGIVrBBCqN4",
+            "title": "Seven Wonders of Our World",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

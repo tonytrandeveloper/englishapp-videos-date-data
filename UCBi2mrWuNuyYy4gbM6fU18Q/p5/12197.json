@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cNqMmZ0N-n8",
-            "title": "Snooki Taken Into Custody in Italy",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "hREp-krB1IY",
             "title": "The Land of the Brave",
             "secondDuration": 317,
@@ -31,8 +25,14 @@
             "title": "Casey Anthony's Mother Testifies in Murder Trial",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "rMMS_yog0DE",
+            "title": "NBA's Dynamic Duo: Lebron James and Dwyane Wade",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AqMUiYwKORI",
-            "title": "Have Errands? Pay Someone Else to Do Them",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "PMuvasF8DV0",
             "title": "IRS Firestorm Over Tea Party Targeting",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "In Case You Missed It: 6/20/14",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "i4UhE-P0mpE",
+            "title": "WEBCAST: State of Emergency",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

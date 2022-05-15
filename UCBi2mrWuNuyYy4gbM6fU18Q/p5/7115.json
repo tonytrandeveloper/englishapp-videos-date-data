@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8CILL-cDxRU",
-            "title": "Philando Castile | Diamond Reynolds on Livestreaming Police Shooting",
-            "secondDuration": 428,
-            "group": "group_7"
-        },
-        {
             "videoId": "eGbGj82SQrE",
             "title": "Black Lives Matter Protesters Clash With Police",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "Derek Jeter Marries Hannah Davis",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "eHWSfbjC_GA",
+            "title": "Pokemon Go Robbers Use App to Target Victims",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hh-hv701aqI",
-            "title": "The Truth About Saving on Insurance",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "IXE7Jmrvrqk",
             "title": "Profile of the Nevada Middle School Shooter",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Los Angeles Authorities' Counterfeit Crusade",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "oDKEinhllpw",
+            "title": "WEBCAST: Five Baby Cheetahs",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

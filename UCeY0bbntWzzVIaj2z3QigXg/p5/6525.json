@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wE9DoljpHVk",
-            "title": "Trans Pioneer Christine Jorgensen | Flashback | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "eJYn4uX98IE",
             "title": "How Diversity Shapes Multiracial Experiences | NBC Asian America",
             "secondDuration": 317,
@@ -31,8 +25,14 @@
             "title": "The Vice-Presidential Debate: Tim Kaine And Mike Pence (Full Debate) | NBC News",
             "secondDuration": 5573,
             "group": "group_7"
+        },
+        {
+            "videoId": "qikcfVJEvos",
+            "title": "Topics Both Vice Presidential Candidates Agreed On At The Debate | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

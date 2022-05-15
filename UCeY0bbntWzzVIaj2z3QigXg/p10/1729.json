@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MI6E3WciTW0",
-            "title": "‘Magical 15 Minute Motions:’ Nunes Mocks Time Procedures In Hearing | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "e2yoc-sltCw",
             "title": "Tim Morrison Questioned About Lt. Col. Vindman’s Credibility | NBC News",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Morrison: 'Russia Is A Failing Power, But It Is Still A Dangerous One' | NBC News",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "l0zOaS0XSOA",
+            "title": "Nunes Opening Statement: ‘Welcome Back To Act II Of Today’s Circus’ | NBC News",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e1dpx-CBG-I",
-            "title": "The Next War: How The U.S. Armed Forces Are Evolving | Meet The Press",
-            "secondDuration": 1645,
-            "group": "group_7"
-        },
-        {
             "videoId": "0V0eZk8_E-E",
             "title": "Lawmakers Back Bill To End Crack, Cocaine Sentencing",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Three Dead After Shooting At Convenience Store In St. Louis, Missouri",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "7QBWEhTH2EE",
+            "title": "White House Covid-19 Response Briefing | NBC News",
+            "secondDuration": 2171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

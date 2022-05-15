@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rD0X9CPAk8A",
-            "title": "First Vaccinations For Front-line Workers To Take Place This Week | NBC Nightly News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "C_udti50ucI",
             "title": "Meet The Press Broadcast (Full) - December 13th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2863,
@@ -61,8 +55,14 @@
             "title": "U.S. Health Care Workers Prepare To Receive Covid-19 Vaccine | NBC Nightly News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "NN3K87ye6P8",
+            "title": "Examining Pandemic’s Impact On Emissions | NBC News NOW",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

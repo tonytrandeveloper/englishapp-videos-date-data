@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eND4nTTylH0",
-            "title": "Obama Mocks Trump Over Twitter Account",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "JA51WDA8XDw",
             "title": "Election Night 2016 Tease",
             "secondDuration": 31,
@@ -121,8 +115,14 @@
             "title": "Georgia Sheriff Ambushed, Killed Responding to Neighborhood Dispute",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "x3TZUBMmnek",
+            "title": "Janet Reno Dead at 78 | Remembering the Former US Attorney General",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

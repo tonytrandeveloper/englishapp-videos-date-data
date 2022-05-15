@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5vhB1fK66J4",
-            "title": "White House Questions Trump's Invitation of Obama's Half-Brother",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "0I-RfF6UarY",
             "title": "San Francisco High School Shooting | Gunmen Manhunt Underway",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Firefighter Answers the Call, Saves Dad",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "WEoVtmbWMEQ",
+            "title": "Prince William, Princess Kate Meet Olympic Athletes",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

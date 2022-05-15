@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RxgWPNUw9JM",
-            "title": "Covid-19 Forces Man To Travel Miles From Home For Emergency Surgery | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "CWF5gfQ_4LM",
             "title": "Hospitals On The Brink As U.S. Coronavirus Cases Surge | NBC Nightly News",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Trump Claims Covid Vaccine Will Be Provided 'Free Of Charge' | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "K43WveeSexg",
+            "title": "Trump Delivers Remarks On Operation Warp Speed | NBC News",
+            "secondDuration": 1981,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

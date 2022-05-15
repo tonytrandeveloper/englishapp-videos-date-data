@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jQ1SSoZ7hgU",
-            "title": "Ukraine's Drones Have Lethal Impact On Russian Forces",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "dMrVJqzTrxM",
             "title": "WATCH: Skiers Survive Utah Avalanche",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "WNBA Star Brittney Griner Remains In Russian Custody",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "Am9MVskAVQk",
+            "title": "Deadly Russian Bombardment Strikes Kyiv Residential Building",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

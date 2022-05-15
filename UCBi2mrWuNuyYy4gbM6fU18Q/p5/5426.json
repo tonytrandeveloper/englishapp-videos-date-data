@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fVzrabaGIL0",
-            "title": "Accused NYC attacker said he was proud of attack: Authorities",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "lHzWEor3Y2w",
             "title": "Pres. Obama speaks at closing session of his foundation's summit",
             "secondDuration": 1221,
@@ -31,8 +25,14 @@
             "title": "NYC Mayor de Blasio, Gov. Cuomo, FBI and  NYPD hold news conference on terror attack that killed 8",
             "secondDuration": 3575,
             "group": "group_7"
+        },
+        {
+            "videoId": "eBzmF8Wvql0",
+            "title": "Parent holds 1st-grade teacher hostage",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

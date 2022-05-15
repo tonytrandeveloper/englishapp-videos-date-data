@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5zJTQFrvCoo",
-            "title": "Morning News NOW Full Broadcast - May 14 | NBC News NOW",
-            "secondDuration": 3101,
-            "group": "group_7"
-        },
-        {
             "videoId": "cWngOjJIC90",
             "title": "Governors Target Unemployment Benefits To Get Employees Back To Work",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "WATCH: Video From Inside Israeli Home As Rocket Strikes Building",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "P3UbVNfJ_vU",
+            "title": "NBC Nightly News Broadcast (Full) - May 13th, 2021",
+            "secondDuration": 1283,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

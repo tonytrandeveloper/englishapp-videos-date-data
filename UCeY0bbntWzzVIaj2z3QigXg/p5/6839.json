@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ddRRUizBsjk",
-            "title": "President Bush 43 Hits Campaign Trail for Jeb in South Carolina | NBC Nightly News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "9mSglaNdzNE",
             "title": "Strikes on Hospitals, School Leave Nearly 50 People Dead in Syria | NBC Nightly News",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Supreme Court Justice Antonin Scalia Dies at 79 | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "nrbmUOeMn-4",
+            "title": "Marco Rubio On 9/11: 'Don't Blame Bush' | Meet The Press | NBC News",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

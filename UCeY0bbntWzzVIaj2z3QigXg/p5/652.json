@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a-juTw_SvKM",
-            "title": "Tiger Woods Speaks Out About Recovery After Near-Fatal Crash",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "pWUZNw1_-uQ",
             "title": "FDA Panel Votes To Recommend Approval Of Merck’s Antiviral Pill As Omicron Variant Spreads",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "Supply Chain Issues Raise Prices Of Christmas Trees, Create Scarcity",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8ENJSU5Sv0",
+            "title": "LIVE: Biden Delivers Remarks On Bipartisan Infrastructure Bill | NBC News",
+            "secondDuration": 2073,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

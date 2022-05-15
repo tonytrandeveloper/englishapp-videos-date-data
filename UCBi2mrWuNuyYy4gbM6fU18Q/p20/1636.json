@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fwEkTuZ1Qxk",
-            "title": "Election Results Revealed by Tarot Card Reader",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "6r2gUFydlqc",
             "title": "Trump Protester Who Caused Security Scare Discusses Incident",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Rutgers University Stabbing  | Suspect in Custody",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "qqSMNHHq6Pc",
+            "title": "2 NYPD Officers Shot in The Bronx",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

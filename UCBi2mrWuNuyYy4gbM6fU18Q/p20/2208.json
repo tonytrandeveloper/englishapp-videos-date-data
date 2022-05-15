@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "atRHAE8Hwow",
-            "title": "Best of Jimmy Kimmel, Conan O' Brien, Seth Meyers and More!",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "n2S1Se9asTY",
             "title": "Autism: Yoga Therapy Helps Students on Spectrum",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "'American Sniper' Trial Jurors Explain Guilty Verdict",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "jpyW0zbaj2k",
+            "title": "Madonna Takes Tumble On Stage",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

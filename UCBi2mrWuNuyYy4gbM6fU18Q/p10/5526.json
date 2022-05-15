@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nJp3I5P0dBs",
-            "title": "Superstorm Sandy Wrecks Gas Lines in NJ",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "DuYcfQDfv7s",
             "title": "President Obama Tours New Jersey Storm Damage",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Superstorm, Hurricane Sandy 2012: President Obama, Mitt Romney Campaigns Starting Up Again",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "wtb-OK4bEs4",
+            "title": "Superstorm, Hurricane Sandy 2012: Inside NYC's Flooded Subways",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GDF_T96uDew",
-            "title": "Winter Storm Creates Icy Conditions Across Several States",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "JrQix9OxRr8",
             "title": "Eliot Spitzer Denies Accusations of Alleged Assault",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Grammys 2016 Winners and Highlights  | ABC News",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "6blXun2EOQ8",
+            "title": "Barbie Dream House Fully Loaded | ABC News",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

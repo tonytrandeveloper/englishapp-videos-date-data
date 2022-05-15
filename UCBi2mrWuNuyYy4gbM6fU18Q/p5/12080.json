@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HrBCc-7Rk3A",
-            "title": "Rep. Michele Bachmann Takes Iowa",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "3FDGzds8J2Q",
             "title": "Man Survives Shark Attack Off Carolina Coast",
             "secondDuration": 332,
@@ -31,8 +25,14 @@
             "title": "Texas Governor Rick Perry to Seek Rebulican Nomination in 2012 Presidential Race",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "X92CnnRLaG0",
+            "title": "Philadelphia Cracks Down on Flash Mobs",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

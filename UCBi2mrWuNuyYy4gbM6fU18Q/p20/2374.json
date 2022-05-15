@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aOWNONuEWg4",
-            "title": "WEBCAST: Fire Evacuations End",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "8n6PxdVYZFA",
             "title": "Hillary Clinton Hit on Benghazi, Health, Age",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "California's Battle Against Sweeping Wildfires",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcifLnZbcI8",
+            "title": "Tracking MERS Virus",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

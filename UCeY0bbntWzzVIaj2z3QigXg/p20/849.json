@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ifG12X0WEag",
-            "title": "Trump Speaks To Reporters Before Departing For Florida | NBC News (Live Stream Recording)",
-            "secondDuration": 684,
-            "group": "group_7"
-        },
-        {
             "videoId": "MdxOWpEjy1Q",
             "title": "How More Tariffs On China Will Impact American Companies | NBC News Now",
             "secondDuration": 329,
@@ -121,8 +115,14 @@
             "title": "Pensacola Naval Air Station Shooting: Shooter Dead, Motive Unclear | NBC News",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "Trqfwc_Gchs",
+            "title": "Pres. Trump Speaks At National Christmas Tree Lighting Ceremony | NBC News (Live Stream Recording)",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

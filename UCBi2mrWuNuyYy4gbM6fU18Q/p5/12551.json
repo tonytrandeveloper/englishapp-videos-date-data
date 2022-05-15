@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JT6uLYtlqWs",
-            "title": "'Top Line' Talks Lady Gaga, Murkowski and Money",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "eiBcxygNdOc",
             "title": "Connolly: 'Health Care Is Hardly A Secret'",
             "secondDuration": 568,
@@ -31,8 +25,14 @@
             "title": "Jake Tapper on 'Exhausted' Democrats",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "tiUckNWbnBs",
+            "title": "Plastic Surgery: The End of an Era?",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

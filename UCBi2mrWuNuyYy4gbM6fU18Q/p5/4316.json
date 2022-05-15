@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Qh85oDglu64",
-            "title": "'I don't think [Trump] knows how to act' in office: Possible 2020 GOP challenger Weld",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "S9NCLuoPHp8",
             "title": "Trump 'trying to take the power of the purse away from' Congress: Dem Sen. Duckworth",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "2 men detained in Jussie Smollett investigation released",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgxP-FcEZ6s",
+            "title": "Police detained a man who tried to breach airport security in Orlando",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a6SJ1yvHILw",
-            "title": "Man Raises Awareness for Testicular Cancer",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "bmLnS2h8C2M",
             "title": "SKINNY: Kelly Ripa Discusses Parenting",
             "secondDuration": 228,
@@ -121,8 +115,14 @@
             "title": "CMA Awards Recap",
             "secondDuration": 229,
             "group": "group_7"
+        },
+        {
+            "videoId": "ggZpmH0DcLg",
+            "title": "MIX: Local News Anchor Breaks it Down on Set",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

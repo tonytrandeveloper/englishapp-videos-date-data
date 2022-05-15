@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vq1BpqMB80s",
-            "title": "2 Americans among 8 killed in NYC truck attack",
-            "secondDuration": 585,
-            "group": "group_7"
-        },
-        {
             "videoId": "l1AdT-1qeB4",
             "title": "NYPD mounts massive show of force around New York City after terrorist attack",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Trump faces 1st terror attack during time in office",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "fVzrabaGIL0",
+            "title": "Accused NYC attacker said he was proud of attack: Authorities",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

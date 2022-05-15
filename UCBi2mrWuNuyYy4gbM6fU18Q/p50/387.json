@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wg96Kp7p6Ag",
-            "title": "The Debrief: Arrest in connection to LA shooting spree, election security, 16 marines arrested",
-            "secondDuration": 1819,
-            "group": "group_7"
-        },
-        {
             "videoId": "sBxNVgRE4-Y",
             "title": "House Speaker Pelosi holds weekly news briefing",
             "secondDuration": 1108,
@@ -301,8 +295,14 @@
             "title": "FTC expected to fine Facebook $5B over privacy claims | ABC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "7VHF-nwLuuA",
+            "title": "Republicans argue Mueller didn't give Trump presumption of innocence",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

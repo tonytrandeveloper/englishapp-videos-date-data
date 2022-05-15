@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vhLiA9sMOYA",
-            "title": "Maryland School Shooting Causes Multiple Injuries | NBC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "yONs6tdwiZ0",
             "title": "Mister Fred Rogers’ Neighborhood Turns 50 | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Opioid Plan Includes Death Penalty For Traffickers | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKVITDfXzfk",
+            "title": "President Donald Trump Sharpens Attack On Robert Mueller | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tTLGqzvLsFA",
-            "title": "Hurricane Dorian Brings Heavy Rain, Strong Winds To Caribbean Sea Islands | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "WhxGXBRALr0",
             "title": "Who’s In? Who’s Out? The Latest On The Democratic Primary Race | NBC News Now",
             "secondDuration": 303,
@@ -61,8 +55,14 @@
             "title": "‘We’re Scared’: San Juan’s Mayor Preps For Hurricane Dorian | NBC News Now",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "4wTbTHaQEmA",
+            "title": "Secretary Mark Esper: 'We're Not Gonna Overreact' About North Korea's Missile Tests | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

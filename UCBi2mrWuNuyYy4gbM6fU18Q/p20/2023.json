@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eX65h3Hhbps",
-            "title": "France and Allies Target ISIS With Airstrikes in Syria",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "beiTNtzc2GQ",
             "title": "Inside One Direction's Special London Concert",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Paris Attacks: Terrifying Scenes From French Stadium",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "cYlUK4Qhmf0",
+            "title": "Paris Attacks: Eyewitness Account of Terror",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

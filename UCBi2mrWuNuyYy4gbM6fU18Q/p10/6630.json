@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vghCvvoaNx4",
-            "title": "Walter Cronkite Dies at 92",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "aJcTBnDIZeE",
             "title": "ABC News' Coverage of Apollo 11 Moon Landing",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Anatomy of the Lunar Module",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tpe-gKbGnbQ",
+            "title": "Breakdown of Apollo 11",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8jy6F3d4vzE",
-            "title": "Justin Timberlake New Album: New Song 'Suit and Tie' Single Big on iTunes",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBtcomdRI4c",
             "title": "Golden Globes 2013: Lena Dunham, 'Girls' Cast, Adele, Julianne Moore Interviews Backstage",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Python Challenge: Snake Hunters Ready for Massive Wipeout",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "TbDhb5WAY5A",
+            "title": "Assault Weapon Ban Standoff",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

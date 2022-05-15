@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cCADSljlRnw",
-            "title": "Markets React to Donald Trump Victory",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyDDWx7PKeA",
             "title": "Hillary Clinton Campaign Reacts to Election Loss",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Extends Olive Branch After Clinton Concedes",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvLZL3QhVQE",
+            "title": "A Year of Campaigning for President of the United States",
+            "secondDuration": 342,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

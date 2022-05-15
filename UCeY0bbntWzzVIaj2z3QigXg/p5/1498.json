@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "llzL4O-1sYw",
-            "title": "NBC News NOW Full Broadcast - April 29th, 2021 | NBC News NOW",
-            "secondDuration": 3033,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bf2DvGEJCZk",
             "title": "Investigations Underway In Death Of California Man After Drawing Comparisons To George Floyd",
             "secondDuration": 268,
@@ -31,8 +25,14 @@
             "title": "On The Front Lines In Ukraine As Russia Tests Biden’s Foreign Policy | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1Pa-YGZusk",
+            "title": "Eight Fraternity Members Indicted In Student’s Alleged Hazing Death | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

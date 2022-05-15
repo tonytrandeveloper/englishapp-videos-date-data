@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RGf0uINmzOs",
-            "title": "Natalee Holloway's father talks about a shocking discovery in her disappearance",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "fzeU9zpmJCw",
             "title": "Crowd turns disorderly after President Trump's rally in Phoenix",
             "secondDuration": 84,
@@ -121,8 +115,14 @@
             "title": "Pres. Trump addresses US policy on Afghanistan: Special Report",
             "secondDuration": 1774,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ZftM7kMPZo",
+            "title": "The great American eclipse sweeps across the US",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

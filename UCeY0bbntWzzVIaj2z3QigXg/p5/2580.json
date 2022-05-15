@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1IHnsGOKM0M",
-            "title": "Texas Health Officials Overwhelmed With Coronavirus Testing Demand | NBC News NOW",
-            "secondDuration": 884,
-            "group": "group_7"
-        },
-        {
             "videoId": "9o91xu0HR4U",
             "title": "White House Declares ‘Autonomous’ Zone In Seattle ‘Liberated’ | NBC News NOW",
             "secondDuration": 217,
@@ -31,8 +25,14 @@
             "title": "Sister Of Missing Texas Solider Speaks About Meeting Military Suspect | NBC News NOW",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "ao9k0ibmhtc",
+            "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2430,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

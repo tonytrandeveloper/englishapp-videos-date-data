@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "f3Gy8lcIdZE",
-            "title": "Nationwide manhunt for alleged gun thief suspected of plotting mass violence",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "_nQx6lRMbo8",
             "title": "Senate confirms Neil Gorsuch to Supreme Court",
             "secondDuration": 51,
@@ -31,8 +25,14 @@
             "title": "Sen. Marco Rubio reacts to US military strike in Syria",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZGLYe82dcbA",
+            "title": "US launches military strike on Syria",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

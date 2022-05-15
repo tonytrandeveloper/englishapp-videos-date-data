@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c1ZdLfYzTvI",
-            "title": "Sean Spicer resigns as White House press secretary",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "LO7eloWT9gI",
             "title": "Person of the week: Keenan Briggs",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "OJ Simpson robbery attempt victim reacts to parole",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "tAM6e1LcD30",
+            "title": "Attorney General Jeff Sessions says he will stay in his job",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

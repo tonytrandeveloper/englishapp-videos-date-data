@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TOKhQL6Mtkc",
-            "title": "FBI: San Bernardino Mass Shooting Now a Terrorism Investigation | NBC Nightly News",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "mO2jb34BssE",
             "title": "Lester Holt Reports Following San Bernardino Shootout | 360 Video | NBC Nightly News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Mother Describes Call From Daughter Shot in San Bernardino Rampage | NBC Nightly News",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "CqtWZ5qRwfc",
+            "title": "More Mass Shootings In U.S. Than Days So Far This Year | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

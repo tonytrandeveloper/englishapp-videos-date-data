@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wxkjcmPullc",
-            "title": "On the Trail With Sarah Palin",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2cUmMScYXg",
             "title": "Gold Fever",
             "secondDuration": 400,
@@ -61,8 +55,14 @@
             "title": "Janet: Misses Michael's 'Silliness'",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "RqsqDjRdmdU",
+            "title": "Palin on Palin",
+            "secondDuration": 464,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

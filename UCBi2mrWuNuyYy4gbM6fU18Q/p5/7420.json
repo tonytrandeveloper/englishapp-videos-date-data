@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P0UjvgWS0zc",
-            "title": "Maryland Mall Shooting | Police Detail Scene, Suspect Remains on the Loose",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "1rdwH0iy704",
             "title": "Cat, Llama Form Unlikely Friendship at Rescue Farm",
             "secondDuration": 56,
@@ -31,8 +25,14 @@
             "title": "Obama on Donald Trump GOP Candidacy",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "VsI55rouZhQ",
+            "title": "Maryland Mall Shooting | 3 Shot, Suspect Remains at Large [BREAKING NEWS]",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

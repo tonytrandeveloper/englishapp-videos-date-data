@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JoDht7PCH3Y",
-            "title": "'I don't want to be the president for half of America': Sen. Amy Klobuchar",
-            "secondDuration": 524,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rav9HLuIoqY",
             "title": "'We can lay out the differences without hitting below the belt': Buttigieg on debate",
             "secondDuration": 484,
@@ -121,8 +115,14 @@
             "title": "Top takeaways from the ABC News Democratic debate l ABC News",
             "secondDuration": 390,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGIrv6LnNd0",
+            "title": "Felicity Huffman to be sentenced in ‘Varsity Blues’ scandal l ABC News",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

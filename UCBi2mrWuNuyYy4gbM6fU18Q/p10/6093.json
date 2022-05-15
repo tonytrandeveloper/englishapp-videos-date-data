@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "esph1V4DKt4",
-            "title": "AMC Dine-In Movie Theater Experience",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ScY6QxEca4",
             "title": "Behind-the-Scenes",
             "secondDuration": 304,
@@ -61,8 +55,14 @@
             "title": "Is Sexting Really Cheating?",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "FJF3Og9cCp8",
+            "title": "'Doomsday' Plane Ready for Nuclear Attack",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

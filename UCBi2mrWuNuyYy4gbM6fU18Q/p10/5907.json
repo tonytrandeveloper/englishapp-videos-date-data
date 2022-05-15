@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Nqh6MkmJM_I",
-            "title": "Mitt Romney 'Feeling Pretty Good' After Florida Primary Win",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "k1H6MsoXRfc",
             "title": "'The Descendants' Cast Interview: Working with George Clooney in A Best-Picture Nominated Film",
             "secondDuration": 320,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney's Victory Speech: Florida Primary 2012",
             "secondDuration": 918,
             "group": "group_7"
+        },
+        {
+            "videoId": "dDIxdqhe-io",
+            "title": "Facebook Going Public: What to Expect",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

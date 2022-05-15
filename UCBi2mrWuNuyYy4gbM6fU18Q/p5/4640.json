@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_5B97bRwgec",
-            "title": "Video captures rescue of little dog floating on couch amid floodwaters",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "oS7wenqz7ig",
             "title": "White House press briefing likely on NY Times report on Trump taxes, Kavanaugh/Blasey Ford",
             "secondDuration": 3880,
@@ -31,8 +25,14 @@
             "title": "Trump mocks Kavanaugh accuser at raucous rally",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "wdozJb_VFz4",
+            "title": "French gangster captured after 3-month manhunt",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

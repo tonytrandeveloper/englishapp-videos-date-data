@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ILR_pm8zg50",
-            "title": "Way Too Early: The 2020 Election - Midterm Special | NBC News",
-            "secondDuration": 1853,
-            "group": "group_7"
-        },
-        {
             "videoId": "tcEBg64fY0k",
             "title": "MSNBC Live: U.S. Attorney Announces Charges Against Rep. Chris Collins | NBC News",
             "secondDuration": 1601,
@@ -61,8 +55,14 @@
             "title": "Mendocino Complex Fire Largest In California History | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "oYzlMcjw86M",
+            "title": "Meet The Many Descendants Of 'The Great Painter' Caravaggio | NBC News",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

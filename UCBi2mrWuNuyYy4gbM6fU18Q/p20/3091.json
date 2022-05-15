@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r3bhwfa6HzE",
-            "title": "Inside The Egyptian Uprising, Hosni Mubarak's Next Steps 2/4/2011",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "6RUu0s532Fg",
             "title": "Barbara Walters on Heart Surgery, 'A Matter of Life and Death' 2/4/2011",
             "secondDuration": 611,
@@ -121,8 +115,14 @@
             "title": "When Should the Elderly Stop Driving? 2/2/2011",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "MR7U8ht3S5M",
+            "title": "Who is Hosni Mubarak? 2/2/2011",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

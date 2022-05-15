@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "svyL4bHMn_o",
-            "title": "Katie Couric on 'Good Morning America'",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4D6ZNuOD20",
             "title": "Paul Dano, Robert De Niro in New Film \"Being Flynn\" That Tackles Homelessness",
             "secondDuration": 403,
@@ -121,8 +115,14 @@
             "title": "JetBlue Pilot Video Reveals Clayton Osbon's Apparent 'Panic Attack' Mid-Flight; Passengers Subdue",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ONerGHt8KpA",
+            "title": "Webcast: Magic Johnson Group Buying LA Dodgers",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

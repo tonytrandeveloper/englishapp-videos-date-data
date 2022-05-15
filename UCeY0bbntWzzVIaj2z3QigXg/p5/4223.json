@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q8YXZlAS-c0",
-            "title": "Man Wearing 'MAGA' Hat Accused Of Attacking Media At Donald Trump's El Paso Rally. | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "hvpYZMsSpUU",
             "title": "Afghanistan Can’t Become Terrorist Haven Again, NATO Chief Says | NBC News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Millions Of Americans Seeing Shrinking Refunds Under Donald Trump Tax Plan | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "EcNePcPUoxM",
+            "title": "Measles Outbreak: CDC Confirms At Least 101 Cases | NBC Nightly News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

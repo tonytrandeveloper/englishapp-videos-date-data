@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4nedjNvtb4Y",
-            "title": "Paris Attack: Heroes' Stories of Survival",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "MokUfX0u9yk",
             "title": "Most Wanted Woman in the World: Paris Attack Suspect Vanishes",
             "secondDuration": 153,
@@ -301,8 +295,14 @@
             "title": "\"EXCLUSIVE INTERVIEW:  Phylicia Rashad on the Bill Cosby Firestorm",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPb7WcZbwtM",
+            "title": "CES 2015: Take a Ride in a Self-Driving Car",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

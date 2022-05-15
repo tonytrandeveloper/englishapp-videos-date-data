@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c1wZ-6yrseU",
-            "title": "Katherine McNamara: Worst Advice",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "tXzQdcptshI",
             "title": "Trump, Hollywood Stars Square-Off Online",
             "secondDuration": 367,
@@ -31,8 +25,14 @@
             "title": "Mike Pence Responds to 'Hamilton' Incident",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "1oO2FSRIRdA",
+            "title": "Selena Gomez Speech at AMAs 2016",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ejtbkk0sn2E",
-            "title": "Facebook mired in new privacy scandal",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "UUgs1Rvs_5A",
             "title": "Death toll rises from volcano in Guatemala",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Nearly 70 percent of early breast cancer patients may not need chemotherapy: Study",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "IgELQuJOASY",
+            "title": "An FBI agent's gun accidentally discharged in a Denver nightclub",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

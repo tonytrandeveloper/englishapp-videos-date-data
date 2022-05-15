@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "37UQRV1IRX8",
-            "title": "FEMA chief describes latest Hurricane Dorian preparations | ABC News",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "P6ShYNAAyAQ",
             "title": "Hurricane Dorian tears through parts of the Bahamas",
             "secondDuration": 216,
@@ -61,8 +55,14 @@
             "title": "Trump has been following the track of Hurricane Dorian from Camp David | ABCNews",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kro5aBWUNjE",
+            "title": "Ruth Bader Ginsburg reveals details about her recovery | ABC News",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

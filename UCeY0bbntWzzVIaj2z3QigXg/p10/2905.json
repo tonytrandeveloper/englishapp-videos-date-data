@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9EF_AsVo40w",
-            "title": "\"We Have To Go Help\": Texas Family Answers Call In Wake Of Harvey | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "W1DDctgadTE",
             "title": "North Korea Airs Purported Video Showing Launch Of Japan Missile | NBC News",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Houston Family Loses Six Loved Ones In Hurricane Harvey Flooding | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "TurzPN8CF5c",
+            "title": "Hurricane Harvey: Veteran Houston Police Officer Among The Dead | NBC Nightly News",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

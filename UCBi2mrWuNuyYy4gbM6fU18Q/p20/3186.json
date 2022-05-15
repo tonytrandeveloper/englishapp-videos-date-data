@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OQOCy8OZBvU",
-            "title": "America's Favorite Family: 'Modern Family' Cast",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEKBP2AdZFs",
             "title": "Ochocinco Booted From 'Dancing'",
             "secondDuration": 246,
@@ -121,8 +115,14 @@
             "title": "The Conversation: The Lesson of Rejection",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "PErZJXI8viA",
+            "title": "Study Links ADHD to Pesticide",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

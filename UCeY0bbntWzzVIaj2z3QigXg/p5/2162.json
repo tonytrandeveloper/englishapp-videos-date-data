@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LHRwNgujgJk",
-            "title": "Inspiring Kids: Sending Postcards Encouraging People to Vote | Nightly News: Kids Edition",
-            "secondDuration": 735,
-            "group": "group_7"
-        },
-        {
             "videoId": "8hpWVcb6hDU",
             "title": "Senate Democrats Speak After Boycotting Vote To Advance Amy Coney Barrett | NBC News",
             "secondDuration": 2414,
@@ -31,8 +25,14 @@
             "title": "Trumps Holds Campaign Rally In North Carolina | NBC News",
             "secondDuration": 4808,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDMkTHwKpbc",
+            "title": "FBI Announces Iran, Russia Obtained Voter Registration Information, Interfering In Election",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

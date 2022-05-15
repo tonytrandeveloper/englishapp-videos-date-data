@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q5ki5zUUU54",
-            "title": "Teens fall through ice in Central Park",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDGfheIsQyA",
             "title": "Baby kangaroo rejected by mom gets help from humans",
             "secondDuration": 56,
@@ -121,8 +115,14 @@
             "title": "Melania Trump first speech as First Lady",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "4I2RshpldTc",
+            "title": "Angelina Jolie on split from Brad Pitt",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

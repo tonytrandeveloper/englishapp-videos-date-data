@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o9b3GoDksPI",
-            "title": "Authorities investigating deadly shooting and possible hate crime in Missouri",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "j1tYhS_Sgyk",
             "title": "Princess Kate holds first official engagement with Action for Children",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "LIVE: Sean Spicer Full Press Briefing (2/23/17) | ABC News",
             "secondDuration": 3282,
             "group": "group_7"
+        },
+        {
+            "videoId": "GuUPtD1hPts",
+            "title": "DeVos slams Obama's transgender bathroom rule as 'overreach'",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

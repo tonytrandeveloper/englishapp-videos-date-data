@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oU8Yjlqx0JQ",
-            "title": "Full DeWine: 'Not About Politics' To Take Safety Measures | Meet The Press | NBC News",
-            "secondDuration": 428,
-            "group": "group_7"
-        },
-        {
             "videoId": "FmjqXoPRzaM",
             "title": "Full O'Brien: Trump A 'Profile In Courage' On China | Meet The Press | NBC News",
             "secondDuration": 592,
@@ -61,8 +55,14 @@
             "title": "Watch: Trump Visits Golf Course As States Loosen COVID-19 Restrictions | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "tERwwd2uTK0",
+            "title": "Cuomo Announces New Testing Sites, Encourages New Yorkers To Get Tested | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

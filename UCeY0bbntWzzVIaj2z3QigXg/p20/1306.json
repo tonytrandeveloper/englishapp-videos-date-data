@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MgAEmzP9OZs",
-            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "dydIAY1WJYQ",
             "title": "President Donald Trump Speaks At National Republican Congressional Committee Dinner | NBC News",
             "secondDuration": 3669,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Opioid Plan Includes Death Penalty For Traffickers | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKVITDfXzfk",
+            "title": "President Donald Trump Sharpens Attack On Robert Mueller | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYGanOktVfA",
-            "title": "Dallas Shooter's Motivations",
-            "secondDuration": 386,
-            "group": "group_7"
-        },
-        {
             "videoId": "m4pG45cF488",
             "title": "Dallas Police Used Robot to Take Sniper Out",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Trump, Clinton On Dallas Shootings",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUk8aSqT6bg",
+            "title": "Mother of Killed Dallas Officers Discusses Son's Death",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ivXHsSlRv3g",
-            "title": "Senate Republicans React To McCain's Cancer Diagnosis | NBC News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "SNcP1FdVQd8",
             "title": "Sec. Of Homeland Security John Kelly Jokes About Screening President Trump's Phone Call | NBC News",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "This Is The Closest You Can Get To Zero Gravity Without Leaving Earth | Mach | NBC News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "H_eT1wRL4w8",
+            "title": "The Reporter Who Broke The Story Of Donald Trump Campaign Meeting | Megyn Kelly | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

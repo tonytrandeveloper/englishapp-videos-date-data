@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4wng8JMEcSA",
-            "title": "Full Pence: 'Remarkable To Think About The Progress' Made Against COVID-19 | Meet The Press",
-            "secondDuration": 1042,
-            "group": "group_7"
-        },
-        {
             "videoId": "hApfECL16PY",
             "title": "Full Whitmer & DeWine: 'We Can't Just Turn Back To What Life Was Like Before COVID-19' | NBC News",
             "secondDuration": 490,
@@ -121,8 +115,14 @@
             "title": "What Doctors And Nurses Wish They Knew At The Start Of The COVID-19 Pandemic | NBC News",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "5QeZju3oBp0",
+            "title": "Trump and Coronavirus Task Force Hold White House Briefing | NBC News",
+            "secondDuration": 6278,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yvdWBnLO2IQ",
-            "title": "First responders at risk in coronavirus pandemic: 300 NYPD officers test positive | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "OshIvDCE5TM",
             "title": "Italian doctor’s advice for American hospitals: Reshape protocols and be flexible | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Trump and Coronavirus Task Force Brief From White House | NBC News (Live Stream)",
             "secondDuration": 4216,
             "group": "group_7"
+        },
+        {
+            "videoId": "onfAiXiRFPA",
+            "title": "Trump Details Letter To Governors In Effort To Get U.S. ‘Back To Work’ | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

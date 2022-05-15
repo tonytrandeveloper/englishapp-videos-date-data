@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "24O-cLA_iQE",
-            "title": "State of the Union 2013: Obama to Focus on Economy, Gun Control",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "9pAyXDfhnEQ",
             "title": "Instant Index: Olympic Committee to Cut Wrestling From 2020 Games",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Pope Benedict XVI Resigns: Who Will Be the Next Pope?",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "t0fI-rSJTis",
+            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

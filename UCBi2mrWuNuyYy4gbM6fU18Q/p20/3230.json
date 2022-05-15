@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9gswWr4DMgA",
-            "title": "Stopping Teen Pregnancy",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "EM0WaeUhpzs",
             "title": "Oscar Nominees 2010: James Cameron vs. Kathryn Bigelow, It's Complicated Re-enacted",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Winter Storm Slams Southern U.S.",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9pLEuDt29M",
+            "title": "Tragic Twist",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

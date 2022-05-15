@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4f3J_6fTshU",
-            "title": "Police-involved shooting on busy San Francisco street",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "t5lLcnA-xao",
             "title": "3-year-old missing girl rescued by family dog",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Barstool Sports' female CEO shares her vision for the company and its brand",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "LzyK3h5sd30",
+            "title": "20/20 Jun 15 Part 1: Mom discovers daughter brutally attacked by man with shovel",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

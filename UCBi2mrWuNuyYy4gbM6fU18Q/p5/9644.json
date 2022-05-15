@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "22Y2KjBWrVs",
-            "title": "Mick Jagger Speaks Out on the Death of Girlfriend L'Wren Scott",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "rWxTW3i5Nj0",
             "title": "Pickup Truck Flies Off Freeway and Slams Into Squad Car",
             "secondDuration": 27,
@@ -31,8 +25,14 @@
             "title": "KOMO-TV News Helicopter Crash Kills 2",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "UKPgsi5Yi24",
+            "title": "Mother Blames Church of Scientology for Splitting Up Family",
+            "secondDuration": 417,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

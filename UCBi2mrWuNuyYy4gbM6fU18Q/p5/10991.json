@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9z6llWiLR80",
-            "title": "David Petraeus Scandal: Benghazi Attack Testimony Behind Closed Doors",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "FYyVZ4Gwv1Q",
             "title": "Lindsay Lohan 'GMA' Interview 2012: 'I Do Relate to Elizabeth Taylor'",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Israeli Rockets Slam Gaza",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kq7RQ4Yv1Io",
+            "title": "Train Hits Truck Carrying Veterans, 4 Dead",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

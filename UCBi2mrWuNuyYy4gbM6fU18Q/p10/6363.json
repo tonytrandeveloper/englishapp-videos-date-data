@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Phcfzi5e4ag",
-            "title": "Tom Cruise Teams With Will.I.Am",
-            "secondDuration": 354,
-            "group": "group_7"
-        },
-        {
             "videoId": "IAJt8pKjc84",
             "title": "Gary Coleman in Critical Condition",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Inheriting a Famous Name",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "p6h8lZjdqyk",
+            "title": "GA State Sen Jason Carter on the Family Dynasty",
+            "secondDuration": 584,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

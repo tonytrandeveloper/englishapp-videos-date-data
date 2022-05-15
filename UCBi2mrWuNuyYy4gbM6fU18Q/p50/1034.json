@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nAh297EyYpc",
-            "title": "The Murder, the Mobster and the FBI",
-            "secondDuration": 908,
-            "group": "group_7"
-        },
-        {
             "videoId": "SEoH4Ku1HO4",
             "title": "Part 1: The Undercover House",
             "secondDuration": 434,
@@ -301,8 +295,14 @@
             "title": "'This Week' Exclusive Interview: Gen. John Allen",
             "secondDuration": 551,
             "group": "group_7"
+        },
+        {
+            "videoId": "e6eW_9pQ5QA",
+            "title": "Two Freight Trains Collide Collapsing Highway Overpass",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

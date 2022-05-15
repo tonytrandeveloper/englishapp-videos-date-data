@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "me4OVP67tfc",
-            "title": "Trump: ‘Certainly looking’ like Iran behind Saudi Arabia attack l ABC News",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "F33rrocnfaQ",
             "title": "Woman is first to swim English Channel 4 times in a row l ABC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "Trump backtracks after Saudi attack: ‘I don’t want war with anybody’",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "jenrB3tqz6g",
+            "title": "The Briefing Room: Iran, GM strike, Kavanaugh, Biden",
+            "secondDuration": 1760,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

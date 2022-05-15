@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6p0Hefs9EnU",
-            "title": "Florida Boat Accident: One Dead, Several Injured After Boat Capsizes",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "QX6oUAtCePg",
             "title": "WEBCAST: Black Friday 2012 Begins",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Darius Weems' Next Chapter",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "k32tpzYOU6k",
+            "title": "NBA Christmas Carol: Dribbling the Bells",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

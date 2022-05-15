@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PYsiIZ4anYI",
-            "title": "Hurricane Lane causes catastrophic flooding in Hawaii",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "C5H-rxNFCJo",
             "title": "What Aaron Hernandez' fiancee, lawyer think of his final notes before his suicide",
             "secondDuration": 457,
@@ -31,8 +25,14 @@
             "title": "Houston security guard loses job for not aiding police officer with arrest",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "g2E32JEyMaA",
+            "title": "Fiery crash on Los Angeles highway",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

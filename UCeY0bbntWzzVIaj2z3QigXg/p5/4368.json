@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vChlMJxvOIA",
-            "title": "Hundreds Killed After Tsunami Strikes Indonesia Without Warning | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "nEhjHE2EDbk",
             "title": "Mulvaney Predicts Shutdown Stalemate Could Last Into New Congress | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Trump On The Wall: 'Whatever You Want To Call It, It’s All The Same.' | Meet The Press | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "GfM0rlTcE3I",
+            "title": "Full Panel: Senate GOP Rattled After Chaotic Week | Meet The Press | NBC News",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

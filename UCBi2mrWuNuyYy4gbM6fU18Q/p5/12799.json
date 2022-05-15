@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H6OlaDVcOgw",
-            "title": "Flipping a Flop",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "bZJzd_7D-AM",
             "title": "Remembering Apollo 13",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "'GMA' Morning Mix: Russian Style and Politics",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "LM00VgOHZvo",
+            "title": "Police Punished After Beating Is Caught-on-Tape",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

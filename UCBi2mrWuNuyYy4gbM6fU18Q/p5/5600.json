@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ldgLnwP32uU",
-            "title": "Special Report: Hurricane Harvey makes landfall near Corpus Christi, Texas | ABC News",
-            "secondDuration": 1789,
-            "group": "group_7"
-        },
-        {
             "videoId": "PY1D0BEx4z8",
             "title": "Texas braces for 'catastrophic' flooding as Hurricane Harvey makes landfall",
             "secondDuration": 756,
@@ -31,8 +25,14 @@
             "title": "Doctors struggle to diagnose man's mysterious illness: Part 2",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "WWFYOsB5_Wk",
+            "title": "North Korea test-fires another ballistic missile",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

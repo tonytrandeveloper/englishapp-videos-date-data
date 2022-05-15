@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RGxYiiZ-kqU",
-            "title": "Baby Rescued from Houston Flooding | ABC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "S42cJjBsUiM",
             "title": "Driver Stuck on Tracks Helped by Strangers | ABC News",
             "secondDuration": 69,
@@ -301,8 +295,14 @@
             "title": "Trump Inauguration: Corporations and Heavy Hitters Open Wallets",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "p98G02hqH24",
+            "title": "Mexico Nightclub Shooting Video",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

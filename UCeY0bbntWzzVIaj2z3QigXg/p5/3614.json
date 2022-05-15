@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AUxlOYDYnyU",
-            "title": "Bennet: No One Should Be As 'Cynical Or Malevolent' As McConnell | NBC News",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z0JWONI-d9w",
             "title": "Cruz Claims 'The Data Are Mixed' On Climate Change | NBC News",
             "secondDuration": 369,
@@ -31,8 +25,14 @@
             "title": "Tom Steyer On President Donald Trump‘s ‘Destructive’ Initiative Of ‘America First’ | NBC News Now",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "XcVB6Fjo26w",
+            "title": "Fact Checking: Trump’s Attacks On Schiff’s Opening Statement At DNI Hearing | NBC News Now",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "za0MffNfflM",
-            "title": "Louisiana is in a state of emergency, as twister lifts up car and drops it back down",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "g18VM8n-3x4",
             "title": "Subway terror attack rocks Moscow",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "2 explosions kill at least 10 in St. Petersburg",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "-wyWowfNsLY",
+            "title": "Possible new sighting of missing teacher and former student",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

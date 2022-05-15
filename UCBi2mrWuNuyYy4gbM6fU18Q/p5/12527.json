@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lv_GYfEaJU4",
-            "title": "Homeowners Hit Jackpot With Apple",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "0meqcKTAcMU",
             "title": "Westboro Baptist Goes to the Supreme Court",
             "secondDuration": 468,
@@ -31,8 +25,14 @@
             "title": "Pastor Behind Military Funeral Protests",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLDcdDRH6Qk",
+            "title": "Supreme Court Weighs In on Protests at Soldier's Funeral",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

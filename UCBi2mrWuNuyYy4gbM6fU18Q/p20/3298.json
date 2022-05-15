@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S4ZefXfIYiw",
-            "title": "Kennedy Faces Tough Reelection Fight",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "sn1p7w7GjYQ",
             "title": "Kennedy Stands Up for Disabled Workers",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "New Allegations Against CIA",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBxF4aLRGRE",
+            "title": "Michael Jackson's Final Moments",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

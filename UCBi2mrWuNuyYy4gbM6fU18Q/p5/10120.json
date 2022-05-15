@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JL-1pwu9nZw",
-            "title": "50 Years After the March on Washington",
-            "secondDuration": 389,
-            "group": "group_7"
-        },
-        {
             "videoId": "dn0KCEAj2Gk",
             "title": "'This Week': Middle East Turmoil",
             "secondDuration": 500,
@@ -31,8 +25,14 @@
             "title": "Obama Reviews Syrian Government's Use of Chemical Weapons",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "sMCqtOnz1nY",
+            "title": "College Student Disappears Days Before Classes Begin",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FrGmk2GIvLA",
-            "title": "Palin's Payback Book",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "yDF326-A5H8",
             "title": "Vietnam Refugee Becomes U.S. Navy Captain",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Critical Care",
             "secondDuration": 473,
             "group": "group_7"
+        },
+        {
+            "videoId": "tETiJMSehkE",
+            "title": "Food Fight Lands Kids in Jail",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

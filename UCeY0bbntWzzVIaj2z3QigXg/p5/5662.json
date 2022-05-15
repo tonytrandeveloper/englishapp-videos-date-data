@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sKgbpH6UG4A",
-            "title": "White House Press Briefing - October 18, 2017 ( Full) | NBC News",
-            "secondDuration": 1450,
-            "group": "group_7"
-        },
-        {
             "videoId": "inWarHTw-Pg",
             "title": "Police Release Name Of Suspect In Shooting | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "'Rehearsal For War:' Pyongyang Denounces U.S.- S. Korean Naval Drills | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "fzKC9cld2Vg",
+            "title": "China's President Says Economic Rebirth Is Only At ‘Halfway Point’ | NBC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Is9qHooP0jE",
-            "title": "Aircraft Laser Strikes Reach a Record High | NBC Nightly News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "yxwI-0OhtAY",
             "title": "Flying Blind: Aircraft Laser Tags On The Rise | Short Take | NBC News",
             "secondDuration": 73,
@@ -121,8 +115,14 @@
             "title": "The Ohio Town That Has a Knack For Picking Presidents | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SHAkBvSUAc",
+            "title": "President Obama Says It’s Possible a Bomb Downed Russian Airliner | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

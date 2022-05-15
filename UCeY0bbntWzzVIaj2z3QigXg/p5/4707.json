@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AlVHebLMxCU",
-            "title": "Baseball Brings Hope And Unity To Puerto Rico After Hurricane Maria | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "-HdnQJ9MxAE",
             "title": "Ted Cruz And Beto O’Rourke Clash In First Debate For Texas Senate Seat | NBC Nightly News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "New Lights Installed Along Florida’s Coastline To Protect Baby Sea Turtles | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "wPMs9EQhC8M",
+            "title": "Deadly Flash Floods Force Rescues And Damage Homes Across Texas | NBC Nightly News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

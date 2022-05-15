@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x_8Bzf8RLI4",
-            "title": "Turkish military moves ahead with massive military operation along Syrian border | ABC News",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tle7cNo53mI",
             "title": "Trump sounds off on impeachment investigation at rally in Louisiana | ABC News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Julie Andrews talks about her start with ‘Mary Poppins,’ ‘Sound of Music’ | Nightline",
             "secondDuration": 600,
             "group": "group_7"
+        },
+        {
+            "videoId": "EkFSCQtIb1Q",
+            "title": "President Trump holds rally in Lake Charles, Louisiana | ABC News",
+            "secondDuration": 5283,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

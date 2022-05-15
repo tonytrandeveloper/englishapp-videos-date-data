@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "34Gdu-TINEM",
-            "title": "Chris Christie 'Bridgegate' Scandal",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "7OKPx1jx05I",
             "title": "Mom Testers Take on Chop Wizard, Easy Pockets Devices",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "West Virginia Chemical Spill Threatens Health of Residents",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Pf804wHz48",
+            "title": "Target Identity Theft Case Three Times Bigger Than Reported",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

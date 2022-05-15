@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LouZAZtHi1s",
-            "title": "Olympics | Michael Phelps Wins Gold in Potential Final Race",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "DbiQmIbxjrs",
             "title": "Milwaukee Officer-Involved Shooting Sparks Violence",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Olympic Swimmers Dominate Competition at Rio Games",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hx0pSpTnqOI",
+            "title": "Alligator Attacks Woman, Chomps off Hand",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

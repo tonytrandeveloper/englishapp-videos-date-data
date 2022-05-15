@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zkn8PU3DIww",
-            "title": "A Dangerous Love Triangle",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "oTfLLJ0OyKA",
             "title": "Homeless Man Finds $3,300 Cash, Returns It | Nightline | ABC News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "PoliticsDaily.com's Jill Lawrence on 'Top Line'",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "dnCdgqCza9o",
+            "title": "Tom Cole: 'A Very Dysfunctional Congress'",
+            "secondDuration": 637,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

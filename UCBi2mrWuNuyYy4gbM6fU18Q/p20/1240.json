@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "U9l_rFRzEZw",
-            "title": "'It came outta nowhere': NBA player speaks about being tased by police",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "RsKkv8w0lJw",
             "title": "Student who went from homeless to Harvard credits writing program",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Trump summit with North Korea in jeopardy",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "FDn9-pckUN8",
+            "title": "Americans' private plane breaks in half in Honduras",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

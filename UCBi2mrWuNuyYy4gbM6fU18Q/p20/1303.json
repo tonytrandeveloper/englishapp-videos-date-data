@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aUdrAJoBkRw",
-            "title": "Kate Upton accuses Guess co-founder of sexual assault",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "AN8-pNnvJ5s",
             "title": "Millions of monarch butterflies flutter to the mountains in Mexico every October",
             "secondDuration": 416,
@@ -121,8 +115,14 @@
             "title": "WH reacts to Senate's sweeping spending deal",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "om8H9bfCzBQ",
+            "title": "Lawmakers race to strike a $500B budget deal",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

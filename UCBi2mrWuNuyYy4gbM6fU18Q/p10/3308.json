@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w1gK4FzVI6Q",
-            "title": "Evan McMullin: GOP Leaders are 'Putting Party Over Principle'",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "zPAeotUNgOU",
             "title": "Ash Carter on Fight Against ISIS: 'ISIL Will Surely Be Destroyed'",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton, Tim Kaine Campaign for Votes in Pennsylvania",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "_7ejrUUOpZw",
+            "title": "Historic World Series | Chicago Cubs, Cleveland Indians Face Off",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

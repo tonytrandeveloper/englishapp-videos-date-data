@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MqCMTogpCyM",
-            "title": "Watch Live: President Donald Trump Holds Campaign Rally In Louisiana | NBC News",
-            "secondDuration": 4280,
-            "group": "group_7"
-        },
-        {
             "videoId": "hgokCY3uarA",
             "title": "Army Veteran Becomes Oldest College Football Player | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "32-Year-Old Nurse Shot And Killed Shortly After Leaving Work | NBC Nightly News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "P7PUyWheb8E",
+            "title": "Two killed In California High School Shooting, Suspect In ‘Grave’ Condition | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

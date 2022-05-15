@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "c-sDbeBIKSQ",
-            "title": "Comedian in Chief",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "iv_cmrVLMS8",
             "title": "Bottom Line on Obama's Health Care Plan",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Big Night in Washington",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "CsoXSwlMw3A",
+            "title": "Cruisin' Route 66 from Okla. to N.M.",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

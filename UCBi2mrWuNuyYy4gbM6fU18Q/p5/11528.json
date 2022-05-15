@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k--GHNJc2rs",
-            "title": "Colorado Springs Preps to Fight Wildfire",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "dbwVqMWpZPg",
             "title": "The Dream of Universal Health Care",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Mark Wahlberg talks \"Ted,\" Working With Seth McFarlane",
             "secondDuration": 468,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhjGkuXKTXU",
+            "title": "Mark Wahlberg and his new thunder buddy \"Ted\"",
+            "secondDuration": 492,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

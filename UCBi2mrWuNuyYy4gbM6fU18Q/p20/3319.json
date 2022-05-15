@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uoo97HBFBQ4",
-            "title": "Racism Charges at Swim Club",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "vscRiP7TvOU",
             "title": "Cold Case Shocker",
             "secondDuration": 457,
@@ -121,8 +115,14 @@
             "title": "Summer Blockbuster Roundup",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ojk2dq9M1Dg",
+            "title": "In First on the Fourth",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

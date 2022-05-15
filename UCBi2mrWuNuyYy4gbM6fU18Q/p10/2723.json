@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bpI7wU80CgQ",
-            "title": "2 Republican senators take on Trump",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "lA49Yd1mPV8",
             "title": "US intelligence authorities examining video of Nigerien militant group",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "George Clooney, Matt Damon respond to Weinstein allegations",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "PYpe6D8yhNE",
+            "title": "More details surface about deadly ambush in Niger",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

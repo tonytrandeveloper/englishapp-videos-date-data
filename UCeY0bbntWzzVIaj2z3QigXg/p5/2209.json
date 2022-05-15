@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h1E9Qc5hqzo",
-            "title": "Examining The State Of The Presidential Race Ahead Of The Vice Presidential Debate | NBC News NOW",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "kT1g4lI7AyQ",
             "title": "Counterintelligence Chief Speaks Out On Foreign Interference In Election | NBC Nightly News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Trump Returns To Oval Office Despite Ongoing Covid Treatment | NBC Nightly News",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "zb_M6jnVyDo",
+            "title": "Trump: Getting Treatment For Covid Was 'A Blessing In Disguise' | NBC News NOW",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

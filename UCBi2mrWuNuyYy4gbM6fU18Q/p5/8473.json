@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4wkLTaaYeSA",
-            "title": "Obamacare Gets a Major Supreme Court Victory",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "h_SfKL6rrgc",
             "title": "Ex-Vanderbilt Football Players Released After Rape Case Mistrial",
             "secondDuration": 490,
@@ -31,8 +25,14 @@
             "title": "Bobbi Kristina Brown Moved to Hospice Care",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "yuxpW9yBlLU",
+            "title": "Corrections Officer Charged in NY Prison Escape",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

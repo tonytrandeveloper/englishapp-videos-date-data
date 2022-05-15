@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5AOyCWB-Jn4",
-            "title": "Demonstrators march to protest police shooting of unarmed man",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "BbWVW76dQxk",
             "title": "Woman claiming to be Trump's ex-mistress: 'There was a real relationship'",
             "secondDuration": 202,
@@ -61,8 +55,14 @@
             "title": "'Frozen' comes to Broadway with new songs and a feminist twist",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "op4sF_3xMiA",
+            "title": "Disney's 'Frozen' makes its debut on Broadway",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

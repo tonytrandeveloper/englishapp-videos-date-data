@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ysqUys6Clss",
-            "title": "'This Week': Powerhouse Roundtable",
-            "secondDuration": 846,
-            "group": "group_7"
-        },
-        {
             "videoId": "i04HCNI-ghA",
             "title": "'This Week': Healthcare.gov Website Havoc",
             "secondDuration": 825,
@@ -61,8 +55,14 @@
             "title": "Orlando Woman and Her Kid Missing, Husband in Custody",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "WIGcKLYxyI0",
+            "title": "Washington Redskins Name Under Fire",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

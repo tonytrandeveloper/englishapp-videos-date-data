@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MV0vLcY652c",
-            "title": "Barack Obama Delivers Holiday Gifts Wearing Santa Hat At Children’s Hospital | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "k3yGeFDVXH0",
             "title": "Dow Loses 352 Points After Federal Reserve Raises Interest Rates 4th Time In 2018 | NBC Nightly News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "This Tree Farm Is Bringing Life Back To Detroit’s East Side | NBC Nightly News",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "1CBwI3heojM",
+            "title": "How Detroit Went From A Booming Metropolis To A Shrinking City | NBC Nightly News",
+            "secondDuration": 1144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

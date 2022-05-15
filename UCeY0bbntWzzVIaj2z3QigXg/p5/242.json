@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ILZ3MT-mGiY",
-            "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
-            "secondDuration": 1060,
-            "group": "group_7"
-        },
-        {
             "videoId": "yzyjAEyHCoQ",
             "title": "How American Volunteers Are Helping Evacuation Efforts In Ukraine",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "White House Unveils New Covid Plan, No Longer Recommends Contact Tracing",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "cbF3J71tqcQ",
+            "title": "Russian Anti-Invasion Protesters Detained In St. Petersburg",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

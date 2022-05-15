@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DBmFaSa6_T4",
-            "title": "British PM Theresa May Explains Reasons For Brexit Vote Postponement | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "nlrryO3ipHc",
             "title": "Nobel Peace Prize Laureate Calls On World To Protect Women From Sexual Violence | NBC News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Cyntoia Brown Must Serve Five Decades Before She’s Eligible For Release | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "CltqA8sHXUQ",
+            "title": "Battle Looms For Trump’s Picks For UN Ambassador And Attorney General | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

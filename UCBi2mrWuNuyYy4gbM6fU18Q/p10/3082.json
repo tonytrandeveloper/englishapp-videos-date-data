@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DwJ8TyEg3AY",
-            "title": "'GMA' Hot List: Leslie Mann and Robert De Niro Dish on 'The Comedian'",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "5CWs3oKWAHU",
             "title": "Navy SEAL Killed in Secret US Mission in Yemen Identified",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Hit & Run Driver Hits Boy [GRAPHIC] | ABC News",
             "secondDuration": 21,
             "group": "group_7"
+        },
+        {
+            "videoId": "UtvPGwFr3BA",
+            "title": "Trump References DNC Hacking in Cybersecurity Remarks",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

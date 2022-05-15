@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W7NNOfkcKRg",
-            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hrt2D33ouLk",
             "title": "White House faces new questions on Russia investigation",
             "secondDuration": 237,
@@ -61,8 +55,14 @@
             "title": "Emergency evacuation caught on camera in Mexico City",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "kOEj2y2qL2E",
+            "title": "Millions of people bring in extra income with a 'side hustle'",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

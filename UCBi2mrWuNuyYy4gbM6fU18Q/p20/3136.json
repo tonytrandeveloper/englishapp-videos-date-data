@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gpehytpqTFw",
-            "title": "Sarah Palin Visits 'Dancing With the Stars'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "26LuRt0J9jU",
             "title": "Pastor Accused of Killing Second Wife",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Men Say 'Military Mistress' Scammed Them",
             "secondDuration": 449,
             "group": "group_7"
+        },
+        {
+            "videoId": "R3nLX2faXYI",
+            "title": "Person of the Week: Waiting for Superman",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

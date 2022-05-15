@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "B8q6Y6jeiQA",
-            "title": "Google Employee Killed While Jogging in Massachusetts",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "uJtHURVql-s",
             "title": "Orlando Nightclub Shooter's Father Attends Clinton Rally",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Olympics | Leslie Jones to Cover Rio After Viral Tweets",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZvUR5MWyVE8",
+            "title": "Olympics | Eat Like An Olympian",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

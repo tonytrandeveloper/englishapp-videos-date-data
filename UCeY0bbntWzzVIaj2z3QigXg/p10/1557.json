@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yNllJvjj9Mc",
-            "title": "McConnell Rails Against Sanders For Not Supporting AIPAC | NBC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "nFJzXS9tRso",
             "title": "How U.S. & Israeli Attorneys Have Handled Political Scandal | NBC News NOW",
             "secondDuration": 353,
@@ -61,8 +55,14 @@
             "title": "Joe Biden Thanks Pete Buttigieg For Endorsement: ‘He Reminds Me Of My Son Beau’ | NBC News",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "z2xA0St3ghY",
+            "title": "Cities Take Drastic Measures As Coronavirus Death Toll Rises In U.S. | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

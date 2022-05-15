@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AdFQm2Eyi0U",
-            "title": "The Secret To Getting Better Sleep | Better | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "L5nkrMBF3gM",
             "title": "Scott Pruitt: American Carbon Reductions Predate Paris Deal (Full) | Meet The Press | NBC News",
             "secondDuration": 525,
@@ -61,8 +55,14 @@
             "title": "Winter Melt Off Bring Breathtaking Waterfalls To Yosemite | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "4d8vtFluORk",
+            "title": "London Terror Attack: 12 Arrested As Investigation Intensifies | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

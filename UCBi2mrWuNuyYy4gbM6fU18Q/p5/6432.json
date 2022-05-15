@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4xP__XvIivk",
-            "title": "Clinton Campaign Joins Wisconsin Recount",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "UGnvPlpQv8U",
             "title": "Gilmore Girls on Netflix",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Cubans On Surviving Fidel Castro's Cuba",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKK4WSxoU1U",
+            "title": "Fidel Castro's Death Impact on Cuba",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

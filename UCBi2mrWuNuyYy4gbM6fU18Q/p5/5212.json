@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4sS-ENu3o4c",
-            "title": "White House press briefing on Rob Porter accusations and resignation | ABC News",
-            "secondDuration": 2270,
-            "group": "group_7"
-        },
-        {
             "videoId": "8LSpT5xF3UI",
             "title": "Philadelphia Eagles Super Bowl Parade 2018: MVP Nick Foles, team celebrate championship  | ABC News",
             "secondDuration": 14166,
@@ -31,8 +25,14 @@
             "title": "WH reacts to Senate's sweeping spending deal",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "om8H9bfCzBQ",
+            "title": "Lawmakers race to strike a $500B budget deal",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

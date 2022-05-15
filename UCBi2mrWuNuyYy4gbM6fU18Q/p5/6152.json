@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DE-qLosfdK0",
-            "title": "Man Throws Bomb into Cheesecake Factory | ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "cx8-d8yiRxI",
             "title": "Lady Gaga Super Bowl Halftime Show Details Remains a Mystery",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Kellyanne Conway Cites 'Bowling Green Massacre' Defending Travel Ban | ABC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9SvHCQWyFI",
+            "title": "Milo Yiannopoulos Speech Cancellation Sparks Free Speech Questions",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

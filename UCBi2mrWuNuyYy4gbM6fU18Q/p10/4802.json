@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bv2oV8DidAg",
-            "title": "Michael Escoto's Strange Courtroom Antics",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "SKxVwRt7s9Y",
             "title": "Massachusetts Bans New Zohydro Painkiller",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Person of the Week: Norm Lewis",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "WOR_RFN5OJ8",
+            "title": "Extreme Weather System Prompts Tornado Fears",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

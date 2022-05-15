@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q29GjmFDiRA",
-            "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "LMfzdyel1Qc",
             "title": "Donald Trump On Protesters: 'They're Disrupters, They're Professionals' | Meet The Press | NBC News",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Donald Trump: Campaign Manager An 'Incredible Guy' | NBC News",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dsjq2gDih0A",
+            "title": "White House Photographer Reflects on Private Side of the Reagans | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

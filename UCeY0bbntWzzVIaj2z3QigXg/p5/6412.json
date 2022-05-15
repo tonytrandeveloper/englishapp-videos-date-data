@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PhxcuCJVPFE",
-            "title": "Donald Trump: 'We Are Going To End The EPA Intrusion Into Your Lives' | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "r8idyGVMCcc",
             "title": "John Glenn On Space Travel: 'You Get Teary-Eyed Almost' | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Makes First Remarks On Capitol Hill Since Election | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "tefpErDV7sM",
+            "title": "GA Official: Dead Shooting Suspect ‘Wreaked Havoc On This Community’ | NBC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

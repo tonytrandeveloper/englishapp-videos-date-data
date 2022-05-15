@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6fTXY0N355Y",
-            "title": "A soldier escapes from North Korean to South Korea",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "VXvGoC3pL-0",
             "title": "US Navy plane crashes into Pacific",
             "secondDuration": 92,
@@ -61,8 +55,14 @@
             "title": "Charlie Rose fired from CBS following sexual misconduct allegations",
             "secondDuration": 516,
             "group": "group_7"
+        },
+        {
+            "videoId": "bsnL_Sfmkxk",
+            "title": "In the Liberal Gun Club, these members support both the left and gun rights",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

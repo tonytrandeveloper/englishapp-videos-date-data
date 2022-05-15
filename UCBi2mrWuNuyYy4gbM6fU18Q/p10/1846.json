@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-iiSkXK5dAc",
-            "title": "Whistleblower reports Trump convo with foreign leader l ABC News",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "D4VdqyqIMVk",
             "title": "Justin Trudeau admits brownface photo was racist l ABC News",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Pilot’s ‘suspicious’ behavior seen in video before intoxication arrest",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "CMu_NoB2OA8",
+            "title": "Rare but dangerous mosquito-borne illness kills 2 in Michigan",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

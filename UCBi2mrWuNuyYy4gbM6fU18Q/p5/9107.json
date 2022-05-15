@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O2Wd3GThiMY",
-            "title": "'Dancing With the Stars' Semifinals Heat Up the Dance Floor",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "9_wXMm4rPXw",
             "title": "Keira Knightley Sheds Light on Her New Film, 'The Imitation Game'",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "TOY INSIDER MOM: The Hottest Holiday Toys",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lj5qf2XZEsg",
+            "title": "Dating With Dogs",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

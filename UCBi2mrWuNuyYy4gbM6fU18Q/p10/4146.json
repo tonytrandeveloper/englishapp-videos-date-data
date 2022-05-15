@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZAvsT90Jgnc",
-            "title": "What Virginia On-Air Shooting Survivor Remembers About the Incident",
-            "secondDuration": 490,
-            "group": "group_7"
-        },
-        {
             "videoId": "G78GEaaRUXo",
             "title": "'Warlords of Ivory': Tracking Ivory After Elephant Kills",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Owen Labrie Found Not Guilty of Felony Sexual Assault",
             "secondDuration": 456,
             "group": "group_7"
+        },
+        {
+            "videoId": "U-b48-04HWo",
+            "title": "Paris Train Hero: 'I Immediately Recognized What Was Happening'",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

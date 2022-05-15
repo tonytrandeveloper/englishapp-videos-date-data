@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ILjJZQPdJIE",
-            "title": "Does Heaven Exist in the Modern World?",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "YwVtuwKyiEI",
             "title": "'Egypt: After the Revolution'",
             "secondDuration": 281,
@@ -61,8 +55,14 @@
             "title": "'Real Deal': The 'Seducer' Turned Sex Criminal?",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "uzy29OpCOvU",
+            "title": "'Real Deal': Who Is Dominique Strauss-Kahn, DSK, in 90 Seconds",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

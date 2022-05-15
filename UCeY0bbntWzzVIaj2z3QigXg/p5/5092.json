@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nct6LVK6x5o",
-            "title": "White House Press Briefing - May 3, 2018 | NBC News",
-            "secondDuration": 1127,
-            "group": "group_7"
-        },
-        {
             "videoId": "EbrGH_TyL2Y",
             "title": "Carol Burnett On Finding Her Voice | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Attends National Day Of Prayer Event | NBC News",
             "secondDuration": 2920,
             "group": "group_7"
+        },
+        {
+            "videoId": "83zL852qwU4",
+            "title": "Teen Arrested For Plotting Mass Shooting At Texas Mall | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

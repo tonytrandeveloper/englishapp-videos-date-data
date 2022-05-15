@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WoZ1pvGpaEE",
-            "title": "Live: Biden Delivers Virtual Remarks At AFSCME International Convention | NBC News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "tLJVdTrQ8RY",
             "title": "Trump Holds News Conference At The White House | NBC News",
             "secondDuration": 1118,
@@ -31,8 +25,14 @@
             "title": "Feds Crack Down On Lenders Targeting Small Businesses | NBC News NOW",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyFpU9Jcvtc",
+            "title": "The Importance Of Talking To Children About Coronavirus | NBC News",
+            "secondDuration": 324,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

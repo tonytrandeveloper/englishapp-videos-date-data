@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LoLtsqojQKg",
-            "title": "New York's Royal Visit",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "sGSg0Qw6Ok4",
             "title": "Thawing Icy Relations Between Israel and the U.S.",
             "secondDuration": 266,
@@ -31,8 +25,14 @@
             "title": "Paul Krugman: 'Austerity Now Is Not the Answer'",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "InKGV_RbJmc",
+            "title": "The Learning Womb",
+            "secondDuration": 462,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

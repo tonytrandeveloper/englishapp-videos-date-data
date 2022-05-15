@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1V_mVTrH8Wc",
-            "title": "White House press briefing on Pittsburgh synagogue shooting, mail bomb plot | ABC News",
-            "secondDuration": 2549,
-            "group": "group_7"
-        },
-        {
             "videoId": "g_OGWjgZNuA",
             "title": "'The Debrief': Pittsburgh synagogue shooting, mail bomb suspect appears in court | ABC News",
             "secondDuration": 1880,
@@ -31,8 +25,14 @@
             "title": "Red Sox win 4th World Series in 15 seasons",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "2qo2V1V18V4",
+            "title": "Plane carrying nearly 200 people crashes into sea",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FHJSmaVs2wU",
-            "title": "Cop Killer Suspect says 'I'm Sorry'",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9wVNJcJjpg",
             "title": "Thousands of Green Cards Have 'Gone Missing': IG",
             "secondDuration": 32,
@@ -31,8 +25,14 @@
             "title": "Exploding Package Injures 1 in Philadelphia",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "rtHONuTOlqo",
+            "title": "Chipotle Sued Over Calorie Count Claims",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

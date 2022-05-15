@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7KzFODnGyks",
-            "title": "Democrats Make Opening Arguments In Trump’s Impeachment Trial | NBC Nightly News",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "eeZKyv42NRI",
             "title": "Adam Schiff To The Senate: You Can Hear From New Witnesses 'If You Allow It' | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Trump Meets Iraq President During World Economic Forum | NBC News (Live Stream)",
             "secondDuration": 1053,
             "group": "group_7"
+        },
+        {
+            "videoId": "VuKb_AESvV0",
+            "title": "Trump Meets With Kurdistan President At World Economic Forum | NBC News (Live Stream)",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

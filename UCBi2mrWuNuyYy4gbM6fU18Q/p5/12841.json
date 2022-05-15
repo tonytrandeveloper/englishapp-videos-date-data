@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ppDTs5C40Z8",
-            "title": "Wigging Out",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "hl3THGO6-3o",
             "title": "Pope and Catholic Church Under Fire",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "'20/20' Puts Husband's Account to Test",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "jwoxP1pUy9k",
+            "title": "Drone Attacks Pressure al Qaeda",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WBvBJUCcdA8",
-            "title": "Science Examines Why Your Brain Loves BBQ",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "1r0On_PHrZU",
             "title": "Ted Cruz Announces Run in 2016 Presidential Race",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Pope Francis Dines With Gay, Transgender Inmates",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "VEAYCd8u4gY",
+            "title": "Self-Driving Car to Make Cross-Country Journey",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

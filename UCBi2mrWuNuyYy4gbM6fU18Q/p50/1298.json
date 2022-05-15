@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Ir1tbHrVJlg",
-            "title": "The Risks of Store Credit Cards",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IdMPNZj-1w",
             "title": "Airport Security: Privacy vs. Safety",
             "secondDuration": 290,
@@ -301,8 +295,14 @@
             "title": "Gingerbread House Challenge",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "PDyZduPfjSQ",
+            "title": "Blue in the Face: Avatar Fanatics",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

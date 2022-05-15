@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vqf6V8yDlq4",
-            "title": "Mesa Shooting: Arizona Suspect in Custody",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ChW57mQWME",
             "title": "'The Sound of Music:' Julie Andrews & Diane Sawyer Return to the Hills",
             "secondDuration": 185,
@@ -121,8 +115,14 @@
             "title": "SXSW: Your Brain on BBQ",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "z3jnAepJZjw",
+            "title": "SXSW: Where a Dog Can Charge Your Phone",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

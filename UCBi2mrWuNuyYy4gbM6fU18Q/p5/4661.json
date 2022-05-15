@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PUz_CaKbT_c",
-            "title": "Bill Cosby sentenced to 3 to 10 years in prison for sexual assault: WPVI Coverage",
-            "secondDuration": 7633,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6duwP875vM",
             "title": "'The Briefing Room': Trump at UN, Kavanaugh's Fox interview, Rosenstein latest | ABC News",
             "secondDuration": 1227,
@@ -31,8 +25,14 @@
             "title": "'The Debrief': Trump at the UN, Kavanaugh speaks out, Cosby sentencing | ABC News",
             "secondDuration": 1064,
             "group": "group_7"
+        },
+        {
+            "videoId": "fyF8v5eSVWI",
+            "title": "President Donald Trump full UN General Assembly remarks  | ABC News",
+            "secondDuration": 2160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

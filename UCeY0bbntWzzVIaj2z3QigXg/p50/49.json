@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ocrwoYZJTq4",
-            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "m0LqPDPbJeM",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 11 | NBC News NOW",
             "secondDuration": 3101,
@@ -301,8 +295,14 @@
             "title": "City Of 14 Million To Be Tested After Two Omicron Cases Found In Tianjin, China",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "ub29SE8eyPI",
+            "title": "Health Care System Overwhelmed As U.S. Surpasses 60 Million Covid Cases",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

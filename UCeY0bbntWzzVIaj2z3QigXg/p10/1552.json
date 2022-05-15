@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q00EK-NKfks",
-            "title": "James Bond ‘No Time To Die’ Release Delayed Amid Coronavirus Concerns | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "VJFAsoC5wh8",
             "title": "Michael Bloomberg Suspends Campaign, Endorses Joe Biden | NBC Nightly News",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Dr. Fauci Explains How Coronavirus Spreads, Why It’s More Serious Than Common Cold Or Flu | NBC News",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "KM4XCgcAF4M",
+            "title": "Donald Trump Speaks At Latino Coalition Legislative Summit | NBC News (Live Stream Recording)",
+            "secondDuration": 1420,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

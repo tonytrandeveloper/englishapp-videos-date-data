@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E_I7sbuP0KA",
-            "title": "Chris Christie on Barbara Walters' 10 Most Fascinating People",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "oKnNsrfbk4s",
             "title": "Seth MacFarlane on Barbara Walters' 10 Most Fascinating People of 2012",
             "secondDuration": 414,
@@ -121,8 +115,14 @@
             "title": "Kim Jonh Un's North Korea Launches Successful Long-Range Missile",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "1zGV9RYIhaQ",
+            "title": "Oregon Mall Shooting: Clackamas Town Center Gunman Identified as Jacob Tyler Roberts",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

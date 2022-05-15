@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gUEdSR7AR44",
-            "title": "North Korea Claims It Detonated a Hydrogen Bomb",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOdVSJbNrLY",
             "title": "Bristol Palin’s Ex-Fiancé Asks for Joint Custody of Baby Sailor",
             "secondDuration": 206,
@@ -61,8 +55,14 @@
             "title": "Country Singer Craig Strickland's Body Found",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6fBjc7uvhw",
+            "title": "'Star Wars' Secret Iceland Filming Location Revealed",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

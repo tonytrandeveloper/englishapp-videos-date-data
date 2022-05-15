@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4B6GP_F3KuY",
-            "title": "Former Senator Bob Dole Dies at 98",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "B28scAL1LhE",
             "title": "Investigation Into Michigan High School Shooter Continues",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Full Panel: Supreme Court Poised To Weaken or Overturn Roe",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "soPTXLDBqQo",
+            "title": "Live: Sen. Bob Dole Dead At Age 98 | NBC News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

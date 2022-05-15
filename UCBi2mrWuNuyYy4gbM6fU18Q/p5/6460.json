@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UpKUq_lJeA4",
-            "title": "President-elect Trump Facing Criticism for Attorney General and National Security Adviser Picks",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "TZbnFI7oUZM",
             "title": "Small Plane Crash Sparks Massive Explosion",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Gretchen Carlson on Dealing with Sexual Harassment on the Job",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "aawSMBaLAu8",
+            "title": "Trump Transition Team Announces Sen. Jeff Sessions as AG Nominee",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

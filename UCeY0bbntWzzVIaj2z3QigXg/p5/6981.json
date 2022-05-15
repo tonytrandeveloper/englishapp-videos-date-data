@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XwRLQ2jbWAc",
-            "title": "Lindsey Graham On Life As A Single Man On The Trail | NBC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "_gQbEuMk2-M",
             "title": "The Border Where Trump Would Build A Wall | Short Take | NBC News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "FBI: Chattanooga Gunman Was a ‘Homegrown Violent Extremist’ | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q6eDKHN8WfM",
+            "title": "Cameras Capture Events Leading Up To Sandra Bland's Death | NBC News",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

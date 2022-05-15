@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6LGYmG2pZzM",
-            "title": "Woman With Shark Attached to Her Arm Taken To Hospital",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "lj59tN46D60",
             "title": "Coast Guard Suspends Search for Missing Cruise Ship Passenger",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Megyn Kelly Talks Trump's Attitude Toward Women",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "bYNYWSACISo",
+            "title": "Donald Trump Under Fire for Alleged Sexism",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

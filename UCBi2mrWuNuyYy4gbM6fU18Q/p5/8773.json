@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z3jnAepJZjw",
-            "title": "SXSW: Where a Dog Can Charge Your Phone",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kx1RsDXC_AA",
             "title": "DWTS: Rumer Willis Stuns on Season 20 Premiere",
             "secondDuration": 367,
@@ -31,8 +25,14 @@
             "title": "Will Bassem Youssef Take Over The 'Daily Show?'",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "vI5Jat9essE",
+            "title": "Bassem Youssef Loves Taylor Swift",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

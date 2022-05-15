@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EL3oXB2H5HI",
-            "title": "The Store America Built | David Muir | Made in America",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "exuwQQNvoXw",
             "title": "Fiscal Cliff Warning: Conservatives Caution on Benefit Cuts",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Train Horror!",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "L23_XHmX628",
+            "title": "Awning Collapse!",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8e_e1T9H4gI",
-            "title": "Thunderstorm System Causes Airplane Turbulence",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "ptZm2KfwLPM",
             "title": "Augusta National Golf Club to Admit First Woman?",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Dallas Tornado Video Shows Twisters Tearing Apart Texas, No One Dead as Damage is Widespread",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "y5AYxOLMq9M",
+            "title": "Texas Tornado Video Shows Destruction, Twisters Rip Through Texas",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1k7DFw8oHGo",
-            "title": "Student pilot charged with attempt to steal plane",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "M0TsC3WOzPs",
             "title": "'Briefing Room': Michael Cohen interviewed by Mueller's team Kavanaugh latest,",
             "secondDuration": 2314,
@@ -61,8 +55,14 @@
             "title": "Meet the 'weed nuns' who put faith in the healing powers, and profits, of cannabis",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "VIaJ89hXB0U",
+            "title": "Trump says he wants to hear from Kavanaugh's accuser",
+            "secondDuration": 358,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

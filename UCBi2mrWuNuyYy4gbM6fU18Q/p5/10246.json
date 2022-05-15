@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9xCJYuYQgrY",
-            "title": "Cairo, Egypt Protests: President Morsi Rejects Military Ultimatum",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZGegFUzcAY",
             "title": "911 Call Audio - Florida Everglades Alligator Attack: Gator Attacks Kayaker, Bites Through Raft",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Parasailing Crash Caught on Tape: Teens Slam Into Building, In Critical Condition",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "JrnwDZY3iO8",
+            "title": "George Zimmerman Trial for Trayvon Martin Death: Examiner Calls Zimmerman Injuries 'Insignificant'",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

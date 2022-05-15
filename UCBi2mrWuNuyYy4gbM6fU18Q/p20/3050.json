@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cNqMmZ0N-n8",
-            "title": "Snooki Taken Into Custody in Italy",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "hREp-krB1IY",
             "title": "The Land of the Brave",
             "secondDuration": 317,
@@ -121,8 +115,14 @@
             "title": "Does Sarah Palin's Bus Tour Mean She's Running?",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "YYnwnjLwFBE",
+            "title": "Sarah Palin Bus Tour Reignites Talk of Presidential Run",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

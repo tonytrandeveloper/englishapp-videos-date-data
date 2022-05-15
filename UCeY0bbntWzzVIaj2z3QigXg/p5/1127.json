@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CLsvJC7j-iA",
-            "title": "Six Million Americans In Danger Of Eviction",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "leA8IucKwfQ",
             "title": "Schools Re-Open as Covid Surges",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Protests in France Over Virus Pass",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "eM3hpQCFiCI",
+            "title": "Eviction Moratorium Ending",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

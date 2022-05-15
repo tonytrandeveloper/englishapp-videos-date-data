@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xH2sJr5R7gw",
-            "title": "Bill Richardson at DNC 2012: Obama 'Just Needs Support From the Other Side'",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "g2h8uYRMRLU",
             "title": "Debbie Wasserman Schultz Says 'There Was No Fight at All' Over Platform Change on God, Israel",
             "secondDuration": 333,
@@ -61,8 +55,14 @@
             "title": "Caroline Kennedy at DNC",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dj7KbciQdII",
+            "title": "Robbers Strap 'Bomb' to Bank Manager",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

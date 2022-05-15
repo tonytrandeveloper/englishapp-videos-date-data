@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "46gps7Gt9yg",
-            "title": "Death On Mount Everest Following Avalanche | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "4HIEwcIm0HY",
             "title": "Doonesbury Creator On Charlie Hebod & Future Of Satire | Meet The Press | NBC News",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "Earthquake Aftershocks Rock Nepal | NBC Nightly News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "mUeoVYjGw6o",
+            "title": "Freddie Gray Protests In Baltimore Turn Tense | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

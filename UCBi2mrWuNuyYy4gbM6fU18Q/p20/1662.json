@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NxOH1Pivu6w",
-            "title": "Iraqi Forces Gain Ground in Battle for Mosul",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "ajmtLXVXxuA",
             "title": "8-Year-Old Daughter Speaks at Vigil for Slain Cops",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "Price Is Right | 3 Contestants Hit $1, Make History",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ulkXpc4zgjI",
+            "title": "US Supports Iraqi Forces in Mosul",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

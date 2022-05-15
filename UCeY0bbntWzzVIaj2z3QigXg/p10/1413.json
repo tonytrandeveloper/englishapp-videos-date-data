@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "66RoyGLxCzE",
-            "title": "Angry Scenes As Pro-Beijing And Pro-Democratic Lawmakers Scuffle In Hong Kong | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "iDLBF7QhsJc",
             "title": "The Last Supermoon Of 2020 Shines In The Night Sky | NBC News",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Justice Department Drops Case Against Ex-Trump Adviser Michael Flynn | NBC Nightly News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "pe4VE8MWyD0",
+            "title": "Trump’s Personal Valet Tests Positive For Coronavirus | NBC Nightly News",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

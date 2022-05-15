@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2zVtySq7nLg",
-            "title": "Markets Sink On Investor Fear Of Trade War, Damage To Tech Sector | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "gEDrllrfFLQ",
             "title": "President Donald Trump Hosts White House Easter Egg Roll And Touts Economy And Military | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Tens Of Thousands Of Syrians Have Disappeared Since Start Of Conflict | NBC Nightly News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "iTH5V3wue6A",
+            "title": "President Donald Trump Hosts White House Easter Egg Roll | NBC News",
+            "secondDuration": 1850,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

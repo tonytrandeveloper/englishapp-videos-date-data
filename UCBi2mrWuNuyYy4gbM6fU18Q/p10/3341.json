@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I2u_GWXr5Aw",
-            "title": "Florida Streets Flooded After Hurricane Matthew Hits",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "q7T0a4KBhXg",
             "title": "Mike Pence Doesn't Answer Questions About Trump's Vulgar Comments",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Hurricane Matthew Flooding Traps Florida Residents",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "UAWi1LLsk8Q",
+            "title": "Storm Surge Slams Jacksonville Beach",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

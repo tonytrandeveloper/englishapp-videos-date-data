@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ViEyKF6OQO8",
-            "title": "White House On Hillary Clinton Emails: President's Critics Attempting Conspiracy | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "RVmChABo6yk",
             "title": "Gael Garcia Bernal Talks New Movie 'Desierto' | NBC News",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Donald Trump’s Theme For New Hotel, Country: ‘Under Budget, Ahead Of Schedule’ | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "gYkoUw1l9JU",
+            "title": "Athleisure From The Office To The Gym | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

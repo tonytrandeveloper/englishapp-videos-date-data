@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "14y3D6AJbn8",
-            "title": "State of the Union 2014: President Obama Says Women Deserve Equal Pay",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "oo3N94YjUOs",
             "title": "State of the Union 2014: Job Growth, Tax Reform at Forefront of Obama's Economic Plan",
             "secondDuration": 614,
@@ -121,8 +115,14 @@
             "title": "Sochi Winter OlympicsTerrorist Threat: Olympic Torch Enters Militant Haven",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "dNC3C8EbuFo",
+            "title": "Justin Bieber DUI Arrest: Usher's Advice for Fellow Pop Star",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

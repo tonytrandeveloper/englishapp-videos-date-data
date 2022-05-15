@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "txN4Xt-MWtU",
-            "title": "North Korea and China confirming reports of meeting in Beijing",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsTYlkD_B2g",
             "title": "Trump has fired another member of his Cabinet",
             "secondDuration": 272,
@@ -121,8 +115,14 @@
             "title": "Family of unarmed black man shot 20 times demands justice",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "iayaqyGHOQo",
+            "title": "FBI investigates suspicious packages at several military bases",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

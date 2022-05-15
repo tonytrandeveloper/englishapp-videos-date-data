@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pJ3W82_espY",
-            "title": "Israeli Forces Demolish Palestinian Man's House In West Bank",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "c8k4UbqaKRU",
             "title": "Ambassador Bridge Reopens After Police Clear Protesters",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Sarah Palin v. New York Times: Judge Hears Closing Arguments",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q2lcGdnbas4",
+            "title": "NOW Tonight with Joshua Johnson - Feb. 11 | NBC News NOW",
+            "secondDuration": 1903,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

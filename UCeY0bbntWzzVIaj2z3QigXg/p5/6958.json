@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FdSBQBpOgFw",
-            "title": "The Musicians’ Village Brings Music Back To New Orleans | NBC News",
-            "secondDuration": 716,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOavdqd5Tu8",
             "title": "Alison Parker and Adam Ward Remembered By Loved Ones and Coworkers | NBC Nightly News",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Doesn't Write Out His Own Tweets | Short Take | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "-8L6i6kfmRQ",
+            "title": "Stock Market Whiplash: Dow Surges and Crashes Back Down in Day | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

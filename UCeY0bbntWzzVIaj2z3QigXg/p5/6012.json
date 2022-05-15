@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ABFiuNbgu9o",
-            "title": "Journey of a Bullet: Shot by Mugger | NBC News",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zk9zYbvhikw",
             "title": "US Shoots Down Syrian Jet, Russia Threatens To Target US Planes | NBC Nightly News",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "US Navy Identifies Seven Soldiers Killed In USS Fitzgerald Crash Off Japan | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "eTeGdZFlX30",
+            "title": "American Otto Warmbier Dies After Being Released By North Korea | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

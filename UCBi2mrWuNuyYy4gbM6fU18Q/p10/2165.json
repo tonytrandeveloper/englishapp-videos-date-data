@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SZbNiKgLMZU",
-            "title": "Pacific Northwest battles record snowstorm",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "sffjImcj8js",
             "title": "IRS responds to outrage over smaller tax refunds",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "The Briefing Room: Shutdown looms, El Paso, toxic foam, vote 2020",
             "secondDuration": 1676,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZYxxeEQ_dA",
+            "title": "Black Widow Part 1 l 20/20",
+            "secondDuration": 558,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

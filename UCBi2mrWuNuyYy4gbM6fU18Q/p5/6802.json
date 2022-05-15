@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LVS4udbqKj8",
-            "title": "NY Attorney General Opens Inquiry Into Trump Foundation",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "D0HH2fKqemI",
             "title": "Ivanka Trump Full Interview on Trump's Child Care Proposal",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "NY Fashion Week Behind the Scenes with Designer Christian Siriano",
             "secondDuration": 321,
             "group": "group_7"
+        },
+        {
+            "videoId": "DvpLzvRw3BE",
+            "title": "Obama Comes Out Swinging for Hillary",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

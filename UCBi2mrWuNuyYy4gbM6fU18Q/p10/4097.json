@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5wsexTmnaII",
-            "title": "Cha-Ching for the Newest Michigan Millionaire",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "18FUR6XRpTY",
             "title": "United Co-Pilot Passes Out in Flight",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "Fearless Bulldog Chases Away 3 Bears",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "hD9RABo1kHA",
+            "title": "Facebook to Provide Free Internet to Africa",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

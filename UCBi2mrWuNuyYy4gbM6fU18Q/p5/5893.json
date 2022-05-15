@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UnyaLzacTzM",
-            "title": "Anger mounting over the House health care bill",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "KjtGTiISpRI",
             "title": "Texas police officer facing murder charges for the death of Jordan Edwards",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Texas police officer arrested in connection with shooting of black teen",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "CQEtzdHdbFY",
+            "title": "French presidential candidate Emmanuel Macron's campaign targeted by hackers",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

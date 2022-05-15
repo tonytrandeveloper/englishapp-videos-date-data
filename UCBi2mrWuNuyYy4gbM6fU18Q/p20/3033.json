@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K7dMVm9YEEw",
-            "title": "Diane Sawyer Exclusive Interview: Jaycee Lee Dugard Kidnapped at Age 11 (07.10.11)",
-            "secondDuration": 602,
-            "group": "group_7"
-        },
-        {
             "videoId": "jX7fvH_FCws",
             "title": "Diane Sawyer Exclusive Interview: Introducing Jaycee Lee Dugard to Nancy Garrido (07.10.11)",
             "secondDuration": 453,
@@ -121,8 +115,14 @@
             "title": "Casey Anthony",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "hIvctbfcBx8",
+            "title": "Jaycee Dugard Interview: Diane Sawyer Speaks Candidly With Survivor",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

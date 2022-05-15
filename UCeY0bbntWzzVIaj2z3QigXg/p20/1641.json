@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TVN8cCMlxOE",
-            "title": "Standing Rock Sioux Tribe Takes Pipeline Fight To U.N. | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "vC1xWwtuCtM",
             "title": "For One Syrian Refugee Family, U.S. Has Become Last Resort For Ill Daughter | NBC Nightly News",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Elizabeth Warren: Donald Trump Is A 'Nasty Little Bully' Who Has 'Dark And Ugly Soul' | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "NczuKFP8kuY",
+            "title": "FBI Investigating Minnesota Mall Attack As 'Potential Act Of Terrorism' | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

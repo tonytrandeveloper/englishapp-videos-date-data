@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "lMWE2Hlb9ZU",
-            "title": "Reince Priebus On Mike Flynn, VP Mike Pence, Russia (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 791,
-            "group": "group_7"
-        },
-        {
             "videoId": "v0pjHHapNA0",
             "title": "Donald Trump Admin. 'In Disarray,\" Sen. McCain Tells European Security Conference | NBC Nightly News",
             "secondDuration": 135,
@@ -301,8 +295,14 @@
             "title": "President Trump: We ‘Can Never Be Totally Confident’ Canadian Border Is Secure | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "254gCMjU3as",
+            "title": "President Trump Predicts Canadian Alliance To Be ‘As Good Or Better’ Than Before | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

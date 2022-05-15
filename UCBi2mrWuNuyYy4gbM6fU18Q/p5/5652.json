@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eKKo6kIwrik",
-            "title": "President Trump's Bedminster break and new tweet attacks",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "JeZhd2wRZbk",
             "title": "Police search for gun-wielding drivers in multiple road rage incidents",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "How 'The Bachelorette' Rachel Lindsay made her choice",
             "secondDuration": 441,
             "group": "group_7"
+        },
+        {
+            "videoId": "IxLOmaxul1Q",
+            "title": "Dating apps are bringing their most eligible users together at exclusive events",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

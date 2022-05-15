@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8GfOuJyzP6k",
-            "title": "Kavanaugh headed for swearing-in ceremony with president",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "ilY4aaSm61w",
             "title": "Victims' families speak out after 20 killed in limo crash",
             "secondDuration": 188,
@@ -301,8 +295,14 @@
             "title": "Trump mocks Kavanaugh accuser at raucous rally",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "wdozJb_VFz4",
+            "title": "French gangster captured after 3-month manhunt",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

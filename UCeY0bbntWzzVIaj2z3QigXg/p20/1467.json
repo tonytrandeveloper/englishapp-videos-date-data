@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1zLeca24FrM",
-            "title": "McMaster: 'Of Course' Charlottesville was Domestic Terrorism",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "ByzCa1jf0u4",
             "title": "Stunning Video Of California Swimmers’ Whale Encounter | NBC Nightly News",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Build Your Own Eclipse Viewer | Mach | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "NQS-an2ObNI",
+            "title": "Watch Car Plunge From Parking Garage in Austin | NBC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

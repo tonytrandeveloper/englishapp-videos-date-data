@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "NXQjCuWFdzI",
-            "title": "Abby Johnson Discusses Why She Left Planned Parenthood At The 2020 RNC | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vr_6h8J2LKU",
             "title": "Billy Graham's Granddaughter Praises Trump As A 'Fierce Advocate' For People Of Faith | NBC News",
             "secondDuration": 200,
@@ -301,8 +295,14 @@
             "title": "Investigation Finds Police Tactic To End Car Chases Has Caused A String Of Deaths | NBC Nightly News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "xzpRxPJkZPs",
+            "title": "California Wildfires Total Over One Million Acres | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GSwW7oRgWMY",
-            "title": "Exclusive: President Trump's former personal attorney Michael Cohen speaks out",
-            "secondDuration": 607,
-            "group": "group_7"
-        },
-        {
             "videoId": "uYmj6q6zYl4",
             "title": "Trump prepares for battle over his Supreme Court pick",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Navy veteran killed by police",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "cKiHcs_3cNE",
+            "title": "Chris Christie: Trump will get votes needed for High Court pick",
+            "secondDuration": 747,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

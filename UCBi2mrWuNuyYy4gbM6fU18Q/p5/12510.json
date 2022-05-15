@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9XWJCdS3NPE",
-            "title": "John McCain on Barbara Boxer and Sarah Palin",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "XHCUIJJyo2k",
             "title": "Facebook Apps Disclose User Info",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Drop in Charitable Giving",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "Id1x9VLFGEo",
+            "title": "'Gerrymandering' Director on 'Top Line'",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

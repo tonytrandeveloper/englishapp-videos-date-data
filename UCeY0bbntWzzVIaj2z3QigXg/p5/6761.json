@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E0FTw-WpU5o",
-            "title": "More Than 350 Dead and 2,500 Injured After Powerful Quake Hits Ecuador | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "gi24Gc58uRg",
             "title": "Little Girl Who Hugged Pope Begs Supreme Court to Protect Immigrants | NBC News",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "DNC Chair On 'Obscene' Amount Of Money In Politics | Meet The Press | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "o5N232pQEdQ",
+            "title": "RNC Chair On 'Rigged' Delegate System, Donald Trump | Meet The Press | NBC News",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

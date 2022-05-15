@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kdLWUIYpQ8s",
-            "title": "Paul Manafort Denies Allegations He Met With Wikileaks’ Assange | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "PXFeftMm6zI",
             "title": "Active Shooter Notification Goes Awry At Walter Reed Hospital | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "John Bolton On Jamal Kashoggi Tapes: 'What Am I Going To Learn From?' | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ps8VmNTfK8k",
+            "title": "Flashback: Harvey Milk Assassinated In San Francisco | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

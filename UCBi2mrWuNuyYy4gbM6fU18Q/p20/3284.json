@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "smKrSlEazH0",
-            "title": "3 Terror Plot Suspects Arrested",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "lgBzmoo9izw",
             "title": "An Interview With the President",
             "secondDuration": 1046,
@@ -121,8 +115,14 @@
             "title": "Stimulus Money for Flights to Nowhere?",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "NTMKAhnc4BA",
+            "title": "Looking for Missing Michaela",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

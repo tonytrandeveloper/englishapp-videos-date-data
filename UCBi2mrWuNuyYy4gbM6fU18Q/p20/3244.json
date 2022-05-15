@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AsiyFMMgc70",
-            "title": "Christmas Eve Security Scare for Pope",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4qfRGTeyu0",
             "title": "Never on Sundays",
             "secondDuration": 492,
@@ -121,8 +115,14 @@
             "title": "Brian Ross Investigates FAA Christmas Conference",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "tRCN3Xh_O00",
+            "title": "Church Sells 100-Year-Old Window to Pay Bills",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

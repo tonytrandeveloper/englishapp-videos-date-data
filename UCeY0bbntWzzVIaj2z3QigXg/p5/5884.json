@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rtJ-TL-Uuj4",
-            "title": "U.S. Marine Osprey Crashes off Australian Coast",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "FanEUuTnIw8",
             "title": "Extreme Weather Hits All Corners Of The U.S. | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "‘Miracle’ Hippo Now 400 Pounds And Thriving | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "RAsAkVt83Cc",
+            "title": "Donald Trump Administration Escalates War On Leakers | NBC Nightly News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

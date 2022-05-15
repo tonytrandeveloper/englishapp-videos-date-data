@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ePaNXjlP4E0",
-            "title": "'This Week' Web Extra: Karl Rove",
-            "secondDuration": 337,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yds2D-7I35Q",
             "title": "'This Week' Web Extra: Jim Messina",
             "secondDuration": 312,
@@ -61,8 +55,14 @@
             "title": "Supreme Court to Take on Gay Marriage",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "w1AAkW3QHQo",
+            "title": "Coney Island Reopens for First Time Since Superstorm Sandy",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

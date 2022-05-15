@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iV1ycBdfbbo",
-            "title": "Damien Hirst Unveils ‘Unbelievable’ Exhibit Featuring Medusa, Mickey Mouse | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Th5Vf_yWbys",
             "title": "Rex Tillerson On Assad Regime: He Has ‘No Role’ To Govern Syria | NBC News",
             "secondDuration": 74,
@@ -301,8 +295,14 @@
             "title": "Jared Kushner Makes A Surprise Trip To Iraq | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUIrARmg06Q",
+            "title": "At Least 11 Dead, Dozens Injured In St. Petersburg Subway Explosion | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

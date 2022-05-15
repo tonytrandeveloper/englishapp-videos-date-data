@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NalXhQYPx50",
-            "title": "LIVE: Bob Dole Lies In State At U.S. Capitol | NBC News",
-            "secondDuration": 36800,
-            "group": "group_7"
-        },
-        {
             "videoId": "hyc-cliBtD8",
             "title": "Travis Scott Breaks Silence In First Interview Since Astroworld Tragedy",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Federal Appeals Court Rejects Trump Request To Block Release of White House Documents",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "NHFQY_azaZU",
+            "title": "Inequality, Misinformation Among Issues Leading To Low Vaccine Rates in Africa",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

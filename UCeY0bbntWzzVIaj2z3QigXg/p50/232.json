@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8nc-4TSf2CE",
-            "title": "White House Responds To Bob Woodward Tape Of Trump Speaking About Coronavirus | NBC News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "25teFqvB5TU",
             "title": "Joe Biden Delivers Remarks On His 'Made In America' Plans | NBC News",
             "secondDuration": 1685,
@@ -301,8 +295,14 @@
             "title": "Watch NBC News NOW Live - September 4",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "rnmhjkTVymY",
+            "title": "Washington Police Kill Suspect From Deadly Portland Shooting | NBC News NOW",
+            "secondDuration": 654,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

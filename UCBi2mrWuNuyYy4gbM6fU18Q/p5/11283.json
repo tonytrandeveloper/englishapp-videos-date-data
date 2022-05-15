@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zsm9URjXdkg",
-            "title": "Michelle Obama Takes Stage at Democratic National Convention",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3GA1jKbHmM",
             "title": "Kirsten Dunst, Isla Fisher, Lizzy Caplan Discuss New Movie 'Bachelorette'",
             "secondDuration": 240,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Woman Suing Starbucks Over Cup",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Pn6pxdfx2k",
+            "title": "DNC 2012 RECAP: Michelle Obama, Julian Castro",
+            "secondDuration": 315,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

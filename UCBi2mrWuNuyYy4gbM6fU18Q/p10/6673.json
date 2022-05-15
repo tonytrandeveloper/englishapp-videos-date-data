@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XdZgNZ4JChU",
-            "title": "Amplified: Passion Pit",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "S4XEt6ExgYU",
             "title": "Plane Disappears Off Radar",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Prince Charms New York in First Visit",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "7hZizGTbQBs",
+            "title": "'Lucky' Feline Survives Fall",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

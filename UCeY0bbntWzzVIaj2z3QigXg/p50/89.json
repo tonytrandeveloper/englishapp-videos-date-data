@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qvgzSKLLTl8",
-            "title": "Why Netflix's 'Squid Game' Is An Overnight Sensation",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "jayGxE_y6mk",
             "title": "'It Feels Like Home': Digital Creators Are Building A Latinx Community Online",
             "secondDuration": 318,
@@ -301,8 +295,14 @@
             "title": "'I Need This': Afghan Student Finds Refuge After Fleeing Taliban Takeover",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "uqplr_QqhU0",
+            "title": "Top Story with Tom Llamas Full Broadcast - October 1st | NBC News NOW",
+            "secondDuration": 3003,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

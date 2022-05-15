@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "R3nLX2faXYI",
-            "title": "Person of the Week: Waiting for Superman",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "UTDCgOvVOx8",
             "title": "Colbert Humors, Annoys Congressmen",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "McAdams: 'I Think His Name Is Woodhouse'",
             "secondDuration": 657,
             "group": "group_7"
+        },
+        {
+            "videoId": "BV1VHKhg124",
+            "title": "'Top Line': O'Donnell, Woodward and Archie Comics",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

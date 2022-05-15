@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QI4hcg_VqRU",
-            "title": "Ex-Starbucks CEO considering run for president",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "FVbHdR9fR4k",
             "title": "Tom Brokaw faces backlash",
             "secondDuration": 213,
@@ -121,8 +115,14 @@
             "title": "20/20 Evil in Eden, Pt 2 – Steven Stayner's abduction changes family's life forever",
             "secondDuration": 524,
             "group": "group_7"
+        },
+        {
+            "videoId": "SwY_Tgk5qWk",
+            "title": "20/20 Evil in Eden, Pt 4 – Cary Stayner takes refuge in Yosemite",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

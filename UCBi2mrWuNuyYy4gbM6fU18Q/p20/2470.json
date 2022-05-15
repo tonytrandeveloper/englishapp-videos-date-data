@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ATRbrGwwHMU",
-            "title": "Sleeping Man Trapped on Locked Plane",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkYF2CJD__k",
             "title": "Ice Storms Delay Flights at Dallas Airport",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "Nelson Mandela, Anti-Apartheid Hero, Dead at 95",
             "secondDuration": 613,
             "group": "group_7"
+        },
+        {
+            "videoId": "ut3bwGFLecI",
+            "title": "WEBCAST: Mandela Remembered",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

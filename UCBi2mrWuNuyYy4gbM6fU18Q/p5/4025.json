@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QfdiamORViQ",
-            "title": "World in Photos, June 6: D-Day commemorations, bridge of the year, a white tiger cub",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "OlPP_-OAmiU",
             "title": "The Briefing Room: Border security, Mexico tariffs, DNC & climate change, D-Day remembered",
             "secondDuration": 1642,
@@ -31,8 +25,14 @@
             "title": "Dust storm hits Lubbock, Texas",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "BFrgwTwXEqQ",
+            "title": "Red Arrows perform flight routine for 75th anniversary of D-Day",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

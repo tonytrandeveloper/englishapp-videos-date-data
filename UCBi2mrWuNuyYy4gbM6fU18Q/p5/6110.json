@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BTArde0kS6E",
-            "title": "Crews race against wet weather to fix damage near California dam",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "aUT8MtkKNms",
             "title": "Kim Jong Nam assassination: Female suspect under arrest",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Russian spy ship 30 miles from US Navy sub base",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "K81ej0KTVQs",
+            "title": "Trump Secretary of Labor pick Andrew Puzder Withdraws Nomination",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

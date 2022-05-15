@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6XqERjngoqE",
-            "title": "University of Cincinnati Officer to Face Judge After Indictment",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "5OPhdHVTEII",
             "title": "Jake Gyllenhaal's Fatherly Role in Latest Film",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "Gingersnaps Changing Lives",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "eFqwCtpXAgU",
+            "title": "New Mexico 911 Dispatcher Hangs Up on Someone Calling to Get Help For a Shooting Victim",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

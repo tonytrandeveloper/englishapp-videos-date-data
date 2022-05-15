@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GUJEhneZFGU",
-            "title": "High Rise Terror:  Massive Blaze on the 20th Floor",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "W9KCxTCRKik",
             "title": "Jets Slides Off Runway at JFK Airport",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "'This Week': Record-Breaking Cold",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "mIXTmiNE9cQ",
+            "title": "'This Week' Sunday Spotlight: 'Lone Survivor'",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

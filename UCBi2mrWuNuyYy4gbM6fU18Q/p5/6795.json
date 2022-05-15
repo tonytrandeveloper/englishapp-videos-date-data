@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aQdQxsxI5Pg",
-            "title": "The Rock Tribal Dance on GMA",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "q6zXL70NbLo",
             "title": "Colin Powell Email Hacking Sparks Online Security Concerns",
             "secondDuration": 397,
@@ -31,8 +25,14 @@
             "title": "Officer Shooting of 13-Yr-Old Boy Investigated",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "hpI0FzSEgiY",
+            "title": "Donald Trump Reveals Details From Medical Records",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xxJSPS_ZiWU",
-            "title": "Trump goes after Mitt Romney as impeachment probe intensifies | ABC News",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "kgQHt1Eayq4",
             "title": "American woman claims diplomatic immunity after killing UK teen | ABC News",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Inspector General of Intel Community testifies behind closed doors | ABC News",
             "secondDuration": 280,
             "group": "group_7"
+        },
+        {
+            "videoId": "R30f6Bp-b3M",
+            "title": "Kim Kardashian calls for Brendan Dassey’s release | ABC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

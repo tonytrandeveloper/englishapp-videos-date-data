@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "l9FSwFlqB8c",
-            "title": "Chicago Sees Covid Testing Rush Ahead Of Holidays | NBC News NOW",
-            "secondDuration": 694,
-            "group": "group_7"
-        },
-        {
             "videoId": "iB0ufU4T9ik",
             "title": "Lilly Aspell Tells Us What It’s Like To Play A Superhero | Nightly News: Kids Edition",
             "secondDuration": 1258,
@@ -121,8 +115,14 @@
             "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2470,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvSsuxYeJs8",
+            "title": "Biden Introduces Nominee For Education Secretary | NBC News",
+            "secondDuration": 1600,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

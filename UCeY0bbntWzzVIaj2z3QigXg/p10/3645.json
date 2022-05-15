@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "niFJgBgVry0",
-            "title": "Rehema Ellis: \"For student success, I believe it takes...\"",
-            "secondDuration": 22,
-            "group": "group_7"
-        },
-        {
             "videoId": "ovtAWBq85oQ",
             "title": "Dateline: #DontWatchAlone",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Richard Goetschius: I think the US has a moral obligation to intervene in Syria.",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1yB0_KVc2E",
+            "title": "Derrick Knuckles: We have to stop Syria from using chemical weapons at all costs",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

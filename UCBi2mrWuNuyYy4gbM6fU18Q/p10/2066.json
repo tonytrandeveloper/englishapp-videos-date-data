@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jckYdL9r60w",
-            "title": "Heavy rain wreaks havoc from Michigan to Arkansas",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "cT-elepbUPQ",
             "title": "Facebook bans controversial users, including Alex Jones",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Family found dead in home, possibly due to high levels of carbon monoxide",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "cJ3CoOBm1hE",
+            "title": "'Star Wars' Peter Mayhew has died",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XAxkccHe3ec",
-            "title": "Briefing Room: Trump to sign border bill and declare national emergency, McConnell says| ABC News",
-            "secondDuration": 1783,
-            "group": "group_7"
-        },
-        {
             "videoId": "5lrDgmfzIw8",
             "title": "The Debrief: Parkland shooting anniversary, battle for ISIS stronghold in Syria, VP Pence in Poland",
             "secondDuration": 1454,
@@ -31,8 +25,14 @@
             "title": "Memorial service on Parkland shooting anniversary",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "n-SdTO19N-Q",
+            "title": "Air Force counterintelligence officer charged with spying",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

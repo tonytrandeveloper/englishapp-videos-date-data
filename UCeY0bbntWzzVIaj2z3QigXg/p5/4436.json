@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i5IjRcAKKsY",
-            "title": "Full Speech: Jon Meacham Eulogizes George H.W. Bush, The 'Last Great Soldier-Statesman' | NBC News",
-            "secondDuration": 742,
-            "group": "group_7"
-        },
-        {
             "videoId": "q0rV1tm8MJg",
             "title": "Former President George H.W. Bush's Casket Enters National Cathedral For Funeral Service | NBC News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Good Samaritan Stabbed To Death While Helping Panhandler | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "ORGrznVj6mU",
+            "title": "Mike Pompeo Briefs Senators On Jamal Khashoggi Killing | NBC Nightly News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

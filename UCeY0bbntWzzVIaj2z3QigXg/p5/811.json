@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8GcuF955LqU",
-            "title": "Nightly News Full Broadcast - October 21st",
-            "secondDuration": 1282,
-            "group": "group_7"
-        },
-        {
             "videoId": "M3JKFF0wzxE",
             "title": "Triceratops Skeleton Sold at Paris Auction For Over $7 Million to American Collector",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "U.S. Officials Monitoring China’s Military Growth",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Ke7abZOStI",
+            "title": "CDC Panel Signs Off On J&J, Moderna Covid Vaccine Booster",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WfLTgCUo5sk",
-            "title": "The National Spelling Bee Through The Decades | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "pjM7qRvi2WU",
             "title": "Michelle Obama To Native American Students: You're Among The Next Generation Of Leaders | NBC News",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "$1 Million Will Buy You an Entire West Virginia Town | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CrQKImYW01g",
+            "title": "Severe Storms, Tornadoes Tear Through Plains States | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UOzLOtTzjwI",
-            "title": "Testosterone: 'Viagra for the Boardroom'?",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "1oRwZT164Jo",
             "title": "On the Town with Green Day",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "Richard Gere on 'Arbitrage': Every Scene a Challenge as an Actor",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "8h44CTEAetE",
+            "title": "Richard Gere and 'Arbitrage' Stars Discuss Film's Inspiration",
+            "secondDuration": 578,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

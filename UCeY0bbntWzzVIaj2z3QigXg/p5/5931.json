@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-iNKBzD4aF8",
-            "title": "‘Smishing’ Cyber Attacks Target Customers Via Text Message | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "0t4l5I4FEQ4",
             "title": "O.J. Simpson's Daughter: We Just Want Him To Come Home | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Queen Elizabeth Given A Helping Hand, But Did Royal Protocol Get Squeezed Out? | NBC News",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "oeaR6MiQL6U",
+            "title": "Meet The Refugee Trying To Be Boston’s First Muslim City Councilor | NBC News",
+            "secondDuration": 289,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

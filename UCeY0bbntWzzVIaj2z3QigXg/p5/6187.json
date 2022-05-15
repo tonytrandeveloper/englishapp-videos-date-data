@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYVqHJW_jd0",
-            "title": "Inspiring America: Man With Cerebral Palsy Finishes Half-Ironman | NBC Nightly News",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "GsML-VJ-el0",
             "title": "The White House Easter Egg Roll: An Annual Tradition | NBC News",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "John McCain: North Korea 'May Be The First Test' Of Trump Presidency | Meet The Press | NBC News",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q4uIiRY5DbU",
+            "title": "Kindergarteners Watch Annual Duck Parade | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

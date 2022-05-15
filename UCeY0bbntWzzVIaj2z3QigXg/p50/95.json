@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "lUs8vMqmLSw",
-            "title": "Gunman Kills At Least 8 At Russian University, Authorities Say",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "ejm3rGI5Ltk",
             "title": "Nightly News Full Broadcast (September 19th)",
             "secondDuration": 1289,
@@ -301,8 +295,14 @@
             "title": "SpaceX’s All-Civilian Inspiration4 Crew Orbiting Earth",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "nRtY0XBee1w",
+            "title": "Biden Rejected Advice On Delaying Afghanistan Withdrawal, New Book Says",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

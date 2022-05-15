@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I_uVME3OlO8",
-            "title": "Uprising in Egypt 1/28/2011",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "E3mBA4ji2So",
             "title": "From Happy to Homeless: Teens in Trouble 1/28/2011",
             "secondDuration": 537,
@@ -61,8 +55,14 @@
             "title": "Amy Henslee Found Dead, Missing Michigan Mom 1/28/2011",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "wbYk85I01lM",
+            "title": "Space Shuttle Challenger Explosion, Teacher Christa McAuliffe Dies",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

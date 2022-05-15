@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DMbu9w4pDXE",
-            "title": "Greta Thunberg Blasts World Leaders’ Inaction On Climate Change | NBC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "-UWLm9pC19U",
             "title": "House Republicans, Democrats React To Vote On Impeachment Report | NBC News (Live Stream Recording)",
             "secondDuration": 1150,
@@ -31,8 +25,14 @@
             "title": "Schiff Holds News Conference After Release Of Impeachment Report | NBC News (Live Stream Recording)",
             "secondDuration": 1769,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZfkqgWAWyJ4",
+            "title": "Prime Minister Johnson Hosts NATO Leaders At Downing Street | NBC News (Live Stream Recording)",
+            "secondDuration": 2854,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

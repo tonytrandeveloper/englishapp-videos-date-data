@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Khj3q3Rce54",
-            "title": "85 injured in Mexico plane crash",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "hAqenTf2pD8",
             "title": "Ranch and River fires in California torching nearly 75,000 acres",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Judge blocks group's plan to release 3-D gun instructions online",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_sQQT847E4",
+            "title": "Briefing Room: Manafort trial begins, Facebook security, John Kelly staying?, 98 days to Midterms",
+            "secondDuration": 1087,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

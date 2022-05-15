@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jn5nWkcGf4o",
-            "title": "Morning News NOW Full Broadcast - March 2",
-            "secondDuration": 3120,
-            "group": "group_7"
-        },
-        {
             "videoId": "duKv-mVpYQI",
             "title": "Watch Biden's State Of The Union Address In 3 Minutes",
             "secondDuration": 201,
@@ -121,8 +115,14 @@
             "title": "Biden Details ‘Infrastructure Decade’ That Will Create ‘Millions’ Of American Jobs",
             "secondDuration": 272,
             "group": "group_7"
+        },
+        {
+            "videoId": "mzjLMOv1lg4",
+            "title": "Top Story with Tom Llamas - March 1 | NBC News NOW",
+            "secondDuration": 3063,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

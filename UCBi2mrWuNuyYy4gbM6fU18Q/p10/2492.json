@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "imSMWMoiq0Y",
-            "title": "Rudy Giuliani walked back recent comments that contradicted the White House",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "7TqNNP_yO0k",
             "title": "A Tesla car crash near Salt Lake City, Utah, is under investigation",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Officer resigns after dragging woman from her vehicle",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "LLBmLbpua5I",
+            "title": "Unarmed black man speaks out about Waffle House altercation with police officer",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

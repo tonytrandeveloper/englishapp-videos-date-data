@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qmheQNL7sEI",
-            "title": "American College Students Recovering From Acid Attack in Marseilles France | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "veH6OL707To",
             "title": "More Than 140 People Arrested In St. Louis Protests | NBC Nightly News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "\"Colorful, Creative Chaos\": One Day In Cosplay | NBC BLK | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "TdyWvTR_0b0",
+            "title": "This Martian Rover Is Made For Earth Travel | Mach | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

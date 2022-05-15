@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EkFSCQtIb1Q",
-            "title": "President Trump holds rally in Lake Charles, Louisiana | ABC News",
-            "secondDuration": 5283,
-            "group": "group_7"
-        },
-        {
             "videoId": "PlVUXzczamY",
             "title": "Saddle Ridge fire forces nearly 100,000 residents to evacuate",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "Simone Biles wins fifth world all-around title l ABC News",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBn3L_dBVuQ",
+            "title": "Thousands of people try to escape warfare in Syria l ABC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IIfK4lqrUsQ",
-            "title": "Amazon Prime set to increase its annual membership fee by $10",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "o6sVvcS-Vcs",
             "title": "12-year police veteran in critical condition after neck stabbing",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "5 confirmed dead as severe storms hit Northeast",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rpt_SUhg7Sg",
+            "title": "Ex-teacher gunned down on Mother's Day",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

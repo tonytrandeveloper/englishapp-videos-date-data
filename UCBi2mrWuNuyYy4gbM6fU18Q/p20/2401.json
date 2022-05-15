@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7RDcqC9Mplg",
-            "title": "Hit and Run on the Slopes",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "JfMhPIKH8TY",
             "title": "Buyer Beware: Recalled Vehicles Sold at Used Car Lots",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Person of the Week: Norm Lewis",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "WOR_RFN5OJ8",
+            "title": "Extreme Weather System Prompts Tornado Fears",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

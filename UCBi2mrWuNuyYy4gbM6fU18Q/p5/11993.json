@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q9U88SAclXg",
-            "title": "George W. Bush Says Wars Were 'Worth Fighting'; Discusses Working with Disabled Veterans",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydBBFCs7yeM",
             "title": "Interview with Nancy Pelosi",
             "secondDuration": 410,
@@ -31,8 +25,14 @@
             "title": "'The Princess Bride' Revisited",
             "secondDuration": 282,
             "group": "group_7"
+        },
+        {
+            "videoId": "-srymIasgMA",
+            "title": "Prince Harry Hits America",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

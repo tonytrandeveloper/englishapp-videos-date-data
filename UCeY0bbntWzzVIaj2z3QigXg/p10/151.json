@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DtKYiM9OLd4",
-            "title": "A War in Ukraine May Raise Prices in the U.S.",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "VT2ZMXSiUvs",
             "title": "Russia and Ukraine On The Brink of War",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "Two-Year-Old Locked Inside A Daycare After Hours",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "5GfmHmKUcHk",
+            "title": "Former Confidant Of Jeffrey Epstein Found Dead",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

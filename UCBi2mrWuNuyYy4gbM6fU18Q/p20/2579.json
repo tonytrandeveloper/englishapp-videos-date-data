@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_2g6arpywTk",
-            "title": "WEBCAST: Rescued From the Rubble",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "rzyrMHalns0",
             "title": "Woman Pulled From Philadelphia Building Collapse",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Superhero Window Washers",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "MOizImH4f0A",
+            "title": "Working Mom Controversy",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

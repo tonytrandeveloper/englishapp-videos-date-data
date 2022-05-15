@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G1FLL_BtMkk",
-            "title": "Alton Sterling, Slain Officer Families Hug at Memorial",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "wTyG2yEQ2QA",
             "title": "Ivanka Trump Fears for Her Dad's Safety, Talks Presidential Campaign",
             "secondDuration": 309,
@@ -121,8 +115,14 @@
             "title": "Melania Trump Speech at the Republican Convention",
             "secondDuration": 1033,
             "group": "group_7"
+        },
+        {
+            "videoId": "m3Ez1aNlP-8",
+            "title": "Rudy Giuliani Denounces 'Islamic Extremist Terrorism'",
+            "secondDuration": 961,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

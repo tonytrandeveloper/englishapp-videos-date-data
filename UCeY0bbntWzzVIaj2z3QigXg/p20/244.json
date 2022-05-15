@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ow22zUAPD2Y",
-            "title": "Meet The FDNY Firefighters Who Served in Air Force Together After 9/11",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fen2NecaoV8",
             "title": "Morning News NOW Full Broadcast - September 10",
             "secondDuration": 2987,
@@ -121,8 +115,14 @@
             "title": "Biden Announces New Vaccine Requirement For Federal Workers, Large Employers, Healthcare Providers",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "WvKCHtydVM4",
+            "title": "Biden Addresses Plan To Stop Delta Variant, Boost Covid Vaccinations",
+            "secondDuration": 1866,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

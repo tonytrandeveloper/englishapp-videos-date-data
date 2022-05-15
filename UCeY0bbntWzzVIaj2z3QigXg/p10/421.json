@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0VIJQWeuOa4",
-            "title": "‘Good To Know' Headlines: Butterball Recall, Facebook Political Testing, New United Airlines Routes",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jpj6kJO6OBM",
             "title": "British Lawmaker Stabbed To Death While Meeting With Public",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - October 14th",
             "secondDuration": 1271,
             "group": "group_7"
+        },
+        {
+            "videoId": "seljP6e-Cow",
+            "title": "Stores Offering Black Friday Deals Now To Encourage Early Holiday Shopping",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

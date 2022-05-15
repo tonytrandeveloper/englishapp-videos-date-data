@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vHyG3NwS6qA",
-            "title": "Police searching for teens seen on video viciously attacking 2 men in Washington, DC",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqi5k70i8Rg",
             "title": "Billy Joel plays piano with blind fan before concert in New York City",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Trump attends event for American workers in the White House",
             "secondDuration": 2406,
             "group": "group_7"
+        },
+        {
+            "videoId": "hew38PGg2g4",
+            "title": "Briefing Room: Mueller testimony, judge blocks Trump's asylum restrictions, push for clean energy",
+            "secondDuration": 1667,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

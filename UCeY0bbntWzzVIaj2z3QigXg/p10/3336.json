@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "btutbh_njJs",
-            "title": "White House: President Obama Is Aware Of Baton Rouge Shooting | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "GkKKTETDaXg",
             "title": "Hillary Clinton Slams Donald Trump's Business Record In Atlantic City | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Juno Probe Entering Risky Phase In Jupiter Orbit | NBC News",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "fpWOPevvYag",
+            "title": "President Obama Sings Happy Birthday To Daughter Malia | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

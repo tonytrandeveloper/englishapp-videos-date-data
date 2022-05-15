@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "szGQdChdtbU",
-            "title": "Roy Moore calls Senate race a 'spiritual battle'",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "QbALsXzZ_mc",
             "title": "Gunman fired 30 rounds at California elementary school",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Suspected serial killer may have taken a 4th life in Tampa neighborhood",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "ELr6p8rJUrk",
+            "title": "Deadly rampage in Northern California",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

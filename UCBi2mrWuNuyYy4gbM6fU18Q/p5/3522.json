@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8knpPbEx8Ck",
-            "title": "Bill Taylor: ‘There is corruption in every country, including ours’ | ABC News",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "ND-HotS9Jfo",
             "title": "Bill Taylor: ‘I don't consider myself a star witness’ | ABC News",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "George Kent delivers opening statement | ABC News",
             "secondDuration": 1001,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACJ_uSFuK-o",
+            "title": "Impeachment hearings begin, Venice floods, bushfires burn: World in Photos, Nov. 13",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9U8F-CtUttg",
-            "title": "James Holmes on Trial: Suspect in Aurora, Colorado Movie Theatre Shootings Back in Court",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sr903fBJmXY",
             "title": "Global Regulators Give Banks Four More Years to Build Cash Buffers",
             "secondDuration": 341,
@@ -121,8 +115,14 @@
             "title": "Superstorm Sandy Victim Reunited With Dog",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "xh-FTVbpP8M",
+            "title": "President Obama Faces Cabinet Changes, Spending Cuts and Gun Control",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

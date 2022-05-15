@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FgxquuGHv3o",
-            "title": "The Royals Down Under",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "a7ED3vj8xvM",
             "title": "High School Students Raise $20K for Children's Hospital",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Miley Cyrus Hospitalized for 'Severe Allergic Reaction'",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "OMZj_heZm0Y",
+            "title": "Temps Plunge as Northeast Hit with Snow",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

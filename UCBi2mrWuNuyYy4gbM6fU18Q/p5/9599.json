@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uLKHz4C7iJI",
-            "title": "The Royal Family Goes Down Under",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "kO9_coVa08Y",
             "title": "Oscar Pistorius Trial: Pistorius Explains His Side of the Story",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Chiwetel Ejiofor Could Be Next Bond Villain",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "BJ01jwdmhhQ",
+            "title": "Atlanta Archbishop Decides to Sell Mansion",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

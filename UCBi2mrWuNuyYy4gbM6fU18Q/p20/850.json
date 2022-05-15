@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gz3NV6tXTV8",
-            "title": "Church pays of over $5M in medical debt for thousands of families l ABC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "ncADayO2FuE",
             "title": "FBI joins search for 'endangered' siblings missing in Idaho l ABC News",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "The Year 2019: Marie Kondo, 'Avengers: Endgame,' a royal baby and other obsessions l ABC News",
             "secondDuration": 447,
             "group": "group_7"
+        },
+        {
+            "videoId": "x3EdpMt1hNA",
+            "title": "The Year 2019: Remembering those we lost l ABC News",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

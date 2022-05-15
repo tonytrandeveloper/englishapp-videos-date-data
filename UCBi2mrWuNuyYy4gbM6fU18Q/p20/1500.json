@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cIEi_0T4R7Q",
-            "title": "House intel chair backs down from claims that Trump, associates were monitored by US intelligence",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "F-NSMKkNg9g",
             "title": "President Trump reacts to failed GOP health care bill",
             "secondDuration": 1069,
@@ -121,8 +115,14 @@
             "title": "Texas woman survives 5 days stranded in desert near Grand Canyon",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "yytLuLGHvEI",
+            "title": "FCC to crack down on robocalls to cellphones and landlines",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

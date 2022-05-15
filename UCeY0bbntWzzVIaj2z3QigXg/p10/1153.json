@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d5DQ0kyNIu0",
-            "title": "Trump Holds Campaign Rally In Michigan | NBC News",
-            "secondDuration": 4919,
-            "group": "group_7"
-        },
-        {
             "videoId": "sVJPaepqkAY",
             "title": "Russia, China, And Iran Launched Cyberattacks On Presidential Campaigns, Microsoft Says | NBC News",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Pelosi Criticizes Trump For 'Denial And Distortion' Of Impact Of Coronavirus | NBC News NOW",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "ib-nctJEtTk",
+            "title": "Dr. Francis Collins On Oxford Vaccine Trial Hold | NBC News NOW",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

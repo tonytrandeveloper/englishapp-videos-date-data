@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fNmJMcvPhWQ",
-            "title": "Dramatic Celebrity Weight Loss",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "6BnrEVicMoE",
             "title": "Bus Crash: Field Trip Turns Tragic",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Sylvester Stallone Is 'Expendable'",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "uuGF6Z3iBv8",
+            "title": "Doctors to Dolphin's Rescue",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

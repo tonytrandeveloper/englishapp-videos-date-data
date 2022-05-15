@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RIrdvfOX4R0",
-            "title": "Chris Dorner: Ex-LA Cop Wanted in Killing Spree",
-            "secondDuration": 389,
-            "group": "group_7"
-        },
-        {
             "videoId": "12PdnaUPJ4w",
             "title": "WEBCAST: Manhunt for Suspected Cop Killer",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Singing Walmart Cashier Goes Viral",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "zVvwFAyokX0",
+            "title": "Los Angeles Manhunt: Who Is Christopher Dorner?",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

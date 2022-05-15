@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AvY15cNWu-M",
-            "title": "Gym Shooting Anniversary: Pregnant Victim Speaks",
-            "secondDuration": 282,
-            "group": "group_7"
-        },
-        {
             "videoId": "bpiTJlufFdI",
             "title": "Guns: The Open Carry Controversy",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "Panel Votes on Ground Zero Islamic Center",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "GVfDmUdyalg",
+            "title": "Timothy Geithner on Unemployment, Taxes",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z36qt2KJag4",
-            "title": "Nightly News Full Broadcast - October 13th",
-            "secondDuration": 1276,
-            "group": "group_7"
-        },
-        {
             "videoId": "y1BOfsSLxnw",
             "title": "Early Victims of ‘Havana Syndrome’ Speak Out About Ongoing Health Struggles",
             "secondDuration": 286,
@@ -61,8 +55,14 @@
             "title": "'The Most Profound Experience': William Shatner Speaks After Blue Origin Spaceflight",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "F5N2j4REwxg",
+            "title": "WATCH: Actor William Shatner Becomes Oldest Person To Travel To Space Aboard Blue Origin Rocket",
+            "secondDuration": 253,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

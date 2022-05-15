@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P93PEKO3G0k",
-            "title": "Louis CK Accused Of Sexual Misconduct By Five Women | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "BJJPAlAdm6I",
             "title": "Doctor Swaps White Coat For Apron To Teach Patients Healthy Eating | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Senators React To Roy Moore Allegations: ‘Appalling’ And ‘Disturbing’ | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "bAa-PV3uq5A",
+            "title": "Republican Senators Ready To Move Ahead With Tax Reform | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

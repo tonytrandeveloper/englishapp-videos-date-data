@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wptEOKb48zk",
-            "title": "Mario Batali faces new accusations of sexual misconduct",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "SumFm-61A7A",
             "title": "Woman describes 'worst fear' of being bitten by shark on honeymoon",
             "secondDuration": 207,
@@ -61,8 +55,14 @@
             "title": "Trump's lawyers call for new investigation of Robert Mueller's Russia probe",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "N2UpAEm39k4",
+            "title": "Online holiday sales expected to top $100 billion in US for the 1st time",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

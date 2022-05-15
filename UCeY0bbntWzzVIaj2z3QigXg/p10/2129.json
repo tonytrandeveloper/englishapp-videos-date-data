@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m-EGGeZarJI",
-            "title": "Mueller's Team Seized 'Voluminous And Complex' Evidence From Roger Stone | NBC Nightly News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "lnAiZ1138eI",
             "title": "President Donald Trump And Pelosi At Odds Over Wall Funding In Shutdown Deal | NBC Nightly News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Pelosi On Border Security: 'There Is Not Going To Be Any Wall Money' | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1YM58Ky3Wk",
+            "title": "The Digital Economy Is Changing. Here's How To Change With It. | Better | NBC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

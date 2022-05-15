@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mzQb-OurGGc",
-            "title": "Oscar Nominees: Their 'Three Words'",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hmoj7IiLKTc",
             "title": "Juror Penalized for Taking Kids to Court",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Performance Capture Acting",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "2hPk2Ilzaqs",
+            "title": "The Kodak's Comic Cohosts",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

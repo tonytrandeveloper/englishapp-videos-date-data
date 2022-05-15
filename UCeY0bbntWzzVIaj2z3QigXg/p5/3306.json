@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B3xbVXBGlPA",
-            "title": "What’s Buzzing At CES 2020? | NBC News NOW",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "mwOvSrv0DAg",
             "title": "U.S.-Iran Tensions Raise Concerns Over Possible Cyberattacks | NBC News NOW",
             "secondDuration": 306,
@@ -31,8 +25,14 @@
             "title": "Dozens Of American Firefighters Join Australian Fire Crews At Front Lines | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "fJSG-OxfSCI",
+            "title": "Chilling New Details About Murdered Texas Mom’s Final Days | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

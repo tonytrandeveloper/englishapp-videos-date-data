@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rGU5by4Xgi0",
-            "title": "WEBCAST: Remembering Sherman Hemsley",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "_2FOSMUcBdI",
             "title": "Cuba's Little Boxers Fight for Olympic Goal",
             "secondDuration": 270,
@@ -121,8 +115,14 @@
             "title": "James Holmes Court Appearance: First Look at Aurora, Colorado 'Dark Knight Rises' Shooting Suspect",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "Drd6JBJNd98",
+            "title": "Will Ferrell on New Movie, Missing George W. Bush, Punching Babies and Iran-AC/DC Virus",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

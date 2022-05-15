@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zCcQ06RNHHI",
-            "title": "Vice President Mike Pence meets with Harvey survivors",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "i8NqGuBXzDc",
             "title": "White House holds press briefing as Hurricane Harvey relief efforts continue",
             "secondDuration": 3950,
@@ -61,8 +55,14 @@
             "title": "Houston furniture store owner opens stores to Harvey victims: Part 2",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "PaBNymg7UiU",
+            "title": "Harvey continues to batter the Gulf coast",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

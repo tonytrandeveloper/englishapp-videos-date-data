@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A_iijlMvxAQ",
-            "title": "President Trump discusses the strength of US military | SOTU 2020 l  ABC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "m9-J7rOKaTc",
             "title": "Trump claims successful trade deals l State of the Union 2020 | ABC News",
             "secondDuration": 451,
@@ -121,8 +115,14 @@
             "title": "Radio icon Rush Limbaugh announces lung cancer battle | ABC News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "9mK-xJgoPlM",
+            "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

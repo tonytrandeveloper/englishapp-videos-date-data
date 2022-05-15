@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yExcBk00bxE",
-            "title": "Fact Checking Round One Of The Democratic Presidential Debates | NBC News Now",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "FIVIuVnzZ7Q",
             "title": "Mayor Wayne Messam Reacts To Democratic Presidential Debate Night One | NBC News Now",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "Lightning Round: Who's The Biggest Geopolitical Threat To The U.S Right Now? | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "w6d9-kn3U3o",
+            "title": "Tim Ryan, Tulsi Gabbard Spar On Afghanistan | NBC News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

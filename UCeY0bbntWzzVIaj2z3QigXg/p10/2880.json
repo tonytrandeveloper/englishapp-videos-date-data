@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kTmVJkEWt1c",
-            "title": "NASA's Cassini Mission Ends After 13 Years | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "B5tZzem7hCk",
             "title": "Police Investigating Student Death At LSU Frat House | NBC Nightly News",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "We Tried Working Out With 750 People On An Aircraft Carrier | Better | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "DhJu38b-owc",
+            "title": "President Donald Trump Delivers Remarks From Joint Base Andrews (Full) | NBC News",
+            "secondDuration": 1305,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

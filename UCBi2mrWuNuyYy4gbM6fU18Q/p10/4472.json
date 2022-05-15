@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qs59wUHFUrs",
-            "title": "State of the Union 2015: President Obama on Revived Space Program: 'Good Luck, Captain'",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "6WFTxVoAylY",
             "title": "State of the Union 2015: Obama Calls Ideas 'Practical, Not Partisan'",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "New ISIS Threat",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "IW4erYftP74",
+            "title": "Tiger Woods’ Tooth Knocked Out By Camera",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

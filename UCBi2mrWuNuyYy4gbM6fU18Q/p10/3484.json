@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZvUR5MWyVE8",
-            "title": "Olympics | Eat Like An Olympian",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "4nxvzFKd6iY",
             "title": "Olympics | Athletic Hijabs for Women",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Trails Hillary Clinton By Double Digits In New National Poll",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "7F3KYwu2MNU",
+            "title": "Clinton Responds to Trump's Economic Speech",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

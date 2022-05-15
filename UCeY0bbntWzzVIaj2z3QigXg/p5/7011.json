@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_xY4iz6Ly94",
-            "title": "President Obama On Russia Sanctions At G7 Summit | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "560jLxpN8oM",
             "title": "High Schools Claim Multiple Valedictorians | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "The Virtue of Small State Primaries | Chuck's Take | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "ElrhFXIZVhI",
+            "title": "Unexpected Colorado Tornado Does Major Damage | Short Take | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

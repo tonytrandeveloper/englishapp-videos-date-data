@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M8fzPKgbJYw",
-            "title": "Penn State Coach Mike McQueary Put on Leave",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "OyKxLC9xmk4",
             "title": "'J. Edgar's' Armie Hammer Sings 'Too Sexy' for Peter Travers on 'ROUGH CUT'",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Woman Drops 130 Lbs Post-Radical Surgery",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "oLCZotkz5CM",
+            "title": "Joe Paterno Fired, Penn State Riot",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

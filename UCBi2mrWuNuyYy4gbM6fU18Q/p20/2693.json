@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pCdTaukB8nU",
-            "title": "Miss America 2013 - Pageant Confidential: Miss Nip and Tuck",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "FwSag69LiOE",
             "title": "Miss America 2013 - Pageant Confidential: The Pressure Builds",
             "secondDuration": 348,
@@ -121,8 +115,14 @@
             "title": "Youngest 'Best Actress' Nominated for Oscar: Quvenzhané Wallis Makes Big Screen Debut",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "CipYPqsbhVQ",
+            "title": "Behind the Scenes of Miss America 2013: Prepping for the Big Show",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "roRNO53e39o",
-            "title": "Trump: There was no collusion between campaign and the Russians",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "AfG4rodocnA",
             "title": "The NYPD is preparing an unprecedented security operation for New Year's Eve",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "12 dead in massive New York City apartment fire",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "fLZq0RaaFVk",
+            "title": "Apple apologizes for slowing down older iPhone models",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

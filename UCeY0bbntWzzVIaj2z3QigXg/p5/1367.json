@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AsqP7Wf3tC8",
-            "title": "Americans Honor Those Who Served At Memorial Day Remembrances",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJP7XTd0I5E",
             "title": "NBC News NOW Full Broadcast - May 31st, 2021",
             "secondDuration": 2986,
@@ -31,8 +25,14 @@
             "title": "Drought Stretches Across American West | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "qROX1n52BuM",
+            "title": "Controversial Texas Voting Law Temporarily Derailed",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

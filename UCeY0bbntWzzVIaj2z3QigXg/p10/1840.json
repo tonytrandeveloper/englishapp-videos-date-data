@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Bu1KgFwt8NU",
-            "title": "MTP Compressed: Pres. Trump’s Credibility In Question As Congress Returns | Meet The Press",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "cangsL98pf4",
             "title": "How Should Congress Negotiate With A President Who Does Not Tell The Truth? | Meet The Press",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Residents Of Abaco Islands In Need Of Aid After Hurricane Dorian | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "IyCUb7bWnBw",
+            "title": "Aerials Show Heavy Flooding In North Carolina's Outer Banks | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

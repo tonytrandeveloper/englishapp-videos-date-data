@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KLCTqZEobT0",
-            "title": "Lightning Round with Nick Cannon | ABC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "T0p_bDeVeRI",
             "title": "Lightning Round: MC Hammer | ABC News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Orlando Nightclub Massacre: A Timeline of What Happened",
             "secondDuration": 480,
             "group": "group_7"
+        },
+        {
+            "videoId": "0aMpDNviVAE",
+            "title": "Orlando Nightclub Massacre Victims Identified",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

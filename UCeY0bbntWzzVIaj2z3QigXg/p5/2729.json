@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cs4VjEsigiU",
-            "title": "Live: Minnesota Governor Holds Press Conference On George Floyd Protests | NBC News",
-            "secondDuration": 3758,
-            "group": "group_7"
-        },
-        {
             "videoId": "oejaHE5jUaA",
             "title": "Video Shows New Angle Of George Floyd’s Arrest With Multiple Officers | NBC News NOW",
             "secondDuration": 38,
@@ -31,8 +25,14 @@
             "title": "College Students Ask University Presidents: 'Will We Be Safe?' | Meet The Press | NBC News",
             "secondDuration": 1385,
             "group": "group_7"
+        },
+        {
+            "videoId": "a6xNL7ZByzQ",
+            "title": "UConn Student Suspected Of Killing Two People Arrested After Week-Long Manhunt | NBC News NOW",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

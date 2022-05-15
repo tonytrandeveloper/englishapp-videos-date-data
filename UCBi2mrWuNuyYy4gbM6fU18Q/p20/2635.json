@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lFWdQFWsvFM",
-            "title": "North Korea Threatens US With Nuclear Attack",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "jbOcXtifoEc",
             "title": "Rand Paul Filibusters American Drone Policy",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Budget Cuts Shut Down White House Tours",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "YPFavOnRXx0",
+            "title": "Instant Index: Carrie Fisher to Reprise Role as Princess Leia",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

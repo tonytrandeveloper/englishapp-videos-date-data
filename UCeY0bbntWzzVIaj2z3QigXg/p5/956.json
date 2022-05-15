@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hGX7E393DlM",
-            "title": "Biden Announces New Defense Agreement with U.K., Australia",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "PRgEYCphHP8",
             "title": "Reba McEntire Rescued From Historic Building After Stairwell Collapse",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Nicholas Lingers Over Louisiana Region Slammed by Hurricane Ida",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtCw4iwuot8",
+            "title": "Senate Holds Hearing On FBI Handling Of Larry Nassar Investigation",
+            "secondDuration": 15036,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

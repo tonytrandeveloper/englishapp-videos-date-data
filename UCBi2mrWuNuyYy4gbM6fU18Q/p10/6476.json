@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MsSReN5w544",
-            "title": "Hit and Run Caught on Tape",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBu7L5kfdGo",
             "title": "Amplified: Versus",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "Romer on Jobs: Recovery in Sight?",
             "secondDuration": 629,
             "group": "group_7"
+        },
+        {
+            "videoId": "jE6heHu4n6A",
+            "title": "Double Agent's Revenge Killings",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

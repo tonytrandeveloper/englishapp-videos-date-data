@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZACSlKefZQk",
-            "title": "Is It OK to Be Fat?",
-            "secondDuration": 341,
-            "group": "group_7"
-        },
-        {
             "videoId": "83LrsZXJCNY",
             "title": "YouTube U",
             "secondDuration": 132,
@@ -301,8 +295,14 @@
             "title": "Tiger Woods Teed Up",
             "secondDuration": 377,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hdr7sITzctw",
+            "title": "New Troubles for Toyota",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

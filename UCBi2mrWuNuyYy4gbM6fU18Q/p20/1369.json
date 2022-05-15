@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0HaeXxyv8Sw",
-            "title": "Boy Scouts to begin admitting girls",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "HgJ9aaQOoC8",
             "title": "Death toll rises in California wildfires",
             "secondDuration": 266,
@@ -121,8 +115,14 @@
             "title": "California declared a federal disaster area",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "vvDoRoENIyc",
+            "title": "Disturbing new allegations against Harvey Weinstein",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

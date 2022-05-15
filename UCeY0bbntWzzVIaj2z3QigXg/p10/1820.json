@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zFDTkD3A7vU",
-            "title": "2020 Presidential Candidates Take On LGBTQ Issues At GLAAD Forum | NBC News",
-            "secondDuration": 753,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ZwBSjBgMXg",
             "title": "Draining Arizona: Mining For Water In The Desert Leaves Residents' Wells Dry | NBC News",
             "secondDuration": 948,
@@ -61,8 +55,14 @@
             "title": "Teen Activist Greta Thunberg Leads Global Climate Protest | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "pHJrFFv9rpw",
+            "title": "Watch live: Presidential Candidate Forum on LGBTQ Issues",
+            "secondDuration": 8139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

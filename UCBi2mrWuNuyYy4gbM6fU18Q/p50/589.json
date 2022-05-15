@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "H6VPud8W4S4",
-            "title": "Michigan high school hosts '13 Reasons Why Not' project",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "AF1DlCw1nDg",
             "title": "President Trump reveals he planned to fire Comey before DOJ recommendation",
             "secondDuration": 208,
@@ -301,8 +295,14 @@
             "title": "GOP faces backlash over health care bill",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "JRm3Q7M1VAQ",
+            "title": "Penn State fraternity brothers face charges in student's death",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

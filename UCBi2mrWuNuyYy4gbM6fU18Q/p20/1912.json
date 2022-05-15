@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DQyTnmk61eY",
-            "title": "Kansas Wildfire Burns, Severe Storms Strike Indiana, Florida",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "9FKg0zpOSVw",
             "title": "Bernie Sanders Sweeps Saturday Caucuses",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Criminals Posing as Utility Workers",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "ldNc4VaOKSo",
+            "title": "Flight Attendant Accused of Smuggling 70 Pounds of Cocaine",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

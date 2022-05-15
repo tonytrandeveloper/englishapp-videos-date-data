@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0t5Sn_S-pdI",
-            "title": "President Donald Trump Expected To Sign Executive Order That Could End Family Separations | NBC News",
-            "secondDuration": 2016,
-            "group": "group_7"
-        },
-        {
             "videoId": "KMTDo8ojnt4",
             "title": "Britain's Prime Minister Criticizes President Donald Trump's Border Separation Policy | NBC News",
             "secondDuration": 98,
@@ -301,8 +295,14 @@
             "title": "Road Rage Leads To Shooting At Colorado Dentist Office | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "DRbtcs2EjIY",
+            "title": "Inside A San Diego Detention Center Where Children Live In Limbo | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X3srqfpoZP8",
-            "title": "Michael Avenatti: 'Cover-Ups Should Always Matter' (Full) | Meet The Press | NBC News",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "WsmkCNL1AR0",
             "title": "President Donald Trump Attends Roundtable On Tax Reform | NBC News",
             "secondDuration": 2890,
@@ -31,8 +25,14 @@
             "title": "Study Shows Fast Food Increases Infertility | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "WXDbyNcn4Uc",
+            "title": "Rapper Meek Mill Speaks Out About Criminal Justice Reform | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

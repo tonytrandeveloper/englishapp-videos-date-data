@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UOVTDQX_1qY",
-            "title": "Meet The Press Broadcast (Full) - October 18th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2857,
-            "group": "group_7"
-        },
-        {
             "videoId": "44Fpb0XwOtY",
             "title": "Biden Delivers Remarks In North Carolina | NBC News",
             "secondDuration": 1091,
@@ -31,8 +25,14 @@
             "title": "Republicans Are Beginning To Distance Themselves From President Trump | Meet The Press | NBC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "8l_BbcGtXu0",
+            "title": "'Rounding The Corner' On Coronavirus? Or Going In Circles? | Meet The Press | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

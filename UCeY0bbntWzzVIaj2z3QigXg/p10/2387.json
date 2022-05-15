@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rKCw58E1Bu4",
-            "title": "NBC News Denies Claim That It Tried To Block Harvey Weinstein Report | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "VL2zIbxVWG0",
             "title": "Researchers Say Car Seat Guidelines Should Focus On Child’s Size, Not Age | NBC Nightly News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "John McCain Honored In Moving Ceremony At U.S. Capitol | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "t6qrtYlEQ5o",
+            "title": "Watch Live: John McCain Honored In Ceremony At U.S. Capitol | NBC NEWS",
+            "secondDuration": 6826,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

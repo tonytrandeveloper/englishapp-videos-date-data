@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0pherqXeWXA",
-            "title": "What Is An AR-15? A Look At the Rifle",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "9GL1TJAvkeE",
             "title": "How to Survive an Alligator Attack",
             "secondDuration": 41,
@@ -301,8 +295,14 @@
             "title": "Omar Mateen's Troubled Past",
             "secondDuration": 553,
             "group": "group_7"
+        },
+        {
+            "videoId": "qmBMio4zsps",
+            "title": "Orlando Nightclub Massacre Survivors, Heroes Describe Terror",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

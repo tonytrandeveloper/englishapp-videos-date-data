@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VZsZbwO5qPQ",
-            "title": "Deputy AG Rod Rosenstein interview on the opioid crisis",
-            "secondDuration": 907,
-            "group": "group_7"
-        },
-        {
             "videoId": "2TJW2PUNLoM",
             "title": "President Donald Trump, Greek Prime Minster Alexis Tsipras hold joint news conference",
             "secondDuration": 2861,
@@ -31,8 +25,14 @@
             "title": "Trump claims past presidents didn't call families of fallen soldiers",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "fH5K64OiHwM",
+            "title": "New 911 calls underscore devastation at Florida nursing home",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

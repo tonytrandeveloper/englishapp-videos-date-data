@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FdjTQPNaSW0",
-            "title": "Humans of NY Raises Over $1 Million For BK School | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "nvtPR2w-WHQ",
             "title": "Wilson Footballs: From The Factory To The Field | NBC News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "'Hashtag Lunchbag' Feeds The Homeless | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "WGKgV-SuqQk",
+            "title": "Auschwitz Survivors Gather On 70th Anniversary Of Liberation | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

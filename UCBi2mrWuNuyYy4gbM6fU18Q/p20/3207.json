@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YyBNVRN8zzM",
-            "title": "Russian Reporter Describes Subway Attack",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "4qXwVov-IeY",
             "title": "Republican Clash on Health Care Strategy",
             "secondDuration": 276,
@@ -121,8 +115,14 @@
             "title": "Jane Fonda's Fitness Mission",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "zmw3Ekwbqyk",
+            "title": "Sen. Scott Brown: Focus on Jobs",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

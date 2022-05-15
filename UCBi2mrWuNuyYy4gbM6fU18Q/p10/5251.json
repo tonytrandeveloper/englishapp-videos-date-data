@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6xD_tXRFSsI",
-            "title": "Steubenville Rape Case: Teenage Girl Expected to Testify",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "HClf6ea5g9E",
             "title": "'Fifty Shades of Grey' Movie: Emma Watson Casting Rumors",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "'Ag Gag' Bills Target Hidden Cameras",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "dY699EXusks",
+            "title": "Spring Break Danger: Binge Drinking",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

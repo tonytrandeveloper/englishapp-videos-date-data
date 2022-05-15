@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nd28rC2iRBU",
-            "title": "FAA issues flight restrictions amid Venezuela chaos",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "qfQLla11n80",
             "title": "Barr refuses to testify before House committee",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Student: Alleged gunman sat in class for 10 minutes before opening fire",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "3BiBAUmUm6U",
+            "title": "Venezuelan opposition leader continues daring call to action amid clashes",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

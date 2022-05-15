@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "J8jlHEMl3O8",
-            "title": "Palin for President?",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "cy9gp8943zM",
             "title": "Person of the Week: Garth Brooks",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "National Journal's Reid Wilson on 'Top Line'",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "U8uzuPk8Hkc",
+            "title": "Matt Kibbe: 'This Isn't Stimulus, This Is Dodging'",
+            "secondDuration": 559,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

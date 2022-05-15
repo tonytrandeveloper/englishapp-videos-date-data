@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rd6YuRT2SDs",
-            "title": "Coronavirus Pandemic Fuels Demand For Ventilators | NBC Nightly News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "FaUFccI7Uv8",
             "title": "Sen. Sanders Speaks On Coronavirus Amid Primary Voting | NBC News (Live Stream Recording)",
             "secondDuration": 1207,
@@ -31,8 +25,14 @@
             "title": "Dow Bounces After Government Doubles Down On Stimulus Package | NBC News NOW",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "quSR4RJbVU4",
+            "title": "NYC Mayor Bill de Blasio Holds Press Conference On Coronavirus | NBC News (Live Stream Recording)",
+            "secondDuration": 4160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

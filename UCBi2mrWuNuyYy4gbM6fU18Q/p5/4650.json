@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iX9A8QpRBqM",
-            "title": "'Jeopardy' contestant proposes to girlfriend of 10 years during show",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "iUsREAoj9yg",
             "title": "'Briefing Room': Kavanaugh advances to floor but Flake calls for delay, investigation | ABC News",
             "secondDuration": 1409,
@@ -31,8 +25,14 @@
             "title": "What's next after divisive Ford, Kavanaugh hearing",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXoO4Zu2Z2k",
+            "title": "Sarah Sanders on Trump's reaction to Kavanaugh, Ford",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

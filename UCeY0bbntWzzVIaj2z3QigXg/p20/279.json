@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sZcOpCaZB8E",
-            "title": "Youth Covid Cases Rising Nationwide",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ycg09rbmpY",
             "title": "Pfizer Vaccine Could Get Final FDA Approval by September",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "NY AG Report Alleges 11 Women Sexually Harassed By Cuomo",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gb48Gj-TC7k",
+            "title": "Dr. Rochelle Walensky Speaks On The Latest Covid Vaccination News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

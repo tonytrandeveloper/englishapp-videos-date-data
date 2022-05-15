@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BsKFb8NnUjM",
-            "title": "New England Battling Rise In Covid Cases Among The Unvaccinated",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "TYio1Qr_6EQ",
             "title": "Protesters Gather Outside Courthouse Awaiting Verdict In Rittenhouse Trial",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – Nov. 16 | Morning News NOW",
             "secondDuration": 1454,
             "group": "group_7"
+        },
+        {
+            "videoId": "4OX8CB_GL7Y",
+            "title": "Video Shows U.S. Coast Guard Rescuing People From Washington Floodwaters",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

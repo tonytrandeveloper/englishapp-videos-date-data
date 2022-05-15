@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NWsptVmOT-8",
-            "title": "A Look At Mail-In Voting In 6 Key Swing States | NBC News NOW",
-            "secondDuration": 714,
-            "group": "group_7"
-        },
-        {
             "videoId": "yuGOB-WaQic",
             "title": "Oklahoma Boy Gets 5,000 Adoption Inquires After Viral Interview | NBC Nightly News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Inside USPS Struggles Over Mail Delays, Election Ballots | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBib7TMdgrs",
+            "title": "Trump: ‘I Haven’t’ Encouraged Postmaster General To Slow Down Mail Delivery | NBC News NOW",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G05H1trruEw",
-            "title": "Hillary Clinton Is Back on the Campaign Trail",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "eSsbt6BUQVI",
             "title": "13-Year-Old Killed in Police Shooting in Columbus, Ohio",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "High School Football Team Welcomes Transgender Player",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Truf0ktgYTA",
+            "title": "Equity Stars Share Their Story | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 725,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

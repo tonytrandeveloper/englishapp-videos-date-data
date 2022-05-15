@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Coyf4st4Vtg",
-            "title": "President Trump meets with Pope Francis at the Vatican",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "IBhcTDqHh0g",
             "title": "Did Manchester bomber Salman Abedi act alone?",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Desperate search for survivors after Manchester attack",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "MdL6V2JZfJQ",
+            "title": "UK raises threat level to critical after concert terror attack",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

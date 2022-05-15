@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OvA7bXtSotk",
-            "title": "Virginia schools closed in search for Marine",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "tODQDxRfWDU",
             "title": "America Strong: The Women of CMA",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Highlights and lowlights of the 1st public impeachment hearing | ABC News",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "2QzLRBAAvh0",
+            "title": "Trump on impeachment hearing: ‘I hear it’s a joke’ | ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

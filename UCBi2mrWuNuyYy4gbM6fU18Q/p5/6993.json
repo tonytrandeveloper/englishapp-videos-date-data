@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3mUHjUbEV18",
-            "title": "Donald Trump Feuds With the GOP",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "lZT1qnGVLV4",
             "title": "Teens Found Dead Behind Georgia Grocery Store",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Wikileaks Leads to 3 DNC Official Departures",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "jk8PL1aPBBU",
+            "title": "Trump Supporter Gifts Purple Heart",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

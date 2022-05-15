@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fJCIk4OT7EE",
-            "title": "Trump Speaks To Arizona Youth | NBC News",
-            "secondDuration": 5654,
-            "group": "group_7"
-        },
-        {
             "videoId": "8fNHEKRJrk0",
             "title": "Powerful Farewell At Funeral For Rayshard Brooks | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "De Blasio Announces Task Force To Crack Down On Illegal Firework Sellers | NBC News NOW",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "NtgBJQJgs88",
+            "title": "Live: Trump Participates In Roundtable On Border Security | NBC News",
+            "secondDuration": 2308,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

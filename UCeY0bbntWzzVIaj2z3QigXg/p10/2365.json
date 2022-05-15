@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "83YsWjwf3Ko",
-            "title": "Police Officer Saves Others As His Home Burns In Massachusetts Gas Explosions | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "9TgGlAdhGvc",
             "title": "Big City Restaurants Put Work On The Menu During Off-Hours | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "N.C. Gov. Roy Cooper Gives Update On Tropical Storm Florence | NBC News",
             "secondDuration": 1880,
             "group": "group_7"
+        },
+        {
+            "videoId": "DgsiuvJT1Cg",
+            "title": "FEMA Provides An Update On Tropical Storm Florence | NBC News",
+            "secondDuration": 2759,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

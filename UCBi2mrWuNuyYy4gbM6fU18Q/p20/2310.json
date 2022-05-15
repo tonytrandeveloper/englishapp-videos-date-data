@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aUVWFuywmG8",
-            "title": "Close Up Crocs",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "aWEzCz8BlHw",
             "title": "Don't Want to Wait in Line for iPhone 6? Hire This Guy",
             "secondDuration": 340,
@@ -121,8 +115,14 @@
             "title": "Ultimate Tailgating Party Planning",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKZjwb9uZQ8",
+            "title": "In Case You Missed It",
+            "secondDuration": 519,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

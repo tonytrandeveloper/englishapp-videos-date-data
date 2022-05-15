@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KoqFMXVHCHQ",
-            "title": "News You Missed: Bank Robber Eats Ransom Note",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "0R--8u0BlT0",
             "title": "Outrageously-Priced Holiday Gifts",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Found Guilty of Murder",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "ksp2HVvowNg",
+            "title": "Jake Tapper on Jobs Numbers",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

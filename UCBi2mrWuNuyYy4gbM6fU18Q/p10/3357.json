@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mD-EdOCiIjc",
-            "title": "Saving Soldiers' Lives on the Battlefield Begins with High-Tech Training",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "QCCWH_CNjM0",
             "title": "Treating PTSD With Virtual Reality Therapy: A Way to Heal Trauma",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Daniel Singer Creates Innovative Social App | ABC News",
             "secondDuration": 345,
             "group": "group_7"
+        },
+        {
+            "videoId": "3C108WlIg-E",
+            "title": "9-Year-Old Abstract Painter Aelita Andre Opens Solo Show in Famed Museum",
+            "secondDuration": 353,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

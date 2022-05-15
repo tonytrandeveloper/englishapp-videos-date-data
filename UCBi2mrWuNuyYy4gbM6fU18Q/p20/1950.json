@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ul6dLCnKL4A",
-            "title": "'Ransomware': The New Cyber Threat Targeting Hospitals and Police Departments",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "yU9XMnTR7lk",
             "title": "FBI Standoff With Apple Over San Bernardino Shooter's Phone Continues",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "Pope Francis heads Back to the Vatican",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "qR1CMJsNXNo",
+            "title": "'Elkhart 4' Arrested For Murder in Burglary Gone Wrong: Part 1",
+            "secondDuration": 495,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

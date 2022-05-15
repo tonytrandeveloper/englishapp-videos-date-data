@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Lzm-vAmBoXw",
-            "title": "Passenger ejected from car after crash into toll plaza",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "ylDHCk81CDc",
             "title": "Guess co-founder resigns after sexual misconduct allegations",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "President Trump opens up about historic summit (FULL EXCLUSIVE INTERVIEW with George Stephanopoulos)",
             "secondDuration": 822,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EMkd3TV7ug",
+            "title": "President Trump meets with Kim Jong Un to commit to denuclearization",
+            "secondDuration": 480,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

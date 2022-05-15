@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QRgHlNDGms8",
-            "title": "This Week Governors Special",
-            "secondDuration": 1334,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvzRpTdY3is",
             "title": "When Should Kids Get Cell Phones?",
             "secondDuration": 359,
@@ -121,8 +115,14 @@
             "title": "Are Insurance Companies Price Gouging?",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "VoOdu_PWYi0",
+            "title": "Top Line: Will Obama's Debt Commission Work?",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

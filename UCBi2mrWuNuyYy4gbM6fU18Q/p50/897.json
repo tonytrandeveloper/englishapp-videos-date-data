@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bVxpo8x8kg0",
-            "title": "FBI Says Bartender Plotted to Poison John Boehner",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "K0uiN8-YDAM",
             "title": "Missouri Student Killed Trying to Protect Friend During Mugging",
             "secondDuration": 122,
@@ -301,8 +295,14 @@
             "title": "Haircuts for Homeless: Celebrity Hairstylist Offers Free Cuts",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "4nedjNvtb4Y",
+            "title": "Paris Attack: Heroes' Stories of Survival",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T493LjiDCc4",
-            "title": "Wild Flag Interview: All-Female Rock Group's All-Star Lineup",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "HnUuw9AxF8c",
             "title": "WEBCAST: Boston Bombing Suspect",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Mark Wahlberg Responds to Boston Marathon Explosions",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "a4QCY7jMFd4",
+            "title": "Boston Explosions 2013: Deep Sympathy for Victims",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

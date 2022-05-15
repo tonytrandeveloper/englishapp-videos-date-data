@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m5dvxx3b62I",
-            "title": "Watch: Day 10 of Derek Chauvin's Trial | NBC News",
-            "secondDuration": 23955,
-            "group": "group_7"
-        },
-        {
             "videoId": "jGZjAKUBJfE",
             "title": "Biden Sends Condolences After Prince Philip's Passing: 'He's Going To Be Missed' | NBC News NOW",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Biden Releases First Budget Proposal To Congress | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "pfovMejjy_Q",
+            "title": "White House Holds Press Briefing: April 9 | NBC News",
+            "secondDuration": 3868,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

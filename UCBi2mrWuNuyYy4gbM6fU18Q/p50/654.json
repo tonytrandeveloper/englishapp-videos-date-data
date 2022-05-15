@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TwOLrDruOeU",
-            "title": "Presidential Election Polls Show a Virtual Tie in Florida and North Carolina",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "T6dR5B799hs",
             "title": "Bill Clinton Gives Final Solo Campaign Rally of the Election Cycle",
             "secondDuration": 150,
@@ -301,8 +295,14 @@
             "title": "Hillary Clinton Campaigns with Beyonce, Jay-z & Katy Perry",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "fwEkTuZ1Qxk",
+            "title": "Election Results Revealed by Tarot Card Reader",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

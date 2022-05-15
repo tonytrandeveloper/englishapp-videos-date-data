@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "556k39ObAOg",
-            "title": "Mecca Enters Ramadan With Holy Sites Closed To Visitors Because Of COVID-19 | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y4VkcJ5K5oE",
             "title": "New Yorkers Sing 'Lean On Me' To Honor Workers On The Coronavirus Front Line | NBC News",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Coronavirus May Have Hit Big U.S. Cities Earlier Than First Thought | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "vKx82FMZ_LU",
+            "title": "Empty Las Vegas Casinos At Center Of Clash Over Reopening | NBC Nightly News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

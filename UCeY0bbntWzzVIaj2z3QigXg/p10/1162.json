@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LDtl70qOmdU",
-            "title": "Joe Biden Delivers Remarks On Economy, Coronavirus | NBC News",
-            "secondDuration": 2638,
-            "group": "group_7"
-        },
-        {
             "videoId": "k6ZR7Cao8r8",
             "title": "Live: Trump Meets With Leaders Of Kosovo, Serbia At White House | NBC News",
             "secondDuration": 331,
@@ -61,8 +55,14 @@
             "title": "University Of Georgia Reports Over 800 Coronavirus Cases As Spike Surges In Colleges Nationwide",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "elLJ7hmosK0",
+            "title": "Trump Responds To Accusations He Called Dead American Soldiers ‘Losers’ | NBC News NOW",
+            "secondDuration": 418,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

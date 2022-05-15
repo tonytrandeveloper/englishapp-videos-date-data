@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JncS3qvjOXc",
-            "title": "Moore denies allegations in new TV interview",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "hF05_bOPnpQ",
             "title": "Scam warning from hit home improvement TV show",
             "secondDuration": 104,
@@ -301,8 +295,14 @@
             "title": "Near miss at New York's JFK Airport",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "PB2r1pEVgnE",
+            "title": "Christmas 2017: U.S. Capitol tree lighting ceremony live | ABC News",
+            "secondDuration": 2174,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LTdmHJVsnlg",
-            "title": "'Dancing With the Stars' Sees Gavin DeGraw's Emotional Dance; Katherine Jenkins, William Levy Shine",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "SFybvgMXi6E",
             "title": "Katie Couric Interviews Camille Grammer: Thanks Kelsey for 'Gift of Humiliation' on \"Housewives\"",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Wife: Bin Laden Hid in Pakistan for Decade",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "svyL4bHMn_o",
+            "title": "Katie Couric on 'Good Morning America'",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vvDoRoENIyc",
-            "title": "Disturbing new allegations against Harvey Weinstein",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "crORaUm1s_I",
             "title": "Trump continues his name calling and Twitter war with Sen. Bob Corker",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Las Vegas shooter's former co-worker speaks out",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "34BQx_YzJt0",
+            "title": "Trump faces divide on NFL, Republican issues",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

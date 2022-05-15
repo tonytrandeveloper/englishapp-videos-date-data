@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SKzyOAdQuL8",
-            "title": "Doug Jones’ Alabama Victory Speech (Full) | NBC News",
-            "secondDuration": 713,
-            "group": "group_7"
-        },
-        {
             "videoId": "tT-lTxhW7pY",
             "title": "Roy Moore Delivers Concession Speech From Alabama (Full) | NBC News",
             "secondDuration": 311,
@@ -61,8 +55,14 @@
             "title": "The Link Between Smartphones And Kids’ Mental Health | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "nvAc1HSRhjo",
+            "title": "Port Authority Suspect Charged In Pipe Bomb Attack | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

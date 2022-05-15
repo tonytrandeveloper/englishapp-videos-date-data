@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9ZSBwFnaGyw",
-            "title": "Fierce reaction to Trump's decision to move US embassy to Jerusalem",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "060iyAz9EPo",
             "title": "Growing list of senators call on Al Franken to resign in wake of sexual misconduct scandal",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Man accused of encouraging terror plot against Prince George",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "P1iznicM7ZI",
+            "title": "4 major fires continue to burn and endanger residents in California",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

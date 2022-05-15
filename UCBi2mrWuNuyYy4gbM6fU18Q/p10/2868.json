@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5ZOniCgliYk",
-            "title": "White House Press briefing after G-20, Donald Trump Jr.-Russian attorney meeting revelation (audio)",
-            "secondDuration": 3571,
-            "group": "group_7"
-        },
-        {
             "videoId": "uKRF9raKQOU",
             "title": "Conway: No meaningful information received in Trump Jr's meeting with Russian lawyer",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Secretary Mnuchin: President Trump 'focused on strategically negotiating with Putin'",
             "secondDuration": 885,
             "group": "group_7"
+        },
+        {
+            "videoId": "NvlTCSwphNg",
+            "title": "Sen. Ted Cruz on health care reform: 'I believe we can get it done'",
+            "secondDuration": 553,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

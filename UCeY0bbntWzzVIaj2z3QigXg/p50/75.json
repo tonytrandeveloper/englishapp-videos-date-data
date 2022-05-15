@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4168aJbyKmw",
-            "title": "Minute-By-Minute Breakdown Of Deadly Astroworld Concert",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAYuV_vglXU",
             "title": "Meet The Midterms | Meet The Press Reports",
             "secondDuration": 1645,
@@ -301,8 +295,14 @@
             "title": "'Rust' Crew Member Speaks Out About Set Conditions",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "R9EKeOTprBo",
+            "title": "Two Teens Charged In Connection With Death Of Teacher",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l32QiMgg3fk",
-            "title": "Watch: Presidential Candidates Pitch Their Plans To Tackle Climate Change | NBC News Now",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "ui_7gmhRxAY",
             "title": "Delta Plane Quickly Descends 30,000 Feet In Controlled Descent|  NBC Nightly News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Climate In Crisis: How To Save A Glacier | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "U8tcPAiIfYA",
+            "title": "Trump Denies Secret Whistleblower Complaint Over Call With Foreign Leader | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

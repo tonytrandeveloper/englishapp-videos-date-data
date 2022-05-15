@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fBe2sMBO8ys",
-            "title": "In Case You Missed It - 7/5/2013",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7NLA84i0mk",
             "title": "The Dangers of Backyard Fireworks",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Giant Sinkhole in Ohio Swallows Car, Driver Trapped Inside",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "je5sXG9VqtE",
+            "title": "Too Fat for Seat Belt: Woman Loses 250 Pounds",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

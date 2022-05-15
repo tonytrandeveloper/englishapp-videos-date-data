@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KhVn_uLD1Hc",
-            "title": "Government Launches Investigation Into Tesla’s Autopilot Driving System",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "9oVpmy_4UW8",
             "title": "Rapid Collapse Of Afghan Government Brings Questions Of US Intelligence Failure",
             "secondDuration": 208,
@@ -301,8 +295,14 @@
             "title": "Companies Telling Work-From-Home Employees To Expect Pay Cut",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "3EyWy4Mg-ls",
+            "title": "FDA Expected To Authorize Third Vaccine Dose For Immunocompromised People",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

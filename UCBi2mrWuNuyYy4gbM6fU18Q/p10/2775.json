@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HM5QPapWYHc",
-            "title": "Ken Burns interview on new PBS documentary ‘The Vietnam War’",
-            "secondDuration": 1258,
-            "group": "group_7"
-        },
-        {
             "videoId": "2GCEtXC4AxY",
             "title": "'GMA' Hot List: Maria Sharapova says 'it's time to move on' from her doping scandal",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Parents sue Boy Scouts after son dies during hike",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dtr55ySh6YE",
+            "title": "Florida Keys residents returning to devastating damage",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

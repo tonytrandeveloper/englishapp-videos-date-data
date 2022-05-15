@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OkDBYNw3Rik",
-            "title": "Nancy Pelosi: 'We Will Wholeheartedly Support' Whoever Democratic Nominee Is | NBC News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "i5wuPy0wv4Y",
             "title": "Harvey Weinstein Accuser Explains How 'Model Minority' Stereotype Forced Her Silence | NBC News",
             "secondDuration": 238,
@@ -31,8 +25,14 @@
             "title": "Pelosi: Trump's Response To Coronavirus Has Been 'Opaque And Often Chaotic' | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "PCSaVA8_Byc",
+            "title": "Iranian Lawmaker Confirms He Tested Positive For Coronavirus | NBC News",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

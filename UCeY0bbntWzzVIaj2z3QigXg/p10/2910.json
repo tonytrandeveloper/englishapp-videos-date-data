@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8mbv5Iq3SS4",
-            "title": "Tropical Storm Harvey Flood Victims Rescued in Houston | NBC News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "6bwWGZ2glaA",
             "title": "Brown: 'We Have No Business' Kicking Out Some Immigrants | Meet The Press NBC News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Texans Leave Everything Behind to Find Shelter From Harvey | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "OL_EqWIyHSY",
+            "title": "Watch Dramatic Video From Inside the Eye of Hurricane Harvey | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

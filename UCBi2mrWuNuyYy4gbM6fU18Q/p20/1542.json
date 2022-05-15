@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UtvPGwFr3BA",
-            "title": "Trump References DNC Hacking in Cybersecurity Remarks",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6JDQlIQ1Nc",
             "title": "Tom Brady Tears Up After Boy's Question About Heroes | ABC News",
             "secondDuration": 29,
@@ -121,8 +115,14 @@
             "title": "The Bachelor Week 5 Highlights | ABC News",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "ru6CDnQ36W0",
+            "title": "Obama, Other World Leaders Oppose Trump Travel Ban",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

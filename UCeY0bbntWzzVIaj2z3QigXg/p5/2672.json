@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A-UMRU1rkC8",
-            "title": "Investigation Launched After Georgia Primary Plagued By Voting Machine Errors | NBC Nightly News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "GxKnEudl4Sc",
             "title": "Mourners Gather In Minneapolis To Remember George Floyd | NBC News NOW",
             "secondDuration": 651,
@@ -31,8 +25,14 @@
             "title": "'George Floyd Was Here On Assignment': Rep. Jackson Lee Speaks At Funeral | NBC News",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "mufpOyoFrrg",
+            "title": "Live: Funeral For George Floyd Held In Houston | NBC News",
+            "secondDuration": 16249,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZO-khtnAoW0",
-            "title": "Police search for man caught punching woman's windshield",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "aiFDP7NX8zw",
             "title": "Missing 3-year-old North Carolina boy found alive",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "SPECIAL REPORT: Roger Stone indicted by special counsel",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "A_yiomW9pvA",
+            "title": "Former Dallas Cowboys player breaking barriers as first in NFL history to marry a man",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PWi7DDtyCHg",
-            "title": "Queen Elizabeth II's 90 Birthday",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "5drHW7A5buc",
             "title": "Gawker Files for Bankruptcy After Hulk Hogan Lawsuit",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Wild Police Chase",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpGSjYqHFV0",
+            "title": "Muhammad Ali Funeral [FULL MEMORIAL SERVICE]",
+            "secondDuration": 6210,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

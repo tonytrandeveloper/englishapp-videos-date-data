@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tETiJMSehkE",
-            "title": "Food Fight Lands Kids in Jail",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "nxYrwRRc1PA",
             "title": "High Risk Patients Await Flu Vaccines",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Juggling Schedules and Free Time",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "cA9vBtuZYwE",
+            "title": "Steven King's Latest Nail-Bitter",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

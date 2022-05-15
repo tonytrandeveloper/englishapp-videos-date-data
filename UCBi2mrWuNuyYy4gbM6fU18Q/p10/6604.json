@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zl2XIooYiAY",
-            "title": "Hurricane Season Turns Active Overnight",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "PFATbJvgrKg",
             "title": "Amplified: Rural Alberta Advantage",
             "secondDuration": 365,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on Obama's Health Care Tour",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "ST5rimNAZN0",
+            "title": "Health Insurance Exec Turns Whistleblower",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

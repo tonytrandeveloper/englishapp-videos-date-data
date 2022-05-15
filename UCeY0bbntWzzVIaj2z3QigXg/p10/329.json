@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "msoMXVDQu1I",
-            "title": "A Look At Omicron Variant’s Spread In South Africa",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "z7KXHhdJg6s",
             "title": "Small Businesses Hurt By Rash Of Smash-And-Grab Robberies",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Biden: Omicron Variant Is 'Cause For Concern, Not A Cause For Panic'",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "LXQD-4HjmOk",
+            "title": "Gov. Reeves: 'I Think Roe [V. Wade] Was Wrongly Decided'",
+            "secondDuration": 630,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

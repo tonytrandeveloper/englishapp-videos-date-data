@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "srZQ0xcJkJQ",
-            "title": "Jeff Flake: Republican Party Doesn’t Have To Be The ‘Party Of Trump’ | Meet The Press | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "69x4rRN7X3w",
             "title": "Hunting For Ghost Gear: What Happens When Fishing Nets Go Rogue | NBC News",
             "secondDuration": 365,
@@ -61,8 +55,14 @@
             "title": "FDA Approves First At-Home Genetic Test To Assess Breast Cancer Risk | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "jJJljSNiAgY",
+            "title": "‘A Wrinkle In Time’ Aims To Break Boundaries And Inspire | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

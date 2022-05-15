@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vIQufpj4soY",
-            "title": "Person of Interest Arrested in Deadly Arizona Road Rage Case",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "rhjN84GZv5k",
             "title": "Look Who's Rockin' the Oscars",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan Willing to Run for US House Speaker  | ABC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "VEQgWMCslhs",
+            "title": "Donald Trump Responds to Latest Presidential Poll | ABC News",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

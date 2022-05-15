@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l4PuT4f5Tzw",
-            "title": "Mouth-Watering Fall Food | ABC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "H1Z96MnpL2o",
             "title": "Dancing With the Stars Week 2 Recap | ABC News",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "Kim Davis on Her Time in Jail, Her Newfound Notoriety",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "NClrxjaLD20",
+            "title": "'Art and Craft': How a Master Art Forger Was Found Out",
+            "secondDuration": 412,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q2AnfdNL2yc",
-            "title": "Southern California Wildfires Leave 800 Structures In Ashes | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "OM4RRXZRoKg",
             "title": "'The World Is Watching' The Alabama Senate Race (Full) | Meet The Press | NBC News",
             "secondDuration": 453,
@@ -61,8 +55,14 @@
             "title": "Roy Moore Campaign Seizes On Donald Trump Visit | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "4z_1kIvTKdY",
+            "title": "Winter Storm Takes Aim At Northeast After Dumping Snow On South | NBC Nightly News",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

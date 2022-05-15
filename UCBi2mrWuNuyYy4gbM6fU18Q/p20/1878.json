@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BJBmMs7pDmY",
-            "title": "'River Monsters' TV Crew Saves Man Stranded on Remote Island",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "knDg8Fdtx0A",
             "title": "Texas Church Murder | Police Search for Suspect",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "Melania Trump Votes in NY Primary",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "URhyq4LcFFk",
+            "title": "Marijuana Legalization: The Impact in Colorado",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

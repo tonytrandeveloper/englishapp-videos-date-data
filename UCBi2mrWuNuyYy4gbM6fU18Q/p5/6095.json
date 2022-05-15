@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ozB7Vm9uwqQ",
-            "title": "Trump Full Speech at National Museum of African American History and Culture  | ABC News",
-            "secondDuration": 577,
-            "group": "group_7"
-        },
-        {
             "videoId": "OuRrXcNlpso",
             "title": "Diversity is the winner at the 2017 Oscars",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "VP Pence travels overseas to try to reassure EU allies",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "Akn1IIrttf0",
+            "title": "Trump Names HR McMaster as national security adviser",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

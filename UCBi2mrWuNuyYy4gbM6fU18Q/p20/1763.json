@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "40d7MCFrogQ",
-            "title": "Police Officer Who Shot Unarmed Man Identified",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "xMMf_BUkrkc",
             "title": "Trump Campaign Touts 10 Million Twitter Milestone",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "Best Lines from Trump Republican Convention Speech",
             "secondDuration": 528,
             "group": "group_7"
+        },
+        {
+            "videoId": "IkleDak2x_k",
+            "title": "Leslie Jones Re-joins Twitter",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

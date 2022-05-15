@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "co9IsQJCO8I",
-            "title": "Christmas Eve Mass In Bethlehem | NBC News",
-            "secondDuration": 5810,
-            "group": "group_7"
-        },
-        {
             "videoId": "KCKYeJxXsJQ",
             "title": "Pope Francis Leads Christmas Eve Midnight Mass From The Vatican | NBC News",
             "secondDuration": 6793,
@@ -31,8 +25,14 @@
             "title": "A Christmas Tradition Inverted | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y7Bf7JSk7yQ",
+            "title": "Oprah Warns Fans Against Holiday Scam | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

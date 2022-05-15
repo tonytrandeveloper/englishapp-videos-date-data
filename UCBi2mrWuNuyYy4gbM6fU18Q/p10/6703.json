@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9HL8hrPNxc4",
-            "title": "Air Force One Buzzes the Big Apple",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "It2GgNfIyqw",
             "title": "Swine Flu Threat Level Raised",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Ground Zero for Swine Flu",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "E4AtZTRGqD4",
+            "title": "Paula Abdul Exclusive: Simon's a 'Bully'",
+            "secondDuration": 608,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

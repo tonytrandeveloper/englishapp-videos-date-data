@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9FZyfhQYra8",
-            "title": "iPad Pro 2015 | Tim Cook Presents New iPad",
-            "secondDuration": 599,
-            "group": "group_7"
-        },
-        {
             "videoId": "BeCPAf4ffdU",
             "title": "Apple iPhone 6S with new Touch Technology | Tim Cook 2015 Presentation",
             "secondDuration": 483,
@@ -31,8 +25,14 @@
             "title": "Legendary Supermodel Beverly Johnson on her New Memoir",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3BpGfvLNxI",
+            "title": "CMA 2015 Award Nominations Announced Live on 'GMA'",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

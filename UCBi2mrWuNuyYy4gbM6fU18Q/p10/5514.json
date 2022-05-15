@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ncaCr4VklA4",
-            "title": "Governor Mitt Romney Concedes Race to Obama",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "zzTg12GD91o",
             "title": "President Barack Obama Wins Re-Election",
             "secondDuration": 474,
@@ -61,8 +55,14 @@
             "title": "Barack Obama Re-Elected President",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "AVqIyFZdI8A",
+            "title": "George Will on Election 2012 Results: Marco Rubio is 'Big Winner'",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

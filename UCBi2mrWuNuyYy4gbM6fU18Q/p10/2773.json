@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EtVgiX8V7EE",
-            "title": "8 residents found dead in Florida nursing home",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3h4COUcqxs",
             "title": "Trump hosts lawmakers again at the White House",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Apple unveils new iPhone X",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "haXDcuKL_2M",
+            "title": "Democrats say General Michael Flynn committed criminal acts by concealing information",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

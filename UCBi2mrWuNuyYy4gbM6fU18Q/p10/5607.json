@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NweErG6pgUs",
-            "title": "Wildfires Rage in the West Causing Smoke to Spread",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZI3QV77IPGM",
             "title": "Mitt Romney's Changes His Campaign Strategy",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney Bus Tour Attempts to Regain Momentum",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "rS_8sVBX_Yc",
+            "title": "Green Day's Billie Joe Armstrong Out of Control on Stage",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

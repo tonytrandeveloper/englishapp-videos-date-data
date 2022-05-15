@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ww5vKDkePS8",
-            "title": "Joe Biden hints at presidential run, telling fans, 'Careful what you wish for'",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "0A7rDWxoD5M",
             "title": "911 call captures chilling moment after actor Luke Perry suffered stroke",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "The Briefing Room: President Trump's budget, FAA grounding Boeing 737, college bribery scheme",
             "secondDuration": 1531,
             "group": "group_7"
+        },
+        {
+            "videoId": "JyYoXzleFWM",
+            "title": "The Debrief: Boeing 737s grounded, college admissions cheating scam, Austin bombings one year later",
+            "secondDuration": 1574,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

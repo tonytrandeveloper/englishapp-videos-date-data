@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LP9NioiluLg",
-            "title": "Trump Full Speech at GOP Retreat in Philadelphia (Full Event) | ABC News",
-            "secondDuration": 3301,
-            "group": "group_7"
-        },
-        {
             "videoId": "9jpAamGogoQ",
             "title": "How to Fight Unemployment | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 526,
@@ -31,8 +25,14 @@
             "title": "Trump on Obama's Letter: 'Beautiful' | Trump Interview with David Muir | ABC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "SKEz7_TlTZA",
+            "title": "Trump: The World Is a Mess | Trump Interview with David Muir | ABC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

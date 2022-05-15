@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8AIoORUSNbA",
-            "title": "Best Cyber Monday Deals Poised to Draw Big Sales",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "1OuYfyI1Iqw",
             "title": "President Obama Cabinet Shakeup: Hillary Clinton, Timothy Geithner Replacements Still TBD",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "2012 GOP Political Gamble: Some Republicans Willing to Raise Taxes Amid Fiscal Cliff",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "QVSVlA9as6I",
+            "title": "Sea Rescue Caught on Tape: Whale Shark Rescued By Divers",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

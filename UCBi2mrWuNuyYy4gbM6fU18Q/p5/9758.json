@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8vaEvciJgKQ",
-            "title": "Brazen Smash-and-Grab Heist at Cartier Store",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "1DEHM4gqSHg",
             "title": "Amanda Knox Convicted of Murder... Again",
             "secondDuration": 459,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Drone Delivery Trouble",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjRd0i6CsYg",
+            "title": "Son, Dad and Seahawks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

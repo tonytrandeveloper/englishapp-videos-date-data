@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lTqnnl_ftN4",
-            "title": "Donald Trump's Inauguration | January 20, 2017",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZI_Yy-dnS1o",
             "title": "Minnesota Gov. Mark Dayton Reveals Serious Health Issue",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Train Destroys Semitruck CAUGHT ON TAPE",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "2nrXKgofpY0",
+            "title": "Erin Andrews Reveals Cervical Cancer Battle",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

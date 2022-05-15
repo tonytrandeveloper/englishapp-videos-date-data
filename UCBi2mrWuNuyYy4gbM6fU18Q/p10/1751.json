@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AugBEf6gl90",
-            "title": "Vindman: ‘This is America … right matters’ | ABC News",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "Leg9Da8L2nk",
             "title": "Castro to Vindman: ‘I hope that your brother is nicer to you than mine is to me’ | ABC News",
             "secondDuration": 17,
@@ -61,8 +55,14 @@
             "title": "Inside the lab that discovered the possible link in vaping related illness l ABC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "_CU8FiB-9pU",
+            "title": "University chemistry professors accused of making meth l ABC News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8F3gMHqQ9vE",
-            "title": "Sharks Spotted Off Mass. Shore",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "jUgnnpyfggI",
             "title": "Debate Over Back-to-School Speech",
             "secondDuration": 156,
@@ -121,8 +115,14 @@
             "title": "The Beatle Re-Invasion",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "vTz2x9G52Qk",
+            "title": "Weekend 'GMA' Turns 5!",
+            "secondDuration": 248,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

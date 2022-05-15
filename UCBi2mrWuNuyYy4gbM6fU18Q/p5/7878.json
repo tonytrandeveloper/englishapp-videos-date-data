@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kExGmpGTdI0",
-            "title": "Doctor Accused of Attacking Uber Driver: 'I'm Ashamed' | ABC News",
-            "secondDuration": 384,
-            "group": "group_7"
-        },
-        {
             "videoId": "6lf01UYzOIA",
             "title": "Trump Speaks Out About Decision To Boycott Debate | ABC News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "High School Basketball Team Kicked Out of League for Being Too Good | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "i7-hwN7zzi0",
+            "title": "Donald Trump Plans to Skip GOP Debate",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

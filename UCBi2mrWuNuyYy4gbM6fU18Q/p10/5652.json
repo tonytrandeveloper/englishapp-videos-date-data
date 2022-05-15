@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8F43SeCmx2k",
-            "title": "RNC's Balloon Boss",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "GMuU-EwcIzs",
             "title": "Mitt Romney RNC Speech (COMPLETE): 'When the World Needs Someone ... You Need an American'",
             "secondDuration": 2272,
@@ -61,8 +55,14 @@
             "title": "RNC 2012: Newt Gingrich Links Romney's Agenda to President Reagan",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ZlB7aR-2h8",
+            "title": "RNC 2012: Church Members Share Moving Tale of Son's Tragic Death",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

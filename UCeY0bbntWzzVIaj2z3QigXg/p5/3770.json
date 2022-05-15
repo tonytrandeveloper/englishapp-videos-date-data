@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FCYqlFasXpc",
-            "title": "Watch: Vigil held for victims of mass shooting in El Paso, Texas",
-            "secondDuration": 1365,
-            "group": "group_7"
-        },
-        {
             "videoId": "mb8kOEGKGeY",
             "title": "Live look at vigil held for victims of mass shooting in Dayton, Ohio",
             "secondDuration": 3655,
@@ -31,8 +25,14 @@
             "title": "Two Mass Shootings In 13 hours: Lester Holt Reflects From El Paso | NBC Nightly News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf3XrWxI3T8",
+            "title": "Watch live: officials give updates after shooting in Ohio",
+            "secondDuration": 5905,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

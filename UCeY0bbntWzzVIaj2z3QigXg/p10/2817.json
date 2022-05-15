@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VfL0aP5nY9A",
-            "title": "Tampa Police: New Video Potentially Shows Tampa Serial Killer Running From Scene | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cb9GJXXTQ30",
             "title": "Dramatic Rescue: Navy Sailors Save Two Americans Lost At Sea For Months | NBC Nightly News",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Declares Opioid Crisis A National Public Health Emergency | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "T-L_XUHT1ow",
+            "title": "President Donald Trump And First Lady Speaks on Opioid Epidemic From White House (Full) | NBC News",
+            "secondDuration": 2015,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

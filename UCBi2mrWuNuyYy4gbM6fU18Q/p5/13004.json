@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w5GgF4y92Tw",
-            "title": "A Closer Look at Creating More Jobs",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZlaIDZudUk",
             "title": "Top Line: Analyzing Obama's Afghan War Speech",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Joe Biden: Obama's Plan 'Is Going to Work'",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "su5dzLoWigY",
+            "title": "Obama's Defining Moment",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

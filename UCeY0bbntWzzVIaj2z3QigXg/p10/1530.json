@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bvv72eWC5pc",
-            "title": "'Every Day Counts So Much' Gov. DeWine And Gov. Pritzker Outline State Responses | Meet The Press",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "2WD0G-lhwc8",
             "title": "Hospital Presidents: 'Almost A War-Like Stance' To Handle COVID-19 Cases | Meet The Press | NBC News",
             "secondDuration": 413,
@@ -61,8 +55,14 @@
             "title": "An Exclusive New Club At USC: The Next Wave Of Social Media Stars And Influencers  | NBC News",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdZY2XPIXdM",
+            "title": "Watch live: Pence holds press conference with coronavirus task force",
+            "secondDuration": 5229,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

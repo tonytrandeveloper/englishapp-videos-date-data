@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZQhwS1QVegU",
-            "title": "Watch Live: President Trump holds Nevada rally ahead of midterms",
-            "secondDuration": 3346,
-            "group": "group_7"
-        },
-        {
             "videoId": "H3bhOY7bDPs",
             "title": "Watch Live: Trump delivers remarks at a rally in Phoenix, Arizona",
             "secondDuration": 3341,
@@ -61,8 +55,14 @@
             "title": "Police Department Defends Use Of Force Seen In Dashcam Video | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "BRCWKwRc-T8",
+            "title": "Several On Argentina-Bound Flight Left Injured After Severe Turbulence | NBC Nightly News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QDCuETjIURQ",
-            "title": "Tampa's Receding Tides Raises Concerns of Extreme Flooding | NBC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4pFdLJmG7M",
             "title": "Storm Chaser Battles Hurricane Irma’s Powerful Winds | NBC News",
             "secondDuration": 32,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irma: Storm Could Cost Florida Economy Tens Of Billions | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "pO5I_pnJPgU",
+            "title": "Hurricane Irma: More Than Half A Million On Georgia Coast Evacuate | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

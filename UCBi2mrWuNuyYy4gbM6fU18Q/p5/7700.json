@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rL5YQf2Mz3g",
-            "title": "The Real Cost of Finding Love | ABC News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "Da_QB1CwIGU",
             "title": "“The Bachelor” Season 20 Finale | ABC News",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "'Star Wars: The Force Awakens' Documentary Shows Behind the Scenes",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "GRzKJO2nSwg",
+            "title": "Donald Trump's Softer Side",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

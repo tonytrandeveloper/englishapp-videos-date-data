@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G7o_nwnkRYU",
-            "title": "Live: New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5305,
-            "group": "group_7"
-        },
-        {
             "videoId": "X1McuYYbGhA",
             "title": "Live: New York Gov. Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2159,
@@ -61,8 +55,14 @@
             "title": "U.K. Prime Minister Boris Johnson In Intensive Care For Coronavirus | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "etGJCEQwHgw",
+            "title": "Michigan Nurse Inspires America With ‘Amazing Grace’ Rendition Amid Coronavirus Pandemic | NBC",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

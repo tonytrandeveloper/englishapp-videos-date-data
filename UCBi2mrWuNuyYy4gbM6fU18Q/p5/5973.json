@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IkK2zMTnQYI",
-            "title": "High school junior takes his 93-year-old grandmother to prom",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "iHB-Za6aFEs",
             "title": "Panda spotted in the wild in China",
             "secondDuration": 53,
@@ -31,8 +25,14 @@
             "title": "Jared Kushner meets with Iraq's prime minister",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "85ZXb_cyfAs",
+            "title": "Senate showdown over Supreme Court confirmation",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

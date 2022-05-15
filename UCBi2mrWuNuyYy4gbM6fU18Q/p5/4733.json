@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g2E32JEyMaA",
-            "title": "Fiery crash on Los Angeles highway",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "E33knL-CfCQ",
             "title": "'Briefing Room': Trump CFO immunity deal, Trump push back on Sessions,  Pompeo NK trip canceled",
             "secondDuration": 850,
@@ -31,8 +25,14 @@
             "title": "Pennsylvania school hires armed officers following online threat",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZXe5ECpEG8",
+            "title": "Miss Denver's Kayla Kline resigns in support of Miss America Cara Mund",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

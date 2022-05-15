@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NGsiH-GRVEY",
-            "title": "Mississippi Governor Signs Law Allowing Denial of Service to LGBT | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "4qOXS75fYY8",
             "title": "Melania Trump Campaigns For Donald | NBC News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Beers And Ballots: How To Drink On Election Night | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "DtF4nWu_NOg",
+            "title": "Doanld Trump Disses John Kasich in Wisconsin | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

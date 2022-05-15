@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wPWRKjLiTrM",
-            "title": "What to watch for in ABC News’ Democratic debate | ABC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "kSKK5jlVfMI",
             "title": "10 Democratic candidates on debate stage for 1st time | ABC News",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Patriots stand by Antonio Brown amid sexual assault lawsuit",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "fKn-9pOtU28",
+            "title": "Honoring the victims and the families forever changed on 9/11",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

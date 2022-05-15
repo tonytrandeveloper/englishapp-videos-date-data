@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R9S6noxMOSM",
-            "title": "Cyclist Lance Armstrong: Bombshell Confession",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "OadUYKa_CWg",
             "title": "A Look Back at Obama Family's Years in White House",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Path to the Presidency: Virtual View of Inauguration 2013",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "0o233wxbw6c",
+            "title": "The Tenors Hit All the Right Notes",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

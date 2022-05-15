@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9B7KW7XwVXU",
-            "title": "Hurricane Harvey makes landfall overnight in Texas",
-            "secondDuration": 371,
-            "group": "group_7"
-        },
-        {
             "videoId": "2GHkoJ7_cL4",
             "title": "How FEMA is helping Texas during Hurricane Harvey",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "300,000 lose power around Corpus Christi",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "WuTdTj9lxA0",
+            "title": "Pregnant woman stays in eye of Hurricane Harvey to have scheduled C-section",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

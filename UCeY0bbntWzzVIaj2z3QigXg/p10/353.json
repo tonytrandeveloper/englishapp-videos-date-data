@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6pYiuFoAZAQ",
-            "title": "Kyle Rittenhouse Trial: Jury Asks About Video Evidence",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "tFwVL244O30",
             "title": "House Votes To Censure GOP Rep. Gosar Over Violent Video",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "House Democrats Aim To Vote On Social Spending Bill",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGesVsOxTTw",
+            "title": "Morning News NOW Full Broadcast - Nov. 17",
+            "secondDuration": 2965,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

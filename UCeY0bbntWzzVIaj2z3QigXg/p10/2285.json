@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-8P7EkiuybI",
-            "title": "Pittsburgh Synagogue Shooting Suspect Makes First Court Appearance | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "uGprH6LgxRY",
             "title": "President Donald Trump Responds To Pittsburgh Synagogue Shooting | NBC Nightly News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Suicide Bomber Launches Attack In Tunisia’s Capital | NBC News",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "O58QS5w_l_8",
+            "title": "‘You Need Your Voting Power’: Florida’s Ex-Felons Fight For Their Voting Rights | NBC News",
+            "secondDuration": 342,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

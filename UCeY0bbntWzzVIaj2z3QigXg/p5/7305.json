@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R3es2HUMVzI",
-            "title": "Maria Shriver: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "6zhCKGA-HfM",
             "title": "Richard Engel: \"I have a dream that...\"",
             "secondDuration": 17,
@@ -31,8 +25,14 @@
             "title": "Carl Quintanilla: \"I have a dream that...\"",
             "secondDuration": 19,
             "group": "group_7"
+        },
+        {
+            "videoId": "AcpHdjCBxQM",
+            "title": "Dalai Lama: \"I have a dream that...\"",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

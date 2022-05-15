@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vnNVjWs44GQ",
-            "title": "Jussie Smollett is named a suspect by Chicago police in alleged attack",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZbO0yaCqlGs",
             "title": "DNA in a 46-year-old cold case murder leads to an arrest",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Briefing Room: Alleged North Carolina election fraud, 2020 election latest | ABC News",
             "secondDuration": 1297,
             "group": "group_7"
+        },
+        {
+            "videoId": "jv6wdeom7Yw",
+            "title": "Trump meets with Austrian Chancellor Sebastian Kurz | ABC News",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

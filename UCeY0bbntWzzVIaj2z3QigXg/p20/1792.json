@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zH5mnv25EGs",
-            "title": "AT&T Unlimited Data Plans Misleading | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "bNtF9mxlrqw",
             "title": "NASA-Contracted Rocket Explodes | NBC News",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "ISIS Claims It Intercepted U.S. Weapons Drop | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "fD4qqTXtBpI",
+            "title": "Man To Obama: 'Don't Touch My Girlfriend' | 3rd Block | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LXMchNSgW6A",
-            "title": "Fidel Castro Death | Cubans Mourn the Passing",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "zieN6Xlnj9o",
             "title": "Trump Lashes Out at Election Recount",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz Full Interview on This Week",
             "secondDuration": 706,
             "group": "group_7"
+        },
+        {
+            "videoId": "nCxutLlnfPE",
+            "title": "Kellyanne Conway Full Interview: Mitt Romney 'Out of His Way' to Hurt Trump",
+            "secondDuration": 598,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

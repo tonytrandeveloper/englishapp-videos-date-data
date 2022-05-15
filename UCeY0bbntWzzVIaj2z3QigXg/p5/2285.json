@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3YW_hlgJtmo",
-            "title": "Trump Holds News Conference At White House | NBC News",
-            "secondDuration": 3575,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mz5dyd_UsbQ",
             "title": "Barbados Governor-General: ‘Barbadians Want A Barbadian Head Of State’ | NBC News NOW",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Drone Video Shows Hurricane Sally’s Destruction | NBC News NOW",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qjf1WyWKc0E",
+            "title": "Videos Show Heavy Flooding Caused By Hurricane Sally In Florida And Alabama | NBC News NOW",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

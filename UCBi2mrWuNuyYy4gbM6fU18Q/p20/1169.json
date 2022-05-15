@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VIaJ89hXB0U",
-            "title": "Trump says he wants to hear from Kavanaugh's accuser",
-            "secondDuration": 358,
-            "group": "group_7"
-        },
-        {
             "videoId": "muQDCWhzV5M",
             "title": "10-year-old recovering from heart transplant: 'I feel more alive'",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "'Briefing Room': Trump on Kavanaugh claim, declassifyied Russia probe docs, Florence recovery",
             "secondDuration": 715,
             "group": "group_7"
+        },
+        {
+            "videoId": "aW46ono4Snk",
+            "title": "Trump holds news conference with Polish president | ABC News",
+            "secondDuration": 2988,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

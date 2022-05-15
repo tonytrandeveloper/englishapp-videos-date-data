@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uxOwgvgfP1Y",
-            "title": "Aurora, Colorado Shooting: Inside James Holmes' Apartment",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sbfeo9BydwE",
             "title": "Aurora, Colorado Shooting: Moments of Tragedy",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Colorado Shooting at 'Dark Knight Rises': James Holmes' Mom IDs Alleged Gunman With 'Gut' Instinct",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "n6OlVE29s_c",
+            "title": "Colorado Shooting at 'Dark Knight Rises' Movie: James Holmes Allegedly Kills At Least 12 in Aurora",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

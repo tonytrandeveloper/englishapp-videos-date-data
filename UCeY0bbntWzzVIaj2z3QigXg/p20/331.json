@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "R48gm7LiT2c",
-            "title": "Common Colds Are Back As People Start To Gather",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "xwX2F0Gberw",
             "title": "14 People Wounded in Austin, Texas Mass Shooting",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Duchess of Cambridge Meets Jill Biden, Discuss Sussex's Baby",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "0pawLcTopKY",
+            "title": "Chicago Set To Lift All Remaining COVID-19 Restrictions",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

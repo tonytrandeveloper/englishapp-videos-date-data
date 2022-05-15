@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9xAPzQ-UdFM",
-            "title": "Harris Swears In Xavier Becerra As Health And Human Services Secretary | NBC News NOW",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "xpX5BqSVtRg",
             "title": "Fact Checking Biden On Migrant Surge During First Presidential News Conference | NBC News NOW",
             "secondDuration": 290,
@@ -301,8 +295,14 @@
             "title": "Zuckerberg To Testify Before Congress On Social Media’s Role In Extremism | NBC News NOW",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "RzGBIUk3JxM",
+            "title": "White House Holds Press Briefing: March 24 | NBC News",
+            "secondDuration": 2586,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

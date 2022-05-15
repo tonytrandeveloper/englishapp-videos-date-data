@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8LXvWvjRilE",
-            "title": "Coronavirus outbreak worsens with 812 fatalities",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "naRg7SFWmQc",
             "title": "Deadly insider attack that left 2 US soldiers dead",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "'I didn't attack Pete. Pete's been attacking me': former Vice President Joe Biden | ABC News",
             "secondDuration": 623,
             "group": "group_7"
+        },
+        {
+            "videoId": "LX8D2zRyS90",
+            "title": "American couple stuck on cruise ship in Japan due to quarantine",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

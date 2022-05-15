@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qY3gJzzWvSc",
-            "title": "Carly Fiorina on Past Ted Cruz Attacks: ‘Heat of a Political Campaign’",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJmQh6ToPIQ",
             "title": "Kesha, Zedd to Release New Single",
             "secondDuration": 29,
@@ -121,8 +115,14 @@
             "title": "UFC Secrets | Miesha Tate, Paige VanZant Reveal Best Moves",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "HRt-5N52Y8Q",
+            "title": "'Full House' Fans Flock to Home, Annoy Neighbors",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

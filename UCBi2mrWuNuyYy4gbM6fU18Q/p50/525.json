@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "x9F1ybK34Bc",
-            "title": "Trump's first state of the union address comes amid Russia investigation",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "SHqTQWTtMgY",
             "title": "Special prosecutor to investigate Michigan State",
             "secondDuration": 121,
@@ -301,8 +295,14 @@
             "title": "Cities across US face heavy rain, flooding threats",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "jdSUea1CEPc",
+            "title": "Oscar nominations 2018 announced for the 90th Academy Awards | ABC News",
+            "secondDuration": 4572,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

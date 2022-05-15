@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GcdvaSe5CMI",
-            "title": "Meet the World's Fastest Clapper",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZOtA2gO4U4",
             "title": "Oprah Winfrey Interview 2014: 'The Life You Want Weekend' Kicks Off",
             "secondDuration": 275,
@@ -61,8 +55,14 @@
             "title": "Instant Index: First Lady Michelle Obama to Continue Working With Veterans",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "4QriHUYHXg8",
+            "title": "Australian Commuter Saved When Leg Gets Stuck Between Train and Platform",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "joh_UKNCxEA",
-            "title": "President-Elect Biden Declares Election Over, Announces Covid-19 Task Force | NBC Nightly News",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "CG8U3OWSV4o",
             "title": "Pfizer Says Early Data Shows Covid-19 Vaccine 90 Percent Effective | NBC Nightly News",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "World Health Organization Chief Welcomes Biden Win | NBC News NOW",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EJGj47lWvE",
+            "title": "Meet The Press Broadcast (Full) - November 8th, 2020 | Meet The Press | NBC News",
+            "secondDuration": 2876,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XHMYuUM4rAc",
-            "title": "Heating Up the 'Dance' Floor",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Za2yh_A2fs",
             "title": "Inside Goldman Sachs",
             "secondDuration": 205,
@@ -121,8 +115,14 @@
             "title": "Amy Grant: Baby, Baby",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2zQAnIpdvs",
+            "title": "Woman Falsely Accuses Man of Rape",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

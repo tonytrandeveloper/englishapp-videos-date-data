@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PF6wuD9cJOo",
-            "title": "Full Nikole Hannah-Jones: 'We Should Be Uncomfortable With The Hard Parts Of Our Past'",
-            "secondDuration": 1032,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-uiJ6Pv6OE",
             "title": "Christmas Celebrations Underway Around The World",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Across Western U.S.",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "UyJf9fAvXHg",
+            "title": "Nightly News Full Broadcast - Dec. 24",
+            "secondDuration": 1276,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

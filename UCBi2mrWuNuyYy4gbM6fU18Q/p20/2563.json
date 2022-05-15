@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BB23NOty9KI",
-            "title": "Kate Middleton Pregnant: Forensic Artist Predicts What Royal Baby Will Look Like",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pth5wIpvmrA",
             "title": "George Zimmerman Trial for Trayvon Martin Death: Zimmerman's 5 Different Accounts Heard in Court",
             "secondDuration": 268,
@@ -121,8 +115,14 @@
             "title": "Orphaned Cincinnati Zoo Gorilla Gladys Adopted by New Mom",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "gl4EmnrRfPk",
+            "title": "WEBCAST: 19 Firefighters Killed in Arizona Wildfire",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BKuFsI_0KGA",
-            "title": "SpaceX’s Falcon Heavy Rocket Nails Its Maiden Test Flight | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "pseacUmUpC0",
             "title": "SpaceX’s Falcon Heavy Rocket Launch | NBC News",
             "secondDuration": 4083,
@@ -121,8 +115,14 @@
             "title": "Larry Nassar Issues A Statement Prior To Sentencing | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "5OHG_vriLhY",
+            "title": "Larry Nassar Sentenced To Another 40-125 Years In Prison | NBC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

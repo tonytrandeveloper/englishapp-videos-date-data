@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7JsxwgkxacU",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing Amid Reopening, Protests | NBC News",
-            "secondDuration": 2045,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ps4fyP4q_O8",
             "title": "Live: Minneapolis Police Chief Holds Press Conference | NBC News",
             "secondDuration": 2756,
@@ -31,8 +25,14 @@
             "title": "Video Shows Men Mocking George Floyd's Death During Black Lives Matter Protest | NBC News NOW",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQE1CtCtSe4",
+            "title": "Statue Of British Slaver Removed After BLM Protests In London | NBC News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

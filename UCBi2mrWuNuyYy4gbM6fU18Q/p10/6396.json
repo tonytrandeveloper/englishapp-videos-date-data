@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pgb56kzNm0k",
-            "title": "The Conversation: Journey to Iceland Volcano Top",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "YUOQTR6fidc",
             "title": "Israel's PM on Iran's Nuclear Program",
             "secondDuration": 372,
@@ -61,8 +55,14 @@
             "title": "Interview with Bill Clinton (Part 2)",
             "secondDuration": 747,
             "group": "group_7"
+        },
+        {
+            "videoId": "DUx_Kr-Qjn0",
+            "title": "Volcanic Disruption Spreads",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

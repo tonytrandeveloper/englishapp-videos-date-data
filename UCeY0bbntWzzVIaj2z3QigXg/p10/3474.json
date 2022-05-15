@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hyukgzurc1E",
-            "title": "Valley Fire Rips Through California Homes | Short Take | NBC News",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "wc0DuzYrl-U",
             "title": "Bernie Sanders On Syria: Other Countries Have To Get Hands Dirty | Meet The Press | NBC News",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "City on Edge: 11th Vehicle on Arizona’s I-10 Highway Hit by Gunfire | NBC Nightly News",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "dIWxfSQ2Xgg",
+            "title": "FDA Issues Sweeping Safety Rules After Deadly Food Poisoning Outbreaks | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

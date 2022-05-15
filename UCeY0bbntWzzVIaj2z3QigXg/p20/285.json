@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EcnJhyjQjOU",
-            "title": "Federal Relief Funds Remain Unspent With Eviction Moratorium Coming Up",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "2OgYnpjf7bo",
             "title": "Fed Optimistic About Economy Despite Delta, Inflation Worries",
             "secondDuration": 315,
@@ -121,8 +115,14 @@
             "title": "CDC Reverses Indoor Mask Policy For Vaccinated Americans",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "3nJiAkstNdU",
+            "title": "Biden Considers Making Vaccines Mandatory For Federal Workforce",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

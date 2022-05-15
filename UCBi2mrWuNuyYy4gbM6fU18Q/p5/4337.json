@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0CALPZpU_mM",
-            "title": "House Democrats grill Acting Attorney General Matthew Whitaker",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "2KPY_OQsOsY",
             "title": "Suspect describes killing childhood friend in alleged confession tape",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "The Briefing Room: Whitaker hearing, Virginia governor drama, Supreme Court abortion law, vote 2020",
             "secondDuration": 1552,
             "group": "group_7"
+        },
+        {
+            "videoId": "HmBpisGeBj0",
+            "title": "The Debrief: Bezos bombshell, Venezuela leadership crisis, Whitaker testifies | ABC News",
+            "secondDuration": 1651,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

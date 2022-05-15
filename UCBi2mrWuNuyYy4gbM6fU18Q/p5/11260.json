@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tuTuNzUcbHc",
-            "title": "Simon Cowell Confirms Britney Spears 'X-Factor' Rumors",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "YeHORfWPloE",
             "title": "Top Ranked Junior Tennis Player Told She Is Too Overweight",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Kristen Chenoweth Returns to TV After Head Injury",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "DEMIovVjJ7M",
+            "title": "Obama, Romney Spar Over August Job Numbers",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

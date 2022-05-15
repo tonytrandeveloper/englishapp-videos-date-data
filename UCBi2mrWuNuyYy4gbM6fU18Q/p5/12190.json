@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ijckdQZpOUw",
-            "title": "Interview with Marwan Mausher",
-            "secondDuration": 341,
-            "group": "group_7"
-        },
-        {
             "videoId": "TMxrdaOJH30",
             "title": "Aromasin: New Drug May Help Prevent Breast Cancer",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Operation Cupcake Keeps Us Safe From Al Qaeda",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "VZ3IPWqrUx8",
+            "title": "John Edwards Indicted",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

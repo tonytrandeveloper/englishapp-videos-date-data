@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DoAcvpLjA4g",
-            "title": "The Cutting Edge:  Plastic Surgery Today",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "dE8G3sf5Aqc",
             "title": "IRS Ready to Hand Out Billions: Claim Your Money",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Liver Donation By Neighbors",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "h0vdRmlPPcI",
+            "title": "Dunwoody Trial: The Insanity Defense",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

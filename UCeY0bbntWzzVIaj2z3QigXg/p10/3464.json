@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aQwHkF8SloM",
-            "title": "What We Learned From Clinton’s Debate Performance Last Night | NBC Nightly News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "V9i5ocUOx1c",
             "title": "Trump Talks Campaign Regrets, Hillary Clinton and a Change in Tone | NBC Nightly News",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "LinkedIn the Latest Company to Offer Unlimited Vacation Days | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "vo4cvu4gKbw",
+            "title": "Sister, Sister: A Family Reunion 40 Years in the Making | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

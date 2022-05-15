@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QrO_2m7rkaU",
-            "title": "New Chipotle E. coli Outbreak Investigated by CDC",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "NWAjfr8ziV0",
             "title": "Deadly Las Vegas Strip Crash: New Details on Driver",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "NYPD Officer Among the Dead in Afghan Bombing | ABC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "yfUWXo91V0o",
+            "title": "Season’s Greetings Are So Last Year | ABC News",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

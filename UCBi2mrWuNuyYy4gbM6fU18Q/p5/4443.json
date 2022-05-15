@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nB9pYcFFQiU",
-            "title": "Power-plant blast in New York sparks chaos, confusion",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "LtkA4GPL470",
             "title": "Hotel apologizes after security guard calls 911 on black guest",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Judge rules daughter of missing mom to stay with maternal grandparents",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "8kBcPUAAq-k",
+            "title": "Trump blasts Democrats as shutdown heads into Day 7",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

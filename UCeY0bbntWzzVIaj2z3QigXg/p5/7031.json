@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCKIJpBkxS8",
-            "title": "U.S. Military Bases Raise Security Level Over ISIS Threat | NBC Nightly News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "dljjqK7zYLA",
             "title": "DOJ Announces Federal Investigation Of Baltimore Police | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Tom Brokaw's Battle Against Multiple Myeloma | NBC Nightly News",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "mYMzzNvcdWc",
+            "title": "Sam Smith Will Undergo Vocal Cord Surgery | NBC Nightly News",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

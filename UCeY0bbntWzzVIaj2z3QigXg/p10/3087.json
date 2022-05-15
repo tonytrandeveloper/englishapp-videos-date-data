@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rfswEbpm6w8",
-            "title": "Paris Attack: 1 Officer Killed, 2 Injured On Champs-Elysees | NBC Nightly News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "eNEASSSvTX8",
             "title": "Venezuela In Turmoil: Violent Protests Continue | NBC Nightly News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "One Officer Killed, One Wounded In Paris Shooting | NBC News",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xah1t-ATY-w",
+            "title": "U.S., South Korean Warplanes Prepare For Action At ‘Max Thunder’ Drill | NBC News",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

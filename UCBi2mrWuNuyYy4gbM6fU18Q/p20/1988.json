@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oAh0eXObg8Q",
-            "title": "Index: Car Salesman Kidnapped on a Test Drive",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "19pDZVMMt_E",
             "title": "'GMA' Flies Drone Into Icelandic Sinkhole",
             "secondDuration": 709,
@@ -121,8 +115,14 @@
             "title": "Country Singer Craig Strickland's Body Found",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6fBjc7uvhw",
+            "title": "'Star Wars' Secret Iceland Filming Location Revealed",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

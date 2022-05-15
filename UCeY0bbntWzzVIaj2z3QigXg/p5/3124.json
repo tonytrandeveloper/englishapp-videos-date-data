@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u8_4iyPMkoY",
-            "title": "Washington State Officials Update On First U.S. Coronavirus Death | NBC News (Live Stream Recording)",
-            "secondDuration": 2336,
-            "group": "group_7"
-        },
-        {
             "videoId": "MZbP43rT7_M",
             "title": "South Korea Mobilizes Army In Effort To Stop Spread Of Coronavirus | NBC News",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "Pompeo Hopes For A 'Peaceful' Afghanistan As U.S. And Taliban Reach Peace Deal | NBC News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "_1imGb7LxOc",
+            "title": "Trump Weighs Travel Restrictions To Address Coronavirus Concerns | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

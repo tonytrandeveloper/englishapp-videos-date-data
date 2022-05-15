@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uamVAnaSEuk",
-            "title": "Jeremy Lin, New York Knicks' New Star Point Guard, Offers Tips for Success",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "x5F3KaOMqps",
             "title": "Whitney Houston's Doctors Under Scrutiny",
             "secondDuration": 81,
@@ -121,8 +115,14 @@
             "title": "Grammys 2012: Jennifer Hudson Tribute to Whitney Houston",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "OXR7bmCNs_o",
+            "title": "Grammy Awards 2012 Recap: Winners and Performers",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

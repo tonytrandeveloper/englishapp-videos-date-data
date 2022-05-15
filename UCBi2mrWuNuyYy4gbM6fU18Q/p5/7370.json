@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GQnAQfmkcPU",
-            "title": "NTSB Reveals Radio Traffic Distracted Amtrak 188 Engineer",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "9vkf-jegWEc",
             "title": "Mysterious Bracelet Commemorating Dead Soldier Returned to Parents",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Teen Skateboarder Taken Down by Tampa Police Officer",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "dZm1X4csCeo",
+            "title": "Warren Buffet's Firm Reveals $1 Billion Investment in Apple",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

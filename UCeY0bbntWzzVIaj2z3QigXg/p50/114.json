@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CINMDUSr8lA",
-            "title": "Hundreds of Afghan Evacuees Fleeing Taliban Arrive in U.S.",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "GVDsGUD0Yww",
             "title": "'MegaDrought' Threatens Lake Powell, Glen Canyon Dam",
             "secondDuration": 163,
@@ -301,8 +295,14 @@
             "title": "CDC Reverses Indoor Mask Policy For Vaccinated Americans",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "3nJiAkstNdU",
+            "title": "Biden Considers Making Vaccines Mandatory For Federal Workforce",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

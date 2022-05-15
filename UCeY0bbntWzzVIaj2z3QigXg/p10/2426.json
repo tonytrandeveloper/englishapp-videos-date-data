@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vbt4IqEVMe8",
-            "title": "Senator Ron Wyden On Neutral Social Media Filtering: Those Days ‘Are Over’ | NBC News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "3aStpvzPFI0",
             "title": "Esports: Inside The World Of Competitive Gaming | NBC News",
             "secondDuration": 821,
@@ -61,8 +55,14 @@
             "title": "No Relief In Sight As Wildfires Rip Through California | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yyvc9hFM31s",
+            "title": "North Korea Still Secretly Producing Missiles | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

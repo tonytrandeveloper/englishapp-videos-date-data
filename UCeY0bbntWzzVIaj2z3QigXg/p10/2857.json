@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lPqdOihBEiU",
-            "title": "Looking Ahead To ‘Momentous’ Supreme Court Term | NBC Nightly News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "-x753VXDeJ8",
             "title": "Investigation Launched Into ‘Serious’ Air France Plane Engine Failure | NBC Nightly News",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Registered Sex Offender Identified As Possible Suspect In Murder | NBC Nightly News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "GA1qySuc3r8",
+            "title": "Senator Corker Stands By Trump Criticisms After Charlottesville Response | Meet The Press | NBC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

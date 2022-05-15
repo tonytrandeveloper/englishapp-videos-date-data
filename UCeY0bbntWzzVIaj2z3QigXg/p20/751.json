@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a0TfuQi1tII",
-            "title": "Drone Footage Shows Milan Deserted, Some Caught Flouting Lockdown Rules | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "GCTxL448dZI",
             "title": "Meet The Press Broadcast (Full) - March 29th , 2020 | Meet The Press | NBC News",
             "secondDuration": 2856,
@@ -121,8 +115,14 @@
             "title": "Americans today must come together like the Greatest Generation before us | NBC Nightly News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "cQVrYSkZ9gA",
+            "title": "Coronavirus: How to know when to go to the emergency room | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JrA9vioyM1U",
-            "title": "Violence Escalates Between Israel And Gaza As Death Toll Rises",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYveo70m-VM",
             "title": "Republicans Weigh In On Cheney And The Future Of The GOP",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "NYC Police Commissioner Announces Arrest In Times Square Shooting",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGeqS-rqg3s",
+            "title": "Pipeline Restarting Operations Amid Frenzy At Gas Stations | NBC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

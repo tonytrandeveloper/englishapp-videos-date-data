@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cN-iWQlSHiY",
-            "title": "Topps Baseball Cards Celebrates 70 Years Of A Sports Tradition",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "qoEBA4yMGUw",
             "title": "Democrats Win New Mexico Special Election By Significant Margin",
             "secondDuration": 199,
@@ -61,8 +55,14 @@
             "title": "New Surveillance Video Released In Miami Mass Shooting",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "ws6X_O6nYME",
+            "title": "NBC News NOW Full Broadcast - June 1st, 2021",
+            "secondDuration": 2970,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

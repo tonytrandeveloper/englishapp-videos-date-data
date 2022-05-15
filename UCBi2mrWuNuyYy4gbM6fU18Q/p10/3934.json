@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "L-dOrSNtIak",
-            "title": "Trump Pulls Ahead as Iowa Caucus Day Nears",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "0-FKTLPRUvc",
             "title": "2nd Virginia Tech Student Arrested in Death of 13-Year-Old",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton's Campaign Faced With More Email Controversy",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "OaOpCxLYBks",
+            "title": "SAG 2016 Awards",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JYxk5yPhvY8",
-            "title": "Kate Middleton Admitted to Hospital",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "ncRLx5CFAHA",
             "title": "Value of Restaurant Menu Calorie Counts Questioned",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Detroit Mayor Dave Bing 'This Week' Interview on City's Bankruptcy",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qsn5tRENgek",
+            "title": "'This Town' Depicts Washington D.C. Insider Intrigue",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TP9y_DFxgP0",
-            "title": "More Than 30 Million On Flash Flood Watch On The East Coast | NBC Nightly News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2mJ32N7kdg",
             "title": "President Donald Trump Speaks At Fundraiser In Utica, New York | NBC News",
             "secondDuration": 2959,
@@ -61,8 +55,14 @@
             "title": "John Kasich: 'I'm Not For A Divider' (Full) | Meet The Press | NBC News",
             "secondDuration": 657,
             "group": "group_7"
+        },
+        {
+            "videoId": "EibGEHBnKEg",
+            "title": "Exclusive: Omarosa Reveals Secret White House Recording With John Kelly | Meet The Press | NBC News",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

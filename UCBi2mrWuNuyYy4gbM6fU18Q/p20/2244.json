@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SVS-a89laMc",
-            "title": "Paris Hostage Raid Video: Watch the Moment Police Storm Paris Supermarket",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "87y3uHOZZ3M",
             "title": "France Hostage Standoff: 4 Bangs, Gunfire Heard at Site of Second Hostage Standoff in France",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Who Are the Charlie Hebdo Attack Suspects?",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "5YnByAMnJLQ",
+            "title": "On The Frontlines to Find the Terror in Paris Suspects",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

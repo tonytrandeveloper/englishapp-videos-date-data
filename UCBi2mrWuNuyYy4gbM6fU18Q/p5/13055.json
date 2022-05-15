@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ua0vBgp3GDk",
-            "title": "In Search of the Headless Horseman",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "KkjuPRBT19M",
             "title": "Extreme Pumpkin Carver",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Child Labor: Problem in Our Own Backyard",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "x0uEEnIFaSg",
+            "title": "Tapper on Sketchy Stimulus 'Success'",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

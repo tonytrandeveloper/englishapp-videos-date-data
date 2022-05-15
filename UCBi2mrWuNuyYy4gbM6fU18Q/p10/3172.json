@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J5IGwMyJ110",
-            "title": "Man Who Inspired ALS Ice Bucket Challenge Honored",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qs25ZCeqVsM",
             "title": "Giant Panda Has Fun in the Snow",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "CorePower Yoga Founder Found Dead in Home",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "5x7sybqWcFk",
+            "title": "New Video Revealed in Dylann Roof Trial",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JyNyIhmAqV8",
-            "title": "Venice Film Festival Kicks Off With Stars, Masks, Social Distancing | NBC News NOW",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "jr4rnrPoVBg",
             "title": "Emotional Reunions Between Pets And Their Owners Separated By Beirut Blast | NBC News NOW",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Meet The Hero Nurses Who Protected 19 NICU Babies As Hurricane Laura Hit | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "MFQsOk_W-HA",
+            "title": "New York City Public Schools Delay Opening Dates | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

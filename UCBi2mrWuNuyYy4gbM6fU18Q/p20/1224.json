@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6oHvxRb6bN0",
-            "title": "Technical glitch with American Airlines causes headaches for travelers",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Rabh0yXHBc",
             "title": "Massachusetts jogger fights off kidnapping attempt",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "Laura Bush calls Trump immigration policy 'cruel'",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "2MUZJ_snvFk",
+            "title": "2 suicide bombings end 3 days of peace in Afghanistan",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

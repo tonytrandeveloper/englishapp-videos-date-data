@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rsLw5TrvvcM",
-            "title": "Dow closes down more than 800 points as roller coaster in markets continues  | Special Report",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "UM40zRhwLgY",
             "title": "Briefing Room: Stock market drops, Trump's immigration policy,  White House plans for gun control",
             "secondDuration": 1663,
@@ -61,8 +55,14 @@
             "title": "New video, photos released in Dayton mass shooting l ABC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "uY3LCBhPW4M",
+            "title": "Standoff with China, “Chrisley Knows Best” stars indicted, Epstein suicide fallout | ABC News",
+            "secondDuration": 1426,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

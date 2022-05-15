@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bzxnjoKhcno",
-            "title": "John Travolta Plays Robert Shapiro | ABC News",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "7CmiJvA8mz4",
             "title": "New ACS Mammogram Guidelines Spark Controversy",
             "secondDuration": 431,
@@ -31,8 +25,14 @@
             "title": "Kate Winslet's True Beauty",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "s4cA5YKEEiI",
+            "title": "New Dangers of Distracted Driving",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

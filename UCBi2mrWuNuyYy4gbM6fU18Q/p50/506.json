@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9gJEZaiG6k0",
-            "title": "Comey sits down for first one-on-one interview since he was fired",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "X5eIWX8Q6yo",
             "title": "Bus driver reconnects separated sisters",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "Mariah Carey reveals battle with bipolar disorder",
             "secondDuration": 353,
             "group": "group_7"
+        },
+        {
+            "videoId": "YMLY5ugrGtY",
+            "title": "White House says Trump has power to fire Mueller",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

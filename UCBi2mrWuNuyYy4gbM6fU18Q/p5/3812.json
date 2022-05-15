@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "boUEI2LdPHM",
-            "title": "Man takes his entire family on a trip to Hawaii with a million airline miles",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "2-FQEkZXXTw",
             "title": "Clashes break out between Israeli police and Palestinians at a holy site",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Case against Jeffrey Epstein will continue",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "d3AouiAWbmI",
+            "title": "Accused sex-trafficker Jeffrey Epstein dies",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v-Jt_WJZzYA",
-            "title": "Eroding Cliffs Threaten Residences Along the California Coastline",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "-t4wGzKYmxY",
             "title": "“The Bachelor” Season 20 Week 4 Recap | ABC News",
             "secondDuration": 296,
@@ -61,8 +55,14 @@
             "title": "'Making a Murderer' Subject Steven Avery Speaks Out From Prison",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "LrZKDfmdIlw",
+            "title": "Manhunt for Escaped Inmates | Prisoners on Run after Jail Break",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

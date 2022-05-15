@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JFpa3buUe7Y",
-            "title": "Inside a $20 Million NYC Apartment | ABC News",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Y_jnVdIPcE",
             "title": "Mary Tyler Moore Dead at 80",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "The Iconic Mary Tyler Moore Moment",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "wuSL8QAjSTQ",
+            "title": "Dow Closes Above 20,000 for 1st Time",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

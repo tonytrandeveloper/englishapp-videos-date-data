@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PB2r1pEVgnE",
-            "title": "Christmas 2017: U.S. Capitol tree lighting ceremony live | ABC News",
-            "secondDuration": 2174,
-            "group": "group_7"
-        },
-        {
             "videoId": "SbSrJtU-SCE",
             "title": "President Donald Trump ays US will recognize Jerusalem as Israel's capital: Special Report",
             "secondDuration": 2883,
@@ -301,8 +295,14 @@
             "title": "Missing Florida teen found thousands of miles from home",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "xxttkwWBtiQ",
+            "title": "Michael Flynn pleads guilty to lying to FBI in special counsel's Russia probe | ABC News",
+            "secondDuration": 522,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

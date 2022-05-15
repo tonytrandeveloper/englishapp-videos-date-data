@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IkleDak2x_k",
-            "title": "Leslie Jones Re-joins Twitter",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "V58G2I8udA0",
             "title": "Last VCR Manufacturer Is Stopping Production | ABC News",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Republican National Convention Day Four In A Minute",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "32bNZ5rEkWw",
+            "title": "Ivanka Trump Full Speech at Republican Convention",
+            "secondDuration": 925,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

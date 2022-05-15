@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e9X0b4A-BVU",
-            "title": "WEBCAST: Thief Gets Arm Stuck in Soda Machine",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "EKq9PIM5ozk",
             "title": "Tesla Motors' All Electric Luxury Model S Sedan; Delivery Begins To Customers In Limited Release",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Sandusky Guilty: Will He Appeal?",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "6TMhZobOzMY",
+            "title": "Rielle Hunter Details Secret Affair",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DNTS5vuhGS0",
-            "title": "Biden Defends U.S. Withdrawal From Afghanistan, Faults Afghan Forces",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "GYjff1IQBTw",
             "title": "Lester Holt Reflects On His Reporting In Afghanistan",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Gen. Petraeus Speaks On Afghanistan Collapse, U.S. Withdrawal",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "BajkhpVNYT8",
+            "title": "Haiti Hit By Serious Storm After Deadly Earthquake",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

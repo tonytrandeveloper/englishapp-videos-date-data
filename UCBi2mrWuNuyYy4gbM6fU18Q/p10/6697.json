@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zuWV85jt8Wk",
-            "title": "Amplified: Superdrag",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "GbE1KUG6IUM",
             "title": "Elizabeth Hasselbecks Gluten-Free Diet",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "George on Specter, Souter",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "LfA0pvPvl0w",
+            "title": "Hong Kong Hotel Quarantine",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

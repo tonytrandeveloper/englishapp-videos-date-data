@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3kPLL4KnKTc",
-            "title": "White House Holds Press Briefing: September 30 | NBC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "QmJICxcNVLQ",
             "title": "Progressives Planning Primary Challenge Against Sen. Kyrsten Sinema",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "WATCH: Florida Man Captures Alligator In Trash Bin",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "HczZ_e1P5R0",
+            "title": "Historic Climb: All-Black Crew To Climb Mount Everest For First Time",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

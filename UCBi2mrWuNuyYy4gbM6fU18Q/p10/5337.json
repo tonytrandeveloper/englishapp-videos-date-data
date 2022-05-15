@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6tEwiImxaBo",
-            "title": "Terrorist Attack on American Embassy in Turkey",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "XnN0BV1B3pg",
             "title": "Convicted Murderer Mistakenly Released From Jail Recaptured",
             "secondDuration": 26,
@@ -61,8 +55,14 @@
             "title": "Teen's 911 Call Helps Police Catch Thieves",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "PU92XeqhRSA",
+            "title": "Super Bowl's Baby Clydesdale: A Budweiser Story | Nightline | ABC News",
+            "secondDuration": 396,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

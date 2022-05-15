@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U29Q_36HeR8",
-            "title": "President Donald Trump Officially Declares Opioid Crisis A National Emergency | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "r65SN4482o8",
             "title": "President Trump To McConnell: ‘Get To Work’ On Health Care, Tax Reform And Infrastructure | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "North Korea’s Latest Threat Singles Out Guam, A U.S. Territory | NBC Nightly News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "E7GT-0--0A4",
+            "title": "FBI Searches Home Of Former Donald Trump Campaign Manager Paul Manafort | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

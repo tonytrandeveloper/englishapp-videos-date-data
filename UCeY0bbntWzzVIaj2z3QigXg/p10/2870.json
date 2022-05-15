@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_CtawtGNNc4",
-            "title": "Prime Minister Theresa May May Sets Out Updated Vision For Brexit | NBC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "r9l4qMwGiww",
             "title": "Heartbreak In Puerto Rico: 'We Don't Have Anything' | NBC News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "CVS Pharmacy To Limit Opioid Prescriptions | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "xLX2ZWobmeA",
+            "title": "GOP Health Care Bill Cassidy Faces The ‘Jimmy Kimmel Test’ | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

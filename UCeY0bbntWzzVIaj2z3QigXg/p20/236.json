@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lUs8vMqmLSw",
-            "title": "Gunman Kills At Least 8 At Russian University, Authorities Say",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "ejm3rGI5Ltk",
             "title": "Nightly News Full Broadcast (September 19th)",
             "secondDuration": 1289,
@@ -121,8 +115,14 @@
             "title": "Live: SpaceX Inspiration4 Crew Returns With Splashdown | NBC News",
             "secondDuration": 3575,
             "group": "group_7"
+        },
+        {
+            "videoId": "tYmsmWoQ1NI",
+            "title": "Southern Border Crisis Apparent in Del Rio, Texas",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

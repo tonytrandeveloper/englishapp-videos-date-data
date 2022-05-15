@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ec61X1F7vyM",
-            "title": "The Briefing Room: Trump's farmer Aid, package, American Taliban released,  Middle East troops",
-            "secondDuration": 1607,
-            "group": "group_7"
-        },
-        {
             "videoId": "EIGo2t91E1U",
             "title": "Tornadoes destroy car dealership in Missouri",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Uber launches submarine service to Great Barrier Reef | ABC News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpbBQqsu3DE",
+            "title": "The Debrief: 'American Taliban' to be released, Heartland tornadoes, India election | ABC News",
+            "secondDuration": 1483,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

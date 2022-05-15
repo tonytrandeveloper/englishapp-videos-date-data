@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3ft5rPsOqZQ",
-            "title": "The Conversation: 'Mad Men' Makeover",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "fwzjBmVvBq0",
             "title": "Catching Up With David Garrett",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Mining for Gold",
             "secondDuration": 515,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGB3O2cKAa0",
+            "title": "Mother's Intuition: Last Link to Dying Soldier",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

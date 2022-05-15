@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GIjCifIMVh8",
-            "title": "Massive fire destroys historic synagogue in Minnesota",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "VkXioYUsVSY",
             "title": "The Briefing Room: Dems on gun control, Trump cancels surprise meeting with Taliban | ABC News",
             "secondDuration": 1486,
@@ -61,8 +55,14 @@
             "title": "Felicity Huffman writes emotional letter to judge | ABC News",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "s2hgKXVxg44",
+            "title": "Cargo ship capsizes, Trump cancels Taliban talks, new gun policy poll| ABC News",
+            "secondDuration": 1416,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

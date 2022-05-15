@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m-Ca6so1S9A",
-            "title": "Stage Set For President Donald Trump’s Meeting With Kim Jong Un | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "i49cktRqlxM",
             "title": "North Korea’s ‘Complete Denuclearization’ Pledge Raises Questions After Summit | NBC Nightly News",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Hosts Make America Great Again Rally | NBC News",
             "secondDuration": 5025,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPZebuIV7ig",
+            "title": "Arizona, Colorado Schools Closed For Second Day As Teacher Protests Continue | NBC Nightly News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

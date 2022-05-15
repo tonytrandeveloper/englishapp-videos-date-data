@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4Migb3hotJQ",
-            "title": "Donald Trump Outlines 10 Point Plan For Immigration Reform | NBC News",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydmx1prI2N4",
             "title": "Donald Trump Welcomes Parents Of Victims Killed By Illegal Immigrants | NBC News",
             "secondDuration": 407,
@@ -31,8 +25,14 @@
             "title": "Millions on Alert as Storm Gains Steam in The Tropics | NBC Nightly News",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "nDirb720Njc",
+            "title": "Trump Meets With Mexican President, Says Wall Payment Not Discussed | NBC Nightly News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

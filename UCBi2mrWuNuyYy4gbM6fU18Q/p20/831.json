@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vO2Si1EyUtU",
-            "title": "Landmark trial begins for Harvey Weinstein l ABC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "RWNb7ccnpuQ",
             "title": "Bernie Sanders fires back at Hillary Clinton over new criticism l ABC News",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Trump impeachment trial set to begin, arrest in “pillowcase rapist” cold case and more | ABC News",
             "secondDuration": 1529,
             "group": "group_7"
+        },
+        {
+            "videoId": "8ZM6uCL7twk",
+            "title": "Trump speaks out as rules set for historic trial l ABC News",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

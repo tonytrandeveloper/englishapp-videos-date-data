@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mYUk0J8glm8",
-            "title": "Melania, Ivanka Trump promote women's empowerment abroad",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "75q9x080DeU",
             "title": "Celine Dion, Drake headline the 2017 Billboard Music Awards",
             "secondDuration": 270,
@@ -31,8 +25,14 @@
             "title": "Women on the world stage",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "pyOE12hrexI",
+            "title": "New device touted as preventing shark attacks",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

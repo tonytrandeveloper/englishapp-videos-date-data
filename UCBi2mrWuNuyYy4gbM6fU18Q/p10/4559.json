@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tQAVFimUsH0",
-            "title": "FRIDAY FUNNIES",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3GXXh5dRSA",
             "title": "SKINNY: Steamy New “Fifty Shades” Trailer",
             "secondDuration": 254,
@@ -61,8 +55,14 @@
             "title": "Town of Ferguson on Edge",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "468OlgR7c00",
+            "title": "Bono's Harrowing Flight",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

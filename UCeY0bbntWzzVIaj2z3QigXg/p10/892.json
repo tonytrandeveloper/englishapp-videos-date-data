@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pq6aXZ7TrA8",
-            "title": "In Pandemic Times, Love Finds A Way | NBC Nightly News",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "ANK5jVHXG5Q",
             "title": "Prince Harry And Meghan Markle Announce They Are Expecting Second Child | NBC Nightly News",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Raskin: 'We Have No Regrets At All' On Impeachment Trial Loss | Meet The Press | NBC News",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FQ9tQGFYXw",
+            "title": "CDC Director: 'We Have Hit The 50 Million' Mark For Vaccinations | Meet The Press | NBC News",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

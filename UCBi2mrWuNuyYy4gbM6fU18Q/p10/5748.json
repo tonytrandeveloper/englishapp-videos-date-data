@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9y2UX_KELL0",
-            "title": "Susan Boyle's Voice 'Unbearable' According to Unhappy Neighbor",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "iRt36yN_koE",
             "title": "Antibiotics in Chicken May Be Causing New Superbug in Humans Say Researchers",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Matchmaker Helps Brainiacs Find Love",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "hHz_bgj2Rq4",
+            "title": "Is a Big Tobacco Company Profiting From Kids?",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GuD456mkqic",
-            "title": "Son's tweet helps father's new shop, 'Billy's Donuts', sell out",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "qS4_K4AHV74",
             "title": "Briefing Room:  Trump budget proposal, Mueller report, Stormy Daniels deal, 2020 hopefuls at SXSW",
             "secondDuration": 2189,
@@ -61,8 +55,14 @@
             "title": "School resource officer makes a heartwarming connection",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "k6saHf3AxJ8",
+            "title": "Woman attacked by jaguar at an Arizona zoo",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

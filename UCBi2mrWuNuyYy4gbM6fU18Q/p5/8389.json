@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "A1q_mQIEYqg",
-            "title": "Teenagers Lost at Sea",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "UANwRPEFNTs",
             "title": "Fire at Las Vegas Hotel",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "President Obama Addresses Terrorism and Gay Rights and on His Trip to Kenya",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "v9ayFL9RZ9I",
+            "title": "Turkey's Joins Offensive Against ISIS",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

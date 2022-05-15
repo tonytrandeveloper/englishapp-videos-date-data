@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MSKdcuzFw9E",
-            "title": "IDF Spokesperson Comments On Civilian Deaths | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "vWRuSaLPKTs",
             "title": "Why Can't Some Beers Cross State Lines? | Show Me | NBC News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Top 3 Lyme Disease Myths | Debunker | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7AD_QoN4gI",
+            "title": "Violent Hailstorm Sends Sunbathers Running | NBC News",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

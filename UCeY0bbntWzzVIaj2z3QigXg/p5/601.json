@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "maK2sthjlJU",
-            "title": "Meet The Press Broadcast (FULL) - Dec. 12",
-            "secondDuration": 2851,
-            "group": "group_7"
-        },
-        {
             "videoId": "oh4eC40BfBY",
             "title": "‘SNL' Tackles The Pandemic Era, America’s Vaccination Dilemma",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Full Beshear Interview: ‘This Storm, It’s Like Nothing Any Of Us Have Ever Seen Before’",
             "secondDuration": 456,
             "group": "group_7"
+        },
+        {
+            "videoId": "zSBR7E65FG0",
+            "title": "Full Sen. Marshall: ‘Shame On You, If You Haven’t Gotten A Booster’",
+            "secondDuration": 588,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

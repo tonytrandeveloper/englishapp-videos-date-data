@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X4V76rDDa-c",
-            "title": "MIX: America's Best Restroom",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "7YahS3-kD9k",
             "title": "Family's Way to Preserve Images Hits Jackpot With the Help of \"Shark Tank\"",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "SKINNY: Hubba Hubba",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "JM_gihmRxDA",
+            "title": "HOMETOWN HERO: Making A \"Billgrimage\"",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

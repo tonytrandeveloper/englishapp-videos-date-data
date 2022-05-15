@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mGvQDuOeJys",
-            "title": "Biden Honors Dodgers At The White House For Their 2020 Championship",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "mFi_LrM5khY",
             "title": "Morning News NOW Full Broadcast - July 2 | NBC News NOW",
             "secondDuration": 3005,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – July 2 | Morning News NOW",
             "secondDuration": 1308,
             "group": "group_7"
+        },
+        {
+            "videoId": "gelmePuBHm8",
+            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
+            "secondDuration": 1280,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

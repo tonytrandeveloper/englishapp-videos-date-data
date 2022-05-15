@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GpeJj9WRlws",
-            "title": "Watch Live: Senate Holds Procedural Vote On Judge Brett Kavanaugh Nomination | NBC News",
-            "secondDuration": 5272,
-            "group": "group_7"
-        },
-        {
             "videoId": "AYTAl7OlbGA",
             "title": "President Donald Trump Boards Air Force One, Appears To Have Toilet Paper Stuck To Heel | NBC News",
             "secondDuration": 43,
@@ -31,8 +25,14 @@
             "title": "Brawl Breaks Out At Virginia Youth Football Game | NBC Nightly News",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "kXmAhXyn3Hg",
+            "title": "Police Use Murder Victim’s Fitbit Data To Catch Her Killer | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

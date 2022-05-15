@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mNc0UBkSEto",
-            "title": "In-depth Look At Coronavirus Antibody Testing | NBC Nightly News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnDiuUVKDAw",
             "title": "As Unemployment Grows, Americans Struggle To Get Food On The Table | NBC Nightly News",
             "secondDuration": 162,
@@ -121,8 +115,14 @@
             "title": "Government Failures On Coronavirus: Faulty CDC Tests, FDA Roadblocks | Meet The Press | NBC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "0s_f-oCxj8g",
+            "title": "Full Panel: Bernie Sanders Drops Out Of 2020 Race | Meet The Press | NBC News",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

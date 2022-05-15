@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7JsxwgkxacU",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing Amid Reopening, Protests | NBC News",
-            "secondDuration": 2045,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ps4fyP4q_O8",
             "title": "Live: Minneapolis Police Chief Holds Press Conference | NBC News",
             "secondDuration": 2756,
@@ -121,8 +115,14 @@
             "title": "'George Floyd Was Here On Assignment': Rep. Jackson Lee Speaks At Funeral | NBC News",
             "secondDuration": 356,
             "group": "group_7"
+        },
+        {
+            "videoId": "mufpOyoFrrg",
+            "title": "Live: Funeral For George Floyd Held In Houston | NBC News",
+            "secondDuration": 16249,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JH1kSmahYpY",
-            "title": "Sandy Hook Elementary Shooting Triggers Gun Control Debate in America",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "LndCkobZPCA",
             "title": "Connecticut Shooting at Sandy Hook Elementary: Pastor Explains How Girl Played Dead to Survive",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Connecticut Shooting Tragedy:  The Shooter",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fMeyJhoyvyM",
+            "title": "Connecticut Shooting Tragedy:  Two Brothers' Escape",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

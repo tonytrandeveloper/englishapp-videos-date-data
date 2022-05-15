@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mQjKzENVkbg",
-            "title": "Prime Minister Defends Involving U.K. Opposition Leader In Brexit Talks | NBC News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "SSp1C8EBIeE",
             "title": "President Donald Trump Mocks Biden During NRCC Speech | NBC News",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "High School Robotics Team Builds Power Wheelchair For 2-Year-Old Boy | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "CuXLu5m9qTg",
+            "title": "Chronic Pain Sufferers Say They’re Being Harmed By Opioid Crackdown | NBC Nightly News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

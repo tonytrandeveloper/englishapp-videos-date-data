@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4mXXHfVCVyA",
-            "title": "What It Means To Stand Watch At The Tomb Of The Unknown Soldier",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "CewYqzNFhHU",
             "title": "Examining Effectiveness Of Gun Laws In Blue And Red States",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "Russian Hackers Target U.S. State Department Foreign Aid Agency",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "mkpiUAhe1gU",
+            "title": "Senate Republicans Block January 6th Commission",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

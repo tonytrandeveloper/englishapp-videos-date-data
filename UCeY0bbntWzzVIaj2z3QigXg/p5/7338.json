@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OLdO4JnaNak",
-            "title": "Weekends with Lester",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "1mc_rA34l6M",
             "title": "The Hansen Files on Dateline",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Rock Center with Brian Williams: Now on Wednesdays",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "w0bh1hOLXOo",
+            "title": "Rock Center with Brian Williams: Now on Wednesdays",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

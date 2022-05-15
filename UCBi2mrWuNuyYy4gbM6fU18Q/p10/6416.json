@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ICGuA3iKdOc",
-            "title": "James Ray's Online Message",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "QqO5WRfSFks",
             "title": "Prayer With A Punch",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Going Inside 'The Male Brain'",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "l5Cyj5H3wAE",
+            "title": "Women Fighting Fat",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

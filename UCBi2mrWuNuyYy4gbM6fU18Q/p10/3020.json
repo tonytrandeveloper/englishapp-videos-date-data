@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W8m8jHJXRXU",
-            "title": "Republicans battle over Obamacare replacement",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "az8C1kAsTq8",
             "title": "Video allegedly shows day care worker pushing 4-year-old down stairs",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Trump's new travel ban met with protests",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "kB_vaPvp6I4",
+            "title": "House Republicans reveal Obamacare replacement plan",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

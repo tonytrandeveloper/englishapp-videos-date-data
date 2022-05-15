@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "axsN_w9aHWs",
-            "title": "Dallas Police Ambush | Mayor Mike Rawlings Interview",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jn3wlJ-c-0s",
             "title": "Dallas Police Shooting | Gunman Wanted to Kill White Cops",
             "secondDuration": 1421,
@@ -31,8 +25,14 @@
             "title": "Dallas Police Shooting | Eyewitness Accounts of Sniper Ambush",
             "secondDuration": 537,
             "group": "group_7"
+        },
+        {
+            "videoId": "7QNJyAIprhg",
+            "title": "Dallas Police Sniper Ambush | Video of Chaos After Snipers Kill 5 Officers",
+            "secondDuration": 570,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kJ0Gpz_pi6A",
-            "title": "Jet plane dumps fuel over elementary school yard l ABC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKP--kTcn6o",
             "title": "Sen. Elizabeth Warren touts female political success at Iowa debate l ABC News",
             "secondDuration": 229,
@@ -121,8 +115,14 @@
             "title": "Sanders and Warren spar ahead of debate, Astros cheating scandal and more | ABC News",
             "secondDuration": 1391,
             "group": "group_7"
+        },
+        {
+            "videoId": "dga8aYx2YlE",
+            "title": "Queen Elizabeth announces 'period of transition' for Prince Harry and Meghan Markle | Nightline",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

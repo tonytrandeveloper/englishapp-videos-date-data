@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "4_xLF6o0LUY",
-            "title": "President Obama Makes the Case for Hillary Clinton",
-            "secondDuration": 539,
-            "group": "group_7"
-        },
-        {
             "videoId": "LKZ4Sty5CMA",
             "title": "President Obama Full Speech at the Democratic National Convention",
             "secondDuration": 2746,
@@ -301,8 +295,14 @@
             "title": "Michelle Obama Fact-Checked: White House 'Was Built by Slaves'",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "-NJsutnyqOM",
+            "title": "Democratic National Convention | Stars at the DNC",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

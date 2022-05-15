@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KgyEO1CZnjc",
-            "title": "Kris Jenner On O.J. Simpson Murder Trial",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "S39MntsPGbA",
             "title": "Erin Andrews Trial | Defense Argues Nude Video Didn't Impact Career",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "Super Tuesday Results Map",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "BeTiDZ5WqiE",
+            "title": "Ted Cruz Addresses Rally in Houston on Super Tuesday | ABC News",
+            "secondDuration": 896,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

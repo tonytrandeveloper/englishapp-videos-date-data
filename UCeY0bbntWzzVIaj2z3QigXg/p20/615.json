@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hQXxbdBKsPA",
-            "title": "Melbourne Emerges From COVID-19 Curfew With Warning Of Worse To Come | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "so4YKbmV00o",
             "title": "Protesters Return To U.S. Courthouse In Portland | NBC News NOW",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Tropical Storm Isaias Aims For Florida Amid Pandemic | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "HaJAwi8kSLU",
+            "title": "Behind The Scenes With Dogs Being Trained To Detect COVID-19 | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

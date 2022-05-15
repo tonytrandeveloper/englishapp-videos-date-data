@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VA6Iw4szUfk",
-            "title": "Tyler Clementi Case: Dharun Ravi's Hate Crime Charge",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "vBMET6WEoYI",
             "title": "Muammar al-Gaddafi's Attacks Continue As Obama Authorizes Armed Predator Drones in Libya",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Singing with Reese Witherspoon",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpZltTVfHno",
+            "title": "Reese Witherspoon's Oscar",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

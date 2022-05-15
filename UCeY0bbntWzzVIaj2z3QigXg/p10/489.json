@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WvKCHtydVM4",
-            "title": "Biden Addresses Plan To Stop Delta Variant, Boost Covid Vaccinations",
-            "secondDuration": 1866,
-            "group": "group_7"
-        },
-        {
             "videoId": "JF0WCd8armY",
             "title": "AG Garland Announces Lawsuit Against 'Clearly Unconstitutional' Texas Abortion Law",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "200 People, Including Americans, Set To Fly From Afghanistan To Doha",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "hI8POLuzfjs",
+            "title": "Kentucky Hospitals Reach Full Capacity As Covid Spreads Among Kids",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

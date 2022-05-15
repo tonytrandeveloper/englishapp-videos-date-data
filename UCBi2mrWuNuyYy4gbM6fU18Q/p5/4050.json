@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I0kptBoCM50",
-            "title": "Cubs player in tears after foul ball hits young girl",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "XsXnLOR2VNY",
             "title": "Historic floods, tornadoes continue across the US",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Man who allegedly shot workers, deputy found hiding under boat",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "HcbdKpfBc9c",
+            "title": "Robert Mueller makes public statement on special counsel report",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

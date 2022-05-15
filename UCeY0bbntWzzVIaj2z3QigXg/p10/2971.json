@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qh1FqZEYpMg",
-            "title": "Take A Seat In The Cockpit Of NASA's T38 Jet | Mach | NBC News",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Uc1cFdXeKc",
             "title": "Huge Fiery Explosion As Trucks Collide On Highway | NBC News",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "From War Orphan In Sierra Leone To Dutch National Ballet Soloist | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "T1OXnz23DvU",
+            "title": "O.J. Simpson To Face Parole Hearing This Week | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

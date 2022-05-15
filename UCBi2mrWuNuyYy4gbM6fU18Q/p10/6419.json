@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-EzbtyxGNuw",
-            "title": "'Dancing Stars' Prepare for Debut",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "nGlhfxwpR9g",
             "title": "McCain Wants to Repeal Health Care Bill",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "President's Final Push for Health Care",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "ydYufQSvCCM",
+            "title": "Your Three Words: Shout Out Louds",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6PKoF4GqFBA",
-            "title": "The Coronavirus Pandemic's Impact On Pollution And Climate Change | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "uIhRM9pnH40",
             "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3874,
@@ -61,8 +55,14 @@
             "title": "First Responders Stress Concerns About Running Out Of Protective Equipment | NBC News NOW",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "fa_NLZwWOyM",
+            "title": "Empire State Building Honors COVID-19 First Responders, Medics | NBC News",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

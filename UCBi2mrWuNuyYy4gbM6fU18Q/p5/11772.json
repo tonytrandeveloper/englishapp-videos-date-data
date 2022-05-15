@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3K7T5ovww2c",
-            "title": "J.K. Rowling New Book for Adults; Brad Pitt, Angelina Jolie Wedding Rumors",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "TxECk7L0SZI",
             "title": "Caught on Tape: Driver Narrowly Escape Train Barrelling Down on Their Truck",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Liver Donation By Neighbors",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "h0vdRmlPPcI",
+            "title": "Dunwoody Trial: The Insanity Defense",
+            "secondDuration": 373,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

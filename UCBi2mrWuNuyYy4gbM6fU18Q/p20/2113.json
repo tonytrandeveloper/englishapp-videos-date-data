@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "djJDrMH3P_E",
-            "title": "ESPN Body Issue Reveals Cover Athlete",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "K19I1r2Sje0",
             "title": "Several Spectators Injured During NASCAR Race at Daytona International Speedway",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "North Carolina Beachgoers Worried About Recent Shark Attacks",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "OMkTLxobAIQ",
+            "title": "4th of July Fireworks Safety a Concern as Accident Reports Come In",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

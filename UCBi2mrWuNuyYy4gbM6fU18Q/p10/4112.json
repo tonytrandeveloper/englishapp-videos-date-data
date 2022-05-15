@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gcRmBHQyNKk",
-            "title": "Helpful Tips for Training Your Dogs | ABC News",
-            "secondDuration": 299,
-            "group": "group_7"
-        },
-        {
             "videoId": "3zGXn8YXKvQ",
             "title": "Fidgeting May Be Good For Your Health | ABC News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Pope Francis Shows Personal Touch When He Rides Through D.C.",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lq4UUhv2URU",
+            "title": "Pope Francis' Message to the President",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4HnjDE5Baa0",
-            "title": "San Bernardino Shooting: News Helicopter Captures Dramatic Play-by-Play",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "c2btJfna3Zk",
             "title": "San Bernardino Shooting: At Least 2 Suspects Identified",
             "secondDuration": 591,
@@ -31,8 +25,14 @@
             "title": "Concern Over Regularity of Mass Shootings",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dp4qPtWEutw",
+            "title": "Hospital Officials Discuss San Bernardino Shooting",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

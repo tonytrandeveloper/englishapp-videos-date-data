@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZBp9k8KK0Rw",
-            "title": "Top Line: Two Senators Embark on Bipartisan Tax Reform",
-            "secondDuration": 581,
-            "group": "group_7"
-        },
-        {
             "videoId": "kPUEMsp-9H4",
             "title": "Top Line: Health Care Combat",
             "secondDuration": 317,
@@ -31,8 +25,14 @@
             "title": "Test Driving Toyota",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "THaZmQhUgQ4",
+            "title": "N.Y. Terror Suspect Admits Guilt",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

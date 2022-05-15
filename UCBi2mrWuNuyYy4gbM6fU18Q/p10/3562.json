@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "axsN_w9aHWs",
-            "title": "Dallas Police Ambush | Mayor Mike Rawlings Interview",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jn3wlJ-c-0s",
             "title": "Dallas Police Shooting | Gunman Wanted to Kill White Cops",
             "secondDuration": 1421,
@@ -61,8 +55,14 @@
             "title": "Snipers Fire at Police at Dallas Protest | 5 Officers Killed, 12 Shot",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "PEjipYKbOOU",
+            "title": "Philando Castile Police Shooting Video Livestreamed on Facebook",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

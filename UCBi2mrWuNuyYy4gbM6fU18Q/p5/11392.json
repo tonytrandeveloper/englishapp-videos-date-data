@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "esEK2K9Uc5g",
-            "title": "Elton John, Madonna's Public Smackdown",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "uzK_6MICrpk",
             "title": "Sikh Temple Shooter Had Deep White Supremacist Ties",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Marvin Hamlisch Remembered: James Bond, Barbra Streisand",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "GKIRVgsNd9A",
+            "title": "Ebola Outbreak in Uganda",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

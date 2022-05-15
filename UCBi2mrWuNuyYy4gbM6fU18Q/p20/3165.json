@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t1JcDXQMPI4",
-            "title": "News You Missed: 'A Double Rainbow!'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Htg06q_2k8",
             "title": "Crisis in the Gulf",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "Heat Wave's Impact on Travel",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "BPZgqLcTUEQ",
+            "title": "Spy Swap: Deal in Works With Russians",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

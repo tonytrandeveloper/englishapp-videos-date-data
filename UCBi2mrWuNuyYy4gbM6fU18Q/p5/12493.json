@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d6gFtFznOpE",
-            "title": "Blacks Against Obama",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "BB81WPy3Xe8",
             "title": "Up in the Air",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Is Air Cargo a Security Risk?",
             "secondDuration": 299,
             "group": "group_7"
+        },
+        {
+            "videoId": "hTmQTexvROY",
+            "title": "Sens. Cornyn and Menendez on Midterm Elections",
+            "secondDuration": 727,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

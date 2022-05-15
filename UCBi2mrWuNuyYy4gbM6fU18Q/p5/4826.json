@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NgWFsDrplc0",
-            "title": "A CVS manager called the police on a black woman who was trying to use a coupon",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "ov0pFJRICPM",
             "title": "President Trump calls the European Union a 'foe' before meeting with Putin",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Bolton: Mueller indictment 'strengthens' Trump's hand ahead of Putin summit",
             "secondDuration": 1120,
             "group": "group_7"
+        },
+        {
+            "videoId": "4XsX07V7Uyo",
+            "title": "Former DNC chair to Trump: Tell Putin U.S. won't 'tolerate another hacking'",
+            "secondDuration": 628,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

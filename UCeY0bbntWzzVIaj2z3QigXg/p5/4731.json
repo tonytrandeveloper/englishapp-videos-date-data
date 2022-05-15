@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DgsiuvJT1Cg",
-            "title": "FEMA Provides An Update On Tropical Storm Florence | NBC News",
-            "secondDuration": 2759,
-            "group": "group_7"
-        },
-        {
             "videoId": "yUkZzpMnfPw",
             "title": "N.C. Resident Uses Pump To Help Save His Block From Florence’s Flood Waters | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Kavanaugh Strongly Denies Allegation Of Sexual Misconduct Handed Over By Top Dem | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "29-YrxIYMXc",
+            "title": "Florence’s Dangerous Storm Surge Brings Life-Threatening Floods To Coastal N.C. | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

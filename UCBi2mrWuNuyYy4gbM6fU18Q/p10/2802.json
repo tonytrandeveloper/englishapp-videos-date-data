@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ybq9lDBnhT8",
-            "title": "Sesame Street visits children at Jordan refugee camp",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmYNfd5KgZk",
             "title": "Several towns evacuating before the expected Category 3 hurricane",
             "secondDuration": 304,
@@ -61,8 +55,14 @@
             "title": "Trump follows divisive rally with unity call in Reno speech",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "ac4w5dZBkHs",
+            "title": "Gulf Coast states brace for Tropical Storm Harvey",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

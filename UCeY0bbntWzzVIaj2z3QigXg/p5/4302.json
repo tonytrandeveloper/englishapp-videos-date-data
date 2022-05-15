@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V1WQ-fT49rI",
-            "title": "American Detained In ISIS Territory In Syria Speaks Out | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "S5zTtYtesew",
             "title": "British Parliament Overwhelmingly Rejects Theresa May’s Brexit Deal | NBC Nightly News",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Barr Promises To Protect Mueller Investigation During Senate Confirmation Hearing | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "rF3CLelB0M4",
+            "title": "Barr Suggests Mueller Report May Not Be Made Public | NBC News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

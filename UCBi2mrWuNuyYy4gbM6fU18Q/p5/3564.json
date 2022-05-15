@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OyX5QDUNEtc",
-            "title": "Nationals return to DC as World Series champs l ABC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "StZJst49w6Q",
             "title": "What’s next for impeachment, foul play suspected in case of missing student | ABC News",
             "secondDuration": 1426,
@@ -31,8 +25,14 @@
             "title": "America Strong: ‘Mighty Quinn’",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "IuKPAkquqmY",
+            "title": "House of Representatives has voted",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

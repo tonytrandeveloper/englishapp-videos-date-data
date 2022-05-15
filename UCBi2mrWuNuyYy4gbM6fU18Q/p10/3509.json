@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LMT_xn-neEg",
-            "title": "Nancy Pelosi Full Speech at the Democratic Convention",
-            "secondDuration": 602,
-            "group": "group_7"
-        },
-        {
             "videoId": "MgjSSFoBd-0",
             "title": "Joaquin Castro Tells Story of His Grandmother's Immigration to America | ABC News",
             "secondDuration": 297,
@@ -61,8 +55,14 @@
             "title": "Tim Kaine Interview on DNC Speech, VP Nomination",
             "secondDuration": 410,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntfqHHK_cjA",
+            "title": "President Reagan Shooter John Hinckley Jr. to Be Released",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

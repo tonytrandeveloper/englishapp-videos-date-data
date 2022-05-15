@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "APW6Jr1XPGA",
-            "title": "Watch Live: Sondland, Cooper, Hale Testify At Trump Impeachment Hearing | NBC News",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "MsOr8Bff2K0",
             "title": "Rep. Denny Heck: ‘Thank You For Having Amb. Yovanovitch’s Back’ | NBC News",
             "secondDuration": 173,
@@ -121,8 +115,14 @@
             "title": "Sondland Being Careful To Not Get ‘Knocked With Perjury’ | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfwBorwo0P0",
+            "title": "Sondland: Security Aid Was 'Absolutely' Contingent On Investigation Announcement | NBC News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

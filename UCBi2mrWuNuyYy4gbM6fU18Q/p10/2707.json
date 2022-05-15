@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "urM8dsmEIFU",
-            "title": "Donna Brazile on fallout over revelations about the DNC in her latest book",
-            "secondDuration": 791,
-            "group": "group_7"
-        },
-        {
             "videoId": "O9uQCxjMEUI",
             "title": "North Korea makes new threat as Trump arrives in South Korea",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "New developments in the attack on Sen. Rand Paul",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "YpSbyMdbU9A",
+            "title": "Local neighbor confronts Sutherland Springs gunman",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

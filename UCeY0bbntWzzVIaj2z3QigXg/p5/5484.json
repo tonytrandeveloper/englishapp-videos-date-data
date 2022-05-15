@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "stV34wonots",
-            "title": "Space Station Astronauts Touch Down After Months Orbiting Earth | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "0V9gzccMpU4",
             "title": "President Donald Trump Speaks On Deregulation Efforts (Full) | NBC News",
             "secondDuration": 839,
@@ -31,8 +25,14 @@
             "title": "Battlefield Researchers Uncover ISIS Arsenal And Weapons Factory In Iraq | NBC News",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "zjNLsFJumeU",
+            "title": "Roy Moore Refuses To Concede, Blames ‘Baseless And False Allegations' | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

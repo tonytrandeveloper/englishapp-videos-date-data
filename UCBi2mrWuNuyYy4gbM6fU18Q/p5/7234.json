@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4_7UJPc6HHo",
-            "title": "Lightning Round with Chris Meloni | ABC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "0De7zyP7Vxw",
             "title": "Obama: Orlando Gunman Influenced by ‘Extremist Information’",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Orlando Shooting | Video From Inside Pulse Nightclub",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "8tj2Z3w_7b8",
+            "title": "Orlando Shooter's Father | 'Didn't See Anything Irregular'",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

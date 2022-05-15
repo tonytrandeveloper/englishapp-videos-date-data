@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "99ijiF5hvwY",
-            "title": "Canada Shooting Hero's Brother 'Very Proud'",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "ahIQCy48Nuo",
             "title": "Virginia Tech Finds Riddell's New Flex Helmet Design Better Than Any Other",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Gunman Opens Fire Inside Parliament in Canada",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "D0MTWd-DPgc",
+            "title": "Warning for Owners of Cars With Defective Airbags",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EzAEhJ-ELzE",
-            "title": "What Makes Robert Pattinson Curl Into a Fetal Position?",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "GW8pPi7Knw4",
             "title": "World News Now Polka: Water Glasses",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "In Case You Missed It: 6/20/14",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "i4UhE-P0mpE",
+            "title": "WEBCAST: State of Emergency",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

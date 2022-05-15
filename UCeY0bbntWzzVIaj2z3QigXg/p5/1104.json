@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NqfPLD4ZrVc",
-            "title": "Gov. Cuomo’s Former Executive Assistant Files Criminal Complaint",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "dNlC0As5TxI",
             "title": "Coronavirus: 50 Percent of Americans Fully Vaccinated",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "Cuomo's Attorneys Respond to AG Report On Sexual Harassment Allegations",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "CbDurA4U70s",
+            "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

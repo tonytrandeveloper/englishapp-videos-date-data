@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PigKT_Nu-Mk",
-            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eofd3K7xyms",
             "title": "Jackie Evancho National Anthem At Trump Inauguration",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "The Inaugural Speech: A History | ABC News",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "YU0pJGnWz94",
+            "title": "The Inauguration: Fun Facts | ABC News",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

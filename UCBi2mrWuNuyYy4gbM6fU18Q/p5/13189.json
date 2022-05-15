@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S4ZefXfIYiw",
-            "title": "Kennedy Faces Tough Reelection Fight",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "sn1p7w7GjYQ",
             "title": "Kennedy Stands Up for Disabled Workers",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "JFK Jr. Introduces Sen. Kennedy at DNC",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "E107TZ-3kJs",
+            "title": "Remembering JFK: A Presidential Funeral",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

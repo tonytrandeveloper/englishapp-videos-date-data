@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6ZyxrLG6j64",
-            "title": "Two missing daughters, two sets of human remains, both families seeking closure",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "f_2WM6zcnvA",
             "title": "Suburban mom turned P.I. helps solve mysterious death cases: Part 1",
             "secondDuration": 531,
@@ -61,8 +55,14 @@
             "title": "Sen. Marco Rubio reacts to US military strike in Syria",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZGLYe82dcbA",
+            "title": "US launches military strike on Syria",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

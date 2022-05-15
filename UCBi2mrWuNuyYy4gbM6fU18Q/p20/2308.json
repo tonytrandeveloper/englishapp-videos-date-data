@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qszpq0Ydv04",
-            "title": "Derek Jeter’s Last Game at Yankee Stadium",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "UBtcn60d9dE",
             "title": "Routine Traffic Stop Raises Concerns About Police Brutality",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Pot-Smoking Moms Unapologetic About Getting High",
             "secondDuration": 498,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpZOwRcUQtA",
+            "title": "Airline Food With Home Delivery",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

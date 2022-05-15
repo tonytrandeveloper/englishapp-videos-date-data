@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XdZgNZ4JChU",
-            "title": "Amplified: Passion Pit",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "S4XEt6ExgYU",
             "title": "Plane Disappears Off Radar",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "George on Bush's Interrogation Remarks",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "bRIZoTWz3C8",
+            "title": "White House Retracts Sotomayor Remarks",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

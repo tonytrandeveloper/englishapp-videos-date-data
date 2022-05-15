@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zmjSqVixA6Y",
-            "title": "Vice Presidential Debate 2012: Joe Biden, Paul Ryan Spar on Medicare, Social Security",
-            "secondDuration": 645,
-            "group": "group_7"
-        },
-        {
             "videoId": "s2npc-kBbfw",
             "title": "Vice Presidential Debate 2012: Joe Biden Fires Back at Paul Ryan on Iran Criticism",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Vice Presidential Debate 2012: Joe Biden Makes Promises After Benghazi, Libya Terrorist Attack",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "vIaUVXX-u9g",
+            "title": "Vice Presidential Debate 2012: Paul Ryan on Libya: WH First Blames YouTube Video, Then Romney-Ryan",
+            "secondDuration": 562,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

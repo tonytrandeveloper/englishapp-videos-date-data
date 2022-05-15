@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Fq9nbJJyq6E",
-            "title": "Kitten Gets 3D-Printed Prosthetic Paw",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "5rzbej320zs",
             "title": "Google's AI Gets Artsy, Composes a Song",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "EgyptAir Black Boxes Likely Detected by French Ship",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "RCu32oXGVqI",
+            "title": "Dog Drives Mini BMW | THE MIX",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

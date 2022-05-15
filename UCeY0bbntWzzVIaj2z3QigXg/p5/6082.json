@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1eTzJ6GNyUg",
-            "title": "Greg Allman, Founder Of The Allman Brothers Band, Dies At 69 | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "DrAievufxOY",
             "title": "Security Forces Blanket London On First Weekend After Manchester Attack | NBC Nightly News",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Post Report On Kushner Overshadows Pres. Donald Trump’s End Of First Foreign Trip | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "0okt8zVHEsQ",
+            "title": "Manchester Bombing: New Arrests In UK Terror Probe | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

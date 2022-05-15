@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "83tK7pd-El0",
-            "title": "State of the Union 2015: \"I Know Because I Won Both of Them\" - Obama",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "tIafRj_p95M",
             "title": "State of the Union 2015: 3 Ways to Strengthen Middle-Class",
             "secondDuration": 666,
@@ -121,8 +115,14 @@
             "title": "New ISIS Threat",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "IW4erYftP74",
+            "title": "Tiger Woods’ Tooth Knocked Out By Camera",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

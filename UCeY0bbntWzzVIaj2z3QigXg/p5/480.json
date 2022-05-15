@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Hp0pBnd7EKg",
-            "title": "Why January Could Be The Best Time To Look For A New Job",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "D_MK59k54SU",
             "title": "Biden Calls To End Filibuster To Pass Voting Rights Legislation",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Jan. 11",
             "secondDuration": 1263,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

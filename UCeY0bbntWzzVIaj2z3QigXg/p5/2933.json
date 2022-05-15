@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LIxmV5a_2AA",
-            "title": "California Governor Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2254,
-            "group": "group_7"
-        },
-        {
             "videoId": "KJMiFhIJYGI",
             "title": "Trump Discusses 'Rough Plague' Of Coronavirus With Recovered Patients | NBC News NOW",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2830,
             "group": "group_7"
+        },
+        {
+            "videoId": "qolOXGdK9qk",
+            "title": "Indiana Biotech To Produce 50,000 Weekly COVID-19 Testing Kits For NYC | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

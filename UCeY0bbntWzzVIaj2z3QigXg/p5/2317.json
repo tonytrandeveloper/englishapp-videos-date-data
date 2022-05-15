@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8lLKc6rHKpM",
-            "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "2OyqVdVN8Gk",
             "title": "Live: Joe Biden Joins AFL-CIO Virtual Event | NBC News",
             "secondDuration": 2091,
@@ -31,8 +25,14 @@
             "title": "'It's Monstrous': Julian Assange's Partner Speaks Out About Extradition Process | NBC News NOW",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "_NH_nOW06TQ",
+            "title": "Video Shows Portland Protester Catch Fire During Police Clash | NBC News",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

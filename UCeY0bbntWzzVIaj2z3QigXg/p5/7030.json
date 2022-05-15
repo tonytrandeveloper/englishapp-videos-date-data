@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pNebmKx5hRw",
-            "title": "George Zimmerman Involved In Florida Shooting Incident | NBC Nightly News",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "CEcvtcfHBTk",
             "title": "Carly Fiorina: Examining Her Record At HP | Meet The Press | NBC News",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Thousands Mourn NYPD Officer Brian Moore At Funeral | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "aCKIJpBkxS8",
+            "title": "U.S. Military Bases Raise Security Level Over ISIS Threat | NBC Nightly News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

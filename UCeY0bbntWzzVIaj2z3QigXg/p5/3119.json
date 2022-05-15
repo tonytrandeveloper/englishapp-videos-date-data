@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YEmxikRb4_Q",
-            "title": "Seoul Department Store Disinfected As South Korean Coronavirus Cases Spike | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "brsOXdEb9tc",
             "title": "Former GE CEO Jack Welch Dies At 84 | NBC News",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Pete Buttigieg Speaks After Quitting 2020 Race | NBC News (Live Stream Recording)",
             "secondDuration": 1610,
             "group": "group_7"
+        },
+        {
+            "videoId": "idAeFiAlryc",
+            "title": "Pete Buttigieg To Suspend Presidential Campaign | NBC Nightly News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

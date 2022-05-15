@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vFkfPYD9sNY",
-            "title": "Lucky Students Take Oscar Stage",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ozT9o0t0ApE",
             "title": "Road to Recovery: Robin Roberts First Week Back",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Medical Mystery: Young Boy Allergic to Food",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "1xMra1q-Vf4",
+            "title": "Brothers Search for Love Online",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

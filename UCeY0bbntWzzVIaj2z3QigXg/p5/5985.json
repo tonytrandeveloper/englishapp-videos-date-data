@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1lryxizFe4I",
-            "title": "Wildfires Continue To Rage Across The West | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "wh76K5WwtwE",
             "title": "High-Ranking Vatican Cardinal Charged With Historical Sexual Offenses | NBC Nightly News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Student Loans Set To Increase As College Becomes Even More Expensive | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "AH4xAmYkqv0",
+            "title": "iPhone Turns 10: How The Device Changed The World | NBC Nightly News",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WHP67tmZKxQ",
-            "title": "New alarms raised about a popular home security company",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "DKiXpsuOFbk",
             "title": "Polls close in the UK after high-stakes election",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "New security warning for in-home smart cameras l ABC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "K9ItQohDzrA",
+            "title": "House Judiciary Committee debates articles of impeachment | ABC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

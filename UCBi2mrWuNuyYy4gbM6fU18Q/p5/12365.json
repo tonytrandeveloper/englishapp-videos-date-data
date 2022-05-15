@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MR7U8ht3S5M",
-            "title": "Who is Hosni Mubarak? 2/2/2011",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vnfwr1y016Q",
             "title": "The Worst Winter Storm Yet 2/1/2011",
             "secondDuration": 373,
@@ -31,8 +25,14 @@
             "title": "No More Reporting on Sarah Palin 2/1/2011",
             "secondDuration": 289,
             "group": "group_7"
+        },
+        {
+            "videoId": "BrY5ff0oIZ0",
+            "title": "Norm Coleman: 'I'm Not Going To Run Against Amy Klobuchar' 2/1/2011",
+            "secondDuration": 609,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

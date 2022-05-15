@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "n8K2hY_fxL8",
-            "title": "Clinton, Sanders Fighting It Out for New York Votes",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ulbv00AGTAI",
             "title": "2nd Psychiatric Hospital Escapee Captured",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "SpaceX Dragon Will Launch Inflatable Room to International Space Station",
             "secondDuration": 28,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Ccw5OExVqQ",
+            "title": "Sailor Found Innocent After 33 Years in Prison",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

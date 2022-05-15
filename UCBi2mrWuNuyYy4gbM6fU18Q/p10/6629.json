@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nofUeNU5XZw",
-            "title": "Taliban Video Shows Captured U.S. Soldier",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "D0wTVLF0d8o",
             "title": "Identical Triplets Survive House Fire",
             "secondDuration": 468,
@@ -61,8 +55,14 @@
             "title": "Jumbo Flying Squid Swarm San Diego",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "vghCvvoaNx4",
+            "title": "Walter Cronkite Dies at 92",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

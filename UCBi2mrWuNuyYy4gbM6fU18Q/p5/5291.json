@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-3URa6tW2ig",
-            "title": "White House press briefing on Michael Wolff book, and Steve Bannon | ABC News",
-            "secondDuration": 2736,
-            "group": "group_7"
-        },
-        {
             "videoId": "ScDdr9VP8zI",
             "title": "Snowy 'bomb cyclone' hits Northeast: Dangerous n'oreaster brings cold, strong winds and snow",
             "secondDuration": 1258,
@@ -31,8 +25,14 @@
             "title": "Trump attorney sends Steve Bannon cease-and-desist letter",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "a21xyWwhpqQ",
+            "title": "Northeast braces for 'bomb cyclone' winter storm",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RvZ0_lkP2mc",
-            "title": "Karen Barnes: \"For student success, it takes...\"",
-            "secondDuration": 11,
-            "group": "group_7"
-        },
-        {
             "videoId": "dxCD8CmuJFw",
             "title": "Judy Shepard: \"For student success, it takes...\"",
             "secondDuration": 34,
@@ -31,8 +25,14 @@
             "title": "Dan Levinsohn: \"For student success, it takes...\"",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "5HNu_SRMRpg",
+            "title": "Jeff Cole: \"For student success, it takes...\"",
+            "secondDuration": 9,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

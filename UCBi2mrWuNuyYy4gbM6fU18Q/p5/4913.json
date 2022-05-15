@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5EMkd3TV7ug",
-            "title": "President Trump meets with Kim Jong Un to commit to denuclearization",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "xY5b7uKp2Dg",
             "title": "Future challenges remain to verify agreements with North Korea",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Trump calls Kim Jong Un 'a worthy negotiator'",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rz546XFrfL0",
+            "title": "Former Trump homeland security adviser talks North Korea meeting",
+            "secondDuration": 424,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

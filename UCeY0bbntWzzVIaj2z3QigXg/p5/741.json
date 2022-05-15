@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4168aJbyKmw",
-            "title": "Minute-By-Minute Breakdown Of Deadly Astroworld Concert",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAYuV_vglXU",
             "title": "Meet The Midterms | Meet The Press Reports",
             "secondDuration": 1645,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Nov. 9",
             "secondDuration": 3033,
             "group": "group_7"
+        },
+        {
+            "videoId": "b3uszb9CWyA",
+            "title": "This Morning’s Top Headlines – November 9 | Morning News NOW",
+            "secondDuration": 1362,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

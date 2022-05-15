@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zQD38mNy8UU",
-            "title": "Tornado outbreak, calls for impeachment grow, Ford cuts jobs",
-            "secondDuration": 1412,
-            "group": "group_7"
-        },
-        {
             "videoId": "15awHdeG4LQ",
             "title": "Researchers brave brutal conditions to research climate change in Antarctica: Part 1",
             "secondDuration": 629,
@@ -31,8 +25,14 @@
             "title": "Great white shark believed to be lurking off Connecticut coast",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1Y9XXSIzcw",
+            "title": "Scientists study humpback whales for clues on climate change impact",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

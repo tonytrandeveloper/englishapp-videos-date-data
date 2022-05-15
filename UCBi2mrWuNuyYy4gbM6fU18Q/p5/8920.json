@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MRaG2o9Ahm8",
-            "title": "New Yorkers Seek \"Blizzard Buddies\" To Ride Out The Storm",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "-OXG9ZrfdMo",
             "title": "Jack Antonoff, Having More Fun",
             "secondDuration": 453,
@@ -31,8 +25,14 @@
             "title": "Blizzard 2015: State of Emergency in Boston and Beyond",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ojeM0ZSBi3U",
+            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

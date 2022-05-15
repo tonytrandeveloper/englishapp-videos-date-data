@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "g1yB0_KVc2E",
-            "title": "Derrick Knuckles: We have to stop Syria from using chemical weapons at all costs",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "eV60mFfI1s4",
             "title": "Dianne Moen: I'm sort of 50/50 on the deal with Syria",
             "secondDuration": 23,
@@ -301,8 +295,14 @@
             "title": "Savannah Guthrie: \"I have a dream that...\"",
             "secondDuration": 8,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsjv0cx2LTw",
+            "title": "Jeremy Lin: \"I have a dream that...\"",
+            "secondDuration": 5,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

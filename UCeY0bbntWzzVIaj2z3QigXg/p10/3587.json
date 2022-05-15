@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ej98g-kCJ5I",
-            "title": "Massive Storm System Devastates Southeast | NBC News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZV3nMj90yes",
             "title": "Second Texas Health Worker Diagnosed With Ebola | NBC News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "New York Comic Con 2014: By The Numbers | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZEMP3aPGaOM",
+            "title": "Ebola: Pepare For More U.S. Cases | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HdDMraQQ2Ck",
-            "title": "Soldier Opens Fire on Fellow GIs",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "TD-9y7K1_Bo",
             "title": "Atlantis Astronauts Have the Right Stuff",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Tom Hanks Does it All",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "c-sDbeBIKSQ",
+            "title": "Comedian in Chief",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

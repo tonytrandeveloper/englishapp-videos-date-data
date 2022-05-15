@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxKmOT5NuJs",
             "title": "Michael Drejka found guilty of manslaughter",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Justice Ruth Bader Ginsburg treated for ‘malignant’ tumor",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "I_idbJMXu_g",
+            "title": "Brazil’s president threatens to send troops to burning Amazon",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

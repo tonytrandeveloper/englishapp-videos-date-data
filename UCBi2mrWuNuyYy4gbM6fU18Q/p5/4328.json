@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1w-qRL4t110",
-            "title": "Federal lawsuit accuses police officer of wrongful arrest, excessive force",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "09S153L2ra8",
             "title": "Briefing Room: Border deal, 'Investigation' podcast, Venezuela, Mark Kelly running for Senate",
             "secondDuration": 1660,
@@ -31,8 +25,14 @@
             "title": "Trump 'not happy' with congressional border deal",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZbNiKgLMZU",
+            "title": "Pacific Northwest battles record snowstorm",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

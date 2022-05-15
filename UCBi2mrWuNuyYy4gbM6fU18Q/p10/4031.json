@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QEEX-OqPAQc",
-            "title": "White House Lawn Locked Down Over Fence Jumper",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "4-jvNqHx2do",
             "title": "Holiday Leftovers with a Twist | ABC News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "What Every State is Thankful For | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "twAB8Oj83DE",
+            "title": "Will Smith to Get Into Politics? | ABC News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

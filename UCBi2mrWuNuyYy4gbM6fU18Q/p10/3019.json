@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HDO5ROzfmHA",
-            "title": "Boy helps elderly man cross the street during hailstorm in act of kindness",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "JFE2ktZbfAg",
             "title": "HHS Secretary reacts to backlash against health care plan",
             "secondDuration": 265,
@@ -61,8 +55,14 @@
             "title": "President Trump faces mounting pressure to prove his unsubstantiated wiretap allegations",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "W8m8jHJXRXU",
+            "title": "Republicans battle over Obamacare replacement",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

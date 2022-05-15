@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DC_2YI-JF0o",
-            "title": "Businesses find success with locally made products in Wisconsin",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "vicfFNCdosk",
             "title": "At least 1 killed, 3 injured after explosion rocks medical building",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Over 50 dead as US opens embassy in Jerusalem",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rl9CL_b_S6E",
+            "title": "WH faces backlash for not apologizing for McCain comment",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

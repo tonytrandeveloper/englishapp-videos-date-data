@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rZAOlPIMPvI",
-            "title": "American South Hit by Winter Storms",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "ehXNuTy3JpQ",
             "title": "Progeria Update: Hope Grows for Girl With Rare Rapid-Aging Disease Progeria",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Controversial Bikram Yoga Guru Likes the Heat",
             "secondDuration": 441,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xs2VKAYn1Oo",
+            "title": "Jodi Arias Trial: Explosive Recordings Played in Court",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

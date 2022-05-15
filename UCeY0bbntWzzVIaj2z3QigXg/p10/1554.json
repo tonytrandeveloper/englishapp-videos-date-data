@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q6-e1Ep39QY",
-            "title": "Joe Biden Wins Texas Primary, NBC News Projects | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7SgCTuVHXc",
             "title": "NBC News Projects Joe Biden Wins Massachusetts Primary | NBC News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Joe Biden Wins Minnesota Primary, NBC News Projects | NBC News",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "OGphB-xPngI",
+            "title": "Bloomberg ‘Running To Win Back’ Swing States Like Michigan, Ohio And Florida | NBC News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

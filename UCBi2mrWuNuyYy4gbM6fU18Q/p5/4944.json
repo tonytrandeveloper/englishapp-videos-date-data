@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8zMN0OosCeQ",
-            "title": "White House press briefing on N. Korea Summit, Trump's unsubstantiated spy claim | ABC News",
-            "secondDuration": 7642,
-            "group": "group_7"
-        },
-        {
             "videoId": "an09YXOXIE0",
             "title": "With 'Roseanne' cancelled, a look at companies making changes after social response",
             "secondDuration": 383,
@@ -31,8 +25,14 @@
             "title": "Top North Korea official travels to US",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "AiEzDHZxDT4",
+            "title": "Actor demands CNN retraction over sexual misconduct story",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

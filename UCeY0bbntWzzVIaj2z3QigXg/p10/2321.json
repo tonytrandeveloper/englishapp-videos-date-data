@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gODQnewLPS4",
-            "title": "Watch Live: President Donald Trump Delivers Remarks At Trafficking Taskforce Meeting | NBC News",
-            "secondDuration": 705,
-            "group": "group_7"
-        },
-        {
             "videoId": "5wRTFcyCw0c",
             "title": "5 New York Doctors Charged With Prescribing Unnecessary Opioid Pills | NBC News",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Watch Live: President Donald Trump Holds Campaign Rally In Pennsylvania | NBC News",
             "secondDuration": 4012,
             "group": "group_7"
+        },
+        {
+            "videoId": "yJ6XhJk-UZ0",
+            "title": "Polio-Like Illness Appears To Be On The Rise | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

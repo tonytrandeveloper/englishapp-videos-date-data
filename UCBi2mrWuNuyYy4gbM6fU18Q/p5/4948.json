@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LWTt8Uz8f64",
-            "title": "Starbucks stores closed nationwide for racial-bias training",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xoyg1-dKgiw",
             "title": "Millions in the path of subtropical storm Alberto",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "National guardsman missing after devastating flash floods hit town",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "AauM23ytGpc",
+            "title": "Starbucks planning to shutter all stores for afternoon bias training",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

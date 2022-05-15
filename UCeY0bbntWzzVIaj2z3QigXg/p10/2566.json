@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IdxlKCoKSjI",
-            "title": "Gas Prices On The Rise, Distressing Drivers | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "gcpyNecYzaU",
             "title": "FAA Orders Emergency Inspections After Southwest Engine Explosion | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Your Brain On Social Media | Better | NBC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "LHJD_GFGkrc",
+            "title": "Everything You Need To Know About THC, Marijuana's Mind Altering Chemical | Mach | NBC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

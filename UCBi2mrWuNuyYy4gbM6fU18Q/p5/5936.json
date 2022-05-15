@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BtJONmchTnU",
-            "title": "Facebook enhances picture capabilities",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ff1OP0HE8W0",
             "title": "Donald Trump the businessman didn't always 'Buy American'",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "A beauty queen shines a light on her invisible illness and raises awareness",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "vDaid4Hh1gA",
+            "title": "President Donald Trump full spech from Kenosha, Wisconsin Snap-on Tools headquarters 4/18/2017",
+            "secondDuration": 1548,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

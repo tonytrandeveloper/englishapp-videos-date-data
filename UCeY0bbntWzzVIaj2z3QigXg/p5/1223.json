@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5jVSRZb5QXU",
-            "title": "Florida Building Collapse Official Briefing - July 7 | NBC News",
-            "secondDuration": 1751,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZoHR4Ddvfhk",
             "title": "Morning News NOW Full Broadcast - July 7",
             "secondDuration": 2975,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – July 7 | Morning News NOW",
             "secondDuration": 1400,
             "group": "group_7"
+        },
+        {
+            "videoId": "rncWMVEM8rc",
+            "title": "TikTok's Black Creators Go On Strike",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

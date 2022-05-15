@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FZfldwAQGFI",
-            "title": "Trump Wins Ohio | 2016 Election Results",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "RaWSe_uij74",
             "title": "Trump a 'Narrow Favorite to Win Electoral College': Nate Silver | Election 2016",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "Mike Pence Votes | Election 2016",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQGLrIvp3jw",
+            "title": "Hillary Clinton FULL SPEECH with President Obama, Bill, Michelle, & Chelsea | Philadelphia Rally",
+            "secondDuration": 3330,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

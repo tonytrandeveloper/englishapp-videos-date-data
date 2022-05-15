@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lKqvLUXQwdo",
-            "title": "'The X-Files' Returns, Mulder and Scully Are Back",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "hB2a1FLU4c4",
             "title": "Hurricane Katrina Airman’s Search for Girl He Rescued Goes Viral",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Angelina Jolie Reveals She Had Her Ovaries Removed",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "3tOyJunoBZI",
+            "title": "A Unique Twist On A Seafood Staple",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

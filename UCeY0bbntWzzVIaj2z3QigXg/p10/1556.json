@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BzfXHB3SmnY",
-            "title": "Bloomberg Campaign Will 'Take Another Look' After Super Tuesday Results | NBC News NOW",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ct-DS-JYncA",
             "title": "NBC News Projects Super Tuesday Winners In Vermont, Virginia | NBC News",
             "secondDuration": 412,
@@ -61,8 +55,14 @@
             "title": "See Trump's Comments On Nashville Tornado At Conference | NBC News (Live Stream Recording)",
             "secondDuration": 4702,
             "group": "group_7"
+        },
+        {
+            "videoId": "yNllJvjj9Mc",
+            "title": "McConnell Rails Against Sanders For Not Supporting AIPAC | NBC News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

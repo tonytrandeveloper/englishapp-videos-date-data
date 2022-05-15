@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fRIgJBm9L6k",
-            "title": "Doctor Describes His Experience Getting Tested For COVID-19 | NBC News NOW",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "hIcSyKZyEW4",
             "title": "The Great Wall Of China Partially Reopens As Coronavirus Cases Drop In Country | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "China Begins To Ease Coronavirus Travel Restrictions As Cases Decrease | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "otRTvfzYRjY",
+            "title": "Businesses Step In As Hospitals Run Critically Low On Medical Supplies | NBC Nightly News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

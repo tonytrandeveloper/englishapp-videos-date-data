@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2BkcVJeOAdY",
-            "title": "Mike Pompeo Defends President Donald Trump’s Foreign Policy On Capitol Hill | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWSXPQMf1pU",
             "title": "Secretary of State Mike Pompeo Testifies On North Korea, Russia | NBC News",
             "secondDuration": 10594,
@@ -121,8 +115,14 @@
             "title": "Summer Savings: How To Trim Your Utility Bill | Better | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "vpP67Mb4nT0",
+            "title": "President Donald Trump Speaks At VFW Convention In Kansas City | NBC News",
+            "secondDuration": 3604,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

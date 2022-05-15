@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "25B3zN8SQnc",
-            "title": "Bronx Bark-Off Shows Puppy Love",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "DPPa7LfJt7s",
             "title": "Siblings Bereft After Sister Disappears",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Bottom Line on Photo Release Reversal",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "sUxd9s-Lotc",
+            "title": "Jake Tapper on Obama's Photo Flap",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

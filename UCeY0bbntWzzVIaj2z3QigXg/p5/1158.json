@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9kLHuAE5stI",
-            "title": "Serious Setbacks Across U.S. With Covid Infections & Hospitalizations",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "XqOGAWgBnJk",
             "title": "Biden Signs Bill: 'To Provide Help And Support To Victims of Domestic Violence'",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "American Airlines Employee Boots Passenger From Flight",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "0kUnJv5rBEs",
+            "title": "Several Major Websites Go Down In Widespread Internet Outage",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

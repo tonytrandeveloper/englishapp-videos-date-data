@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6Q5-OrSCc4s",
-            "title": "One little girl has reason to smile as she graduates from kindergarten",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "oS5P-o4ggFE",
             "title": "Police officer is found not guilty after a deadly shooting in Milwaukee last summer",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Russian fighter jet flies within feet of a US Air Force reconnaissance plane",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "vM2KVbpBzWE",
+            "title": "Video released from dashboard camera in Philando Castile shooting",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

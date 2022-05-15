@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MSvg6L8tAck",
-            "title": "A Final Farewell to 'American Idol'",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vvh7aslmCko",
             "title": "'Rogue One: A Star War Story' First Teaser Trailer Debuts",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "Faulty Takata Airbag May Be Linked to Death of 17-Year-Old From Texas",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "2npyHLTpcWE",
+            "title": "Authorities Identify Young Woman Found Dead at UT Austin",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

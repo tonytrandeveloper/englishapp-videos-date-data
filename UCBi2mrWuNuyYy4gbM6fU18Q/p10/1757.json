@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "olrbF3IkjiM",
-            "title": "Yovanovitch jokes about ‘nasty things’ being said on social media | ABC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zpk9-pibcEE",
             "title": "Roger Stone found guilty on all 7 counts | ABC News",
             "secondDuration": 779,
@@ -61,8 +55,14 @@
             "title": "Nunes delivers opening statement on Day 2 of impeachment hearings | ABC News",
             "secondDuration": 672,
             "group": "group_7"
+        },
+        {
+            "videoId": "z6rTJedwEWQ",
+            "title": "Venice underwater as historically high tides continue to rise l ABC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

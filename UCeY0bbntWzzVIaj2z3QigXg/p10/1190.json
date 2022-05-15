@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JgY6UaFYWnE",
-            "title": "Watch Michael Bloomberg's Full Speech At The 2020 DNC | NBC News",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "AepI5pQJbnw",
             "title": "'This Is Our Moment, This Is Our Mission': Biden Calls For Unity In His DNC Speech | NBC News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Watch Sen. Cory Booker's Full Speech At The 2020 DNC | NBC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "EeIGp3e8nNk",
+            "title": "Comedian Sarah Cooper Mocks Trump's Attacks On Mail-In Voting At 2020 DNC | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

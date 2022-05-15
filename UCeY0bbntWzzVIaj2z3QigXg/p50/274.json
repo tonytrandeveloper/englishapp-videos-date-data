@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "JMBUWQ1ipZM",
-            "title": "Protests Continue In Twin Cities After Death Of George Floyd | NBC News",
-            "secondDuration": 9409,
-            "group": "group_7"
-        },
-        {
             "videoId": "IcnZt1LR5Mo",
             "title": "Bay Area Sees Spike In Coronavirus Cases As California Reopens | NBC News NOW",
             "secondDuration": 766,
@@ -301,8 +295,14 @@
             "title": "Remembering Author And AIDS Activist Larry Kramer, Dead At 84 | NBC News NOW",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFj7GI0U7v4",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2939,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

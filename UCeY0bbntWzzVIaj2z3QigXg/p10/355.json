@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a4YkdSIHVr0",
-            "title": "Small Businesses Feeling Crunch As Inflation Rises",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNdNHzrrbxQ",
             "title": "Two Teens Charged In Shooting Death Of 8-Year-Old",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "Biden Touts Infrastructure Law In New Hampshire",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "BsKFb8NnUjM",
+            "title": "New England Battling Rise In Covid Cases Among The Unvaccinated",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

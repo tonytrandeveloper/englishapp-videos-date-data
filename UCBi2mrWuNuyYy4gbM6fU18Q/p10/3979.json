@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sgHPE2VWtFs",
-            "title": "Trump Releases First TV Campaign Ad",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "sEvNFZrE5ss",
             "title": "Miss Universe Philippines Speaks Out on Sharing Crown",
             "secondDuration": 329,
@@ -61,8 +55,14 @@
             "title": "Two Boy Scout Brothers Save Their Scout Leader From a Bear Attack",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "VO_TiveEfXE",
+            "title": "Airbnb User Throws Raucous New Year's Party, Trashes House",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "192XFY01wk0",
-            "title": "Armed Man 'Self-Investigates' Pizza Parlor Based on Fake News Claim",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "gRFfLlWDqSE",
             "title": "Trump Team Still Looking for Secretary of State",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Dylann Roof to Judge: Let Lawyers Back on Death Penalty Case",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ycWDAbxxF4",
+            "title": "Guardians of the Galaxy Vol. 2 Teaser Released",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kKOtO5tyzBU",
-            "title": "Watch NBC News NOW Live - June  25",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "cFr74HgdzoI",
             "title": "Chicago Officials And Unions Clash Over Police Reform | NBC News NOW",
             "secondDuration": 462,
@@ -31,8 +25,14 @@
             "title": "Chicago Officials And Unions Clash Over Police Reform | NBC News NOW",
             "secondDuration": 864,
             "group": "group_7"
+        },
+        {
+            "videoId": "5mchK15USS4",
+            "title": "Outrage Over Elijah McClain Death As Police Nationwide Face New Investigations | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

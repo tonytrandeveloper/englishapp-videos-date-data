@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L6PvKGjxDU8",
-            "title": "Third Presidential Debate Highlights | Clinton, Trump Closing Statements",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "autMYWNBL_k",
             "title": "Presidential Debate 3 Highlights | Clinton, Trump on Mosul Offensive",
             "secondDuration": 485,
@@ -31,8 +25,14 @@
             "title": "Third Presidential Debate Highlights | Trump Defends Aleppo Comments",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "UdvHQl6ZVhc",
+            "title": "Trump on Election Rigging | Third Presidential Debate Highlights",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I3MT3_6rjFY",
-            "title": "'Blue Lives Matter' Group Says They Want Street Mural In New York City | NBC News NOW",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ea6AZsB6Iao",
             "title": "CDC: U.S. Coronavirus Death Toll Could Reach 180,000 By End Of August | NBC News NOW",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Fauci, Medical Experts Grilled On National Covid-19 Response As Stimulus Talks Stall | NBC News NOW",
             "secondDuration": 725,
             "group": "group_7"
+        },
+        {
+            "videoId": "buTkbpyB8ZI",
+            "title": "‘A War Against Stupidity’: Healthcare Workers Battle Coronavirus Misinformation | NBC News NOW",
+            "secondDuration": 1198,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

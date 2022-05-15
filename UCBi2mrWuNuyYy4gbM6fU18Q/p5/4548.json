@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IAiHC-BQLQE",
-            "title": "Volunteers in California brave the fires to rescue animals from the flames",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "xXCYp7gTzag",
             "title": "Michelle Obama opens up in an exclusive interview with Robin Roberts",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Trump is in France for Veterans Day",
             "secondDuration": 276,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7FQNgEbCFU",
+            "title": "The Camp Fire has destroyed more than 6,700 buildings in Northern California",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

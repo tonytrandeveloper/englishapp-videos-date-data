@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HTo-KsiZuF8",
-            "title": "Nicole Kidman's New Role as Grace Kelly",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "3yVsPXTYfDE",
             "title": "Officials Investigate Stolen Passports Used on Missing Malaysia Airlines Flight",
             "secondDuration": 443,
@@ -121,8 +115,14 @@
             "title": "Alexandria, Va. Police Hunt for Possible Serial Killer Near Washington, D.C.",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "eqzft-mdLa0",
+            "title": "'One Upon a Time' Cast in Times Square",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dGXqpYF-6yQ",
-            "title": "Hurricane Ida Leaves Destruction In Houma, Louisiana",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "wi5nX5KU_Qc",
             "title": "Nurses Cared For NICU Babies During Hurricane Ida",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Pentagon Announces Final U.S. Troops Have Withdrawn From Afghanistan",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9PcTOoFEkk",
+            "title": "Afghan Americans Protest For More Refugee Visas Amid Humanitarian Crisis",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

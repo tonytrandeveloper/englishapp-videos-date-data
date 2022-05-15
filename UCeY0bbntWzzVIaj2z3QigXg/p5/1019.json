@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BDt_gBtjJ6E",
-            "title": "Heavy Rains And Wind Batter Gulfport",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "U2VoSrdiC5g",
             "title": "NBC Nightly News Full Broadcast - August 29th, 2021",
             "secondDuration": 1318,
@@ -31,8 +25,14 @@
             "title": "Baton Rouge Expected To Be Hit Hard By Hurricane Ida",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "rsawCQ5kYWw",
+            "title": "Houma In The Middle Of Hurricane Ida’s Path",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

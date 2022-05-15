@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "L0lufRrQU2M",
-            "title": "Sunday Spotlight: Rachel Jeantel's Transformation",
-            "secondDuration": 233,
-            "group": "group_7"
-        },
-        {
             "videoId": "in_1YTg9S7c",
             "title": "Roundtable: Crisis in Israel",
             "secondDuration": 238,
@@ -301,8 +295,14 @@
             "title": "California Shark Attack: Surfer Relives Harrowing Attack",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "i-ZHhKsSRGo",
+            "title": "Caught on Tape: US Teen, Tariq Abu Khdeir, Allegedly Beaten by Israeli Police",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

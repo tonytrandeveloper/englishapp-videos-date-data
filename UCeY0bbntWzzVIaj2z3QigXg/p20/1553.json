@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9wuZgQuG5wI",
-            "title": "Don Rickles, Master Of Comedy For Decades, Dies At Age 90 | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Dy6UaJZuDo",
             "title": "FDA Approves At-Home DNA Tests For 10 Diseases | NBC Nightly News",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "For Syrian Doctor, 'Gas Attacks' Are Chilling Reality | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "y6gUCa4289I",
+            "title": "Sarin Gas: The Colorless, Odorless Chemical Killer | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

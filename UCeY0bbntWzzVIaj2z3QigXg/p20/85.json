@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q2lcGdnbas4",
-            "title": "NOW Tonight with Joshua Johnson - Feb. 11 | NBC News NOW",
-            "secondDuration": 1903,
-            "group": "group_7"
-        },
-        {
             "videoId": "XU3MJGWkkHw",
             "title": "Black Delivery Driver Allegedly Chased, Shot At By White Father And Son",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Watch: News NOW Anchors Try Curling",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "ONmyz6bpBsM",
+            "title": "Biden Urges Americans To Leave Ukraine Amid Rising Tensions",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

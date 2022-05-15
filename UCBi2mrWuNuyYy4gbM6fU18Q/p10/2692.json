@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IG7Zj4wzBHQ",
-            "title": "Free after five years in captivity, American hostage mom speaks out",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "eq4fG4rcsuc",
             "title": "Charles Manson dies in prison at 83; Ex-Manson member recalls life in the family",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "Deep freeze, storms at start of Thanksgiving travel week",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "BwglO0d_ptc",
+            "title": "American hostage mom speaks out about years in Taliban captivity",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

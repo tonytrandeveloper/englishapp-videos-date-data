@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KLCTqZEobT0",
-            "title": "Lightning Round with Nick Cannon | ABC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "T0p_bDeVeRI",
             "title": "Lightning Round: MC Hammer | ABC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Orlando Shooting | Video From Inside Pulse Nightclub",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "8tj2Z3w_7b8",
+            "title": "Orlando Shooter's Father | 'Didn't See Anything Irregular'",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

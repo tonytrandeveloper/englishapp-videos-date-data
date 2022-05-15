@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t7wsXR4Jf4g",
-            "title": "U.S. Surgeon General On Losing Family Members To Covid-19",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "UvRs3_3Of9k",
             "title": "NBC News NOW Full Broadcast - July 15, 2021",
             "secondDuration": 2920,
@@ -31,8 +25,14 @@
             "title": "New Books Says Top General Feared Trump Would Attempt Coup",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9_DDZ7zP1E",
+            "title": "University Team Creates Mobile Lab For Medical Research On Marijuana",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

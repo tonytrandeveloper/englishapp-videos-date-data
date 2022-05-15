@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "--bProCQyLw",
-            "title": "Facebook Bans QAnon Accounts Across Platforms | NBC News NOW",
-            "secondDuration": 243,
-            "group": "group_7"
-        },
-        {
             "videoId": "kXlItOK4MM4",
             "title": "Pence Falsely Accuses Obama Admin Of Spying On 2016 Trump Campaign | NBC News",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "Harris Calls Covid Response ‘Greatest Failure Of Any Presidential Administration’ | NBC News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1E9Qc5hqzo",
+            "title": "Examining The State Of The Presidential Race Ahead Of The Vice Presidential Debate | NBC News NOW",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

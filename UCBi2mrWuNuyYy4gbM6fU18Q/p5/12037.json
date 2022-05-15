@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MPflerzYlQY",
-            "title": "Lifesaving Trash? Old Phones Give Life",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "voDCp6-j1FI",
             "title": "Jacqueline Kennedy Tapes, Recorded After JFK Assassination, Reveal Intimate Secrets",
             "secondDuration": 269,
@@ -31,8 +25,14 @@
             "title": "Shanksville, Pa. 9/11 Memorial Service",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "kksUaH9alg0",
+            "title": "Remembering 9/11 Attack on Pentagon",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

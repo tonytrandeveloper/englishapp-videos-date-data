@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4XsX07V7Uyo",
-            "title": "Former DNC chair to Trump: Tell Putin U.S. won't 'tolerate another hacking'",
-            "secondDuration": 628,
-            "group": "group_7"
-        },
-        {
             "videoId": "CFFedTPdXTw",
             "title": "Ousted Papa John's CEO speaks for 1st time since stepping down",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Trump golfs after Russian indictment announcement",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNF2KBw6EI4",
+            "title": "Cop flips coin to decide whether to arrest woman for speeding",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

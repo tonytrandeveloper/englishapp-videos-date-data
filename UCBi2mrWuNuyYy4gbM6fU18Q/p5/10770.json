@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ApEqnLNLu0c",
-            "title": "Extreme Weather: Deep Freeze Strikes West",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "MHdCBJ0d_uU",
             "title": "Miss America 2013: The Inspirational Stories",
             "secondDuration": 172,
@@ -31,8 +25,14 @@
             "title": "Gun Control Efforts Drive Gun Sales",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "arym73aYzyY",
+            "title": "America Battles Spreading Flu Virus",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8mtsT9jKXlw",
-            "title": "White House Press Briefing - February 13, 2018 | NBC News",
-            "secondDuration": 1887,
-            "group": "group_7"
-        },
-        {
             "videoId": "-NWwQ0_G1ng",
             "title": "Mick Mulvaney On Budget: If I Were In Congress, I Would 'Vote Against It' | NBC News",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Former President Of Georgia Mikheil Saakashvili Seized At Kiev Restaurant And Deported | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "lIxH9j4q8_I",
+            "title": "NTSB Investigating Grand Canyon Helicopter Crash That Left Three Dead | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

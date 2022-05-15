@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dwoZdP4A7Y4",
-            "title": "Cory Booker: \"I have a dream that...\"",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "n3mP7UbUUW4",
             "title": "Rep. John Lewis: \"I have a dream that...\"",
             "secondDuration": 18,
@@ -31,8 +25,14 @@
             "title": "Andrea Mitchell: \"I have a dream that...\"",
             "secondDuration": 12,
             "group": "group_7"
+        },
+        {
+            "videoId": "k1Z6s42eIXg",
+            "title": "Willie O'Ree: \"I have a dream that...\"",
+            "secondDuration": 17,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

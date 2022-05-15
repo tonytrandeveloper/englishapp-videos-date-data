@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YmPsEbYzxE4",
-            "title": "Congress Racing To Prevent Government Shutdown",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "6fBGuelbZXo",
             "title": "Gen. Milley Warns Of Terror Threat Following Afghanistan Withdrawal",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "What American Travelers Need To Visit Europe",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "TyR_qgWTyv0",
+            "title": "House Democrats Divided Over Infrastructure Bill",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

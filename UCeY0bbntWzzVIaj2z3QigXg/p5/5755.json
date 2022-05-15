@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TdyWvTR_0b0",
-            "title": "This Martian Rover Is Made For Earth Travel | Mach | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "naqEpbCdPcY",
             "title": "Dozens Arrested During Third Night Of Violence In St. Louis | NBC BLK | NBC News",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Senator John McCain Wants Bipartisan Process For Last-Ditch Obamacare Repeal Bill | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJGquUcCv14",
+            "title": "Sean Spicer Surprises Emmys Audience | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

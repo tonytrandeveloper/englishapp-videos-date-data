@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MgAEmzP9OZs",
-            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "dydIAY1WJYQ",
             "title": "President Donald Trump Speaks At National Republican Congressional Committee Dinner | NBC News",
             "secondDuration": 3669,
@@ -301,8 +295,14 @@
             "title": "Rep. Conaway: We're Trying To Stay Away From The Mueller Probe (Full) | Meet The Press | NBC News",
             "secondDuration": 530,
             "group": "group_7"
+        },
+        {
+            "videoId": "KutaoRosWvo",
+            "title": "Sen. Marco Rubio: On McCabe, ‘I Don’t Like The Way It Happened’ (Full) | Meet The Press | NBC News",
+            "secondDuration": 580,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

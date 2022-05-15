@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dFop0vnyuko",
-            "title": "A Fragile Democracy, With Trump, Facebook and Congress At The Center",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "fGlN3Zd9GtM",
             "title": "Biden White House Block's Trump Attempt To Withhold January 6th Documents",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Body Cam Footage Released In Police Stop Of Paraplegic Man",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "M9sTvot2_3Q",
+            "title": "Nightly News Full Broadcast - October 9th",
+            "secondDuration": 1298,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

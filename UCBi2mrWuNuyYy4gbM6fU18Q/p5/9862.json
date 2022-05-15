@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d3TaGmbetvo",
-            "title": "Massive Winter Snowstorm Barrels Across US",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "wuO31iae8gE",
             "title": "Mega-Millions Jackpot Roll Over Ramps Up New Round of Ticket Sales",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Kansas Man Under Arrest for Terror Plot",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "pYtrjK3f8Uo",
+            "title": "Winter Storm Alert: Cold Temperatures and Heavy Snowfall",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

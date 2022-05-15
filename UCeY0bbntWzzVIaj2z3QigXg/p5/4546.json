@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "57af6Vcjw3Y",
-            "title": "Extended Interview: Ted Cruz & Lester Holt | NBC Nightly News",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "63Kfek8W7Lk",
             "title": "Brian Kemp On Probe Of Georgia Democrats: 'I'm Doing My Job' | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Former President Obama Tells Campaign Workers The Country's 'Character' Is On The Ballot | NBC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "6fg3P3VZVTQ",
+            "title": "Watch Live: Steve Kornacki Previews Tomorrow’s Must-Watch House Races | NBC News",
+            "secondDuration": 1496,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

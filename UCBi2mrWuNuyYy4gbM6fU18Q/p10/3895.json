@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ATGyC6Sp_Ms",
-            "title": "Jeb Bush Suspends His Presidential Campaign",
-            "secondDuration": 418,
-            "group": "group_7"
-        },
-        {
             "videoId": "gCCrj_7aR0g",
             "title": "Hillary Clinton's FULL Speech | Wins Nevada Caucuses",
             "secondDuration": 709,
@@ -61,8 +55,14 @@
             "title": "Scalia Laid to Rest",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "8e90mnL7j5s",
+            "title": "GOP Candidates Await South Carolina Primary Outcome",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

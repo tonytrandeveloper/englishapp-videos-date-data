@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4mr0OGYp6Co",
-            "title": "WEBCAST: Shorty Finally Returns Home Several Years Later",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZByx_6uKfKk",
             "title": "Birth Control Issued in New York City",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "Week 3 NFL Picks: Voting Results",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "NweErG6pgUs",
+            "title": "Wildfires Rage in the West Causing Smoke to Spread",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

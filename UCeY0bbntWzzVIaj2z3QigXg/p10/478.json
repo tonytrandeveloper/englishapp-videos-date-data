@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q9Gmq0zQx08",
-            "title": "The New Latino Landscape: New Hampshire’s Population Boom",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "YHDdcFzW2hk",
             "title": "Civilian Astronauts Set To Blast Off in Inspiration4 Launch",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Nicholas Lingers Over Louisiana Region Slammed by Hurricane Ida",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtCw4iwuot8",
+            "title": "Senate Holds Hearing On FBI Handling Of Larry Nassar Investigation",
+            "secondDuration": 15036,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

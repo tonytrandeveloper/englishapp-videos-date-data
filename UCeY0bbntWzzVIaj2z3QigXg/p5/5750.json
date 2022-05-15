@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NB8Y8af0q1I",
-            "title": "How Yoga Changes Your Brain | Better | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "b-j7c6FPms0",
             "title": "Senator Lamar Alexander Interview: Regular Order For Obamacare Fixes? (Full) | NBC News",
             "secondDuration": 874,
@@ -31,8 +25,14 @@
             "title": "Iranian President Rouhani: If U.S. Leaves Iran Deal, No One Will Trust America Again | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "I-suHC4qa5E",
+            "title": "Hurricane Maria Pummels Caribbean Islands | NBC News",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

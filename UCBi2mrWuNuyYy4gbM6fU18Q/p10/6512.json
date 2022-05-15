@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RqsqDjRdmdU",
-            "title": "Palin on Palin",
-            "secondDuration": 464,
-            "group": "group_7"
-        },
-        {
             "videoId": "T1dDIrOCbUo",
             "title": "What If China Collected on U.S. Debt?",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper Travels With Obama",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSAnSqq8VJM",
+            "title": "Giving Thanks This Thanksgiving",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

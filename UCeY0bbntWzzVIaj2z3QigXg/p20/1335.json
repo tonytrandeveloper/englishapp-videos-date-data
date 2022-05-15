@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0a5bk28IBuE",
-            "title": "Former Attorney General Eric Holder: 2018 Elections Crucial For Future Redistricting | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "B7Hm-rmLQcU",
             "title": "World’s First Passenger Drone Unveiled In China | NBC News",
             "secondDuration": 67,
@@ -121,8 +115,14 @@
             "title": "Stock Market Recovers Half Of What Was Lost After Largest Dow Drop In History | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "BKuFsI_0KGA",
+            "title": "SpaceX’s Falcon Heavy Rocket Nails Its Maiden Test Flight | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

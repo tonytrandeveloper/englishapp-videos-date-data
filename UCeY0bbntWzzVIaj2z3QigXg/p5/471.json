@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4EXLAhoTmVo",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 13 | NBC News NOW",
-            "secondDuration": 2981,
-            "group": "group_7"
-        },
-        {
             "videoId": "krLrWqk6qk4",
             "title": "Top Story with Tom Llamas – Jan. 13 | NBC News NOW",
             "secondDuration": 3009,
@@ -31,8 +25,14 @@
             "title": "Prince Andrew Stripped Of Royal And Military Titles As He Faces Sexual Abuse Lawsuit",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "BLL5-MOnYsE",
+            "title": "More Than 8,000 Grocery Store Workers Go On Strike In Colorado",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

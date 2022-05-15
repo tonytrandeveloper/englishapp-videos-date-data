@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aPHMWpAStgo",
-            "title": "John Kasich: Brokered Convention A 'Real Prospect' | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lIcsw1c6O8",
             "title": "On the Trail With Trump Supporters | NBC News",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Could A Contested Convention Happen For The GOP? | NBC Nightly News",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "gobOcxopUsA",
+            "title": "Big Ears, Spray Tans And Other Insults Of The 2016 Campaign | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T3JX_vPq9Pk",
-            "title": "White House press briefing with Sarah Sanders | ABC News",
-            "secondDuration": 3052,
-            "group": "group_7"
-        },
-        {
             "videoId": "7gNh-IhSNMM",
             "title": "The Debrief: Russia investigation, Venezuela crisis, dangerous cold front| ABC News",
             "secondDuration": 1419,
@@ -31,8 +25,14 @@
             "title": "Chris Christie weighs in on his new book, shutdown, Roger Stone",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "QI4hcg_VqRU",
+            "title": "Ex-Starbucks CEO considering run for president",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

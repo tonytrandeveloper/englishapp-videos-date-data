@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HZ9h6m40S-8",
-            "title": "Designated Survivor | Who is next in line after the President? | America 101",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "RSC8aD1QSHA",
             "title": "Rihanna Joins Paul Mccartney On Stage",
             "secondDuration": 44,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Emails in New WikiLeaks Dump",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "VIdTeXyiBiw",
+            "title": "Iraqi Offensive Battle for Mosul Begins",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

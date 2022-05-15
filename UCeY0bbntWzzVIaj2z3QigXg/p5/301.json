@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DtKYiM9OLd4",
-            "title": "A War in Ukraine May Raise Prices in the U.S.",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "VT2ZMXSiUvs",
             "title": "Russia and Ukraine On The Brink of War",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "The Lights Are Blinking Red All Over Europe",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "d2fvKhnKE-k",
+            "title": "Russian Military Exercises in Belarus ‘Will Continue Indefinitely’",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

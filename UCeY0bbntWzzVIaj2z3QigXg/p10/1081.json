@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ghtA5XskYDQ",
-            "title": "Coronavirus: Inside Hard-Hit Utah Hospital | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "onhk3pCfrmY",
             "title": "Evacuations Ordered As Colorado Wildfire Rages | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Trumps Holds Campaign Rally In North Carolina | NBC News",
             "secondDuration": 4808,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDMkTHwKpbc",
+            "title": "FBI Announces Iran, Russia Obtained Voter Registration Information, Interfering In Election",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

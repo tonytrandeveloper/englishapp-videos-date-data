@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O055YMIBmyk",
-            "title": "Deadly tornadoes tear up homes, leave path of destruction",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "02mJk6hnq90",
             "title": "Ducklings jump out of firefighter's helmet to be reunited with mom",
             "secondDuration": 47,
@@ -61,8 +55,14 @@
             "title": "Test could show the effect of gaming on your kid's brain | ABC News",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "DrKMfCLtMDs",
+            "title": "Former White House counsel Don McGahn a no-show at House Judiciary Committee hearing",
+            "secondDuration": 1546,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

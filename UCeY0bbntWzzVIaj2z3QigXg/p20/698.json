@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FxouwBKSZVk",
-            "title": "Live: L.A. Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
-            "secondDuration": 3178,
-            "group": "group_7"
-        },
-        {
             "videoId": "0yFw01pv84k",
             "title": "Students Adapt To New Graduation Ceremonies Amid COVID-19 Pandemic | NBC News NOW",
             "secondDuration": 177,
@@ -121,8 +115,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2668,
             "group": "group_7"
+        },
+        {
+            "videoId": "XW3nL6Or3qU",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 4145,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

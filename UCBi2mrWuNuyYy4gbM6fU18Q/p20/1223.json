@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RjA9fpzwl3M",
-            "title": "Trump uses immigration reversal to rally his base",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZEnTChybDCQ",
             "title": "Reaction to Trump's order ending family separations",
             "secondDuration": 193,
@@ -121,8 +115,14 @@
             "title": "NBA player Sterling Brown files federal civil rights lawsuit over stun-gun arrest",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "6oHvxRb6bN0",
+            "title": "Technical glitch with American Airlines causes headaches for travelers",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

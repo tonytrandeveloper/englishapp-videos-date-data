@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PGaOBuYGixo",
-            "title": "Facebook Battling Fake Profiles | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "-EgqyA53k7k",
             "title": "Facebook Experiences Biggest Loss In Stock Market History | NBC Nightly News",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Slams Secret Michael Cohen Recording As ‘So Sad’ | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BkcVJeOAdY",
+            "title": "Mike Pompeo Defends President Donald Trump’s Foreign Policy On Capitol Hill | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

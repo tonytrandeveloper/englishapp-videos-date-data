@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qmBMio4zsps",
-            "title": "Orlando Nightclub Massacre Survivors, Heroes Describe Terror",
-            "secondDuration": 350,
-            "group": "group_7"
-        },
-        {
             "videoId": "wCtDuXVrJlA",
             "title": "Omar Mateen, Police Standoff | New Details Released",
             "secondDuration": 225,
@@ -61,8 +55,14 @@
             "title": "Muhammad Ali: In a Minute | ABC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "KLCTqZEobT0",
+            "title": "Lightning Round with Nick Cannon | ABC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

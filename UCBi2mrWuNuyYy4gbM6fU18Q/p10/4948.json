@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NiF2DrWjwxo",
-            "title": "Whales Invade California's Monterey Bay",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "RmZlkGqBeNA",
             "title": "Black Friday Frenzy Turns Violent",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Shooting in Kohl's Parking Lot Leaves Officer Injured",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "NjPDnD3ASEI",
+            "title": "Lung Transplant Recipient's Quest to Know Donor",
+            "secondDuration": 443,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

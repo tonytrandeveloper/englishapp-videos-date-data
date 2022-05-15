@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QhtOOKZgoPc",
-            "title": "Inside the life of international superstar DJ Tiesto",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "cDCy7BEWvkM",
             "title": "Police release bodycam video capturing woman's violent beach arrest",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Top North Korea official travels to US",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "AiEzDHZxDT4",
+            "title": "Actor demands CNN retraction over sexual misconduct story",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

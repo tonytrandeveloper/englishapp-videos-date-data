@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HVh35LIBd_c",
-            "title": "Powerful nor’easter slams the East Coast l ABC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "nP7mdZVnWmU",
             "title": "US ambassador to EU to testify in impeachment inquiry l ABC News",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "‘They’re not angels’: Trump defends decision to abandon the Kurds",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "VOEuNCj3JAg",
+            "title": "2020 candidate Joe Biden attends town hall in Davenport, Iowa | ABC News",
+            "secondDuration": 2543,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

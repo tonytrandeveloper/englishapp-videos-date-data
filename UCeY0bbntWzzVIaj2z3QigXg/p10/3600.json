@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5Y2vsuVCvxg",
-            "title": "Russians Push Deeper Into Ukraine | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "S44KA6y5uBg",
             "title": "Brokaw Details Interview With Gorbachev | Flashback | NBC News",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "U.S. Strikes Somalia, Terror Threats Mount | NBC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "ekLPGyerYd0",
+            "title": "Obama: Russia Paying For Its Actions | NBC News",
+            "secondDuration": 39,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

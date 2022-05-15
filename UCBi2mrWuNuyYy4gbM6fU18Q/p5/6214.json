@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9Sg9GOdWq2g",
-            "title": "Trump Arrives at Presidential Inauguration",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "E1Yv28_wqxc",
             "title": "Trump Inauguration | President Obama Greeted With Applause at Inauguration",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Trump Inauguration | Protesters Blocking Passage to Celebration",
             "secondDuration": 748,
             "group": "group_7"
+        },
+        {
+            "videoId": "0xwKQ8XTWWk",
+            "title": "Hillary Clinton Arrives at Trump Inauguration",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

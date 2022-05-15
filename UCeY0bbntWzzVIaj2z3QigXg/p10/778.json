@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wbMGYEPwFoQ",
-            "title": "NBC News NOW Full Broadcast - April 15th, 2021 | NBC News NOW",
-            "secondDuration": 3082,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Nldn93P4Ds",
             "title": "Cortez Reintroduces Postal Banking, Shares Positives It Could Have On Americans | NBC News NOW",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Biden Signs Executive Order Addressing ‘Harmful Actions’ Russia Has Taken Against U.S. | NBC News",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vv4yfkI9so",
+            "title": "Rep. Jordan Clashes With Dr. Fauci On Covid Restrictions: When Do Americans Get Their Freedom Back?",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

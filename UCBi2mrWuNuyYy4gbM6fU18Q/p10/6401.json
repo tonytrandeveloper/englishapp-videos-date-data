@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r6Duobqei1Q",
-            "title": "The Conversation: On Board the Intl. Space Station",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "6Uof42A3N5g",
             "title": "Top Line: Supreme Court Battle",
             "secondDuration": 359,
@@ -61,8 +55,14 @@
             "title": "Supreme Court Vacancy",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "f1awUpOUypU",
+            "title": "Death Valley: A Land of Extremes",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

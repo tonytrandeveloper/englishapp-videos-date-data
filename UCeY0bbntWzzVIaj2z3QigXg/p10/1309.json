@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tS0alYvQ2-4",
-            "title": "Texas Renters Left Scrambling After Statewide Eviction Ends | NBC News NOW",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQv-rCQPwEI",
             "title": "Soldier Accused Of Giving Classified Info To White Supremacist Group | NBC News NOW",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "LAX Implements Thermal Screening To Scan Passengers For Coronavirus Symptoms | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Vh-rwfTZpQ",
+            "title": "Black Youth Suicide Attempt Rate Increasing At Alarming Rate | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

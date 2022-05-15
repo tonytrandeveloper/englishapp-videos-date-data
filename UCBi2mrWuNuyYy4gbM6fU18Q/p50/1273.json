@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "2yO5_qNU5ZM",
-            "title": "Amplified: David Cross and Indie Rock",
-            "secondDuration": 374,
-            "group": "group_7"
-        },
-        {
             "videoId": "d1pNO9OM2MA",
             "title": "Amplified: David Cross Defends 'Chipmunks'",
             "secondDuration": 519,
@@ -301,8 +295,14 @@
             "title": "Food Fiasco: What's in That Meal",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "YAxIe0xN8cc",
+            "title": "Jesse James: 'I Lied to Everyone'",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

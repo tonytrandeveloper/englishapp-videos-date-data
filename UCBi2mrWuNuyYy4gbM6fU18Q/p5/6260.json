@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-CwC37QLHB0",
-            "title": "Golden Globes 2017 Highlights",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "qIlhRAhao1w",
             "title": "Fort Lauderdale Shooting Suspect Esteban Santiago to Appear in Court",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Donald Trump's Transition Team Gears Up for Senate Confirmation Hearings",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "koy-KasFhFM",
+            "title": "Obama on Vladimir Putin",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

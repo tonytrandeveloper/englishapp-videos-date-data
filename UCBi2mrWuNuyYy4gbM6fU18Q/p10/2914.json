@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7OH50_dnXW0",
-            "title": "Rare tornado rips through a Canadian town",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "QXSVveSoFHo",
             "title": "Security ramped up in Manchester for the Ariana Grande benefit concert",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Wild shootout leaves 1 dead in Texas",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouUE1xuPMIg",
+            "title": "'Wonder Woman' star Gal Gadot feels 'responsibility of' playing iconic character",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

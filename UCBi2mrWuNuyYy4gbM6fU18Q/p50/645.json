@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_a85PQ3LhUk",
-            "title": "Donald Trump: Waterboarding Views of Gen. Mattis 'Surprised' Him",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "il5YgNht2Zs",
             "title": "What It's Like Being US Government's Designated Survivor: Part 2 | ABC News",
             "secondDuration": 376,
@@ -301,8 +295,14 @@
             "title": "Exploding Package Injures 1 in Philadelphia",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "rtHONuTOlqo",
+            "title": "Chipotle Sued Over Calorie Count Claims",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

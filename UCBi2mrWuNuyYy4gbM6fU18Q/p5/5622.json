@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iDNlKtndW2U",
-            "title": "Steve Bannon resigns as President Donald Trump’s chief strategist: Special Report",
-            "secondDuration": 1957,
-            "group": "group_7"
-        },
-        {
             "videoId": "Youg90VIxQg",
             "title": "5 suspects killed after deadly Barcelona attack",
             "secondDuration": 253,
@@ -31,8 +25,14 @@
             "title": "Police in Spain this morning are scrambling to unravel widening terror plot",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "IbBRjA4yzhk",
+            "title": "Trump references inaccurate anecdote after Barcelona attack",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

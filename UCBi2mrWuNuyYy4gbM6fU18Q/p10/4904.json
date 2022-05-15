@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bK8d1efWUk8",
-            "title": "Chemical Spill Contaminates Water Supply",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "sM5gTM2_Sjg",
             "title": "In Case You Missed It: 1/10/2014",
             "secondDuration": 321,
@@ -61,8 +55,14 @@
             "title": "Inside Fukushima: Beyond the 'No Go' Zone",
             "secondDuration": 961,
             "group": "group_7"
+        },
+        {
+            "videoId": "t-hgP891iWA",
+            "title": "WEBCAST: \"Cosmic Dawn\"",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

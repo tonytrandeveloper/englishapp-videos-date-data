@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vcIYsUM65zU",
-            "title": "Hillary Clinton: Trump is Dividing the Country",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "8QXTIpC8Tc4",
             "title": "ESPY Awards | John Cena Monologue HIGHLIGHTS",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "Dwayne 'The Rock' Johnson on Whether He Would Run for President",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "ESxx_hpCigU",
+            "title": "Clinton's Lead Virtually Gone After Email Controversy",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

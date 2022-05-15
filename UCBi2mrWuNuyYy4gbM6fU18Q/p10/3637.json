@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ohfT4Qd4crg",
-            "title": "Deshauna Barber | From US Army Reserves to Miss USA",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "wmbu4raKrTw",
             "title": "Donald Trump on the Defense After Statements About Mexican-American Judge",
             "secondDuration": 194,
@@ -61,8 +55,14 @@
             "title": "Muhammad Ali | Best Moments, Trash Talk, and More",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "SlCUIlWe4fg",
+            "title": "Stanford Sexual Assault Case | Was 6 Month Sentence Too Light?",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

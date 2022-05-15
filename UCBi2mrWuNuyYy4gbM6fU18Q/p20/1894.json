@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MSvg6L8tAck",
-            "title": "A Final Farewell to 'American Idol'",
-            "secondDuration": 366,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vvh7aslmCko",
             "title": "'Rogue One: A Star War Story' First Teaser Trailer Debuts",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Apple Encryption Battle | FBI Director Defends Hacking 'Narrow Slice' of  iPhones",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "twMrpJa95jU",
+            "title": "Woman Secretly Records Her Doctors Insulting Her During Surgery",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

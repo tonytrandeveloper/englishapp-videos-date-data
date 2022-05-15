@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LZ5Xb7AdJBI",
-            "title": "Human Trafficking Survivors Share Their Stories",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "15V3frL2GqQ",
             "title": "What To Do If You Get An Eviction Notice",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "Americans Celebrate Christmas in July",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "U0rqD_92Fc8",
+            "title": "CDC Report Shows rising Breakthrough Infections",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

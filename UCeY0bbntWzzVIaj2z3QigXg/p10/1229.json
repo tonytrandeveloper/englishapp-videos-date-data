@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hQXxbdBKsPA",
-            "title": "Melbourne Emerges From COVID-19 Curfew With Warning Of Worse To Come | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "so4YKbmV00o",
             "title": "Protesters Return To U.S. Courthouse In Portland | NBC News NOW",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Fast-Moving Wildfire Hits Southern California Amid Coronavirus Crisis | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGBeiAWSE2s",
+            "title": "Trump Escalates Attacks Over Election Integrity As Polls Show Him Losing | Meet The Press",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

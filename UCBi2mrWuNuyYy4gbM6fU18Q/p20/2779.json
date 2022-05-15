@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5mEbeKDzZQ0",
-            "title": "'World News' Instant Index: Pilot's Odd Request; Google's 'Willy Wonka' HQ",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "IEbjuBoJAzY",
             "title": "Federal Reserve Bomb Plot: Man Arrested in Alleged Federal Reserve Bomb Plot",
             "secondDuration": 153,
@@ -121,8 +115,14 @@
             "title": "Obama, Romney: Analyze This",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "LxkLe8qM3Dw",
+            "title": "Second Presidential Debate 2012: Romney Blames Outsourcing on Regulations, Goes After China",
+            "secondDuration": 485,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

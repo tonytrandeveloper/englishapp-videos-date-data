@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8DEZ4Kmygwk",
-            "title": "Nancy Pelosi Blames James Comey Letter For Hillary Clinton's Loss | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "JCOXaxN_haI",
             "title": "National Intelligence Director James Clapper Announces Resignation At House Hearing | NBC News",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "Aleppo Children’s Hospital Hit In Airstrikes | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "GgbWSuUDgso",
+            "title": "How To Protect Yourself From Surprise Medical Bills After Emergencies | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

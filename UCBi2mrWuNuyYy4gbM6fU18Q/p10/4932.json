@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pYtrjK3f8Uo",
-            "title": "Winter Storm Alert: Cold Temperatures and Heavy Snowfall",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "6gRsfgwZmpw",
             "title": "Family of Fallen Solider Gets a New Home",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Secret to Scoring Big Holiday Shopping Deals Revealed",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "P2DBnarbzrA",
+            "title": "Revenge Porn Site Creator Could Face Prison",
+            "secondDuration": 442,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

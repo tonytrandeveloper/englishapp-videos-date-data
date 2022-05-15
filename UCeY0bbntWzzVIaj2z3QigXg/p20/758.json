@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Y1Sfvggxq0k",
-            "title": "Florida Gov. DeSantis Gives Update On Coronavirus | NBC News (Live Stream Recording)",
-            "secondDuration": 1659,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ZRQvskAJwM",
             "title": "Illinois Gov. Pritzker Gives Update On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 1906,
@@ -121,8 +115,14 @@
             "title": "Pandemic Diaries: People Share What Their New Normal Is Like | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "tEP_RkTdivI",
+            "title": "Illinois Governor Expected To Announce Stay-At-Home Order | NBC News (Live Stream Recording)",
+            "secondDuration": 3163,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

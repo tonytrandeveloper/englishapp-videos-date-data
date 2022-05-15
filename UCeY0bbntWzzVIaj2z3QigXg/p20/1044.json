@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-UPTY5frufk",
-            "title": "Financial Hardships Force Growing Number Of Farmers To Give Up Family Business | Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MhJJ4VZRMXE",
             "title": "Growing Number Of Dollar Stores Sparks Concerns Over Lack Of Access To Healthy Foods | Nightly News",
             "secondDuration": 123,
@@ -121,8 +115,14 @@
             "title": "SpaceX Successfully Launches Crew Dragon On First Test Flight | Mach | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wo034ta0qtw",
+            "title": "Hacking Your DNA: The Big Business — And Risk — Of Home Tests | Think | NBC News",
+            "secondDuration": 672,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

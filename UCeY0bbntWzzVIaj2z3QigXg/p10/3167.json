@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ey57WJDRfJE",
-            "title": "Navy SEAL, American Girl Killed In Raid: 'Almost Everything Went Wrong' | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "C0GpT0XEs18",
             "title": "Boy Scouts Of America Now Accepts Transgender Children | NBC Nightly News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Conservative Town Stands Behind President Donald Trump And Immigration Ban | NBC News",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "a8zPVHQYJWA",
+            "title": "House And Senate Democrats Rally Against Immigration Order | NBC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LoDcL0XyZ_A",
-            "title": "Trump Says Next Week Will Be The Worst Yet: ‘There Will Be A Lot Of Death’ | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "-tHE5Y_Yv9g",
             "title": "U.S. Death Toll Tops 8,000 As States Frustrated With Testing And Supplies | NBC Nightly News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "CDC Recommends Americans Wear Non-Medical Cloth Masks As U.S. Coronavirus Cases Top 270,000",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LY0qJUN0oU",
+            "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

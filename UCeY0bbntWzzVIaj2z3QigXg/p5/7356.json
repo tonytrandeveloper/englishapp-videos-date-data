@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-he_iJKnGWA",
-            "title": "Steven Tyler Answers your Questions",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "-8JdCCUrKGQ",
             "title": "Ryan Widmer speaks from prison",
             "secondDuration": 8,
@@ -31,8 +25,14 @@
             "title": "MSNBC's Rachel Maddow: The Hoover Dam",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "gwJQ53NFcYA",
+            "title": "MSNBC's Lawrence O'Donnell: Human Need",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

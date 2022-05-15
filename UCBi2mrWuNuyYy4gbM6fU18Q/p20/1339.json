@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KIsKJq1tVVg",
-            "title": "Body camera captures Georgia cop saving infant in distress",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "XCdY6L0XMaE",
             "title": "Russia barred from participating in the 2018 Winter Olympics",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump delivers remarks at the Utah State Capitol",
             "secondDuration": 1989,
             "group": "group_7"
+        },
+        {
+            "videoId": "KoXt3i2094A",
+            "title": "U.S. student who accused Italian police officer of sexual assault speaks out",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

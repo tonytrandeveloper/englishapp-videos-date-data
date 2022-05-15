@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lfZaxpDatbs",
-            "title": "How to Make a Super Bowl Commercial",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWNiPLXddWA",
             "title": "Chris Christie on His Presidential Campaign in Iowa",
             "secondDuration": 201,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton's Campaign Faced With More Email Controversy",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "OaOpCxLYBks",
+            "title": "SAG 2016 Awards",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FYkzqvcCl_E",
-            "title": "Doritos Super Bowl Ad Competition Offers Winners $1M",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "RWRTpkgActo",
             "title": "Chris Christie Bridge Scandal: Email Links New Jersey Governor to Traffic Jam Plot",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "Inside Fukushima: Beyond the 'No Go' Zone",
             "secondDuration": 961,
             "group": "group_7"
+        },
+        {
+            "videoId": "t-hgP891iWA",
+            "title": "WEBCAST: \"Cosmic Dawn\"",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

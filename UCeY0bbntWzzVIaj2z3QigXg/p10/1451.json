@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cRMIQgLdfq8",
-            "title": "Veteran With Lung Cancer Shares Fears Of COVID-19: ‘If I Catch It…It Will Kill Me’ | NBC News NOW",
-            "secondDuration": 615,
-            "group": "group_7"
-        },
-        {
             "videoId": "-8FvNc7y9fM",
             "title": "Los Angeles Schools Have Served 10 Million Meals During Lockdown | NBC News NOW",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "NJ COVID-19 Patient Receives Joyous Welcome Home After Experimental Drug Success | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "QRhiEfkFLkI",
+            "title": "Clinical Trials Underway In Race For Coronavirus Vaccine | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

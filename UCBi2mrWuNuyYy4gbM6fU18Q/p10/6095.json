@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DKJGUGKdJ0I",
-            "title": "Woman Collapses During Rick Santorum Presidential Candidacy Announcement Speech (06.06.11)",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZFJ79fLTo7o",
             "title": "Frightening Video: Another Bounce House Takes Off in High Wind, Kids Hurt",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Operation Cupcake Keeps Us Safe From Al Qaeda",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "VZ3IPWqrUx8",
+            "title": "John Edwards Indicted",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

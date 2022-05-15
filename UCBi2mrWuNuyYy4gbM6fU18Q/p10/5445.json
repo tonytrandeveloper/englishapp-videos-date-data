@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E_I7sbuP0KA",
-            "title": "Chris Christie on Barbara Walters' 10 Most Fascinating People",
-            "secondDuration": 448,
-            "group": "group_7"
-        },
-        {
             "videoId": "oKnNsrfbk4s",
             "title": "Seth MacFarlane on Barbara Walters' 10 Most Fascinating People of 2012",
             "secondDuration": 414,
@@ -61,8 +55,14 @@
             "title": "'Call Your Girlfriend' Sisters Perform New Song: Lennon and Maisy Stella on 'GMA'",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpHAOvpoCSc",
+            "title": "12.12.12 Concert Recap: Mick Jagger, Bruce Springsteen, Kanye West, Alicia Keys Deliver",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

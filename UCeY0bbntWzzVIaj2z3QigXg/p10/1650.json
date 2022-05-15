@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0pY5FGKoJfc",
-            "title": "Pompeo: There May Be 'A Little Noise' From Iran In Response To Soleimani | Meet The Press | NBC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "1FoeX4yuXc8",
             "title": "After 2020 Census, Electoral Map May Tilt GOP | Meet The Press | NBC News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "How Deepfake Videos Are Made | NBC News NOW",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "rCa9KpKeZHY",
+            "title": "Increase Of Respiratory Virus Putting Babies In The Hospital Across The Country | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

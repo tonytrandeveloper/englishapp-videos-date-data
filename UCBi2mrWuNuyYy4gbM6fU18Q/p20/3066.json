@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-aYAwsG5oJw",
-            "title": "Sander Levin: 'I Want to Run Again'",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "-oihMK73zi0",
             "title": "'Semper Fi: Always Faithful' - A New Documentary",
             "secondDuration": 296,
@@ -121,8 +115,14 @@
             "title": "Postal Service admits the Lady Liberty stamp does not show the actual statue.",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "W_KiuNGxEMA",
+            "title": "Open Mic Catches President Obama on GOP",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

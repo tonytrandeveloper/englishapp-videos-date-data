@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bL67HV1pSN0",
-            "title": "Can I Catch Bird Flu? | 30 STK | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "QTnpvT0jZB4",
             "title": "The Cost of the Military's Hardware | 101 | NBC News",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "Is This ‘Little Pink Pill’ The Viagra For Women? | NBC Nightly News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "kZ_CX3ttgY0",
+            "title": "John Kasich Talks 2016 Race And The Death Penalty | Meet The Press | NBC News",
+            "secondDuration": 372,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

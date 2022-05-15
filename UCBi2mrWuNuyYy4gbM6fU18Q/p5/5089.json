@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qE1Z-aAfbcU",
-            "title": "Parkland student does not accept apology from Fox News anchor",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "1vcC8s-8dsA",
             "title": "Noor Salmon acquitted in Pulse nightclub massacre trial",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Fired Veterans Affairs Secretary speaks out",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "kDK41RYdskk",
+            "title": "Fox News anchor apologizes to Parkland student activist",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

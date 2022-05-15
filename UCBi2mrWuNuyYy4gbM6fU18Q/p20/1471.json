@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "H6VPud8W4S4",
-            "title": "Michigan high school hosts '13 Reasons Why Not' project",
-            "secondDuration": 440,
-            "group": "group_7"
-        },
-        {
             "videoId": "AF1DlCw1nDg",
             "title": "President Trump reveals he planned to fire Comey before DOJ recommendation",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "Teacher Tad Cummins' developing relationship with Tennessee teen | ABC News",
             "secondDuration": 425,
             "group": "group_7"
+        },
+        {
+            "videoId": "6hZ4fOJuJc4",
+            "title": "White House press briefing following termination of FBI Director James Comey",
+            "secondDuration": 1750,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NJXjwwNLYcE",
-            "title": "Biden Delivers Remarks On Health Care | NBC News",
-            "secondDuration": 2055,
-            "group": "group_7"
-        },
-        {
             "videoId": "D2vCLBi_89g",
             "title": "Trump Announces Plan To Provide Covid Vaccines To Nursing Homes At No Cost | NBC News NOW",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Trump Claims The Money He Owes Is A 'Tiny Percentage Of My Net Worth' | NBC News",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "txheuEb-ykU",
+            "title": "Trump Says If He And Nancy Pelosi Agree On Coronavirus Stimulus, Republicans Will Pass It | NBC News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

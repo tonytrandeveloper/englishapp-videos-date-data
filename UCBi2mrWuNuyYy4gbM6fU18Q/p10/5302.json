@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oIunu-7MD8c",
-            "title": "Bruce Feiler's Secrets to Keeping Your Family Happy",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lb-d_TS4OF0",
             "title": "Timothy Dolan, Sean O'Malley Considered as Successor to Pope Benedict",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Clive Davis Looks Back",
             "secondDuration": 394,
             "group": "group_7"
+        },
+        {
+            "videoId": "rgBxO1V7Jsk",
+            "title": "Clive Davis on Life and His Long Career",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

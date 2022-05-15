@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Sig7taltjhU",
-            "title": "Space Shuttle: A Brief History",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "WNTjqll0n7I",
             "title": "Casey Anthony's Lawyer Jose Baez Speaks",
             "secondDuration": 204,
@@ -121,8 +115,14 @@
             "title": "Casey Anthony Closing Arguments: Who Has the Edge? The Prosecution or Defense?",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "p-JSZ8n2mhY",
+            "title": "Tour Boat Capsizes Off Coast of Mexico: American Tourist Dead",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

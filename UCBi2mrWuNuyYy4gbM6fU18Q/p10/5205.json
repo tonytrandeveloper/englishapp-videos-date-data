@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a_B7nvLbRJU",
-            "title": "Rural Georgia Town Hosts First Integrated Prom",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "34iQR1bo33M",
             "title": "Russia Tracked Boston Marathon Bombing Suspects' Phone Calls",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Siblings Swim 14 Hours to Land After Shipwreck",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "VUUbyaQYxU4",
+            "title": "Do Guardian Angels Exist?",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

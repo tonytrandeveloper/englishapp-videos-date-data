@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NcwM6coJI4Q",
-            "title": "Bear Family Enjoys Lake Tahoe Outing",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDGVsqbcRvo",
             "title": "Obama on $400M Paid to Iran",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "Mike Pence Breaks With Trump, Endorses Paul Ryan",
             "secondDuration": 509,
             "group": "group_7"
+        },
+        {
+            "videoId": "e7Td4qbeCD8",
+            "title": "Summer Brunch Made Easy | ABC News",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

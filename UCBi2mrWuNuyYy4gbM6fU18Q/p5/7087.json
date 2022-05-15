@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qq_dE4AvZAM",
-            "title": "College Student Sleeping in Tent Gets Unexpected Help",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "mOl9q4Xj9Fs",
             "title": "Eric Garner's Family Demands Justice 2 Years After His Death",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Turkish Military Cause Chaos With Failed Coup Attempt",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEWcuWQCo-U",
+            "title": "Islamic State Claims Responsibility for Nice, France Attack",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

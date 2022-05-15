@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "flGmbqgXKAw",
-            "title": "Meet the Voice Behind the Catchphrase",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hnrstj825A4",
             "title": "Ten Minutes of Terror",
             "secondDuration": 444,
@@ -61,8 +55,14 @@
             "title": "Attack on Fort Hood: 13 Dead",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "_qHGaJqV4mg",
+            "title": "Attack at Fort Hood",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

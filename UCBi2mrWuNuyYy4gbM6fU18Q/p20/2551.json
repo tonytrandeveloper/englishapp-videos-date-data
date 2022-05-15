@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1Dgga2eU4D4",
-            "title": "A Royal Baby Boy Has Arrived",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "jmIaYlvnt7I",
             "title": "The British Empire Welcomes a New Baby Boy",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Detroit Mayor Dave Bing 'This Week' Interview on City's Bankruptcy",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qsn5tRENgek",
+            "title": "'This Town' Depicts Washington D.C. Insider Intrigue",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

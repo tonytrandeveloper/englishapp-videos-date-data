@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cJZwt2tNHq4",
-            "title": "Rick Perry on Family Values",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "TfOZl4s_nu0",
             "title": "Rick Santorum on His Political Track Record",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Rick Perry on the Economy",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "sxo2N8ijFV4",
+            "title": "'Mob Wives' Starts Second Season With a Bang",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

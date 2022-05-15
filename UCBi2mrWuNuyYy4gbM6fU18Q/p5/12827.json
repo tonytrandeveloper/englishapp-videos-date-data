@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2x2XJ9XFWcM",
-            "title": "'Energy Star' Fraud?",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "FKNq9Bi8F-Q",
             "title": "The Conversation: 'Birdemic: Shock and Terror'",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "Top Line: Don't Ask Don't Tell Bar Raised",
             "secondDuration": 572,
             "group": "group_7"
+        },
+        {
+            "videoId": "r15rBIfGXng",
+            "title": "Top Line: Health Care Incites Political Violence",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

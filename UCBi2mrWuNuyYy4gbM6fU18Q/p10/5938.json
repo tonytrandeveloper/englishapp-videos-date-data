@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NWzJ11WsFwk",
-            "title": "Mel Gibson's $450 Million Divorce: Biggest Payout in Hollywood History",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "y4BSJLWPbiI",
             "title": "Webcast: President Obama Approval; Drew Brees Leader",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Christmas Day Is About More Than Just Gifts",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "d8FHgIC-Rbk",
+            "title": "The Great 'GMA' Gingerbread Competition",
+            "secondDuration": 356,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

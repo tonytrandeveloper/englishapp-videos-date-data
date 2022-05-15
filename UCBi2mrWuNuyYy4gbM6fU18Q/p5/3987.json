@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IG7h1jKUVZE",
-            "title": "Pentagon to send 1,000 troops to Middle East",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "w1YLwdUmLKQ",
             "title": "Trump tweets ICE to deport millions, courthouse shooter killed, new evidence in oil tanker attacks",
             "secondDuration": 1272,
@@ -31,8 +25,14 @@
             "title": "Iran threatens to violate the 2015 nuclear deal due to US sanctions",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "72o1edMzQPQ",
+            "title": "Arizona couple at center of viral video won't accept police chief's apology",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

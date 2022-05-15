@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NI8iaofDKv4",
-            "title": "Two Women on a Mission to Help Foster Children",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "W-yZ1ZUikm4",
             "title": "Did Burger King Defect to Canada to Save Tax Money",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Pentagon Weighing Options in Syria",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "VxJTHXd-0vA",
+            "title": "SKINNY: Primetime Emmy Awards",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

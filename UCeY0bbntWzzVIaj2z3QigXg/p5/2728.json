@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Jnl050XMLow",
-            "title": "Live: President Donald Trump Holds News Conference | NBC News",
-            "secondDuration": 914,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rb97Gpq8t0g",
             "title": "Prosecutor Announces Murder Charges In Death Of George Floyd | NBC News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Into Delivering an Election | Into America Podcast – Ep. 19 | NBC News and MSNBC",
             "secondDuration": 1554,
             "group": "group_7"
+        },
+        {
+            "videoId": "cs4VjEsigiU",
+            "title": "Live: Minnesota Governor Holds Press Conference On George Floyd Protests | NBC News",
+            "secondDuration": 3758,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

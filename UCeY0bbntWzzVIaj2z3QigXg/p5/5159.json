@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-UtMp1phfqY",
-            "title": "Algerian Military Plane Crash Kills 257 | NBC Nightly News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "snDGFwvLVm8",
             "title": "Facebook CEO Mark Zuckerberg Testifies Before House Committee | NBC News",
             "secondDuration": 19187,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan Announces January Retirement: ‘I Will Be Setting New Priorities In My Life’ | NBC News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "kmgx1kaaFo8",
+            "title": "Is Facebook’s Future Hanging In The Balance? | Mach | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

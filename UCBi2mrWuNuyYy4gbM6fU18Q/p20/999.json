@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lWTlFRdbOuU",
-            "title": "New developments in the murder of Arkansas state senator",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2J1c9pr9K8",
             "title": "A preview of ABC News' exclusive one-on-one interview with Trump",
             "secondDuration": 207,
@@ -121,8 +115,14 @@
             "title": "'President Trump - 30 Hours' - The ABC News Exclusive Event -  Sunday at 8/7c on ABC",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "aUmn2j5Tmgw",
+            "title": "One-on-one with 2020 Democratic presidential candidate Steve Bullock",
+            "secondDuration": 362,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

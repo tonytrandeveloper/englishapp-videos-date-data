@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VzWcXu3DkNA",
-            "title": "Road Drones: Self Driving Trucks Cross Europe | 101 | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "kBjAdi3v9jg",
             "title": "Hillary Clinton Takes A Ride On The NYC Subway | NBC News",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "New No-Surgery Weight Loss Procedure Shows Promise, Study Shows | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "NGsiH-GRVEY",
+            "title": "Mississippi Governor Signs Law Allowing Denial of Service to LGBT | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

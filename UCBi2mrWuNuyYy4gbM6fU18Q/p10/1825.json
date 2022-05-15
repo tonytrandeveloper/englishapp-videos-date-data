@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "A07qECgphTY",
-            "title": "Pelosi says Trump ‘scared’ of impeachment inquiry l ABC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "03MkN0Nql2c",
             "title": "Pelosi talks next moves in impeachment process l ABC News",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Police release body camera video in controversial horseback arrest",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "yymEH_bKkv0",
+            "title": "Ex-police officer Amber Guyger sentenced to 10 years in prison",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

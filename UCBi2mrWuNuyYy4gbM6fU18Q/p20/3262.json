@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Dona2JkT9Tw",
-            "title": "Caught on Tape: Tackle Stops Suicide",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "GKNuCYAZ95k",
             "title": "Granny Globetrotters Play Ball",
             "secondDuration": 52,
@@ -121,8 +115,14 @@
             "title": "Rihanna Opens Up to Diane Sawyer",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "DL_dmN2Ck10",
+            "title": "Juju Juggles Halloween",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

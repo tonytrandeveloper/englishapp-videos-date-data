@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RJGNmHXrBFw",
-            "title": "Random Animal Facts",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "hDaIEi2nViA",
             "title": "Another Bank Reports Huge Profits",
             "secondDuration": 124,
@@ -121,8 +115,14 @@
             "title": "Gunned Down",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "aKLZoifX3ds",
+            "title": "Could an Injection Help You Shed Pounds?",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

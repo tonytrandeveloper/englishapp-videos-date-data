@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-WLmVAHOTM8",
-            "title": "Cruise Ship Rocked by Storm, Damaged by Huge Waves and Wind Gusts More Than 100 MPH",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "phkPC9NOzwI",
             "title": "SUPER BOWL Highlights and Halftime Show | News Cycle",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Chris Christie Addresses Debate Confrontation With Marco Rubio",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "yVGTu0760gI",
+            "title": "SUPER BOWL HALFTIME SHOW | Beyonce, Coldplay, Bruno Mars Rock Super Bowl 50",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

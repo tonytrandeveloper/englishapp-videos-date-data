@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MQOjEHZmDGY",
-            "title": "BREAKING VIDEO: Hostage Crisis Involving Paris Shooting Suspects",
-            "secondDuration": 537,
-            "group": "group_7"
-        },
-        {
             "videoId": "LUr-gEKZfK0",
             "title": "In Case You Missed It: 01-09-2015",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "FRIDAY FUNNIES",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "hYliGtFmKeg",
+            "title": "Woman Gives Birth Unexpectedly",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

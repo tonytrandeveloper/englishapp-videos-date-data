@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XdiPAS1kTQ8",
-            "title": "Eddie Redmayne, Julianne Moore Win Big at 2015 OSCARS",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "n3hWsTGh6f8",
             "title": "Lady Gaga's Oscar Performance: The Sound of Music",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "Inside NYC's Most Expensive Apartment",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "RLbTbtfv3Ns",
+            "title": "Dubai's Torch Tower Consumed by Flames",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

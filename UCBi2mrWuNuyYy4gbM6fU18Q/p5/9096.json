@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t4JZsHi4tFw",
-            "title": "Bill Cosby Insists the Show Must Go On",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "sn2Y2Q7J-qM",
             "title": "FSU Gunman Sent Out Packages Before Going on Shooting Rampage",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Thousands of Personal Webcams Hacked, Images Published Online",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtfX4hnED4A",
+            "title": "Inside Look at Most Expensive Home in America",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "y-3Pl-KBdK8",
-            "title": "This Morning’s Top Headlines – August 5 | Morning News NOW",
-            "secondDuration": 1232,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vq5_3-xOx5s",
             "title": "Inside scoop: Ice Cream Demand Surges Summer After Covid Pandemic",
             "secondDuration": 176,
@@ -301,8 +295,14 @@
             "title": "U.S. Reaches 70 Percent Covid Vaccine Goal As Cases Continue To Rise",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpG4CaCwdjc",
+            "title": "How Stress Impacts Olympic Athletes’ Performances",
+            "secondDuration": 265,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

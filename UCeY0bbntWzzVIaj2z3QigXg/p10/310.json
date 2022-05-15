@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jClBHTOe5yM",
-            "title": "Speaker Pelosi Holds Weekly Briefing On Capitol Hill | NBC News",
-            "secondDuration": 1370,
-            "group": "group_7"
-        },
-        {
             "videoId": "G9sw6ZJ7azY",
             "title": "Morning News NOW Full Broadcast - Dec. 8",
             "secondDuration": 3100,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas – Dec. 7 | NBC News NOW",
             "secondDuration": 3020,
             "group": "group_7"
+        },
+        {
+            "videoId": "3ezWYb9Qarc",
+            "title": "Nightly News Full Broadcast - Dec. 7",
+            "secondDuration": 1260,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

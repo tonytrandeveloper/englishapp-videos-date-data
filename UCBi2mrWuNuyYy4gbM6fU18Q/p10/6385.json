@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5nynjd8Xa5k",
-            "title": "Car Bomb Found in Times Square",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "TkapmEI8RMo",
             "title": "Interview with Napolitano, Salazar and Allen",
             "secondDuration": 499,
@@ -61,8 +55,14 @@
             "title": "Cardin on Offshore Drilling 'Look What Happened'",
             "secondDuration": 540,
             "group": "group_7"
+        },
+        {
+            "videoId": "luiIG0ZSn4Q",
+            "title": "The Conversation: Todd Boyd on the L.A. Riots",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

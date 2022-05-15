@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gLCE2pi8ShM",
-            "title": "Trump and allies accused of blocking 20 investigations and 79 requests for documents",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "bIYH_-ACbrQ",
             "title": "Rising NFL star reading a letter to his mom",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "A car chase between police and an accused murderer ended in a shootout in Los Angeles",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "BmRHtRTQ5Co",
+            "title": "A victim who was killed in a deadly campus shooting was given an honorary degree",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

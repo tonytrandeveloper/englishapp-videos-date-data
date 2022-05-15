@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DNq03tZ7J38",
-            "title": "North Korea threatens US over new sanctions",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cnhri8_3sMw",
             "title": "Severe summer storms: Flash flooding and monster winds affecting millions",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Authorities call off search for 3 missing Marines",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "z-9tc7AGmLE",
+            "title": "10 people taken to hospitals after severe turbulence on flight into Philadelphia",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

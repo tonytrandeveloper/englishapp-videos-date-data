@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fh8snVtmCYA",
-            "title": "Live: Trump Participates In Memorial Day Tribute Events | NBC News",
-            "secondDuration": 2053,
-            "group": "group_7"
-        },
-        {
             "videoId": "3of6dYLopZw",
             "title": "Bars, Gyms Open As Europe Further Emerges From Coronavirus Lockdown | NBC News",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Nearly 39 Million Americans File For Unemployment During Pandemic | NBC News NOW",
             "secondDuration": 960,
             "group": "group_7"
+        },
+        {
+            "videoId": "UWBR-cdCbHI",
+            "title": "TSA Rolls Out New Safety Protocols at Airports | NBC Nightly News",
+            "secondDuration": 636,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

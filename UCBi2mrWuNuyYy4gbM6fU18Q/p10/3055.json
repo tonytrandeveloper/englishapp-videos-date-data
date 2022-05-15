@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0zbe2ymU3vQ",
-            "title": "Plane makes emergency landing after hitting deer",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "_pxhWmIGk4o",
             "title": "Fox News criminal investigation conducted by US attorney",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "Russian spy ship 30 miles from US Navy sub base",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "K81ej0KTVQs",
+            "title": "Trump Secretary of Labor pick Andrew Puzder Withdraws Nomination",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ewj4oBPuJ9g",
-            "title": "Hallie Jackson NOW - Feb. 17 | NBC News NOW",
-            "secondDuration": 2243,
-            "group": "group_7"
-        },
-        {
             "videoId": "QPn_IgXcBas",
             "title": "Judge Rules Trump, Children Must Sit For Deposition In Civil Case Involving Business Practices",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "Watch: State Trooper's Lucky Escape During Traffic Stop Collision",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "cMa9B74Mtj8",
+            "title": "Texas Files Lawsuit Against Biden Administration Over Transportation Mask Mandate",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

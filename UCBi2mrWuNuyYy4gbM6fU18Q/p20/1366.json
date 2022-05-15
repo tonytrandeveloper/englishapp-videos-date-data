@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZSk7rLq6JMg",
-            "title": "Harvey Weinstein resigns from the Weinstein Co.",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "ODRB9TuaAq8",
             "title": "Major milestone in war against ISIS",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "'Star Wars: Jedi Challenges' demo: Play testing the new augmented reality 'Star Wars' game",
             "secondDuration": 988,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBI4qDnpW3U",
+            "title": "President Donald Trump, Sen. Mitch McConnell deliver statement from the Rose Garden",
+            "secondDuration": 3360,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

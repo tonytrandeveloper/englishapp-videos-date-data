@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6PKoF4GqFBA",
-            "title": "The Coronavirus Pandemic's Impact On Pollution And Climate Change | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "uIhRM9pnH40",
             "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3874,
@@ -31,8 +25,14 @@
             "title": "Coronavirus Global Hangout: #Nurses On The #Coronavirus Frontlines | NBC News",
             "secondDuration": 1166,
             "group": "group_7"
+        },
+        {
+            "videoId": "_mR0fdluqU4",
+            "title": "Coronavirus Questions Answered On Death Toll Estimates | NBC News NOW",
+            "secondDuration": 669,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

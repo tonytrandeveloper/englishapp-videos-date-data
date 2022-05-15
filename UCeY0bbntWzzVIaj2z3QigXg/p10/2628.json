@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jJJljSNiAgY",
-            "title": "‘A Wrinkle In Time’ Aims To Break Boundaries And Inspire | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hd1FNogWn1E",
             "title": "High Ambulance Costs Surprise Families In Times Of Need | NBC Nightly News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "White House: No Meeting With North Korea Until We See ‘Concrete Actions’ | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "c7mN9uOA2j0",
+            "title": "Charges Announced In Deadly Birmingham Classroom Shooting | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

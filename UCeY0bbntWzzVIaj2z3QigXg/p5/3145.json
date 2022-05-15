@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0BuEV2IzkWA",
-            "title": "Full Panel: Democratic Establishment Fears Sanders Nomination | Meet The Press | NBC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "i5rowPYyALw",
             "title": "Trump Congratulates Bernie Sanders On Nevada Win, Thinks He Will Be Democratic Nominee | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Watch Amy Klobuchar’s Full Speech After Nevada Caucus Defeat | NBC Nightly News",
             "secondDuration": 946,
             "group": "group_7"
+        },
+        {
+            "videoId": "ntAADlCprSE",
+            "title": "Watch Pete Buttigieg’s Full Speech After Nevada Caucus Loss | NBC Nightly News",
+            "secondDuration": 1073,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

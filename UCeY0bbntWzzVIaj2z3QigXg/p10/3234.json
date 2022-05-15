@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bVxqHjRQiLo",
-            "title": "LeBron James: I Once Thought African American Vote 'Didn’t Matter, But It Really Does’ | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nvnmmw986WU",
             "title": "Janet Reno, First Woman To Serve As US Attorney General, Dies | NBC News",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Ballot Typo Leaves Hillary Clinton With ‘Liar’ In Her Name | NBC news",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nn6ficYg0ac",
+            "title": "Life Of An Election Ballot | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

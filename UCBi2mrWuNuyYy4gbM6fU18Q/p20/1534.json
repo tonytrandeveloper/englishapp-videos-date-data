@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3zbTroelhzU",
-            "title": "Merriam-Webster Expands its Vocabulary",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "X5HtMwByCd0",
             "title": "Obese Crash Test Dummies",
             "secondDuration": 365,
@@ -121,8 +115,14 @@
             "title": "Oscar Nominees Luncheon Backstage",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "FUheGtXV4Ng",
+            "title": "Full: White House Press Briefing with Sean Spicer Today (2/7/2017) | ABC News",
+            "secondDuration": 2184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

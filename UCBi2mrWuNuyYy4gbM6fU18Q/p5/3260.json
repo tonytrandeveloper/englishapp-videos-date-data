@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "10HNtL0rhRE",
-            "title": "‘We need to have race-conscious laws’: Warren | ABC News",
-            "secondDuration": 650,
-            "group": "group_7"
-        },
-        {
             "videoId": "aQR1-J3lyq8",
             "title": "Biden confronted with Supreme Court litmus test comments | ABC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Candidates discuss gun policy | ABC News",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "1TlKNGiN52E",
+            "title": "Democratic candidates discuss decriminalization of drugs | ABC News",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

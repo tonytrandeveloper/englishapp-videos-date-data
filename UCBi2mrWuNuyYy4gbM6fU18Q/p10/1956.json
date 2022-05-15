@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6AD5tWM8tpg",
-            "title": "Conditions deteriorating quickly as storm bears down on Gulf",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "KYvDXqF0ozo",
             "title": "Explore the historic South West Coast Path through Cornwall, England | ABC News",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Amazon Prime Day: How to spot fake deals",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "uLGXdweh5KE",
+            "title": "Across the Pond: Sudan's ruling military council says they've stopped a military coup",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

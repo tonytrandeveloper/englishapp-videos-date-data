@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pIp4bacLj0g",
-            "title": "Officers caught on bodycam deciding driver's fate with a coin flip",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "U5nrGfnrVsI",
             "title": "\"The Briefing Room': DOJ indictments, Trump visits UK, Londoners protest  | ABC News",
             "secondDuration": 1101,
@@ -31,8 +25,14 @@
             "title": "Trump meets with Queen Elizabeth as indictments come in Mueller probe: Special Report",
             "secondDuration": 1643,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2-5tUaMmtc",
+            "title": "ABC News Live: Trump in the UK, latest on Thailand cave rescue",
+            "secondDuration": 1268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

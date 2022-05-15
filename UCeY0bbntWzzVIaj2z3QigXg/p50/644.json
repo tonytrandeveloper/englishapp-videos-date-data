@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "RRy1cwwP1W0",
-            "title": "Donald Trump Pushes Baseless Claim That ‘Millions’ Voted Illegally | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "XvOBb11mR00",
             "title": "Cyber Monday: How To Keep Porch Pirates From Pilfering Your Packages | NBC Nightly News",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "President Obama Gives Advice To Democratic Party, His Views On Nancy Pelosi, More | NBC News",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "tuxBiTwHNhU",
+            "title": "Jeff Sessions’ 1986 Confirmation Hearing | Flashback | NBC News",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

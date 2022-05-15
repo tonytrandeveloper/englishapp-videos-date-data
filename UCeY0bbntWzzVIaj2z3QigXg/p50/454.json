@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "tjGZ-r4-kWU",
-            "title": "Neighbor Remembers Past Incident With California Shooter | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "diNHEBYRKDM",
             "title": "Watch Live: Multiple People Killed After Shooting At California Bar | NBC News",
             "secondDuration": 7776,
@@ -301,8 +295,14 @@
             "title": "Midterms 2018: Voters Battle Long Lines And Malfunctioning Machines | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "85Kal3j5ktM",
+            "title": "Energized Voters Hit The Polls For What Could Be Record Midterm Turnout | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

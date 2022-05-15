@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fAItPKtilMs",
-            "title": "California's High Court Upholds Prop 8",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "mZWOwBWj58o",
             "title": "'The Iron Nun'",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Quick Fix: Juju Juggles Mad at Dad",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "qw70rU1N3pg",
+            "title": "Chrysler Fire Sale",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

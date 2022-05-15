@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3oxfAlKjoSw",
-            "title": "'1969': Hugh Brown, a communications specialist with NASA during Apollo 11",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "yFCEGWKlnyw",
             "title": "Briefing Room: SCOTUS census & LGBT employment discrimination cases, Sen. Warren College debt plan",
             "secondDuration": 1724,
@@ -61,8 +55,14 @@
             "title": "'1969': NASA engineers recall the historic Apollo 11 moon landing",
             "secondDuration": 452,
             "group": "group_7"
+        },
+        {
+            "videoId": "510gcPbkQEU",
+            "title": "4 Americans killed in Sri Lanka attack",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

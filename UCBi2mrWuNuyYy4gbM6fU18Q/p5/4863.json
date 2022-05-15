@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NEIkNZvDFnU",
-            "title": "Alleged newsroom shooter sued Capital Gazette for defamation",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Ma6GEm0j3Y",
             "title": "Rescue effort to save soccer team trapped in cave",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Victims in newspaper shooting include veteran journalists",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCrWhGoaCPE",
+            "title": "Witness describes deadly Maryland newspaper shooting",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

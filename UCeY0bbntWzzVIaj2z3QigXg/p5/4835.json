@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ILR_pm8zg50",
-            "title": "Way Too Early: The 2020 Election - Midterm Special | NBC News",
-            "secondDuration": 1853,
-            "group": "group_7"
-        },
-        {
             "videoId": "tcEBg64fY0k",
             "title": "MSNBC Live: U.S. Attorney Announces Charges Against Rep. Chris Collins | NBC News",
             "secondDuration": 1601,
@@ -31,8 +25,14 @@
             "title": "Missing Iowa Student’s Family Makes Emotional Plea For Her Return | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "PZFHd8Q69rQ",
+            "title": "Rick Gates, Testifying In Paul Manafort Trial, Admits To Affair, London Apartment | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

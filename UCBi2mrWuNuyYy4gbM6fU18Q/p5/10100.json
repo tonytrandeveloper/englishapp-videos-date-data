@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u_zsG2iYG9k",
-            "title": "Tebow Takes a Knee: The Rise and Fall of Football's Wunderkind",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xqu48HOxrcA",
             "title": "'This Week': Crisis in Syria",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "The Syrian Threat: 'This Week' Panel",
             "secondDuration": 549,
             "group": "group_7"
+        },
+        {
+            "videoId": "JVIeYm-PCl0",
+            "title": "President Obama's Syria Strike Plan: 'This Week' Panel",
+            "secondDuration": 408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

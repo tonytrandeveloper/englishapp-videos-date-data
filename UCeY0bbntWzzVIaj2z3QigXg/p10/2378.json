@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "inlPbXRZYCc",
-            "title": "Former President Barack Obama Speaks After Receiving Ethics Award | NBC News",
-            "secondDuration": 7919,
-            "group": "group_7"
-        },
-        {
             "videoId": "J3FcqD12tyg",
             "title": "‘Brazil’s Donald Trump’ Is Stabbed During Campaign Event | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Northern California ‘Delta Fire’ Triples In Size Overnight | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "D7EefvitaU4",
+            "title": "Two Flights Land In Philadelphia With Multiple Sick Passengers | NBC Nightly News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

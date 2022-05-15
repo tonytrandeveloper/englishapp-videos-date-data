@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UPBHe1Ga4S8",
-            "title": "Florida Governor Signs Controversial Voting Bill | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "1esOJ8tJCcg",
             "title": "Baby Camel Makes Her Debut At European Zoo | Nightly News: Kids Edition",
             "secondDuration": 1130,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On The American Jobs Plan | NBC News",
             "secondDuration": 1795,
             "group": "group_7"
+        },
+        {
+            "videoId": "PlGIhHANclM",
+            "title": "Secret Service Drove Trump Around In Protective Gear During Covid Diagnosis | NBC News NOW",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

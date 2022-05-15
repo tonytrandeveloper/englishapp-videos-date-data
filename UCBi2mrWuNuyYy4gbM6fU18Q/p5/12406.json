@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DLGL-H7QmMk",
-            "title": "Nicole Kidman Talks \"Rabbit Hole\"",
-            "secondDuration": 569,
-            "group": "group_7"
-        },
-        {
             "videoId": "blLugIQM4Wg",
             "title": "Nicole Kidman Sings Wizard of Oz",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "Obama Calls The New York Times' Jeff Zeleny",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "zNrjIyyRPHo",
+            "title": "Rep. Cuellar: 'We Ought to Modify' Healthcare Bill",
+            "secondDuration": 631,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

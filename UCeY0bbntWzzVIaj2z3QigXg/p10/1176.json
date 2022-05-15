@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O8PU9gKs3BQ",
-            "title": "Tornadoes, Tropical Force Winds Expected As Hurricane Laura Moves After Landfall | NBC News",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "c-iWoNwNvK8",
             "title": "Senior Florida Voters Discuss Their Choices In The 2020 Presidential Election | NBC News NOW",
             "secondDuration": 221,
@@ -61,8 +55,14 @@
             "title": "President Of National Association Of Police Organizations Endorses Trump At The 2020 RNC | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "TPntPew1DoY",
+            "title": "Civil Rights Activist Encourages Peaceful Protesting At 2020 RNC | NBC News",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

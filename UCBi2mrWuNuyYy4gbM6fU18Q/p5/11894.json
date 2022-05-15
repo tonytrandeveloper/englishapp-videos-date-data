@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EPK3JWT2oKI",
-            "title": "NYPD Video of Alleged Illegal Gun Sales",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "MWZuMyEAu9g",
             "title": "Barbara Walters' Fascinating People: Katy Perry, Derek Jeter, Herman Cain, Eric Stonestreet On List",
             "secondDuration": 352,
@@ -31,8 +25,14 @@
             "title": "Webcast: Marine Corps Purple Heart Fiasco; Melting Ice Bar",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "KO4MniR0Ulo",
+            "title": "Bear Climbs Dumptruck",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xrpCHr56Tso",
-            "title": "Firefighters in Southern California introduce new bundles of joy",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "scyE5uwV2BI",
             "title": "Nancy Pelosi hints at impeachment amid Trump whistleblower flap",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "WATCH LIVE: President Trump delivers remarks on religious freedom at United Nations General Assembly",
             "secondDuration": 1501,
             "group": "group_7"
+        },
+        {
+            "videoId": "JUxuIdpU2Hs",
+            "title": "The Debrief: Whistleblower allegations latest, UN General Assembly, new 2020 frontrunner",
+            "secondDuration": 1852,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

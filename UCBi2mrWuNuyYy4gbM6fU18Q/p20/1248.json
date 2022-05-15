@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dCh50y71uoU",
-            "title": "Former NBC correspondent speaks out against Tom Brokaw",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "e0BYLd21TNU",
             "title": "Southwest pilots describe details of engine explosion",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "3 Americans released from North Korea, Trump tweets",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "EebCDGMV75Q",
+            "title": "New York Attorney General Eric Schneiderman resigns after report he abused four women",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

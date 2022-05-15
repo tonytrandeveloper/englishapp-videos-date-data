@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O6icdH45DNk",
-            "title": "Florida Club Shooting | 2 Dead at Club Blu",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "WtxcrFbH_OQ",
             "title": "Jennifer Lopez Celebrates B-day with Kim Kardashian, Calvin Harris",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Democrats Buzz With Excitement on the Evening Before the Convention Kicks Off",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "yIYOF4gEsJw",
+            "title": "Democratic National Committee Emails Released En Masse by WikiLeaks",
+            "secondDuration": 307,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

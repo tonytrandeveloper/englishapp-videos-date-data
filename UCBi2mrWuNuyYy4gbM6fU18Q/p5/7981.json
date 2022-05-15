@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CQhA28BO0HY",
-            "title": "White Hot Christmas: 72 Degrees in New York",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "vLgFQF28zQU",
             "title": "Back in the Headlines: Iranian Hostage Crisis of 1979",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz Fights Political Cartoon Featuring His Daughters",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "bbzwv-GraEs",
+            "title": "Go Motocrossing With Stuntmen From 'Point Break'",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

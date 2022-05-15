@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BxGGcyToxwQ",
-            "title": "Ringing in the New Year in Style",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Ibl8IlbiQc",
             "title": "GOP Goes Full Steam Ahead to Iowa",
             "secondDuration": 385,
@@ -121,8 +115,14 @@
             "title": "Medicating Your Child",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "OaxsElmcd4M",
+            "title": "Those We Lost in 2011: Year-in-Review",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

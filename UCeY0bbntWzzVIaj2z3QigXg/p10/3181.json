@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "O7cDI28qy5Q",
-            "title": "President Obama Praises Free Press: ‘Our Democracy Needs You’ | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "m8Jj2FVZrCU",
             "title": "Betsy DeVos Faces Off Against Democrats in Hearing for Secretary of Education | NBC News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Inspiring America: Meet The 4-Year-Old Who’s Read More Than 1,000 Books | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "rK07IdAvrjA",
+            "title": "Wife Of Orlando Nightclub Attacker Arrested By FBI In California | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

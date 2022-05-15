@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yn9MOiNfID8",
-            "title": "Super Hackers Reveal How Easy It Is To Steal Just About Everything | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "SufjD9WJCys",
             "title": "State of Emergency Declared in St. Louis County | NBC Nightly News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Newly Released Video May Help Recover $500 Million in Stolen Art | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "-4Gob1SgslE",
+            "title": "Donald Trump Makes His Mark During Republican Primary Debate | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

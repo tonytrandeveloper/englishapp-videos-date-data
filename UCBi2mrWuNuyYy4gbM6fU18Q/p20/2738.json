@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5pcI56Erm_s",
-            "title": "Corsets Making a Comeback",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "K8TVAeJlzrM",
             "title": "Lotto Fever: Going After $500M Powerball Jackpot",
             "secondDuration": 323,
@@ -121,8 +115,14 @@
             "title": "Inside Amazon: Secrets of an Online Mega-Giant",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "pi9S5AHMqaM",
+            "title": "'Zero Dark Thirty' Focuses on Young Female CIA Agent",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

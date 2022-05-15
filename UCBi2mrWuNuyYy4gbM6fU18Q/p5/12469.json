@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mB-9TNv04cY",
-            "title": "The Conversation: Understanding China's Expansion",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "rYmRUHYnMaQ",
             "title": "Who is China's 'Piano Man?'",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Bloomberg's Peter Cook on 'Top Line'",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "CQ8WDYTsgY4",
+            "title": "Greg Walden: 'This Place Needs a Full Vacuuming'",
+            "secondDuration": 587,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

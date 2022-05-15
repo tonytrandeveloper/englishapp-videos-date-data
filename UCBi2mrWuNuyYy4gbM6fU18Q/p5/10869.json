@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B6rAMH06yQU",
-            "title": "Newtown, Connecticut Sandy Hook Nurse Hid Steps Away From Gunman - GMA Interview",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "itX1AI8Z-nM",
             "title": "Newtown, Connecticut Family on Losing Child in Sandy Hook Elementary School Shooting",
             "secondDuration": 240,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Obama Delivers Memorial Speech",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "uSNWZyxvUUU",
+            "title": "Connecticut Shooting's Youngest Victims",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

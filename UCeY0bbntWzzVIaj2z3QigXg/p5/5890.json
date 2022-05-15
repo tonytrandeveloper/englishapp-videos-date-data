@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zAwTQ5xRjyc",
-            "title": "Here's A Breakdown Of Donald Trump's New Immigration Proposal | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "7irALOUTZeI",
             "title": "Who's In And Out: Shakeups Hit Donald Trump’s Reshuffled National Security Council | NBC News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Driver Flees Scene After Plunging Pickup Into Backyard Pool | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "jfgwTjoniXc",
+            "title": "Dow Hits Record High -- But Are Americans Feeling It? | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

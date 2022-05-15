@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MxFmbvihL5k",
-            "title": "White House Press Briefing - September 12, 2017 | NBC News",
-            "secondDuration": 1447,
-            "group": "group_7"
-        },
-        {
             "videoId": "3WmPy0qMO74",
             "title": "Flashback: President Obama Discusses Human Rights In 2014 Malaysia News Conference | NBC News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Irma: Despite Power Outages And Damage, Some Homeowners Escape Disaster | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "kviwt16OUq0",
+            "title": "Gratitude And Relief On Florida's West Coast As Irma Causes Minor Damage | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jcBLjio0pVA",
-            "title": "The Lamoureux Twins Discuss Gender Equality | NBC News",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "8BXNhaQEhOE",
             "title": "Take A Look At How The U.S. Can Improve Its Recycling Habits | NBC News",
             "secondDuration": 288,
@@ -61,8 +55,14 @@
             "title": "How Will Brett Kavanaugh’s Hearing Affect Him If He’s Confirmed? | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "ye2TKplLqp0",
+            "title": "360 Video: Inside Boeing’s Starliner Capsule | Mach | NBC News",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uNbT21HZmdc",
-            "title": "Exclusive: Inside Look At World’s First 3D-Printed Rocket",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "c918BK50lUs",
             "title": "Robert Durst Found Guilty Of Murder",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1515,
             "group": "group_7"
+        },
+        {
+            "videoId": "QwmtQKmOXz0",
+            "title": "Biden Stresses 'Urgent' Need To Address Climate Change At Major Economies Forum",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CsoXSwlMw3A",
-            "title": "Cruisin' Route 66 from Okla. to N.M.",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "MOZMkEhFrCU",
             "title": "N.Y. Photo Op Fallout",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Is So-Called 'Roid Rage a Lot of Bunk?",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "17nD4FowE10",
+            "title": "Connie Culp Talks About Her Future",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

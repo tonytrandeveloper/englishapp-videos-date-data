@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TM74IpCpz2w",
-            "title": "Arrest warrant issued for founder of Bikram yoga",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "vRVOWwjFciA",
             "title": "Rolling Stone's Peter Travers Previews Biggest Movies of the Summer",
             "secondDuration": 1890,
@@ -61,8 +55,14 @@
             "title": "Desperate search for survivors after Manchester attack",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "MdL6V2JZfJQ",
+            "title": "UK raises threat level to critical after concert terror attack",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WF7xhRCgkqM",
-            "title": "Explosive Wildfire Threatens Homes, Forces Evacuations In California | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7LvRGar8ZQ",
             "title": "Growing Outbreak: Romaine Lettuce Linked To 67 Cases Of E.Coli, CDC Warns | NBC Nightly News",
             "secondDuration": 63,
@@ -61,8 +55,14 @@
             "title": "Trump Holds Campaign Rally In Florida (Live Stream Recording) | NBC News",
             "secondDuration": 5341,
             "group": "group_7"
+        },
+        {
+            "videoId": "G5Gxs9YhwPY",
+            "title": "Pete Buttigieg Responds After Resurfacing Of 2011 Comment On Minorities And Education | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

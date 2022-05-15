@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DIS8XDZA0uE",
-            "title": "Government Shutdown Heightens Survivalists' Fears",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "UULaC0MQmJ8",
             "title": "WEBCAST: Ghost Burglar Breaks Into Liquor Store",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Casey Kasem's Kids Claim Wife Won't Let Them See Father",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fr2BeMMVhe0",
+            "title": "Nicki Minaj Interview 2013: Star's Kmart Clothing Line Brings Hip-Hop Influence",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

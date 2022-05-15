@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fBxcBFVUsOI",
-            "title": "President Obama Announces U.S. Ending Decades-Long Arms Embargo With Vietnam",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "esDJrugbvR0",
             "title": "Manhunt Concludes for Suspected Cop Killer in Massachusetts",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Search Crews Sift Through Plane Parts and Passenger Belongings From EgyptAir 804",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bkp8lUngHYQ",
+            "title": "Meet the All-Girl Baseball Team Destroying the Competition",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

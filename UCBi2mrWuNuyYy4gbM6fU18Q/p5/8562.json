@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l8JsYxvU9ro",
-            "title": "Take a Look at Bernie Sanders’ 2016 Presidential Campaign",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "66JBk2LILu0",
             "title": "TLC Pulls '19 Kids and Counting' After Sex Abuse Allegations",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Idaho Woman Spots Suspect After Hearing Amber Alert",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "7oP1WToagUA",
+            "title": "Virginia Cop Tasers Man Having Medical Emergency",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

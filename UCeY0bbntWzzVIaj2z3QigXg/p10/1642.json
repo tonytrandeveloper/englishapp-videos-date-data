@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KrvA1zDxM4E",
-            "title": "How Primary Debates Influence Public Opinion | NBC News NOW",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "DH6C6-45n3s",
             "title": "Supreme Court May Toss Out Convictions In ‘Bridgegate’ Case | NBC News NOW",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "Ash Gushes From Philippines Volcano | NBC News (Live Stream Recording)",
             "secondDuration": 20532,
             "group": "group_7"
+        },
+        {
+            "videoId": "0n_Hv5Ktv2k",
+            "title": "Candidates Grilled By 7-Year-Old On Campaign Trail | NBC News NOW",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3xzYCA8l1zU",
-            "title": "German Chancellor Angela Merkel: Europe Must Take Control Of Its Own Fate | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "1QES0gLjJNo",
             "title": "Whaling Protesters Cover Copenhagen Little Mermaid Statue With Red Paint | NBC News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Report: White House Prepping ‘War Room’ To Push Back On Russia Investigations | NBC Nightly News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "FOTGlD5HC1A",
+            "title": "Can Virtual Reality Sessions Treat Chronic Pain? One Stanford Doctor Says Yes | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

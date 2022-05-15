@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JB5B1-CsU0E",
-            "title": "President Trump, Melania Host Governors at White House",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "_pCtCu2Gb6c",
             "title": "Emma Stone Reacts to Oscars Best Picture Mix-up | ABC News",
             "secondDuration": 54,
@@ -61,8 +55,14 @@
             "title": "Viola Davis Oscars Acceptance Speech for 'Fences' | Oscars 2017",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "aXmnWnr2Dug",
+            "title": "WH spokesperson: 'No reason' for Trump to attend WHCD and 'pretend' there's no 'tension'",
+            "secondDuration": 611,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XZNruZOTL9w",
-            "title": "Dennis Hopper Loses Fight With Cancer",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfbU5gVhGbE",
             "title": "Interview With Colin Powell (Part 2)",
             "secondDuration": 589,
@@ -61,8 +55,14 @@
             "title": "Grilling Gadgets for a Backyard BBQ",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "Phcfzi5e4ag",
+            "title": "Tom Cruise Teams With Will.I.Am",
+            "secondDuration": 354,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

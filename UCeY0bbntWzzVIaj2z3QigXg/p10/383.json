@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lbsYAgu7MXo",
-            "title": "LIVE: Meet The Press 2021 Election Night Special Coverage | NBC News NOW",
-            "secondDuration": 11626,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXgv8UjTxgM",
             "title": "Michelle Wu Declares Victory In Boston Mayoral Race: 'Boston Has Spoken'",
             "secondDuration": 327,
@@ -61,8 +55,14 @@
             "title": "Day Care Worker Shortage Impacting Families Across St. Louis",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "rp897VCsWZg",
+            "title": "Biden Touts Climate Steps After U.N. Conference, Addresses Spending Plan Standoff",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

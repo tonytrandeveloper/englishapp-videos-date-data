@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N1kGIcxvmVk",
-            "title": "Jogger describes being almost hit by gunfire",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTHvRFlNS_E",
             "title": "Suspect in congressional baseball shooting identified",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "American college student released by North Korea arrives in US",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "O_LbnyHIpzI",
+            "title": "Multiple fatalities in massive London high-rise fire",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

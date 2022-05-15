@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-zbvlPFc2N0",
-            "title": "WEBCAST: Two U.S. Skiers Killed in Avalanche Accident",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "a75A_ZHGwlo",
             "title": "ABC World News Now: 23rd Anniversary",
             "secondDuration": 424,
@@ -31,8 +25,14 @@
             "title": "Chris Christie and His Cowboys: Football Fumble?",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "TjFi4EsvOBw",
+            "title": "Seven-Year-Old Sailor Gutzler’s Miraculous Survival After Plane Crash",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

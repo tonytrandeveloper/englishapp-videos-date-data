@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FWNjI-RXXz4",
-            "title": "Cop caught on video kicking suspect in head",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "EvFAuucgpHk",
             "title": "Investigators were tracking Michael Cohen's calls",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Giuliani: Trump reimbursed personal lawyer for 130K Stormy payment",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "PsPA3Dgh73M",
+            "title": "White House lawyer Ty Cobb plans to retire",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

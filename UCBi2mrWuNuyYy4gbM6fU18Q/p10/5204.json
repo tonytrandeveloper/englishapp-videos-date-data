@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X7FVYJ6ONXk",
-            "title": "'Frank Underwood' to Obama: 'Welcome to Nerd Prom' | ABC News Exclusive | ABC News",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "ypk0JQ22VsA",
             "title": "White House Correspondents' Dinner Highlights: Conan O'Brien, President Obama Best Jabs",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Controversial Sting Operation to Stop Apple iPhone Thieves",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "a_B7nvLbRJU",
+            "title": "Rural Georgia Town Hosts First Integrated Prom",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

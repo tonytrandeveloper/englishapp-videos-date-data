@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xTJreVAUJEU",
-            "title": "Savannah Guthrie Joins TODAY on NBC",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdx0XJTsPXA",
             "title": "Meet the Press - Nancy Pelosi, Bobby Jindal & Howard Dean, Political Roundtable",
             "secondDuration": 18,
@@ -31,8 +25,14 @@
             "title": "NBC News wins fourth straight Edward R. Murrow Award for \"Overall Excellence\"",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "QhyqESkuJ2s",
+            "title": "Meet the Press - June 3, 2012 - Patrick, Kasich, Bradley, Roundtable,",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

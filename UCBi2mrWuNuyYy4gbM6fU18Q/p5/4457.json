@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "btfvKeJBLkk",
-            "title": "The Briefing Room: Justice Ginsberg cancer surgery, shutdown imminent, Mattis resignation",
-            "secondDuration": 1656,
-            "group": "group_7"
-        },
-        {
             "videoId": "Haf1mtkvh1o",
             "title": "The Debrief: Arrest in missing Colorado mom case, Trump warns \"shutdown today,\" Mattis resignation",
             "secondDuration": 1537,
@@ -31,8 +25,14 @@
             "title": "Defense Secretary signals differences with Trump in resignation",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "gnHjYD-xWuk",
+            "title": "Powerful storms wreak havoc ahead of Christmas",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

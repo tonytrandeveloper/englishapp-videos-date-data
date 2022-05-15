@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0y-0jT0waq4",
-            "title": "In Solitary Confinement, 'the Screaming Starts'",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZjWaIY9T5qI",
             "title": "Mitt Romney Faces Tough Questions in Univision Interview, Promises 'Permanent' Fix to Immigration",
             "secondDuration": 160,
@@ -121,8 +115,14 @@
             "title": "Emmy's Countdown: 'Mad Men,' 'Game of Thrones' and 'Modern Family' Spoofed on 'GMA'",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "8c2x467FrVI",
+            "title": "WEBCAST: Chicago Teachers End Strike",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zVvwFAyokX0",
-            "title": "Los Angeles Manhunt: Who Is Christopher Dorner?",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "YAgusVWvfH4",
             "title": "How to Get the Cheapest Tickets for Your Next Vacation",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Lance Armstrong Agrees to Testify to Federal Authorities",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "vZWFwsM_mXw",
+            "title": "Christie Christie Tells 'Irresponsible' Ex-WH Doctor to 'Shut Up'",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

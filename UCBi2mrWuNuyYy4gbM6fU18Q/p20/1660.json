@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ToF1Mur8QbI",
-            "title": "Third Presidential Debate Highlights | Trump, Clinton Discuss on Supreme Court",
-            "secondDuration": 303,
-            "group": "group_7"
-        },
-        {
             "videoId": "ECWr-JPDPmc",
             "title": "Minnesota City Apologizes for Controversial Arrest of Black Man",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Firefighter Answers the Call, Saves Dad",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "WEoVtmbWMEQ",
+            "title": "Prince William, Princess Kate Meet Olympic Athletes",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

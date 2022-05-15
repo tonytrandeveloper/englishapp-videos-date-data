@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ojeM0ZSBi3U",
-            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpeFSAFk9kw",
             "title": "FBI Says Russian Spy Caught in Manhattan",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "How President Obama Is Being Kept Safe on India Visit",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "axxtCes3lyU",
+            "title": "Freedom Summit Draws GOP 2016 Hopefuls",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

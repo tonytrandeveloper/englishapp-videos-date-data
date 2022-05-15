@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5jAmkfJEt3o",
-            "title": "WEBCAST: New Video: Philadelphia Building Collapse",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "c4bH63Z6PPI",
             "title": "In Case You Missed It - 7/19/2013",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Detroit Is Largest US City to Go Bankrupt",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aj0vtMzO8cE",
+            "title": "Fitz and the Tantrums Interview 2013: New Album 'More Than Just a Dream,' Bruno Mars Tour",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "buTkbpyB8ZI",
-            "title": "‘A War Against Stupidity’: Healthcare Workers Battle Coronavirus Misinformation | NBC News NOW",
-            "secondDuration": 1198,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Pj5V5Q17R4",
             "title": "Amid Race To Develop A Coronavirus Vaccine, Growing Concerns Of Who Gets It First | NBC Nightly News",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "3 Suspects Charged In Twitter Hacking Attack | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "pYxOlvBT5l8",
+            "title": "Trump Renews Attacks On Mail-In Voting Despite No Evidence It Leads To Fraud | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

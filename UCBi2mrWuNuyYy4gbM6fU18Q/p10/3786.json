@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D6IQQEyyCiY",
-            "title": "Duchess Kate,  Prince William to Head for India",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "CpgukClTZyc",
             "title": "Bikini Model, Boyfriend Charged With $2 Million Identity Theft Fraud",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "American Idol Series Finale Surprises | ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSvg6L8tAck",
+            "title": "A Final Farewell to 'American Idol'",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

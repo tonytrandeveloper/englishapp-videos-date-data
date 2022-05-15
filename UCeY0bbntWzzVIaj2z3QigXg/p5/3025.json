@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z7WvKRHJLvs",
-            "title": "In Her own Words: Doctor On Treating Coronavirus Patients | NBC Nightly News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "TDCMt1iINR8",
             "title": "Global Coronavirus Impact: Italy’s Hospitals Strained, Merkel In Quarantine | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Colorado Gov. Polis Gives Updates On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 3435,
             "group": "group_7"
+        },
+        {
+            "videoId": "auZKvisy1H8",
+            "title": "Trump, White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
+            "secondDuration": 6675,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

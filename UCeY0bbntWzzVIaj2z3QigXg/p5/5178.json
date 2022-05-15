@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d1G9DWq98_A",
-            "title": "‘Nightmare Bacteria’ Threat In The U.S., CDC Says | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "P746hTO85XU",
             "title": "President Donald Trump Reluctantly Agrees To Keep U.S. Troops In Syria | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump To Send National Guard To U.S.-Mexico Border | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "2F6lqZKdQcU",
+            "title": "YouTube Shooter Repeatedly Posted Grievances About The Video Platform | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

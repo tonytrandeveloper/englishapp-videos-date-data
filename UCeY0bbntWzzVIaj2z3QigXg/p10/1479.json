@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LM8QBUgem4g",
-            "title": "Rural West Virginia Hospitals Struggle To Stay Open Amid Coronavirus Pandemic | NBC News NOW",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bx9dujs86m4",
             "title": "Trump Responds To Sanders Dropping Out, Shades Obama For Not Supporting Biden | NBC News NOW",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Stock Market Rallies After Sanders Drops Out Of Race | NBC News NOW",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "0kBIagYHfuA",
+            "title": "Louisiana Gov. Edwards Gives Update On Coronavirus Response | NBC News",
+            "secondDuration": 3500,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

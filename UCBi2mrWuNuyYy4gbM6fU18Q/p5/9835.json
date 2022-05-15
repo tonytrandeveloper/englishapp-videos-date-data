@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "edX1di5jZu8",
-            "title": "LA Motorist Pulled From Burning Vehicle",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "nWiTq2z9YoM",
             "title": "Trapped Cruise Ship Blinded by Blizzard in Antarctic",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "'Newsies' Stars Use Signature Dance Moves for Wellness Campaign",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "GBq8mEA6n7Y",
+            "title": "Warren Weinstein Asks for President Obama to Rescue Him",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

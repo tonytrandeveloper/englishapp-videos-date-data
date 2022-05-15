@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gJYAiq36pIY",
-            "title": "Hollywood Revisits Moses In 'Exodus' | Long Story Short | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "fgV9PB8MFig",
             "title": "Australian Hostages Monitored On Social Media | NBC News",
             "secondDuration": 45,
@@ -31,8 +25,14 @@
             "title": "U.S. Navy's New 'Laser Gun' | NBC News",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "FlVavghS1z8",
+            "title": "Garrett MacNamara Surfs Massive Wave In Portugal | NBC News",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

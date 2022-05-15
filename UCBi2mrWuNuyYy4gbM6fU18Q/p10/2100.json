@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QExobZyW7pk",
-            "title": "Briefing Room: Trump visits US-Mexico Border, Biden speaks, 2020 Dems at NAN convention | ABC News",
-            "secondDuration": 1314,
-            "group": "group_7"
-        },
-        {
             "videoId": "8VuSwR5PH9M",
             "title": "The Debrief: Kentucky Missing boy case, Trump on the border, Mueller report battle | ABC News",
             "secondDuration": 1754,
@@ -61,8 +55,14 @@
             "title": "Mom mourns 10-year-old killed in apparent road-rage incident: 'She was just a baby'",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gzj3Q7tmcgo",
+            "title": "US baseball glove company still thriving thanks to loyalty of professional players",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

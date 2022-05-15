@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "M8fzPKgbJYw",
-            "title": "Penn State Coach Mike McQueary Put on Leave",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "OyKxLC9xmk4",
             "title": "'J. Edgar's' Armie Hammer Sings 'Too Sexy' for Peter Travers on 'ROUGH CUT'",
             "secondDuration": 85,
@@ -301,8 +295,14 @@
             "title": "Michael Jackson: Moment of Crisis",
             "secondDuration": 594,
             "group": "group_7"
+        },
+        {
+            "videoId": "jZ4hjt4bFaU",
+            "title": "Gabrielle Giffords' Remarkable Recovery",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

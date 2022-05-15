@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9FRmYMLw1eE",
-            "title": "George W. Bush Full Speech at the Reagan Presidential Library | ABC News",
-            "secondDuration": 3176,
-            "group": "group_7"
-        },
-        {
             "videoId": "8zjx85s3F0g",
             "title": "Joe Biden Speech After Receiving 2017 Congressional Patriot Award (FULL) | ABC News",
             "secondDuration": 1872,
@@ -61,8 +55,14 @@
             "title": "Oprah Winfrey for President? | ABC News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "SpsE22wkQtg",
+            "title": "Sessions spoke with Russian envoy during Trump’s campaign | ABC News",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

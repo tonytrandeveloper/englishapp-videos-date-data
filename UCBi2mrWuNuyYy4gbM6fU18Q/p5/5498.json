@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1eUnO2wB8pU",
-            "title": "Las Vegas hospitals were inundated with victims of mass shooting",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "y-5-xkBB5Yg",
             "title": "White House press briefing, Pres. Trump holds moment of silence after deadly Las Vegas shooting",
             "secondDuration": 3043,
@@ -31,8 +25,14 @@
             "title": "SPECIAL REPORT: Trump: 'It was an act of pure evil'",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "1XW30jTMQk4",
+            "title": "Las Vegas shooting suspect's brother says family is 'dumbstruck'",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

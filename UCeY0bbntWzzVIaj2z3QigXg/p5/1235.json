@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vRWVzv15SGE",
-            "title": "NBC Nightly News Broadcast (Full) - July 3rd, 2021",
-            "secondDuration": 970,
-            "group": "group_7"
-        },
-        {
             "videoId": "DR5_j94syuM",
             "title": "11 Suspects Arrested in Massachusetts Interstate Standoff",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Remaining Part Of Champlain Towers To Be Demolished Ahead oOf Tropical Storm Elsa",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "TPjFRKcBOR4",
+            "title": "At Least 20 People Missing After Huge Landslides in Japan",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

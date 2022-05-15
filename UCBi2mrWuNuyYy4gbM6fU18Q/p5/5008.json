@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G_qDNuQI_IU",
-            "title": "Armored truck spills money on highway",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOpIWKKR7L4",
             "title": "Window cracks on Southwest flight",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Giuliani: Trump reimbursed personal lawyer for 130K Stormy payment",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "PsPA3Dgh73M",
+            "title": "White House lawyer Ty Cobb plans to retire",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

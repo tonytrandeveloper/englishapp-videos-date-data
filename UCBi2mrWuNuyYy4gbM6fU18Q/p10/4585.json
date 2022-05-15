@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4fw86AjkS1o",
-            "title": "Luke Bryan's 'Roller Coaster' Ride",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2irMxtIC3s",
             "title": "Inside J.Lo's New $22 Million NYC Apartment",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Air Bag Recall: Feds Say 3 Million More Car Owners Need to Replace Defective Air Bags",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "99ijiF5hvwY",
+            "title": "Canada Shooting Hero's Brother 'Very Proud'",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

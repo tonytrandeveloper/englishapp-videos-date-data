@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zsm9URjXdkg",
-            "title": "Michelle Obama Takes Stage at Democratic National Convention",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3GA1jKbHmM",
             "title": "Kirsten Dunst, Isla Fisher, Lizzy Caplan Discuss New Movie 'Bachelorette'",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "DNC: Post-Party Analysis",
             "secondDuration": 222,
             "group": "group_7"
+        },
+        {
+            "videoId": "IVGAI8o5i4o",
+            "title": "Michelle Obama DNC Speech 2012 Complete: 'How Hard You Work' More Important Than Income",
+            "secondDuration": 1717,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

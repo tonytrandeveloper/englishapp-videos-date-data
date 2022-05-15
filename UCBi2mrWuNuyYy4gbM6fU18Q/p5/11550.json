@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vNbKXEJqgqo",
-            "title": "'Snooki and JWOWW' Interview; 'Jersey Shore' Spinoff Premieres on MTV",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "UEY8APSxVoc",
             "title": "Rielle Hunter Interview 2012: Discusses Affair With Former Presidential Candidate John Edwards",
             "secondDuration": 309,
@@ -31,8 +25,14 @@
             "title": "Extreme Vacation: Train Like Real SEALs",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "w804XijSpsw",
+            "title": "Deadly High-Speed Police Chases",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

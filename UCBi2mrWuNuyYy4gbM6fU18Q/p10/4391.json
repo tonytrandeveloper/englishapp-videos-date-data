@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eKfGhrB10Nw",
-            "title": "Fatigued Truckers: Deadly Consequences",
-            "secondDuration": 514,
-            "group": "group_7"
-        },
-        {
             "videoId": "7z5kR9AC__Y",
             "title": "American Volunteers Head Overseas to Help Fight ISIS",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Can Brain Injuries Alter Sexual Appetites?",
             "secondDuration": 478,
             "group": "group_7"
+        },
+        {
+            "videoId": "FKX79KuDYyY",
+            "title": "Trichotillomania: Why These Women Rip Out Their Own Hair",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

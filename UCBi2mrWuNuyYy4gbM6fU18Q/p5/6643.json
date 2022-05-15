@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XQJuUu_9zXI",
-            "title": "Why a Donkey for Democrats? | America 101",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "C39efddpdJw",
             "title": "Why an Elephant for Republicans? | America 101",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Canadians Tell America It’s Great In Viral Ad Campaign",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "RljKtJJSP-w",
+            "title": "Obama Hosts His Final State Dinner",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

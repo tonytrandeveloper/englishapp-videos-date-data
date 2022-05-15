@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GjLsGi9T-00",
-            "title": "Regis Philbin's Last Show",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "UCTajhzSytI",
             "title": "Occupy Wall Street: Message in the Movement?",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Moms: Alleged Abuse Victims Will Testify",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "wo1a1AYhGeA",
+            "title": "Penn State Scandal: More Boys Come Forward",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

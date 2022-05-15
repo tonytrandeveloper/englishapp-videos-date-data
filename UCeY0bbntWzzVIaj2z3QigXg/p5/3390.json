@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UKecU1VJ3hw",
-            "title": "Police Arrest California Man Who Appeared To Simulate Mass Shooting In Videos | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "bcblIzubkI0",
             "title": "Pensacola Naval Base Shooting Presumed To Be Terrorism, FBI Says | NBC Nightly News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Full Cruz: House Impeachment Is 'Kangaroo Court' | Meet The Press | NBC News",
             "secondDuration": 629,
             "group": "group_7"
+        },
+        {
+            "videoId": "V1MsJwn-MHs",
+            "title": "Full Nadler: Impeachment Proceedings Are 'A Matter Of Urgency' | Meet The Press | NBC News",
+            "secondDuration": 474,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

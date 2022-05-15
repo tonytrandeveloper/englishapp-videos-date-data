@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OvVtQJNi32A",
-            "title": "WEBCAST: Food Stamp Cuts",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "uYwL0yAqihc",
             "title": "In Case You Missed It: 9/20/13",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Jennifer Aniston's Beauty Secrets",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "x_YiQBtUJsw",
+            "title": "DC Navy Yard Re-Opens as Questions Remain About Shooter",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

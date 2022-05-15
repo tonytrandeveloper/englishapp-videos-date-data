@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hI8POLuzfjs",
-            "title": "Kentucky Hospitals Reach Full Capacity As Covid Spreads Among Kids",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "MM26yYNqCm0",
             "title": "This Morning’s Top Headlines – September 9 | Morning News NOW",
             "secondDuration": 1099,
@@ -61,8 +55,14 @@
             "title": "Theranos Founder Elizabeth Holmes’ Fraud Trial Gets Underway",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "VFY8eEwbuz0",
+            "title": "The New Terror Threat As The Taliban Takes Over",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

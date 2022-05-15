@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QEcm8A_oP_k",
-            "title": "NBC Nightly News Broadcast (Full) - August 6th, 2021",
-            "secondDuration": 847,
-            "group": "group_7"
-        },
-        {
             "videoId": "WrA2sWpgbXk",
             "title": "NBC News NOW Full Broadcast – August 6, 2021",
             "secondDuration": 2610,
@@ -61,8 +55,14 @@
             "title": "Cuomo's Attorneys Respond to AG Report On Sexual Harassment Allegations",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "CbDurA4U70s",
+            "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

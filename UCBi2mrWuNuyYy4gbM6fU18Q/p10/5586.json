@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TNBg3_KyRSI",
-            "title": "Struck by Lightning: Florida Man and Son Survive Lightning Strike After Kitesurfing",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "mWlHhqWx6xM",
             "title": "First 2012 Presidential Debate: How Mitt Romney, President Obama Do?",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "Obama vs. Romney: The First Debate",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEHkD_f8ucc",
+            "title": "Presidential Debate 2012 Analysis: Who Won 1st Debate?  Donna Brazile, Matthew Dowd, Nicolle Wallace",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

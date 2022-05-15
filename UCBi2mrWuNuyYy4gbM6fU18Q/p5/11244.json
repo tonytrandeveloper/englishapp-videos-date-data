@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UbgnsmW-LrA",
-            "title": "Libya Heroes Come Home",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "8VhbkCmrFUM",
             "title": "Christopher Stevens: U.S. Diplomats Honored",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Protests, Tension in Arab World: 3 Killed",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "szYPz3wz6q0",
+            "title": "Stock Market's Big Comeback",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RZUYbVXux9M",
-            "title": "Dylann Roof Murder Trial Begins With Emotional Testimony",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "4u8tlxNyLBo",
             "title": "Johnny Depp Is Forbes' Most Overpaid Actor, Again",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Prosecutor: Dylann Roof Stood Over Victims, Shooting Repeatedly",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "GAziH3u6MEU",
+            "title": "Underwater in Pearl Harbor",
+            "secondDuration": 2853,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2VLY9H4D1a4",
-            "title": "Biden Tells Supporters 'We're On Track To Win' | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "XipoTDwM_cg",
             "title": "NBC News Projects Trump Will Win Iowa | NBC News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "NBC News Projects Trump Will Win Ohio | NBC News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "vichCzwgx3c",
+            "title": "NBC News Projects Joe Biden Will Win Virginia, Trump Will Win Idaho | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

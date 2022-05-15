@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ScBP1Qo81i4",
-            "title": "'Jeopardy' host Alex Trebek taking a medical leave of absence",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "gVy7o7xxL2Y",
             "title": "Golden Globes 2018 preview on 'Popcorn With Peter Travers' | ABC News",
             "secondDuration": 913,
@@ -31,8 +25,14 @@
             "title": "Nor'easter raises concerns of rivers freezing over",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjdEJlgKPbM",
+            "title": "Nor'easter storm drops over a foot of snow in Long Island",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

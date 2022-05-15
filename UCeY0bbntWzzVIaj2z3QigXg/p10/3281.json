@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TVN8cCMlxOE",
-            "title": "Standing Rock Sioux Tribe Takes Pipeline Fight To U.N. | NBC News",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "vC1xWwtuCtM",
             "title": "For One Syrian Refugee Family, U.S. Has Become Last Resort For Ill Daughter | NBC Nightly News",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Donald Trump: NY/NJ Bomber Will Get 'An Outstanding Lawyer' | NBC News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "jKlu252neXM",
+            "title": "Young Adults Speak Out About Encountering Islamophobia | Take Back | NBC Asian America",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

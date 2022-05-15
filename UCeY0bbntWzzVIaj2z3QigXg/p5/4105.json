@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mBgF9e4l2rI",
-            "title": "Poll: After Mueller Summary, Americans Are Still In 'Wait-And-See Mode' | Meet The Press | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "88UH-KbUaDc",
             "title": "Democrats Reject Barr Timeline, Demand Full Mueller Report | Meet The Press | NBC News",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Full Hickenlooper: 'Re-Evaluate Our Entire Immigration System' | Meet The Press | NBC News",
             "secondDuration": 510,
             "group": "group_7"
+        },
+        {
+            "videoId": "RNiH_QbUOa0",
+            "title": "Full Panel: How Much Of The Mueller Report Will Be Made Public? | Meet The Press | NBC News",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7B37iiesEO8",
-            "title": "What Biden's 100 Million Budget Proposal Means For School Integration",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "8_aNYpQhCBw",
             "title": "NBC Nightly News Broadcast (Full) - July 7th, 2021",
             "secondDuration": 1285,
@@ -61,8 +55,14 @@
             "title": "Search Shifts From Rescue To Recovery in Surfside Building Collapse",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "pLT7CtPe-F8",
+            "title": "Delta Variant Becomes Dominant Covid Strain In The U.S.",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

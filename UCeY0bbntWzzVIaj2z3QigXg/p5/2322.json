@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CnxK3pitqD4",
-            "title": "Fleeing The City For The Suburbs? New Data Looks At Pandemic’s Impact | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "_KHk0Dg0Vmc",
             "title": "Behind-The-Scenes Look At Changes Coming To TSA Checkpoints Amid Pandemic | NBC Nightly News",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Trump Holds News Conference At White House | NBC News",
             "secondDuration": 2827,
             "group": "group_7"
+        },
+        {
+            "videoId": "LDtl70qOmdU",
+            "title": "Joe Biden Delivers Remarks On Economy, Coronavirus | NBC News",
+            "secondDuration": 2638,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

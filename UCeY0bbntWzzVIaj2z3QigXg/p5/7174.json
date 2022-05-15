@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sd1RmrjmwDg",
-            "title": "Sayreville High School Football Hazing Scandal | NBC News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "gkzOCEO9Xm8",
             "title": "Michael Brown Protests Flare Up In St. Louis | NBC Nightly News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "New York Comic Con 2014: By The Numbers | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZEMP3aPGaOM",
+            "title": "Ebola: Pepare For More U.S. Cases | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

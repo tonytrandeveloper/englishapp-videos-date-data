@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ygbo3_VQkmM",
-            "title": "Full Fauci Interview: 'We're Going To Have To Do The Kinds Of Restrictions We Would Have Liked To'",
-            "secondDuration": 919,
-            "group": "group_7"
-        },
-        {
             "videoId": "tzzVkI3glSM",
             "title": "Health Care Workers Describe Burnout, Grueling Conditions | Meet The Press | NBC News",
             "secondDuration": 187,
@@ -61,8 +55,14 @@
             "title": "Kids, Don't Worry: Santa Is Still Coming For Christmas | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "-yrYEyBowxk",
+            "title": "Nursing Homes Facing Shortages And Record Covid Outbreaks | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

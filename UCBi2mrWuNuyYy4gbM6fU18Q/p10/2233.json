@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FMb4pT_KlVU",
-            "title": "Ex-NASA engineer uses glitter to thwart package thieves",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "ExOlKvQSD2g",
             "title": "Michael Flynn to be sentenced for lying to FBI",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Former CBS CEO Les Moonves denied $120M severance pay",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "1A4JavSsdt0",
+            "title": "Briefing Room: Shutdown looms, Senate report on Russian meddling, Trump to review Green Beret's case",
+            "secondDuration": 1530,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

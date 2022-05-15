@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ArMumdJsh8s",
-            "title": "Peshawar School Attack Leaves Over 140 Dead | NBC Nightly News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ty_V5h12RHw",
             "title": "Dr. Seuss' “How the Grinch Stole Christmas” Read by Keith Morrison | NBC News",
             "secondDuration": 597,
@@ -61,8 +55,14 @@
             "title": "Taliban School Attack: Wounded Receive Treatment | NBC News",
             "secondDuration": 35,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJYAiq36pIY",
+            "title": "Hollywood Revisits Moses In 'Exodus' | Long Story Short | NBC News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

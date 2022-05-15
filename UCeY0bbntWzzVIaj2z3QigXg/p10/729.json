@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "14Z_JOeoK1Y",
-            "title": "Dr. Fauci Testifies At Senate Hearing On Covid-19 Response | NBC News",
-            "secondDuration": 9516,
-            "group": "group_7"
-        },
-        {
             "videoId": "DBDsomhfzEE",
             "title": "Morning News NOW Full Broadcast - May 11 | NBC News NOW",
             "secondDuration": 3134,
@@ -61,8 +55,14 @@
             "title": "‘This Is What Healing Looks Like’: Mother Reunites With Family After Deportation 3 Years Ago",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "JBlSK3_fOQg",
+            "title": "NBC Nightly News Broadcast (Full) - May 10th, 2021 | NBC Nightly News",
+            "secondDuration": 1270,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

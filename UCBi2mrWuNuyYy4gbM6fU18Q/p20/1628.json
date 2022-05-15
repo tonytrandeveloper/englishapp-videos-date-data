@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6DD6tOJ5vb4",
-            "title": "Wall Street Rebounds After Donald Trump Victory",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ir9XKA7PS4I",
             "title": "Seattle Shooting | 5 Injured",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "World Reacts to President Elect Trump",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xpea8lunJ0w",
+            "title": "Trump on Energy Policy, the Environment",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7ipqR_OMLLQ",
-            "title": "Fun Ideas for Your Thanksgiving Leftovers",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "VVTpRrJHdIQ",
             "title": "Burt Reynolds Holds Auction",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Talkin’ Turkey",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "OiG_MjDR900",
+            "title": "Two Lucky Turkeys",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

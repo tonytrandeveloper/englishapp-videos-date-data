@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FrGmk2GIvLA",
-            "title": "Palin's Payback Book",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "yDF326-A5H8",
             "title": "Vietnam Refugee Becomes U.S. Navy Captain",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Mistress Breaks Her Silence",
             "secondDuration": 448,
             "group": "group_7"
+        },
+        {
+            "videoId": "w9Zxm_V07C0",
+            "title": "The Magic Pill",
+            "secondDuration": 431,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

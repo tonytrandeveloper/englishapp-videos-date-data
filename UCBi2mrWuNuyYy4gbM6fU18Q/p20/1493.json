@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8L_VNiJqtXg",
-            "title": "Pepsi apologizes for new ad after receiving huge backlash",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "WL15zyI4dUk",
             "title": "Trump removes Steve Bannon from the National Security Council",
             "secondDuration": 206,
@@ -121,8 +115,14 @@
             "title": "Corporate lawyer killed in shooting in Atlanta, suspect arrested",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "IkK2zMTnQYI",
+            "title": "High school junior takes his 93-year-old grandmother to prom",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

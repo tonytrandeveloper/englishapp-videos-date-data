@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FGARN6kJpSo",
-            "title": "How will North Korea's latest nuclear test affect the US?",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q1xa03qiSdM",
             "title": "After Hurricane Harvey, the long road to recovery begins",
             "secondDuration": 450,
@@ -61,8 +55,14 @@
             "title": "Harvey creates emergency conditions in Tennessee",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vk2nT7OgJUE",
+            "title": "2 rescuers reportedly electrocuted in Harvey floodwaters",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

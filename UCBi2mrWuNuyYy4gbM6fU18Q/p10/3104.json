@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0cPw1vOn8d8",
-            "title": "Inauguration Met With Protests by Thousands in Washington, Around US",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qhs9yiAVJzw",
             "title": "The Obamas Start New Life After the White House",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Inside the Inauguration of Donald Trump",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "BuO2_OK7zbI",
+            "title": "First Lady Melania Trump Speaks at Inaugural Ball | ABC News",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

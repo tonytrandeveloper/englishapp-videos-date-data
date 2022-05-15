@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CTyEX3B4npI",
-            "title": "Live: Trump Participates in SpaceX Launch Briefing | NBC News",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "lHdjt2r5KM8",
             "title": "Into Comedy in a Crisis with Michelle Buteau | Into America Podcast – Ep. 18 | NBC News and MSNBC",
             "secondDuration": 1173,
@@ -31,8 +25,14 @@
             "title": "Remembering Author And AIDS Activist Larry Kramer, Dead At 84 | NBC News NOW",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "rFj7GI0U7v4",
+            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2939,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

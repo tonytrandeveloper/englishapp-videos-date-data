@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X7bwhiK8iFM",
-            "title": "Amazon founder, wife announce they're divorcing after 25 years",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "IwZlQDfS5zc",
             "title": "US agencies overwhelmed at border spot Trump plans to visit",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Trump walks out of meeting with congressional leaders",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "DFOho_9RJ2c",
+            "title": "Briefing Room: Hill Showdown on Shutdown, Trump southern border visit, Rosenstein plans DOJ exit",
+            "secondDuration": 1910,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

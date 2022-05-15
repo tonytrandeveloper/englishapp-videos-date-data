@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MvCTCy2qV4o",
-            "title": "Nightly News Full Broadcast - Dec. 10",
-            "secondDuration": 1257,
-            "group": "group_7"
-        },
-        {
             "videoId": "cwcHTEPVWMQ",
             "title": "Dozens Of Migrants Killed In Devastating Truck Crash In Mexico",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Efforts To Ease California Affordable Housing Crisis Face Local Opposition",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "QLhEUVYTVks",
+            "title": "Feds Bust 'Modern-Day Slavery' Ring, 24 People Indicted by Justice Department",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

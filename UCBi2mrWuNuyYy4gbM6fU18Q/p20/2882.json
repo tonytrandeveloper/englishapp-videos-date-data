@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mkF8VLlHSfQ",
-            "title": "Katie Holmes Files for Divorce From Tom Cruise",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "k3LFESN_I4Y",
             "title": "Person of the Week:  Kirk Douglas",
             "secondDuration": 162,
@@ -121,8 +115,14 @@
             "title": "Mark Wahlberg talks \"Ted,\" Working With Seth McFarlane",
             "secondDuration": 468,
             "group": "group_7"
+        },
+        {
+            "videoId": "rhjGkuXKTXU",
+            "title": "Mark Wahlberg and his new thunder buddy \"Ted\"",
+            "secondDuration": 492,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

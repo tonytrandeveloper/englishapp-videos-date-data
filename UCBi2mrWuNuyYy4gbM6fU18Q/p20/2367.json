@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "G_9-4EweLR4",
-            "title": "Home Security Cameras Put to the Test",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "tQxgntM93wk",
             "title": "Teen Tennis Star Answers Critics on the Court",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Otter Musicians",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "uE0ePMxkI8w",
+            "title": "Wild Weather in the Heartland",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

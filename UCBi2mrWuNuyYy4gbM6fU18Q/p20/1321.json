@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jZfhmx5MLG8",
-            "title": "Trump leads immigration talks with Democrats and GOP",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "eakDE7rruN8",
             "title": "North Korea agrees to send athletes to Winter Olympics for first time in 8 years",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Fallout continues from book on Trump White House",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "aAXTFwLho84",
+            "title": "Burst pipe at JFK adds to airport chaos",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

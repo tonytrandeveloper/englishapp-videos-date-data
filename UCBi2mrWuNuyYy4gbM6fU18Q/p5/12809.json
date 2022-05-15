@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o1Q69XXiiaU",
-            "title": "American Hearts Give Gift of Music",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "0nCo6sOvScI",
             "title": "The Conversation: Outsourcing Tutors",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Saving the Pacific From Plastic",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "F0SDqS6cBXA",
+            "title": "Bristol Palin Talks About Teen Pregnancy",
+            "secondDuration": 409,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5TuLIpSMKJg",
-            "title": "John Muller Goodbye - \"In Case You Missed It\"",
-            "secondDuration": 361,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q7KT2TV1ThA",
             "title": "WEBCAST: World Cup Kicks Off",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Couple Helps Kids Get Indestructible Soccer Balls so They Can Play",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "NhANljE16jo",
+            "title": "Is Solitary Confinement a Danger to Society?",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

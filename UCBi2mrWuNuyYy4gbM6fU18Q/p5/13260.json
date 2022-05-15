@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ygBxN5UiOaM",
-            "title": "Liftoff for Apollo 11",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "APh5-jQbgz8",
             "title": "Buzz Aldrin on the Dangers of Apollo 11",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Anatomy of the Lunar Module",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tpe-gKbGnbQ",
+            "title": "Breakdown of Apollo 11",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJlBg3Lne90",
-            "title": "Tainted drugs: When medicine makes patients sicker",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "HU5f_nBLGRM",
             "title": "John Wayne Bobbitt tells his side of notorious incident after 25 years",
             "secondDuration": 251,
@@ -61,8 +55,14 @@
             "title": "Nancy Pelosi recaptures speaker's gavel",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "lv0ijB7tLb0",
+            "title": "14-year-old faces murder charge after alleged egging prank",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

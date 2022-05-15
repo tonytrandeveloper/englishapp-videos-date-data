@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "T6izUbGy9hE",
-            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "QWbRvvDU8XE",
             "title": "Exclusive look inside a nuclear-powered guided missile submarine l ABC News",
             "secondDuration": 347,
@@ -301,8 +295,14 @@
             "title": "Police listening to Amazon devices in fatal stabbing investigation",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQakWNzHj3c",
+            "title": "Trick-or-treater notices house is out of candy and leaves some of his own instead",
+            "secondDuration": 28,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

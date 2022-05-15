@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BR5EkIDXwTE",
-            "title": "What Challenges Biden Will Face In The White House | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "LjB4CsEnbgQ",
             "title": "Biden Discusses Plans For First 100 Days In Exclusive Interview | NBC Nightly News",
             "secondDuration": 316,
@@ -121,8 +115,14 @@
             "title": "Cuomo: Holiday Season Could Cause Statewide Positivity Rate To Rise To 12 Percent | NBC News NOW",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "97LSlekxXf8",
+            "title": "Officials Hold Briefing On Operation Warp Speed, Covid Vaccine Distribution",
+            "secondDuration": 3016,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

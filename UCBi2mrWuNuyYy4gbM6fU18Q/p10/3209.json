@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rGQ6SerKTwc",
-            "title": "Cirque Du Soleil Technician Killed During Rehearsal Accident",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7R_rYMDALA",
             "title": "New Zealand Nationwide Secret Santa Project",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Tennessee 20 Claims $421M Powerball Jackpot",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "D3DtGGRQaZM",
+            "title": "OSU Stabbing Victim Interview",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

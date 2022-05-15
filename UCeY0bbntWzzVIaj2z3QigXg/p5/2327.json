@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8PKOCBW4KI",
-            "title": "See How This 7-Year-Old Is Moving Others With His Dance Moves | Nightly News: Kids Edition",
-            "secondDuration": 813,
-            "group": "group_7"
-        },
-        {
             "videoId": "YbRk61-wOFg",
             "title": "Biden Describes Phone Call With Jacob Blake While Visiting His Family | NBC News NOW",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Watch The SpaceX Falcon 9 Rocket Launch Its 12th Starlink Mission | NBC News NOW",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "7SRs-BGDnGw",
+            "title": "Oxford Coronavirus Vaccine Enters Third And Final Phase In U.S. | NBC News NOW",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

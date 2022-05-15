@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mWSqrPf4pbk",
-            "title": "School Shooting Drills",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q-2HSybcuRI",
             "title": "Is the US Government Collecting Data from Innocent Americans?",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "In Case You Missed It: 11-14-2014",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "tQAVFimUsH0",
+            "title": "FRIDAY FUNNIES",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

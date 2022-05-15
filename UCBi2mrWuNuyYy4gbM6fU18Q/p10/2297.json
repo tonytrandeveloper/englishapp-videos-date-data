@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "be6NlL5jgHg",
-            "title": "7th child dies from outbreak at NJ rehabilitation center",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "UFPuTq-xRnY",
             "title": "'Briefing Room': Explosive devices sent to Clinton, Obama, & CNN; Saudi Arabia; 2018 midterms",
             "secondDuration": 1356,
@@ -61,8 +55,14 @@
             "title": "Megyn Kelly apologizes for blackface comments",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "IBHnOHkQ0Nk",
+            "title": "$1.5B Mega Millions ticket sold in South Carolina",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

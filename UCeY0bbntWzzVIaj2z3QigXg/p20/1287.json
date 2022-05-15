@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "amWoSSfzuiY",
-            "title": "NASA’s New Satellite TESS Will Look For Undiscovered Alien Worlds | Mach | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "TU_mUlb59N4",
             "title": "Barbara Bush In 1990: You'll Never Regret Time With Family | NBC News",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "Candidates Use Social Media For Contributions And Calls To Action | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7e6U71OYGc",
+            "title": "So, You've Deleted Facebook. Now What? | Better | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

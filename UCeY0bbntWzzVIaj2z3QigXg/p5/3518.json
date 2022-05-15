@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9lbJ1UnzH7E",
-            "title": "The Science Behind Being Scared | NBC News Now",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "d0awe7Hr1D8",
             "title": "See 3,000 Jack-O'-Lanterns Glow At West Virginia’s Pumpkin House | NBC Nightly News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Drug Shortages Worsen At Hospitals As Doctors Struggle To Find solutions | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "s2AvBk1M9hk",
+            "title": "Katie Hill Delivers Fiery Final Speech On House Floor | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

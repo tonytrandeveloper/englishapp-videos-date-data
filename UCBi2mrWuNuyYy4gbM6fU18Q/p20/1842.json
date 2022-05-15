@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dmkWFak3zgk",
-            "title": "Man Wielding Knife in Midtown Manhattan Shot Dead by Police",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "n8j0lPMSw84",
             "title": "100-Year-Old Makes World Record in 100-Meter Dash",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "World War II Vet Reunites With Man he Saved From Concentration Camp",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "HXfLZwd_rVo",
+            "title": "Man Drives Truck Onto National Mall Claiming Anthrax Possession",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-Dbre0A7U3k",
-            "title": "Oscars: Academy Announces New Class of Diverse Members",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "pr-r86L_trw",
             "title": "Istanbul Attack | Arrests Made in Anti-Terror Raids",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Car Crashes Into Beauty Salon",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZuoq_0_PUk",
+            "title": "Police Chase Man in Go-Kart Down Freeway",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

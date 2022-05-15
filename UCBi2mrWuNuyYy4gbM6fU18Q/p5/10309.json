@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZHelO4W3eEA",
-            "title": "David Gandy, Life as a Mega-Successful Male Model",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "rENTl5JKzlQ",
             "title": "Obama on Prism, Phone Spying Controversy: \"No One Is Listening To Your Phone Calls\"",
             "secondDuration": 545,
@@ -31,8 +25,14 @@
             "title": "'Cronut' Recipe Sweeps NYC and Nation: National Doughnut Day for U.S.",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "c6b9glCfgY8",
+            "title": "'Hangover'-Style Weekend Results in Destroyed Hotel Room, Lawyer Fights Charges",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

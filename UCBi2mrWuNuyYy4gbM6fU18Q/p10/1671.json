@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kJ0Gpz_pi6A",
-            "title": "Jet plane dumps fuel over elementary school yard l ABC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKP--kTcn6o",
             "title": "Sen. Elizabeth Warren touts female political success at Iowa debate l ABC News",
             "secondDuration": 229,
@@ -61,8 +55,14 @@
             "title": "Aircraft releases jet fuel over schools before emergency landing l ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "gTQ8I94dsuo",
+            "title": "Warren, Sanders appear to break nonaggression pact prior to debate",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

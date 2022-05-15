@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ah_Kvh-ISGM",
-            "title": "The LGBTQ Dance Company Challenging Gender Norms With Ballet | NBC Left Field",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyDzF4lJkOs",
             "title": "'Textalyzer' Device Allows Police To Determine If Drivers Text While Driving | NBC Nightly News",
             "secondDuration": 134,
@@ -121,8 +115,14 @@
             "title": "Otto Warmbier’s Death: President Donald Trump and the US Respond | NBC News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "hs8-SfR6raI",
+            "title": "Record-Breaking, Dangerous Heat Blankets the Southwest US",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "u1OVo6OIlmA",
-            "title": "U.S. man who died in Nairobi terror attack was a 9/11 survivor",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "fwR4TRlp4m0",
             "title": "Doctor accused of ordering potentially fatal doses of pain medication",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "West Coast storm to bring snow to East Coast",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEWiBrIeYWk",
+            "title": "American among 14 killed at Kenya hotel",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

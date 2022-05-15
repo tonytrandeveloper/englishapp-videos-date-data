@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CLm4TkUgoxo",
-            "title": "WEBCAST: Hostages Flee Sydney Cafe",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "RQdXRFKPO7k",
             "title": "Undercover and Hired to Kill",
             "secondDuration": 567,
@@ -61,8 +55,14 @@
             "title": "Scandal Brewing for the US Navy",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "CgkGkh_mQTY",
+            "title": "Instant Index: Adrian Peterson Loses Season-Long Suspension Appeal",
+            "secondDuration": 43,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

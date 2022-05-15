@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4l4gCdhRXjY",
-            "title": "The Debrief: Democratic debate preps, Gilroy shooting developments | ABC News",
-            "secondDuration": 2322,
-            "group": "group_7"
-        },
-        {
             "videoId": "KU6gSfbVaMY",
             "title": "US teen arrested for cop’s killing in Rome claims self-defense l ABC News",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "3 fatally shot at garlic festival identified by authorities",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "69_2QXgNFWc",
+            "title": "Organization helps seniors achieve what's left on their bucket list",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

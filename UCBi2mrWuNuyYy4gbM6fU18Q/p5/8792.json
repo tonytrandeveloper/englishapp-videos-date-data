@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MEwUOBTqlKg",
-            "title": "OLD NEWS: Life in Iran under the Shah",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "V2ZpPN7I9mI",
             "title": "Military Helicopter Crashes in Florida, 11 Missing",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Parker Rice: Expelled SAE Frat Member Apologizes for Racist Chant",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "t-8JFmpOFrM",
+            "title": "Facebook Fraud Suspect Paul Ceglia on the Run",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

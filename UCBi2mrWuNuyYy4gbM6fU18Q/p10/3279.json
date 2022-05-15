@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UNHgfkiSPF8",
-            "title": "Tricks and Treats for a Successful Football Party | ABC News",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "QOoS58o0i_c",
             "title": "World Series Game 7 Highlights | Chicago Cubs Win",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "MH370 Lost Control Into Indian Ocean, Report Suggests",
             "secondDuration": 38,
             "group": "group_7"
+        },
+        {
+            "videoId": "u7Z-pEwaLX4",
+            "title": "Rare Neurological Disease Investigated in Washington",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

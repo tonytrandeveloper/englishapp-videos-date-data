@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rKZjwb9uZQ8",
-            "title": "In Case You Missed It",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "4v4tdyWZrRo",
             "title": "Instant Index: Mr. November Surprises Fans by Walking the Streets of the Bronx",
             "secondDuration": 55,
@@ -61,8 +55,14 @@
             "title": "How to Keep Your Credit Card Safe from 'Skimming'",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "SQp9aBQ5NEA",
+            "title": "Judge Judy on 'What Would Judy Say?'",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

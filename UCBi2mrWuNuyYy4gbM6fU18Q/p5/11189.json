@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8dTkftVWjfo",
-            "title": "2012 Election Debates: President Obama, Mitt Romney Countdown to Confrontation",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ehb7vQLt2IY",
             "title": "2012 Presidential Debate Showdown; 'This Week' Rountable Discusses Romney Vs. Obama",
             "secondDuration": 1304,
@@ -31,8 +25,14 @@
             "title": "Obama Vs. Romney: State of the 2012 Presidential Race 'This Week' Roundtable Discussion",
             "secondDuration": 430,
             "group": "group_7"
+        },
+        {
+            "videoId": "QxRTWA4hdNg",
+            "title": "Chris Christie 'This Week' Interview: NJ Governor on Romney Debate Prep, Slams Todd Akin Comments",
+            "secondDuration": 501,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

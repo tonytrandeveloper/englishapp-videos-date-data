@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZM7fvTuiRic",
-            "title": "In Search of Tiger Woods",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "W4stDXc0Igg",
             "title": "Bottom Line on Obama's Interview",
             "secondDuration": 257,
@@ -121,8 +115,14 @@
             "title": "An Orphan's Story",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "be2v6MNe9Qg",
+            "title": "Fault Lines of America",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

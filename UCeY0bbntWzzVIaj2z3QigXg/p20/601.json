@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OJNTcC0OyVM",
-            "title": "'I'm With Joe': Republican Women Voice Support For Biden At The 2020 DNC | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "xMUdHsnEzRk",
             "title": "Live: Democratic National Convention Day 1 | Featuring Michelle Obama & Bernie Sanders | NBC News",
             "secondDuration": 11431,
@@ -121,8 +115,14 @@
             "title": "Inside USPS Struggles Over Mail Delays, Election Ballots | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBib7TMdgrs",
+            "title": "Trump: ‘I Haven’t’ Encouraged Postmaster General To Slow Down Mail Delivery | NBC News NOW",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

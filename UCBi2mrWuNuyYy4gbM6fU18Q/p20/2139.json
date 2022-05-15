@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V4BDjthzoo4",
-            "title": "LeBron James Leads Cleveland Cavaliers Into NBA Finals",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "7b3EcfV3QTg",
             "title": "Tornado Touches Down in Ohio, Texas Recovers From Flooding",
             "secondDuration": 263,
@@ -121,8 +115,14 @@
             "title": "White House Doesn't Refute Defense Sec. Carter's Comment That Iraqis Lack the Will To Fight",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "JSOOXAvLddo",
+            "title": "Water Spout Hurls Bounce House and Injures Three Children",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

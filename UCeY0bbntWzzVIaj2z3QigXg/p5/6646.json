@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aJQmVssf0VQ",
-            "title": "Philadelphia Prepares For The Democratic National Convention | 360 Video | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "691DnQq8MhE",
             "title": "Evacuations, Homes Destroyed In California Wildfire | NBC News",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Inside the Startup That Is Serving Pizza Made by Robots | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "-abomPSxhCk",
+            "title": "Newly-Official GOP Nominee Donald Trump Rehashes Old Feud With Ted Cruz | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

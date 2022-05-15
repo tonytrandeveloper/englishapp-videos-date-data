@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WtuJR2bzIO0",
-            "title": "OLD NEWS: Steve Jobs Talks About Starting Company in Silicon Valley",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "wA5fp5I6gt0",
             "title": "Pee-Wee Herman Is Coming to Netflix",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "Meryl Streep Cheers Patricia Arquette's \"Equal Pay\" OSCARS Speech",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdiPAS1kTQ8",
+            "title": "Eddie Redmayne, Julianne Moore Win Big at 2015 OSCARS",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

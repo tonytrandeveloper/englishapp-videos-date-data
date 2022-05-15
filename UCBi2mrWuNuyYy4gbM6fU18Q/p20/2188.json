@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3tOyJunoBZI",
-            "title": "A Unique Twist On A Seafood Staple",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "2GvlKdZVWog",
             "title": "Dad Dresses Up as 'Frozen' Elsa",
             "secondDuration": 184,
@@ -121,8 +115,14 @@
             "title": "Sugarloaf Chairlift Malfunction Under Investigation",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "tANLQAUQss8",
+            "title": "Self-Driving Car Makes Progress on Cross-Country Expedition",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

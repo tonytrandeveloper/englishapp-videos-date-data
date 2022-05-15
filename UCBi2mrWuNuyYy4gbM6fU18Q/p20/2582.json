@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "J-s0VE-ZTDA",
-            "title": "Remembering an American Classic: Edith Bunker Beloved by All",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "rgZM2gXK8dA",
             "title": "Oklahoma 'Tornado Alley' Residents Fear for the Future",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "ABC Early Morning News",
             "secondDuration": 11,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jyr516h3NoM",
+            "title": "Yanira Maldonado Freed From Mexican Jail",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

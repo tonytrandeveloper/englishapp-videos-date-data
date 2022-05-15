@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snEBdC-RJkk",
-            "title": "Activists Say Uber, Lyft’s Minimum Wage Raise Still Not Enough | NBC News Now",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "7gF2juafPuI",
             "title": "Is The U.S. In A Cyber War With Iran? | NBC News Now",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "Report: Joe Biden Flubs War Story While On Campaign Trail | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "DSUHkL3rDgI",
+            "title": "Inspector General Finds James Comey Violated FBI Policies, DOJ Won’t Prosecute | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

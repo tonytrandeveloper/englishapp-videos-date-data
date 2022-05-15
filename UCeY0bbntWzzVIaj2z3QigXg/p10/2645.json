@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lmNOGNs1l4s",
-            "title": "After The Olympic Games: The Costly Problem Of Leftover Stadiums | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "VFt4jZ5goN4",
             "title": "Families Shelter Underground As Syria Cease-Fire Fails To End Fighting | NBC News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Jared Kushner’s Access To Classified Intelligence In Question | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZvBlZscnvis",
+            "title": "Deadly Weather In The Eastern US As Tornadoes Rip Through Five States | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

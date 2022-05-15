@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xTJreVAUJEU",
-            "title": "Savannah Guthrie Joins TODAY on NBC",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "tdx0XJTsPXA",
             "title": "Meet the Press - Nancy Pelosi, Bobby Jindal & Howard Dean, Political Roundtable",
             "secondDuration": 18,
@@ -61,8 +55,14 @@
             "title": "Facebook: Friend or Foe",
             "secondDuration": 2061,
             "group": "group_7"
+        },
+        {
+            "videoId": "AeZB1aoXZ-Y",
+            "title": "Meet the Press - May 13, 2012 - Jamie Dimon, Sen. Carl Levin, Reince Priebus, roundtable",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

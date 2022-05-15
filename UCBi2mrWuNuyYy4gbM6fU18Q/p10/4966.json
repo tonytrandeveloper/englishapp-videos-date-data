@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C4rB7hSy3FQ",
-            "title": "WEBCAST: $1 Billion TSA Program",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "YZlznQpQBSs",
             "title": "Victims of Typhoon Haiyan in the Philippines Desperate for Assistance",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Pass the Veggies!",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "4bw41mu251M",
+            "title": "Martin MacNeill's Mistress 'Shocked' by Guilty Verdict",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

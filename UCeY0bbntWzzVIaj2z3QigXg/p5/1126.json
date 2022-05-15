@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Iylx2xeOAH4",
-            "title": "This Morning’s Top Headlines – August 2 | Morning News NOW",
-            "secondDuration": 988,
-            "group": "group_7"
-        },
-        {
             "videoId": "1hbWETAZBI0",
             "title": "NBC Nightly News Broadcast (Full) - August 1st, 2021",
             "secondDuration": 827,
@@ -31,8 +25,14 @@
             "title": "Covid Outbreaks On The Rise In Nursing Homes",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLsvJC7j-iA",
+            "title": "Six Million Americans In Danger Of Eviction",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WEoVtmbWMEQ",
-            "title": "Prince William, Princess Kate Meet Olympic Athletes",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "S8sddhoFJnc",
             "title": "Man Dies After Police Gunbattle",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Rare Access to Guantanamo",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxOH1Pivu6w",
+            "title": "Iraqi Forces Gain Ground in Battle for Mosul",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

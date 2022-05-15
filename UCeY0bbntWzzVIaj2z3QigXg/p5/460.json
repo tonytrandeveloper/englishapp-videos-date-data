@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I3Vhi4I7dTY",
-            "title": "Dr. Bernice King Urges Americans To Use Their Voice",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "7cazNQhJFoo",
             "title": "Airline CEOs Sound Alarm Ahead of 5G Rollout",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "How Hospitals Nationwide Are Coping With Relentless Omicron Surge",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "tJl8nSrE4L0",
+            "title": "Martin Luther King’s Family, Activists Push For Voting Rights Legislation",
+            "secondDuration": 287,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

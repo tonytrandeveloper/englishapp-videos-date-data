@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eEIrk_Hlt5I",
-            "title": "Live: Trump Delivers Remarks at a Presidential Recognition Ceremony | NBC News",
-            "secondDuration": 1197,
-            "group": "group_7"
-        },
-        {
             "videoId": "cd-59-pW6Ck",
             "title": "White House Holds Press Briefing: May 15 | NBC News",
             "secondDuration": 2024,
@@ -61,8 +55,14 @@
             "title": "Live: New York Governor Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2668,
             "group": "group_7"
+        },
+        {
+            "videoId": "XW3nL6Or3qU",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 4145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

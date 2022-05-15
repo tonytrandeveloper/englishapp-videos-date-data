@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t1JcDXQMPI4",
-            "title": "News You Missed: 'A Double Rainbow!'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Htg06q_2k8",
             "title": "Crisis in the Gulf",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "'In a Heartbeat': The Tuohy Family Story",
             "secondDuration": 424,
             "group": "group_7"
+        },
+        {
+            "videoId": "KketnUK5JWo",
+            "title": "LeBron James Chooses Miami Heat",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

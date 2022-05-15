@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bYoKRYhs-Lg",
-            "title": "Raptors seize the lead with Game 3 win in Oakland",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "kijBKHiPfX0",
             "title": "Donald Trump visits Normandy 75 years after D-Day l Watch the President's Full Address",
             "secondDuration": 1620,
@@ -61,8 +55,14 @@
             "title": "Protester remembers Tiananmen Square massacre 30 years later",
             "secondDuration": 434,
             "group": "group_7"
+        },
+        {
+            "videoId": "DWQVeMsIiFo",
+            "title": "Pelosi on impeachment: 'We know exactly what path we're on'",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

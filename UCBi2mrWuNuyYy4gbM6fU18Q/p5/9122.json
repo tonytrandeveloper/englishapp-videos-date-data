@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9LKyG_0MX_g",
-            "title": "Airline Chef Showdown: #1 Food In The Sky | Real Biz with Rebecca Jarvis",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "oZ0XtKMVYjI",
             "title": "Navy SEALS That Took Out Osama Bin Laden Expected One-Way Mission",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "New Study Focuses on the Reasons Behind Bad Dance Moves",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "NQwDFfcA0hQ",
+            "title": "Steve Carell Plays Eccentric Wrestling Coach in 'Foxcatcher'",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

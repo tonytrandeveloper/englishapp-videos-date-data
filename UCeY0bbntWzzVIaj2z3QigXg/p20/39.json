@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TDvmX4wyWag",
-            "title": "Morning News NOW Full Broadcast - March 21",
-            "secondDuration": 3168,
-            "group": "group_7"
-        },
-        {
             "videoId": "Doow3KXzMak",
             "title": "Durbin Praises Ketanji Brown Jackson's 'Considerable' Past Experience In Opening Statement",
             "secondDuration": 168,
@@ -121,8 +115,14 @@
             "title": "Full Panel: Biden, Xi Offer Conflicting Accounts Of Call Over Ukraine",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "9jJ13-7sIEw",
+            "title": "Nightly News Full Broadcast - March 19",
+            "secondDuration": 1299,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

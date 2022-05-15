@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rxBKgMZRIsk",
-            "title": "Today is the Day",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "NgG9iBn1JqM",
             "title": "Toyota Concert Series on TODAY: The Script's #1 Fan",
             "secondDuration": 18,
@@ -31,8 +25,14 @@
             "title": "2011 Toyota Concert Series Kicks Off with Rihanna",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "aqS96k4zrW0",
+            "title": "Toyota Concert Series on TODAY: Meet Susan the Super Fan",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

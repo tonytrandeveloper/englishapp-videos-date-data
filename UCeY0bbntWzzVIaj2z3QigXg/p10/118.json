@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0jJCVauPyKM",
-            "title": "How Ukrainian Doctors In The U.S. Are Helping Overwhelmed Hospitals In Their Home Country",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "ccLu-miBsGo",
             "title": "Ukrainian Member Of Parliament: ‘The Next Days Will Be Very Hard’",
             "secondDuration": 330,
@@ -61,8 +55,14 @@
             "title": "Nuclear Plant In Ukraine On Fire After Russia Shells Facility",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "hDtCOtTOQ2g",
+            "title": "LIVE: Russia Invades Ukraine | NBC News NOW Simulcast of Sky News",
+            "secondDuration": 18000,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

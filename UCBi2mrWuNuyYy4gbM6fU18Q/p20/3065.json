@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GpZltTVfHno",
-            "title": "Reese Witherspoon's Oscar",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "zvFlnITrr_o",
             "title": "Royal Wedding: Celebrity Hat Maker",
             "secondDuration": 267,
@@ -121,8 +115,14 @@
             "title": "Chris Chocola: Donald Trump 'Is Not Conservative'",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "-aYAwsG5oJw",
+            "title": "Sander Levin: 'I Want to Run Again'",
+            "secondDuration": 465,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

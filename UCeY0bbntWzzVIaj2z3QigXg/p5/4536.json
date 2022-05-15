@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s1WkFpbHIpI",
-            "title": "Trump Attacks CNN, NBC Reporters At News Conference: ‘You Are A Rude, Terrible Person’ | NBC News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "QFBQnYFDI-8",
             "title": "President Donald Trump Shames Republicans Who Did Not 'Embrace' His Support | NBC News",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "Watch As Beto O'Rourke Concedes And Thanks Supporters | NBC News",
             "secondDuration": 639,
             "group": "group_7"
+        },
+        {
+            "videoId": "czFMNst2svg",
+            "title": "Watch Live: 2018 Midterm Elections Coverage | NBC News",
+            "secondDuration": 25207,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

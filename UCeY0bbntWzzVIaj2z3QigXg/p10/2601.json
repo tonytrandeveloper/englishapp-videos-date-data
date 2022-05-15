@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HsNlXlwjn3s",
-            "title": "William Strampel, Larry Nassar’s MSU Boss, Hit With Sex Charges | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "m987NEET-Xc",
             "title": "Arrest Made In Case Of Suspicious Packages Sent To D.C.-Area Military Sites | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Police Shooting Of Stephon Clark Announced As Independent Oversight By California DOJ   | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "olysFQkYkCA",
+            "title": "How Cambridge Analytica Used Algorithms To Trawl Through Facebook User Data | Mach | NBC News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

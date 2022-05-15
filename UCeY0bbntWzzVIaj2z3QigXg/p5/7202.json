@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GbRqLOhF1Ro",
-            "title": "Ukraine Close To Full Scale War | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "r8YGhP3zYTk",
             "title": "New Ebola Vaccine Shows Promise | NBC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Fighter Pilot Killed In F-15 Crash | NBC News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q_sQ5j9DlNo",
+            "title": "'Rubble Bucket Challenge' Reaches D.C. | NBC News",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

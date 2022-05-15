@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YT8jiUz3o7A",
-            "title": "Historic Dives Unlock The Secrets Of The Indian Ocean | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "BskdlPtw9tk",
             "title": "Police Search Terminally Ill Cancer Patient’s Hospital Room For Marijuana | NBC Nightly News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Woman Accused Of Murdering Kim Jong Un’s Half Brother Freed | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "suP3YVLlSNc",
+            "title": "Woman Attacked By Jaguar Reportedly While Taking Photo At Arizona Zoo | Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

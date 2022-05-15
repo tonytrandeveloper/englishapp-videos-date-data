@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vtHDM6Qqr6E",
-            "title": "Coronavirus, Paris protests, the Australian Open: World in Photos, Jan. 28",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "KieB_Zi5TKI",
             "title": "Race to evacuate Americans from China as virus spreads l ABC News",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Fog before Kobe Bryant’s fatal crash 'thick' like milk, witness says",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "V5VJEMad4jI",
+            "title": "Lakers star Kobe Bryant, in his own words",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

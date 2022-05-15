@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BsKFb8NnUjM",
-            "title": "New England Battling Rise In Covid Cases Among The Unvaccinated",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "TYio1Qr_6EQ",
             "title": "Protesters Gather Outside Courthouse Awaiting Verdict In Rittenhouse Trial",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Argentinian Woman Becomes Second Known Person 'Naturally' Cured Of HIV",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "_7cHrp3xbTQ",
+            "title": "LIVE: Biden Delivers Remarks On Bipartisan Infrastructure Plan | NBC News",
+            "secondDuration": 1471,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

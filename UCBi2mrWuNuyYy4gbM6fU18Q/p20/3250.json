@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EiAWY923chU",
-            "title": "Top Line: Americans Worried About Spending, Afghanistan",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "sFGPm9Ff5p0",
             "title": "Top Line: Crashergate, Senate Health Care, Palin",
             "secondDuration": 287,
@@ -121,8 +115,14 @@
             "title": "Tiger Tapes: Neighbor's Up-Close Account",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "irOduNxyIeU",
+            "title": "Beyond The Velvet Rope",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

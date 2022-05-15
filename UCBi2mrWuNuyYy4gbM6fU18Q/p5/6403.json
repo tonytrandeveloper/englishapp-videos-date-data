@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dLW1I3LVcPg",
-            "title": "Michael Slager Trial: Jury Struggling to Come to Verdict",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "oSDeE4DbeJQ",
             "title": "Thieves Dress Up as UPS Drivers Authorities Warn",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Woman Pulled from Rubble of Collapsed Building in Sioux Falls",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "BERIDp1rDBg",
+            "title": "Tennessee Woman Says It's a 'Miracle' Her Home Was Spared in Wildfires",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

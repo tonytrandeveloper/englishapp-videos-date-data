@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tPnNOzRaNXk",
-            "title": "Inside New Mexico’s Covid Vaccine Rollout Success | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "zLsmPgbM0A0",
             "title": "U.S. Economy Adds 916,000 Jobs In March | NBC Nightly News",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "U.S. Capitol Goes On Lockdown After Car Ramming, Officers Injured | NBC News",
             "secondDuration": 354,
             "group": "group_7"
+        },
+        {
+            "videoId": "IrDa5LMhhb0",
+            "title": "First Generation College Students Speak On Covid’s Impact | NBC News NOW",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

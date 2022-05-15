@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SUn84kEDGJs",
-            "title": "A Great Big World's Debut Album 'Is There Anybody Out There?' Drops",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "HEw5L1Rix6M",
             "title": "Polar Vortex Returns: Winter Storm Targets East Coast",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: \"Black Widow\" Terror Threat",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Yniht4bgGY",
+            "title": "Male Student Shot at Widener University",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

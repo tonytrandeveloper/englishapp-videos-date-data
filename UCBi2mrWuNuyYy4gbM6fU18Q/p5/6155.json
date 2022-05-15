@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IKPdUdfSpdw",
-            "title": "Zoos in Atlanta, Boston Prepare for Super Bowl LI",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "MbPj7GS1jdw",
             "title": "Full: White House Press Briefing with Sean Spicer (2/2/2017) | ABC News",
             "secondDuration": 1462,
@@ -31,8 +25,14 @@
             "title": "Josh Brown Interview on Domestic Abuse Allegations | ABC News",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "xotpVQT0bqY",
+            "title": "Hostage Situation at Delaware Prison: 1 Employee Dead",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

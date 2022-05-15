@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QSAG4OFoWfA",
-            "title": "Dangerous winter storm wreaks havoc on air travel",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "11GIHeDwymM",
             "title": "Trump offers protection for 'dreamers' in exchange for border wall",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Illegally tapped pipeline goes up in flames",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ZNC91ULgBs",
+            "title": "Democrats pledge to get to the bottom of Buzzfeed report",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

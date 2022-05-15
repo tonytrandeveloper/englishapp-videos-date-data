@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gMmHMZY36kc",
-            "title": "Dancing Grannies Make Inspiring Parade Return",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "rDN-upWASqs",
             "title": "Venezuelans Struggle To Afford Food As Hunger Increases Across Americas",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "U.S. Announces Diplomatic Boycott Of Beijing Winter Olympics",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVTII-Twxkg",
+            "title": "Biden Administration Restarts Trump-Era Immigration Policy",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

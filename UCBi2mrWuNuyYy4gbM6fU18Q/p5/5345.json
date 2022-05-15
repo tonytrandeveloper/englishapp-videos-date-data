@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fqLqWpFb3_4",
-            "title": "LA Times releases audio of Roy Moore’s offhand comment on slavery",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "KVkAduoARb8",
             "title": "Thousands of firefighters battle 6 major wildfires",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "Misconduct crisis grows on Capitol Hill",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvGtN7HJ1So",
+            "title": "FBI interviewed 21-year-old gunman back in 2016",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

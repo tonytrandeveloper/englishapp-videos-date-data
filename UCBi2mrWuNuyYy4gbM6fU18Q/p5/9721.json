@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2baGfrwHqkU",
-            "title": "'This Week': Michael Sam's Breakthrough",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4YQD89dbEc",
             "title": "'This Week': Hollywood Takes on D.C.",
             "secondDuration": 217,
@@ -31,8 +25,14 @@
             "title": "'Orange is the New Black' Release Date Announced by Netflix",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "yYK5IJ3LIPw",
+            "title": "13 New Episodes of 'House of Cards' Released",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

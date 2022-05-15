@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HoZiRDIQyIY",
-            "title": "Elizabeth Vargas Opens Up About Alcoholism and Anxiety",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "hh5x3jYBfaw",
             "title": "Apple Announces Features of New iPhone 7",
             "secondDuration": 378,
@@ -121,8 +115,14 @@
             "title": "Simone Biles Surprises Laurie Hernandez on GMA",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0o7773zcwc",
+            "title": "'GMA' Hot List: Simone Biles' Pizza Surprise and 'DWTS' Cast Live",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

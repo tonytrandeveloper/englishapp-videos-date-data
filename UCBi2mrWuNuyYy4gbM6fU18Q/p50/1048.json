@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "w1AAkW3QHQo",
-            "title": "Coney Island Reopens for First Time Since Superstorm Sandy",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTvW7xAB2fY",
             "title": "Historic Papal Meeting: Pope Francis Meets with Pope Emeritus Benedict XVI",
             "secondDuration": 111,
@@ -301,8 +295,14 @@
             "title": "911 Operator Hailed as Hero",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "HRqsgh-WnZw",
+            "title": "Housing Market Roaring Back to Life",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mS_FaPWHcKU",
-            "title": "Hurricane Irene: A Major Headache for Travelers",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "-HLymp_GCEU",
             "title": "Hurricane Irene Hits the Mainland",
             "secondDuration": 197,
@@ -31,8 +25,14 @@
             "title": "Hurricanes: Be Prepared",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "-kgsZjqEnOk",
+            "title": "East Coast Braces for Hurricane Irene",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

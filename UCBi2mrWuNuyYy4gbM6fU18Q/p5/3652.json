@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xjLFRG1_lrY",
-            "title": "Bernie Sanders hospitalized, campaign events canceled l ABC News",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "d7Y5WjuAyE8",
             "title": "Speaker Pelosi holds news conference amid impeachment inquiry | ABC News",
             "secondDuration": 3989,
@@ -31,8 +25,14 @@
             "title": "Hong Kong protests, Venezuela and Zimbabwe: World in Photos, Oct. 1",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "viP7NiA8Va4",
+            "title": "North Korea launches ballistic missile into Sea of Japan",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

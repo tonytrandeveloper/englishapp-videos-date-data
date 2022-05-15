@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lU8XMn2l6rM",
-            "title": "Missouri Businessman Accused of Kidnapping and Torture",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hs4N8yk14FA",
             "title": "NBA Light-Up Sweaters Helps Spread Holiday Cheer",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "President Obama Believes Russian President Putin Behind DNC Hacked Emails",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "65AkoJwmAos",
+            "title": "Russia's Digital Fingerprints on Election Hacking Code",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

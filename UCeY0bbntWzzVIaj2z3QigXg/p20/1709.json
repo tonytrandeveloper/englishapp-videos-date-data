@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FgY7yHk-MP0",
-            "title": "The Five Biggest Mistakes When It Comes To Financial Aid | College Game Plan | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "PwPQEya-KU4",
             "title": "Highs And Lows Of Jeb Bush's 2016 Campaign | NBC News",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "Ted Cruz Overtakes Donald Trump to Lead New NBC News/WSJ Poll | NBC Nightly News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "DNJ-R3fgZpM",
+            "title": "Michigan Governor Announces Infrastructure Study for Flint | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

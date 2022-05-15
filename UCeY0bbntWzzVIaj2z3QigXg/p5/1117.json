@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gb48Gj-TC7k",
-            "title": "Dr. Rochelle Walensky Speaks On The Latest Covid Vaccination News",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "KwEGlK42gwE",
             "title": "Prosecutor: Gov. Cuomo Under Criminal Investigation",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On Covid Vaccinations | NBC News",
             "secondDuration": 1876,
             "group": "group_7"
+        },
+        {
+            "videoId": "4V6x7FtfhfE",
+            "title": "White House Holds Press Briefing: August 3 | NBC News",
+            "secondDuration": 2946,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lI4JLESBlyA",
-            "title": "Hurricane Sandy 2012: Danger of Falling Trees Lingers After the Storm",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "_MZLbtOfPIA",
             "title": "Transportation Nightmare: Gas Shortage, Gridlock",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sandy Recovery Effort: Race to Get Power Back On As Temps Drop",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "gMwCfk6I2vo",
+            "title": "\"World News\" Portrait of a Candidate: Barack Obama Interview",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

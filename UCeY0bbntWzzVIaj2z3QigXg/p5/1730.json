@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g4wEJR3EfYI",
-            "title": "NBC News NOW Full Broadcast - March 2nd, 2021 | NBC News NOW",
-            "secondDuration": 3112,
-            "group": "group_7"
-        },
-        {
             "videoId": "G1pmwhv7DK4",
             "title": "Historic J&J, Merck Partnership Will Speed Up Availability Of Vaccine | NBC News NOW",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Six Dr. Seuss Books Pulled After Criticism For Racist Images | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "k7IRixFo-6A",
+            "title": "FBI Director Wray Testifies In Senate Hearing On Capitol Attack | NBC Nightly News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

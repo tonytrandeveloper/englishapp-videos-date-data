@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gQdgIJkC2Tg",
-            "title": "The Real Facts About Carfax",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "dE8SXlDGdOg",
             "title": "Problems Continue for Carnival Cruises",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Elephant Dung Coffee: Smooth, Rich, Expensive",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "V6G4VlZthxQ",
+            "title": "Steubenville Rape Trial: Inside the Scandal",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

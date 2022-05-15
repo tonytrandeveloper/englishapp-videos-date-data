@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3zV4zphXmlA",
-            "title": "Groundhog Sees His Shadow",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "KI_WtAR4XAI",
             "title": "Amplified: Spoon",
             "secondDuration": 566,
@@ -31,8 +25,14 @@
             "title": "The History of Our $1.6 Trillion Deficit",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2Vn1DEIKV0",
+            "title": "China vs. USA: Green, Clean Energy Leaders",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

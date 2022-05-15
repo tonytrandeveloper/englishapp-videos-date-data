@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "EofoAqDcNZw",
-            "title": "Gunman at U.S. Capitol Shot by Police, Taken Into Custody | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "IgwJUsJGAsk",
             "title": "Georgia Governor to Veto Controversial ‘Religious Rights’ Bill | NBC Nightly News",
             "secondDuration": 144,
@@ -301,8 +295,14 @@
             "title": "John Kasich Critical Of President Obama's Response To Brussels Attacks | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "AMmyquq047s",
+            "title": "Cuban Entrepreneurs Consider The Future | NBC News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

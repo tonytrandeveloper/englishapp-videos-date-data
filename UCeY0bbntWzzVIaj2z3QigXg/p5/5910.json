@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2hk-mQYEdWw",
-            "title": "U.S. Justice Department Files Brief Rejecting LGBTQ Workplace Protections | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "jqIiG2-ZR94",
             "title": "Anthony Scaramucci Goes On Profane Tirade | NBC Nightly News",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Man Allegedly Kills Wife During Cruise Off Alaska | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "LqquhTCdzDY",
+            "title": "Health Care \"Vote-a-Rama\": What is it? | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

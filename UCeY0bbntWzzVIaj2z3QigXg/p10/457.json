@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "snfwaQ9nMsY",
-            "title": "Morning News NOW Full Broadcast - September 27",
-            "secondDuration": 2682,
-            "group": "group_7"
-        },
-        {
             "videoId": "lp8C4P8hwjk",
             "title": "This Morning’s Top Headlines – Sept. 27 | Morning News NOW",
             "secondDuration": 1037,
@@ -61,8 +55,14 @@
             "title": "Full Panel: 'The Number Is Moving' On Democrats' Domestic Spending Plan",
             "secondDuration": 453,
             "group": "group_7"
+        },
+        {
+            "videoId": "avCISVWdzPc",
+            "title": "Full DHS Sec. Mayorkas: 'We Are Working In A Completely Broken System'",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

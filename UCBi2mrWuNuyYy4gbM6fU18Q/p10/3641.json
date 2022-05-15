@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pIK28wLGU8w",
-            "title": "Police Violence Caught On Tape Released by Chicago",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "5JjJ50ItSDI",
             "title": "Clinton Describes Trump as 'Temperamentally Unfit' for Presidency",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "How Star Wars Replicas Are Made",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "yj5U-tr-E24",
+            "title": "Girl Overjoyed at Doll With Matching Prosthetic Leg",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

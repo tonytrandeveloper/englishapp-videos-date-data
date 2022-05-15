@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UeExOsyAAdY",
-            "title": "Carly Rae Jepsen is Broadway Bound in 'Cinderella'",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "0fZen3rtl4w",
             "title": "Kenneth Bae Appeals to US in North Korea Press Conference",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Road Rage Leads to Wild High Speed Chase",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "mbkwG8sF__g",
+            "title": "Super Bowl 2014: 49er's Jim Harbaugh Called Out for Fashion Faux Pas",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

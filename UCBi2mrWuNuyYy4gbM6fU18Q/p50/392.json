@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6AD5tWM8tpg",
-            "title": "Conditions deteriorating quickly as storm bears down on Gulf",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "KYvDXqF0ozo",
             "title": "Explore the historic South West Coast Path through Cornwall, England | ABC News",
             "secondDuration": 139,
@@ -301,8 +295,14 @@
             "title": "Marriott accused of hidden fees",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "LeHUiJGAZak",
+            "title": "UK ambassador resigns after leaked cables",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

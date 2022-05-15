@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "n0Zo_O1FZ7k",
-            "title": "President Donald Trump arrives in Las Vegas following deadly mass shooting",
-            "secondDuration": 1509,
-            "group": "group_7"
-        },
-        {
             "videoId": "VLx3kdNSmEw",
             "title": "Las Vegas shooter's girlfriend could be central to investigation",
             "secondDuration": 213,
@@ -31,8 +25,14 @@
             "title": "OJ Simpson photographed golfing after prison release",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "ppf-krWypOQ",
+            "title": "Trump surveys hurricane damage in Puerto Rico",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

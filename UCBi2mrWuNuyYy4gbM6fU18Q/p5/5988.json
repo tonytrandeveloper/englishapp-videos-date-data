@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "55BSoOflTuw",
-            "title": "Fire hero's life mission",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "cIN2PdDTwtQ",
             "title": "This Amazonian frog's toxins have become part of latest cleansing trend",
             "secondDuration": 538,
@@ -31,8 +25,14 @@
             "title": "Gymnasts testify before Congress about sex abuse claims",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6Y14P0yEGU",
+            "title": "Hillary Clinton takes aim at Trump administration",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

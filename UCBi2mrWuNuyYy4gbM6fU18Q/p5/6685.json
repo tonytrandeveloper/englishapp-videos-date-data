@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y4BKfL-PA2Y",
-            "title": "Aerials Show Hurricane Matthew Damage in Cuba",
-            "secondDuration": 38,
-            "group": "group_7"
-        },
-        {
             "videoId": "UlIRzA7U6Qg",
             "title": "Aerials of Damaged Florida Pier After Hurricane Matthew Hits",
             "secondDuration": 49,
@@ -31,8 +25,14 @@
             "title": "South Carolina Prepares for Hurricane Matthew",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "oGMXln1ggrA",
+            "title": "Hurricane Matthew Hammers Florida",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

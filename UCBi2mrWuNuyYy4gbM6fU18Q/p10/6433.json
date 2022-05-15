@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hk6q1QqzGhA",
-            "title": "Chelsea King's Parents Fight for Justice",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "avcNxjD-PSY",
             "title": "Amanda Knox Case File Opened",
             "secondDuration": 302,
@@ -61,8 +55,14 @@
             "title": "Morning Mix: Tom Hanks Weighs In",
             "secondDuration": 443,
             "group": "group_7"
+        },
+        {
+            "videoId": "9CCsE-UJUXY",
+            "title": "'Your Three Words' From Oscar Nominees",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

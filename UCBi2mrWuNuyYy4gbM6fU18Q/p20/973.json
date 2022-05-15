@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bROjmfQIw6I",
-            "title": "Tom Cruise surprises fans with 'Top Gun: Maverick' trailer | ABC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "0N0pQlXKCM0",
             "title": "Investigation launched after bus carrying kids bursts into flames | ABC News",
             "secondDuration": 105,
@@ -121,8 +115,14 @@
             "title": "Arson suspected in Kyoto blaze that may have killed at least 20",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "3BPbpCvZY24",
+            "title": "Couple swept off rocks into ocean in Hawaii",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

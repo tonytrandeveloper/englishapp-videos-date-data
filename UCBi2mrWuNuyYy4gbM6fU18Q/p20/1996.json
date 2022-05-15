@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CQhA28BO0HY",
-            "title": "White Hot Christmas: 72 Degrees in New York",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "vLgFQF28zQU",
             "title": "Back in the Headlines: Iranian Hostage Crisis of 1979",
             "secondDuration": 93,
@@ -121,8 +115,14 @@
             "title": "Will Smith, Gugu Mbatha-Raw on Starring in 'Concussion'",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "JIIix_5N46Q",
+            "title": "Missouri College Student Suspected of Killing Her Fiance",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

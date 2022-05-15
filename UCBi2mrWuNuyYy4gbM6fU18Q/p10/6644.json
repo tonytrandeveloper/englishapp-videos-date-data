@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fjftPhCtDDw",
-            "title": "Catch Up With Brad Paisley",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "cAWIkMLBhC0",
             "title": "The Bottom Line on Biden's Visit to Iraq",
             "secondDuration": 220,
@@ -61,8 +55,14 @@
             "title": "Exclusive: Inside Michael Jackson's Mansion",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "vGIGu4w-D7s",
+            "title": "Jackson's Will: Who Gets What?",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

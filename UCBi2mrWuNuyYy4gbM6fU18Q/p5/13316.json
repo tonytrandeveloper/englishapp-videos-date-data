@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s4D_D2pPFy0",
-            "title": "Jim Maki: New Life With a New Face",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "h_XACwPeu04",
             "title": "Quick Fix: Obama's Favorite Theologian?",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Sonia Sotomayor: Then and Now",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "GLJx-4Jg1cA",
+            "title": "Geithner: Defends The Economic Plan",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

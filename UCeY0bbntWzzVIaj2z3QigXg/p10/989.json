@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MI2ke9iEaTE",
-            "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "P_Fi3RWUpSE",
             "title": "Massive Winter Storm Hits Northeast | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Why The Affordable Care Act Might Not Be Reaching The Right Americans | NBC News NOW",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "aD7YjArmZDs",
+            "title": "Medical Workers On How Coronavirus Misinformation Impacts Patients Care  | NBC News NOW",
+            "secondDuration": 860,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yBqPblDTnqU",
-            "title": "WEBCAST: Amanda Knox Returns to Court",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "MwoKTTDUET8",
             "title": "Caught on Tape: Newlyweds' Terrifying Close Encounter With Shark",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Roundtable I: Karl Rove and Jim Messina",
             "secondDuration": 1680,
             "group": "group_7"
+        },
+        {
+            "videoId": "ePaNXjlP4E0",
+            "title": "'This Week' Web Extra: Karl Rove",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

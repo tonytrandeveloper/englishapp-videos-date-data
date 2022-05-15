@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hqevFlht4fI",
-            "title": "What To Do If You Win The Lottery | Better | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "EA-WhFRMBBE",
             "title": "Watch Live: Secretary Of State Mike Pompeo Holds Press Conference | NBC News",
             "secondDuration": 887,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Praises Ted Cruz, Calls Beto O'Rourke 'Stone Cold Phony' At Rally | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "VB6SNVajb74",
+            "title": "President Donald Trump Campaigns For Ted Cruz At Texas Rally | NBC News",
+            "secondDuration": 5645,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

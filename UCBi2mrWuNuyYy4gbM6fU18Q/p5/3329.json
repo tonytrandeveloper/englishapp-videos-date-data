@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nBLGDrpvq2Y",
-            "title": "NSA is withholding 'potentially relevant documents' to Ukraine: Rep. Schiff | ABC News",
-            "secondDuration": 527,
-            "group": "group_7"
-        },
-        {
             "videoId": "GWc-pZ-T35A",
             "title": "Looking ahead to the impeachment fight | ABC News",
             "secondDuration": 362,
@@ -31,8 +25,14 @@
             "title": "House submits summary of case for Senate impeachment trial",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "upr8c9TQZFg",
+            "title": "Mysterious coronavirus kills 2, sickens dozens",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

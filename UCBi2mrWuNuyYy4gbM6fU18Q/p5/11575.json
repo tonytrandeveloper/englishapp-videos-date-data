@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "twNaMXqnZkE",
-            "title": "FACEBOOK WEBCAST",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "_4JiZ8nq9kw",
             "title": "GMA's Robin Roberts' New Battle",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "'Escape From Alcatraz' Mystery Revisited",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "smt1pNCXzGI",
+            "title": "Spain's Economic Woes: Bullfighting Cutbacks",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

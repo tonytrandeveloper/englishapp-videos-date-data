@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tyBuNina-_U",
-            "title": "Roll of the Dice",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "c1d1rIxQDRM",
             "title": "Gibson's Full Interview With Obama (Part 1)",
             "secondDuration": 431,
@@ -121,8 +115,14 @@
             "title": "Golf's Tiger Trap: Will Time Off Hurt the Game?",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "rJTuSa4jDzo",
+            "title": "What You Don't Know About Sex",
+            "secondDuration": 296,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

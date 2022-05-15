@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "VMiPGvSxAis",
-            "title": "Why The U.S. Is Giving Millions To Ukraine | NBC News Now",
-            "secondDuration": 325,
-            "group": "group_7"
-        },
-        {
             "videoId": "35-KpOBGjj4",
             "title": "Is President Donald Trump Engaging In Witness Intimidation? | NBC News Now",
             "secondDuration": 210,
@@ -301,8 +295,14 @@
             "title": "Test Reveals Toxic Content Found In Vapor From Illicit THC Cartridges | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieO4ZfPvzoE",
+            "title": "Hero Firefighter Dies Rescuing Other First Responders From Apartment Inferno | NBC Nightly News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

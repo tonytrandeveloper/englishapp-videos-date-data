@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nCxutLlnfPE",
-            "title": "Kellyanne Conway Full Interview: Mitt Romney 'Out of His Way' to Hurt Trump",
-            "secondDuration": 598,
-            "group": "group_7"
-        },
-        {
             "videoId": "5k4aP_ebigQ",
             "title": "Cenk Uygur: 'Recount Will Show the Same Thing'",
             "secondDuration": 496,
@@ -61,8 +55,14 @@
             "title": "Cubans On Surviving Fidel Castro's Cuba",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKK4WSxoU1U",
+            "title": "Fidel Castro's Death Impact on Cuba",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

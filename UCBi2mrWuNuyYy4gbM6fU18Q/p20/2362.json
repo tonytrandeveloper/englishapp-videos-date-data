@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ew3H0oERAOg",
-            "title": "'This Week': Sneak Peak at Exclusive Hillary Clinton Interview",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "AiVF5T4EN7M",
             "title": "'This Week': New Details of Sgt. Bowe Bergdahl's Captivity",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "Flying Across the Country for a First Date",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "lz1sjvd33-8",
+            "title": "Wounded Marine Vet Sets Out to Win the Baja 500",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

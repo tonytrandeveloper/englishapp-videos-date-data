@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HIU-gAsVeb4",
-            "title": "Ivanka Trump Arrives In South Korea To Attend Winter Olympics Closing Ceremony | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "hbFlwpdQtog",
             "title": "At Least 6 Dead From Midwest Flooding | NBC Nightly News",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Kids Flock To Florida State Capitol To March For Gun Reform | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "ivt_cUhvXEc",
+            "title": "President Trump Hears Emotional Pleas From School Shooting Survivors, Families | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

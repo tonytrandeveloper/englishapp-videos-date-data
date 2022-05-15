@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NE9G830exA8",
-            "title": "Police search LA mall for reported gunman",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsY2Zd65hoE",
             "title": "United against hate in the wake of deadly mosque attack",
             "secondDuration": 60,
@@ -61,8 +55,14 @@
             "title": "New details on final moments of deadly Ethiopian Airlines flight",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "QMVlVX59fFc",
+            "title": "'Full House' actress dropped by Hallmark amid college admissions scandal",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

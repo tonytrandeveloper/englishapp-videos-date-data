@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Qeua7PPg9v4",
-            "title": "Boy asks for hug and Trump delivers",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "N3yPl4rLflo",
             "title": "Thousands of people remain in shelters post-Hurricane Florence",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Trump reacts to new North Korea denuclearization promises",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dyVTEJJ6wBs",
+            "title": "Kavanaugh accuser won't testify before FBI probe",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

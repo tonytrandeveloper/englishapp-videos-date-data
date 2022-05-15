@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nc7HlQfdKYs",
-            "title": "The Final Act l 20/20 l PART 3 | ABC News",
-            "secondDuration": 355,
-            "group": "group_7"
-        },
-        {
             "videoId": "LYozo4-BhBM",
             "title": "Disgruntled employee opens fire at VA Beach municipal building: Police",
             "secondDuration": 417,
@@ -61,8 +55,14 @@
             "title": "Meet the new champions from the Scripps National Spelling Bee",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "V77j1V7XiDs",
+            "title": "New Mexico student tased by deputy",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

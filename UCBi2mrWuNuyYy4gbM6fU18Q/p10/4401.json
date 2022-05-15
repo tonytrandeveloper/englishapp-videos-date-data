@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TsVUQphYE10",
-            "title": "VIDEO: Woman Shot Out Of A Cannon POV",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "YxE4_uSGny0",
             "title": "Diane von Furstenberg Talks 6th Annual DVF Awards",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Iraqi Prime Minister on ISIS: \"We Have to Stop Them\"",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "S6k6oz41HGI",
+            "title": "Colin Powell: 50th Anniversary of Selma Interview",
+            "secondDuration": 439,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

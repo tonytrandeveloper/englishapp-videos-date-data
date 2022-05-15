@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MltgcggG4dk",
-            "title": "Special Report: Trump meets North Korea's Kim Jong Un in the DMZ",
-            "secondDuration": 1424,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tqx9HVQSZss",
             "title": "This Group Is Defaulting On Their Student Loans Intentionally | NBC Nightly News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "73-Year-Old Hiker Found Alive After One Week In The Wilderness | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "FJyv_8EMUBs",
+            "title": "Trump Invites Kim Jong Un To Meet Him At The DMZ In A Tweet | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

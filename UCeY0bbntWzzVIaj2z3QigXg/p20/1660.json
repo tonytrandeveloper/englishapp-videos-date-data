@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "s5g8QVPHIx4",
-            "title": "Hillary Clinton As Senator | Flashback | NBC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "xv4MWocyNoA",
             "title": "President Obama's Democratic National Convention Speech (Full) | NBC News",
             "secondDuration": 2688,
@@ -121,8 +115,14 @@
             "title": "Bill Clinton Shares Story of First Meeting Hillary Clinton | NBC News",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "oT5NEW1zOso",
+            "title": "Bill Clinton Makes Political History in Role Reversal at DNC | NBC Nightly News",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

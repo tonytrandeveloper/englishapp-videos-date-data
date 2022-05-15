@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EtVgiX8V7EE",
-            "title": "8 residents found dead in Florida nursing home",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3h4COUcqxs",
             "title": "Trump hosts lawmakers again at the White House",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "Major break in cold case more than four decades old",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "HM5QPapWYHc",
+            "title": "Ken Burns interview on new PBS documentary ‘The Vietnam War’",
+            "secondDuration": 1258,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

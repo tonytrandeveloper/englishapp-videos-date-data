@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xCHFIvZ_HiM",
-            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "qtITywCjaSs",
             "title": "Tornado Hits New Orleans And Leaves Destruction In Its Wake | NBC News",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "DHS Secretary Admits He ‘Should Have Delayed’ Immigration Order, Briefed Congress | NBC News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "_t2zbk1zudY",
+            "title": "NASA Developing A New Way To Find Alien Life | Mach | NBC News",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

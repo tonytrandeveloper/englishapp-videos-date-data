@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8F5nk9Qlya0",
-            "title": "911 call released in the death of Ohio University student",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "QsYqJF0Lzwo",
             "title": "Michael Avenatti arrested on suspicions of domestic violence",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Family files lawsuit after bar security guard fatally shot by police",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYBehDBuF0o",
+            "title": "Amazon: New headquarters to bring 25k jobs to each location",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w_rgv0cKNq8",
-            "title": "SpaceX Deploys 60 Starlink Satellites After Successful Launch | Mach | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddNhOy53iJo",
             "title": "SpaceX launches Falcon 9 in Starlink mission",
             "secondDuration": 4282,
@@ -31,8 +25,14 @@
             "title": "Increasing Concerns Over Parent Smartphone Usage And How It's Impacting Kids| NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1Kucb-zh9U",
+            "title": "‘American Taliban’ John Walker Lindh Released After 17 Years In Prison | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p1pJGjnEv70",
-            "title": "Amplified: Islands",
-            "secondDuration": 332,
-            "group": "group_7"
-        },
-        {
             "videoId": "TTIHKqy2XV8",
             "title": "Cash, Coke and Credit: Money Secrets Revealed",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "3 Missing Boaters Rescued at Sea",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "bDIXsieVO6s",
+            "title": "Jaycee Dugard's House of Horror",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bBwkDK835yw",
-            "title": "Cuomo: Covid Hospitalization Numbers Rose 122 Percent In Last Three Weeks | NBC News NOW",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Kcc9sSNWQk",
             "title": "U.K.'s Boris Johnson Announces Winter Plan To Tackle Covid | NBC News NOW",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "U.S. Records Nearly 200,000 Coronavirus Infections In Single Day | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z0V7sH0VqaI",
+            "title": "New Program Sends Medical Experts To Respond To Mental Health Calls Instead Of Police | NBC News NOW",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

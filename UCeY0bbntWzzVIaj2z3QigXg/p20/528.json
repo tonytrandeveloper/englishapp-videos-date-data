@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AF0htpdvC9g",
-            "title": "Presidential Election Reported By TV News Around The World | NBC News NOW",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "xVn9tbH_3IM",
             "title": "Polarized Politics Concerns Lawmakers Around World | NBC News",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "NBC News projects Biden Will Win California, Oregon And Washington | NBC News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "AHTsqIV6_-g",
+            "title": "Hallie Jackson: Energy At White House ‘Very Positive’ As Election Results Come In | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "s4jucIk9_Yo",
-            "title": "Full Granholm: Ransomeware Attacks and Infrastructure",
-            "secondDuration": 509,
-            "group": "group_7"
-        },
-        {
             "videoId": "xdnLej7Yp9w",
             "title": "Full Warner Interview: Challenges of Cybersecurity",
             "secondDuration": 466,
@@ -31,8 +25,14 @@
             "title": "Rep. AOC Endorses NYC Mayoral Candidate Maya Wiley",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "Osh-LmGOCCo",
+            "title": "'The Effort Was Worth it': Biden, Obama Discuss Affordable Care Act",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

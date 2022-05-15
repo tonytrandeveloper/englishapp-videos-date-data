@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vnfK8Vbjv2M",
-            "title": "Ginsberg Receiving Treatment For Cancer Recurrence | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "a486Uci0H2c",
             "title": "Florida Governor Says White House Accelerating Remdesivir Doses To Hard-Hit State | NBC News NOW",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "NY Doctor Gives Advice To Healthcare Workers In New Coronavirus Hotspots | NBC News NOW",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqQVpIEBNZI",
+            "title": "Artist Hopes Viral Song Will Reinvigorate Calls For Justice For Breonna Taylor & McClain | NBC News",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

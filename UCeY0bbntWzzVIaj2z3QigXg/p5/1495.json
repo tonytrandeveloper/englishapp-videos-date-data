@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eIZgGjpITyM",
-            "title": "Testing New York State’s Excelsior Pass | NBC News NOW",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "RirLVZPLrjY",
             "title": "Brennan: ‘The President Needs To Remain Very Vigilant’ When Dealing With Russia | NBC News",
             "secondDuration": 347,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - April 30 | NBC News NOW",
             "secondDuration": 2914,
             "group": "group_7"
+        },
+        {
+            "videoId": "1MBjlelTSrQ",
+            "title": "White House Covid Team Announces 100 Million U.S. Adults Fully Vaccinated | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "swLJ3dBB4SI",
-            "title": "\"Bachelor in Paradise': Exclusive Behind the Scenes",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "yZPpmmKSJXg",
             "title": "Mystery Continues in Church Bombings in New Mexico",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Pipe Dream | ABC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcTTjwfoSmM",
+            "title": "Dr. Dre's New Album Release | ABC News",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jE6heHu4n6A",
-            "title": "Double Agent's Revenge Killings",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "NSTcbQP6i2E",
             "title": "Weekend Window to St. Vincent and the Grenadines",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Biden Pays Tribute to Mother at DNC",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-ZV-v7SLLk",
+            "title": "5 Diets, 5 Success Stories",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

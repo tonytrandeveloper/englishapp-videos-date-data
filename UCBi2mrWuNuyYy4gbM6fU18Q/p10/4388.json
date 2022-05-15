@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OgqJBeI6noo",
-            "title": "Robert Durst Arrested: What's Next for Real Estate Heir",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "oLU-yPiFzpo",
             "title": "'Dancing With the Stars:' Rumer Willis Behind the Scenes",
             "secondDuration": 375,
@@ -61,8 +55,14 @@
             "title": "National Zoo: Andean Bear Cubs Need Names",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "Up4qAkx91PU",
+            "title": "NCAA Bracket: Craziest March Madness Fans",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q0ccNpvuJvw",
-            "title": "Belgian Police Kill Two Suspected Terrorists | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1iYimqZBv0",
             "title": "Feeling Cold Is Contagious | 3rd Block | NBC News",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "Millions March For Charlie Hebdo In Paris | NBC Nightly News",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "7HD8pSBuRp8",
+            "title": "Will Eric Holder Charge David Petraeus? | Meet The Press",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

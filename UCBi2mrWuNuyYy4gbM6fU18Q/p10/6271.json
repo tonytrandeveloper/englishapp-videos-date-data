@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gpehytpqTFw",
-            "title": "Sarah Palin Visits 'Dancing With the Stars'",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "26LuRt0J9jU",
             "title": "Pastor Accused of Killing Second Wife",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Tipping Point: Where the Senate Stands",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "mqR1gWt6BTM",
+            "title": "Amplified: The Walkmen",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

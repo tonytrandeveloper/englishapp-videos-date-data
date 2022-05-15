@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "axxtCes3lyU",
-            "title": "Freedom Summit Draws GOP 2016 Hopefuls",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "kxUYu2UctNM",
             "title": "Bobby Jindal ‘Seriously’ Looking at 2016 Bid",
             "secondDuration": 302,
@@ -31,8 +25,14 @@
             "title": "'SNL' Takes on Tom Brady and NFL Deflate-Gate",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "qWFoRKPaTVU",
+            "title": "Bill Nye \"The Science Guy\" Refutes Bill Belichick's 'Deflate-Gate' Explanation",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

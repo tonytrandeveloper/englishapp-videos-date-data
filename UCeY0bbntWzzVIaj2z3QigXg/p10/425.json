@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F5N2j4REwxg",
-            "title": "WATCH: Actor William Shatner Becomes Oldest Person To Travel To Space Aboard Blue Origin Rocket",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "ThVwhAt9HdA",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1881,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - October 12th",
             "secondDuration": 1118,
             "group": "group_7"
+        },
+        {
+            "videoId": "BLD_AGMsibs",
+            "title": "Benton Harbor, Michigan Faces Water Crisis Amid Unsafe Lead Levels",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

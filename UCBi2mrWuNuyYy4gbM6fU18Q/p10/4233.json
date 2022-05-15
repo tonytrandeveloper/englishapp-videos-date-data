@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7FFpws_4tZA",
-            "title": "'Ghosting': New Way to Break Up Cuts Off All Contact",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "OolmWaB9voo",
             "title": "Texas Grandma Survives Nearly 48 Hours Trapped in a Ravine",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Wall Street Tanks and Prepares For More Volatility",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "hfYGgUOu5X0",
+            "title": "Pressure Is On to Get Supplies to Space Station After Space X Explosion",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

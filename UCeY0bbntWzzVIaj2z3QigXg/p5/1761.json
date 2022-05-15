@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VJ2JF7b9-aU",
-            "title": "Biden Makes Announcement On Aid For Small Businesses | NBC News",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "U0zZEzuVuYA",
             "title": "Gym Closures And Pandemic Stress Are Taking A Toll On Mental Health | NBC News NOW",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "In Their Own Words: U.S. Covid-19 Death Toll Hits 500,000 | NBC Nightly News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "CNlBkAU3oGo",
+            "title": "Vaccine Rollout Efforts Rebound After Winter Storm Setback | NBC Nightly News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

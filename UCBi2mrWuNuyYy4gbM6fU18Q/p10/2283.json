@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "D-oRQKesczo",
-            "title": "Toddler offers free hugs to strangers at Atlanta festival",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "cXxJe-fjNHg",
             "title": "Man found guilty on all counts in New York City subway bomb attack",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "Daylight saving time, marijuana legalization among ballot initiatives",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "d-mp0jh8XWI",
+            "title": "Trump campaign ad pulled from airwaves",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

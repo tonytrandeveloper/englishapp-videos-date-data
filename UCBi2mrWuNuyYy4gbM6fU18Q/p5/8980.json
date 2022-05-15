@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xChxwD02NbM",
-            "title": "EARTHQUAKE VIDEO: 11 Quakes in the last 24 hours",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "MW-eNz9Posg",
             "title": "PARIS SHOOTING: Gunman in the street caught on tape",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "\"EXCLUSIVE INTERVIEW:  Phylicia Rashad on the Bill Cosby Firestorm",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPb7WcZbwtM",
+            "title": "CES 2015: Take a Ride in a Self-Driving Car",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

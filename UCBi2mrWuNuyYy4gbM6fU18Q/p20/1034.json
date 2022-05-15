@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "cJ3CoOBm1hE",
-            "title": "'Star Wars' Peter Mayhew has died",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "JUQCvGNCjyc",
             "title": "5 injured after wind tosses bounce house",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Student: Alleged gunman sat in class for 10 minutes before opening fire",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "3BiBAUmUm6U",
+            "title": "Venezuelan opposition leader continues daring call to action amid clashes",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

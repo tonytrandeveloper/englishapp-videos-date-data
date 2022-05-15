@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ul4zREqSTkg",
-            "title": "Donald Trump: When Putin Calls Me Brilliant I'll Take the Compliment | NBC News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ul5lR2iSVtk",
             "title": "Donald Trump Proposes Mental Health Division to Address Military Suicides | NBC News",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton: 'We Are Not Putting Ground Troops into Iraq Ever Again' | NBC News",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "5UYAuaMgoPg",
+            "title": "Hillary Clinton Stresses Modernization Of The VA, But No Privatization | NBC News",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

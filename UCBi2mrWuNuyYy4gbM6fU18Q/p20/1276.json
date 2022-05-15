@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rWgsCPzCoFI",
-            "title": "Tucson, Arizona students take on both sides of the gun debate after Parkland shooting",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "9COVAgvRBDE",
             "title": "'Welcome to the revolution': Students across the country rally for gun control reform",
             "secondDuration": 275,
@@ -121,8 +115,14 @@
             "title": "Inferno kills firefighter and destroys movie set in New York City",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "5AOyCWB-Jn4",
+            "title": "Demonstrators march to protest police shooting of unarmed man",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

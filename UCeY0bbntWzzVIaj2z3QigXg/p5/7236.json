@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YYrny7pQvYg",
-            "title": "Moscow Subway Derails: Raw Footage | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "PW6zdPGeN90",
             "title": "Eric Holder Fines Citigroup $7B In Mortgage Probe | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Top 3 Lyme Disease Myths | Debunker | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7AD_QoN4gI",
+            "title": "Violent Hailstorm Sends Sunbathers Running | NBC News",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

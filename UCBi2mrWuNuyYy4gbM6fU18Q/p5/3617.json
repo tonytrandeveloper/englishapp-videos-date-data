@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lifG7ssjwTo",
-            "title": "3-year-old kidnapped from outside birthday party in Alabama: Police",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "mBoiVhuYlu4",
             "title": "30 hurt, 2 killed and worker missing after New Orleans hotel collapse",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Reports of mass atrocities as Turkey attacks Kurds | ABC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "KJSueklTwKs",
+            "title": "The Debrief: Syria-Turkey conflict, cop shoots woman in her own home, NOLA crane collapse | ABC News",
+            "secondDuration": 1726,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kTmVJkEWt1c",
-            "title": "NASA's Cassini Mission Ends After 13 Years | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "B5tZzem7hCk",
             "title": "Police Investigating Student Death At LSU Frat House | NBC Nightly News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "'Not Guilty' Verdict In St. Louis Police Shooting Trial Sparks Protests | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "tAn61rExC24",
+            "title": "North Korea's Latest Missile Launch Strains Diplomatic Options | NBC Nightly News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BjXMwle8kko",
-            "title": "Fall TV Season 2011 Review with Bruno del Granado",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "CWf0mT4N-O8",
             "title": "Amanda Knox: Conviction Overturned",
             "secondDuration": 398,
@@ -31,8 +25,14 @@
             "title": "Amanda Knox Acquitted, Innocent and Set Free",
             "secondDuration": 546,
             "group": "group_7"
+        },
+        {
+            "videoId": "vle7uZ1xPxo",
+            "title": "The Pulse: Nurses vs. Doctors; Fat Tax; \"Arrested Development\"",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

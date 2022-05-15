@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "owK7ChwfGHU",
-            "title": "Briefing Room: Trump claims 'breakthrough' on Syria, Impeachment latest, Zuckerberg on Capitol Hill",
-            "secondDuration": 1567,
-            "group": "group_7"
-        },
-        {
             "videoId": "t-BO6kBQSa8",
             "title": "Facebook CEO testifies on cryptocurrency, free expression l ABC News",
             "secondDuration": 229,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Impeachment testimonies, Turkey-Syria latest, Honduras drug-trafficking | ABC News",
             "secondDuration": 1434,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsJ6z0W6_MM",
+            "title": "President Trump makes statement on Syria from the White House | ABC News",
+            "secondDuration": 1980,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

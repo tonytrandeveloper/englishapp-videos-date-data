@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xW51wg3ymNs",
-            "title": "George Floyd Protesters Take To Streets Across US For Third Weekend | NBC Nightly News",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "sQXBccfmyBE",
             "title": "Live: Georgia Investigators Hold Presser on Officer-Involved Shooting of Black Man | NBC News",
             "secondDuration": 602,
@@ -31,8 +25,14 @@
             "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
             "secondDuration": 2902,
             "group": "group_7"
+        },
+        {
+            "videoId": "gt3P8E4nknM",
+            "title": "Silent in Seattle: Thousands March In Quiet Support of Black Lives Matter | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

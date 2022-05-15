@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-li876AbolI",
-            "title": "What is the Electoral College? America 101",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jg5eNv4yKdU",
             "title": "Michael Phelps Marries Nicole Johnson",
             "secondDuration": 266,
@@ -121,8 +115,14 @@
             "title": "Trump to Spend Over $100M on Campaign [EXCLUSIVE INTERVIEW]",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "SlhWMOhYT48",
+            "title": "Trump Slams Clinton for Going to Adele Concert [EXCLUSIVE INTERVIEW]",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

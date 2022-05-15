@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p3_hvKVMvM4",
-            "title": "Trump vs Clinton: What Do New Yorkers Think? | Election Cycle",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYB3ZrODrA8",
             "title": "Loretta Lynch Condemns Police Attacks in Baton Rouge",
             "secondDuration": 279,
@@ -121,8 +115,14 @@
             "title": "Turkey Demands US Extradite Turkish Cleric Fethullah Gulen",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "R5wLSMRpgrE",
+            "title": "Baton Rouge Shooting | 3 Police Officers Killed After Responding to a Call",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

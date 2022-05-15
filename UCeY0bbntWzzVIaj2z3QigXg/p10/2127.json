@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zLQSLNoOGU8",
-            "title": "How The Polar Vortex Works And Why | Mach | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "ssiB13RAyQI",
             "title": "Why A New Nuclear Power Initiative Failed In China | Mach | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "How The Polar Vortex Is Linked To Climate Change | NBC News Signal",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "sONXFVo8v6I",
+            "title": "Is President Donald Trump A Shoo-In For 2020? | NBC News Signal",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u3zl09aor8M",
-            "title": "Lions, Gorillas, and Elephants Aren?t Always Photogenic on a Safari",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "7SjNoZ-9sgo",
             "title": "President Assad Fires Back at the United States",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Two Drug Related Deaths Force NYC Music Festival to Shut Down",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "2IXb_xAeK9M",
+            "title": "'Mortal Instruments' Series Is the Hot New Book Series",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

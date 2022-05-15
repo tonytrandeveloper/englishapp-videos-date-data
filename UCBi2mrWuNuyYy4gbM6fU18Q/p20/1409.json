@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8fYgQng0lIM",
-            "title": "School video shows young boy with autism dragged down a hallway by teachers",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkVyBDqFUIg",
             "title": "FBI arrest suspect for allegedly trying to detonate a cargo van outside an Oklahoma bank",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "'10% Happier with Dan Harris' with the Dalai Lama",
             "secondDuration": 1553,
             "group": "group_7"
+        },
+        {
+            "videoId": "bwxRKGJf88Q",
+            "title": "Trump's comments on Charlottesville under fire from GOP colleagues",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

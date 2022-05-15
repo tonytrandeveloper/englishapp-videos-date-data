@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MJNf07qocts",
-            "title": "Rob Kardashian’s Health Scare | ABC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "hWy7dQwRlsU",
             "title": "Missouri Flood Disaster | ABC News",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Search for Missing Singer Craig Strickland of Backroad Anthem",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "hy_U9RvtP2w",
+            "title": "Important Deadline for Smartphone Customers",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DIS8XDZA0uE",
-            "title": "Government Shutdown Heightens Survivalists' Fears",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "UULaC0MQmJ8",
             "title": "WEBCAST: Ghost Burglar Breaks Into Liquor Store",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "2:54 Band Interview: U.K. Sisters on Writing Music Together",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sz4KFDyUpy4",
+            "title": "Explosion at LAX: 4 Dry Ice Bombs Found",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sgHPE2VWtFs",
-            "title": "Trump Releases First TV Campaign Ad",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "sEvNFZrE5ss",
             "title": "Miss Universe Philippines Speaks Out on Sharing Crown",
             "secondDuration": 329,
@@ -31,8 +25,14 @@
             "title": "Madonna Blocked on Instagram by Son Rocco",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpjkQK-UHME",
+            "title": "Obama to Take Executive Action on Gun Control",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

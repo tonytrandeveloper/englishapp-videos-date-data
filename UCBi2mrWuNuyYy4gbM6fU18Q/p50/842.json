@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "89yZNmURIZk",
-            "title": "Donald Trump Causes More Campaign Chaos With John McCain Barb",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "vMyEbAvPPJg",
             "title": "Bill Cosby Deposition Published by New York Times",
             "secondDuration": 173,
@@ -301,8 +295,14 @@
             "title": "Inside Texas Conjoined Twins' Harrowing Separation Surgery",
             "secondDuration": 593,
             "group": "group_7"
+        },
+        {
+            "videoId": "lrNluV6wE44",
+            "title": "Hot Songs Of The Summer",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

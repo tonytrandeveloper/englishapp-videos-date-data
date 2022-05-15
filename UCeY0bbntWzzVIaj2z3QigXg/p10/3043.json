@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YTsn9ZAxnHs",
-            "title": "Vice President Mike Pence Speaks At Naval Academy Graduation | NBC News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "6-0ygMj4OUw",
             "title": "Hillary Clinton: Authoritarian Regimes Attempt To Control Reality | NBC News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Amazon Opens First New York City Brick-And-Mortar Book Store | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "rufCXnCH2lo",
+            "title": "Manchester Attack: Police Manhunt For Accomplices Continues | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

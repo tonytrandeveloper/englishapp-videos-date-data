@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H-C7oY6F_cc",
-            "title": "FBI Has Clues in Boston Art Heist",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "VKX18ny7lN0",
             "title": "ABC's John Muller Joins Twitter",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Wild Foxes as House Pets?",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "oh-892hBt7U",
+            "title": "Millions Prepare for More Winter Weather",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

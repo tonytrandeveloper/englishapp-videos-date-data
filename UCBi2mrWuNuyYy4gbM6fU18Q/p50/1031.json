@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YkDuc9e5U4A",
-            "title": "Stuck Passengers Sing 'I Believe I Can Fly' on Tarmac",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "FR9zlMTlst0",
             "title": "iOS 7 Announced, Apple Gives iPhone, iPad, Ipods a Facelift",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "World News Now Polka: Painted Piano",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "23zCKcNxLoM",
+            "title": "National Donut Day 2013",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ti_Jr-sRaAs",
-            "title": "Congressmen describe how the GOP baseball shooting unfolded",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "wVz_CZjN2R0",
             "title": "Congressman in critical condition after baseball practice shooting",
             "secondDuration": 242,
@@ -121,8 +115,14 @@
             "title": "President Trump announces Virginia shooting suspect's death",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1kGIcxvmVk",
+            "title": "Jogger describes being almost hit by gunfire",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

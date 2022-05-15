@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E1nS4CrIbxE",
-            "title": "Missing soccer team found in caves: Thai governor | ABC News",
-            "secondDuration": 1630,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDtMP31z6jM",
             "title": "ABC News Live: Michael Cohen speaks out, Supreme Court picks, daring prison escape | ABC News",
             "secondDuration": 1595,
@@ -31,8 +25,14 @@
             "title": "Rescuers close in on boys' soccer team trapped in cave",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "GSwW7oRgWMY",
+            "title": "Exclusive: President Trump's former personal attorney Michael Cohen speaks out",
+            "secondDuration": 607,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

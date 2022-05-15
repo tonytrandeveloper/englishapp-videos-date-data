@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g16KeLrZRqE",
-            "title": "A$AP Rocky officially charged with assault in Sweden",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "hPSd3ORQWf4",
             "title": "Trump declares victory after Robert Mueller testimony",
             "secondDuration": 238,
@@ -121,8 +115,14 @@
             "title": "Briefing Room: The Mueller testimony | ABC News",
             "secondDuration": 1921,
             "group": "group_7"
+        },
+        {
+            "videoId": "tWHwVFaFTEY",
+            "title": "Russian meddling 'wasn't a single attempt. They're doing it as we sit here': Mueller",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

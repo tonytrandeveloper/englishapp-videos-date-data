@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VNF2KBw6EI4",
-            "title": "Cop flips coin to decide whether to arrest woman for speeding",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "zR1YJVd2Xf4",
             "title": "Mueller indicts 12 Russian intel officers for hacking Democrats in 2016 election",
             "secondDuration": 214,
@@ -121,8 +115,14 @@
             "title": "Documents suggest Cohen used WH connections for business",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LrfFIlGzFk",
+            "title": "Pres. Trump, PM May hold joint news conference in U.K",
+            "secondDuration": 3311,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

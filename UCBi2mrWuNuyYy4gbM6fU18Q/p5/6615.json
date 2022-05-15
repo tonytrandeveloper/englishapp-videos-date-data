@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "w1gK4FzVI6Q",
-            "title": "Evan McMullin: GOP Leaders are 'Putting Party Over Principle'",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "zPAeotUNgOU",
             "title": "Ash Carter on Fight Against ISIS: 'ISIL Will Surely Be Destroyed'",
             "secondDuration": 261,
@@ -31,8 +25,14 @@
             "title": "Mosul Offensive | US-Backed Iraqi, Kurdish Forces Continue the Fight",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "GoFBsIeBKjs",
+            "title": "Deadly Collison in California Causes 10 Hour Delay on Interstate",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

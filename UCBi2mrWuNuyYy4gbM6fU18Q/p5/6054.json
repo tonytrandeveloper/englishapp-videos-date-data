@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JRJUh9HSlzo",
-            "title": "Jeff Sessions Press Conference | ABC News",
-            "secondDuration": 714,
-            "group": "group_7"
-        },
-        {
             "videoId": "D717ln3whqM",
             "title": "Trump Full Speech Aboard USS Gerald R. Ford Aircraft Carrier | ABC News",
             "secondDuration": 1421,
@@ -31,8 +25,14 @@
             "title": "Russian fighter jets buzz USS Porter in the Black Sea",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "9FRmYMLw1eE",
+            "title": "George W. Bush Full Speech at the Reagan Presidential Library | ABC News",
+            "secondDuration": 3176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

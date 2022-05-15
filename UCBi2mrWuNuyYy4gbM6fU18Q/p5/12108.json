@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oql83SSwpY8",
-            "title": "Anders Behring Breivik: Video Manifesto Has Camp Shooting Motivations; Oslo, Norway (07.25.2011)",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Q5GtWWI85U",
             "title": "Dominique Strauss-Kahn Accuser Opens Up: DSK Lawyer Says Nafissatou Diallo Is On 'Media Campaign'",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Interview with Tom Daschle and Trent Lott",
             "secondDuration": 380,
             "group": "group_7"
+        },
+        {
+            "videoId": "t8yZPypZ3jE",
+            "title": "Interview with Timothy Geithner",
+            "secondDuration": 470,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

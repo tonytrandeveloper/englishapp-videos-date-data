@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NxFKZhRDIb4",
-            "title": "Military C-130 Crashes In Mississippi | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-9XStUPtKg",
             "title": "US Marines Corps KC-130 Crashes In Mississippi | NBC Nightly News",
             "secondDuration": 43,
@@ -121,8 +115,14 @@
             "title": "Bull Runners Tumble Onto Cobbled Streets On Fourth Day Of Pamplona Festival | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "orOamCY3bv4",
+            "title": "Food Forward: Making Kelp the New Kale | Mach | NBC News",
+            "secondDuration": 315,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

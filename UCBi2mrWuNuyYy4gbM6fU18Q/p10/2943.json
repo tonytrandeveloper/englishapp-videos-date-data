@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6hZ4fOJuJc4",
-            "title": "White House press briefing following termination of FBI Director James Comey",
-            "secondDuration": 1750,
-            "group": "group_7"
-        },
-        {
             "videoId": "fV3wGeTpOvI",
             "title": "FBI Director James Comey fired",
             "secondDuration": 324,
@@ -61,8 +55,14 @@
             "title": "Someone called for help approximately 12 hours after fraternity pledge became unconscious",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "W82RDt5nvVM",
+            "title": "Chaos ensued after Spirit Airlines cancelled 11 flights and delayed dozens more",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

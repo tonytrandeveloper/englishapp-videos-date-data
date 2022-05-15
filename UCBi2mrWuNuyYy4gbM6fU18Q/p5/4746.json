@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pDEJ7YCy3u4",
-            "title": "Family narrowly escape deadly wildfire in Montana",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "_l1Ly8k5yuI",
             "title": "Trump's lead attorney gives a new reason not to testify in the Russia investigation",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "Bodycam video shows heroic police officers rescue woman from burning building",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "owexb5-eCXg",
+            "title": "UMD players and parents break their silence about 'toxic' football program",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

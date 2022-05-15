@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "047tljaD3uA",
-            "title": "‘The Watcher’ suspect sends new letter to NJ home owners",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "yAcTDpit24U",
             "title": "Final Four teams gear up for big night",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Fire causes portion of Atlanta highway to collapse",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "i2kfY_UPjZ8",
+            "title": "Severe weather expected in South and Midwest, possible snow in Northeast",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

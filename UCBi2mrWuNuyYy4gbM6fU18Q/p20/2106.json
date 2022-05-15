@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lrNluV6wE44",
-            "title": "Hot Songs Of The Summer",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "w_mlnZVTOQQ",
             "title": "Caitlyn Jenner Steals The Show At The ESPYs",
             "secondDuration": 251,
@@ -121,8 +115,14 @@
             "title": "Louis Tomlinson Is Going To Be A Dad!",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "C3Eiu52X5gM",
+            "title": "James Holmes Murder Case Goes to the Jury",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

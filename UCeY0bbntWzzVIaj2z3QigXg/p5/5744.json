@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v0Onl_PbWMc",
-            "title": "Hurricane Maria Knocks Out Power Across All Of Puerto Rico | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "tRQBy1KCkjs",
             "title": "‘We Need Each Other’: San Juan Mayor Cruz On Reconstruction Of Devastated City | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Iranian Leader Takes Aim At ‘Rogue Newcomer’ President Donald Trump In U.N. Address | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "xDOil81EZ94",
+            "title": "Barack Obama Calls GOP’s Relentless Obamacare Repeal Efforts ‘Aggravating’ | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

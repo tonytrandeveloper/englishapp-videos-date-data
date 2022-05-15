@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7YXjPoY2qeM",
-            "title": "Mentally Ill Forced to Fight",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "muMupU_BdcM",
             "title": "HHS Secretary Talks Reform",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Quick Fix: Juju Juggles the Drug Talk",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "HdDMraQQ2Ck",
+            "title": "Soldier Opens Fire on Fellow GIs",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hRmWRCunx6k",
-            "title": "‘We Couldn’t Escape:’ Witnesses Describe Chaos At Las Vegas Concert | NBC News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "1k8zEYdZhJ0",
             "title": "FBI Believes Las Vegas Shooter Stephen Paddock Had \"No Connection\" To ISIS | NBC News",
             "secondDuration": 140,
@@ -301,8 +295,14 @@
             "title": "In Yosemite National Park, Massive Boulder Kills 1, Injures Another | NBC Nightly News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ww_IQUafX2c",
+            "title": "Hugh Hefner, Playboy Magazine Founder, Dies At 91 | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

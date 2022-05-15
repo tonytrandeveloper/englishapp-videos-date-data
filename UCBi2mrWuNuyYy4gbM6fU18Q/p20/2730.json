@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PgJ3GaFi3tY",
-            "title": "Hillary Clinton's Exit Plan for Syria's Assad",
-            "secondDuration": 162,
-            "group": "group_7"
-        },
-        {
             "videoId": "ulIwBeldmVg",
             "title": "Apple To Make Computers in USA | David Muir | Made in America",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Train Horror!",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "L23_XHmX628",
+            "title": "Awning Collapse!",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

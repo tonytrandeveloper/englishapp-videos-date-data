@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ESxx_hpCigU",
-            "title": "Clinton's Lead Virtually Gone After Email Controversy",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "cPG0w2tXj7I",
             "title": "Trump Locked in a Battle With Ruth Bader Ginsburg",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Slain Dallas Police Officers Laid To Rest",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "LC866UcPcuc",
+            "title": "3 Arrested Over Plot to Kill Police in Louisiana",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

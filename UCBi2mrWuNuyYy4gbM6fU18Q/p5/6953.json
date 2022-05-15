@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nq_8wLEhqgs",
-            "title": "Apartment Building Explosion | Residents Jump From Building",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "f-qvP3IZeWo",
             "title": "Rio Olympics Latest Medal Count",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "Ocean’s Eight to Feature All Female Cast",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "JsRx1pG-ctk",
+            "title": "Olympics | Team USA Gold Rush For Michael Phelps, Katie Ledecky",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

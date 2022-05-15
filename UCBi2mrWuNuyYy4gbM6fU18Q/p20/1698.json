@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N1m8bNBaVMs",
-            "title": "Dwayne Johnson on Playing Demigod Maui in 'Moana'",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "7rCrYs2YjVg",
             "title": "Donald Trump Concedes President Obama Born in US, Campaign Says",
             "secondDuration": 189,
@@ -121,8 +115,14 @@
             "title": "High School Football Team Welcomes Transgender Player",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "Truf0ktgYTA",
+            "title": "Equity Stars Share Their Story | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 725,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

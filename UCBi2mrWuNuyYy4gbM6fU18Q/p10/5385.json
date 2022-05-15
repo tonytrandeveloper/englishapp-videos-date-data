@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pCdTaukB8nU",
-            "title": "Miss America 2013 - Pageant Confidential: Miss Nip and Tuck",
-            "secondDuration": 505,
-            "group": "group_7"
-        },
-        {
             "videoId": "FwSag69LiOE",
             "title": "Miss America 2013 - Pageant Confidential: The Pressure Builds",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "Gun Control Efforts Drive Gun Sales",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "arym73aYzyY",
+            "title": "America Battles Spreading Flu Virus",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

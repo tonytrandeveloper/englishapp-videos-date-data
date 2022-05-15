@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8lLKc6rHKpM",
-            "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "2OyqVdVN8Gk",
             "title": "Live: Joe Biden Joins AFL-CIO Virtual Event | NBC News",
             "secondDuration": 2091,
@@ -121,8 +115,14 @@
             "title": "Watch NBC News NOW Live - September 4",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "rnmhjkTVymY",
+            "title": "Washington Police Kill Suspect From Deadly Portland Shooting | NBC News NOW",
+            "secondDuration": 654,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

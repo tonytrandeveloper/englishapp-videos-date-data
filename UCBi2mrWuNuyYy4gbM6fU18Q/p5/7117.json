@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aTZhwCfKkKc",
-            "title": "Deputy Bryan Woodward Drums at Church to Help Heal the Dallas Community",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "HX8zamQ5Yxw",
             "title": "Black Americans Turn to Their Children to Give 'The Talk'",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Use of Robot to Kill Dallas Gunman Raises Concerns",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYGanOktVfA",
+            "title": "Dallas Shooter's Motivations",
+            "secondDuration": 386,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

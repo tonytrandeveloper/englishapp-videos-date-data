@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aKLZoifX3ds",
-            "title": "Could an Injection Help You Shed Pounds?",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "nRkdZi2xwrw",
             "title": "Bob Woodruff: Back in the War Zone",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Surveillance Clues in Fla. Murder Mystery",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "YY_a-qHuP14",
+            "title": "Indiana Prison Break: Inmates Escape",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IcQEndxBPd4",
-            "title": "London attack: Eight minutes of terror",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "FilLac1NoAk",
             "title": "Stories of heroism after the London terror attack",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "Wild shootout leaves 1 dead in Texas",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouUE1xuPMIg",
+            "title": "'Wonder Woman' star Gal Gadot feels 'responsibility of' playing iconic character",
+            "secondDuration": 467,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

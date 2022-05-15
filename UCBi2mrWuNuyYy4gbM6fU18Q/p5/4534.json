@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DtJIYtggnaI",
-            "title": "Trump says he has written answers to questions from special counsel",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "K38E1U4r-C0",
             "title": "Hazardous air quality threat as crews continue to fight California fires",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Judge orders Trump administration to restore Jim Acosta's press credentials",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "sf92eMi1ADk",
+            "title": "The Debrief: California wildfires, winter storm, Khashoggi's funeral | ABC News",
+            "secondDuration": 1256,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZgQzGkHgR_k",
-            "title": "Kim Davis INTERVIEW | Defends Denying Same-Sex Marriage Licenses",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "XOPW_8OG2T0",
             "title": "Scott Walker Drops Out of 2016 Presidential Race",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "Pope Francis' US Itinerary Revealed",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "iVCsP83ivIY",
+            "title": "American Airlines Flight Forced to Land After Potential Bird Strike",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

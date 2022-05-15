@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LfA0pvPvl0w",
-            "title": "Hong Kong Hotel Quarantine",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "7UvieLs0moQ",
             "title": "$20 Shoes vs. $600 Shoes",
             "secondDuration": 323,
@@ -61,8 +55,14 @@
             "title": "Terry Moran's Moment of Truth",
             "secondDuration": 677,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL-PBD5agnI",
+            "title": "'GMA' Behind the Scenes",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VewfNVrPdEE",
-            "title": "White House denies Trump's alleged comments on immigrants",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "IhpIy8zcE20",
             "title": "Miss America organization cleans house",
             "secondDuration": 147,
@@ -61,8 +55,14 @@
             "title": "Early Christmas present for family that lost their home during Hurricane Harvey",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "8h7zXiy4btg",
+            "title": "Trump signs the new tax bill into law",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

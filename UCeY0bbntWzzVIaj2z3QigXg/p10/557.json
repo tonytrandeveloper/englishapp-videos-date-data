@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sZcOpCaZB8E",
-            "title": "Youth Covid Cases Rising Nationwide",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "9ycg09rbmpY",
             "title": "Pfizer Vaccine Could Get Final FDA Approval by September",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – August 4 | Morning News NOW",
             "secondDuration": 1139,
             "group": "group_7"
+        },
+        {
+            "videoId": "KicdJ9egZ8w",
+            "title": "Wuhan To Begin Mass Covid Testing After Delta Variant Outbreak",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IZ-5tWwoGw4",
-            "title": "Watch Live: White House Press Briefing January 3rd | NBC News",
-            "secondDuration": 509,
-            "group": "group_7"
-        },
-        {
             "videoId": "ATaqJwfUp7o",
             "title": "Florida Woman Recounts Moments Leading Up To Her Rescue From Submerged Car | NBC News",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "Drug Companies Start 2019 With Price Hikes | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "p8JLN1LZ5Vg",
+            "title": "Beware Of Scammers Posing As Social Security Office, Trying To Steal Your Savings | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xjtRGUfz_Mk",
-            "title": "Thousands of migrants attempt to escape violence in Central America",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "jmeU7O_ErGw",
             "title": "Jamal Khashoggi killed in fist fight at consulate, Saudi media says",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Missing pregnant postal worker likely victim of foul play: Authorities",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "nFOERemJCjU",
+            "title": "Saudi prosecutor: Fight inside consulate led to journalist's death",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

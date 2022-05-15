@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zNyVsn-V6J0",
-            "title": "Ryan Lochte Robbed at Gunpoint",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "exAsIfrQ33c",
             "title": "Milwaukee to Enforce Curfew in Wake of Unrest",
             "secondDuration": 203,
@@ -121,8 +115,14 @@
             "title": "Milwaukee Police Shooting Riots Turn Violent",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGa7yPc6rus",
+            "title": "Mountain Lion Attacks Girl",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

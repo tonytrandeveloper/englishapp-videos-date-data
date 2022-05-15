@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AF7S0tZZj0w",
-            "title": "Senate Democrats Prepare For Marathon Week Of Confirmation Hearings | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "wPfSxHYIfQ0",
             "title": "Kellyanne Conway: Russia 'Did Not Succeed' in Swaying Election (Full) | Meet The Press | NBC News",
             "secondDuration": 616,
@@ -31,8 +25,14 @@
             "title": "Lindsey Graham: Donald Trump 'Should Make Russia Pay' Price (Exclusive) | Meet The Press | NBC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "HArZhNrPcV8",
+            "title": "Police: Too Early To Link Airport Shooting To Terrorism | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

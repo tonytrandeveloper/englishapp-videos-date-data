@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0xwKQ8XTWWk",
-            "title": "Hillary Clinton Arrives at Trump Inauguration",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "pbn6aQa9Sp0",
             "title": "Trump Inauguration |  Donald Trump's Inauguration",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "What Happens Inside the White House on Inauguration Day",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "zurW8bf8phI",
+            "title": "Presidential Inauguration | Kellyanne Conway Interview",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

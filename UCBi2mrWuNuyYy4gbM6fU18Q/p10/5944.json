@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i7EAsMNZ6uA",
-            "title": "Curing Kids with Extremem Social Phobias",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "ajBONmgIWwI",
             "title": "Pregnant Afghan Child Faces Fatal Risk",
             "secondDuration": 535,
@@ -61,8 +55,14 @@
             "title": "Webcast: GOP Debate; Teenager Stuck in Chimney",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "NAiPYOdFihg",
+            "title": "Is Barbara Walters Retiring?",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

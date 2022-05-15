@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KMpGrP7HhX0",
-            "title": "Best Pictures: Real Life Stories Behind This Year’s Nominees",
-            "secondDuration": 1556,
-            "group": "group_7"
-        },
-        {
             "videoId": "OFlnayFg1e8",
             "title": "NOW Tonight With Joshua Johnson - March 25 | NBC News NOW",
             "secondDuration": 3231,
@@ -31,8 +25,14 @@
             "title": "Body Camera Footage Shows Moments Following Florida Tiger Attack",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "SCYCMq4sA_A",
+            "title": "Top Story with Tom Llamas - March 25 | NBC News NOW",
+            "secondDuration": 2602,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

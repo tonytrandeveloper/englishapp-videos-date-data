@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iPKKfzy4Z4I",
-            "title": "Trump blasts the Justice Department in televised phone interview",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9KAnwJgPRg",
             "title": "Bill Cosby found guilty on all 3 counts of aggravated indecent assault",
             "secondDuration": 275,
@@ -301,8 +295,14 @@
             "title": "Suicide bomber in Kabul, Afghanistan, claims the lives of more than 50 people",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGHYkT9Hx-M",
+            "title": "Manhunt for gunman who killed 4 people at a Tennessee restaurant",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

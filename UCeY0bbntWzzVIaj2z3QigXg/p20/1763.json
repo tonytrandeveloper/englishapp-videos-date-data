@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1XcuUO5kO4s",
-            "title": "Chris Christie Says He'll Beat Hillary Clinton | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "nqywjIVhHWY",
             "title": "Aaron Hernandez Former NFL Patriot Found Guilty of Murder | NBC Nightly News",
             "secondDuration": 171,
@@ -121,8 +115,14 @@
             "title": "Sandra Bullock's 911 Call Heard At Stalker Court Hearing | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCKaOdPowPg",
+            "title": "Walter Scott Shooting Dash Cam Video Revealed | NBC Nightly News",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

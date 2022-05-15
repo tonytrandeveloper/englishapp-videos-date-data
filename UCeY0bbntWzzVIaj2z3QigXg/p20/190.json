@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hEIwzrHybjI",
-            "title": "Inside Nashville’s Iconic Ryman Auditorium",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "aCynjNCFPKE",
             "title": "Nashville Schools Struggling Amid Pandemic Setbacks",
             "secondDuration": 231,
@@ -121,8 +115,14 @@
             "title": "Governor Phil Murphy's Victory Speech After Winning Second Term In New Jersey",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "fyGGhRhYsgQ",
+            "title": "Nightly News Full Broadcast - Nov. 3",
+            "secondDuration": 1284,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

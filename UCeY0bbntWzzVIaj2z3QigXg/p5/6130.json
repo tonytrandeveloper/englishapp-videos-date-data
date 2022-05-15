@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WSuQrshVG1I",
-            "title": "A New French President: A Look At Challenges Ahead | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "c0FxNrnc8ms",
             "title": "Fact Checking The GOP’s Health Care Claims | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Anger As Indonesian Christian Governor is Jailed For Blasphemy Against Islam | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "4s9vCFkmabs",
+            "title": "Smart Homes Are Game Changer for People With Disabilities | NBC News",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

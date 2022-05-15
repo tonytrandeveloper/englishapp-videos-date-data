@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2LdY_JeHQto",
-            "title": "On set with the cast of 'The Conners'",
-            "secondDuration": 388,
-            "group": "group_7"
-        },
-        {
             "videoId": "dENz5uznmw0",
             "title": "Trump to make his case for a border wall in address to nation",
             "secondDuration": 248,
@@ -121,8 +115,14 @@
             "title": "Rahm Emanuel: Trump's 'base will follow him... over a cliff' even if no border wall",
             "secondDuration": 580,
             "group": "group_7"
+        },
+        {
+            "videoId": "fvZEsXx4pEE",
+            "title": "Democratic strategist on 2020: 'Super Bowl of politics is just starting up'",
+            "secondDuration": 580,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UeExOsyAAdY",
-            "title": "Carly Rae Jepsen is Broadway Bound in 'Cinderella'",
-            "secondDuration": 304,
-            "group": "group_7"
-        },
-        {
             "videoId": "0fZen3rtl4w",
             "title": "Kenneth Bae Appeals to US in North Korea Press Conference",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Super Bowl 2014: Seattle Seahawks to Face Denver Broncos",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "EabdqJgltrM",
+            "title": "The Dolphin Hunt:  Ambassador Caroline Kennedy's Concern",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

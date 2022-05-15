@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OawPd0eePqk",
-            "title": "Hurricane Sandy Flight Cancellations Exceed 16,000",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "9QGQ5YH9z-U",
             "title": "Hurricane Sandy Aftermath: Governor Andrew Cuomo Tours New York City Damage",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Superstorm Sandy: Your Pictures",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "aX0sbp1hK-A",
+            "title": "Hurricane Sandy: Video of Explosion at NYC Con Edison Plant",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

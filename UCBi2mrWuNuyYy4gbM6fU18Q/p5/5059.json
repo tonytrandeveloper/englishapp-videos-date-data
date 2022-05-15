@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UArVaxBwUBY",
-            "title": "Lakers called up 11-year minor league veteran",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hwyu6b30jZg",
             "title": "Police: Man accidentally recorded murder confession",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "James Comey - An ABC News Exclusive Event Airs Sunday Night 10/9c on ABC",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "4oLY-qjqbXA",
+            "title": "Speaker Paul Ryan announces he won't seek re-election | ABC News",
+            "secondDuration": 597,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

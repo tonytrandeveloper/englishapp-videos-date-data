@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zx7p_tmWlq0",
-            "title": "White House Press Briefing - November 30, 2017 | NBC News",
-            "secondDuration": 1169,
-            "group": "group_7"
-        },
-        {
             "videoId": "fWUF8vJT2xI",
             "title": "Attorney For John Conyers Rejects Nancy Pelosi's Calls For Congressman To Resign | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "This Flight Attendant Has Been On The Job For 60 Years | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQyjgPYKTBY",
+            "title": "War Criminal Dies After Drinking Poison In Court | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1SF5a11EB4I",
-            "title": "How Sarcasm Is Linked to Creativity",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ue_jHuton58",
             "title": "A Mac & Cheese Masterpiece | ABC News",
             "secondDuration": 230,
@@ -61,8 +55,14 @@
             "title": "Wall Street Losing Streak Continues",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1DQAE_TTEw",
+            "title": "Destruction of Ancient Ruins by ISIS",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

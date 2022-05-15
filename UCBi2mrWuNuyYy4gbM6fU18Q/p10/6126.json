@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YawMSVw6Bow",
-            "title": "Is Paul Ryan a 'Wonky Member of Congress'?",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "8mGliJ2WJac",
             "title": "Health Care Law: Supreme Court Won't Fast-Track?",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Rabbits on the Loose at Long Beach City College",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "CHRBcL_5lCw",
+            "title": "Interview With Pastor Tim Keller",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

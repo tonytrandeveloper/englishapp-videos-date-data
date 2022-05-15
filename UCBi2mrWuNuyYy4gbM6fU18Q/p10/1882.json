@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9yLbvqf9cfM",
-            "title": "Jeffrey Epstein's accusers speak out on alleged sexual abuse in court l ABC News",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "pbRFZpuMvoU",
             "title": "Lori Loughlin back in court for alleged participation in college admissions scheme l ABC News",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Dorian nears Puerto Rico, Amazon burning, VMA red carpet | ABC News",
             "secondDuration": 1696,
             "group": "group_7"
+        },
+        {
+            "videoId": "ppANIvskkgY",
+            "title": "Puerto Rico braces for Tropical Storm Dorian | ABC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

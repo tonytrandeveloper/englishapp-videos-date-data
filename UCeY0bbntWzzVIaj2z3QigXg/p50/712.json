@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "9HJtUn75jZ8",
-            "title": "The 3 Biggest Keystone XL Pipeline Myths | Debunker | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "4nUjp8y-8-Q",
             "title": "Escape Techniques That Could Save Your Life | Dateline | NBC News",
             "secondDuration": 336,
@@ -301,8 +295,14 @@
             "title": "Breathalyzers: Are You Required To Take One? | 30STK |  NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "n_mgcSGHEEE",
+            "title": "AirAsia Wreckage Recovered, Families Mourn | NBC Nightly News",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

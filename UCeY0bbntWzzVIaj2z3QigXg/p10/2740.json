@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Any1MiaAyss",
-            "title": "Donald Trump Doesn't Rule Out Pardon For Michael Flynn | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "QExJCoqi7hs",
             "title": "Marco Rubio ‘Yes’ Means GOP Tax Bill Has The Votes | NBC Nightly News",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "President Trump Pledges To ‘Rebuild’ FBI, Calls Russia Investigation A ‘Democrat Hoax’ | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "b6Dyrk_AWKQ",
+            "title": "President Donald Trump Speaks At FBI National Academy Graduation (Full) | NBC News",
+            "secondDuration": 3040,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

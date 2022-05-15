@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7Ho0AEhG--k",
-            "title": "Relentless Storms Batter Northeast | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "6kOQwKn1yqo",
             "title": "Sarah Huckabee Sanders Won't Confirm Tapes Don't Exist Of Donald Trump Using The 'N' Word | NBC News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Here's How To Get A Loan If You Have Bad Credit | Better | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "BlFPKKRjzc4",
+            "title": "Wisconsin Republican U.S. Senate Hopeful Casts Vote In State Primary | NBC News",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

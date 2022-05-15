@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zkEFriZdqv8",
-            "title": "London Riot Video 2011:  City Crumbles Before Residents' Eyes; Violence Spreads Across U.K.",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "eHkGM6xBgPk",
             "title": "London Riot Video 2011:  Riots Spread to Multiple Cities; What Caused the Violence?",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Oregon Hiker Falls 50 Feet and Survives",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "vJeKbfyYG9E",
+            "title": "Wall Street 2011: Stocks Plunge",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

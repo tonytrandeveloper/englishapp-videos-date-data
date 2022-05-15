@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gKK4WSxoU1U",
-            "title": "Fidel Castro's Death Impact on Cuba",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXOt5jrAfm8",
             "title": "How Cuba's Tourism Scene Has Already Changed",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Fidel Castro Historic Interviews",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "PvENFRC65eQ",
+            "title": "Fidel Castro Interview With Barbara Walters",
+            "secondDuration": 546,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

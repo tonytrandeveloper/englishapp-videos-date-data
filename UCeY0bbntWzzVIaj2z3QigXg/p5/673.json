@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p6zrMB94wY0",
-            "title": "Covid Cases Rising As Families Prepare To Gather For Thanksgiving",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "FhkJEszb97Q",
             "title": "Three Men Found Guilty of Murdering Ahmaud Arbery",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Ahmaud Arbery Trial: Three Men Found Guilty Of Murder | NBC News",
             "secondDuration": 7836,
             "group": "group_7"
+        },
+        {
+            "videoId": "ORnayXEQZ2U",
+            "title": "'It's Been A Long Fight': Ahmaud Arbery's Parents React To Guilty Verdict",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

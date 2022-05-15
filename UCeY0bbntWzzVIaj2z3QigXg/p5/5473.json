@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "euQOwHMmP2c",
-            "title": "Agrihoods: The Newest Trend In Millennial Living | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "D-p9UEd8mkw",
             "title": "Special Relationship Between U.S. And The U.K. Sours | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "California’s Wine Country Faces Long Recovery After Wildfires | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "zqw3GhavBEQ",
+            "title": "Firefighters Struggle To Contain Thomas Fire’s Monster-Blaze | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

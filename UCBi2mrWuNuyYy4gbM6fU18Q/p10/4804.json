@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kx_wwd9IaZQ",
-            "title": "SUV Slammed by Train: Caught on Camera",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "cCygkxZOnqk",
             "title": "4 People Dead, Including Alleged Gunman, in Fort Hood Shooting",
             "secondDuration": 333,
@@ -61,8 +55,14 @@
             "title": "Earthquake Off Chile's Coast, Tsunami Warnings Issued",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "xzfhfLADfWg",
+            "title": "Samuel L. Jackson Brings Marvel to 'Live in Times Square'",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

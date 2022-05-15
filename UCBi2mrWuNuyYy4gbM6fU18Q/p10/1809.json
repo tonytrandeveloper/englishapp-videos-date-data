@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lifG7ssjwTo",
-            "title": "3-year-old kidnapped from outside birthday party in Alabama: Police",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "mBoiVhuYlu4",
             "title": "30 hurt, 2 killed and worker missing after New Orleans hotel collapse",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Urgent search for survivors in deadly building collapse l ABC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "mZcr-DL6CzY",
+            "title": "Democratic nominees head to Ohio for the 4th 2020 presidential debate l ABC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

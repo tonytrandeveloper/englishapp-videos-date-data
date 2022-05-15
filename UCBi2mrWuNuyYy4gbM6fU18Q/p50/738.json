@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "dZm1X4csCeo",
-            "title": "Warren Buffet's Firm Reveals $1 Billion Investment in Apple",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "IHPrAusgpIA",
             "title": "Teens Eating Flower Seeds to Get High, Police Say",
             "secondDuration": 52,
@@ -301,8 +295,14 @@
             "title": "Florida Rescue Dog Saves Daughter of New Owner's Life",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "GPUF1CcP6Zc",
+            "title": "Hillary Clinton is Ready to Take Aim at Donald Trump",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fOp_je__Atc",
-            "title": "WEBCAST: Still Swimming From Cuba to Florida Keys",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "kr-rUhq8nxo",
             "title": "Teen Sexually Assaulted, Then Threatened With Jail",
             "secondDuration": 366,
@@ -61,8 +55,14 @@
             "title": "West Coast Sees No End to Wildfires",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPWaCA6oslc",
+            "title": "GOP Reacts After Skinny Dipping Incident in Israel",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

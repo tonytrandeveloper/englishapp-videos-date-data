@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2dzDpfkk-Vg",
-            "title": "Muhammad Ali Funeral to Be Held in Hometown of Louisville",
-            "secondDuration": 503,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Wf8VgRbtHo",
             "title": "Muhammad Ali's Impact on Hollywood Filmmaking",
             "secondDuration": 288,
@@ -61,8 +55,14 @@
             "title": "Trump Protesters Attack Supporters At San Jose Rally",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "pIK28wLGU8w",
+            "title": "Police Violence Caught On Tape Released by Chicago",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

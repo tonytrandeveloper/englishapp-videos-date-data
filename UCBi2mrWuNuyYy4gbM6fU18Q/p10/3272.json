@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0UqMEg5bJzc",
-            "title": "How the Presidential Election May Affect the Trump Brand | ABC News",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zx8eg_dWmUo",
             "title": "Donald Trump Accuser Speaks Out",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Rutgers University Stabbing  | Suspect in Custody",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "qqSMNHHq6Pc",
+            "title": "2 NYPD Officers Shot in The Bronx",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

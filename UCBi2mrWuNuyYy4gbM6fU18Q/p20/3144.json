@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Zpcx0U9TC0c",
-            "title": "Wildfire Spreads Through Colorado",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "BgPM9qHWmlo",
             "title": "Amplified: Jukebox the Ghost",
             "secondDuration": 248,
@@ -121,8 +115,14 @@
             "title": "100903 ann tl two",
             "secondDuration": 372,
             "group": "group_7"
+        },
+        {
+            "videoId": "nF7b8yr_Koc",
+            "title": "Ovide: It's Not About 'Party Bosses and Big Money'",
+            "secondDuration": 533,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

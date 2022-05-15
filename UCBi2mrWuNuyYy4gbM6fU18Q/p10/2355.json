@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "chxgWqCHGRA",
-            "title": "Colin Kaepernick new face of Nike's 'Just Do It' campaign",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "vuWedsSYd1o",
             "title": "'The Briefing Room': Brett Kavanaugh Hearing, McCain's replacement, Midterm poll numbers | ABC News",
             "secondDuration": 852,
@@ -61,8 +55,14 @@
             "title": "New details emerge about wife who poisoned her husband with eye drops",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "optZZJVN-q0",
+            "title": "Concertgoer shot by police after opening fire in San Diego",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

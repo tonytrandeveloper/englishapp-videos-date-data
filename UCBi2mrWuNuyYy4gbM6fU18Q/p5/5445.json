@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bpI7wU80CgQ",
-            "title": "2 Republican senators take on Trump",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "lA49Yd1mPV8",
             "title": "US intelligence authorities examining video of Nigerien militant group",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Protester throws Russian flags at President Donald Trump ahead of Capitol Hill lunch",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pkHw_t73fM",
+            "title": "Manhunt grows for suspected Florida serial killer",
+            "secondDuration": 359,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

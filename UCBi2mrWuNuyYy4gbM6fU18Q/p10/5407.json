@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iyZdjfcsCi4",
-            "title": "'Gator Boys' on Animal Planet: Stars Reveal Huge Risks Behind the Scenes",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "uwZ_ZnnCZUU",
             "title": "Jodi Arias Faces Death Penalty in Alleged Murder of Boyfriend Travis Alexander",
             "secondDuration": 393,
@@ -61,8 +55,14 @@
             "title": "A Special Surprise at the Tournament of Roses",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "RM_0deGNoGQ",
+            "title": "New Year's Resolutions: New Beginnings or Same Old Story?",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

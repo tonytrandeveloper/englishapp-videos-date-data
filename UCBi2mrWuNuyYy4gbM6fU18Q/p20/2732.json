@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JwCnJZyU70M",
-            "title": "Sleepy Drivers Can Dose Unknowingly",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "UUN615DO5P4",
             "title": "Chasing Ghosts: A Paranormal Stakeout",
             "secondDuration": 274,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Texting Turns 20!",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "T05-1GbLBPs",
+            "title": "The Dolphin Debate",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

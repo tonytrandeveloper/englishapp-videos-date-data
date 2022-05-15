@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2vLk2SA-kOM",
-            "title": "Morning Mix: President Obama to Tina Fey",
-            "secondDuration": 384,
-            "group": "group_7"
-        },
-        {
             "videoId": "sloSn0XkuxU",
             "title": "Jackson Family Believes Impostor Sings on New Album",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Gregg: Obama 'Opened the Door' To Bush Tax Cuts",
             "secondDuration": 682,
             "group": "group_7"
+        },
+        {
+            "videoId": "Xxwk2tbfbXs",
+            "title": "Expect A 'Strong Influence of Tea Party Members'",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

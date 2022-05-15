@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jmzRksWdvpI",
-            "title": "Johnny Depp: 'When Was The Last Time An Actor Assassinated A President?' | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "h30Mu6hymSM",
             "title": "Nancy Pelosi On Criticism From Dems: 'I Think I'm Worth The Trouble' | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Otto Warmbier Laid To Rest In His Ohio Hometown Thursday | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "c3U95b34tSg",
+            "title": "Bill Cosby Juror Speaks: We Were Split Down The Middle In A Deadlock | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

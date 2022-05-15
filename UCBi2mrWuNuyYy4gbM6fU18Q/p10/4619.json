@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aUVWFuywmG8",
-            "title": "Close Up Crocs",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "aWEzCz8BlHw",
             "title": "Don't Want to Wait in Line for iPhone 6? Hire This Guy",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Reese Witherspoon on Playing a Different Kind of Character in 'The Good Lie'",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAilwOQgPz0",
+            "title": "Four Injured After Jet Blue Flight Makes Emergency Landing",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

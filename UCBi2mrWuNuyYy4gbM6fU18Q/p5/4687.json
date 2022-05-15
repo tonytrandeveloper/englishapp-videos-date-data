@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h8rOJ9v_jLU",
-            "title": "Hurricane Florence prompts disaster response",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Xyzobc_mzg",
             "title": "FEMA administrator discusses latest on Hurricane Florence",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Gas explosions in MA area",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3-dLnut2PU",
+            "title": "Hurricane Florence's eye of the storm hours away",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

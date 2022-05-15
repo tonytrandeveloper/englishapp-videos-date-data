@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jL5TRW7_q3E",
-            "title": "Llamas Run Loose in Arizona",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "EHKTyP53lxA",
             "title": "Identity of 'Jihadi John' Revealed",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "'American Sniper' Trial Jurors Explain Guilty Verdict",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "jpyW0zbaj2k",
+            "title": "Madonna Takes Tumble On Stage",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

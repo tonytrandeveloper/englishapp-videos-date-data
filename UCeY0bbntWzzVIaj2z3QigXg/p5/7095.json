@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zcPeC8E0xgs",
-            "title": "Navy 'Sea Dragon' Helicopter Unsafe For Flight | NBC Nightly News",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "KvxaOT2MuKI",
             "title": "Detroit Man Walks 21 Miles Round Trip To Work Daily | NBC News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "NFL Veteran Leonard Marshall On Football Safety | Meet The Press",
             "secondDuration": 874,
             "group": "group_7"
+        },
+        {
+            "videoId": "pbsmHapIKOg",
+            "title": "Patriots Fans React To Super Bowl Win | NBC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

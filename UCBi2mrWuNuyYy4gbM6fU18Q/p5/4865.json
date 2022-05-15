@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ie1HXd8BuiA",
-            "title": "'He was a huge inspiration': Exhibit celebrates David Bowie's life",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxLFE1nihJk",
             "title": "5 killed, several injured in Maryland newsroom shooting: Police",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "Rosenstein grilled on Capitol Hill about the Russia investigation",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "0570Edek8rU",
+            "title": "Date and location set for Trump to hold sit-down with Putin",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

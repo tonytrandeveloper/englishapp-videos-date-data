@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pHJrFFv9rpw",
-            "title": "Watch live: Presidential Candidate Forum on LGBTQ Issues",
-            "secondDuration": 8139,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pa4BGIwRTYg",
             "title": "Man Drives SUV Through Main Hallway Of Chicago Suburb Shopping Mall | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "ISIS Trying To Make A Comeback, U.S. Military And Intelligence Officials Warn | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "C5GUyUDMzcU",
+            "title": "Three Mile Island Shuts Down 40 Years After Partial Meltdown | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

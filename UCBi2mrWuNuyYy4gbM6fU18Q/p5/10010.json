@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4BSPMVKTbt8",
-            "title": "Possible Breakthrough in the Government Shutdown",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "We8IEghLkmE",
             "title": "First Openly Gay Boxer Has a Chance at the World Title",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Government Shutdown: Obama to Meet with Congressional Republicans",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "iC4gLOWhvNI",
+            "title": "Gunman on San Francisco Train Goes Unnoticed Before Killing",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qyDmv-cdQik",
-            "title": "Boston Police Shooting | Officers in 'Extremely Critical' Condition",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "DgMp9mdn2-U",
             "title": "Teen Surprises Cheerleader When Dad Can't Make Performance",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "Bicycle Shop Owner Turned Mayor",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rx5MSge5fOM",
+            "title": "Urban Angling: Fishing on the East River | ABC News",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rFpwlDkP3f4",
-            "title": "Justice Clarence Thomas Questions Federal Policy On Marijuana",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBOWLiHT_P0",
             "title": "DeSantis: Investigation Into Cause Of Condo Collapse Will 'Take A Long Time'",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Full Ocasio-Cortez Interview: Biden Shouldn't Be 'Limited By Republicans'",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "i74T9x7GQ3o",
+            "title": "'An Anomaly: Full Miami-Dade Mayor Interview After Florida Building Collapse",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

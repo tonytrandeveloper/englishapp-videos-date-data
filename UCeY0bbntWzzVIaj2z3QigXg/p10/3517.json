@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TFhl_rehKc0",
-            "title": "Texas Attacker Tweeted With Suspected ISIS Recruiter | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "qSmei6OUPgI",
             "title": "Pizza Order Alerts Police To Hostage Situation | NBC Nightly News",
             "secondDuration": 37,
@@ -61,8 +55,14 @@
             "title": "Gunman Killed At Anti-Islam Art Show Was On FBI Radar | NBC Nightly News",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "KUJQaCfRUog",
+            "title": "Freddie Gray's Family Speaks Out | NBC Nightly News",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

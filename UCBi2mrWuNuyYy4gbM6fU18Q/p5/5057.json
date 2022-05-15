@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z7qbUNJX7Xw",
-            "title": "Chemical weapons inspectors headed to site of suspected chemical attack",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "WeQFSGnGG6w",
             "title": "32-year-old NBA rookie describes his dream come true",
             "secondDuration": 187,
@@ -31,8 +25,14 @@
             "title": "National Enquirer paid to stop Trump rumor: Report",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "tbek5a1ZI_M",
+            "title": "US military awaits Trump's decision on Syria missile strikes",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

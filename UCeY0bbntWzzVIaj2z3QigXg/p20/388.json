@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3gNVIuI9GI0",
-            "title": "Austin Police Advise Residents: ‘Shelter in Place’ As Search For Active Shooter Continues | NBC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "qrUBL4TNSMU",
             "title": "Meet The Press Broadcast (Full) - April 18th, 2021 | Meet The Press | NBC News",
             "secondDuration": 2857,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - April 16 | NBC News NOW",
             "secondDuration": 3196,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCqYfYTTsfQ",
+            "title": "‘Good To Know’ Headlines: Instagram Likes & Vaccination Card Safety | NBC News NOW",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

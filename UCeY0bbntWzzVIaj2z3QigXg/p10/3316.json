@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1oVvUhwYN4Y",
-            "title": "This Maine Restaurant Has Raised Over $1M for People in Need | NBC Nightly News",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "sdqHvbAS7C8",
             "title": "New Report Suggests There is Little Evidence That Flossing Works | NBC Nightly News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "VFW, GOP Leaders Criticize Trump Over His Reactions to the Khans | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "HWqnJ1gWf2Q",
+            "title": "CDC Issues Travel Warning for Specific Section of Miami Over Zika | NBC Nightly News",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

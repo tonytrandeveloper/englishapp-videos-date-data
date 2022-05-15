@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GFt76w03dFo",
-            "title": "Farewell to Jon Banner",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "UE9wZohOREE",
             "title": "Bob McDonnell and Antonio Villaraigosa Debate",
             "secondDuration": 808,
@@ -61,8 +55,14 @@
             "title": "Lance Armstrong Falls From Grace",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "MZBoqjNEK4o",
+            "title": "Tropical Storm Isaac Threatens Haiti",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

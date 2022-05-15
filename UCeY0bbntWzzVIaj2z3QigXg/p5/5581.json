@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k_426ShR52A",
-            "title": "How to Avoid the Holiday Travel Headache | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "juTq4hZxwUE",
             "title": "How Climate Change Is Wiping Out This National Park | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "ISIS Threat Persists in Philippines | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "ayrIZGIYhl8",
+            "title": "Sen. Amy Klobuchar: Is Congress Safe for Women? There Can Be Misbehaving | Meet The Press | NBC News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

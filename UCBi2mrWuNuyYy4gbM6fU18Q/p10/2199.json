@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P7uw9hXrFuk",
-            "title": "FBI thwarts possible attack on the White House",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "hc2ggQ7sc3o",
             "title": "Cyntoia Brown: From convicted murderer to victims' advocate",
             "secondDuration": 640,
@@ -61,8 +55,14 @@
             "title": "West Coast storm to bring snow to East Coast",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEWiBrIeYWk",
+            "title": "American among 14 killed at Kenya hotel",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

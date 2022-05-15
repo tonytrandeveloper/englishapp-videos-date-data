@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AQfRSNEevx0",
-            "title": "WHO: ‘Premature And Unrealistic’ To Think Pandemic Will End This Year | NBC News NOW",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "FekYmUqaUMQ",
             "title": "Cuomo Admits To Insensitive Comments Amid Sexual Harassment Allegations | NBC News NOW",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "Changemakers: Women Of Color In STEM | Nightly News Films",
             "secondDuration": 553,
             "group": "group_7"
+        },
+        {
+            "videoId": "I0N6tocSHoY",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 2026,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-aYAwsG5oJw",
-            "title": "Sander Levin: 'I Want to Run Again'",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "-oihMK73zi0",
             "title": "'Semper Fi: Always Faithful' - A New Documentary",
             "secondDuration": 296,
@@ -61,8 +55,14 @@
             "title": "Paralyzed Bride Jennifer Darmon Walks at Wedding",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "kKHBk82ikrs",
+            "title": "Dog the Bounty Hunter Bails Out Nicolas Cage",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

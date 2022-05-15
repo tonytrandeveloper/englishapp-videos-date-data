@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "s3m9gboZ8z8",
-            "title": "Biden Introduces Nominees For His Health Care Team | NBC News",
-            "secondDuration": 3145,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Q7MxRsKxFQ",
             "title": "Trump Delivers Remarks At An Operation Warp Speed Vaccine Summit | NBC News",
             "secondDuration": 1406,
@@ -61,8 +55,14 @@
             "title": "Thousands Left Homeless After Decades Long Armenia-Azerbaijan Conflict | NBC News NOW",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "foAjV2ZzNFg",
+            "title": "Massachusetts Reopens Covid Field Hospital, First Time Since June | NBC News NOW",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

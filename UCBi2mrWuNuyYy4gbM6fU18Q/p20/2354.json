@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ad4MmL4-7sc",
-            "title": "Minnesota Rivers Rising as Forecast Calls for More Drenching Rain",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "2KQIrvD_xmA",
             "title": "'This Week': Military Strategy in Iraq",
             "secondDuration": 346,
@@ -121,8 +115,14 @@
             "title": "Mother Receives Open-Heart Surgery While Giving Birth",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "AqMUiYwKORI",
+            "title": "Have Errands? Pay Someone Else to Do Them",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

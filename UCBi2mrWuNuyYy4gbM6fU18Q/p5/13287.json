@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fjftPhCtDDw",
-            "title": "Catch Up With Brad Paisley",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "cAWIkMLBhC0",
             "title": "The Bottom Line on Biden's Visit to Iraq",
             "secondDuration": 220,
@@ -31,8 +25,14 @@
             "title": "Afghanistan: On the Front Line",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "5FqE4tdDIqw",
+            "title": "'Bachelor' Stars Open Up About Relationship",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

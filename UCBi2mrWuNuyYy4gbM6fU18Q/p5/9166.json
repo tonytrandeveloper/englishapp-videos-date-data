@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X4DdQwOpgVU",
-            "title": "Deadly School Shooting in Washington State",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "ORa22pYoVUM",
             "title": "Police Believe Canadian Gunman Was Lone Wolf",
             "secondDuration": 199,
@@ -31,8 +25,14 @@
             "title": "NYC Ebola: Officials Try to Calm Public Fears After Ebola Diagnosis",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "mhfeHvko6ZE",
+            "title": "Meet the Hero K-9s That Protect the President",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

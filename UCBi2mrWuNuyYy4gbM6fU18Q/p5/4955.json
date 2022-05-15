@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UItIzY3w60I",
-            "title": "Police say shooter left class during test and allegedly returned with 2 guns",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "z2lmMm47wJ0",
             "title": "Pres. Donald Trump gives commencement speech at U.S. Naval Academy | ABC News",
             "secondDuration": 10970,
@@ -31,8 +25,14 @@
             "title": "Contractors help woman discovery mystery illness",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge2YiCJkdhA",
+            "title": "North Korea reacts to canceled US summit",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

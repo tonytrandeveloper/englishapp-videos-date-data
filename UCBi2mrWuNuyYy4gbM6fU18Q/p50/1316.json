@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "mYwxD2ArO4g",
-            "title": "La Toya: Paris Gives Private Farewell to Dad",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "WdWM6YqkEwQ",
             "title": "Father Fights to Bring Son Home",
             "secondDuration": 340,
@@ -301,8 +295,14 @@
             "title": "Autistic Kids Go to The Extreme",
             "secondDuration": 455,
             "group": "group_7"
+        },
+        {
+            "videoId": "8F3gMHqQ9vE",
+            "title": "Sharks Spotted Off Mass. Shore",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

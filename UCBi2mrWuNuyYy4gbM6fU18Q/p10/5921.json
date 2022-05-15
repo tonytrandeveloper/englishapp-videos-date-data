@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AuqSELPyNSo",
-            "title": "Jon Stewart to Oversee Stephen Colbert SuperPAC",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "5xaxMpJGjCg",
             "title": "Heather Locklear Rushed to Hospital After Sister Worried She'd 'Harm Herself'",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Top Skier Sarah Burke in Coma After Halfpipe Crash Training for X-Games",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "diM-KP2zlWA",
+            "title": "Khloe Kardashian Birth Rumor Dispelled by Kris Jenner Interview",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

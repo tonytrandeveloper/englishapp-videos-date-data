@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ENWeEDtVFJU",
-            "title": "Dueling Strategists Talk Mosque Politics",
-            "secondDuration": 572,
-            "group": "group_7"
-        },
-        {
             "videoId": "xllLyNO1aB4",
             "title": "Amplified: The New Pornographers",
             "secondDuration": 315,
@@ -31,8 +25,14 @@
             "title": "FDA: Egg Contamination Source Unclear",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "bxXnBiOchcY",
+            "title": "Using Google to Track Down Criminals",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

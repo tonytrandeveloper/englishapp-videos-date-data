@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dOGNVy778SQ",
-            "title": "Daymond John: How To Define Your Own Path To The Top | Better | NBC News",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "XeoY3MeYjH8",
             "title": "Watch Live: AG Nominee William Barr Testifies At Senate Confirmation Hearing | NBC News",
             "secondDuration": 35058,
@@ -61,8 +55,14 @@
             "title": "Barr Promises To Protect Mueller Investigation During Senate Confirmation Hearing | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "rF3CLelB0M4",
+            "title": "Barr Suggests Mueller Report May Not Be Made Public | NBC News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

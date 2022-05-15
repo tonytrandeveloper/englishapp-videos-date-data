@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iRsQbFnsuOQ",
-            "title": "British Airways Jet Bursts Into Flames On Runway | ABC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Agq78fmYYq4",
             "title": "Hillary Clinton Discusses Private Email, Donald Trump, Iran",
             "secondDuration": 368,
@@ -31,8 +25,14 @@
             "title": "Kentucky County Clerk Kim Davis Out of Jail",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "dGthmu-fWRI",
+            "title": "Elephant Crashes Party on Safari",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

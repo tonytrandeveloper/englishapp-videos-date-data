@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3HXsE707WnI",
-            "title": "Five Of The Worst Oil Disasters In History | 101 | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lrmxe77ZqKU",
             "title": "David Letterman Says Goodbye To 'Late Show' | NBC Nightly News",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Where Does Oil Come From? | 30 STK | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "InvqnOMz0PQ",
+            "title": "Faces Of The Waco Biker Arrests | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

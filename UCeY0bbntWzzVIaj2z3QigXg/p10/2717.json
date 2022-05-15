@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qfp3F10rhj0",
-            "title": "‘Bomb Cyclone’ Paralyzes Massachusetts | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "GF-F7e4WXiE",
             "title": "Boston Streets Awash During Its Worst Coastal Flooding In 40 Years | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "‘Swatting’ Suspect Has A Record Of Fake Calls | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "ilmqzQVYdVI",
+            "title": "Southern U.S. Experiences Winter Weather As Storm Moves Up The East Coast | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

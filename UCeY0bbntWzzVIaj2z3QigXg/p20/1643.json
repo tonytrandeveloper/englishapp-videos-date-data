@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9c5D5bin8DE",
-            "title": "Hillary Clinton Says Taco Truck On Every Corner Sounds 'Delicious' | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "DPOFPwyOEFY",
             "title": "President Obama To Hispanic Caucus: Still Committed To Fixing Immigration | NBC News",
             "secondDuration": 167,
@@ -121,8 +115,14 @@
             "title": "Life Stories: Chef Sam Choy | NBC Asian America",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "brju8uwbx9U",
+            "title": "George Zimmerman Says Black Lives Matter ‘Are Terrorist Cowards’ | NBC News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

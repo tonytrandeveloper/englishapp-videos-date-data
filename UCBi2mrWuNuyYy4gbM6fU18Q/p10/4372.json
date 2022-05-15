@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WEcL5rmj8zU",
-            "title": "Surveillance Video: Alleged Secret Service Driving Incident Released",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "oRH60ZaAke0",
             "title": "Ex-NFL Star Darren Sharper Takes Plea Deal",
             "secondDuration": 208,
@@ -61,8 +55,14 @@
             "title": "Germanwings Plane Crash Investigators Piece Together What Happened",
             "secondDuration": 414,
             "group": "group_7"
+        },
+        {
+            "videoId": "lKqvLUXQwdo",
+            "title": "'The X-Files' Returns, Mulder and Scully Are Back",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

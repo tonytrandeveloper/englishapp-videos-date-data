@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H1DQAE_TTEw",
-            "title": "Destruction of Ancient Ruins by ISIS",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "0hm07V25eE0",
             "title": "14-Year-Old Allegedly Holds Teacher and Fellow Students Hostage at Gunpoint",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "'Amazing Grace': Inside the Broadway Musical",
             "secondDuration": 204,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAOSjpL_J1s",
+            "title": "Stock Market | Average 401K Lost $3,000",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KDIb4NvVaSs",
-            "title": "Taylor Swift, Billboard’s woman of the decade, sticks it to ‘the man’ l ABC News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "cqoNw-pi5Lo",
             "title": "Trump impeachment articles debated, voted on by House Judiciary Committee| ABC News",
             "secondDuration": 4670,
@@ -61,8 +55,14 @@
             "title": "Americans are expected to spend nearly $1,000 on gifts this holiday season",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "WHP67tmZKxQ",
+            "title": "New alarms raised about a popular home security company",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

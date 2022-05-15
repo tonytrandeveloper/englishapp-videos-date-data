@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NXVtAeKijiI",
-            "title": "Women accusing longtime USC doctor of sexual misconduct speak out",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "BeOd9Q4V0ss",
             "title": "Trump calls Russia election meddling 'all a big hoax'",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "Deadly standoff at California Trader Joe's",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "CyVkbyv6n5o",
+            "title": "Deadly altercation over parking spot caught on camera",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

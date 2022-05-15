@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "jckYdL9r60w",
-            "title": "Heavy rain wreaks havoc from Michigan to Arkansas",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "cT-elepbUPQ",
             "title": "Facebook bans controversial users, including Alex Jones",
             "secondDuration": 107,
@@ -301,8 +295,14 @@
             "title": "Pelosi: Infrastructure meeting with Trump was 'productive'",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "zBFJuCEm_eQ",
+            "title": "Debrief: Venezuela unrest, Terror plot thwarted, Trump immigration policy, John Singleton remembered",
+            "secondDuration": 1903,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

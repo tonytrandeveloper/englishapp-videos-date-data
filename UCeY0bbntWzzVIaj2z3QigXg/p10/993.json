@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8fvKJGwIdQI",
-            "title": "Stacey Abrams Speaks After Georgia's Electors Cast Votes For Biden | NBC News NOW",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "TRXVOCucsbU",
             "title": "De Blasio: We Need To Recognize That Another Full Shutdown May Be Coming | NBC News Now",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "First Doses of Pfizer Covid Vaccine On The Move | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "rD0X9CPAk8A",
+            "title": "First Vaccinations For Front-line Workers To Take Place This Week | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

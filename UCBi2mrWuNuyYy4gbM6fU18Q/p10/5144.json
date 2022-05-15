@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RvBkKdpQ1i8",
-            "title": "Brad Pitt Interview 2013: Angelina Jolie 'Business As Usual' Following Mastectomy",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "mYkWpCmrogo",
             "title": "Kim Kardashian Baby: Name Still Unknown, Family Quiet on Premature Delivery",
             "secondDuration": 329,
@@ -61,8 +55,14 @@
             "title": "U.S. Role in Syria - 'This is Obviously a Reluctant President': 'This Week' Roundtable",
             "secondDuration": 531,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTVLyUuI7Rs",
+            "title": "'This Week' Sunday Spotlight: Jeb Bush's Father's Day Reflections",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

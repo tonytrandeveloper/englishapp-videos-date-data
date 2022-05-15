@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P4F6CgeoFIo",
-            "title": "Marijuana Aficionados Unite at ‘Cannabis Cup’",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "kiKf1C1fPyE",
             "title": "‘Fantastic Four’ Trailer Gives First Look at Dr. Doom",
             "secondDuration": 210,
@@ -61,8 +55,14 @@
             "title": "The Academy of Country Music Awards",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "GFhBf1ZU-24",
+            "title": "Volunteer Deputy Who Mistakenly Shot Man Releases Training Records",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

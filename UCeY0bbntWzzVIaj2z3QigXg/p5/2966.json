@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oQLymYQUYVs",
-            "title": "LA Mayor Eric Garcetti gives coronavirus update| NBC News",
-            "secondDuration": 3603,
-            "group": "group_7"
-        },
-        {
             "videoId": "eD72-43uPLY",
             "title": "Timeline: How The Coronavirus Spread In The United States | NBC News NOW",
             "secondDuration": 292,
@@ -31,8 +25,14 @@
             "title": "U.K. Prime Minister Boris Johnson In Intensive Care For Coronavirus | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "etGJCEQwHgw",
+            "title": "Michigan Nurse Inspires America With ‘Amazing Grace’ Rendition Amid Coronavirus Pandemic | NBC",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

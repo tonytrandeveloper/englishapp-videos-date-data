@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lEQ1pTp0STQ",
-            "title": "Remembering Mike Nichols",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "-SXhJvLnGsY",
             "title": "Nov 22, 1963 JFK Assassinated #TBT",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Dean Kamen | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "0AwENvrqgWI",
+            "title": "Dean Kamen On The Next Big Invention to Change the World",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

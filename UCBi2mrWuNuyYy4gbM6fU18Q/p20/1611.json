@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_a85PQ3LhUk",
-            "title": "Donald Trump: Waterboarding Views of Gen. Mattis 'Surprised' Him",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "il5YgNht2Zs",
             "title": "What It's Like Being US Government's Designated Survivor: Part 2 | ABC News",
             "secondDuration": 376,
@@ -121,8 +115,14 @@
             "title": "Student Bullying Captured on Video | Alabama School District Investigating",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "u04dKKoZMqc",
+            "title": "Face Transplant Recipient Meets Donor’s Mother",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

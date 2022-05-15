@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OmOp3Js-xbY",
-            "title": "California Expanding Testing As U.S. Covid Cases Rise | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "x4edaf1FUAI",
             "title": "Trump, Biden Campaign In Midwest Battleground States | NBC Nightly News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "How LGBTQ-Friendly Is Donald Trump? | NBC News NOW",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "LvMrOdQywpo",
+            "title": "L.A. County Has The Largest U.S. Jail System. A Ballot Initiative Could Change That | NBC News NOW",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QlJ7865dI0s",
-            "title": "Joe Biden Pays Respects To Rep. John Lewis | NBC News NOW",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nl6Le5O07Iw",
             "title": "Rep. John Lewis Crosses The Edmund Pettus Bridge One Last Time | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Live: Body Of Rep. John Lewis Arrives In D.C. For Ceremony At U.S. Capitol | NBC News",
             "secondDuration": 10855,
             "group": "group_7"
+        },
+        {
+            "videoId": "n8sGEhQ-KQE",
+            "title": "Civil Rights Titan John Lewis In His Own Words | NBC News",
+            "secondDuration": 375,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

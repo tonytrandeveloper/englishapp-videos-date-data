@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CCqX15bB7P8",
-            "title": "Tony Blair's Secret Letters to George Bush on Iraq War",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "-vzg2_ru988",
             "title": "Giraffe Wears Shoe to Help Ease Arthritis",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "President Obama Hits Campaign Trail for Hillary Clinton",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "nalGPlG_p34",
+            "title": "President Obama Hits the Campaign Trail With Hillary Clinton",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

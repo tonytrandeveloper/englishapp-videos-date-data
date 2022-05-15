@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2SNMOyb-HWY",
-            "title": "Katrina vanden Heuvel: Bill Kristol Should Join Iraq Army",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "3-Vg6BYcvMc",
             "title": "Remembering Freedom Summer",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Leaves Path of Destruction",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThgLFIBf3xI",
+            "title": "NASA Tests LDSD 'Flying Saucer'",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

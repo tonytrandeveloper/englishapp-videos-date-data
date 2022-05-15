@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WeXOXeJHRqc",
-            "title": "Shooting at South Florida high school | ABC News Special Report",
-            "secondDuration": 7169,
-            "group": "group_7"
-        },
-        {
             "videoId": "3UdQRlDrqlg",
             "title": "'It's just a heartbreaking tragedy,' Florida school superintendent says",
             "secondDuration": 264,
@@ -121,8 +115,14 @@
             "title": "Letter with powder sent to Trump Jr.'s apartment: Police",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "6T9tusqmS2c",
+            "title": "Woman dies after declining Tamiflu due to cost",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

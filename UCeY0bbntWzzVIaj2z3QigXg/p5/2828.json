@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iYPVJpT9OgU",
-            "title": "Illinois Gov. Pritzker Gives Updates On Coronavirus Response | NBC News",
-            "secondDuration": 3539,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdQOnHwo65g",
             "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3691,
@@ -31,8 +25,14 @@
             "title": "New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3935,
             "group": "group_7"
+        },
+        {
+            "videoId": "-hd9cf-MWD4",
+            "title": "Cuomo: New York Coronavirus Eviction Moratorium Extended Through August 20 | NBC News NOW",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

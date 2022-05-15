@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "K81ej0KTVQs",
-            "title": "Trump Secretary of Labor pick Andrew Puzder Withdraws Nomination",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "gon5EA672vY",
             "title": "Travel ban continues to impact one Syrian mother",
             "secondDuration": 93,
@@ -301,8 +295,14 @@
             "title": "Trump Tweets Illegal Immigration Crackdown Is 'Keeping a Campaign Promise'",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "NdLOxcm4HfY",
+            "title": "North Korea Tests Trump, Firing a Ballistic Missile Into the Sea of Japan",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

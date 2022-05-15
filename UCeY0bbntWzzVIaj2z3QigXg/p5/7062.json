@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cDWf0AHWw6A",
-            "title": "Dashcam Video: Michigan Police Stop Turns Violent | NBC Nightly News",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPukq1tOOQQ",
             "title": "Mean Tweets: Read By Members Of Congress | NBC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Israel: U.N. Resolution Will Prevent Peace | Meet The Press | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1kBVBC9W5k",
+            "title": "Veterans Remember the Battle of Iwo Jima 70 Years Later | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

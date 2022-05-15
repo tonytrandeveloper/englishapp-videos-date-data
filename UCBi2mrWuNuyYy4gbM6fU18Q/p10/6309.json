@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p72PS95VzuU",
-            "title": "Manhunt Underway",
-            "secondDuration": 234,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ycak28X2SYI",
             "title": "Interview With Gen. Peter Chiarelli",
             "secondDuration": 611,
@@ -61,8 +55,14 @@
             "title": "Amanpour Discusses Iran Briefing on 'Top Line'",
             "secondDuration": 614,
             "group": "group_7"
+        },
+        {
+            "videoId": "fNmJMcvPhWQ",
+            "title": "Dramatic Celebrity Weight Loss",
+            "secondDuration": 315,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

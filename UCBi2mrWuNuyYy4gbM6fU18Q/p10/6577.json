@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Mk6lm9FighI",
-            "title": "How to Disappear in the Digital Age",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSKTTz0_gJk",
             "title": "Tapper Fact Checks Obama's Speech",
             "secondDuration": 146,
@@ -61,8 +55,14 @@
             "title": "A New Model for Juvenile Justice",
             "secondDuration": 460,
             "group": "group_7"
+        },
+        {
+            "videoId": "41bTZ_pq_9A",
+            "title": "Released From Juvenile Justice Center",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

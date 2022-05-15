@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3hzw8L9BpYM",
-            "title": "Pentagon On Hero Dog: ‘We’re Protecting His Identity’ | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sda3K9rUDU4",
             "title": "Drone Video Shows The Devastated Compound Where Al-Baghdadi Died | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Watch Live: Pentagon Briefing On Al-Baghdadi Raid | NBC News",
             "secondDuration": 2408,
             "group": "group_7"
+        },
+        {
+            "videoId": "D81csZ_MV3c",
+            "title": "Watch Live: President Donald Trump Speaks At Police Conference In Chicago | NBC News",
+            "secondDuration": 4249,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LCFXYyyAqbg",
-            "title": "'Andi Mack' Stars Reflect On A Breakthrough Year For Asian-American Representation | NBC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "5z1Tev4BJxo",
             "title": "Inside America’s Last Steam Powered Cider Mill | NBC Nightly News",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Full Stacey Abrams Interview: ‘Pattern of behavior’ for GOP opponent to remove voters",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "a-HZBxOC6mA",
+            "title": "Full Hawley: ‘Don’t have to have Obamacare’ to protect pre-existing conditions | Meet The Press",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

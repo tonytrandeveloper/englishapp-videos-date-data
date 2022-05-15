@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5UYAuaMgoPg",
-            "title": "Hillary Clinton Stresses Modernization Of The VA, But No Privatization | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "MIEVM_xOhGg",
             "title": "Hillary Clinton: 'Always Have and Always Will' Take 'Classified' Emails Seriously | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Apple Watch Series 2 Is ‘Swim-Proof’ | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "LjoD5AKTJz0",
+            "title": "Donald Trump On Foreign Policy: 'Peace Through Strength' | NBC News",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

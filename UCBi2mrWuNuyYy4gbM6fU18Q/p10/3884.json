@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4PkaNrDsoSw",
-            "title": "“Fuller House” Premieres on Netflix | ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zx4z5fM97Uw",
             "title": "GOP Debate | Final Republican Showdown Before Super Tuesday",
             "secondDuration": 207,
@@ -61,8 +55,14 @@
             "title": "Little Girl Turns Sister into a Zebra",
             "secondDuration": 23,
             "group": "group_7"
+        },
+        {
+            "videoId": "f7Jr09iBlhE",
+            "title": "Amazing Boy Invites Sister With Cancer to Dance",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

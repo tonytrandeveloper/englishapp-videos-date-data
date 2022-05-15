@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "th2mFQGv6W8",
-            "title": "Rumors President Donald Trump Considering Firing Special Counsel Robert Mueller | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "hqB7R94UjY4",
             "title": "Inspiring America: Girl Travels Country Hugging Police Officers | NBC Nightly News",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Jeff Sessions Details Reasons for His Recusal from Russia Investigation | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "FEUsYAVIgqU",
+            "title": "Jeff Sessions Denies Having Meeting with Russian Envoy at D.C. Hotel | NBC News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

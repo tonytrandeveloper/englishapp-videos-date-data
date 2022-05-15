@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xqwBc2gMb1U",
-            "title": "Facts Over Fear: CDC Walks Back Guidance On Airborne Covid-19 Spread | NBC News NOW",
-            "secondDuration": 364,
-            "group": "group_7"
-        },
-        {
             "videoId": "xXMlFFY9uEI",
             "title": "Planet 2020: Fires And Floods Force Climate Change To The Forefront | NBC News",
             "secondDuration": 2562,
@@ -121,8 +115,14 @@
             "title": "Meet The Press Broadcast (Full) - September 20th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2872,
             "group": "group_7"
+        },
+        {
+            "videoId": "5psVTVyLGDA",
+            "title": "Biden Maintains 8 Point Lead, With 6 Weeks Until Election | Meet The Press | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vv7YwixNsKQ",
-            "title": "The Loan That Brought Down an Israeli Prime Minister | Flashback | NBC News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "VBy8LWcribY",
             "title": "Garry Kasparov: Obama Should Stop Making Deals with Putin | Meet The Press | NBC News",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Keystone XL Pipeline: Meet the Voters On Opposite Sides | Meet The Press | NBC News",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieoL2QpwD6E",
+            "title": "The Failure In Libya: How U.S. Actions Destabilized A Region | Meet The Press",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

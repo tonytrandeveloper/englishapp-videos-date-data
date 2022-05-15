@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q7NWciCYsy0",
-            "title": "Donald Trump Praises ‘Unbreakable’ Friendship Between U.S., France | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNJAy1NNm-o",
             "title": "President Donald Trump On Paris Climate Accord: ‘Something Could Happen’ | NBC News",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Malala Yousafzai Celebrates Her Birthday By Speaking Out On Education | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "CpV16BQfbrQ",
+            "title": "Ukraine's Hyper-Nationalist Military Summer Camp for Kids | NBC Left Field",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

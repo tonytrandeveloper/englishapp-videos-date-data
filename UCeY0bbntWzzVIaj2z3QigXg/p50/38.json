@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GX7k8UrE_-c",
-            "title": "Trump Lashes Out at Pence Over Critical Speech",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "M2hfcY5WbBc",
             "title": "Newly Deployed U.S. Troops Arrive in Europe",
             "secondDuration": 123,
@@ -301,8 +295,14 @@
             "title": "Morning News NOW Full Broadcast - Feb. 3",
             "secondDuration": 3053,
             "group": "group_7"
+        },
+        {
+            "videoId": "-3Fgay4G7Lo",
+            "title": "How Cuba Is Faring With U.S. Embargo After 60 Years",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

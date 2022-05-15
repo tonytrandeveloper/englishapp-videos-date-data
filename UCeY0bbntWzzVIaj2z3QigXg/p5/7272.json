@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8zRvSJ1MZi4",
-            "title": "Joel Klein: \"For student success, it takes...\"",
-            "secondDuration": 15,
-            "group": "group_7"
-        },
-        {
             "videoId": "9W3Sxq6zjfw",
             "title": "Joel Rose: \"For student success, it takes...\"",
             "secondDuration": 22,
@@ -31,8 +25,14 @@
             "title": "Dr. Tony Marx: \"For student success, it takes...\"",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "MU1fv8vF9D8",
+            "title": "Randi Weingarten: \"For student success, it takes...\"",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

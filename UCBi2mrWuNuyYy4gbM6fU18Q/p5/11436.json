@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6eBcFVeGAqY",
-            "title": "Katherine Jackson, Family Talk with Arizona Reporter",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "YkaW3acUp7Q",
             "title": "Alec Baldwin's Wife Describes Wedding in 1st Interview",
             "secondDuration": 330,
@@ -31,8 +25,14 @@
             "title": "Kristen Stewart Cheats on Robert Pattinson, Issues Public Apology for 'Momentary Indiscretion'",
             "secondDuration": 68,
             "group": "group_7"
+        },
+        {
+            "videoId": "PMCJ8T3zdiY",
+            "title": "Kristen Stewart Apologizes for Cheating on Robert Pattinson With Director Rupert Sanders",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

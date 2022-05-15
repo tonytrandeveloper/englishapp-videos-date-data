@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JsZYXZtT3Q8",
-            "title": "Space Shuttle Discovery Makes Final Flight",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "75zxxhU8OD4",
             "title": "Gray Whale Rescue In California; Whale Gets Entangled in Fishing Line Off Coast of San Onofre",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Secret Service Sex Scandal May Involve 21 Women",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "dHHuA_RrQag",
+            "title": "'Fifty Shades of Grey' Author E. L. James's First Interview on Career, Erotic Novel",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w-S9z5H6XsQ",
-            "title": "National Strawberry Shortcake Day 2011",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "hke58OvbOtI",
             "title": "Pet Gadgets from Dick DeBartolo",
             "secondDuration": 305,
@@ -121,8 +115,14 @@
             "title": "New Facebook Feature: Cool or Creepy?",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRMqXEvVmiw",
+            "title": "Elevator Phobes: Are You One?",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

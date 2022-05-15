@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tj2s3T5JK50",
-            "title": "Crime-Fighting Chemical Spray Catches Thieves Off Guard",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "FC_wapgQLxw",
             "title": "Donald Trump 'This Week' Interview",
             "secondDuration": 319,
@@ -31,8 +25,14 @@
             "title": "'This Week' Sunday Spotlight: Byron Dorgan's 'Gridlock'",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "gnCYgLEt1QE",
+            "title": "Amazon's Jeff Bezos Buys the Washington Post - State of the American Media: 'This Week' Panel",
+            "secondDuration": 657,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

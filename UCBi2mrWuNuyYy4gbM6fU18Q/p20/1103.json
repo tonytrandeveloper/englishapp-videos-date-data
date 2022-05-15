@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Lex82waof8E",
-            "title": "Briefing Room: Shutdown showdown, Rep. Steve King NY Times fallout, 20/20 election, Justice Ginsburg",
-            "secondDuration": 1356,
-            "group": "group_7"
-        },
-        {
             "videoId": "-0HEpa0Cc_s",
             "title": "The Debrief: Wisconsin teen found, US troops begin Syria pullout, shutdown day 21 | ABC News",
             "secondDuration": 1188,
@@ -121,8 +115,14 @@
             "title": "Lady Gaga pulls song with R. Kelly from streaming platforms",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7bwhiK8iFM",
+            "title": "Amazon founder, wife announce they're divorcing after 25 years",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

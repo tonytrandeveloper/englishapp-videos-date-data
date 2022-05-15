@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WoBgt_MJlCo",
-            "title": "'GMA' Searches for America's Next Teen Pop Star: Will They go Viral?",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kfgl3Vf41Y8",
             "title": "Rachel Weisz, Daniel Craig Marriage Lights Up Web; 'Thriller' Jacket Sold",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Florence and the Machine Rocks 'Good Morning America'",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "pXFGBaF1XFQ",
+            "title": "Casey Anthony Trial: Cindy Anthony's Stunning Chloroform Claim",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

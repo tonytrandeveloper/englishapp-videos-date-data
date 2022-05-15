@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i9ayOg64sUg",
-            "title": "Police in Miami, Florida, handcuffed a 7-year-old boy due to erratic behavior",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "I75xAwy9mLI",
             "title": "Trump firing Mueller would 'be the end of his presidency,' senate republican says",
             "secondDuration": 839,
@@ -31,8 +25,14 @@
             "title": "At least 95 dead in Kabul suicide bombing",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "x9F1ybK34Bc",
+            "title": "Trump's first state of the union address comes amid Russia investigation",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

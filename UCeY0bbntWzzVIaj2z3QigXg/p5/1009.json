@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6LmyW6NCDdw",
-            "title": "NBC News NOW Full Broadcast – August 31, 2021",
-            "secondDuration": 3067,
-            "group": "group_7"
-        },
-        {
             "videoId": "uT6g2lQiYN0",
             "title": "NBC Nightly News Full Broadcast - August 31st, 2021",
             "secondDuration": 1239,
@@ -31,8 +25,14 @@
             "title": "U.S. Investigating Five States Over School Mask Mandate Bans",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "mcwJSieQYL8",
+            "title": "Power Struggles In New Orleans Continue After Hurricane Ida",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

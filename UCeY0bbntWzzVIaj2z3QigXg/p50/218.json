@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "fxM8iAEIvY0",
-            "title": "Trump On Fauci: 'He Has A Bad Arm, But He's A Good Guy' | NBC News NOW",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "tzYSAE_EM_Y",
             "title": "Trump Holds Campaign Rally In Prescott, Arizona | NBC News",
             "secondDuration": 4375,
@@ -301,8 +295,14 @@
             "title": "Grandfather Pleads Guilty In Toddler’s Cruise Ship Death | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "mVVWHpR5z0k",
+            "title": "U.S. Surpasses 8 Million Coronavirus Cases | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

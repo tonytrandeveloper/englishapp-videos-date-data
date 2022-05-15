@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MSU1ZPw1yJE",
-            "title": "Jodie Foster Speech: Golden Globes 2013",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "ex0XPg4bfxY",
             "title": "Hottest Gadgets of 2013: Inside the Consumer Electronics Show",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Python Challenge: Snake Hunters Ready for Massive Wipeout",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "TbDhb5WAY5A",
+            "title": "Assault Weapon Ban Standoff",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

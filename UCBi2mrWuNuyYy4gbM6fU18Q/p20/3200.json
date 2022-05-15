@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hIQCWq8uGZ8",
-            "title": "Russians Halt Adoptions by Americans",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wpx2iQaO-8U",
             "title": "Chris Rock's Take on 'Death at a Funeral'",
             "secondDuration": 353,
@@ -121,8 +115,14 @@
             "title": "Amplified SXSW: Toro y Moi",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "r6Duobqei1Q",
+            "title": "The Conversation: On Board the Intl. Space Station",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

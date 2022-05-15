@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "msoMXVDQu1I",
-            "title": "A Look At Omicron Variant’s Spread In South Africa",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "z7KXHhdJg6s",
             "title": "Small Businesses Hurt By Rash Of Smash-And-Grab Robberies",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "Preview of Ghislaine Maxwell Trial Ahead Of Opening Statements",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "ItxvytiA6RE",
+            "title": "Travel Chaos As Countries Prepare For Omicron Variant",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

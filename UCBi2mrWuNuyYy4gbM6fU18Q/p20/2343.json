@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lvxFUJHzGDg",
-            "title": "Staying Safe From Sharks",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "C8ny5NuhOVA",
             "title": "Malala Heads to Nigeria in Effort to Help Find Kidnapped School Girls",
             "secondDuration": 205,
@@ -121,8 +115,14 @@
             "title": "Biological Scare: Anthrax, Small Pox and the Flu",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "UTY5scYy6ek",
+            "title": "Willie Nelson on the Road and Number 1 Again",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

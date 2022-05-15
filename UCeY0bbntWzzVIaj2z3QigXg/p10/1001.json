@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FBwPuA5aZdw",
-            "title": "Biden Outlines Three-Part Initiative To Fight Covid In First 100 Days | NBC News NOW",
-            "secondDuration": 495,
-            "group": "group_7"
-        },
-        {
             "videoId": "uLjQ3cE9kvs",
             "title": "U.K. Nurse Who Administered First Covid Vaccine Feels ‘Thankful And Proud’ | NBC News NOW",
             "secondDuration": 258,
@@ -61,8 +55,14 @@
             "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3225,
             "group": "group_7"
+        },
+        {
+            "videoId": "s3m9gboZ8z8",
+            "title": "Biden Introduces Nominees For His Health Care Team | NBC News",
+            "secondDuration": 3145,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

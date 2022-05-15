@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_6xqow5wuOA",
-            "title": "'This Week' Sunday Spotlight: Whoopi Goldberg",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ub1Pao44Cjo",
             "title": "'This Week': Israel Hits Syria",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "Israel Accused of Launching Missile Strikes in Syria",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "svakH91_0eo",
+            "title": "Special Olympics Athlete Takes Miss Minnesota to Junior Prom",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

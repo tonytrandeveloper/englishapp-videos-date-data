@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9Y-21SuoFNg",
-            "title": "Gov. Cuomo Gives Update On Coronavirus Spread Across NY State | NBC News",
-            "secondDuration": 5013,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wa86kY0vBWo",
             "title": "NYC Patients Lining Up Outside Hospital For Treatment | NBC News NOW",
             "secondDuration": 783,
@@ -61,8 +55,14 @@
             "title": "Community Cheers On 15-Year-Old After Final Round Of Chemotherapy | NBC Nightly News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "yvdWBnLO2IQ",
+            "title": "First responders at risk in coronavirus pandemic: 300 NYPD officers test positive | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

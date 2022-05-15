@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WHP67tmZKxQ",
-            "title": "New alarms raised about a popular home security company",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "DKiXpsuOFbk",
             "title": "Polls close in the UK after high-stakes election",
             "secondDuration": 74,
@@ -301,8 +295,14 @@
             "title": "The lawyer is ‘badgering the witness’: Congressman",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZO2cHo5KqQ",
+            "title": "Michelle Obama, skiing Santas and Miss Universe: World in Photos, Dec. 9",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

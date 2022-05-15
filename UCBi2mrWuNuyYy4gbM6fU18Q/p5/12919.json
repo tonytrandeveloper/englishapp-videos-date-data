@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H2Vn1DEIKV0",
-            "title": "China vs. USA: Green, Clean Energy Leaders",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qNpI3hMDuE",
             "title": "Paulson: Inside the Financial Meltdown",
             "secondDuration": 363,
@@ -31,8 +25,14 @@
             "title": "Emmy Winner Turned Bank Robber?",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "W3tNSorVFM4",
+            "title": "Exclusive: Scott Brown Interview (Part 2)",
+            "secondDuration": 464,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ww_IQUafX2c",
-            "title": "Hugh Hefner, Playboy Magazine Founder, Dies At 91 | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "aRdh1oA9fWI",
             "title": "Actress Julia Louis Dreyfus Reveals She Has Breast Cancer | NBC Nightly News",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Many Puerto Ricans Still Waiting For Aid A Week After Hurricane Maria | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "p69-wM-7_y8",
+            "title": "Rick Pitino And Tom Jurich Suspended Over Basketball Bribery Allegations | NBC News",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

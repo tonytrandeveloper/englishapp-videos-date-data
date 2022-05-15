@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2p6fTFX4QKc",
-            "title": "Millions of Americans Prepare for More Winter Storms",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJ8QUNd5m2I",
             "title": "Philip Seymour Hoffman's Private Struggles",
             "secondDuration": 440,
@@ -121,8 +115,14 @@
             "title": "'This Week': Paul Ryan",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZfZjwrSWOo0",
+            "title": "'This Week': Powerhouse Roundtable",
+            "secondDuration": 1020,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

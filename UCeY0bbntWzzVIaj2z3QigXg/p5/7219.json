@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XM7tGLwV5Pc",
-            "title": "Crowd Lifts 43 Ton Train To Save Man | NBC News",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "D5UPjOluF9M",
             "title": "Russian Hackers Behind Historic Security Breach | NBC News",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "What Is A Major General? | Long Story Short | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q6DC9xlbSA4",
+            "title": "Inside Ebola Isolation Rooms | NBC News",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

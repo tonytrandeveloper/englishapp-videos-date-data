@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8KdYZzU70Zg",
-            "title": "Webcast: Cruise Ship Arrives in Seychelles",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "kd0eeg9l3SM",
             "title": "Midwest Tornado Aftermath: Death Toll Rises",
             "secondDuration": 232,
@@ -301,8 +295,14 @@
             "title": "Tigers Next Door:  Exotic Pet Insurance",
             "secondDuration": 334,
             "group": "group_7"
+        },
+        {
+            "videoId": "DoAcvpLjA4g",
+            "title": "The Cutting Edge:  Plastic Surgery Today",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

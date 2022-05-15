@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "weIcJ5PRyHM",
-            "title": "Calcium Supplements Raise Heart Attack Risk?",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "kK2LB8VyZ-0",
             "title": "Prince William on The Queen: 'Woman in Man's World'",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Webcast: Navy Nuclear Submarine Up in Flames",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pdSfDx0Gww",
+            "title": "Tower In Nevada Tumbles Down",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

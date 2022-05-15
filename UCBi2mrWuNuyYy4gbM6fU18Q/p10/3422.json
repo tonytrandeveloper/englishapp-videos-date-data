@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zBSTCjKymbI",
-            "title": "Trump's Campaign Manager Says His Position on Border Wall 'Never Changed'",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "EzHU7ARzUIQ",
             "title": "F-15 Training Mission",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "Hermine Hits Southern States",
             "secondDuration": 340,
             "group": "group_7"
+        },
+        {
+            "videoId": "1XePTi-D22I",
+            "title": "Best College Football Teams This Season",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

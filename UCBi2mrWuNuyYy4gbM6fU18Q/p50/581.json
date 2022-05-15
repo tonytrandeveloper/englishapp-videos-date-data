@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "N1kGIcxvmVk",
-            "title": "Jogger describes being almost hit by gunfire",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTHvRFlNS_E",
             "title": "Suspect in congressional baseball shooting identified",
             "secondDuration": 88,
@@ -301,8 +295,14 @@
             "title": "Remembering 'Batman' TV icon Adam West",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "1156XZTBJvQ",
+            "title": "3 US soldiers killed, 1 wounded in insider attack in Afghanistan",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

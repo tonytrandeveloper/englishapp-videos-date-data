@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RjLGh9vyiQk",
-            "title": "Learning Lincoln",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "5wSIyyfAozs",
             "title": "Losing It All",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Justin Bieber, Selena Gomez Break Up: Stars End Romantic Relationship After 2 Years",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "bBRuWvchq1w",
+            "title": "'Twilight Saga' Starring Kristen Stewart, Robert Pattinson Ends: Fans Find it Hard to Say Goodbye",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

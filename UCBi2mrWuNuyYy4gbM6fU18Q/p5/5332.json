@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_AOfHZ1kIis",
-            "title": "Omarosa Manigault talks about her resignation",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "EId28hA4K00",
             "title": "Ohio police use battering ram to capture armed suspect",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "FCC net neutrality vote: Commission votes to repeal net neutrality rules (FULL) | ABC News",
             "secondDuration": 9855,
             "group": "group_7"
+        },
+        {
+            "videoId": "iZj8CE7fwSE",
+            "title": "'Star Wars: The Last Jedi' movie (2017) and 'Darth Vader,' 'Poe Dameron' comics on 'Inside Marvel'",
+            "secondDuration": 1515,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BWPYiZG-Kss",
-            "title": "This Morning’s Top Headlines – July 9 | Morning News NOW",
-            "secondDuration": 1435,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ai-eZA3_y0",
             "title": "Pfizer Announces Plans To Develop A Covid Booster Dose",
             "secondDuration": 399,
@@ -121,8 +115,14 @@
             "title": "Biden: U.S. Troops Will Withdraw From Afghanistan by August 31",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "oa8MbqRZQ4E",
+            "title": "Biden Delivers Remarks On U.S. Troop Withdrawal From Afghanistan | NBC News",
+            "secondDuration": 1895,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "b6Dyrk_AWKQ",
-            "title": "President Donald Trump Speaks At FBI National Academy Graduation (Full) | NBC News",
-            "secondDuration": 3040,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1ZwC9Wti_o",
             "title": "What Not To Do At Your Office Holiday Party | Better | NBC News",
             "secondDuration": 221,
@@ -121,8 +115,14 @@
             "title": "Battlefield Researchers Uncover ISIS Arsenal And Weapons Factory In Iraq | NBC News",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "zjNLsFJumeU",
+            "title": "Roy Moore Refuses To Concede, Blames ‘Baseless And False Allegations' | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FKR_2T__cB4",
-            "title": "Hurricane Sandy Aftermath Video: New York at a Stand Still",
-            "secondDuration": 698,
-            "group": "group_7"
-        },
-        {
             "videoId": "vThSFXzFKto",
             "title": "Hurricane Sandy's Amazing Force: Storm Uproots Giant Trees",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sandy Brings Snowstorm to West Virginia",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ruawci7YoFA",
+            "title": "Hurricane Sandy: Power Outage Forces NYU Hospital Evacuation",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

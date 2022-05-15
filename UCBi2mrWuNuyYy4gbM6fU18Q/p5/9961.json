@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-9lzRWxgmyQ",
-            "title": "The Teenage Brain on Porn | Nightline | ABC News",
-            "secondDuration": 498,
-            "group": "group_7"
-        },
-        {
             "videoId": "Euayqpsd7_Y",
             "title": "ABC World News Now - WEBCAST: Fairy Godmother Judge",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Syria Meets First Critical Deadline of Chemical Weapons Deal",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "-v-CIfoy7bY",
+            "title": "FAA Changes Rules on Consumer Devices on Flights",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

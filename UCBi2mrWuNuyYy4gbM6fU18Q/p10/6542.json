@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QFL5hOkg3xw",
-            "title": "Afghan Election Results Delayed",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZhTDWr6Sk94",
             "title": "Cheering for Acceptance",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "The Real Deal on the Cookie Diet",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "coPpB3fnitY",
+            "title": "Matchmaker, Matchmaker Make Me a Match",
+            "secondDuration": 743,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

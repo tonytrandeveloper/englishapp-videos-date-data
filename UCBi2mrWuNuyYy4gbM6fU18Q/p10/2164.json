@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EqLKiq22B3k",
-            "title": "Aziz Ansari opens up about sexual misconduct allegations",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "tORPO1XLx4g",
             "title": "El Chapo found guilty on all 10 charges",
             "secondDuration": 440,
@@ -61,8 +55,14 @@
             "title": "Trump 'not happy' with congressional border deal",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZbNiKgLMZU",
+            "title": "Pacific Northwest battles record snowstorm",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

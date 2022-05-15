@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X3mzL1B7sgM",
-            "title": "Senator Ted Cruz, Beto O'Rourke Trade Barbs In Senate Debate | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzS6Yhr4mBs",
             "title": "Mega Millions Jackpot Could Make You Richer Than Taylor Swift | NBC Nightly News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Maryland Police Officer Charged With Raping Woman At Traffic Stop | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "SfofPcNdppg",
+            "title": "Hurricane Michael Death Toll Rises To At Least 29 | NBC Nightly News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

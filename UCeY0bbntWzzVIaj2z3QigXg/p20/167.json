@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zeJlp_6tfdc",
-            "title": "Dr. Fauci Warns Americans To Take New Omicron Variant Seriously",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "EMpMTda8lHo",
             "title": "Russia Denies Involvement In Alleged Ukraine Coup Plot",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Nightly News Full Broadcast - Nov. 25",
             "secondDuration": 1284,
             "group": "group_7"
+        },
+        {
+            "videoId": "YU1pfC41WGI",
+            "title": "Black Friday And Cyber Monday Deals: What You Need To Know",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

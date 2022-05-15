@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x8MaPsZJaU8",
-            "title": "Nevada IHOP Massacre Seen and Heard",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "InWBgRFoKiM",
             "title": "Reagan Scholar Says 2012 Candidates Don't Measure Up",
             "secondDuration": 298,
@@ -61,8 +55,14 @@
             "title": "9/11 Anniversary: Behind the 19 Hijackers",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "uZf2RLCyADY",
+            "title": "'Real Housewives of Beverley Hills' Debuts Season 2 After Suicide of Russell Armstrong",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

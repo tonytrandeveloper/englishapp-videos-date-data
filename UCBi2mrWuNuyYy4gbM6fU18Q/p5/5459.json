@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6cn26muiu3s",
-            "title": "Olympic gymnast claims sexual assault by team doctor",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uj80BlRoriM",
             "title": "Trump warns McCain: 'I fight back'",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "Trump sparks backlash with message to soldier's widow",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "YmiJUlx5drU",
+            "title": "Stock market hits 23K milestone",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

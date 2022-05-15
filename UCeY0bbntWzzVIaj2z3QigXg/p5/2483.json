@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QlJ7865dI0s",
-            "title": "Joe Biden Pays Respects To Rep. John Lewis | NBC News NOW",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nl6Le5O07Iw",
             "title": "Rep. John Lewis Crosses The Edmund Pettus Bridge One Last Time | NBC Nightly News",
             "secondDuration": 111,
@@ -31,8 +25,14 @@
             "title": "Trump Says He Hasn’t Seen COVID-Positive National Security Adviser Robert O'Brien | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "UEVtGxJP2eI",
+            "title": "“If This Can Happen Here In Portland, It Can Happen Anywhere.” | NBC News",
+            "secondDuration": 330,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

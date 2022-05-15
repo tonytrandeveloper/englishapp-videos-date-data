@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fC7NLYdsKqk",
-            "title": "Sarah Palin's Swan Song",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "Aoz35gIp5Xk",
             "title": "Lessons from Gates Debate",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "Obama Stands by Police Remarks",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZceSNN_P_LE",
+            "title": "N.J. Mayors Trade Cash for Favors",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

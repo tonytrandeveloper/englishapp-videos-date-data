@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T0q7j-diMLQ",
-            "title": "Suspect Arrested In Shootings Of Homeless Men In Las Vegas | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "4PaLeXOkrMY",
             "title": "Barrel Bombs And Rockets Kill Hundreds In Rebel-Held Eastern Ghouta | NBC News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Vows To Take Action After Florida Shooting | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "T9-kRpaxn_E",
+            "title": "Florida Shooting Sparks Conversation Among Gun Owners | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

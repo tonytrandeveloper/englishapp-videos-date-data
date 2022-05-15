@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "34BQx_YzJt0",
-            "title": "Trump faces divide on NFL, Republican issues",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "rV9K_PQAvXU",
             "title": "Republican senator blasts President Trump",
             "secondDuration": 255,
@@ -121,8 +115,14 @@
             "title": "Las Vegas Shooting witnesses, victims recall their day before: 20/20 Part 1",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "-JPredb6SZM",
+            "title": "Remembering victims of the Las Vegas mass shooting",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

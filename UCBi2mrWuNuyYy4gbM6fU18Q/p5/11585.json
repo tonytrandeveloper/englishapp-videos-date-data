@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bGmn-XIT_rQ",
-            "title": "White House Intelligence Leaks Under Investigation",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "hybra6HVBWQ",
             "title": "Hottest Spring Weather on Record: Tornadoes, Wildfires, Hail",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Indian Debt Collectors Target US Victims",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "k87XpGxTdP0",
+            "title": "Bees Out of Control Caught on Tape",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vQ6Frh6WMVs",
-            "title": "Shark Attack Death Blamed on Reality TV",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "_q2VTQzt6wY",
             "title": "Pakistan Plane Crash: No Survivors",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Bird Strike Grounds Delta Flight",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pqAXOUSLfw",
+            "title": "Jet Hits Birds, Makes Emergency Landing",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

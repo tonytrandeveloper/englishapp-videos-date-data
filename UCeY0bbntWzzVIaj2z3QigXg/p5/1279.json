@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iZdT6Rlopmw",
-            "title": "Building Collapse Near Miami Prompts Massive Emergency Response",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "_YFiT15QQes",
             "title": "Schumer, Pelosi Hope For July Infrastructure Vote",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Defense Sec. Backs Change In How Military Sexual Assault Cases Are Handled",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "yQ_EugMpgsA",
+            "title": "CDC Director Speaks On Rise Of Delta Variant",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QRhiEfkFLkI",
-            "title": "Clinical Trials Underway In Race For Coronavirus Vaccine | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "HDLFH7WhMLE",
             "title": "5-yr-old Daughter Of Detroit First Responders Dies After Contracting Coronavirus | NBC Nightly News",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2698,
             "group": "group_7"
+        },
+        {
+            "videoId": "pdO_gtUnElk",
+            "title": "WATCH: 16-Year-Old Coronavirus Patient Gets Emotional Send-Off From Hospital | NBC News NOW",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

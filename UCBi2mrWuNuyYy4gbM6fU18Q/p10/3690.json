@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bYNYWSACISo",
-            "title": "Donald Trump Under Fire for Alleged Sexism",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "crAk8bL0qCQ",
             "title": "Homer Simpson Appears Live on “The Simpsons” | ABC News",
             "secondDuration": 279,
@@ -61,8 +55,14 @@
             "title": "Florida Rescue Dog Saves Daughter of New Owner's Life",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "GPUF1CcP6Zc",
+            "title": "Hillary Clinton is Ready to Take Aim at Donald Trump",
+            "secondDuration": 331,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

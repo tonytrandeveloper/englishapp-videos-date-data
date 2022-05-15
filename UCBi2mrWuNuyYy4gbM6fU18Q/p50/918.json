@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "99ijiF5hvwY",
-            "title": "Canada Shooting Hero's Brother 'Very Proud'",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "ahIQCy48Nuo",
             "title": "Virginia Tech Finds Riddell's New Flex Helmet Design Better Than Any Other",
             "secondDuration": 149,
@@ -301,8 +295,14 @@
             "title": "WEBCAST: Man Carried to Safety as Home Burns",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpLSgtai9yA",
+            "title": "MIX: Weatherman vs Dog",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

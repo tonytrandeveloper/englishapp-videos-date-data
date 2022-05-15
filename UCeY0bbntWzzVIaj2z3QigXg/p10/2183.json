@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1v-zi8k8GP0",
-            "title": "Watch Live: NORAD Tracks Santa Claus As He Flies Across The Globe | NBC News",
-            "secondDuration": 9880,
-            "group": "group_7"
-        },
-        {
             "videoId": "t2E59772CUQ",
             "title": "Christmas Eve’s Magic Moments | NBC Nightly News",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Says He’s Handing Fight Against ISIS To Turkey | NBC Nightly News",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "g4EH26eIHNo",
+            "title": "Stock Market Down More Than 20 Percent Amid Partial Government Shutdown | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

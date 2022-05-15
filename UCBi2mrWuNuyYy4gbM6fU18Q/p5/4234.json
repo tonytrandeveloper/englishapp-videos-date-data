@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YdyoSf9qieA",
-            "title": "The Debrief: Boeing crash, Mozambique cyclone, Texas chemical fire | ABC News",
-            "secondDuration": 1416,
-            "group": "group_7"
-        },
-        {
             "videoId": "1e1T6iM9UbA",
             "title": "New video shows dramatic high-wire fall",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Rescuers race to save thousands in Mozambique",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "gqCa7pEWmig",
+            "title": "2 US service members killed in Afghanistan",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

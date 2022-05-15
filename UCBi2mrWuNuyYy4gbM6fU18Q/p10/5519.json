@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x8H_JhCaTss",
-            "title": "Toddler at Pittsburgh Zoo Killed in Painted Dog Exhibit",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "3dxjuHSFXVQ",
             "title": "Superstorm Sandy: 4 Things People Need Most; Hurricane 2012 Victims In Need of Supplies and Funding",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "2012 Presidential Election Predictions; 'This Week' Roundtable Discussion",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMAQc2xqBlI",
+            "title": "Swing State Outlook for 2012 Presidential Election; 'This Week' Roundtable Discussion",
+            "secondDuration": 1209,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

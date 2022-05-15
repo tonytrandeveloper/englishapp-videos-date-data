@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iQy5x3GFDBI",
-            "title": "NBC News NOW Full Broadcast - March 29th, 2021 | NBC News NOW",
-            "secondDuration": 3068,
-            "group": "group_7"
-        },
-        {
             "videoId": "1BGia-rVLEY",
             "title": "Highlights From Day One Of Derek Chauvin’s Trial | NBC News NOW",
             "secondDuration": 543,
@@ -31,8 +25,14 @@
             "title": "Trial Begins For Ex-Officer Derek Chauvin Charged In Death Of George Floyd | NBC Nightly News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "yuGOej_OYgU",
+            "title": "Growing Calls For Boycott Of Georgia-Based Businesses Over Voting Law | NBC Nightly News",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

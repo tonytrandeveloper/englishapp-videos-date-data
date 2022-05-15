@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gqCa7pEWmig",
-            "title": "2 US service members killed in Afghanistan",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "8iWao8Hg2gg",
             "title": "How criminalist analyzed Diane Downs' crime scene",
             "secondDuration": 294,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Mozambique cyclone, Former Florida spa owner speaks, New Zealand gun control | ABC News",
             "secondDuration": 1624,
             "group": "group_7"
+        },
+        {
+            "videoId": "8OBYmFgi2u8",
+            "title": "New questions arise about the safety of Boeing 737 MAX jets",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

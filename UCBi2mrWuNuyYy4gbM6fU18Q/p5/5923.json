@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G7z06aqOm5A",
-            "title": "More than 200 firefighters battle smoke and flames at apartment complex in Maryland",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "SkiAXZCXHgo",
             "title": "Astronaut Peggy Whitson holds records for longest time in space by an American",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Trump's first 100 days: Building the Mexico border wall",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "XlJnK8N3EKk",
+            "title": "Caitlyn Jenner talks about 'The Secrets of My Life'",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

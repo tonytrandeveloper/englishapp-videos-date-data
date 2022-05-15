@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K9ItQohDzrA",
-            "title": "House Judiciary Committee debates articles of impeachment | ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "CGTmWcbYURo",
             "title": "Harvey Weinstein inks $47M settlement without admitting wrongdoing l ABC News",
             "secondDuration": 287,
@@ -121,8 +115,14 @@
             "title": "3 hostages, officer killed as neighborhood becomes war zone l ABC News",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "2efQ_kBnwDI",
+            "title": "Vanna White takes ‘Wheel of Fortune’ helm for 1st time l ABC News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

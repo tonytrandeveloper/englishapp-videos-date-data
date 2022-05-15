@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4SD4K6-tkBk",
-            "title": "New TSA electronics policy announced",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ojYtD28O2I",
             "title": "President Donald Trump participates in jobs announcement at the White House",
             "secondDuration": 1687,
@@ -61,8 +55,14 @@
             "title": "Diver encounters rare megamouth shark",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "onhF2cSI2cY",
+            "title": "Three Square Market becomes the 1st American company to implant employees with microchips | ABC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KL2Ic5eCLMY",
-            "title": "‘The Breakfast Club’ Radio Show A Key Campaign Stop For 2020 Democrats | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "nyMyDBXzaEw",
             "title": "How Artificial Intelligence Is Changing The Art World | NBC Nightly News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Washington's Famed Cherry Blossoms Reach Peak Bloom | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "oDVR1PbyjGk",
+            "title": "Discovering You: Corey Baker | NBC Learn",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

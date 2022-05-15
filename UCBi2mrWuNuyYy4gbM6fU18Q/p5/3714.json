@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QsP0RG5RBCM",
-            "title": "Democratic candidates debate: How will they bring troops home? | ABC News",
-            "secondDuration": 754,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lmv6ZDm0vw",
             "title": "Democratic candidates debate: Education | ABC News",
             "secondDuration": 857,
@@ -31,8 +25,14 @@
             "title": "Democratic candidates debate: Addressing immigration and equality l ABC News",
             "secondDuration": 740,
             "group": "group_7"
+        },
+        {
+            "videoId": "kAEhKh7eKzw",
+            "title": "Democratic candidates debate: Addressing country's racism l ABC News",
+            "secondDuration": 880,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

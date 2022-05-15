@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DEcFqzmiZNA",
-            "title": "Switched at Birth or Stolen? l 20/20 l PART 4",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q9Zxgkds6N8",
             "title": "Hunt for Airbnb guests accused of stealing family heirlooms | ABC News",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Switched at Birth or Stolen? l 20/20 l PART 2",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "4dTGH9jHnDo",
+            "title": "Switched at Birth or Stolen? l 20/20 l PART 1",
+            "secondDuration": 571,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

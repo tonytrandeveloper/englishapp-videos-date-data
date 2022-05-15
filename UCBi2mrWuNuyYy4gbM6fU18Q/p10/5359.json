@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aYdZ306RhO0",
-            "title": "Hillary Clinton Testifies Before Congress",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "8F76kiefzc4",
             "title": "Pentagon to Lift Ban on Women in Combat",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Gets Choked Up at Benghazi Consulate Attack Hearing",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZUaFNRSck2Q",
+            "title": "Jason Statham Interview on New Film 'Parker'",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hBp2BimrTt8",
-            "title": "NBC Nightly News Broadcast (Full) - July 2nd, 2021",
-            "secondDuration": 1015,
-            "group": "group_7"
-        },
-        {
             "videoId": "nH4hUlVULmQ",
             "title": "NBC News NOW Full Broadcast - July 2, 2021",
             "secondDuration": 2612,
@@ -61,8 +55,14 @@
             "title": "Travel Prices Up As Millions Hit The Road For Fourth of July Weekend",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "aSpl7RfkP6o",
+            "title": "Queer Valedictorian Whose Speech Was Cut Off Explains What Happened",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

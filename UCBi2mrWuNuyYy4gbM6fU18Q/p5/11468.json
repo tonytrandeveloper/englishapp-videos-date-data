@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TLldGe8NbbY",
-            "title": "Olympic Uniform Uproar Riles U.S. Manufacturers",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "76m9K3KNOeA",
             "title": "Extreme Weather:  East Coast Storm Causes Hail in Manhattan",
             "secondDuration": 64,
@@ -31,8 +25,14 @@
             "title": "Child Abduction Attempt in Philadelphia Caught on Tape",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Orlyklo_0c",
+            "title": "Extreme Heat Puts Mississippi River in Major Drought",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

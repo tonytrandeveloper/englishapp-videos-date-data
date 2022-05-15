@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XH8OqojDvCA",
-            "title": "Italy Overtakes China In Coronavirus-Related Deaths | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "uaDUxBA_X18",
             "title": "State Department Warns Americans Not To Travel Overseas | NBC Nightly News",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Trump Speaks With Governors From FEMA HQ On Coronavirus Response | NBC News (Live Stream Recording)",
             "secondDuration": 4086,
             "group": "group_7"
+        },
+        {
+            "videoId": "KLdEFcxzjLk",
+            "title": "Atlanta Opens Drive-Through Coronavirus Testing Sites | NBC News NOW",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

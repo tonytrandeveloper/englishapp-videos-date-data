@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "emDCiXuJ_yw",
-            "title": "Husband of woman killed on Southwest flight speaks out",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "7hWcnKVEGn4",
             "title": "New details about suspect in deadly Toronto attack",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "9 dead, more than 12 wounded after van jumps curb: Police",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "EVruV1JAbvg",
+            "title": "Mounting questions about whether Trump's lawyer will flip on president",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

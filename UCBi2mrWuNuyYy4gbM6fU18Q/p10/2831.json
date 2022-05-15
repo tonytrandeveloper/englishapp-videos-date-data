@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KxJVMsUV2wg",
-            "title": "Special counsel impanels grand jury in Russian investigation",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "UHTy7ulanCY",
             "title": "Conrad Roy's cousin speaks out after texting suicide sentence",
             "secondDuration": 215,
@@ -61,8 +55,14 @@
             "title": "Transcripts released revealing Trump intended American taxpayers to front bill for Mexican wall",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "WdHzbYa-sLY",
+            "title": "Woman sentenced in texting suicide case",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7OH50_dnXW0",
-            "title": "Rare tornado rips through a Canadian town",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "QXSVveSoFHo",
             "title": "Security ramped up in Manchester for the Ariana Grande benefit concert",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Major police emergency at the London Bridge",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "pB2aAaFcPx8",
+            "title": "London Bridge, Borough Market 'terrorist incidents': Breaking news coverage from ABC News Radio",
+            "secondDuration": 1357,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

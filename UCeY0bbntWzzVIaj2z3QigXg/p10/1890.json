@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N6SBvjAwkS0",
-            "title": "Fact-Checking The Democratic Presidential Debate | NBC News Now",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "0JrvL_tf2zA",
             "title": "Inside The Fast Food ‘Meatless’ Craze | NBC Nightly News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Trump Claims Tariffs On China Haven't 'Cost Our Consumer Anything' | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KI0HMOfIdH4",
+            "title": "Wasteland: Our Food Waste Problem Is Bigger Than You Think | Mach | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

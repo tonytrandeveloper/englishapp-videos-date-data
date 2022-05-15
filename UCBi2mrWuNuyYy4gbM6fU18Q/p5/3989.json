@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tjKcn0g72TM",
-            "title": "Timelapse footage shows mass protests in Hong Kong",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "rMHNZtQ5OEE",
             "title": "The Debrief: 30 hours with President Trump, US-Iran tensions, Hong Kong protests | ABC News",
             "secondDuration": 1737,
@@ -31,8 +25,14 @@
             "title": "8-year-old bitten by shark off North Carolina coast",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "JZRbNQEOklk",
+            "title": "US soccer star defends celebrations after 2nd win",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

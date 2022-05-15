@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dPDOSF814VM",
-            "title": "Jacqueline Kennedy: In Her Own Words",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZvGR-uWSxKc",
             "title": "Webcast: GOP Takes NY Seat; Kid Pat-Downs; Gumby Robber; Highest Paid",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "One Woman Saving Thousands",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "MPflerzYlQY",
+            "title": "Lifesaving Trash? Old Phones Give Life",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

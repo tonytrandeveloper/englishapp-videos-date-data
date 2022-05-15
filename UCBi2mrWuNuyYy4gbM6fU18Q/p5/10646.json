@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tDc0YwEfQ78",
-            "title": "Blizzard of 2013: Record Breaking Snow Fall Cripples New England",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "2P0MUl0kwHI",
             "title": "Blizzard 2013: Power Outages for Hundreds of Thousands of People",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Nor'easter 2013: Snowstorm Slams Into Northeast",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "olrV9UDHYsI",
+            "title": "Blizzard 2013: Nor'easter Weather Shuts Down Parts of Connecticut, Massachusetts",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "05p0RI2Xmhg",
-            "title": "The Mud Angels helping find memories after the massive mudslide in California",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZHZOOf7GDh0",
             "title": "White House speechwriter steps down after domestic abuse allegations",
             "secondDuration": 340,
@@ -61,8 +55,14 @@
             "title": "Kim Jong Un's sister sits behind Vice President Mike Pence at Winter Games",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "aUdrAJoBkRw",
+            "title": "Kate Upton accuses Guess co-founder of sexual assault",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

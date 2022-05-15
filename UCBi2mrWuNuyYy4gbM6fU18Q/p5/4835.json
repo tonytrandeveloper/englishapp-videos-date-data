@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bH-o8NLftDQ",
-            "title": "Kidnap victim faces off with alleged captor in court",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "31v8q1R7yrw",
             "title": "Alaska plane crash survivors describe heroic rescue",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "How Carnegie Hall Musicians make an impact on NY students",
             "secondDuration": 525,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZBLe2zJ3lig",
+            "title": "First FDNY battalion chief to enter the north tower on 9/11 set to retire",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

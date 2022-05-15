@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Enq5SjYq2ns",
-            "title": "Pentagon Holds Briefing Following Explosions Outside Kabul Airport  | NBC News",
-            "secondDuration": 2461,
-            "group": "group_7"
-        },
-        {
             "videoId": "KQH2-4i74Zo",
             "title": "Pentagon Confirms 12 U.S. Service Members Killed, 15 Injured In Attack At Kabul Airport",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - August 26",
             "secondDuration": 2961,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Qv1uFpm418",
+            "title": "Taliban Sources: Suicide Attacks Kill At Least 13 People Outside Kabul Airport",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

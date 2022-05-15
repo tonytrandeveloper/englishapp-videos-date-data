@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WaxGtjIJJCs",
-            "title": "NASA Runs Final Tests On Rocket For Artemis I Mission",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "_G2SUYAsNdA",
             "title": "Fort Lauderdale Police Arrest Black Hotel Clerk Who Called For Help",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "The Surge In Telemedicine Fraud During The Pandemic",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "2OQ5SZEBwtY",
+            "title": "Nightly News Full Broadcast - April 1",
+            "secondDuration": 1118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KbpJ4uuI7Zo",
-            "title": "Revenge for Real: Murder in the Hamptons",
-            "secondDuration": 539,
-            "group": "group_7"
-        },
-        {
             "videoId": "geRXV4QH8F4",
             "title": "Rick Santorum's Son Keeps Yawning During Father's Super Tuesday Speech",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Mitt Romney's Official Speech on Super Tuesday: 'I'm Going to Get This Nomination'",
             "secondDuration": 982,
             "group": "group_7"
+        },
+        {
+            "videoId": "snIhWbyTqzw",
+            "title": "Super Tuesday: Comedy Central's Indecision 2012 Bloggers Take on Republican Results",
+            "secondDuration": 692,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

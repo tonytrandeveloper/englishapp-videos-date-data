@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DEMIovVjJ7M",
-            "title": "Obama, Romney Spar Over August Job Numbers",
-            "secondDuration": 272,
-            "group": "group_7"
-        },
-        {
             "videoId": "favNOya-qU0",
             "title": "Prince Harry in Afghanistan: Prime Target?",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Surrogate, 60, Gives Birth to Grandson",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "rDU_iyY6dbs",
+            "title": "Fighting Pirates Overseas",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

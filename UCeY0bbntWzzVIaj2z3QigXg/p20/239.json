@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "F-ZSkHGW7E8",
-            "title": "Police Bring Fencing Back To Capitol Hill Ahead Of ‘Justice For J6’ Rally",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "vReIgW8z86I",
             "title": "Deadly Earthquake Rattles China's Sichuan Province",
             "secondDuration": 66,
@@ -121,8 +115,14 @@
             "title": "Nicholas Lingers Over Louisiana Region Slammed by Hurricane Ida",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "mtCw4iwuot8",
+            "title": "Senate Holds Hearing On FBI Handling Of Larry Nassar Investigation",
+            "secondDuration": 15036,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

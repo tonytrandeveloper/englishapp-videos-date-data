@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wOGLcUD2W9o",
-            "title": "US figure skater makes history at Winter Olympics",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "04g11LVXfzU",
             "title": "Johnny Manziel reflects on his 'huge downfall'",
             "secondDuration": 355,
@@ -61,8 +55,14 @@
             "title": "Trump calling for due process after staffers resigned in the face of domestic abuse allegation",
             "secondDuration": 276,
             "group": "group_7"
+        },
+        {
+            "videoId": "05p0RI2Xmhg",
+            "title": "The Mud Angels helping find memories after the massive mudslide in California",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2Zy3uEK6Ne8",
-            "title": "'Jeopardy James' less than $300,000 from Ken Jennings' record",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "phI6zzTwv8I",
             "title": "Anti-Vietnam War activist, journalist and literary agent David Obst's story",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Dayton official describes devastation of tornado strike",
             "secondDuration": 417,
             "group": "group_7"
+        },
+        {
+            "videoId": "-l2B3heeTy0",
+            "title": "Jennings reacts as Holzhauer nears his 'Jeopardy!' title",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

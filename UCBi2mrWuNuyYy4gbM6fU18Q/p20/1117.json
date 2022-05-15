@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FMb4pT_KlVU",
-            "title": "Ex-NASA engineer uses glitter to thwart package thieves",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "ExOlKvQSD2g",
             "title": "Michael Flynn to be sentenced for lying to FBI",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Family disputing how 7-year-old migrant girl died in US custody",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "5bMIPk6X3WY",
+            "title": "Federal judge strikes down Obamacare law",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

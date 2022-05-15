@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q6Md8wM4SuU",
-            "title": "Jeff Bezos: 'Galapagos, Five Stars. Kidney Stones, Zero Stars'",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rdd3WTGxSag",
             "title": "Pastor Suspected of Killing His Wife Caught Fleeing Country",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "McDonald's Diet Defies Conventional Wisdom of Fast Food",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "ty1NbLOQ5U8",
+            "title": "NFL Playoff Game Could Be One of the Coldest in Football History",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eDNGOo47yBk",
-            "title": "Final GOP Debate 2012: 60 Second Recap",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Q1Vy1Fq2lA",
             "title": "Shopaholic: I've 'Hit Rock Bottom'",
             "secondDuration": 341,
@@ -61,8 +55,14 @@
             "title": "Rob Nelson Joins Twitter (@TVRobNelson)",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "IqzwDPrw0n8",
+            "title": "Oscars 2012: Download the Free App",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

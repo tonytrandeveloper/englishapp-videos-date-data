@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O5USmwKpnJI",
-            "title": "A Mother's Pain",
-            "secondDuration": 378,
-            "group": "group_7"
-        },
-        {
             "videoId": "4mz6mwv4uk4",
             "title": "Quick and Easy Assessment of Health Risks",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Hatch on Kagan Depends on 'Judicial Philosophy'",
             "secondDuration": 606,
             "group": "group_7"
+        },
+        {
+            "videoId": "l9xnHNJStPo",
+            "title": "Washington Post's Chris Cillizza on 'Top Line'",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

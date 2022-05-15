@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zcz2bCYdUaU",
-            "title": "ABC News' Karen Travers on 'Top Line'",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "-xgYXq0Syb0",
             "title": "The New York Times' Jeff Zeleny on 'Top Line'",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Elizabeth Edwards Dies of Cancer",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "z87GdzJoODs",
+            "title": "Jake Tapper on Obama's Tax Cut Deal with Republicans",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

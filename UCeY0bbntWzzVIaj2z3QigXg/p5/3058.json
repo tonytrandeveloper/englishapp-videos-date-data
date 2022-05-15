@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UVSWUDrAVHk",
-            "title": "Coverage of the COVID-19 outbreak | NBC News",
-            "secondDuration": 6528,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mdlv0-AWTKQ",
             "title": "Meet The Press Broadcast (Full) - March 15th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2852,
@@ -31,8 +25,14 @@
             "title": "Number Of COVID-19 Cases Likely Much Higher Than Tests Reveal | Meet The Press | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvv72eWC5pc",
+            "title": "'Every Day Counts So Much' Gov. DeWine And Gov. Pritzker Outline State Responses | Meet The Press",
+            "secondDuration": 500,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bywGtXXZ-xo",
-            "title": "'Avengers: Endgame' smashing records before movie opens",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "_-B1W8kNFhQ",
             "title": "New York City mandates vaccinations, issues fines amid spike in measles cases",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Briefing Room: Barr testifies, Trump'on family seerations, Medicare scam, Israel elections",
             "secondDuration": 1693,
             "group": "group_7"
+        },
+        {
+            "videoId": "WvlBRtvEhk0",
+            "title": "The Debrief: Barr on the Hill, Mar-a-Lago intruder, Israeli election",
+            "secondDuration": 1428,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

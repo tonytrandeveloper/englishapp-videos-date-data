@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "atYOtFbc5iM",
-            "title": "Full McMaster: 'The Military Will Have No Role In A Transition' After The Election | Meet The Press",
-            "secondDuration": 458,
-            "group": "group_7"
-        },
-        {
             "videoId": "-8eMqLJI0_A",
             "title": "Full Booker: Trump Nomination 'Undermines The Legitimacy' Of The Supreme Court | Meet The Press",
             "secondDuration": 481,
@@ -31,8 +25,14 @@
             "title": "Biden Leads Before Debate: Up in Michigan, Wisconsin | Meet The Press | NBC News",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "DwAXGuNaVyU",
+            "title": "One-on-One With Joe Biden Ahead of Tuesday’s Debate | NBC Nightly News",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

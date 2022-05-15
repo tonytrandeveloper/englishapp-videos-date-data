@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lUxTV7gt7eM",
-            "title": "SpaceX Crew-3 Astronauts Welcomed To ISS",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "5KbEZgxHK2k",
             "title": "Top Story with Tom Llamas - Nov. 11 | NBC News NOW",
             "secondDuration": 3039,
@@ -121,8 +115,14 @@
             "title": "F.W. De Klerk, The Man Who Freed Nelson Mandela, Dies Aged 85",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "X0FwfkGObJM",
+            "title": "Aaron Rodgers Fined 15K After Vaccine Controversy",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

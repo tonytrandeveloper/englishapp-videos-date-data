@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v-M_4Y6K-EA",
-            "title": "Federal Judge Refuses To Block Lawsuit Against Prince Andrew",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "X2fhzyIXiiM",
             "title": "Nightly News Full Broadcast - Jan. 12",
             "secondDuration": 1147,
@@ -121,8 +115,14 @@
             "title": "Nightly News Full Broadcast - Jan. 11",
             "secondDuration": 1263,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

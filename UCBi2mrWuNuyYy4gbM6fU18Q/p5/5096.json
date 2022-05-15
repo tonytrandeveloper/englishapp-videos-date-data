@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fl4uEZCd5Q0",
-            "title": "District attorney decides not to charge officers who killed Alton Sterling",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "OUgwAKFqg7w",
             "title": "White House press briefing on census citizenship question, Stormy Daniels | ABC News",
             "secondDuration": 2890,
@@ -31,8 +25,14 @@
             "title": "Family of unarmed black man shot 20 times demands justice",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "iayaqyGHOQo",
+            "title": "FBI investigates suspicious packages at several military bases",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

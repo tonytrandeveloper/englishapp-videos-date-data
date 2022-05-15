@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l9sOfW92unc",
-            "title": "In Case You Missed It: 9/13/2013",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "JdKE8DaxdvY",
             "title": "WEBCAST: Up, Up and Away",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "New Jersey Govenor Chris Christie Calls Seaside Boardwalk Fire An 'Unthinkable Situation'",
             "secondDuration": 747,
             "group": "group_7"
+        },
+        {
+            "videoId": "rK15EXzuQDY",
+            "title": "Flash Flooding in Colorado: Extreme Weather Leads to at Least One Death",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

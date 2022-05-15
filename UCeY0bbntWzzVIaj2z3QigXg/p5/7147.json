@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kV8s9kFMR2c",
-            "title": "Kurdish Fighters Gun Fight With ISIS | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkTlczPCqYQ",
             "title": "Hunting Elusive Wild Turkeys On Long Island | NBC News",
             "secondDuration": 285,
@@ -31,8 +25,14 @@
             "title": "Police Shoot 12 Year Old Boy Holding Air Gun | NBC News",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dT6rtYDLvM",
+            "title": "Ferguson Erupts In Protest Again: Police Crack Down | NBC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

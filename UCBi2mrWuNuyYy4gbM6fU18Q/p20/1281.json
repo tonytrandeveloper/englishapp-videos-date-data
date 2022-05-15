@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "udukfx-fM-c",
-            "title": "16-year-old Amy Yu found in Mexico",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "5ABkRhLcrno",
             "title": "FBI warns about 'virtual kidnapping' especially around Spring Break",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Investigators search for cause of Florida bridge collapse",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "LIY7iWY3tgs",
+            "title": "Donald Trump Jr., wife to divorce",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

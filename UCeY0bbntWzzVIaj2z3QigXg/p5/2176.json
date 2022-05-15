@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ou-1YKyNnT4",
-            "title": "U.S. Sees 1 Million Covid Cases In Three Weeks | NBC Nightly News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "HFHGanlnhEo",
             "title": "Trump, Biden Take Center Stage At Dueling Town Halls | NBC Nightly News",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Senate Democrats Hint At Consequences As GOP Moves To Confirm Judge Barrett | NBC News NOW",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJXjwwNLYcE",
+            "title": "Biden Delivers Remarks On Health Care | NBC News",
+            "secondDuration": 2055,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

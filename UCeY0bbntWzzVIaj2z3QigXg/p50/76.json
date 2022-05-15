@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "R9EKeOTprBo",
-            "title": "Two Teens Charged In Connection With Death Of Teacher",
-            "secondDuration": 192,
-            "group": "group_7"
-        },
-        {
             "videoId": "CgkybkTVbRs",
             "title": "Democrats Celebrate As House Passes Infrastructure Bill",
             "secondDuration": 56,
@@ -301,8 +295,14 @@
             "title": "Governor Phil Murphy's Victory Speech After Winning Second Term In New Jersey",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "fyGGhRhYsgQ",
+            "title": "Nightly News Full Broadcast - Nov. 3",
+            "secondDuration": 1284,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

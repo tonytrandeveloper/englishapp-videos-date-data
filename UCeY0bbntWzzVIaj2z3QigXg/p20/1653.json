@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OdNm5yLIfkY",
-            "title": "Emotional Ryan Lochte to Matt Lauer: 'I Let My Team Down' | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "gJOC7ADbdPs",
             "title": "New Zika Infections Trigger CDC Travel Warning for Miami Beach Area | NBC Nightly News",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "The Perception Vs. Reality Of Violent Crime In America | NBC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "zvZIixKKebg",
+            "title": "Hillary Clinton On Donald Trump: 'When Someone Shows You Who They Are, Believe Them' | NBC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

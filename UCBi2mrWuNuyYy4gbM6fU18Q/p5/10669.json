@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MA1BNY6IkwI",
-            "title": "Paul Krugman During 'This Week' Roundtable: NRA an 'Insane' Organization",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9hrrlaz3nw",
             "title": "'This Week' Web Extra: Jorge Ramos Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 327,
@@ -31,8 +25,14 @@
             "title": "Michelle Rhee 'This Week' Interview: Author of \"Radical: Fighting to Put Students First.\"",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "u0Xb6Mtc1AY",
+            "title": "Harry Reid 'This Week' Interview: Immigration Reform, Gun Control and the Budget Battle",
+            "secondDuration": 896,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

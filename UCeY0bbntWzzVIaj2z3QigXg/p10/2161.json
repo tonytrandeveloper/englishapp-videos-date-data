@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T0iCF1A44pY",
-            "title": "Donald Trump Talks Shutdown On Capitol Hill As Republican Resolve Starts To Waver | NBC Nightly News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "QtYvrcBVD5k",
             "title": "What Is A National Emergency And Can Donald Trump Declare One To Build The Wall? | NBC Nightly News",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "See How Many Times Pence And Trump Call Immigration A Crisis | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q8AWlFYtNxA",
+            "title": "DEA Says 'Vast Majority' Of Drugs Entering U.S. Come Through Legal Ports Of Entry | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lf0e0UBlh18",
-            "title": "MIX: Town Calls for Single Men",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "vpXaYny2RQA",
             "title": "WEBCAST: JPMorgan Among Banks Hit with Cyberattack",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Behind the Scenes at ‘World News’",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "-C7Gudxg9DE",
+            "title": "Miley Cyrus' Homeless Friend Has a Warrant Out for His Arrest",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

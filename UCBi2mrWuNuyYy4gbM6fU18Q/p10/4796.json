@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9l58FAhd13M",
-            "title": "WEBCAST: NYC Subway Freak-Out!",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "hH1SEaKphAM",
             "title": "'Good Guy' Congressman Caught Kissing Apologizes",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Congressman Vance McAllister Caught Kissing Staffer on Tape",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "VBGX6vPWToM",
+            "title": "Rob Lowe Interview 2014: 'Parks and Recreation' Actor on Why He Turned Down McDreamy Role",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

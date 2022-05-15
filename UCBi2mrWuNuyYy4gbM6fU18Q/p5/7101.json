@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LOn09bhDXMo",
-            "title": "DNC Staffer Killed 'Wanted to Make a Difference,' Family Says",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "ab8GclXUCJ4",
             "title": "Top Cop at Baltimore College Chokes Up Talking About Son's Safety",
             "secondDuration": 67,
@@ -31,8 +25,14 @@
             "title": "Serial Killer Search Continues in Phoenix",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "hHejRaFHr3o",
+            "title": "Passenger Ejected From SUV During High-Speed Chase",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

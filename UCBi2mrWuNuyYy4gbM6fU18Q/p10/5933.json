@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BxGGcyToxwQ",
-            "title": "Ringing in the New Year in Style",
-            "secondDuration": 209,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Ibl8IlbiQc",
             "title": "GOP Goes Full Steam Ahead to Iowa",
             "secondDuration": 385,
@@ -61,8 +55,14 @@
             "title": "Newt Gingrich Recalls 'Hillarycare' Fight",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y2QxALNgkU8",
+            "title": "Mitt Romney's Health Plan",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5sjHY-zB0VU",
-            "title": "'Queen of Soul' Aretha Franklin Passes Away At Age 76 | NBC News",
-            "secondDuration": 370,
-            "group": "group_7"
-        },
-        {
             "videoId": "bCKwaqsYDqw",
             "title": "Extended Interview: Twitter CEO Jack Dorsey Talks Alex Jones & Election Security | NBC Nightly News",
             "secondDuration": 1059,
@@ -61,8 +55,14 @@
             "title": "Pregnant Colorado Mother And Two Daughters Reported Missing | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "YWEGGq6LAbQ",
+            "title": "President Donald Trump Revokes Former CIA Director Brennan’s Security Clearance | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

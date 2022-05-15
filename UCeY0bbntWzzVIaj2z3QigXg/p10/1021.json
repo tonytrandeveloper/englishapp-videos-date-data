@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BR5EkIDXwTE",
-            "title": "What Challenges Biden Will Face In The White House | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "LjB4CsEnbgQ",
             "title": "Biden Discusses Plans For First 100 Days In Exclusive Interview | NBC Nightly News",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "Watch: Trump Hosts 2020 White House Turkey Pardon, Introduces ‘Corn’ And ‘Cob’ | NBC News NOW",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1dEld70RfM",
+            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 1836,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

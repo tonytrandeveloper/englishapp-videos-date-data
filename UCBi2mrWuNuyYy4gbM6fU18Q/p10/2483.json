@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "shVmVrs9cKw",
-            "title": "How Duchess Meghan made history on her wedding day",
-            "secondDuration": 424,
-            "group": "group_7"
-        },
-        {
             "videoId": "RqarAJW-pis",
             "title": "Student shot in the head describes Texas school shooting",
             "secondDuration": 333,
@@ -61,8 +55,14 @@
             "title": "Texas official on school shooting: 'We cannot...say it's the gun - it's us as a nation'",
             "secondDuration": 517,
             "group": "group_7"
+        },
+        {
+            "videoId": "FewMIdO-VqY",
+            "title": "Parent who lost child to school shooting says focus needs to be on 'prevention'",
+            "secondDuration": 431,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

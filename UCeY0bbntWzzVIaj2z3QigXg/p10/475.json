@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QwmtQKmOXz0",
-            "title": "Biden Stresses 'Urgent' Need To Address Climate Change At Major Economies Forum",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "9pRB-pRGpmE",
             "title": "Astronauts Return After 90-day Mission To China's Space Station",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "SpaceX’s All-Civilian Inspiration4 Crew Orbiting Earth",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "nRtY0XBee1w",
+            "title": "Biden Rejected Advice On Delaying Afghanistan Withdrawal, New Book Says",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

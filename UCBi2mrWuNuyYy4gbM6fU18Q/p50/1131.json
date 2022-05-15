@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "UQZZr8GdmIk",
-            "title": "Mitt Romney Takes the Stage at the Republican National Convention",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "OGFG_-IYl44",
             "title": "Backstreet Boys Reunion: Boy Band Back After Six Year Hiatus",
             "secondDuration": 289,
@@ -301,8 +295,14 @@
             "title": "Rand Paul on Delegate Dust-Up: Ron Paul 'Represented Very Well'",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2qtcsNTytc",
+            "title": "Rand Paul RNC Speech: Invokes American Dream at Republican National Convention 2012",
+            "secondDuration": 673,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

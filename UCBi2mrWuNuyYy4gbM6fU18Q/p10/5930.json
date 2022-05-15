@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z0R_eAYsdfM",
-            "title": "Teen Mom Shoots, Kills Intruder",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHd6AXOj0MI",
             "title": "Mitt Romney: Newt Gingrich 'Angry,' 'Disappointed' at Iowa Caucus Results",
             "secondDuration": 287,
@@ -61,8 +55,14 @@
             "title": "Iraq, Afghanistan War Vets Save U.S. City",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "57_8tHloSKM",
+            "title": "Queen's Estate Turns Up Woman's Body",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

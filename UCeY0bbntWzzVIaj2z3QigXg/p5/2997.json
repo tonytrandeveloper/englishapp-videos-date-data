@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nRUTAat1Yeg",
-            "title": "Teddy bear hunt brings welcome distraction for children | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "RvVKVzQ72SI",
             "title": "'COVID On My Face,' Colleagues Fall Ill: NYC Doctors, Nurses Plead For Help | NBC News",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "NY Gov. Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
             "secondDuration": 2398,
             "group": "group_7"
+        },
+        {
+            "videoId": "82mNydyo1Fc",
+            "title": "“Every Second Counts:” Teen’s Cancer Treatments Paused While Awaiting Covid-19 Results | NBC News",
+            "secondDuration": 235,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

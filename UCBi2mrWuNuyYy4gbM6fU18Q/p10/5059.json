@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eb074Fy14yA",
-            "title": "WEBCAST: Panda Watch",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "yvVnalO5KyI",
             "title": "Feed Frenzy: Ultimate Song of the Summer",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Young Man Attacked by Crocodile as Friends Watch In Horror",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "vDaqrXCmang",
+            "title": "Real Estate Tycoon Donald Trump Fights Phony University Claim",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

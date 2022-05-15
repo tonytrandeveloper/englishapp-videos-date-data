@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e0Jai2N_uiw",
-            "title": "Belgium Explosion Kills 1, Wounds 5",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "taFZ1kDF5ZM",
             "title": "Mom Arrested for Leaving Kids Home Alone",
             "secondDuration": 376,
@@ -31,8 +25,14 @@
             "title": "Man Strips Down, Crashes Truck Into Plane",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "xMtBbUq30Oo",
+            "title": "Donald Trump and Hillary Clinton Exchange Attacks",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

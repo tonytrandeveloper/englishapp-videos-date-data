@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4c6y0rCz630",
-            "title": "Major Hack At Saks, Lord And Taylor Compromises Customer Payment Data | NBC Nightly News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "CmJoUPwxu0o",
             "title": "Crash That Killed California Family May Have Been Intentional | NBC Nightly News",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Possible Donald Trump-Vladimir Putin Meeting Could Take Place At The White House | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "2zVtySq7nLg",
+            "title": "Markets Sink On Investor Fear Of Trade War, Damage To Tech Sector | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oT5NEW1zOso",
-            "title": "Bill Clinton Makes Political History in Role Reversal at DNC | NBC Nightly News",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "xMOosSADCKg",
             "title": "California Wildfire Destroys Homes, Forces Thousands to Evacuate | NBC Nightly News",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Assange to Richard Engel: No Proof Russians Used WikiLeaks in DNC Leak | NBC Nightly News",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "pGLUtAkHNG4",
+            "title": "‘It Feels Like It’s Alive’: Firefighters Battle California Blaze | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

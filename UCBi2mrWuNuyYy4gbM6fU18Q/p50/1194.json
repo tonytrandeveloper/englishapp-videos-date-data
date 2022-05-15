@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GjLsGi9T-00",
-            "title": "Regis Philbin's Last Show",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "UCTajhzSytI",
             "title": "Occupy Wall Street: Message in the Movement?",
             "secondDuration": 151,
@@ -301,8 +295,14 @@
             "title": "Happy Veterans Day: Standing Up for Heroes",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "M8fzPKgbJYw",
+            "title": "Penn State Coach Mike McQueary Put on Leave",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

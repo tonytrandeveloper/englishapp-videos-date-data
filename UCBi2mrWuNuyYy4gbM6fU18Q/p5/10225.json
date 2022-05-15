@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MCW36ERb-t4",
-            "title": "Jon Bon Jovi Helps Raise Millions for Hurricane Sandy Victims",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "QRh_30C8l6Y",
             "title": "Girl Shot in Head by Taliban, Speaks at UN: Malala Yousafzai United Nations Speech 2013",
             "secondDuration": 1176,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman Trial: Closing Arguments",
             "secondDuration": 506,
             "group": "group_7"
+        },
+        {
+            "videoId": "SUHRD2qX9Fg",
+            "title": "Prosecution Delivers Closing Argument in George Zimmerman Trial",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

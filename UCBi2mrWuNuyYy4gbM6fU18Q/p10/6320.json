@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KQHAVfqSF3g",
-            "title": "The Conversation: YouTube Makes a Movie",
-            "secondDuration": 205,
-            "group": "group_7"
-        },
-        {
             "videoId": "qxcZXb7XYUU",
             "title": "Sheryl Crow Is '100 Miles From Memphis'",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Washington Post's Dana Priest On 'Top Line'",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "F4wb-Cp7sp4",
+            "title": "Neal Says Tax Increase 'Not The Case'",
+            "secondDuration": 552,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

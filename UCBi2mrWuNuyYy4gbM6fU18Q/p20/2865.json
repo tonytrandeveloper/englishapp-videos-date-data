@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BEI4FmnCqZ0",
-            "title": "Aurora, Colorado Shooting: The Next Day",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "DsuyZOGmqaA",
             "title": "Aurora, Colorado Gunman: James Holmes Was A Neuroscience PhD Student",
             "secondDuration": 261,
@@ -121,8 +115,14 @@
             "title": "Colorado Shooting at 'Dark Knight Rises': James Holmes' Mom IDs Alleged Gunman With 'Gut' Instinct",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "n6OlVE29s_c",
+            "title": "Colorado Shooting at 'Dark Knight Rises' Movie: James Holmes Allegedly Kills At Least 12 in Aurora",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

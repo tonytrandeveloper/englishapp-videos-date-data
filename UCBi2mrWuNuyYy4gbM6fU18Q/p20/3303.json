@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ST5rimNAZN0",
-            "title": "Health Insurance Exec Turns Whistleblower",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "P9hiCOIH_fU",
             "title": "California Wildfires Spreading",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Fact Checking Partisan Health Care Ads",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "WrtVKFCIibU",
+            "title": "Police Investigation Turns to Stepfather",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

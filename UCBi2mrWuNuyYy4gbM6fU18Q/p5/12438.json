@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OY9PVvb49MY",
-            "title": "20/20: Rhema Marvanne, Kid Gospel Star, Sings Elvis, Whitney",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "5hUV3Z0hU_U",
             "title": "Oprah on Oprah",
             "secondDuration": 543,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Who is Captain Awesome",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "SI3_Zot3djM",
+            "title": "National Journal's Sue Davis on 'Top Line'",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

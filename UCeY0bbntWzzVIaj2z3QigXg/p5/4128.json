@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_5rXaPZl-3o",
-            "title": "Special Counsel Robert Mueller Submits Report To Attorney General | NBC Nightly News",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "0sqlu_-5rug",
             "title": "Speaker Nancy Pelosi, Schumer Release Statements On Mueller Report | NBC News",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Three Headlines From The Release Of The Robert Mueller Report | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "OhTdNq-skTQ",
+            "title": "‘Special Counsel’s Work Is Done’: Mueller Submits Report To DOJ | NBC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

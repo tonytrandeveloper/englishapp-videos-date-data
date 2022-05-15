@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "czBOHCQ8qpM",
-            "title": "Vice Presidential Debate Who Won? | Flash Reaction",
-            "secondDuration": 472,
-            "group": "group_7"
-        },
-        {
             "videoId": "IDJ_8zAtCcY",
             "title": "VP Debate Highlights | Kaine, Pence Share Plans to Unify the Nation",
             "secondDuration": 250,
@@ -61,8 +55,14 @@
             "title": "Vice Presidential Debate Full Highlights | Trump Tax Returns & Economic Plans",
             "secondDuration": 573,
             "group": "group_7"
+        },
+        {
+            "videoId": "U7AFnSxYSyQ",
+            "title": "Vice Presidential Debate Full Highlights | Pence, Kaine on  Social Security",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

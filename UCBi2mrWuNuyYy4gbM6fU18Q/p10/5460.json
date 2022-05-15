@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TVk1UBGgclU",
-            "title": "WEBCAST: Syrian Bombs?",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "zONm_LCavfw",
             "title": "Loretta Lynn: Marriage Secrets Inspired Her Music",
             "secondDuration": 307,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Train Horror!",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "L23_XHmX628",
+            "title": "Awning Collapse!",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

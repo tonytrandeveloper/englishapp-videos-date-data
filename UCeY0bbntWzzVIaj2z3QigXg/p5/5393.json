@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5ZuLU5UnhoQ",
-            "title": "Fact Checking President Donald Trump's Biggest Falsehoods And Lies of 2017 | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "e5DRiFL1wyg",
             "title": "USA Olympic Gold Medalist Jordyn Wieber Reveals She Was Abused By Larry Nassar | NBC News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Russian President Vladimir Putin Dips Into Freezing Lake Seliger To Mark Epiphany | NBC News",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "qWFanYD3cgo",
+            "title": "How To Survive A Mass Shooting | Better | NBC News",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

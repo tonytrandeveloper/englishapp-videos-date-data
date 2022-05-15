@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rnBpAjtBD4I",
-            "title": "Russian Warplanes Carry Out Bombing Drills In Baltic Sea | NBC News",
-            "secondDuration": 66,
-            "group": "group_7"
-        },
-        {
             "videoId": "gVpcOM628jw",
             "title": "The Lonely Battle: A Former GOP Congressman Pushes His Party To Believe In Climate Change | NBC News",
             "secondDuration": 298,
@@ -121,8 +115,14 @@
             "title": "Kavanaugh Accuser Agrees To Testify Before Senate Committee | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "vmLfwT8Dl1g",
+            "title": "Watch live: Trump holds campaign rally in Missouri",
+            "secondDuration": 4479,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fqfTjvueelM",
-            "title": "McConnell: I Will Vote Against Jackson For Supreme Court",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "f_-CDHztMuM",
             "title": "Idaho Bans Abortions After Six Weeks as Oklahoma, Florida Working On Similar Laws",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Biden Announces Humanitarian Aid, More Russian Sanctions Following NATO Summit",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "YUxErsLuHx0",
+            "title": "Biden Says Russia Should Be Removed From The G20",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

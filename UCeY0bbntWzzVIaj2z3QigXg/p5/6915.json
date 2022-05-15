@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X1u71omWDA4",
-            "title": "One Company’s Bet You’ll Buy Their Salad From a Vending Machine | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "gmg73relUxY",
             "title": "Terrorism Not Ruled Out in Russian MetroJet Plane Disaster | NBC Nightly News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Jeb Bush Talks Debate Performance, Death Penalty (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 1764,
             "group": "group_7"
+        },
+        {
+            "videoId": "KfLBPPKmrgk",
+            "title": "Investigators Search For Clues on Why Plane Plummeted in Midair | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

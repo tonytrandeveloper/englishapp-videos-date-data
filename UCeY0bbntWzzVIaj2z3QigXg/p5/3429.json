@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WF7xhRCgkqM",
-            "title": "Explosive Wildfire Threatens Homes, Forces Evacuations In California | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "k7LvRGar8ZQ",
             "title": "Growing Outbreak: Romaine Lettuce Linked To 67 Cases Of E.Coli, CDC Warns | NBC Nightly News",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Why Some Michigan Conservatives Are Abandoning The GOP | NBC News Now",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "29DDoizpV1Y",
+            "title": "Where 2020 Democratic Candidates Stand On Trade War With China | NBC News Now",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

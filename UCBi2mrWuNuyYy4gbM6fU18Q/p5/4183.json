@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ij62aq-q9D4",
-            "title": "Disney launches its own streaming service",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "owjDYUCy8Uc",
             "title": "Trump 'giving strong considerations' to sending detained migrants to sanctuary cities",
             "secondDuration": 1699,
@@ -31,8 +25,14 @@
             "title": "Feds to file new charges against Michael Avenatti",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "PwuLTCiSpts",
+            "title": "Julian Assange battles extradition to the US",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BsFdWx9E-48",
-            "title": "Son of BTK murder victims on how he moved on from tragedy",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "gpCtA6SrflM",
             "title": "Arctic temps in Minnesota among coldest in the country",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "U.S. intelligence differs with Trump on global threats",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "mDYJ4qCsF6E",
+            "title": "Longtime Trump confidante Roger Stone pleads not guilty",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

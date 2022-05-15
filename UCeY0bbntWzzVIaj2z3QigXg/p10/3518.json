@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KUJQaCfRUog",
-            "title": "Freddie Gray's Family Speaks Out | NBC Nightly News",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "KS-z704YNAE",
             "title": "Facebook COO's Husband Dave Goldberg, Dies At 47 | NBC Nightly News",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Miami Seeks Technology To Save The World | Meet The Press | NBC News",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "wH_ikmkpovk",
+            "title": "Compilation Of Nepal Earthquake's Most Dramatic Footage | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

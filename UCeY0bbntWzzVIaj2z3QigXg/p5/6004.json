@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eLRujbMMokY",
-            "title": "Are We Ready for the Next Major Earthquake? | Mach | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "ozosfw2bma4",
             "title": "Meet The Vulcanologist Pledging To Bring \"Good Science\" To Washington | NBC News",
             "secondDuration": 265,
@@ -31,8 +25,14 @@
             "title": "Journey Of A Bullet: Shot By Suspect | NBC News",
             "secondDuration": 465,
             "group": "group_7"
+        },
+        {
+            "videoId": "ah_Kvh-ISGM",
+            "title": "The LGBTQ Dance Company Challenging Gender Norms With Ballet | NBC Left Field",
+            "secondDuration": 264,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

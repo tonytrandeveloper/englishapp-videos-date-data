@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5mnBSPkh0Yc",
-            "title": "Paris Attacks Alleged Mastermind Killed in Raid",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "bsanR_q3LD0",
             "title": "Donald Trump's Family Speaks Out on Presidential Run",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "'GMA' Hot List: Behind the Scenes at 'GMA'",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "xLOjIzZhZXI",
+            "title": "'The Hunger Games' Cast Live in Times Square",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VIzg19ERbaw",
-            "title": "Senator Mark Warner Explains How Current Russia Threat Differs From Cold War | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "DsqQG4RrQ8A",
             "title": "The U.S. Military's Plan To Fight Climate Change | Mach | NBC News",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "President Vladimir Putin Says Russia’s New Nuclear Weapons Can Evade All Defense Systems | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "EOZLsxwr60c",
+            "title": "Wilmot Collins Is Montana’s First African-American Mayor | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

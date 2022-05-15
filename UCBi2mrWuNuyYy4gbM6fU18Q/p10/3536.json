@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fSrIvxdnQGY",
-            "title": "Safari Owner 'Trampled' to Death by Antelope",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "pw8A5AeWLak",
             "title": "Tappan Zee Bridge Crane Collapse Injures 5 People",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Crane Collapses on New York Bridge",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1FLL_BtMkk",
+            "title": "Alton Sterling, Slain Officer Families Hug at Memorial",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BFYDH1On1I0",
-            "title": "Martin O’Malley’s Opening Statement | Democratic Debate | NBC News-YouTube",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "fcWz0sJRiaI",
             "title": "Sanders On Guns: ‘I Will Support Stronger Provisions' | Democratic Debate | NBC News-YouTube",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Marco Rubio On Immigration, ISIS, Ted Cruz (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 427,
             "group": "group_7"
+        },
+        {
+            "videoId": "JAnxf6AbppY",
+            "title": "Bernie Sanders Talks Guns, Iran, Democratic Debate | Meet The Press | NBC News",
+            "secondDuration": 292,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

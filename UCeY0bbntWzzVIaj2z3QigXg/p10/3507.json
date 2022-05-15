@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "otU1kbG8y1k",
-            "title": "The Cost of Cancer: Is Crowdfunding The Answer? | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt7923ajQqY",
             "title": "Chinese Hackers Suspected Of U.S. Government Data Breach | NBC Nightly News",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Is This ‘Little Pink Pill’ The Viagra For Women? | NBC Nightly News",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "kZ_CX3ttgY0",
+            "title": "John Kasich Talks 2016 Race And The Death Penalty | Meet The Press | NBC News",
+            "secondDuration": 372,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

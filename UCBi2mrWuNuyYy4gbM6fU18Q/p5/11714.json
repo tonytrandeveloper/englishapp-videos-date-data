@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XPAkrsSJqSE",
-            "title": "Trayvon Martin Case: Surveillance Tape Clues",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "tDXBaP2C7gk",
             "title": "Oakland, Calif., Shooting at Christian School",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Ashton Kutcher Will Play Steve Jobs; Katie Couric's Iraq Billboard",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "eOfVWlwP_UQ",
+            "title": "Katie Couric Good Morning America Stint Starts at Wrong Studio, Anchor Heads to 'Today Show'",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

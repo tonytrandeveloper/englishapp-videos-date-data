@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gunhfOV4AKA",
-            "title": "Ben Carson's Evolution: 2016 Campaign Logos | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "uotjhmYru94",
             "title": "FBI Divers Search Lake Near San Bernardino Massacre for Clues | NBC Nightly News",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Boston Chipotle Closes Following Norovirus Outbreak | Short Take | NBC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "TgtasCnrFs0",
+            "title": "San Bernardino Shooter Received Deposit of $28,500 Weeks Before Attack | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

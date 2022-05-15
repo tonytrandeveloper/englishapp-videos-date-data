@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-uoDyBezJNw",
-            "title": "WEBCAST: Powerful storms hit the east coast",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "UKxNt-ywHK8",
             "title": "In Case You Missed It: 5/23/2014",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "Read Before Grilling:  Beef Recall Expands",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "NhDRae92sIs",
+            "title": "Caught on Tape:  Trapped Under Ice and Snow After Falling From a Mountain",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

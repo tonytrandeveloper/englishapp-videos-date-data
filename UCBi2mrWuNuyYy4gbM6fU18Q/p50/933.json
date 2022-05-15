@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "8h0mRyBjXv0",
-            "title": "One Couple's 30-Day Sex-Periment",
-            "secondDuration": 341,
-            "group": "group_7"
-        },
-        {
             "videoId": "lIJmmBwG1T4",
             "title": "Crisis in Iraq:  US launches Second Round of Airstrikes in Iraq",
             "secondDuration": 204,
@@ -301,8 +295,14 @@
             "title": "Ebola: Heightened Alert Across America",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "xes5PzOucko",
+            "title": "James Cameron’s Deep Sea Challenge in 3D",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

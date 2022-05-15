@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "F1fUkUtmzMc",
-            "title": "World In Crisis: Global Refugees Reach Record Numbers | NBC News",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "akI5SGf_XA0",
             "title": "Journey Of A Bullet: Shot By Husband | NBC News",
             "secondDuration": 452,
@@ -301,8 +295,14 @@
             "title": "Inside Cuba’s Military Cyber Command (Exclusive) | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "YLM5y5KV1PQ",
+            "title": "President Donald Trump Is Being Investigated For Possible Obstruction Of Justice | NBC Nightly News",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

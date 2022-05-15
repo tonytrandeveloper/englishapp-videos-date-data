@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dWbW7_kcIF8",
-            "title": "Pelican's Incredibly Dramatic Yawn",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pdh0M2-KCMY",
             "title": "Hate Incidents Apparently Tied To Trump Victory",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "Facebook Under Fire for Fake News Stories",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "9QTnAmE4sKQ",
+            "title": "Aspiring Weatherman Arrested for Starting Forest Fire",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

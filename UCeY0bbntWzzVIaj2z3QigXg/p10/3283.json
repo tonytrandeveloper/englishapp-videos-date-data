@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NczuKFP8kuY",
-            "title": "FBI Investigating Minnesota Mall Attack As 'Potential Act Of Terrorism' | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "mFDGI6szY64",
             "title": "Trump Campaign Manager on Birtherism and the State of the Race | Meet The Press | NBC News",
             "secondDuration": 601,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama, Laura Bush Discuss Support For US Troops, Veterans | NBC News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "hZ5saK1OyRU",
+            "title": "Michelle Obama Takes Aim At ‘Birther’ Controversy | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

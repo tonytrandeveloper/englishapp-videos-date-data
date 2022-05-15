@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "atI7wx6PEs8",
-            "title": "White House press briefing on potential government shutdown | ABC News",
-            "secondDuration": 1861,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKHDbHCzWBs",
             "title": "Horrific details emerge in case of 13 captive siblings",
             "secondDuration": 469,
@@ -301,8 +295,14 @@
             "title": "Investigation underway after entire state of Hawaii sent into panic mode",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "RZ3EUj5zkNE",
+            "title": "Judge gives 'dreamers' opportunity to apply for extension of DACA protections against deportation",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

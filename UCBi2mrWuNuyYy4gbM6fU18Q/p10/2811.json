@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "53ne-bSjn6U",
-            "title": "Spanish authorities say Barcelona attack could have been even worse",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zE638l-5Qs0",
             "title": "Taylor Swift wins trial, late night comics take on Trump after Charlottesville on 'Real Live'",
             "secondDuration": 1528,
@@ -61,8 +55,14 @@
             "title": "Police in Spain this morning are scrambling to unravel widening terror plot",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "IbBRjA4yzhk",
+            "title": "Trump references inaccurate anecdote after Barcelona attack",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

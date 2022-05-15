@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DQyTnmk61eY",
-            "title": "Kansas Wildfire Burns, Severe Storms Strike Indiana, Florida",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "9FKg0zpOSVw",
             "title": "Bernie Sanders Sweeps Saturday Caucuses",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Rolling Stones Perform Free Two-Hour Set in Havana Cuba",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "8eXoUdgOMjU",
+            "title": "Rolling Stones in Cuba | Rock Legends Attend Historic Concert",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

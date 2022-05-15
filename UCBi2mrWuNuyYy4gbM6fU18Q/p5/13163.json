@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qwnRysFDLl4",
-            "title": "Jon and Kate: How They Fell in Love",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "aGS3pVYA-jQ",
             "title": "Roundtable: Health Care Reform",
             "secondDuration": 917,
@@ -31,8 +25,14 @@
             "title": "Boy Found Hidden in Wall",
             "secondDuration": 379,
             "group": "group_7"
+        },
+        {
+            "videoId": "RNyjEk3yrQo",
+            "title": "George's Bottom Line on Obama's Numbers",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

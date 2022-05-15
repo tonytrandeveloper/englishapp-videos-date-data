@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y2dv5RSQDew",
-            "title": "Watch Live: Donald Trump, Emmanuel Macron Hold Joint News Conference in Paris",
-            "secondDuration": 2275,
-            "group": "group_7"
-        },
-        {
             "videoId": "ujfhPLrm-Hc",
             "title": "First Lady Melania Trump Visits Children's Hospital During Official Visit To Paris | NBC News",
             "secondDuration": 52,
@@ -31,8 +25,14 @@
             "title": "Malala Yousafzai Celebrates Her Birthday By Speaking Out On Education | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "CpV16BQfbrQ",
+            "title": "Ukraine's Hyper-Nationalist Military Summer Camp for Kids | NBC Left Field",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

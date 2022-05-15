@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kB_vaPvp6I4",
-            "title": "House Republicans reveal Obamacare replacement plan",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "f9_GaIQq850",
             "title": "New fallout from Trump's wiretapping accusations",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "SCOTUS returns case on transgender bathroom rights",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "KzkIHjlXMfs",
+            "title": "Old Georgia archives demolished in building implosion",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

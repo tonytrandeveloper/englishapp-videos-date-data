@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z6rTJedwEWQ",
-            "title": "Venice underwater as historically high tides continue to rise l ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "rNzB1PTAvyQ",
             "title": "Schiff delivers opening statement on Day 2 of impeachment hearings | ABC News",
             "secondDuration": 405,
@@ -31,8 +25,14 @@
             "title": "Marie Yovanovitch to testify on Capitol Hill | ABC News",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "M-wNTrO9KHc",
+            "title": "Democrats gear up for 2nd round of hearings | ABC News",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

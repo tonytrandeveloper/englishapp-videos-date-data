@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jNF2V29upvM",
-            "title": "Prosecutor Releases New Details on Pennsylvania Killing Spree | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "6v5hZhIi0ZM",
             "title": "Trump Jr. Meeting: More Participants Identified Friday | NBC News",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "Jailed Pennsylvania Man Admits To Killing 4 Missing Men, Lawyer Says | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "q7NWciCYsy0",
+            "title": "Donald Trump Praises ‘Unbreakable’ Friendship Between U.S., France | NBC News",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

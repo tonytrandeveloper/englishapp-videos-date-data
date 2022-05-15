@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C2KTee83dhM",
-            "title": "A cardiologist in Chicago dressed up as Chewbacca for his young patient",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "tHP1oB0oSdk",
             "title": "Teens march on Washington, D.C., to end gun violence",
             "secondDuration": 468,
@@ -61,8 +55,14 @@
             "title": "Inferno kills firefighter and destroys movie set in New York City",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "5AOyCWB-Jn4",
+            "title": "Demonstrators march to protest police shooting of unarmed man",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

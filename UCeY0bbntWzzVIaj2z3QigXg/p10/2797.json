@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jvJNaTuSm0U",
-            "title": "One Year Later: President Donald Trump’s Border Wall Promise | NBC News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "uUjXdQmHXIU",
             "title": "'Hamilton' Creator Lin-Manuel Miranda Pledges Long-Term Help For Puerto Rico's Recovery | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Viral Judge Frank Caprio Rules With A Big Heart | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "bzT0Ggk3Tm4",
+            "title": "70% Of Americans Don’t Realize Alcohol Is A Major Risk Factor For Cancer | NBC Nightly News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

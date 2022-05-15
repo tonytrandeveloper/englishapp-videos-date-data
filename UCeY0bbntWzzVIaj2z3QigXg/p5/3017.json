@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fRIgJBm9L6k",
-            "title": "Doctor Describes His Experience Getting Tested For COVID-19 | NBC News NOW",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "hIcSyKZyEW4",
             "title": "The Great Wall Of China Partially Reopens As Coronavirus Cases Drop In Country | NBC News",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "McConnell, Schumer Announce Deal Reached In Coronavirus Relief Bill | NBC News",
             "secondDuration": 511,
             "group": "group_7"
+        },
+        {
+            "videoId": "-qUJWFuKOG4",
+            "title": "Coronavirus: Number of Americans Testing Positive Skyrockets | NBC Nightly News",
+            "secondDuration": 673,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

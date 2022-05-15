@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wNcTCBziH_I",
-            "title": "Westminster Dog Show Winner Enjoys Steak Dinner | ABC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "plUVog7AZlc",
             "title": "Trump calls Michael Flynn a 'wonderful man'",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Arrests made in apparent assassination of Kim Jong Un's half brother",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "0zbe2ymU3vQ",
+            "title": "Plane makes emergency landing after hitting deer",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

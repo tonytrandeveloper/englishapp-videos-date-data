@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bqR9RHJ-UjA",
-            "title": "Orlando Shooting Victim's Mother Speaks at the Democratic Convention",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "QUsABfHaLP0",
             "title": "Harry Reid Addresses 2016 Democratic National Convention",
             "secondDuration": 453,
@@ -31,8 +25,14 @@
             "title": "Freddie Gray Trial | All Charges Dropped Against Cops",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "iVzH0sQDRi0",
+            "title": "Elizabeth Warren: Trump Is a 'Thin-Skinned Racist'",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

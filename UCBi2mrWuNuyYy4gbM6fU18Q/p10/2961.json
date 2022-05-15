@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4wztrrxzOwM",
-            "title": "Body camera video shows encounter between police and 5 black teens in Michigan",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "TbuxTUGZ_tw",
             "title": "President Donald Trump full speech at 2017 US Holocaust Memorial Museum’s Day of Remembrance",
             "secondDuration": 951,
@@ -61,8 +55,14 @@
             "title": "Top Democrats maintain the government shutdown can be averted if Trump backs down from his demands",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "G7z06aqOm5A",
+            "title": "More than 200 firefighters battle smoke and flames at apartment complex in Maryland",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

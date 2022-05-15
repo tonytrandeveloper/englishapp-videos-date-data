@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-0P2H_TQ7kU",
-            "title": "'Don't Ask, Don't Tell' Debate (Part 2)",
-            "secondDuration": 670,
-            "group": "group_7"
-        },
-        {
             "videoId": "L057Jmytchc",
             "title": "Your Three Words: Phish",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "What Did A.J. See?",
             "secondDuration": 412,
             "group": "group_7"
+        },
+        {
+            "videoId": "lY-PikuXTYY",
+            "title": "The Underwater Impact of the BP Oil Spill",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

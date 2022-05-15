@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EVruV1JAbvg",
-            "title": "Mounting questions about whether Trump's lawyer will flip on president",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "cwDDgV9_CaY",
             "title": "Chaos aboard flight as police use stun gun to arrest, remove passenger",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Suicide bomber in Kabul, Afghanistan, claims the lives of more than 50 people",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "IGHYkT9Hx-M",
+            "title": "Manhunt for gunman who killed 4 people at a Tennessee restaurant",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

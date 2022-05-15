@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "AVc0tB6AyxE",
-            "title": "Anthony Weiner Press Conference: Hecklers Yell \"Goodbye Pervert!\" (06.16.11)",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "UeM_6DHHg4U",
             "title": "Anthony Weiner Press Conference: Resignation Met With Lewd Heckles (06.16.11)",
             "secondDuration": 164,
@@ -301,8 +295,14 @@
             "title": "New Facebook Feature: Cool or Creepy?",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRMqXEvVmiw",
+            "title": "Elevator Phobes: Are You One?",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ut3bwGFLecI",
-            "title": "WEBCAST: Mandela Remembered",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZZ2QHqJjrRk",
             "title": "In Case You Missed It: 12/06/2013",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Nelson Mandela Dead: Peace Leader's Everlasting Impact on American Culture of Equality",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "xe6vvs0Kjyc",
+            "title": "Nelson Mandela Dead: South African Peace Leader Remembered as Fighter",
+            "secondDuration": 393,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

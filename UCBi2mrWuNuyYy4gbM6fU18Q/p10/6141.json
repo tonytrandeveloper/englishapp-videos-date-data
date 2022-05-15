@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m1Vo9krkGPU",
-            "title": "Charlie Sheen Impresses After Fans Stage Walk-Out of Detroit Show (04.04.11)",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "ck0sF5wnH4Q",
             "title": "Former Governor Jesse Ventura Picks Fight With Feds Over 9/11 (04.04.11)",
             "secondDuration": 280,
@@ -61,8 +55,14 @@
             "title": "Hole Rips in Roof of Plane",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "uMefXUShrSY",
+            "title": "High Tech Hoaxers Run Wild",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

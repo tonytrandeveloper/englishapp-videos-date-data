@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RunFOtv6GYY",
-            "title": "Manhunt: One Down, One to Go",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "s0BR1Rpj0vw",
             "title": "Ed Stafford Completes His Journey",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "The Best of Bill Weir",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "p72PS95VzuU",
+            "title": "Manhunt Underway",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

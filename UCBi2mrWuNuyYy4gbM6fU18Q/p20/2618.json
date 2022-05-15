@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ePaNXjlP4E0",
-            "title": "'This Week' Web Extra: Karl Rove",
-            "secondDuration": 337,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yds2D-7I35Q",
             "title": "'This Week' Web Extra: Jim Messina",
             "secondDuration": 312,
@@ -121,8 +115,14 @@
             "title": "Caught on Tape: Frightening Footage of Giraffe Attack",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "_j0feVyI8zY",
+            "title": "Worst First Date Ever: Man Stages Attack to Impress Date",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

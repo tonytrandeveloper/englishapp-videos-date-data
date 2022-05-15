@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tyubEwSR2a8",
-            "title": "Summer 2011 Gadgets from Dick DeBartolo",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "F7x2h6pL7VE",
             "title": "American Valor: One Marine's Story",
             "secondDuration": 274,
@@ -31,8 +25,14 @@
             "title": "Casey Anthony Closing Arguments: Who Has the Edge? The Prosecution or Defense?",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "p-JSZ8n2mhY",
+            "title": "Tour Boat Capsizes Off Coast of Mexico: American Tourist Dead",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

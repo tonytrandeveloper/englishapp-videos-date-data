@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g2E32JEyMaA",
-            "title": "Fiery crash on Los Angeles highway",
-            "secondDuration": 28,
-            "group": "group_7"
-        },
-        {
             "videoId": "E33knL-CfCQ",
             "title": "'Briefing Room': Trump CFO immunity deal, Trump push back on Sessions,  Pompeo NK trip canceled",
             "secondDuration": 850,
@@ -61,8 +55,14 @@
             "title": "Coach, kids rescued from Thai cave on the moment they were found: Part 1",
             "secondDuration": 568,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jw0_5UlFwHA",
+            "title": "Exclusive Thai cave rescue interview: Boys' soccer team, coaches on harrowing experience | ABC News",
+            "secondDuration": 2615,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

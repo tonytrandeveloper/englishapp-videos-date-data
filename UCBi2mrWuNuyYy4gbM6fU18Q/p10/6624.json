@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KTUhb6mx6ys",
-            "title": "Playing Music for World Peace",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xmnw9IoMut4",
             "title": "Race for Education Reform",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Obama Stands by Police Remarks",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZceSNN_P_LE",
+            "title": "N.J. Mayors Trade Cash for Favors",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

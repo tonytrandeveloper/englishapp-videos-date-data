@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-VvZ7LVqDM8",
-            "title": "Why We’re Obsessed With The Super Bowl | Better | NBC News",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "FLnAK41cRm4",
             "title": "Larry Nassar Victims’ Father Tries To Attack Former Doctor In Court | NBC News",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "12-Year-Old Girl In Custody After Los Angeles Middle School Shooting | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "RTW7ciTuccQ",
+            "title": "A Season Of Protests For The NFL | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

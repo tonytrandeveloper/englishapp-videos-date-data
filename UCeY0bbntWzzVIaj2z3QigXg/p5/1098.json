@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hSWIjvZhE98",
-            "title": "U.N. Report Warns Climate Change Is ‘Code Red For Humanity’",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "oNaPS0PaBHY",
             "title": "Senate Votes To Advance Bipartisan Infrastructure Bill",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Broadcast (Full) - August 8th, 2021",
             "secondDuration": 854,
             "group": "group_7"
+        },
+        {
+            "videoId": "SbMmjZmHa98",
+            "title": "Kids Going Back To School As Covid Cases Rise",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

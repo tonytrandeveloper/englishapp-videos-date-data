@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0fN1BD-mCzY",
-            "title": "Orangutan Breaks Loose at Busch Gardens",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "HhYv5fkMoWE",
             "title": "Loretta Lynch Vows to Follow FBI Recs in Clinton Email Scandal",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "ISIS Claims Responsibility for Bangladesh Cafe Attack",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "UyoppqQcaTI",
+            "title": "Cat and Bear Make for Unlikely Friends",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

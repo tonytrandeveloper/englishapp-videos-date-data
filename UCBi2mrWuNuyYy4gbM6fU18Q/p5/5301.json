@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dRuHYcltmDs",
-            "title": "Hong Kong, China Celebrates the Start of 2018",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "iKSefnMEECM",
             "title": "Seoul, South Korea Celebrates the Start of 2018",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "New report on how US authorities learned about Russia's election meddling",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "V4xnYgLksps",
+            "title": "Innocent man killed by police in Wichita due to alleged prank",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

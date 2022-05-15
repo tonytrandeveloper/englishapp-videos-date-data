@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WPi7zjY-bTQ",
-            "title": "NYC Central Park Explosion Injures Man",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "CoqR7gTOVms",
             "title": "Key of Awesome | Master Makes Parody of Taylor Swift, Justin Bieber, Adele & More",
             "secondDuration": 395,
@@ -121,8 +115,14 @@
             "title": "Girl Steals Car, Goes on Wild Joyride",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "mA9zuN_pfG8",
+            "title": "Tesla Autopilot Fatal Crash Raises Safety Questions",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

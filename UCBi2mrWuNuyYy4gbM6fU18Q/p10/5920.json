@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_rjy9wek_yg",
-            "title": "Cruise Ship Sinking in Italy; 6 Bodies Found",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "H0CvR6YoXnM",
             "title": "Golden Globes 2012: Winners and Losers",
             "secondDuration": 290,
@@ -61,8 +55,14 @@
             "title": "Tim Tebow's Pregame Ritual",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "AuqSELPyNSo",
+            "title": "Jon Stewart to Oversee Stephen Colbert SuperPAC",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jwoxP1pUy9k",
-            "title": "Drone Attacks Pressure al Qaeda",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "mYR45gxoFqE",
             "title": "Serial Killer: From Game Show to Death Row",
             "secondDuration": 473,
@@ -31,8 +25,14 @@
             "title": "Girls Lead in Education",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "eqGNwznmsBQ",
+            "title": "The President's Picks",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

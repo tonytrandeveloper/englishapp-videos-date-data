@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "00x9edSIEAQ",
-            "title": "First Images Released From Brazen California Jail Break",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "7_nMdBW79fk",
             "title": "Crash for Cash? 1 Man Accused of Faking 22 Accidents",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Snow Causes Thousands of Car Crashes",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "lZxUVsp2Tmg",
+            "title": "Snow, Flood Fears in New Jersey",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

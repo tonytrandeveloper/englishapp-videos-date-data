@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gunhfOV4AKA",
-            "title": "Ben Carson's Evolution: 2016 Campaign Logos | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "uotjhmYru94",
             "title": "FBI Divers Search Lake Near San Bernardino Massacre for Clues | NBC Nightly News",
             "secondDuration": 188,
@@ -121,8 +115,14 @@
             "title": "Should You Take a Daily Aspirin? | 30 STK | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJ1BC0g_PbQ",
+            "title": "Former Drone Pilots Denounce 'Morally Outrageous’ Program | NBC News",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

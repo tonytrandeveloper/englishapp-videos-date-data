@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yx1WXsnmXQc",
-            "title": "Kavanaugh grilled on abortion, Russia investigation l SCOTUS Confirmation Hearing",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "jETJwUuqih8",
             "title": "ABC News Live: California wildfires, Kavanaugh confirmation, new book on Trump",
             "secondDuration": 2375,
@@ -121,8 +115,14 @@
             "title": "Rescues underway after 6.7 magnitude earthquake rocks Japan",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjyAVsJy4EA",
+            "title": "Trump slams NYT op-ed by admin official as 'gutless'",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

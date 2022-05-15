@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "keDhORnfA4Q",
-            "title": "Brazil Makes Olympic Effort To Keep Rio's Water Clean | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "vX1uPNOc7Zo",
             "title": "DOJ: Baltimore Police Unfairly Target City’s Black Population | NBC Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "The Cost Of Going For Gold | NBC News",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2RlD853Dc8",
+            "title": "Attorney Describes 'Debtors' Prison' Scheme Targeting Poor Minorities | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

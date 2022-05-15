@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5QOPZd49W5I",
-            "title": "Russia Tests Supersonic Anti-Ship Missiles | NBC News",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "HKMO7MeBkHg",
             "title": "President Donald Trump Says He Supports An Israel, Palestine 'Two-State Solution' | NBC News",
             "secondDuration": 190,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Puts World Leaders On Notice, Slams 'Globalism' In U.N. Address | NBC News",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "PGDScQf11DY",
+            "title": "218: The Race for the House – 6 Weeks to Go",
+            "secondDuration": 2216,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

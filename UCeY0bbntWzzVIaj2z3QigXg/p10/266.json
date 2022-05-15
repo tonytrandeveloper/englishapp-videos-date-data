@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "59NTYgN-L2c",
-            "title": "This Morning’s Top Headlines – Dec. 30 | Morning News NOW",
-            "secondDuration": 1445,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yb4B5Skdc4k",
             "title": "Nightly News Full Broadcast - Dec. 29",
             "secondDuration": 1105,
@@ -61,8 +55,14 @@
             "title": "Alarming Rise In Child Covid Hospitalizations",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQGDbOcr8hY",
+            "title": "What Are Next Steps for Ghislaine Maxwell After Guilty Verdict?",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

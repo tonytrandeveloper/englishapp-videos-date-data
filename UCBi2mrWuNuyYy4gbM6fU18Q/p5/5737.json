@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NvlTCSwphNg",
-            "title": "Sen. Ted Cruz on health care reform: 'I believe we can get it done'",
-            "secondDuration": 553,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV2zEFOkAME",
             "title": "Government's top ethics watchdog on why he resigned",
             "secondDuration": 346,
@@ -31,8 +25,14 @@
             "title": "Firefighters battle wildfires across the West",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "U7irvbc5N4o",
+            "title": "Suspects arrested in slaying of American tourist in Greece",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

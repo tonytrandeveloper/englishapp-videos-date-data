@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KlAcKp-DBwg",
-            "title": "Inside the Kenyan Mall Shooting",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "GX738Gq_nag",
             "title": "Elton John Interview 2013: Singer on Fatherhood, Album: 'Happiest Guy in the World'",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Gorilla Loves Humans, But Not Other Gorillas | Good Morning America | ABC News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "5e15KtGc0nM",
+            "title": "Federal Budget Battle Takes Center Stage on Senate Floor",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

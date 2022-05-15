@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DtrkSqOMROw",
-            "title": "Gas Explosion At Paris Bakery Kills Three People, Injures Dozens | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "S9uBvFX8pOk",
             "title": "CES 2019 Round Up: 8K TVs And Smart Tractors | Mach | NBC News",
             "secondDuration": 102,
@@ -301,8 +295,14 @@
             "title": "Millions Of Americans Continuing To Not Get Paid Amid Government Shutdown | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "T0iCF1A44pY",
+            "title": "Donald Trump Talks Shutdown On Capitol Hill As Republican Resolve Starts To Waver | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9dM_PVPv_8I",
-            "title": "2-time cancer survivor returns to hospital as a nurse",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "39f3z5e1wJc",
             "title": "Tom Price resigns as President Donald Trump's HHS Secretary",
             "secondDuration": 709,
@@ -31,8 +25,14 @@
             "title": "CEO sends aid to Puerto Rico nursing home on private jet",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "0LGIDd9Y1mw",
+            "title": "Bears, Packers players lock arms during national anthem",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

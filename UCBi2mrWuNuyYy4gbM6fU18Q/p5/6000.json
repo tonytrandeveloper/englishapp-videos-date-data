@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p9npxknro5w",
-            "title": "Woman marries herself",
-            "secondDuration": 459,
-            "group": "group_7"
-        },
-        {
             "videoId": "ufV3N2o4Mys",
             "title": "Devin Nunes claims U.S. intelligence intercepted communications of members of Trump transition team",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Texas woman survives 5 days stranded in desert near Grand Canyon",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "yytLuLGHvEI",
+            "title": "FCC to crack down on robocalls to cellphones and landlines",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

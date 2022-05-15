@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uBn3L_dBVuQ",
-            "title": "Thousands of people try to escape warfare in Syria l ABC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "vipei96BVPg",
             "title": "What to watch after Giuliani associates arrested l ABC News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "2 associates of Rudy Giuliani arrested for illegal campaign contributions",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ps0WBgSKUxA",
+            "title": "Trump addresses media on the South Lawn | ABC News",
+            "secondDuration": 648,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

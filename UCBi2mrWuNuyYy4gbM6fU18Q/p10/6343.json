@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Rdkg1uZ_syA",
-            "title": "The Conversation:  Too Soon to Leave Afghanistan?",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "r1Yw0KBL28I",
             "title": "New Invention Helps Girl's Leg Grow",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Interview With Rahm Emanuel",
             "secondDuration": 1325,
             "group": "group_7"
+        },
+        {
+            "videoId": "9_KSWvnl8gk",
+            "title": "Weekend Window: Big Bend National Park",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

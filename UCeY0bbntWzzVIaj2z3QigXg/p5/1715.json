@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2CySjEmmhiw",
-            "title": "Senate Passes Covid Relief Package As Inequalities Persist In Vaccine Distribution | Meet The Press",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "6D56lE671PA",
             "title": "Inside Senate Passage Of $1.9 Trillion Covid Relief Bill | Meet The Press | NBC News",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Pope Francis Delivers Message Of Unity During Visit To Iraq | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "Js5Nom4vIfA",
+            "title": "Cuomo Facing Continued Pressure On Two Fronts | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

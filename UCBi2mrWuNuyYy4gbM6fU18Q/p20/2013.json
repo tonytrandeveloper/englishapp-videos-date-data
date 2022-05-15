@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zqFUpPcqlxY",
-            "title": "'GMA' Hot List: Chris Christie on the State of His Presidential Campaign",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "wxYE-Q0uVBQ",
             "title": "Daisy Ridley, John Boyega Discuss 'Star Wars : The Force Awakens'",
             "secondDuration": 362,
@@ -121,8 +115,14 @@
             "title": "Harrison Ford on Returning as Han Solo",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "FrmrtX2gtmg",
+            "title": "Chris Christie Takes on Donald Trump",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

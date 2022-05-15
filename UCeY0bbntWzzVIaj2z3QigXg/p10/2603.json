@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HCIAuhEvXTU",
-            "title": "Facebook's Faceplant: Android Users Unhappy About The Company Saving Call Data | Mach | NBC News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "wN3GEfEE8xo",
             "title": "WH On Expelled Russian Diplomats: Ex-Spy Poisoning Was ‘Brazen’ And ‘Reckless’ | NBC News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Lewandowski: 'I Didn't Hire' Cambridge Analytica On Trump Campaign | Meet The Press | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "-MfPNJQjm9A",
+            "title": "Warner: 'Mark Zuckerberg Needs To Come And Testify' | Meet The Press | NBC News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

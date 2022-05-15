@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kAyW0YffLyI",
-            "title": "Michigan Courthouse Shooting | Shooter Was Handcuffed Before Killing 2",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "E9YTxKL8-eY",
             "title": "6 People Rescued off Ellis Island After Boat Capsizes",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Dow Closes at Record High",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "otrB9ImUxT8",
+            "title": "Obama Full Remarks at Dallas Memorial Service",
+            "secondDuration": 2394,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

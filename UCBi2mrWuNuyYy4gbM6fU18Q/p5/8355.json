@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bH2cc8orulY",
-            "title": "Jon Stewart’s Last Night On “The Daily Show” | ABC News",
-            "secondDuration": 254,
-            "group": "group_7"
-        },
-        {
             "videoId": "2EtPV7KgnRU",
             "title": "Jennifer Aniston and Justin Theroux Get Married, A 'Jumanji' Remake and Much More in Pop News",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "An End of an Era: Jon Stewart Says Goodbye to the 'Daily Show'",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "4LvoFsBG4Lk",
+            "title": "Bounty Hunters Raid Wrong Home in Phoenix",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

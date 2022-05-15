@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_iWj556Tl6c",
-            "title": "What We Know About The Deadly Hawaii Skydiving Plane Crash | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "wEk84T-RVKg",
             "title": "Full Panel: President Trump 'Likes To Create A Crisis' | Meet The Press | NBC News",
             "secondDuration": 429,
@@ -61,8 +55,14 @@
             "title": "Officials In Mexico Confirm That 29-Year-Old American Has Been Kidnapped | NBC Nightly News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "PIQvnlNnvSo",
+            "title": "Andrew Yang Shares His Big Idea For Universal Basic Income | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

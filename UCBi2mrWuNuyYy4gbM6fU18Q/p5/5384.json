@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tPdE1wotle8",
-            "title": "Charlie Rose faces accusations of sexual misconduct",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "SL1QTI5DdT8",
             "title": "First Lady Melania Trump receives White House's 2017 Christmas tree",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "Deep freeze, storms at start of Thanksgiving travel week",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "BwglO0d_ptc",
+            "title": "American hostage mom speaks out about years in Taliban captivity",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

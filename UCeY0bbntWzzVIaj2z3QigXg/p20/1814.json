@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rWQ26B3oQNc",
-            "title": "\"Washio\" App Delivers Laundry, Drycleaning | Short Cuts | NBC News",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2Z4UxdYrWU",
             "title": "Can Air France 447 Help Find MH370? | Flashback | NBC News",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "What Is Bitcoin? | Show Me | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "_L_OuG1npM4",
+            "title": "Man Buys For Groceries For 10 People | Archives | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

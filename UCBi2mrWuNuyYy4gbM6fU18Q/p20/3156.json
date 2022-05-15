@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uuGF6Z3iBv8",
-            "title": "Doctors to Dolphin's Rescue",
-            "secondDuration": 328,
-            "group": "group_7"
-        },
-        {
             "videoId": "bWsdZ9TgYt8",
             "title": "Conn. Shooting: Inside the Rampage",
             "secondDuration": 172,
@@ -121,8 +115,14 @@
             "title": "Panel Votes on Ground Zero Islamic Center",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "GVfDmUdyalg",
+            "title": "Timothy Geithner on Unemployment, Taxes",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

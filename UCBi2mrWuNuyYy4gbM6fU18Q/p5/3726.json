@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xa7MY2_pmxU",
-            "title": "Watch LIVE President Trump campaign rally in Fayetteville, North Carolina | ABC News",
-            "secondDuration": 5396,
-            "group": "group_7"
-        },
-        {
             "videoId": "_qt0n_lFq_Q",
             "title": "Exclusive: David Muir goes inside Iraq as US hunts ISIS fighters l ABC News",
             "secondDuration": 510,
@@ -31,8 +25,14 @@
             "title": "Trapped crew members rescued from capsized cargo ship l ABC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "GIjCifIMVh8",
+            "title": "Massive fire destroys historic synagogue in Minnesota",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

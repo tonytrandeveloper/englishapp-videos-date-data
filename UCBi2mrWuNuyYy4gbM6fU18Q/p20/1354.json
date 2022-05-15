@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "urM8dsmEIFU",
-            "title": "Donna Brazile on fallout over revelations about the DNC in her latest book",
-            "secondDuration": 791,
-            "group": "group_7"
-        },
-        {
             "videoId": "O9uQCxjMEUI",
             "title": "North Korea makes new threat as Trump arrives in South Korea",
             "secondDuration": 163,
@@ -121,8 +115,14 @@
             "title": "Authorities work to determine Texas church shooter's motive",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "brbKCnkaYOo",
+            "title": "Mass shooting at church in small Texas town",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cdA9FpFqh5M",
-            "title": "Donald Trump On 9/11 Statement: 'I'm Not Taking It Back' (Full) | Meet The Press | NBC News",
-            "secondDuration": 691,
-            "group": "group_7"
-        },
-        {
             "videoId": "j3EKi5vJz2k",
             "title": "Dr. Ben Carson On His Trip To Jordan (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 614,
@@ -31,8 +25,14 @@
             "title": "Macy’s Thanksgiving Day Parade Guarded by Record Number of Cops | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "kxjm6eQaFwM",
+            "title": "Pope Francis Celebrates Mass with 300,000 in Rain-Soaked Kenya | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

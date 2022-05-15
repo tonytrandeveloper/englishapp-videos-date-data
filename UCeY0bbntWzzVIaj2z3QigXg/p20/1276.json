@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3xj2nqcI3Is",
-            "title": "President Donald Trump: Iran Deal Is An ‘Unacceptable Situation,’ ‘Horrible Agreement‘ | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "d-sSLfLc3gw",
             "title": "Israeli PM Benjamin Netanyahu Claims Iran Lied About Nuclear Weapons | NBC News",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Police Nab Cop-Killer Suspect After Four-Day Manhunt In Maine | NBC Nightly News",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "m-Ca6so1S9A",
+            "title": "Stage Set For President Donald Trump’s Meeting With Kim Jong Un | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

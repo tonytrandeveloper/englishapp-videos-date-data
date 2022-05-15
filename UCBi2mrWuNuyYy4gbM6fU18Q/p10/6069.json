@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sig7taltjhU",
-            "title": "Space Shuttle: A Brief History",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "WNTjqll0n7I",
             "title": "Casey Anthony's Lawyer Jose Baez Speaks",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Caylee Anthony Case: Jury Acquits Casey Anthony of Murder",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "3H6YxAEVJdY",
+            "title": "Casey Anthony Verdict: Found Not Guilty of Murder (07.05.11)",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OpsHLG657lM",
-            "title": "Fergie says her version of the national anthem 'didn't strike intended tone'",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "KKoqsyg29lo",
             "title": "Trump takes to Twitter, calling Oprah Winfrey 'insecure'",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Survivors Of The Parkland School Shooting Speak Out",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dij2eO-8Oqo",
+            "title": "President Trump claims vindication after new indictments in Russia probe",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

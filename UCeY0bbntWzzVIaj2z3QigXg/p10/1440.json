@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E9RWwtZ9tDM",
-            "title": "Chuck Todd: 'We Have Failed To Meet The Moment' | Meet The Press | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z8w2JO5yq9g",
             "title": "As Pandemic Kills Thousands Each Day, Trump Peddles Dangerous Treatments | Meet The Press | NBC News",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Georgia Partially Reopens As Businesses Weigh Coronavirus Health Concerns | NBC Nightly News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "3rj2QxXtj_c",
+            "title": "New High Tech Coronavirus Contact Tracing Efforts Stoke Privacy Concerns | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yybO5U7n8lc",
-            "title": "It's a Boy! William, Kate Welcome Royal Baby",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "HzByD5n2YIs",
             "title": "WEBCAST: The Royal Baby",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "The House of Windsor Welcomes a New Royal",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Dgga2eU4D4",
+            "title": "A Royal Baby Boy Has Arrived",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

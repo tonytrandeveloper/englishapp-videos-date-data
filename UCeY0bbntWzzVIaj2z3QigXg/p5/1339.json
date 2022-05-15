@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M6kFmU3pxi8",
-            "title": "Senate Report On Capitol Riot Released | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "omrMRP15q9M",
             "title": "Harris Speaks Out On Why She Hasn’t Traveled To Southern Border",
             "secondDuration": 389,
@@ -31,8 +25,14 @@
             "title": "Colonial Pipeline CEO Testifies On Ransomware Attack At Senate Hearing",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "F-wEXoJHXLY",
+            "title": "The Role Of Fastly In Massive Outage That Took Major Websites Offline",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

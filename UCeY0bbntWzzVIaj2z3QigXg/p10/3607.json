@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_HsYvw8STRE",
-            "title": "Ferguson Protests Dispersed By SWAT Team | NBC News",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "xHZ9SwTk2UE",
             "title": "Furries Of Anthrocon: Beneath The Fursuit | NBC News",
             "secondDuration": 379,
@@ -61,8 +55,14 @@
             "title": "Michael Brown Shooting: Tensions High In Ferguson | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "NgEBLTmeTFg",
+            "title": "Trump Tweets, Rand Paul Runs | Schadenfreude | NBC News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

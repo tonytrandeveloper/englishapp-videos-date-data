@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rKCw58E1Bu4",
-            "title": "NBC News Denies Claim That It Tried To Block Harvey Weinstein Report | NBC Nightly News",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "VL2zIbxVWG0",
             "title": "Researchers Say Car Seat Guidelines Should Focus On Child’s Size, Not Age | NBC Nightly News",
             "secondDuration": 107,
@@ -121,8 +115,14 @@
             "title": "Prince Harry Sings At Charity Performance Of ‘Hamilton’ In London | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Zb9MegEYgA",
+            "title": "$30,000 Worth Of Apple Products Stolen From Bay Area Store | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

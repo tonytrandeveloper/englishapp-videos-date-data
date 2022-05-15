@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E27ibcjeaGQ",
-            "title": "The Latino Techie Creator For Global Good | NBC Latino | NBC News",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "pWY_AuMF6r0",
             "title": "When Tom Petty Fought To Make His Album Cheaper | NBC News",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Outpouring Of Gratitude Surrounds Las Vegas Strip | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "1AcjgGeuyXc",
+            "title": "Country Star Jason Aldean, Pregnant Wife Unharmed In Las Vegas Attack | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

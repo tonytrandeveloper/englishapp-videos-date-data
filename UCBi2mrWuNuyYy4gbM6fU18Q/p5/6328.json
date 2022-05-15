@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pNEmnVdGHok",
-            "title": "Inside the Day JonBenet Ramsey Was Found Dead: Part 1",
-            "secondDuration": 473,
-            "group": "group_7"
-        },
-        {
             "videoId": "OYmXpr1gh8E",
             "title": "Police Search For JonBenet Ramsey's Killer: Part 2",
             "secondDuration": 480,
@@ -31,8 +25,14 @@
             "title": "President Obama Believes Russian President Putin Behind DNC Hacked Emails",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "65AkoJwmAos",
+            "title": "Russia's Digital Fingerprints on Election Hacking Code",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

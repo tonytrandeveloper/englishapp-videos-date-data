@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kYa5PfkAF40",
-            "title": "Video Released by NYPD Shows Man Attacked At CVS In Possible Anti-Gay Hate Crime | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "gfKugNUZplY",
             "title": "FBI Searches Rudy Guiliani Property In Ukraine Probe | NBC News",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Senate Judiciary Committee Holds Hearing On Social Media Algorithms | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "6gN-JdUpZq4",
+            "title": "'I Think It’s Definitely Long Overdue:' New Yorkers React To New CDC Guidance On Masks Outdoors",
+            "secondDuration": 282,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

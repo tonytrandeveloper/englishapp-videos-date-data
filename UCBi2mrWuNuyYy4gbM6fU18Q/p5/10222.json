@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "y5oiJwZIc-0",
-            "title": "'This Week' Panel: George Zimmerman Verdict in Trayvon Martin Shooting Case",
-            "secondDuration": 546,
-            "group": "group_7"
-        },
-        {
             "videoId": "JLycKkdF2ko",
             "title": "Cory Monteith Found Dead in Hotel Room",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman Found Not Guilty",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "2mvGaKc0wcs",
+            "title": "George Zimmerman Verdict: Defense Attorney Mark O'Mara Put Burden of Proof on Prosecution",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

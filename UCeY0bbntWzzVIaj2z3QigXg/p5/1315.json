@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "erZk3tDTP0w",
-            "title": "NBC News NOW Full Broadcast - June 14th, 2021",
-            "secondDuration": 3029,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sat6iV1TAYo",
             "title": "NBC Nightly News Broadcast (Full) - June 14th, 2021",
             "secondDuration": 1195,
@@ -31,8 +25,14 @@
             "title": "Violent Weekend Across U.S. | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "IehNY8sjxaU",
+            "title": "New Israeli Government Sworn In As Netanyahu Ousted",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

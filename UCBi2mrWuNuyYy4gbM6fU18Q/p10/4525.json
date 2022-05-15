@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vphALS_8quk",
-            "title": "WEBCAST: Powerful Storm Slams California",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "A_6bW9ZnHrI",
             "title": "Supermodel Beverly Johnson Brings Shocking New Allegations Against Bill Cosby",
             "secondDuration": 379,
@@ -61,8 +55,14 @@
             "title": "The Rules of Stretching | FITNESS FRENZY (Episode 9)",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "kK2ErXikhVs",
+            "title": "2015 Golden Globe Nominees Announced",
+            "secondDuration": 364,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

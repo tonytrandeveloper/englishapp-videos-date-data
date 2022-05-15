@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-2pwhAEittU",
-            "title": "Wildfire Near Reno Destroys More Than 20 Homes",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "QNawLvfwies",
             "title": "Newt Gingrich Ex: Newt Wanted 'Open Marriage'",
             "secondDuration": 515,
@@ -61,8 +55,14 @@
             "title": "Cruise Ship Disaster: Search Halted",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "gG6ZfO5eoh0",
+            "title": "Wikipedia Blackout: Online Piracy Grows",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

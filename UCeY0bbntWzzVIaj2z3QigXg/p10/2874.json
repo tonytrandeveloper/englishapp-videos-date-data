@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GIpNGZVlMGs",
-            "title": "Aerial Footage Of Dominica Captures The Destruction Of Hurricane Maria | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "zoDWZE6LViI",
             "title": "NBC News Special Report: Hurricane Maria Makes Landfall | NBC News",
             "secondDuration": 358,
@@ -61,8 +55,14 @@
             "title": "Category 5 Storm Heading To Puerto Rico | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXRXi_MwRcc",
+            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "cBLcilVKiI8",
-            "title": "Hello Kitty Con 2014 | NBC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "A1l3cxYeSOw",
             "title": "Joni Ernst Delivers Winner's Speech In Iowa | NBC News",
             "secondDuration": 63,
@@ -301,8 +295,14 @@
             "title": "Raw: Kurdish Forces Battle ISIS | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "klUb28Wa4Zw",
+            "title": "The Space Race | Flashback | NBC News",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

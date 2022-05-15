@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YSx2ot7BNvQ",
-            "title": "North Korea fires at least 2 projectiles into sea l ABC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "Meo_cKcS5Mo",
             "title": "Tesla driver appears to be asleep at the wheel l ABC News",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Trapped crew members rescued from capsized cargo ship l ABC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "GIjCifIMVh8",
+            "title": "Massive fire destroys historic synagogue in Minnesota",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

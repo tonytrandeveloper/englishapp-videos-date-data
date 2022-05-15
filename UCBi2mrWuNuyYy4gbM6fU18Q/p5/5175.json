@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QsUZCo7hasI",
-            "title": "President Donald Trump delivers remarks at CPAC conference | ABC News",
-            "secondDuration": 5301,
-            "group": "group_7"
-        },
-        {
             "videoId": "kOZUJ7JCBFc",
             "title": "Florida Gov. Rick Scott announces plans on student safety",
             "secondDuration": 1852,
@@ -31,8 +25,14 @@
             "title": "NRA says schools should have more armed guards",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "hLm3HE__R0g",
+            "title": "School deputy 'never went in' amid shooting",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

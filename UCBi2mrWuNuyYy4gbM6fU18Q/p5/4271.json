@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7ovQRLk7Gxs",
-            "title": "Man describes surviving blizzard on Taco Bell hot sauce",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "amOL81-zlTw",
             "title": "Senator says she was raped by Air Force officer",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "The debate around Kylie Jenner 'self-made' billionaire Forbes title",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "9KrJRnHnDGg",
+            "title": "Alex Trebek announces he has stage 4 pancreatic cancer",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

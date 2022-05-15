@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dCh50y71uoU",
-            "title": "Former NBC correspondent speaks out against Tom Brokaw",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "e0BYLd21TNU",
             "title": "Southwest pilots describe details of engine explosion",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Trump CIA pick tells lawmakers: 'My moral compass is strong'",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "Om4ItWiybb8",
+            "title": "World War II Navy veteran graduates from college",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

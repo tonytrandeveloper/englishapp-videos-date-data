@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W9R5qKper1o",
-            "title": "Gunman Opens Fire in Crowded Louisiana Movie Theater",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "P0SOCcRWrrE",
             "title": "These Polyamorous Parents Put Controversial Spin on Child-Rearing",
             "secondDuration": 434,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Ignites Firestorm Within Republican Party",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "SeBhxLlXEJk",
+            "title": "Servicemen Murder Investigation Reveals Acts of Heroism",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

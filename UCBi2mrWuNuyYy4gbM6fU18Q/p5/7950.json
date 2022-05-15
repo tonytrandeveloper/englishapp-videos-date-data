@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aglXWmzARAU",
-            "title": "'Affluenza' Mother Day in Court",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "U566eHq1KQ4",
             "title": "Ex-FBI Agent, Daughter Charged with Killing Husband",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Dog Pants for All Fours",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "gUEdSR7AR44",
+            "title": "North Korea Claims It Detonated a Hydrogen Bomb",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

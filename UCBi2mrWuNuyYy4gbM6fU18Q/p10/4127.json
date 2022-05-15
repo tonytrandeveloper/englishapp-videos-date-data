@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2VK7GFZ4r4s",
-            "title": "FBI Searches for Serial Jewelry Thief in Southern States",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "I63q6abCtag",
             "title": "Twins Expecting Twins! | ABC News",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Tailgates at Iowa College Football Game",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "DnJxCmXonco",
+            "title": "Serena Williams Upset at US Open, Ending Grand Slam Dream",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

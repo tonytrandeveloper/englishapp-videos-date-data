@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WsHGfOLtEKM",
-            "title": "Russian nuclear monitoring stations go silent after explosion l ABC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "mB04DtembkI",
             "title": "New details of Jeffrey Epstein's will released l ABC News",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "Man suspected in Jewish center shooting threat pleads 'not guilty'",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "d7oXxUyXSJI",
+            "title": "Building in Seattle evacuated after dump truck slams into eatery",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h0paiFBB7E8",
-            "title": "What’s Behind Empty Shelves At Stores Across The U.S.",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Scsm1zgosrA",
             "title": "Inside Cleveland ICU Overwhelmed By Covid Cases",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "LIVE: Harry Reid Lies in State at the Capitol | NBC News",
             "secondDuration": 23371,
             "group": "group_7"
+        },
+        {
+            "videoId": "wHHA5RjqEIw",
+            "title": "LIVE: White House Holds Press Briefing | NBC News",
+            "secondDuration": 3376,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v9xeCn0rCCw",
-            "title": "Barack Obama Takes On President Donald Trump For First Time Since Leaving office | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "bfnHDQpFLSQ",
             "title": "Rapper Mac Miller Dead At 26 | NBC News",
             "secondDuration": 92,
@@ -121,8 +115,14 @@
             "title": "Northern California ‘Delta Fire’ Triples In Size Overnight | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "D7EefvitaU4",
+            "title": "Two Flights Land In Philadelphia With Multiple Sick Passengers | NBC Nightly News",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

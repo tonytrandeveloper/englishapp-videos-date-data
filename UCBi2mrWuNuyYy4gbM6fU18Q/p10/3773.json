@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qwVL0P96gpI",
-            "title": "Kobe Bryant Scores 60 | Bids Farewell to the NBA",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "zm63D9BvSto",
             "title": "Obama Blows Bubbles at White House Science Fair",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Joss Stone | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 654,
             "group": "group_7"
+        },
+        {
+            "videoId": "ua37CGALiE0",
+            "title": "Conjoined Twins Successfully Separated",
+            "secondDuration": 19,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

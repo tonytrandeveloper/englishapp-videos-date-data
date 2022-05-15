@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ie1qe-WO6FU",
-            "title": "'This Week' Web Extra: Olympia Snowe Answers Viewer Questions From Facebook, Twitter",
-            "secondDuration": 261,
-            "group": "group_7"
-        },
-        {
             "videoId": "lxWh1x-o6p0",
             "title": "George Will During 'This Week' Roundtable: Nation 'Systematically Misled' on Benghazi",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "Prince Harry Attends Warrior Games for Wounded Troops",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "l-11oBmFa3s",
+            "title": "Dennis Rodman Plans New North Korean Trip",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

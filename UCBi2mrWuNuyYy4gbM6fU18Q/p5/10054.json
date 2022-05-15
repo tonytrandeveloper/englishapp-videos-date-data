@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iDMnWs_NxzE",
-            "title": "Chicago Shooting: 13, Including 3-Year-Old Shot",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "3iwkkrMbylc",
             "title": "Government Shutdown Imminent: No Solution on Horizon",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Spartan Races Combine Mud and Obstacle Courses",
             "secondDuration": 451,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvVtQJNi32A",
+            "title": "WEBCAST: Food Stamp Cuts",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

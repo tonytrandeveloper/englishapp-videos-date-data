@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "r4VurNVYh6M",
-            "title": "Democrats Win House While Republicans Keep Senate | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "5dTpZzi6r3c",
             "title": "President Donald Trump: Midterm Results ‘Very Close To Complete Victory’ | NBC Nightly News",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Watch As Beto O'Rourke Concedes And Thanks Supporters | NBC News",
             "secondDuration": 639,
             "group": "group_7"
+        },
+        {
+            "videoId": "czFMNst2svg",
+            "title": "Watch Live: 2018 Midterm Elections Coverage | NBC News",
+            "secondDuration": 25207,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

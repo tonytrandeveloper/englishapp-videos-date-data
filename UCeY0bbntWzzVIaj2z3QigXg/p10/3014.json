@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v9bYgyoEPBQ",
-            "title": "Suspected Alexandria Gunman James T. Hodgkinson Pronounced Dead | NBC News",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "30QlticUcLU",
             "title": "Highlights From AG Jeff Sessions’ Senate Hearing | NBC News",
             "secondDuration": 205,
@@ -61,8 +55,14 @@
             "title": "North Korea Frees US Student Otto Warmbier | NBC Nightly News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "th2mFQGv6W8",
+            "title": "Rumors President Donald Trump Considering Firing Special Counsel Robert Mueller | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

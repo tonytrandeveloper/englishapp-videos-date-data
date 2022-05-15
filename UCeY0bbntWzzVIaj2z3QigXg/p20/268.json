@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BajkhpVNYT8",
-            "title": "Haiti Hit By Serious Storm After Deadly Earthquake",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "b0W9w2uPxGY",
             "title": "Watch: Man Jumps From Burning Cherry Picker",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Covid Surge Overwhelming Hospitals",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEofZGDWloU",
+            "title": "Search Underway For Survivors of Haiti Earthquake",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

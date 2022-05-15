@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xu0rJneMWKQ",
-            "title": "ISIS Executes Jordanian Pilot, Jordan Retaliates | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "mDY154uynRk",
             "title": "Measles Outbreak: Vaccination In America | Long Story Short | NBC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan Looking For Compromise On Tax Reform (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 721,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcPeC8E0xgs",
+            "title": "Navy 'Sea Dragon' Helicopter Unsafe For Flight | NBC Nightly News",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

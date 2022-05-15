@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WrtVKFCIibU",
-            "title": "Police Investigation Turns to Stepfather",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZC4NSAwzyY",
             "title": "Killer's Confession Jumpstarts Case",
             "secondDuration": 429,
@@ -31,8 +25,14 @@
             "title": "Bears That Look Like Dogs",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "qBhNGD1hnDI",
+            "title": "Tackling a Tough Job",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

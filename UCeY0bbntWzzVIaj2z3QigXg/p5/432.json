@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AEBAY2GmQt0",
-            "title": "Nightly News Full Broadcast - January 22nd",
-            "secondDuration": 1202,
-            "group": "group_7"
-        },
-        {
             "videoId": "EC3mhhfZAJA",
             "title": "Tensions Rise Between Ukraine and Russia",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Omicron Cases Drop In Northeast Amid Vaccine Mandate Battle",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "KgRDhNWH_18",
+            "title": "Extreme Weather Hits The U.S.",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

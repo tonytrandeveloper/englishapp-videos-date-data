@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "65X5qRJqPWg",
-            "title": "Firefighters rescue dog from frozen pond",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "_96pQc7v_-U",
             "title": "Satellite shows powerful cyclone passing over Australia",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump takes official role in White House",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "A3JL88-nBFA",
+            "title": "Former Olympic gymnasts testify before Congress about sex-abuse scandal",
+            "secondDuration": 507,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

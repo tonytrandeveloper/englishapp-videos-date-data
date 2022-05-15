@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PYx6C1kI5t0",
-            "title": "Trump's acting director of US citizenship and immigration services holds news conference | ABC News",
-            "secondDuration": 1606,
-            "group": "group_7"
-        },
-        {
             "videoId": "mZMdE9SC83Q",
             "title": "Mansion owners terrorized by 'The Watcher' finally sell home l ABC News",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "Case against Jeffrey Epstein will continue",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "d3AouiAWbmI",
+            "title": "Accused sex-trafficker Jeffrey Epstein dies",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

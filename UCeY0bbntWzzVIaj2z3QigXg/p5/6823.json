@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X8aAb5S02Dg",
-            "title": "Clinton Campaign Confident Heading Into Super Tuesday | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "zRqZqlkj3hA",
             "title": "Trump Blames ‘Bad Earpiece’ for Refusal to Condemn David Duke, KKK | NBC Nightly News",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Photographer Recounts Altercation With Secret Service At Trump Rally | NBC News",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "fn-E9C_fgMs",
+            "title": "Unrealized Dreams: Egypt After the Arab Spring | NBC News",
+            "secondDuration": 886,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

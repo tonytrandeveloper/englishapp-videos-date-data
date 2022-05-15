@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9nDg0IRCWSw",
-            "title": "'Handsome' Felon Goes Viral",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4uoVBhlxVY",
             "title": "WEBCAST: Bear Steals Pie",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Dog Found in Search for Missing California Firefighter",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "ad4MmL4-7sc",
+            "title": "Minnesota Rivers Rising as Forecast Calls for More Drenching Rain",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3DNwdIRE104",
-            "title": "Small plane crashes into residential neighborhood in Southern California",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "CrCDowZjphc",
             "title": "Downpours across California continue to create hazardous travel conditions",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "An all-female crew of fighter pilots flew in formation in honor of Rosemary Mariner",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "VufE_zUNt20",
+            "title": "Vladimir Putin promised that Russia is developing new intermediate range weapons",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

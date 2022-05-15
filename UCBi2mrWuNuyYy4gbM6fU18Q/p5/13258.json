@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ovdiZZBMbCY",
-            "title": "Walter Cronkite Dies",
-            "secondDuration": 430,
-            "group": "group_7"
-        },
-        {
             "videoId": "v_wPAR8sVJU",
             "title": "Walter Cronkite: Remembering a News Legend",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Jumbo Flying Squid Swarm San Diego",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "vghCvvoaNx4",
+            "title": "Walter Cronkite Dies at 92",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

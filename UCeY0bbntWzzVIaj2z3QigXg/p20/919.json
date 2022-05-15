@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IBKQHPbw0jY",
-            "title": "President Donald Trump On How He Is Taking Action To Protect HBCUs | NBC News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CXDcWdQK8E",
             "title": "Everything You Need To Know About New iPhone 11 Pro | NBC News Now",
             "secondDuration": 138,
@@ -121,8 +115,14 @@
             "title": "Drone Video: Bahamas’ Marsh Harbour Destroyed By Hurricane Dorian | NBC News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "e3TJJt9sebo",
+            "title": "Andrew Yang On Growing Up Asian American, Being ‘Bullied’ With Racial Slurs | NBC News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

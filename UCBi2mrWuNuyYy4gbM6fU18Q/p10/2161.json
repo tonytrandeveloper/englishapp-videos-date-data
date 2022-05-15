@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jkVyfcjjwLY",
-            "title": "Trail runner describes near-deadly mountain lion attack",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "JxhE6HM4ffY",
             "title": "Trump to declare national emergency for border wall",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "SPECIAL REPORT: President Trump to declare national emergency | ABC News",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "XAxkccHe3ec",
+            "title": "Briefing Room: Trump to sign border bill and declare national emergency, McConnell says| ABC News",
+            "secondDuration": 1783,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

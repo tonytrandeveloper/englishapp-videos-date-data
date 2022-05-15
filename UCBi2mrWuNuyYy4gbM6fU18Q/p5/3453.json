@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zIT3AeiLh7s",
-            "title": "Famous conspiracy theorist lawyer behind lawsuit against Trayvon Martin’s family l ABC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "mHZX6RUUqtM",
             "title": "California news helicopter hit mid-air l ABC News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Embattled Buffalo Bishop resigns amid widespread criticism: Part 1 | Nightline",
             "secondDuration": 708,
             "group": "group_7"
+        },
+        {
+            "videoId": "g_t2AqZxh4E",
+            "title": "Buffalo Bishop's tenure was marked by scandal: Part 2 | Nightline",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

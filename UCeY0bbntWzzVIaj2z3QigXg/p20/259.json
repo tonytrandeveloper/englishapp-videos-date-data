@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gNEhU2waMAU",
-            "title": "NBC News NOW Full Broadcast – August 25, 2021",
-            "secondDuration": 2994,
-            "group": "group_7"
-        },
-        {
             "videoId": "ArOzi10VBhQ",
             "title": "NBC Nightly News Full Broadcast - August 25th, 2021",
             "secondDuration": 1157,
@@ -121,8 +115,14 @@
             "title": "Oklahoma Stores Sell Out Of Horse Medicine Despite FDA Warning",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "588FrW1eAv8",
+            "title": "NBC News NOW Full Broadcast – August 24, 2021",
+            "secondDuration": 3011,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

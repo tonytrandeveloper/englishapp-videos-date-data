@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LBDzG0i6MMo",
-            "title": "Perseverance Rover Finds Evidence Of Ancient River on Mars",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "fbqicNfH_dM",
             "title": "'We Have A Lot More To Do': Biden Discusses Covid Response And Vaccination Efforts",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Top Story with Tom Llamas - October 13th | NBC News Now",
             "secondDuration": 2800,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z36qt2KJag4",
+            "title": "Nightly News Full Broadcast - October 13th",
+            "secondDuration": 1276,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

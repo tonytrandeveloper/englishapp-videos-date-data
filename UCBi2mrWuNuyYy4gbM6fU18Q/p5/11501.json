@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b6TNg3tKdtU",
-            "title": "'Dark Knight Rises' Details Revealed",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "3G4C2D5l0WM",
             "title": "Paging Dr. Oz",
             "secondDuration": 309,
@@ -31,8 +25,14 @@
             "title": "'Fast and Furious' Fugitives' Identities Revealed",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "SOMWaVSJd9M",
+            "title": "Fact-Checking Obama, Romney Campaign Ads",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

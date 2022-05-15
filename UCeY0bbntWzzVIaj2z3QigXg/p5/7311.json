@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AHEBKVwBCpI",
-            "title": "Rehema Ellis: 'I have a dream that...'",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Wzbx3LoKmU",
             "title": "Coming up on Meet the Press - End of Stop and Frisk?",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Coming Up on Meet the Press - U.S. on High Alert",
             "secondDuration": 16,
             "group": "group_7"
+        },
+        {
+            "videoId": "8PXhEafFGdU",
+            "title": "Education Nation: The Story",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

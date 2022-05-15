@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HTo-KsiZuF8",
-            "title": "Nicole Kidman's New Role as Grace Kelly",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "3yVsPXTYfDE",
             "title": "Officials Investigate Stolen Passports Used on Missing Malaysia Airlines Flight",
             "secondDuration": 443,
@@ -61,8 +55,14 @@
             "title": "Skin Spa Murder-For-Hire Case",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "I1taotcyJ2o",
+            "title": "Miles O'Brien Tells Story That Led to Amputated Arm",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

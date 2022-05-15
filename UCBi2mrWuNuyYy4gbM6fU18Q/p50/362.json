@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "e7q6iO-WHyY",
-            "title": "Giuliani, Pence defy Congressional subpoenas |  ABC News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "t8kFhlkl8lI",
             "title": "Senator Cory Booker joins ABC News Live to discuss debate performance l ABC News",
             "secondDuration": 200,
@@ -301,8 +295,14 @@
             "title": "Former ambassador to Ukraine testifies before House committee | ABC News",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "x_8Bzf8RLI4",
+            "title": "Turkish military moves ahead with massive military operation along Syrian border | ABC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

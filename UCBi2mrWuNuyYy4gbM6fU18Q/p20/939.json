@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fCKukwohuWk",
-            "title": "911 dispatcher under fire for chastising woman who later died drowning in flash flood",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "cUL0lgBzLvs",
             "title": "Authorities investigating mysterious deaths at VA hospital",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "ABC News announces podium placement for presidential debate in Houston",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "obSg1UsIdqY",
+            "title": "The Briefing Room: Democrat debate podium reveal, Hurricane Dorian Comey IG report | ABC News",
+            "secondDuration": 1451,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

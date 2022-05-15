@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tNBQsA7Ju9I",
-            "title": "Is the White House Concerned About Criticism?",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "YBV59Hak0Q0",
             "title": "What Is The Objective In Libya?",
             "secondDuration": 668,
@@ -61,8 +55,14 @@
             "title": "Interview With Clinton and Gates",
             "secondDuration": 826,
             "group": "group_7"
+        },
+        {
+            "videoId": "5kWyV7lNbaU",
+            "title": "Expectations of the Obama Administration",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

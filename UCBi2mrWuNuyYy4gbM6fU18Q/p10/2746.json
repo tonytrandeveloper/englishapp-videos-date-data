@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Vt6KFJmRyMk",
-            "title": "Investigators seek answers from Las Vegas gunman's girlfriend",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "jiVUVI9pvJg",
             "title": "Woman sentenced to 1 week in jail for refusing to vaccinate son",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "OJ Simpson photographed golfing after prison release",
             "secondDuration": 256,
             "group": "group_7"
+        },
+        {
+            "videoId": "ppf-krWypOQ",
+            "title": "Trump surveys hurricane damage in Puerto Rico",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

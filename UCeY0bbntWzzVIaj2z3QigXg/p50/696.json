@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "tO8dGasdr0M",
-            "title": "Archaeologists Discover Ritual Monument Near Stonehenge | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "szL0znSOsrk",
             "title": "A Look Inside the Clearwater, the Ship That’s Empowering Youth on the Hudson | NBC Nightly News",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Along The ISIS Front Line | NBC News",
             "secondDuration": 648,
             "group": "group_7"
+        },
+        {
+            "videoId": "fEmX5O3bOHQ",
+            "title": "70 International Firefighting Experts Join To Contain Wester Wildfires | Short Take | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

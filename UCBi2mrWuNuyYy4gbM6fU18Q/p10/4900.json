@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uJ2OZIRIfCg",
-            "title": "Behind the Scenes of ABC Family's 'Baby Daddy'",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "1RkYLxwGVAE",
             "title": "WEBCAST: NYC Celebrates No Pants Subway Ride",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "'This Week': New Jersey Scandal",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "GVfLCWmFnsw",
+            "title": "'This Week': Shattering the Glass Ceiling",
+            "secondDuration": 634,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

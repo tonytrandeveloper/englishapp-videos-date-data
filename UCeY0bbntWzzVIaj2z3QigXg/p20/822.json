@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0n_Hv5Ktv2k",
-            "title": "Candidates Grilled By 7-Year-Old On Campaign Trail | NBC News NOW",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "zS0Y3hor3Xk",
             "title": "How NBC Verified Video Of Iran Protests | NBC News NOW",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Protests In Iran After It Admits To Shooting Down Passenger Plane | NBC Nightly News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "o1_7GnGdjro",
+            "title": "MTP Compressed: Iran And Impeachment Dominate Headlines In Lead-Up To Iowa Caucuses | Meet The Press",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

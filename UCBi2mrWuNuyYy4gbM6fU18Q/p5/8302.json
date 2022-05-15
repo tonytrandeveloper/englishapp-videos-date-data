@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eN9H23KfJt0",
-            "title": "Donald Trump Clashes with Journalist at Campaign Event | ABC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "kWhtEtWHFE0",
             "title": "\"Hangover\" Hollywood Producer Goes to Prison to Mentor Inmates",
             "secondDuration": 426,
@@ -31,8 +25,14 @@
             "title": "Wall Street Losing Streak Continues",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "H1DQAE_TTEw",
+            "title": "Destruction of Ancient Ruins by ISIS",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

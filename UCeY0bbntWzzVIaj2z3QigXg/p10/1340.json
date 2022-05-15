@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TYOkUbirPX8",
-            "title": "NAACP President Tells College Students: 'We Will Not Survive' If Trump Is Reelected | NBC News",
-            "secondDuration": 1155,
-            "group": "group_7"
-        },
-        {
             "videoId": "o3SEjemz-Fs",
             "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
             "secondDuration": 2449,
@@ -61,8 +55,14 @@
             "title": "Meet The Press Broadcast (Full) - June 7th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2857,
             "group": "group_7"
+        },
+        {
+            "videoId": "pHis1ls2k98",
+            "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
+            "secondDuration": 5649,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

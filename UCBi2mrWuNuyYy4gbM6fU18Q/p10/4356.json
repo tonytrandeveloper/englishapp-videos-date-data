@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HPSzJQ1ikeY",
-            "title": "Jordana Brewster Talks ‘Furious 7’ and Shares Fond Memories of Paul Walker",
-            "secondDuration": 713,
-            "group": "group_7"
-        },
-        {
             "videoId": "pSm4FgKqVsE",
             "title": "Pope Francis Washes Feet of Prison Inmates",
             "secondDuration": 22,
@@ -61,8 +55,14 @@
             "title": "'The Price is Right' Model Makes a $21,960 Mistake",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "97a3ldfu3cQ",
+            "title": "Peeps: America's Favorite Easter Candy",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

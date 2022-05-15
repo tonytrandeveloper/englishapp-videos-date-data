@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IEHIr4I7zTY",
-            "title": "Investigation grows in death of beloved civil rights activist",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "44H5eZqeP5k",
             "title": "Trump sends out tweets that Pelosi calls 'xenophobic'",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Packed raft sucked into waterfall in Pennsylvania",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "PuxukWkkUkM",
+            "title": "Ken Cuccinelli on detained migrants: 'They can also go home'",
+            "secondDuration": 594,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Z6pjB9EuJ2U",
-            "title": "Residents of Puerto Rico facing long recovery after Hurricane Maria",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZ9d_uwd_gU",
             "title": "Contestants Compete in Outfit of the Day Challenge - 'Closet Raiders' S1 E2",
             "secondDuration": 231,
@@ -301,8 +295,14 @@
             "title": "Nikki Haley speaks out on North Korea, Trump's UN address",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "IT-MLyFheFo",
+            "title": "Sinkholes threaten Florida homes after Irma",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

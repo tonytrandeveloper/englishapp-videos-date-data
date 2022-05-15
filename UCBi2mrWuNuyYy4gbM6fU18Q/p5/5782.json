@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5mG1QjRqqr8",
-            "title": "Dozens injured due to turbulence on Houston-bound flight",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "WYnrHz1IP-g",
             "title": "GOP candidate Handel wins Georgia special election",
             "secondDuration": 503,
@@ -31,8 +25,14 @@
             "title": "Russian fighter jet flies within feet of a US Air Force reconnaissance plane",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "vM2KVbpBzWE",
+            "title": "Video released from dashboard camera in Philando Castile shooting",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

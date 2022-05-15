@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1LrfFIlGzFk",
-            "title": "Pres. Trump, PM May hold joint news conference in U.K",
-            "secondDuration": 3311,
-            "group": "group_7"
-        },
-        {
             "videoId": "xUDz5X8IBZ4",
             "title": "'It's fashion with protection': Bulletproof wear demand is rising, say designers",
             "secondDuration": 548,
@@ -121,8 +115,14 @@
             "title": "‘The Briefing Room': Trump at NATO summit, Judge Kavanaugh’s SCOTUS nomination | ABC News",
             "secondDuration": 4311,
             "group": "group_7"
+        },
+        {
+            "videoId": "jy0x5DLNEH8",
+            "title": "Russian pop star behind Trump Tower meeting taunts investigators",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

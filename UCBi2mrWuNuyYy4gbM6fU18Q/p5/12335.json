@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-UZ0bloIOk4",
-            "title": "Gadhafi's Sons, An ABC Exclusive Interview 2/27/2011",
-            "secondDuration": 705,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mu9_8vzJ1rM",
             "title": "PS 22: A Very Special Oscar Guest 2/27/2011",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "Suspected Terrorist Held in Texas 2/26/2011",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "gNwDjZgyDFs",
+            "title": "Unrest in Libyan Impacts US Gas Prices 2/25/2011",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

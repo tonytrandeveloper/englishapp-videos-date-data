@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jcp5xZ5HMmQ",
-            "title": "Jake Gyllenhaal on Princes, Parkour and Silly Accents",
-            "secondDuration": 437,
-            "group": "group_7"
-        },
-        {
             "videoId": "PygZUJd9VxM",
             "title": "Reality Show Reunites Father and Son",
             "secondDuration": 295,
@@ -61,8 +55,14 @@
             "title": "Washington Post's Chris Cillizza on 'Top Line'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "ceO-Bvs89WA",
+            "title": "Campbell: 'Always Opposed' New Drilling",
+            "secondDuration": 583,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

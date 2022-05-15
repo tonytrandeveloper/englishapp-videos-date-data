@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GDF_T96uDew",
-            "title": "Winter Storm Creates Icy Conditions Across Several States",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "JrQix9OxRr8",
             "title": "Eliot Spitzer Denies Accusations of Alleged Assault",
             "secondDuration": 129,
@@ -121,8 +115,14 @@
             "title": "How to Survive Falling Through Ice",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "R5gwXKHdnkA",
+            "title": "Leonardo DiCaprio Kisses Maggie Smith, Wins Big at BAFTA Awards",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

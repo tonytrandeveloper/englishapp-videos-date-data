@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kM7RPRmLy8c",
-            "title": "ROUGH CUT: Justice Sandra Day O' Connor on Keeping Civics Lessons Alive",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZjfE5vVizVQ",
             "title": "ROUGH CUT: John Hunter on the World Peace Game (and Tree Octopi)",
             "secondDuration": 258,
@@ -121,8 +115,14 @@
             "title": "Toyota Concert Series on TODAY: Kenny Chesney",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "rxBKgMZRIsk",
+            "title": "Today is the Day",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

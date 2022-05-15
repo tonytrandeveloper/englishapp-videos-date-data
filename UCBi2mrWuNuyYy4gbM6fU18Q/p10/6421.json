@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ppDTs5C40Z8",
-            "title": "Wigging Out",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "hl3THGO6-3o",
             "title": "Pope and Catholic Church Under Fire",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Girls Lead in Education",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "eqGNwznmsBQ",
+            "title": "The President's Picks",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

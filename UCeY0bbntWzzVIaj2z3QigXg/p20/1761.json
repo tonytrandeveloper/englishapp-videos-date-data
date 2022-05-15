@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "46gps7Gt9yg",
-            "title": "Death On Mount Everest Following Avalanche | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "4HIEwcIm0HY",
             "title": "Doonesbury Creator On Charlie Hebod & Future Of Satire | Meet The Press | NBC News",
             "secondDuration": 283,
@@ -121,8 +115,14 @@
             "title": "How Do Solar Panels Work? | 30 STK | NBC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "V2mI9MrzUMk",
+            "title": "U.S., Iranian Warship Showdown | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

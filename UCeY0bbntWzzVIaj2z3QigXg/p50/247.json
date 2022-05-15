@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "HaJAwi8kSLU",
-            "title": "Behind The Scenes With Dogs Being Trained To Detect COVID-19 | NBC Nightly News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "I4aEltdXhEA",
             "title": "Navy’s First Black Female Tactical Fighter Pilot Receives Wings of Gold | NBC Nightly News",
             "secondDuration": 136,
@@ -301,8 +295,14 @@
             "title": "President Bush Remembers Rep. John Lewis As Someone Who 'Always Looked Outward' | NBC News",
             "secondDuration": 347,
             "group": "group_7"
+        },
+        {
+            "videoId": "rW3d3X6eeB8",
+            "title": "Hearse Carrying John Lewis Pauses At Atlanta’s Rainbow Crosswalks | NBC News NOW",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

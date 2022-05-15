@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pRD7vWDMLqE",
-            "title": "The Donald Trump Versus Rosie O'Donnell Feud Continues | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "TI7MHMRIaC0",
             "title": "'Banished Words' List Revealed: Dadbod, Ghosting, Bigly, More | NBC News",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "First Of Two Baby Bald Eagles Hatches On Camera | NBC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y8KEpZQNp7Q",
+            "title": "Ford Announces Plan To Create 700 New US Jobs In Michigan | NBC News",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lIkfeucHiJk",
-            "title": "Trump Claims Debate was 'Rigged'",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "ruouzH08E2k",
             "title": "Nick Hillary 20/20 Interview After Found Not Guilty of Murder",
             "secondDuration": 42,
@@ -31,8 +25,14 @@
             "title": "Obama Attends Funeral of Former Israeli President Shimon Peres",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "qiYsX7dxVPM",
+            "title": "Lady Gaga Headlining Super Bowl 51 Halftime Show",
+            "secondDuration": 275,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

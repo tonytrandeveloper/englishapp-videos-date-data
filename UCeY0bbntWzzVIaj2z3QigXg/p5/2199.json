@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qccdNhBfum0",
-            "title": "Spotting The Difference Between Poll Watching And Potential Voter Intimidation | NBC News NOW",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "feyWH2BsUKQ",
             "title": "What Prosecutors Are Looking For In Trump’s Tax Records | NBC News NOW",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "How The First Debate, Trump’s Coronavirus Diagnosis Impacted Polls  | NBC News NOW",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0PzlHvS6WI",
+            "title": "Understanding The Difference Between Covid And Flu | NBC Nightly News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

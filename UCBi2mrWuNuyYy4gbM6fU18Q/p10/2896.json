@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OZSGMMUC7FQ",
-            "title": "Watergate: Inside the scandal that took down a presidency",
-            "secondDuration": 614,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qovLaE3dEM",
             "title": "Richard Nixon's relationship with the press, his secret tapes: Part 1",
             "secondDuration": 723,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Cuba Policy Change Speech Full",
             "secondDuration": 3649,
             "group": "group_7"
+        },
+        {
+            "videoId": "gXdAKBYJsMA",
+            "title": "New details emerge in Otto Warmbier's medical condition",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

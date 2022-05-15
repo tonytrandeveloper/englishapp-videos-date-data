@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NN3K87ye6P8",
-            "title": "Examining Pandemic’s Impact On Emissions | NBC News NOW",
-            "secondDuration": 285,
-            "group": "group_7"
-        },
-        {
             "videoId": "QO5Rv4BAAwA",
             "title": "GOP Kicks Off Georgia Campaign Effort In Countdown To Senate Runoff Elections | NBC News NOW",
             "secondDuration": 242,
@@ -61,8 +55,14 @@
             "title": "Biden Introduces Key Members Of His Administration | NBC News",
             "secondDuration": 2765,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kp3tjFtAi98",
+            "title": "Cuomo: Indoor Dining Will Close In NYC Starting Monday | NBC News NOW",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

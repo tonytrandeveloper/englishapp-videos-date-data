@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MFQsOk_W-HA",
-            "title": "New York City Public Schools Delay Opening Dates | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "YNcumBhYMe8",
             "title": "Cities Led By Democrats And Republicans See Increase In Murders | NBC Nightly News",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Family Of Jacob Blake Speaks Out At Kenosha Event | NBC News NOW",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "ks51ZDSriBU",
+            "title": "Watch: Bear Browses Produce Aisle In Supermarket | NBC News NOW",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

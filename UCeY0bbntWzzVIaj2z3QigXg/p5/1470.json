@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "df_VV2CGhNM",
-            "title": "White House Covid-19 Response Briefing | NBC News",
-            "secondDuration": 1970,
-            "group": "group_7"
-        },
-        {
             "videoId": "uClObNFCGaE",
             "title": "Transgender Community Calls Caitlyn Jenner ‘Out Of Touch’ | NBC News NOW",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Amazon Stands By Its Decision Not To Remove Transgender Youth Book | NBC News NOW",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "TyI6rBw7kNM",
+            "title": "Matt Gaetz And Marjorie Taylor Greene Kick Off ‘America First Tour’ In Florida | NBC News NOW",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

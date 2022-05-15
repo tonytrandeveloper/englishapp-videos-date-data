@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PERABQeFGHs",
-            "title": "Snow Wallops Midwest",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "s1wT2K8vWF4",
             "title": "David Cote and Sen. Kent Conrad Talk Business",
             "secondDuration": 569,
@@ -121,8 +115,14 @@
             "title": "Reuters' Jeff Mason on 'Top Line'",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "N6mW1BXpkHc",
+            "title": "Joe Miller: Rule of Law 'Not Being Followed'",
+            "secondDuration": 688,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

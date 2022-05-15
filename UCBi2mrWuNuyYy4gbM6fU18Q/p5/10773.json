@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CipYPqsbhVQ",
-            "title": "Behind the Scenes of Miss America 2013: Prepping for the Big Show",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nn_9Oy2bLzM",
             "title": "Cyndi Lauper, The Working Mom",
             "secondDuration": 280,
@@ -31,8 +25,14 @@
             "title": "Faking It: Raymond Roth's Disappearing Act",
             "secondDuration": 470,
             "group": "group_7"
+        },
+        {
+            "videoId": "sk4qExBMPkM",
+            "title": "Pranks Gone Wild",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

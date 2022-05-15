@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rtnQvdKMPt0",
-            "title": "Kamala Harris: Nobody Should Have To Work More Than One Job | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "O-QP5TBTVhY",
             "title": "Health Care For Undocumented Immigrants: Where The Candidates Stand | NBC News",
             "secondDuration": 206,
@@ -61,8 +55,14 @@
             "title": "Police Identify Person Of Interest In Case Of Missing Utah Student | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "ysovQXQaz5A",
+            "title": "Two Friends Corroborate E. Jean Carroll’s President Donald Trump Accusation | NBC Nightly News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

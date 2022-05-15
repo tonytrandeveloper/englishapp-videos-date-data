@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jH__8-20uRg",
-            "title": "What Can Penguins Teach Us About Earth?",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "dTzMULtLZPk",
             "title": "Haiti after the Earthquake: 1 Month Later",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "14-Year-Old Teaches Family the Power of Half",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "N9DQG7au_lY",
+            "title": "Top Line: Doubling U.S. Exports",
+            "secondDuration": 617,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

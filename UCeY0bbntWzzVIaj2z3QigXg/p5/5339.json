@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xxIda477vvg",
-            "title": "Deadly Earthquake Topples Buildings In Taiwan | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "E8Vx2Zf76VU",
             "title": "Heavy Snow Closes Eiffel Tower, Turns Montmartre Into Ski Slope | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "China Spy Suspect Appears In Court | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "tarn7tJk5NE",
+            "title": "Yale’s Most Popular Class Is Teaching Students How To Lead Happier Lives | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

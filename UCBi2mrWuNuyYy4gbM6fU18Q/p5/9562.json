@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ED087QaMsDE",
-            "title": "Mother Bear Fights to Raise Her Cubs in the Alaska Wilderness",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "7adQDEs4Uk4",
             "title": "Group Raises Money By Running to the Boston Marathon",
             "secondDuration": 198,
@@ -31,8 +25,14 @@
             "title": "Pilot Survives Interstate Plane Crash",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZoCGIeFRLwM",
+            "title": "Kansas City Highway Shooting Suspect Held on $1 Million Bail",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

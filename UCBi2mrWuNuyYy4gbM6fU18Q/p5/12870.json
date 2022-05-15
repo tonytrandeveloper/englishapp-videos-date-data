@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mPg5Jo7KswE",
-            "title": "Gen. Powell Discusses Grad Nation Campaign",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "KW76BktLJ7I",
             "title": "Kate Gosselin Joins 'Dancing With the Stars'",
             "secondDuration": 299,
@@ -31,8 +25,14 @@
             "title": "Worse Than Haiti",
             "secondDuration": 295,
             "group": "group_7"
+        },
+        {
+            "videoId": "cUyW7IYY6OM",
+            "title": "Heart of Destruction",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

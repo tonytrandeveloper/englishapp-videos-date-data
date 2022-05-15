@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "heWrsykL6-Q",
-            "title": "Elon Musk Tweets SpaceX Crash",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "H4UJsybIKdw",
             "title": "Prince William 'Appalled' by Cyberbullying",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "OJ Simpson Criminal Trial: In a Minute | ABC News",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "0pherqXeWXA",
+            "title": "What Is An AR-15? A Look At the Rifle",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

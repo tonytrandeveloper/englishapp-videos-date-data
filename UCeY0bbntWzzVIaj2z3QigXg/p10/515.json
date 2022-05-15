@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7NTr4jy3dIo",
-            "title": "White House Holds Press Briefing: August 26 | NBC News",
-            "secondDuration": 2303,
-            "group": "group_7"
-        },
-        {
             "videoId": "MoyZ_gEG81Q",
             "title": "Biden Calls Fallen Soldiers ‘Best The Country Has To Offer’",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - August 26",
             "secondDuration": 2961,
             "group": "group_7"
+        },
+        {
+            "videoId": "_Qv1uFpm418",
+            "title": "Taliban Sources: Suicide Attacks Kill At Least 13 People Outside Kabul Airport",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

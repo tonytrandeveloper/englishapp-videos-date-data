@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-BurmQYcucA",
-            "title": "'This Week': High Stakes Fight over Internet 'Fast-Lanes'",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "bSeSKKKnKyU",
             "title": "'This Week': California Fire Emergency",
             "secondDuration": 436,
@@ -61,8 +55,14 @@
             "title": "California's Battle Against Sweeping Wildfires",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "BcifLnZbcI8",
+            "title": "Tracking MERS Virus",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

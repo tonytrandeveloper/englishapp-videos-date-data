@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EiAWY923chU",
-            "title": "Top Line: Americans Worried About Spending, Afghanistan",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "sFGPm9Ff5p0",
             "title": "Top Line: Crashergate, Senate Health Care, Palin",
             "secondDuration": 287,
@@ -31,8 +25,14 @@
             "title": "Amplified: Hooray For Earth",
             "secondDuration": 329,
             "group": "group_7"
+        },
+        {
+            "videoId": "zHrmuruKbZs",
+            "title": "Bill O'Reilly's Presidential Report Card",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

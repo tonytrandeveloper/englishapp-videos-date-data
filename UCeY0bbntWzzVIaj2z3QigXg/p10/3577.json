@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vUllRCq9W5M",
-            "title": "9/11 Firefighter's Daughter Joins FDNY | NBC News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "GfjeumIsXPo",
             "title": "Airfares Rising Despite Lower Fuel Costs | NBC News",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Deadly DuPont Chemical Spill Kills Four | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "GZnOBt8FzXE",
+            "title": "ISIS Beheads Aid Worker Peter Kassig | NBC News",
+            "secondDuration": 212,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

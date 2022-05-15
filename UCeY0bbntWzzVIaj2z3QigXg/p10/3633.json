@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "te3ZTuYIj80",
-            "title": "Coming Up on MTP: SOTU, Spying & Football",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "JRdq8tOoxqw",
             "title": "Coming Up on MTP: SOTU, Rand Paul & Olympic Security",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "Dateline: Behind The Scenes",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "YjwX4_-HYo0",
+            "title": "Dateline is now on Fridays at 8/7c!",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

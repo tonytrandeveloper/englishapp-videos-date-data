@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QgB2XCF2dTg",
-            "title": "Sen. Kennedys Funeral:  Second Reading",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "U34rqrEmNFg",
             "title": "Sen. Kennedy's Funeral:  Responsorial Psalm",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Accused Kidnappers Arraigned",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "JRuDDOnAh9o",
+            "title": "Douglas Kennedy Shares Memories of His Uncle",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

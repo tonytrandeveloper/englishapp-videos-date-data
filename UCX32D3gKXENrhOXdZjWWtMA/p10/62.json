@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Jr2tV05_dms",
-            "title": "10 minute Plank Pose Challenge",
-            "secondDuration": 763,
-            "group": "group_13"
-        },
-        {
             "videoId": "zNo_z7S3Om4",
             "title": "Yoga for Beginners Flexibility & Strength - 20 min Beginner Yoga Class",
             "secondDuration": 1125,
@@ -61,8 +55,14 @@
             "title": "15 min Yoga for Energy - Afternoon Vinyasa Flow",
             "secondDuration": 783,
             "group": "group_13"
+        },
+        {
+            "videoId": "ZBwCs2s6o70",
+            "title": "Yoga Stretch for Cyclists - Yoga for Open Hips & Quad Stretch",
+            "secondDuration": 1345,
+            "group": "group_13"
         }
     ],
     "nbPages": 65,
-    "nbResults": 647
+    "nbResults": 646
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CuByU7d_vJw",
-            "title": "TSA Security Leaks on the Web",
-            "secondDuration": 190,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zn-ZAlXM_oY",
             "title": "Sweat Lodge Secrets",
             "secondDuration": 597,
@@ -31,8 +25,14 @@
             "title": "Top Line: Gregg: Extra TARP Funds 'Don't Exist'",
             "secondDuration": 609,
             "group": "group_7"
+        },
+        {
+            "videoId": "EiAWY923chU",
+            "title": "Top Line: Americans Worried About Spending, Afghanistan",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SGUxb8eFE6E",
-            "title": "World's Oldest Person Celebrates Birthday",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "n64DL1WQd80",
             "title": "Trump Supporter Banned for Life by Delta Airlines",
             "secondDuration": 385,
@@ -61,8 +55,14 @@
             "title": "Woman Jumps From Airplane Exit Door",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "2hOEld_8Ljc",
+            "title": "Trump Transition: Obamacare Critic Tom Price Expected for Health Secretary",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

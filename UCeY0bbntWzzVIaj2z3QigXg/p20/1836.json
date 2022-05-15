@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZPklYj7gYLo",
-            "title": "Blueberry Pie",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "C3fJ5pJwtMU",
             "title": "Job Creation",
             "secondDuration": 15,
@@ -121,8 +115,14 @@
             "title": "Stronger America live chat with MSNBC's Richard Lui",
             "secondDuration": 2270,
             "group": "group_7"
+        },
+        {
+            "videoId": "rZbWJOCHG5U",
+            "title": "Palin arrives at Tea Party rally in Iowa",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

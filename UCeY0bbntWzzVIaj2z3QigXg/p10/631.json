@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rFpwlDkP3f4",
-            "title": "Justice Clarence Thomas Questions Federal Policy On Marijuana",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBOWLiHT_P0",
             "title": "DeSantis: Investigation Into Cause Of Condo Collapse Will 'Take A Long Time'",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "U.S. Conducts Airstrikes Against Iran Backed Militia Group",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "TObpPJUyOoQ",
+            "title": "President Biden Infrastructure Plan On Track After Stall",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

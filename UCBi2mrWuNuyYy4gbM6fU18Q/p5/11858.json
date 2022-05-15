@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6ZWZdeiv_10",
-            "title": "Interview With Jon Huntsman",
-            "secondDuration": 689,
-            "group": "group_7"
-        },
-        {
             "videoId": "xPQ5dWfsfCI",
             "title": "Iowa Caucus: Rick Santorum the Dark Horse",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Who Wants to Boost Kim Kardashian's Taxes?",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0R_eAYsdfM",
+            "title": "Teen Mom Shoots, Kills Intruder",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

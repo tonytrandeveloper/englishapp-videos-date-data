@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VcL1bvJA1Ck",
-            "title": "Instant Index: Most Expensive Super Bowl Ad",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "DKaWrYJoEg0",
             "title": "Gridiron Gridlock for Harbaugh Family",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "New Clues in Death of Missing American Mother",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "MA1BNY6IkwI",
+            "title": "Paul Krugman During 'This Week' Roundtable: NRA an 'Insane' Organization",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

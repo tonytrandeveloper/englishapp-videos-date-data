@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wBqPiF2UxCc",
-            "title": "Severe weather causes flooding in several Midwest states",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "LDXnPF_JyLM",
             "title": "12 killed in Virginia Beach mass shooting",
             "secondDuration": 266,
@@ -31,8 +25,14 @@
             "title": "Meet the new champions from the Scripps National Spelling Bee",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "V77j1V7XiDs",
+            "title": "New Mexico student tased by deputy",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

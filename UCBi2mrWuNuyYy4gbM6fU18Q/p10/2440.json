@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VyhzMNiM90Y",
-            "title": "A 14-year-old cancer patient is selling bracelets to cover her expensive surgery",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "6uDi704qKHw",
             "title": "Dem says Trump's use of 'inhumane' policies to 'gin up' his base 'seems to be working'",
             "secondDuration": 461,
@@ -61,8 +55,14 @@
             "title": "New details emerge about moments leading up to deadly police shooting",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "6auVAqGUB28",
+            "title": "Families hope to reunite with kids as debate over separation at the border continues",
+            "secondDuration": 528,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

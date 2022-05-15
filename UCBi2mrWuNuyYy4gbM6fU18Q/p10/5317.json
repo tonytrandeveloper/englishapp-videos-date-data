@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "24O-cLA_iQE",
-            "title": "State of the Union 2013: Obama to Focus on Economy, Gun Control",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "9pAyXDfhnEQ",
             "title": "Instant Index: Olympic Committee to Cut Wrestling From 2020 Games",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Pope Benedict XVI Resignation: Inside Joseph Ratzinger's Decision to Step Down",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "xJ95kuNKD2g",
+            "title": "North Korea Nuke Test: President Obama Calls Nuclear Test 'Highly Provocative'",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

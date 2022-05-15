@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fv0ycB5AOzk",
-            "title": "Woman completes Boston Marathon early, pushing boyfriend in wheelchair",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "4oJ9wtml8lk",
             "title": "White House press briefing on Syria, Russia | ABC News",
             "secondDuration": 1805,
@@ -31,8 +25,14 @@
             "title": "Trump names Putin in reply to Syria chemical attack",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "tkTQFluCrU8",
+            "title": "Facebook users to learn if their data was shared",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

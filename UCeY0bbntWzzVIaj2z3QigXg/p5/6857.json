@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P4cW3ByAKWE",
-            "title": "At Least 40 Dead After Historic Blizzard Hits East Coast | NBC Nightly News",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "xU94BbVGmlI",
             "title": "How Politics Saved Miami | Meet The Press | NBC News",
             "secondDuration": 1421,
@@ -31,8 +25,14 @@
             "title": "Blizzard Blankets The Nation's Capital: Time Lapse | NBC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "tQ9ayTOwDlM",
+            "title": "Donald Trump On Fight With Ted Cruz (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Wbx1ykcLXZ4",
-            "title": "CDC Urges Teenagers To Get Vaccinated Amid Rise In Hospitalizations",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "5pCmb6i1tWk",
             "title": "NBC News NOW Full Broadcast - June 4th, 2021",
             "secondDuration": 2887,
@@ -31,8 +25,14 @@
             "title": "U.S. Added 559,000 Jobs in May, Employers Report Labor Shortages",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVtk4ibRjeE",
+            "title": "FBI Investigating Ransomware Attacks",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

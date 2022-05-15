@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KXqD2T-k8Ks",
-            "title": "WEBCAST: Robin Roberts Returns!",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "7l3DTHT9zRM",
             "title": "Kansas City Gas Explosion and Massive Fire Leaves 14 Injured",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "$50 Million in Diamonds Stolen on Belgium Runway",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "oIunu-7MD8c",
+            "title": "Bruce Feiler's Secrets to Keeping Your Family Happy",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

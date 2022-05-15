@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rKZjwb9uZQ8",
-            "title": "In Case You Missed It",
-            "secondDuration": 519,
-            "group": "group_7"
-        },
-        {
             "videoId": "4v4tdyWZrRo",
             "title": "Instant Index: Mr. November Surprises Fans by Walking the Streets of the Bronx",
             "secondDuration": 55,
@@ -31,8 +25,14 @@
             "title": "New Video Shows British ISIS Hostage",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "eyxI19Sy66U",
+            "title": "9/18/78: Camp David Accords",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

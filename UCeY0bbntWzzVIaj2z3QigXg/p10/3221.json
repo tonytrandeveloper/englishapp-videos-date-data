@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tuxBiTwHNhU",
-            "title": "Jeff Sessions’ 1986 Confirmation Hearing | Flashback | NBC News",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "oMubRS-TY5s",
             "title": "Reince Priebus: 'No Violation' With Donald Trump's Business (Full) | Meet The Press | NBC News",
             "secondDuration": 444,
@@ -61,8 +55,14 @@
             "title": "John Lewis Tearfully Accepts National Book Award For Graphic Memoir 'March' | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "bY8ngJv8XnE",
+            "title": "8,000 Baby Sea Turtles Released In Mexico | NBC News",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

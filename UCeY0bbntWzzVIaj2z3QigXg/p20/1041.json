@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z5cyhBoiB0Y",
-            "title": "Deplorable Living Conditions Found Inside Private Military Housing | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ct6QTlnvE9o",
             "title": "Inside The Last Syrian Village Under ISIS Control As Terror Group Make Last Stand | NBC Nightly News",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "NBC News Signal - March 7th, 2019",
             "secondDuration": 1932,
             "group": "group_7"
+        },
+        {
+            "videoId": "StlNc2VtsuU",
+            "title": "What Causes Tornadoes, And Why Are They So Destructive? | Mach | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eIwkYgF-JtA",
-            "title": "Ousted Grammy CEO speaks out in 1st interview since explosive lawsuit l ABC News",
-            "secondDuration": 573,
-            "group": "group_7"
-        },
-        {
             "videoId": "xfVb32Lmu84",
             "title": "House managers make their case in Trump impeachment trial opening arguments l ABC News",
             "secondDuration": 1240,
@@ -61,8 +55,14 @@
             "title": "Trump downplays concussion-like injuries in Iraq attack l ABC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "vO2Si1EyUtU",
+            "title": "Landmark trial begins for Harvey Weinstein l ABC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

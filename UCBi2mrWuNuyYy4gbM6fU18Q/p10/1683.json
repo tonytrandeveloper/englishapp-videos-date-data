@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CYwD-iQkgGM",
-            "title": "New threats from Iran as U.S. troops arrive in the Middle East l ABC News",
-            "secondDuration": 1435,
-            "group": "group_7"
-        },
-        {
             "videoId": "MeAM92r0es8",
             "title": "Mourners in Iran vow revenge for Soleimani’s death | Nightline",
             "secondDuration": 499,
@@ -61,8 +55,14 @@
             "title": "On the front lines of fires in Australia as thousands flee l ABC News",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "hyZMQ0GooBo",
+            "title": "Celebrities pledge financial aid to battle Australian fires l ABC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

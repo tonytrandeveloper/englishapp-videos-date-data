@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nM9Zd6FQmwY",
-            "title": "Middle East On Edge After Donald Trump’s Jerusalem Announcement | NBC Nightly News",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "QqQ_wxZpclE",
             "title": "Minister David Davis Admits Brexit Impact Assessments Do Not Exist | NBC News",
             "secondDuration": 70,
@@ -301,8 +295,14 @@
             "title": "U.S. Stealth Jet Fighters Conduct Huge Air Drill Over Korea | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "L_z4GHC_YaQ",
+            "title": "7,000 Confirmed Cases Of The Flu In The U.S. | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

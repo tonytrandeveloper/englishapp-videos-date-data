@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ohDtmyKCNKk",
-            "title": "Robot Barista Makes U.S. Debut | Mach | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCI5FlQtaMc",
             "title": "Executive Orders That Cleared The Way For Japanese Internment Camps | NBC News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "British PM Theresa May: GOP, President Trump Victories Make America Stronger | NBC News",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZcMe8mPxi1Y",
+            "title": "Prime Minister Theresa May Pays Respects At Arlington National Cemetery | NBC news",
+            "secondDuration": 60,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

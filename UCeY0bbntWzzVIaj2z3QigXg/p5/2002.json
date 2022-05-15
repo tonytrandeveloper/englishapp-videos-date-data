@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T2ekJAs9HPQ",
-            "title": "British Woman Becomes The First To Receive Clinically Approved Covid Vaccine | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "gR9Xg8nqU_w",
             "title": "Fort Hood Report Finds ‘Permissive Environment For Sexual Assault’ | NBC News NOW",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 3225,
             "group": "group_7"
+        },
+        {
+            "videoId": "s3m9gboZ8z8",
+            "title": "Biden Introduces Nominees For His Health Care Team | NBC News",
+            "secondDuration": 3145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

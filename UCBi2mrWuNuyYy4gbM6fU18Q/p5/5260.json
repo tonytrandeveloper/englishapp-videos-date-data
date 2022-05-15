@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CKGd5vItcBs",
-            "title": "Meet the Cincinnati Zoo's viral social media star Fiona the hippo",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "zjD8cFwVphY",
             "title": "Police say they've arrested a suspect in the slayings of 9 people in 3 weeks",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "President Trump addresses anti-abortion rally in Washington, D.C. | ABC News",
             "secondDuration": 889,
             "group": "group_7"
+        },
+        {
+            "videoId": "atI7wx6PEs8",
+            "title": "White House press briefing on potential government shutdown | ABC News",
+            "secondDuration": 1861,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

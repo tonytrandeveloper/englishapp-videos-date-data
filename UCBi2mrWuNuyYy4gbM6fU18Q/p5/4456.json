@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NnLoNyYG4gU",
-            "title": "Government shutdown begins",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBaE0mIJsLc",
             "title": "The fallout from Jim Mattis' resignation",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "NJ high school wrestler forced to cut dreadlocks",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "btfvKeJBLkk",
+            "title": "The Briefing Room: Justice Ginsberg cancer surgery, shutdown imminent, Mattis resignation",
+            "secondDuration": 1656,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

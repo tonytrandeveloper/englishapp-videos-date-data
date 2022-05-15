@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dOGNVy778SQ",
-            "title": "Daymond John: How To Define Your Own Path To The Top | Better | NBC News",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "XeoY3MeYjH8",
             "title": "Watch Live: AG Nominee William Barr Testifies At Senate Confirmation Hearing | NBC News",
             "secondDuration": 35058,
@@ -121,8 +115,14 @@
             "title": "William Barr: President Donald Trump 'Sought No Assurances' From Me | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dJzftFC8YRk",
+            "title": "Iranian TV Airs Report Showing Satellite Launched Despite U.S. Warnings | NBC News",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

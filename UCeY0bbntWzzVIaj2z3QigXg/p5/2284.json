@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lDk_TPZmEZg",
-            "title": "Biden On Vaccines: ‘I Trust Scientists, But I Don’t Trust Donald Trump’ | NBC News NOW",
-            "secondDuration": 692,
-            "group": "group_7"
-        },
-        {
             "videoId": "eLEdk6GAMUY",
             "title": "Deadly 737 Max Crashes Were ‘Horrific Culmination’ Of Failures By Boeing And FAA, House Report Says",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sally Makes Landfall In Alabama | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "3YW_hlgJtmo",
+            "title": "Trump Holds News Conference At White House | NBC News",
+            "secondDuration": 3575,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

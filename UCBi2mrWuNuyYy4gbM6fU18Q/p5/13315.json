@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jYv8D4prtXE",
-            "title": "The New Normal in Consumer Habits",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "hYgQ3agiGpc",
             "title": "Why Hasn't Swine Flu Slowed Down?",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Primetime Family Secrets: Teen Pregnancy",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "s4D_D2pPFy0",
+            "title": "Jim Maki: New Life With a New Face",
+            "secondDuration": 413,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

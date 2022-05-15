@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ArZ-GRw4xDA",
-            "title": "Hurricane Sandy 'Perfect Storm' East Coast Storm Track: Could Hurricane, Winter Storm Strike U.S.?",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "PSnBsH68iiE",
             "title": "Doctor Says Heaven is Real, Offers 'Proof' Following Brain Infection, Near-Death Coma Strikes",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Giants Win Game One",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZEerhZwOWM",
+            "title": "Student Arrested in Jessica Ridgeway Murder",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

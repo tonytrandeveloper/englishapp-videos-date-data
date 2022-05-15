@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e0Jai2N_uiw",
-            "title": "Belgium Explosion Kills 1, Wounds 5",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "taFZ1kDF5ZM",
             "title": "Mom Arrested for Leaving Kids Home Alone",
             "secondDuration": 376,
@@ -61,8 +55,14 @@
             "title": "World's Largest Pearl Found Under Man's Bed | Weird Headlines",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "thilABu3apk",
+            "title": "Kanye West Saint Pablo Tour Video",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

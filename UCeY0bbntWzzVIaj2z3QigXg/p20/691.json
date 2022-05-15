@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UWBR-cdCbHI",
-            "title": "TSA Rolls Out New Safety Protocols at Airports | NBC Nightly News",
-            "secondDuration": 636,
-            "group": "group_7"
-        },
-        {
             "videoId": "nMkkFVGgc2g",
             "title": "Hospitals Start To Furlough Employees During The Pandemic | NBC News NOW",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2546,
             "group": "group_7"
+        },
+        {
+            "videoId": "YeaTCET7EWk",
+            "title": "Gov. Whitmer Loosens Restrictions On Social Gatherings, Auto Showrooms And Retail | NBC News NOW",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

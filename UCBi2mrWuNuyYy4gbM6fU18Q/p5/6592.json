@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z-SQi_WcuU0",
-            "title": "Rampaging Deer Has Diners Running",
-            "secondDuration": 44,
-            "group": "group_7"
-        },
-        {
             "videoId": "xm24p9VkKH8",
             "title": "Trump Family on Effects of Election",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "2 Earthquakes Hit Italy, Causing Catastrophic Damage",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "-li876AbolI",
+            "title": "What is the Electoral College? America 101",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

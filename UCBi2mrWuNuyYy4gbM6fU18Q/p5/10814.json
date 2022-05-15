@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l7ohSmT1VmU",
-            "title": "WEBCAST: Soldier Surprise",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "f5Un6NWbdBs",
             "title": "US Man Jailed in Bolivia Released",
             "secondDuration": 348,
@@ -31,8 +25,14 @@
             "title": "A Special Surprise at the Tournament of Roses",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "RM_0deGNoGQ",
+            "title": "New Year's Resolutions: New Beginnings or Same Old Story?",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

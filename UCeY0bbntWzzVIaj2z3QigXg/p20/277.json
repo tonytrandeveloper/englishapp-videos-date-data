@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CbDurA4U70s",
-            "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "fvGPxsNFCJQ",
             "title": "White House Holds Press Briefing | NBC News",
             "secondDuration": 3265,
@@ -121,8 +115,14 @@
             "title": "Collaborative Project Reimagines ‘America The Beautiful’ Song Across The Nation",
             "secondDuration": 436,
             "group": "group_7"
+        },
+        {
+            "videoId": "OVQtSNFM9Hw",
+            "title": "Biden Honors Responders Of Jan 6. Capitol Riot With Congressional Gold Medals",
+            "secondDuration": 1363,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

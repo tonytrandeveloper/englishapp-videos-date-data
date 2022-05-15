@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GBMsoULEJhs",
-            "title": "Poll: 62 percent say Trump isn’t telling the truth in Russia probe | Meet The Press | NBC News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "8onGsj9Qd-c",
             "title": "Where Americans stand apart (and together) on holiday gifts | Meet The Press | NBC News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "DOE Investigating Title IX Complaints That Say It Discriminates In Support Of Women | NBC News",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "br-jHJ0gs4U",
+            "title": "PM Theresa May Confronts European Leaders After Failing To Win Brexit Deal | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

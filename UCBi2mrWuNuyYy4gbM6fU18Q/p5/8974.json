@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BenQnwd4Wbk",
-            "title": "FedEx Driver Allegedly Dognaps a Pair of Puppies",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "srA_j9-8QVY",
             "title": "Bill Cosby Jokes About Rape Allegations",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "HOSTAGE STANDOFF: Live Video of French Massacre Suspects and Police",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "MQOjEHZmDGY",
+            "title": "BREAKING VIDEO: Hostage Crisis Involving Paris Shooting Suspects",
+            "secondDuration": 537,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

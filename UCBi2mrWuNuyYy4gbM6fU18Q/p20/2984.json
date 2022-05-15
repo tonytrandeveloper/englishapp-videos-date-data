@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wo1a1AYhGeA",
-            "title": "Penn State Scandal: More Boys Come Forward",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "aFs39_T8WEs",
             "title": "White House Shooting Suspect Arrested",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "Gabby Giffords Speaks For First Time",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "hop_MVTwaZQ",
+            "title": "Gabrielle Giffords Fights for Her Life",
+            "secondDuration": 453,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

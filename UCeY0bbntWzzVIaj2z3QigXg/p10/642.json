@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "U2C86QJi1N8",
-            "title": "SCOTUS Ruling Restricts Unions From Reaching California Farmworkers",
-            "secondDuration": 78,
-            "group": "group_7"
-        },
-        {
             "videoId": "XeyzEyclz3I",
             "title": "Morning News NOW Full Broadcast - June 23 | NBC News NOW",
             "secondDuration": 3026,
@@ -61,8 +55,14 @@
             "title": "Commuters Return To Office Facing Traffic, Transit Hurdles",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "bu7lDqn-Fvk",
+            "title": "Bumble Battles Burnout By Giving Employees Entire Week Off",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

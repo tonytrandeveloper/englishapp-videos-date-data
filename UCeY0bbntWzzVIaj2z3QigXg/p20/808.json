@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YgKC5am9vxw",
-            "title": "White House Briefing On COVID-19 | NBC News (Live Stream Recording)",
-            "secondDuration": 2781,
-            "group": "group_7"
-        },
-        {
             "videoId": "8ntSxT9n35Q",
             "title": "JLo, Shakira: Super Bowl Halftime 'Important Moment' For Latinos In U.S. | NBC News",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Delivers Remarks On Trade Agreement At Michigan Event | NBC News (Live Stream)",
             "secondDuration": 2026,
             "group": "group_7"
+        },
+        {
+            "videoId": "OjxeAGWWyyo",
+            "title": "Adam Schiff Claims 'The Whole Country' Is Paying For Giuliani's Actions In Ukraine | NBC News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

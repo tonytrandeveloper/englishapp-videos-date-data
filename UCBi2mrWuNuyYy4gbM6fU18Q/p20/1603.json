@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pcpQc6HjCE4",
-            "title": "Jacksonville Bank Robbery Turns into a Tense Hostage Standoff",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "p3q2fRiPfjk",
             "title": "Columbia Plane Crash | Survivors Speak Out",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Great White Shark Seal Attack in Cape Cod Caught On Camera",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "d_c_WOYZ0N0",
+            "title": "$15 Minimum Wage Protests Across US",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

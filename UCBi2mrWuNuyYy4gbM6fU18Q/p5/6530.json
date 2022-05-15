@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "53UU9ABNcH4",
-            "title": "Vote Swapping App Helps Voters Trade Votes to Swing States | ABC News",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "jlFGs9yerrE",
             "title": "Clinton Pushes Across Battleground States on Final Day of Campaign",
             "secondDuration": 283,
@@ -31,8 +25,14 @@
             "title": "Chilling Details of Suspected Serial Killer Arrested in South Carolina",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "TwOLrDruOeU",
+            "title": "Presidential Election Polls Show a Virtual Tie in Florida and North Carolina",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

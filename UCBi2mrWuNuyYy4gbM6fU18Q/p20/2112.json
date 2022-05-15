@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Gzd8Oxtj4xU",
-            "title": "A Whole City Turns Out to See the Pope",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "4BpJvwELrsk",
             "title": "Ticker Tape Parade for World Cup-Winning U.S. Womened Soccer Stars",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "Britney Spears Recreates 'Oops! ... I Did It Again' Cover With Sons at Disneyland",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "djJDrMH3P_E",
+            "title": "ESPN Body Issue Reveals Cover Athlete",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

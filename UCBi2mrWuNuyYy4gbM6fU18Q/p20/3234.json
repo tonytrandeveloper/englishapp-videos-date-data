@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S3JCIosrxew",
-            "title": "U.S. Security Officials on Alert",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "t0gwxSMhXXA",
             "title": "Conan's Last \"Tonight Show\"",
             "secondDuration": 115,
@@ -121,8 +115,14 @@
             "title": "John Edwards Admits to Love Child",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZM7fvTuiRic",
+            "title": "In Search of Tiger Woods",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

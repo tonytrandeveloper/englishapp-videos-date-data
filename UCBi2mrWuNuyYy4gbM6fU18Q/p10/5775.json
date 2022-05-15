@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EaSqmd6vtkA",
-            "title": "Prince William Turns 30, Inherits $14 Million",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYfaxWe_y2k",
             "title": "Summer Solstice: Heat Wave Hits",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "Extreme Vacation: Train Like Real SEALs",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "w804XijSpsw",
+            "title": "Deadly High-Speed Police Chases",
+            "secondDuration": 300,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WSWF71EKp6g",
-            "title": "Trump FULL Speech From Mexico",
-            "secondDuration": 749,
-            "group": "group_7"
-        },
-        {
             "videoId": "TwsGz3HiWvI",
             "title": "Hillary Clinton Hits Trump for 'Dropping In' on Mexico",
             "secondDuration": 67,
@@ -61,8 +55,14 @@
             "title": "Toddler's Alphabet Song Rendition Goes Viral",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "wl4ChnqMA1c",
+            "title": "First US to Cuba Flight Takes Off",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

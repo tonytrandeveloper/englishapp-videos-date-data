@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3EyWy4Mg-ls",
-            "title": "FDA Expected To Authorize Third Vaccine Dose For Immunocompromised People",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmaSKfjLrDY",
             "title": "RSV Spreading In Summer Surge",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Cruise Ship Captain Breaks Barriers at Sea | Nightly News: Kids Edition",
             "secondDuration": 1081,
             "group": "group_7"
+        },
+        {
+            "videoId": "GzrJfKyb1Cc",
+            "title": "Morning News NOW Full Broadcast - August 12",
+            "secondDuration": 2861,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

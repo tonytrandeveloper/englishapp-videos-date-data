@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RdimSxzKT58",
-            "title": "King does double duty as royalty and co-pilot",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z0BIi-ZnKw4",
             "title": "Deputy attorney general made decision that a special counsel is needed",
             "secondDuration": 174,
@@ -61,8 +55,14 @@
             "title": "Rep. Jason Chaffetz reacts to Robert Mueller as special counsel",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjPaHnynfa0",
+            "title": "Special counsel appointed to lead Russia investigation",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

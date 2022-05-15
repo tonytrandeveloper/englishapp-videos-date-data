@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ojeM0ZSBi3U",
-            "title": "Blizzard 2015: Snow Storm Grounds Thousands of Flights",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpeFSAFk9kw",
             "title": "FBI Says Russian Spy Caught in Manhattan",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Major Winter Storm Could Cause Travel Nightmare",
             "secondDuration": 287,
             "group": "group_7"
+        },
+        {
+            "videoId": "0ZxdAXU5wOk",
+            "title": "Twitter Bomb Threats Force Officials to Evacuate Multiple Planes",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

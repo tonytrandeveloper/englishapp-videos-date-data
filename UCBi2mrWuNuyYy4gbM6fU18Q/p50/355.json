@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "PIlTt5XA5PA",
-            "title": "Person of interest arrested in Alabama teen’s disappearance | ABC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "wC3XenWH7dE",
             "title": "Ivanka Trump breaks with her dad on whistleblower identity | ABC News",
             "secondDuration": 167,
@@ -301,8 +295,14 @@
             "title": "Trump rallies to hold governor’s seat in Kentucky | ABC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6izUbGy9hE",
+            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

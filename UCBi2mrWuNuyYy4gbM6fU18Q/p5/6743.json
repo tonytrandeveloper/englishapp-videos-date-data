@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2CbQEZ892bE",
-            "title": "Presidential Debate Highlights | Race Relations, Police-Involved Shootings",
-            "secondDuration": 1353,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9GSJUAuFfE",
             "title": "Presidential Debate Highlights | Clinton, Trump Debate Cybersecurity, Hacks",
             "secondDuration": 418,
@@ -31,8 +25,14 @@
             "title": "Houston Mall Shooting | Nathan Desai Fires 50 Gunshots, Injuring 9 People",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "2awofK7kwbM",
+            "title": "Most Highly Anticipated Presidential Debate on Record",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

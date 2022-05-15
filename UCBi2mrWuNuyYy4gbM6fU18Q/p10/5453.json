@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ELe51zHVcV8",
-            "title": "WEBCAST: First Family Holiday",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "y-8BvbeV0Vo",
             "title": "Fiscal Cliff: Let's Make a Deal",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "President Obama, Speaker Boehner Fiscal Cliff Negotiations: This Week' Roundtable",
             "secondDuration": 839,
             "group": "group_7"
+        },
+        {
+            "videoId": "qA7bnzB_boU",
+            "title": "James Carville and Mary Matalin Answer 'This Week' Viewer Questions",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

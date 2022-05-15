@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z6rTJedwEWQ",
-            "title": "Venice underwater as historically high tides continue to rise l ABC News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "rNzB1PTAvyQ",
             "title": "Schiff delivers opening statement on Day 2 of impeachment hearings | ABC News",
             "secondDuration": 405,
@@ -61,8 +55,14 @@
             "title": "Is Deval Patrick too late to the 2020 Presidential Race?",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvA7bXtSotk",
+            "title": "Virginia schools closed in search for Marine",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

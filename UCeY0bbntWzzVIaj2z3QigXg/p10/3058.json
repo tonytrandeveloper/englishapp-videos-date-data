@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-UTSjCdYIck",
-            "title": "How To Protect Yourself After Global Ransomware Attack | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_bV6hY80GE",
             "title": "Two Killed As Business Jet Crashes, Burns Near NJ Airport | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Michigan Town Celebrates Spring With 4,500,000 Tulips | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Gody0Dsjmhc",
+            "title": "US Could Ban Many Devices On Board Europe-To-US Flights | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

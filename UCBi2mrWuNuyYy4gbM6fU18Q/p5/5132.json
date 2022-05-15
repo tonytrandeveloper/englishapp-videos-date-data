@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ctGEgB0XpxU",
-            "title": "Who is Rick Saccone?",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "G2lXbYp3poQ",
             "title": "Who is Conor Lamb?",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "New details on parents accused of torturing 12 kids",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "txiX4ghmud8",
+            "title": "Austin officials warn of suspicious boxes after explosions",
+            "secondDuration": 256,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "F3uF-GEzVHQ",
-            "title": "Speaker Ryan Refuses to Endorse Donald Trump, Trump Returns the Favor | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "_R73OBShAk0",
             "title": "New Claims From Hacker Who Exposed Hillary Clinton’s Private Email | NBC Nightly News",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders to Hillary Clinton: I Got Some Bad News For You | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "UA7pqlLoDd0",
+            "title": "Wildfire Forces Evacuations Of Alberta City | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yPIz7LBIlGc",
-            "title": "Edward Sharpe and the Magnetic Zeros Interview Preview: Alex Ebert on Band's Evolution on \"Here\"",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "uore2cCdo60",
             "title": "Blizzard 2013: Boston Families Brace for Extreme Weather",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Diana Perez WNN Polka",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "RIrdvfOX4R0",
+            "title": "Chris Dorner: Ex-LA Cop Wanted in Killing Spree",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

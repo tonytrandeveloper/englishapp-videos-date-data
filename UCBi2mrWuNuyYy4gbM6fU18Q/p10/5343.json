@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dwCSHCf292M",
-            "title": "Platelist: The Meatball Guy",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "dFpyI6-iKbQ",
             "title": "Alex Rodriguez Tied to 'Juicing' in Newspaper Report",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Gabrielle Giffords Testifies at Senate Gun Control Hearing: 'You Must Act'",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ED1QLb1awY",
+            "title": "Chuck Grassley: Obama Gun Argument Turns Constitution 'On Its Head'",
+            "secondDuration": 581,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

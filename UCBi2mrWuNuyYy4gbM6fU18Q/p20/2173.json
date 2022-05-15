@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wxNKzL7rKRY",
-            "title": "Obama-Castro's Historic Handshake",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "XS6QAzn0zKw",
             "title": "Inside One of the Safest Houses in America",
             "secondDuration": 393,
@@ -121,8 +115,14 @@
             "title": "Boston Bomber: Death Penalty for Dzhokhar Tsarnaev?",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "n8Bz4EYF40I",
+            "title": "ISIS: 34 Americans Accused of Trying to Join Terror Group",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

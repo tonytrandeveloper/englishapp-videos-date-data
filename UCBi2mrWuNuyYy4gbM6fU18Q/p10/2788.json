@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w4SwKbTw9Ys",
-            "title": "JJ Watt, from 'sack machine' to giving machine",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "AFi3QAPrtow",
             "title": "World leaders react to North Korean hydrogen bomb test",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "North Korea says it successfully tested hydrogen bomb",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "FGARN6kJpSo",
+            "title": "How will North Korea's latest nuclear test affect the US?",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

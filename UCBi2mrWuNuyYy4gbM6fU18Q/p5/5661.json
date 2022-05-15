@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KxJVMsUV2wg",
-            "title": "Special counsel impanels grand jury in Russian investigation",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "UHTy7ulanCY",
             "title": "Conrad Roy's cousin speaks out after texting suicide sentence",
             "secondDuration": 215,
@@ -31,8 +25,14 @@
             "title": "Northwestern professor wanted in Chicago slaying",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "9eQroe0wjhs",
+            "title": "Dept. of Justice to announce crackdown on leakers",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

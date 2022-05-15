@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0GwAcwrUqYg",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2246,
-            "group": "group_7"
-        },
-        {
             "videoId": "eUorB8jfzLQ",
             "title": "Dissent In Hong Kong As Beijing Moves To Enact National Security Legislation | NBC News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Nearly 39 Million Americans File For Unemployment During Pandemic | NBC News NOW",
             "secondDuration": 960,
             "group": "group_7"
+        },
+        {
+            "videoId": "UWBR-cdCbHI",
+            "title": "TSA Rolls Out New Safety Protocols at Airports | NBC Nightly News",
+            "secondDuration": 636,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

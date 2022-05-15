@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PNrbXN6F-mc",
-            "title": "Dr. Fauci: ‘Please Get vaccinated, It Will Protect You’ Against Delta Variant",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ih5K3CjlwlA",
             "title": "Renters Facing Price Increases In Hot Housing Market",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Biden: U.S. Troops Will Withdraw From Afghanistan by August 31",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "oa8MbqRZQ4E",
+            "title": "Biden Delivers Remarks On U.S. Troop Withdrawal From Afghanistan | NBC News",
+            "secondDuration": 1895,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aSpl7RfkP6o",
-            "title": "Queer Valedictorian Whose Speech Was Cut Off Explains What Happened",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Kmx3ynXetg",
             "title": "Biden Delivers Remarks To National Education Association's Annual Meeting",
             "secondDuration": 1536,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – July 2 | Morning News NOW",
             "secondDuration": 1308,
             "group": "group_7"
+        },
+        {
+            "videoId": "gelmePuBHm8",
+            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
+            "secondDuration": 1280,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

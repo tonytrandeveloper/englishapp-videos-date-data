@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hBHnPTbntmw",
-            "title": "Sandy Hook Students Return to School, Parents Learn to Cope",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "FvKL2YK45Hw",
             "title": "January 2013 Jobs Report, Debt Limit Loom for U.S. Economy After 'Fiscal Cliff'",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Ariz. Woman Faces Death Penalty in Boyfriend's Slaying",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRkBi8KM88c",
+            "title": "'Django Unchained': Tarrantino, DiCaprio Talk Movie's Controversy",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

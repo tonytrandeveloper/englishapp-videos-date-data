@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hWSyRUwaZvM",
-            "title": "Investigators Reveal New Details About FedEx Facility Mass Shooting | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "EDPnN4eDDdU",
             "title": "Jury Hears Closing Arguments In Chauvin Trial | NBC Nightly News",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "How Climate Change Has Impacted Houston | NBC Nightly News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "vJA5iuaLCRE",
+            "title": "Chauvin Trial Judge Criticizes Rep. Maxine Waters Comments On Trial | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

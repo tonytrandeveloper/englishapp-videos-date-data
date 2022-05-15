@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BQmWQ2ZUfzY",
-            "title": "Biden Sets New 200 Million Vaccine Goal In First Press Conference | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "3JxMeB3PDjk",
             "title": "North Dakota College To Allow Vaccinated Students To Be Exempt From Mask Mandate | NBC News NOW",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "Airline Passenger 'Who Appeared To Attempt To Open An Exit Door' Pinned In Seat | NBC News NOW",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "QOnWb7EITMc",
+            "title": "European Union To Curb Covid Vaccine Exports For Six Weeks | NBC News NOW",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

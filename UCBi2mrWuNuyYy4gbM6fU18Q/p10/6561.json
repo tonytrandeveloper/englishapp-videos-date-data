@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b8AkgxQ3KaI",
-            "title": "Amplified: The Jesus Lizard",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "uVX4RqLCfHo",
             "title": "'Miss Irresistible' Murders",
             "secondDuration": 541,
@@ -61,8 +55,14 @@
             "title": "TOP LINE: Rep. Schock Concerned About Homegrown Terror",
             "secondDuration": 692,
             "group": "group_7"
+        },
+        {
+            "videoId": "QkRGmx0CSP0",
+            "title": "TOP LINE: Obama Ratchets Up Rhetoric at G-20",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

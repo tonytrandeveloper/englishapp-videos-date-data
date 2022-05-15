@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q1MU4uIzHtY",
-            "title": "Deadly storms threatening several states",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "H_2Hf5cWG4g",
             "title": "The Briefing Room: Mueller report reactions| ABC News",
             "secondDuration": 2076,
@@ -61,8 +55,14 @@
             "title": "House Intelligence Committee invites Mueller to testify",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "3y6Ik6905PA",
+            "title": "Mueller Report released: Analysis of the redacted report and What it means for Trump | ABC News",
+            "secondDuration": 3138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

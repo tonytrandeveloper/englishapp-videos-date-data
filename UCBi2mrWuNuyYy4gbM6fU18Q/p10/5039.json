@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ka80r1al5kc",
-            "title": "President Obama's Defining Moment on Syria",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yp1p0s1RbfM",
             "title": "WEBCAST: Tallest Ferris Wheel",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Jimmy Kimmel Reveals 'Twerking' Video Was Prank",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "i7U7VCbqu3k",
+            "title": "President Obama to Address Americans on Syrian Strike",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AO0C8RkP-Eo",
-            "title": "Protesters Gather In Minneapolis Where George Floyd Was Killed | NBC News NOW",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "gks-Lq0sZCo",
             "title": "NASA, SpaceX Set To Launch Historic Mission In Just Hours | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Russia And China Spread Coronavirus Conspiracies About US In Middle East | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "A7ZRXpkH4u4",
+            "title": "Check Out The Puppies In Training That Have Become A Virtual Hit | Nightly News: Kids Edition",
+            "secondDuration": 792,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

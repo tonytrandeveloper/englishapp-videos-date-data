@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4z1t4clzCCI",
-            "title": "Defense Rests In Derek Chauvin Trial | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fup1OMgp4iU",
             "title": "Body Cam Footage Released In Fatal Police Shooting Of 13-Year-Old Adam Toledo | NBC Nightly News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Biden Signs Executive Order Addressing ‘Harmful Actions’ Russia Has Taken Against U.S. | NBC News",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "9vv4yfkI9so",
+            "title": "Rep. Jordan Clashes With Dr. Fauci On Covid Restrictions: When Do Americans Get Their Freedom Back?",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

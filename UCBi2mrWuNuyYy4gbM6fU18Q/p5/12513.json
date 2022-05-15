@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GxKJlI_HALg",
-            "title": "Your Blood, Your Brain",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "-JaW8K60K1w",
             "title": "Your Three Words: Seal",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "The Conversation: World News to Broadcast From China",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "PDEgRqNLyR8",
+            "title": "City Councilman's Plea to Gay Teens Goes Viral",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

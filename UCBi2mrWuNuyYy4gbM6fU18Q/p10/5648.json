@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bnCbN4Gsqw0",
-            "title": "Roundtable II: This Week in Politics",
-            "secondDuration": 1268,
-            "group": "group_7"
-        },
-        {
             "videoId": "dK8cjbYmqmA",
             "title": "Roundtable I: GOP Convention Recap",
             "secondDuration": 570,
@@ -61,8 +55,14 @@
             "title": "Kelly Rutherford Discusses International Custody Case",
             "secondDuration": 393,
             "group": "group_7"
+        },
+        {
+            "videoId": "I7EgkPGpafY",
+            "title": "Female Teen Plays Quarterback",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

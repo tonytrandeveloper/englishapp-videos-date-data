@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "17izWM_mh1A",
-            "title": "Mental Health Professionals Working Around The Clock Amid COVID-19 Outbreak | NBC News NOW",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "ok5UDh8GJKs",
             "title": "LA Mayor Eric Garcetti Gives Coronavirus Update | NBC News",
             "secondDuration": 3852,
@@ -61,8 +55,14 @@
             "title": "Some Workers Sounding Alarm Over Coronavirus Concerns At Meat Facilities | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "so5n6a-AHk0",
+            "title": "Governors In Coronavirus Hot Spots Urge Widespread Testing Before Reopening Economy | NBC",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

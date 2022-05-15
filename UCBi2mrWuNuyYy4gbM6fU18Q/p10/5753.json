@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rgQMnuCzcx0",
-            "title": "Bobby Jindal and Martin O'Malley Debate",
-            "secondDuration": 951,
-            "group": "group_7"
-        },
-        {
             "videoId": "i9il1IEsaTs",
             "title": "Owner Catches Burglar on Hidden CameraOwner Catches Burglar on Hidden Camera",
             "secondDuration": 284,
@@ -61,8 +55,14 @@
             "title": "Jobs Numbers: Country 'Stuck in Quicksand'",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0A6EiJUs54",
+            "title": "R.A. Dickey Breaks Down His Knuckleball",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

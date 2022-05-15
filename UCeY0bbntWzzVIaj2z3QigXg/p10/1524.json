@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jPKeUhVvFtw",
-            "title": "Esports Fill Void As Pro Sports Cancelled Amid Coronavirus Outbreak | NBC News NOW",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "HaRRRbumknI",
             "title": "How A Stimulus Deal Could Help Small Businesses During Coronavirus Crisis | NBC News NOW",
             "secondDuration": 223,
@@ -61,8 +55,14 @@
             "title": "Coronavirus: NY City May Soon Follow San Francisco’s Shelter-In-Place Directive | NBC Nightly News",
             "secondDuration": 216,
             "group": "group_7"
+        },
+        {
+            "videoId": "rd6YuRT2SDs",
+            "title": "Coronavirus Pandemic Fuels Demand For Ventilators | NBC Nightly News",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

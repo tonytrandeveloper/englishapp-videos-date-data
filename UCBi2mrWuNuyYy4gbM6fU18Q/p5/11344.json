@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H-1CTNA7DpY",
-            "title": "Tampa Police on Alert Over 'Suspicious' Discovery",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "sG3CQLpO_ig",
             "title": "Narwhals Threatened by Global Warming",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Fires Rage on in California",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmXzJ64UG14",
+            "title": "'GAA' Afternoon Play: Crafty Dog Steals Food",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

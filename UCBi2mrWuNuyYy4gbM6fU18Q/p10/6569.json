@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NTMKAhnc4BA",
-            "title": "Looking for Missing Michaela",
-            "secondDuration": 382,
-            "group": "group_7"
-        },
-        {
             "videoId": "PwEQaAneH2U",
             "title": "'Control Freak' Clark in Maximum Security Prison",
             "secondDuration": 251,
@@ -61,8 +55,14 @@
             "title": "Breaking the Cycle of Abuse: Solutions for Defiant Children",
             "secondDuration": 500,
             "group": "group_7"
+        },
+        {
+            "videoId": "kD1FNkvGANM",
+            "title": "Breaking the Cycle of Abuse: Cora Colquhoune",
+            "secondDuration": 494,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

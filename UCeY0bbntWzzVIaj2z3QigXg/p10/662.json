@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oh_obIUJ7HA",
-            "title": "In NBC News Exclusive, Putin Responds To Biden Calling Him A ‘Killer’",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "1B7vSKzcP0E",
             "title": "Behind The Scenes: Westminster Dog Show Held Outside For The 1st Time",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Duchess of Cambridge Meets Jill Biden, Discuss Sussex's Baby",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "0pawLcTopKY",
+            "title": "Chicago Set To Lift All Remaining COVID-19 Restrictions",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

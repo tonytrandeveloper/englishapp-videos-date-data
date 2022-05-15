@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GRzKJO2nSwg",
-            "title": "Donald Trump's Softer Side",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "cVVnIpDga7I",
             "title": "Bernie Sanders Closing in on Hillary Clinton in Ohio",
             "secondDuration": 233,
@@ -121,8 +115,14 @@
             "title": "Amtrak Train Derails in Kansas",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "Use1RzR8FPo",
+            "title": "Bernie Sanders | Danny Devito Surprises Sanders Rally",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "W-e1LXxA8Jw",
-            "title": "Cohen: Capitol Riot Akin To ‘Shooting Somebody On 5th Avenue And Getting Away With It’ | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "woC6kfmicBI",
             "title": "Pelosi: 'The President Must Be Removed From Office Immediately' | NBC News",
             "secondDuration": 392,
@@ -301,8 +295,14 @@
             "title": "President Trump Permanently Banned From Twitter | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zufk3bBl95U",
+            "title": "180 House Members Sign Onto Article of Impeachment | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

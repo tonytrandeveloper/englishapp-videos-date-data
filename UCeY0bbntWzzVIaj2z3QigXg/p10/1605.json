@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v4S3MjxPMhk",
-            "title": "Justice John Roberts Calls His Impeachment Role ‘Ill Defined’ After Trump Acquitted | NBC News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vhlc7TbqgTw",
             "title": "Senators Find Trump 'Not Guilty' Of Obstruction Of Congress Impeachment Article | NBC News",
             "secondDuration": 536,
@@ -61,8 +55,14 @@
             "title": "Speaker Nancy Pelosi Calls State Of The Union Speech ‘A Manifesto Of Mistruths’ | NBC News",
             "secondDuration": 52,
             "group": "group_7"
+        },
+        {
+            "videoId": "XEiFG5Y83e8",
+            "title": "Trump Helps Officer Surprise His Family At The State Of The Union | NBC News",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

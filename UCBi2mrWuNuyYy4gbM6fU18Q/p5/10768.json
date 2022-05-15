@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6bLZJUo6aqg",
-            "title": "Police Storm San Diego Theater, Shoot Armed Suspect",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "gY__qiNildE",
             "title": "Brother, Sister Reunited After 65 Years Apart",
             "secondDuration": 175,
@@ -31,8 +25,14 @@
             "title": "Miss America 2013 - Pageant Confidential: The Big Day Arrives",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "pCdTaukB8nU",
+            "title": "Miss America 2013 - Pageant Confidential: Miss Nip and Tuck",
+            "secondDuration": 505,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

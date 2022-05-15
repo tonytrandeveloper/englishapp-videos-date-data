@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VvBfk0XS36I",
-            "title": "Blizzard Let-Down: Where's All The Snow? | NBC News",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "J_yEcA2npRg",
             "title": "Hypothermia Symptoms: Are You At Risk? | NBC News",
             "secondDuration": 49,
@@ -31,8 +25,14 @@
             "title": "Car Stuck In Snow? Here's How To Get It Out | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "qTQRbgwnRRw",
+            "title": "Snowflake Anatomy: Breathtaking Microscope Photos | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

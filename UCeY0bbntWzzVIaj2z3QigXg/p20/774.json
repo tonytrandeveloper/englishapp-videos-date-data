@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JqOQ59FfEBA",
-            "title": "SpaceX Launches Last First-Generation Dragon Capsule To ISS | NBC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "acwlRKSBtEU",
             "title": "The BETTER Way To Protect Yourself From Coronavirus | Better | NBC News",
             "secondDuration": 256,
@@ -121,8 +115,14 @@
             "title": "NASA Reveals New Mars Rover Name | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "Dn41sPribeo",
+            "title": "Pence Says Administration Making ‘Steady Progress’ On Coronavirus Testing | NBC News",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

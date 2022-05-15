@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g5ILI2cwUAg",
-            "title": "One-on-One with White House National Security Advisor Lt. Gen. H. R. McMaster",
-            "secondDuration": 718,
-            "group": "group_7"
-        },
-        {
             "videoId": "PgkDrWa3lGY",
             "title": "Sasse: 'A lot that's troubling' about Comey firing, Russia meeting",
             "secondDuration": 519,
@@ -61,8 +55,14 @@
             "title": "Gisele Bundchen claims husband Tom Brady suffered repeated concussions",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wz6v-LnZlN0",
+            "title": "Trump arrives in Riyadh, Saudi Arabia, for his first foreign trip as president",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

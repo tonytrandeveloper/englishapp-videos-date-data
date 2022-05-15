@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nYAENDG0t70",
-            "title": "Rep. Joaquin Castro: 'No conclusion one way or another' on Trump campaign ties to Russia",
-            "secondDuration": 357,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoRusWbtO7A",
             "title": "Deadly meningitis trial: Jury deliberating in tainted medicine case",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Suspect in Paris airport attack was known to French authorities as a 'radicalized Muslim'",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "r2oBnyiUUdI",
+            "title": "Attack on soldier creates chaos at Paris airport",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nze9xJjElQQ",
-            "title": "Trump suggests China should investigate Joe Biden l ABC News",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nsrh3YT9J6A",
             "title": "The House deposes 1st witness in impeachment inquiry l ABC News",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "President Trump addresses media on the South Lawn",
             "secondDuration": 462,
             "group": "group_7"
+        },
+        {
+            "videoId": "A07qECgphTY",
+            "title": "Pelosi says Trump ‘scared’ of impeachment inquiry l ABC News",
+            "secondDuration": 250,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

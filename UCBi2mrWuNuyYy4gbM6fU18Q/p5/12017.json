@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wU89W-6D8KI",
-            "title": "Daredevil Kayaker Conquers Massive Waterfall",
-            "secondDuration": 226,
-            "group": "group_7"
-        },
-        {
             "videoId": "zgmL47lD7RA",
             "title": "The Speed of Light: Not So Fast?",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Delivering Children Abroad",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "mBymN0fECFM",
+            "title": "Space Junk Predicted to Land in the Ocean",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

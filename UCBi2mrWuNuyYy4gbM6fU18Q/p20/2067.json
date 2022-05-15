@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A3BpGfvLNxI",
-            "title": "CMA 2015 Award Nominations Announced Live on 'GMA'",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "sELqeeVNizw",
             "title": "British Airways Engine Failure Ignites Fire Onboard Plane",
             "secondDuration": 261,
@@ -121,8 +115,14 @@
             "title": "Prescription Drugs Don't Have to Bust Your Budget",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "-74OF2H9piA",
+            "title": "Serena Williams to Face Sister Venus on Road to Possible Grand Slam",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

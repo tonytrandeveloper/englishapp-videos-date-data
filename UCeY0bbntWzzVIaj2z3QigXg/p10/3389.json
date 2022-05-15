@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1x0AggCyM-k",
-            "title": "Gunman Opens Fire at Virginia Bus Station, Multiple Victims Injured | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "E2IjXqDu5Gk",
             "title": "Why Donald Trump Backed Down Quickly From His Abortion Comments | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "No Charges For Minneapolis Officers In Shooting Of Black Man | NBC News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "REOrXtJYwlY",
+            "title": "Bernie Sanders: We're No Longer 'Fringe' Campaign | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

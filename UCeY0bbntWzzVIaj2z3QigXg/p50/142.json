@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "jFWjle7cjpg",
-            "title": "Discussion On Rising Together: Asian American Activists",
-            "secondDuration": 2757,
-            "group": "group_7"
-        },
-        {
             "videoId": "b9ZcBF-B-BA",
             "title": "Kyle Rittenhouse Makes First In-Person Court Appearance in Wisconsin",
             "secondDuration": 201,
@@ -301,8 +295,14 @@
             "title": "New York AG Announces Criminal Investigation Into Trump Organization",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "twYgwa3EZYQ",
+            "title": "Examining The Complicated History Of The Israeli-Palestinian Conflict",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

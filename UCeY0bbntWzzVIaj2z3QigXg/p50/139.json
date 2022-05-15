@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "n-a6T_4TPbE",
-            "title": "Arizona Wildfire Destroys Structures, Evacuations Ordered",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "kaXudCAfas8",
             "title": "Miami Airport Offering Free Covid Vaccines To Travelers",
             "secondDuration": 330,
@@ -301,8 +295,14 @@
             "title": "White House Holds Press Briefing: May 26 | NBC News",
             "secondDuration": 3114,
             "group": "group_7"
+        },
+        {
+            "videoId": "1bGjHuI5fUo",
+            "title": "California Police Hold Briefing On San Jose Shooting | NBC News",
+            "secondDuration": 2006,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-xeZOy4ulP8",
-            "title": "Shark Tank Barbara Corcoran | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 870,
-            "group": "group_7"
-        },
-        {
             "videoId": "6osppbAfThU",
             "title": "ISIS No. 2 Killed in Raid",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "'Batman v Superman' | Amy Adams on Playing 'Lois Lane'",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "LUAQRZ7ii_s",
+            "title": "Former Deputy On Trial for Wife's Death",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

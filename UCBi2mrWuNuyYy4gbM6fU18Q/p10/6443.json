@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QRgHlNDGms8",
-            "title": "This Week Governors Special",
-            "secondDuration": 1334,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvzRpTdY3is",
             "title": "When Should Kids Get Cell Phones?",
             "secondDuration": 359,
@@ -61,8 +55,14 @@
             "title": "Top Line: Todd Purdum's 'Presidential Profiles'",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "jxROk7NyDuo",
+            "title": "The Conversation: Tiger Woods Says He's Sorry",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

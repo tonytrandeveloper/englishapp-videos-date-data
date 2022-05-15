@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rTPkhzSOnOc",
-            "title": "Yahoo's 2015 Year in Review",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yw00fiRaipo",
             "title": "How to Survive a Workplace Shooting",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "New Details About Suspected San Bernardino Shooters",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "4HnjDE5Baa0",
+            "title": "San Bernardino Shooting: News Helicopter Captures Dramatic Play-by-Play",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

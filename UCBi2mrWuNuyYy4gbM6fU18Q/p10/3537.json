@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G1FLL_BtMkk",
-            "title": "Alton Sterling, Slain Officer Families Hug at Memorial",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "wTyG2yEQ2QA",
             "title": "Ivanka Trump Fears for Her Dad's Safety, Talks Presidential Campaign",
             "secondDuration": 309,
@@ -61,8 +55,14 @@
             "title": "Melania Trump vs Michelle Obama Speech Comparison",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "hvDUCsoRd7s",
+            "title": "Hillary Clinton Hits at Donald Trump During the RNC",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

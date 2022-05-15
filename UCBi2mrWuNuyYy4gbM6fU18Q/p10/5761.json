@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Rkd5sRxyM54",
-            "title": "Amelia Earhart:  75 Years Later",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "xQ7cY0nxN2Y",
             "title": "American Attacked by Chimp in Stable Condition",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Record Breaking Heat Wave, Storms Blamed for 17 Deaths, Power Outages in D.C.",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "VYbT2r4Tong",
+            "title": "Webcast: Woman Knitts From Her Seat At Wimbledon",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

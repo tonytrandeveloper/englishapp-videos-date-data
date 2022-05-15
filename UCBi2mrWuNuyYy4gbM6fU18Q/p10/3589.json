@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wUfLk2xgXtU",
-            "title": "Many Are Reeling After the U.K.'s Decision to Leave the European Union",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "9Nv0e07PUn4",
             "title": "Bill Cunningham Dies After Suffering A Stroke",
             "secondDuration": 30,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Talks Brexit While on Scotland Trip",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "Df78y6w0yOI",
+            "title": "California Residents Barely Escape Wildfires",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

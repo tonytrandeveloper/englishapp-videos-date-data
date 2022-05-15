@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aq_djVzBKxs",
-            "title": "Rex Tillerson defends US response to North Korea, Russia",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "wAtOjjcOXUs",
             "title": "Aaron Hernandez's family suing NFL, Patriots",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "Sean Spicer on his tumultuous time serving President Trump",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcZouBEw5GI",
+            "title": "New images of rescued survivors of the earthquake in Mexico City",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

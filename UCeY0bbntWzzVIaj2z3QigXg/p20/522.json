@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IUDbWviOIaA",
-            "title": "Pete Buttigieg May Be Contender For Biden’s Cabinet | NBC News NOW",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "yt6maiI_-KI",
             "title": "McConnell Supports Trump’s Legal Challenges To Election Results | NBC News NOW",
             "secondDuration": 373,
@@ -121,8 +115,14 @@
             "title": "Trump Fires Defense Secretary Mark Esper | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "joh_UKNCxEA",
+            "title": "President-Elect Biden Declares Election Over, Announces Covid-19 Task Force | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

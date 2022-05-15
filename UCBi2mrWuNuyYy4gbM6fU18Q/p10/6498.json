@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5sX_5YjLpbI",
-            "title": "Invisible Man",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "NNBioZM_ei8",
             "title": "Saoirse Ronan: I'm Team Edward! Peter Jackson: Is that a soccer team?",
             "secondDuration": 34,
@@ -61,8 +55,14 @@
             "title": "Top Line: Gregg: Extra TARP Funds 'Don't Exist'",
             "secondDuration": 609,
             "group": "group_7"
+        },
+        {
+            "videoId": "EiAWY923chU",
+            "title": "Top Line: Americans Worried About Spending, Afghanistan",
+            "secondDuration": 291,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

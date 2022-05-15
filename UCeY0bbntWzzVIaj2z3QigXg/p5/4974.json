@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7NMWeBKWJME",
-            "title": "Congressional Baseball Game Returns One Year After Shooting | NBC Nightly News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "3BFnH0t9Ndw",
             "title": "New Film ‘Tag’ Highlights Enduring Friendship Of Real High School Pals | NBC Nightly News",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "NASA’s Bold New Plan To Keep The ISS In Orbit | Mach | NBC News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "tR1Pf8feFJ8",
+            "title": "Stolen Christopher Columbus Letter Returned From U.S. To Vatican | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

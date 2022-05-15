@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "--7KIZ7mUuw",
-            "title": "Vatican Hosts Stem Cell Research Conference",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYVoB6s-gV8",
             "title": "Prince Death | Prescription Drugs Found at His Estate, Police Say",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz Picks Carly Fiorina as Running Mate",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "qY3gJzzWvSc",
+            "title": "Carly Fiorina on Past Ted Cruz Attacks: ‘Heat of a Political Campaign’",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

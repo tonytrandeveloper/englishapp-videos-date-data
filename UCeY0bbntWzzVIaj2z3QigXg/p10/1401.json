@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GGRUN6AefkQ",
-            "title": "NBC News Medical Contributor Speaks Out About Coronavirus Hospitalization | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "nvN3SW0WO0s",
             "title": "FBI: China Is Targeting U.S. Coronavirus Research Through Cyberattacks | NBC Nightly News",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Cuomo: Frontline Workers Tested For Antibodies At Lower Rates Than General Population | NBC News NOW",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "pWGNwFEUbFY",
+            "title": "Live: Supreme Court Hears Oral Arguments In Electoral College Cases | NBC News",
+            "secondDuration": 8390,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

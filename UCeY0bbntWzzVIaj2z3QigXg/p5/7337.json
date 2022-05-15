@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N5zv_mjwSeA",
-            "title": "Dateline Hansen Files Google+ Hangout Monday March 19, 2012",
-            "secondDuration": 1688,
-            "group": "group_7"
-        },
-        {
             "videoId": "5yV2C1v4Ghg",
             "title": "Meet the Press - Sunday, March 18, 2012: John McCain, George Clooney,  political roundtable",
             "secondDuration": 44,
@@ -31,8 +25,14 @@
             "title": "Meet the Press This Sunday: Newt Gingrich, Eric Cantor, Debbie Wasserman Schultz, and Roundtable",
             "secondDuration": 25,
             "group": "group_7"
+        },
+        {
+            "videoId": "OLdO4JnaNak",
+            "title": "Weekends with Lester",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

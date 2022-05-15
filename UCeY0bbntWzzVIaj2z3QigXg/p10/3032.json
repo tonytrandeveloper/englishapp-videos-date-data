@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x8AeBAV4EIY",
-            "title": "President Vladimir Putin On Russian Election Interference (Full Report) | Megyn Kelly | NBC News",
-            "secondDuration": 684,
-            "group": "group_7"
-        },
-        {
             "videoId": "kKOoz7qlFa8",
             "title": "Kathy Griffin On President Donald Trump: ‘I’m Gonna Be Honest: He Broke Me’ | NBC Nightly News",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Vladimir Putin To Megyn Kelly: 'Hackers Can Be Everywhere' (Exclusive) | NBC News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "CFOvuzj6XF8",
+            "title": "Nikola Tesla's Hundred Year Old Prediction About Smartphones Is Eerily Accurate | Mach | NBC news",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

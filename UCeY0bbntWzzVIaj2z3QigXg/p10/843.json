@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XMOraIPN2eU",
-            "title": "What You Need To Know About Tax Refund Delays | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "r_q_mmZ-X3c",
             "title": "Health Experts Warn Against Travel, Rolling Back Covid Restrictions | NBC Nightly News",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "Seattle Staff At One Of The First U.S. Hospitals To Combat Covid Reflects On The Past Year",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "h6g3I_uWY1Y",
+            "title": "White House Holds Press Briefing: March 15 | NBC News",
+            "secondDuration": 2611,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

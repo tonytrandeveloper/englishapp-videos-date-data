@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bDIXsieVO6s",
-            "title": "Jaycee Dugard's House of Horror",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "3o5hqTUpqHA",
             "title": "Kerry and Hatch: Kennedy's Legacy",
             "secondDuration": 711,
@@ -31,8 +25,14 @@
             "title": "Final Goodbye to Sen. Kennedy",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "nd4YHK6ooAg",
+            "title": "Weekend Window to Tofino, British Columbia",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

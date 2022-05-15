@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6soanMR4yWc",
-            "title": "Donald Trump's Latest Rant on Twitter Goes Nuclear",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "dN9PvWEZyLA",
             "title": "Passenger Removed from Flight After Allegedly Harassing Ivanka Trump",
             "secondDuration": 446,
@@ -121,8 +115,14 @@
             "title": "Former Couple Throws Divorce Party to Celebrate Split",
             "secondDuration": 438,
             "group": "group_7"
+        },
+        {
+            "videoId": "HJouwx7ehRQ",
+            "title": "Manhunt Underway for Suspect in Terror Attack on Christmas Market in Germany",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

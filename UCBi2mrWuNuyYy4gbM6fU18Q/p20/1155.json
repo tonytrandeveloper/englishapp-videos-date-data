@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jmPEEQ_ngdo",
-            "title": "Being Melania - The First Lady Part 1: Melania Trump on becoming the first lady",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "uZ9sZWzPkb0",
             "title": "Being Melania - The First Lady Part 3: Melania Trump on immigration, 'the jacket'",
             "secondDuration": 452,
@@ -121,8 +115,14 @@
             "title": "Rapper T.I. gives a tour of his hometown neighborhood in Atlanta",
             "secondDuration": 452,
             "group": "group_7"
+        },
+        {
+            "videoId": "G-Xr2go5syk",
+            "title": "'Briefing Room': Trump meets with Kanye & Kid Rock, Jamal Khashoggi, Tropical Storm Michael",
+            "secondDuration": 1596,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

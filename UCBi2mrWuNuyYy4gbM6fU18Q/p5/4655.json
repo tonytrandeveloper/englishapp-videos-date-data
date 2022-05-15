@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8-XBxtXVgqo",
-            "title": "Kavanaugh, Ford to testify amid new allegations",
-            "secondDuration": 291,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGqC_SEbApA",
             "title": "Trump calls accusations against Kavanaugh a 'con job'",
             "secondDuration": 219,
@@ -31,8 +25,14 @@
             "title": "Rock climber scaled Yosemite's El Captain",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "A4S0v1FqQQY",
+            "title": "Trump's open to changing mind on Kavanaugh",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

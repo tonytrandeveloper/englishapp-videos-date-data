@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WoBgt_MJlCo",
-            "title": "'GMA' Searches for America's Next Teen Pop Star: Will They go Viral?",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kfgl3Vf41Y8",
             "title": "Rachel Weisz, Daniel Craig Marriage Lights Up Web; 'Thriller' Jacket Sold",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Interview with Rep. James Clyburn",
             "secondDuration": 265,
             "group": "group_7"
+        },
+        {
+            "videoId": "ekcwjAqTyww",
+            "title": "Interview with Sen. Mitch McConnell",
+            "secondDuration": 497,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

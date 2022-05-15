@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nIW6VyX3o60",
-            "title": "Cutting Your Doctor Bills in Half Without Going to the Doctor's Office",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "6jUWeuTbaAc",
             "title": "'X-Men: Days of Future Past' Actors Reveal Insights Into Their Shared Role",
             "secondDuration": 296,
@@ -61,8 +55,14 @@
             "title": "Al Ferri Celebrates 50 Years at ABC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "aOWNONuEWg4",
+            "title": "WEBCAST: Fire Evacuations End",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

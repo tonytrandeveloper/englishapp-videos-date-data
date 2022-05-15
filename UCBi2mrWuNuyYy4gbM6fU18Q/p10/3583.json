@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z49LHoEuC-8",
-            "title": "Two Trains Collide Head On",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "-d3BPIb2mXM",
             "title": "Rescuers Attempt to Untangle Blue Whale From Fishing Line",
             "secondDuration": 91,
@@ -61,8 +55,14 @@
             "title": "Boy Takes Joyride, Crashes Into Police Car",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uy2NJkBxSAM",
+            "title": "Benghazi Committee Final Report",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

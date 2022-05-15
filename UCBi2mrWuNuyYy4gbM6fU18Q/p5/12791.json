@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Pgb56kzNm0k",
-            "title": "The Conversation: Journey to Iceland Volcano Top",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "YUOQTR6fidc",
             "title": "Israel's PM on Iran's Nuclear Program",
             "secondDuration": 372,
@@ -31,8 +25,14 @@
             "title": "Vanessa Williams in 'Sondheim on Sondheim'",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "DHW1_f92DHE",
+            "title": "Amplified: Free Energy",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

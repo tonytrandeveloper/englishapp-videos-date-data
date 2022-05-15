@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XF_-sncuzmI",
-            "title": "Melissa McCarthy Discusses Her Role in 'Spy'",
-            "secondDuration": 417,
-            "group": "group_7"
-        },
-        {
             "videoId": "ol6LCAHMKEo",
             "title": "Martin O'Malley Takes on Hillary Clinton With 2016 Presidential Run",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Remembering Vice President Biden's Son Beau",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "fVVoPBxf9-Y",
+            "title": "Gov. Bobby Jindal Slams Rand Paul Over ISIS",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

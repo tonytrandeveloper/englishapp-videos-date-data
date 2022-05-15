@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e3w80pzWwbo",
-            "title": "Great-Grandmother Hits the Gym Ten Times a Week | ABC News",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "6XugIPNzEy4",
             "title": "Betty White Turns 95, Says She'd Do 'Golden Girls' Reboot",
             "secondDuration": 258,
@@ -31,8 +25,14 @@
             "title": "Putin Accuses Obama Administration of Spreading False Rumors to Undermine Trump",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "LJgfXxYjQNI",
+            "title": "Fort Lauderdale Airport Shooter Held Without Bond",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

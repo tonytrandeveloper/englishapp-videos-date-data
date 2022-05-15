@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HcbdKpfBc9c",
-            "title": "Robert Mueller makes public statement on special counsel report",
-            "secondDuration": 282,
-            "group": "group_7"
-        },
-        {
             "videoId": "gW--QuB-sIk",
             "title": "Louisiana lawmakers vote to ban abortions as early as 6 weeks",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Kansas declares tornado emergency",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "26wqUaXOv3g",
+            "title": "New questions raised after Mar-a-Lago security breach",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

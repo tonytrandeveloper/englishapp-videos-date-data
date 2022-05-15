@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SZwGPaSAwvU",
-            "title": "Growing Questions And Division Over Secret Memo | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "GS51x93GEhI",
             "title": "FBI Deputy Director Andrew McCabe Stepping Down | NBC Nightly News",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Meet The 24-Year-Old Innovator Designing Cars For Ford | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ob1MKQkVbT0",
+            "title": "This Futuristic Driving Technology Lets You Drive A Car With Brain Waves | Mach | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

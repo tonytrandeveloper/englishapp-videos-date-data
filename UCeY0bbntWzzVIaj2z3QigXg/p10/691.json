@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n-a6T_4TPbE",
-            "title": "Arizona Wildfire Destroys Structures, Evacuations Ordered",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "kaXudCAfas8",
             "title": "Miami Airport Offering Free Covid Vaccines To Travelers",
             "secondDuration": 330,
@@ -61,8 +55,14 @@
             "title": "NBC News NOW Full Broadcast - May 27th, 2021",
             "secondDuration": 2932,
             "group": "group_7"
+        },
+        {
+            "videoId": "wJFDvgFs61E",
+            "title": "A look At The Tulsa Massacre And The Movement That Followed",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

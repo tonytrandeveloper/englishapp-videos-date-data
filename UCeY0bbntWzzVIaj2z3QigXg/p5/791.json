@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CvYpuUV6wTc",
-            "title": "Severe Weather From Coast To Coast",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjezvTm3dfA",
             "title": "Covid Cases Dropping Across U.S.",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Uber Offers Up To 50,000 Tesla Cars To Drivers In New Hertz Deal",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "lFWT-KcB1eQ",
+            "title": "Trump Asks Judge To Block IRS From Handing Tax Returns to Congress",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

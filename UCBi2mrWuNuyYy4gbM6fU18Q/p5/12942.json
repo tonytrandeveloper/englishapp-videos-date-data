@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TZ4QFcDTE1c",
-            "title": "Bush, Clinton on Haiti: Lessons from the Past",
-            "secondDuration": 610,
-            "group": "group_7"
-        },
-        {
             "videoId": "10TXEogtqIs",
             "title": "Rescues Continue Days After Quake",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "Anniversary of Miracle on the Hudson",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "6QWGbfgQ7rY",
+            "title": "Haitians Frustrated Over Slow Aid",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

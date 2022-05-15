@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rx5MSge5fOM",
-            "title": "Urban Angling: Fishing on the East River | ABC News",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "H8czVPrRkWk",
             "title": "Former Miss Arizona Says Trump Would Walk In on 'Half-Naked' Contestants | ABC News",
             "secondDuration": 452,
@@ -31,8 +25,14 @@
             "title": "Newly Released 911 Calls Inside the Deadly School Shooting at a South Carolina Elementary School",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "NfmP1mvGNIw",
+            "title": "High School Volleyball Player Saves the Day When National Anthem Recording Fails",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

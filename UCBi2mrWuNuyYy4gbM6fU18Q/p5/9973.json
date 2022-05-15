@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WIGcKLYxyI0",
-            "title": "Washington Redskins Name Under Fire",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "iP03iPygcBQ",
             "title": "World Series Controversial Ruling Upsets Fans: St. Louis Cardinals Defeat Boston Red Socks in Game 3",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Texas Wildfires Cause Shroud of Smoke in Parts of Houston",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "3PctIdIbxIU",
+            "title": "JonBenet Ramsey Sealed Grand Jury Court Documents Released",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PlIsDHJITNA",
-            "title": "Kids Under Pressure: Covid-19’s Toll On Learning | NBC News NOW",
-            "secondDuration": 2052,
-            "group": "group_7"
-        },
-        {
             "videoId": "f9Fl_YhaVUU",
             "title": "Undocumented Immigrant Claims Texas Storm Led To Poor Conditions In Detention Center | NBC News NOW",
             "secondDuration": 207,
@@ -121,8 +115,14 @@
             "title": "How Tiger Woods Is Recovering From Emergency Surgery After Solo Crash | NBC News NOW",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "PtjyoS-SG90",
+            "title": "Why Tech Entrepreneurs Are Flocking To Miami As Companies Shift To Remote Work | NBC News NOW",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

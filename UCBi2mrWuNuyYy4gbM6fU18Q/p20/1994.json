@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hy_U9RvtP2w",
-            "title": "Important Deadline for Smartphone Customers",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "5-0wzqbtb1w",
             "title": "'Affluenza' Teen, Mother Found in Mexico",
             "secondDuration": 264,
@@ -121,8 +115,14 @@
             "title": "Chicago Police Shooting: Student and Mother Killed",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CBL7CdW4N-s",
+            "title": "Donald Trump Takes on the Clintons",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

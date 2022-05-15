@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YJoZILyrBhA",
-            "title": "Laid Off Artist Collects Recession Stories",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "pgCBfEoaDiE",
             "title": "Top Line: Outlook for 2010: Dems v. Republicans",
             "secondDuration": 510,
@@ -61,8 +55,14 @@
             "title": "Mistrial Declared in Travolta Case",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "kFyDFPDjH8s",
+            "title": "Publicist Interference",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

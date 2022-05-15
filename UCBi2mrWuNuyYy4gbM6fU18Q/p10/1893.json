@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g9dQNckjo2U",
-            "title": "NYPD officer involved in Eric Garner's death fired l ABC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "EQNkJL6zqOw",
             "title": "Parents fight for custody after stopping son's chemotherapy l ABC News",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Man suspected in Jewish center shooting threat pleads 'not guilty'",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "d7oXxUyXSJI",
+            "title": "Building in Seattle evacuated after dump truck slams into eatery",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

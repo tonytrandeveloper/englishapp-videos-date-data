@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gXdAKBYJsMA",
-            "title": "New details emerge in Otto Warmbier's medical condition",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "SINxkXGjakM",
             "title": "Estate of Playboy model Katie May suing chiropractor over her death",
             "secondDuration": 179,
@@ -121,8 +115,14 @@
             "title": "Gabby Giffords 'so sad' after GOP baseball shooting",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "ti_Jr-sRaAs",
+            "title": "Congressmen describe how the GOP baseball shooting unfolded",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

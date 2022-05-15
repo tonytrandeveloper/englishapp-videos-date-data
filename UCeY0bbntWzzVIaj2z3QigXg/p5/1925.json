@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cy_TM0AZ2xQ",
-            "title": "Rioters Storm Stairs Of Capitol As Congress Debates Electoral College Objections | NBC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "D16_LpAcanc",
             "title": "McConnell Speaks Against Republicans Objecting To Electoral College Vote Count | NBC News",
             "secondDuration": 529,
@@ -31,8 +25,14 @@
             "title": "After Georgia Runoffs, Schumer Says Relief Checks Will Be First Priority In Senate | NBC News NOW",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "_F7XY_BA1k8",
+            "title": "New York Gov. Andrew Cuomo Holds Briefing | NBC News",
+            "secondDuration": 3415,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

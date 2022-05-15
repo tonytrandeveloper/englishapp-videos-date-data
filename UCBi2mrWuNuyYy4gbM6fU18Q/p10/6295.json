@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9qmnfwLuYJE",
-            "title": "The Conversation: Capturing New Orleans",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "OMoDwHliyZA",
             "title": "Washington Post's Dan Balz on 'Top Line'",
             "secondDuration": 268,
@@ -61,8 +55,14 @@
             "title": "Drunk Driving Numbers Surprisingly High",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "H2ium9VLH08",
+            "title": "Small Slip-Up is Big Loss for New Jersey Kids",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

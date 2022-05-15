@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "obakDwGKBIQ",
-            "title": "Spain's $125 Billion Bailout Package By European Union",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYCB2atuIxI",
             "title": "NPR's 'Car Talk' Radio Show With Hosts 'Click and Clack' To End",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Giant Worm: Iceland's Loch Ness Monster?",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "2NcenTjxWgw",
+            "title": "Reality Contestant Accused of Lying",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

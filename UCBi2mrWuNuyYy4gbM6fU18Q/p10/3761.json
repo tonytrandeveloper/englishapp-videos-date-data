@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2DGrF747vSI",
-            "title": "Drone Video Captures Ecudaor Earthquake Aftermath",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "aHd74qfYtzw",
             "title": "Ted Cruz 'GMA' FULL Town Hall | Republican Candidate Cruz Answers Voter Questions",
             "secondDuration": 1838,
@@ -61,8 +55,14 @@
             "title": "Ted Cruz Vows to Decline Donald Trump VP Position",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "aS24I9ME774",
+            "title": "Heidi Cruz on Potential Focus If She's First Lady",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

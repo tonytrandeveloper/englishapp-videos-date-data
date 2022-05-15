@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tPvtA8otU98",
-            "title": "This Morning’s Top Headlines – April 11 | Morning News NOW",
-            "secondDuration": 834,
-            "group": "group_7"
-        },
-        {
             "videoId": "CQm4nv2EHOU",
             "title": "Drone Footage Shows Destroyed Theater In Besieged Mariupol, Ukraine",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Full Jake Sullivan: 'Weapons Are Arriving Every Day' in Ukraine",
             "secondDuration": 545,
             "group": "group_7"
+        },
+        {
+            "videoId": "pwX07MEkouw",
+            "title": "Russia Appoints General Known For Alleged Scorched-Earth Tactics To Oversee Ukrainian Invasion",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

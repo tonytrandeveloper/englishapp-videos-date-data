@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4MzeH8wa9sg",
-            "title": "ISIS Recruiter Speaks",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "8g4ctUc3OHY",
             "title": "Terror Attacks in Denmark",
             "secondDuration": 370,
@@ -31,8 +25,14 @@
             "title": "NBA Star Visits Group of Students Leading Up to All-Star Game",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "PmByq-3hsnk",
+            "title": "Boston Mayor Addresses Harsh Winter Conditions",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

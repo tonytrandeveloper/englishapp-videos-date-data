@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ertj5XJgpMY",
-            "title": "Paralyzed Man Proposes on Bended Knee | ABC News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "cYVP_FYpCT0",
             "title": "Trump Hosts High-Tech Summit at Trump Tower",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Humanitarian Crisis in Aleppo Grows Worse by the Hour",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "yfcayjG4-_0",
+            "title": "Saying Goodbye to Alan Thicke",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

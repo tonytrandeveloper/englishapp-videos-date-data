@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uzSoC19bfcs",
-            "title": "Tropical Storm Gordon makes landfall along Gulf Coast",
-            "secondDuration": 253,
-            "group": "group_7"
-        },
-        {
             "videoId": "verhyM1deoE",
             "title": "Rick Pitino says 'I think I'm done with coaching'",
             "secondDuration": 357,
@@ -61,8 +55,14 @@
             "title": "Hearing begins for Supreme Court nominee Brett Kavanaugh",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "chxgWqCHGRA",
+            "title": "Colin Kaepernick new face of Nike's 'Just Do It' campaign",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

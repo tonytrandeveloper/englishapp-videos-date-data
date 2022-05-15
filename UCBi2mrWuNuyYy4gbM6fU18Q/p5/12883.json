@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "THaZmQhUgQ4",
-            "title": "N.Y. Terror Suspect Admits Guilt",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZrY2wkIl4Iw",
             "title": "The Great Weight Debate",
             "secondDuration": 225,
@@ -31,8 +25,14 @@
             "title": "Dangerous Dogs?",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "LpY3ALCLevI",
+            "title": "Amplified: Phantogram",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

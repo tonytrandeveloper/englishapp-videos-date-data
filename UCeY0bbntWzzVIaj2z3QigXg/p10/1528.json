@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HJxOqMG3wX8",
-            "title": "Special Report: Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
-            "secondDuration": 3596,
-            "group": "group_7"
-        },
-        {
             "videoId": "qDN2xEEHUy8",
             "title": "Trump Estimates Coronavirus Timeline Until ‘July, August, Something Like That’ | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "COVID-19 State Of Emergency Places Madrid In Lockdown | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "1M5acB2fKrs",
+            "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

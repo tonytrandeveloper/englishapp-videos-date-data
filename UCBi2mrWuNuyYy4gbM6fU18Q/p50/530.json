@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-3URa6tW2ig",
-            "title": "White House press briefing on Michael Wolff book, and Steve Bannon | ABC News",
-            "secondDuration": 2736,
-            "group": "group_7"
-        },
-        {
             "videoId": "ScDdr9VP8zI",
             "title": "Snowy 'bomb cyclone' hits Northeast: Dangerous n'oreaster brings cold, strong winds and snow",
             "secondDuration": 1258,
@@ -301,8 +295,14 @@
             "title": "Karachi, Pakistan Celebrates the Start of 2018",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "dRuHYcltmDs",
+            "title": "Hong Kong, China Celebrates the Start of 2018",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

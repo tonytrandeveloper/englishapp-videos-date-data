@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GnOnCvZFnCE",
-            "title": "New book gives behind-the-scenes look at Trump White House",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "R8_waozu4f4",
             "title": "NASA spacecraft expected to touch down on Mars",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Republican Senate candidate Cindy Hyde-Smith sparks controversy",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "wtxNhYZh-4A",
+            "title": "Transplant recipient meets donor's wife and daughter",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

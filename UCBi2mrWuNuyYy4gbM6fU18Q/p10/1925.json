@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FOt0-Tch0Xk",
-            "title": "6-year-old sells lemonade to take mom out on date after father dies of colon cancer",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "hrP7ILSLrdU",
             "title": "Seattle software engineer arrested in one of the largest data breaches ever",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "A$AP Rocky appears in Sweden court l ABC News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "4l4gCdhRXjY",
+            "title": "The Debrief: Democratic debate preps, Gilroy shooting developments | ABC News",
+            "secondDuration": 2322,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

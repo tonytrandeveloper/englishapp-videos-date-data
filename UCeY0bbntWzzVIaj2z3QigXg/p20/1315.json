@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c7mN9uOA2j0",
-            "title": "Charges Announced In Deadly Birmingham Classroom Shooting | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "BvMiQa0rLm4",
             "title": "Parkland School Shooter Nikolas Cruz Continues To Be Held Without Bond | NBC News",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "U.S. Says North Korea Sending \"Potentially Positive Signals\" | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "82epXnPDvYM",
+            "title": "Women Unite Behind #MeToo On International Women's Day | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

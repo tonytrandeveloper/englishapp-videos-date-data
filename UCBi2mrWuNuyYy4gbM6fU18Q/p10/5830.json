@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hj0XehIUsqk",
-            "title": "Duck Boat Hit by Barge Caught on Tape",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "_y5dEdW3UxQ",
             "title": "Al Qaeda Bomb Plot Foiled; Hostage Video",
             "secondDuration": 304,
@@ -61,8 +55,14 @@
             "title": "'Avengers' Star Tom Hiddleston Interview: Playing Villian Loki In Marvel Comics Super Hero Movie",
             "secondDuration": 439,
             "group": "group_7"
+        },
+        {
+            "videoId": "ad24d13ZZI4",
+            "title": "Marvel's 'The Avengers' Movie Tom Hiddleston Interview: Yoda Impression and Bob Dylan Song",
+            "secondDuration": 429,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

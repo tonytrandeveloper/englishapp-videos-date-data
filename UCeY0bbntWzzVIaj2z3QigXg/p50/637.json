@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "O7cDI28qy5Q",
-            "title": "President Obama Praises Free Press: ‘Our Democracy Needs You’ | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "m8Jj2FVZrCU",
             "title": "Betsy DeVos Faces Off Against Democrats in Hearing for Secretary of Education | NBC News",
             "secondDuration": 240,
@@ -301,8 +295,14 @@
             "title": "Senator Cory Booker Testifies Against Senator Jeff Sessions In Confirmation Hearing | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "p7nn_jVQvWc",
+            "title": "Your New Favorite Song Has Been Chosen By An Algorithm | Mach | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

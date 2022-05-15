@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "skDd61mPda0",
-            "title": "8-year-old meets his bone marrow donor for the 1st time",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "zNFnVIlE6cA",
             "title": "Island of Puerto Rico 'destroyed' by Hurricane Maria",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "'Skyrim VR' demo: Play test the new 'Elder Scrolls' virtual reality game",
             "secondDuration": 959,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieA3BIOyTqs",
+            "title": "President Donald Trump blasts 'Rocket Man' Kim Jong Un in UN General Assembly 2017 address",
+            "secondDuration": 4408,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

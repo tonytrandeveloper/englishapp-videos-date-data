@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6iQju0h7NoA",
-            "title": "Zion Williamson on pressure of the NBA draft",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "yzG4CSLhh9E",
             "title": "Trump campaign kicks off, Navy vet on trial, Iraq rocket attack",
             "secondDuration": 1430,
@@ -31,8 +25,14 @@
             "title": "Sen. Bernie Sanders responds to President Trump's 2020 re-election rally | ABC News",
             "secondDuration": 635,
             "group": "group_7"
+        },
+        {
+            "videoId": "ghXGNjAuosg",
+            "title": "President Trump's 2020 campaign kicks off with a rally in Orlando, Florida",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

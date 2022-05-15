@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YCnNtjRK6bM",
-            "title": "Solitary Confinement: Is It Torture?",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "7hCB96Hdc00",
             "title": "NFL Picks Competition - Week 3 Results",
             "secondDuration": 136,
@@ -61,8 +55,14 @@
             "title": "48 Hours in Solitary Confinement: 'It Is a Very Lonely Feeling'",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "0y-0jT0waq4",
+            "title": "In Solitary Confinement, 'the Screaming Starts'",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

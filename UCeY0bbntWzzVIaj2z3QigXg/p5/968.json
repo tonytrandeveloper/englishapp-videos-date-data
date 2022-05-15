@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rh7etptorn8",
-            "title": "Meet The Press Broadcast (Full) - September 12th, 2021",
-            "secondDuration": 2853,
-            "group": "group_7"
-        },
-        {
             "videoId": "gqfYQnn9e3Q",
             "title": "Full Surgeon General: 'We Have To Use Every Lever' in Covid Fight",
             "secondDuration": 526,
@@ -31,8 +25,14 @@
             "title": "Biden Announces Sweeping Covid Vaccine Rules, Republicans Resist",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "F5cBzsvxRnY",
+            "title": "Biden Throws Away The Carrots And Brought Out The Sticks",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZPMF1ElERbc",
-            "title": "Georgia special election for a US House seat heats up days before votes are cast",
-            "secondDuration": 344,
-            "group": "group_7"
-        },
-        {
             "videoId": "LK5nsllo_mE",
             "title": "Prosecutors say they will seek to retry sexual assault case against Bill Cosby after mistrial",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "Tennessee man speaks out about his encounter with 2 dangerous escaped prisoners",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "OZSGMMUC7FQ",
+            "title": "Watergate: Inside the scandal that took down a presidency",
+            "secondDuration": 614,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TEtvHniNut8",
-            "title": "Maya Moore: \"I have a dream that...\"",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "8lPdZQxtlag",
             "title": "Chrissy Teigen: \"I have a dream that...\"",
             "secondDuration": 14,
@@ -31,8 +25,14 @@
             "title": "Bobby Flay: \"I have a dream that...\"",
             "secondDuration": 9,
             "group": "group_7"
+        },
+        {
+            "videoId": "GBWc0BGG3LY",
+            "title": "Peter Alexander: 'I have a dream that...'",
+            "secondDuration": 14,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

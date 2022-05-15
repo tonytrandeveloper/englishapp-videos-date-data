@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "595qJB7wM4U",
-            "title": "Tony Hale | Worst Advice | Real Biz with Rebecca Jarvis",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "nb1cTpn5fGo",
             "title": "Teen Cancer Patient Throws Goodbye Party",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "2016 BET Awards | Beyonce Surprise Opening",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "0p2ulgRcYHY",
+            "title": "2016 'World's Ugliest Dog'",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

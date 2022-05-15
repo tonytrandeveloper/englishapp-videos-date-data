@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4R9EqizpoOI",
-            "title": "Ohio Focus Group Evaluates Hillary Clinton, Donald Trump Performances In Forum | NBC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "BRwPqPeqbsQ",
             "title": "Donald Trump And Hillary Clinton On Iraq, ISIS, And More From Commander-in-Chief Forum | NBC News",
             "secondDuration": 192,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton: 'We Are Not Putting Ground Troops into Iraq Ever Again' | NBC News",
             "secondDuration": 37,
             "group": "group_7"
+        },
+        {
+            "videoId": "5UYAuaMgoPg",
+            "title": "Hillary Clinton Stresses Modernization Of The VA, But No Privatization | NBC News",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

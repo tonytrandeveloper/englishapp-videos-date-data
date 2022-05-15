@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ss11GwCMViU",
-            "title": "Maryland 'Serial Killer Charged",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "6RK_JY_NF60",
             "title": "Possible Serial Killer Caught",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Who Sprung the Leak?",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "LF6HY_UdR8w",
+            "title": "2, 4, 6, 8 Nobody Appreciates Cheering",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

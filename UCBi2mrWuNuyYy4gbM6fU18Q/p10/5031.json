@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1046ibhPqPs",
-            "title": "Aaron Alexis: The Man Behind the Washington Navy Yard Shooting",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZF0dFXjgk0",
             "title": "13 People Killed in Washington DC Shooting Rampage",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Man Survives 40-Foot Fall, Leaves Goodbye on Video",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "sBHJL_splYg",
+            "title": "Linda Ronstadt on Parkinson's Diagnosis: Life Is 'Different'",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

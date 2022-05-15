@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6EN60ushiDU",
-            "title": "A Look Back at Chris Cuomo's 'GMA' Journey",
-            "secondDuration": 414,
-            "group": "group_7"
-        },
-        {
             "videoId": "-jfsYkugv1w",
             "title": "'GMA's' Favorite Moments on the Road",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "Suze's Survival Guide",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sX_5YjLpbI",
+            "title": "Invisible Man",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

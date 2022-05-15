@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MVAWphjEEOI",
-            "title": "Boston Bombing Verdict: Tsarnaev Guilty On All 30 Counts | NBC Nightly News",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "r4BikcoO2EA",
             "title": "Walter Scott Shooting Witness Speaks Out | NBC Nightly News",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Rand Paul Reveals Conventional Strategy | Chuck's Take | NBC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "tdPEgojVZr8",
+            "title": "South Carolina Cop Charged With Murder Of Walter Scott | NBC Nightly News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

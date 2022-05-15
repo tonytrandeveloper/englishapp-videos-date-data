@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MI2ke9iEaTE",
-            "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "P_Fi3RWUpSE",
             "title": "Massive Winter Storm Hits Northeast | NBC Nightly News",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "Biden Campaigns For Jon Ossoff And Rev. Raphael Warnock In Georgia | NBC News",
             "secondDuration": 1071,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZTKf6zBmnw",
+            "title": "McConnell Promises Congress Is 'Not Leaving Here Without A Covid Package' | NBC News NOW",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TWHJ3AxpiBI",
-            "title": "Teen with heart disease creates video game",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "RcCihsNvm7o",
             "title": "High school football players wheel elderly residents to enjoy homecoming parade",
             "secondDuration": 71,
@@ -61,8 +55,14 @@
             "title": "What happened in Vegas mass shooting that killed at least 59",
             "secondDuration": 610,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_z3ss6omOY",
+            "title": "What we know about Vegas mass shooting suspect Stephen Paddock",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

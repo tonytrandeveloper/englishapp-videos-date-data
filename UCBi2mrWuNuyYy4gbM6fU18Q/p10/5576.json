@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-t8AXsH26fA",
-            "title": "Col. Jeannie Flynn Leavitt is the First Woman Fighter Jet Commander",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "FrzCS2ZxUnI",
             "title": "Benghazi Terror Attack: Jake Tapper Presses Jay Carney on WH Misstatements on Consulate Attack",
             "secondDuration": 399,
@@ -61,8 +55,14 @@
             "title": "Man Busted in Body Armor at Airport",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "-dyPfuThke8",
+            "title": "WEBCAST: 27 Days to Go Until Election Day",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

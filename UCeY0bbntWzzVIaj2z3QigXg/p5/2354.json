@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "53Bw4dkQxMc",
-            "title": "Watch Lara Trump's Full Speech At The 2020 RNC | NBC News",
-            "secondDuration": 474,
-            "group": "group_7"
-        },
-        {
             "videoId": "8wiHQddkEV0",
             "title": "Hurricane Laura To Bring ‘Unsurvivable’ Storm Surge To Gulf Coast As Category 4 | NBC News NOW",
             "secondDuration": 764,
@@ -31,8 +25,14 @@
             "title": "Watch Kellyanne Conway’s Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "ajh4XFGXgpo",
+            "title": "Watch Karen Pence's Full Speech At The 2020 RNC | NBC News",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

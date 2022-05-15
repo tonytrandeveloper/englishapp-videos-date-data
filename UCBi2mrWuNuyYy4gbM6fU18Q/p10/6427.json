@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dgNSjXZqAs0",
-            "title": "The Conversation: Women in the World Summit",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "VMFblSRP82o",
             "title": "Brutalized Afghan Woman Finds Strength",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Bank Apologizes for Accidental Foreclosure",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "_0Co3GRP3WE",
+            "title": "Driving Deaths Drop: Are Ads Working?",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

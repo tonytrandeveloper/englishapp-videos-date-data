@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HFGC2xEwyGw",
-            "title": "Paris Attack: Man Enters Paris Police Station With Knife And Vest",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "DDkZLUm6HLc",
             "title": "Former CNN Anchor, Reporter Use Concealed Weapon to Survive Shootout",
             "secondDuration": 459,
@@ -61,8 +55,14 @@
             "title": "Model Accused of Killing Husband Fights for Her Stepchildren",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "YURgUKK5OKQ",
+            "title": "Donald Trump Attacks Ted Cruz's Citizenship",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

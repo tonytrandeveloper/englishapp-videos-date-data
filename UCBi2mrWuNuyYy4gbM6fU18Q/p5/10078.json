@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BGvSiCggYO0",
-            "title": "ABC News Investigates Aging Firefighting Air Fleet",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "m4wYm9r1ioM",
             "title": "Sports Illustrated Reveals Alleged Corruption at Oklahoma State University",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Jimmy Kimmel Reveals 'Twerking' Video Was Prank",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "i7U7VCbqu3k",
+            "title": "President Obama to Address Americans on Syrian Strike",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

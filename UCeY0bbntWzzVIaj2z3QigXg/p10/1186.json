@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xzpRxPJkZPs",
-            "title": "California Wildfires Total Over One Million Acres | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "PS7fK5Cfq0c",
             "title": "Trump Announces Emergency Use Authorization For Potential Coronavirus Treatment | NBC Nightly News",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "College Students Blast Administrators Over COVID19 Outbreaks On Campus | NBC Nightly News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "-eaEOK8g2Mc",
+            "title": "House Holds Rare Saturday Session On US Postal Service Funding | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

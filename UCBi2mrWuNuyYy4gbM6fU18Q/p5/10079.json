@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i7U7VCbqu3k",
-            "title": "President Obama to Address Americans on Syrian Strike",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "isynl_ERTkQ",
             "title": "Howard Stern's Sidekick Robin Quivers' Cancer Recovery",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Addressing Critics",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "BbI-xJ7OX50",
+            "title": "Diane Sawyer Interviews President Obama",
+            "secondDuration": 380,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

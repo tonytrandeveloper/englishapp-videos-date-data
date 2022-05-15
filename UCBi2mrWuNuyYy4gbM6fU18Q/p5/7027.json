@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bqnD53gLvcg",
-            "title": "Hillary Clinton Makes History as First Female Presidential Nominee | ABC News",
-            "secondDuration": 535,
-            "group": "group_7"
-        },
-        {
             "videoId": "CzIeGimswiA",
             "title": "Teen Nails Celine Dion’s “Power of Love”",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "Trump, Pence 'Don't Know What They're Talking About' With ISIS",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "EWipO1UK9TM",
+            "title": "Hillary Clinton Becomes the First Woman Nominated by a Major Party",
+            "secondDuration": 436,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

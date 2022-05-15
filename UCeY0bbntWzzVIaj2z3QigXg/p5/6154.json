@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZH0Sg2_5Inw",
-            "title": "Airobotics Claims To Have Created The Most Advanced Drones Yet | Mach | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "WRi1YPx4oQI",
             "title": "‘Books N Bros’ Is A New Kind Of Book Club | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Critics Call Donald Trump’s Tax Plan 'A Pitch, Not A Proposal' | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzHDtdDKSXc",
+            "title": "Two US Special Forces Killed In Anti-ISIS Raid In Afghanistan | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

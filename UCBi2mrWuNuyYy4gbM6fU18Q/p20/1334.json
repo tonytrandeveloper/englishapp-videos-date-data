@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iZj8CE7fwSE",
-            "title": "'Star Wars: The Last Jedi' movie (2017) and 'Darth Vader,' 'Poe Dameron' comics on 'Inside Marvel'",
-            "secondDuration": 1515,
-            "group": "group_7"
-        },
-        {
             "videoId": "6xe64i_4GhM",
             "title": "Controversial WH adviser speaks out on resignation",
             "secondDuration": 672,
@@ -121,8 +115,14 @@
             "title": "Trump's lawyers call for new investigation of Robert Mueller's Russia probe",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "N2UpAEm39k4",
+            "title": "Online holiday sales expected to top $100 billion in US for the 1st time",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

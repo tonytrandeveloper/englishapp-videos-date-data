@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uP9dxaDpH_A",
-            "title": "Michelle Obama Hits the Campaign Trail for Hillary Clinton",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "hPoaPKB5CXQ",
             "title": "Dying Dog Carried Down the Aisle",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Jr. on 'Gas Chamber' Comment",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "hzpY7aDPhtw",
+            "title": "Trump: Obama 'Was Born in the United States'",
+            "secondDuration": 47,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

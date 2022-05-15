@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i8E2dYNFV8g",
-            "title": "Texts revealed during trial of woman accused of encouraging teen to commit suicide",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "_--JxsIl5LA",
             "title": "Bill Cosby accuser, accuser's mother takes the stand",
             "secondDuration": 385,
@@ -31,8 +25,14 @@
             "title": "What to watch in James Comey testimony",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "_nbpuEXJ6hs",
+            "title": "Michael Flynn and his dealings with Russia are focus of FBI investigation",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

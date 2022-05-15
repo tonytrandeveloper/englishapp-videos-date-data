@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O_LbnyHIpzI",
-            "title": "Multiple fatalities in massive London high-rise fire",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZUr0q3LOe8s",
             "title": "Tourniquets during mass-shooting situations are crucial",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Rand Paul describes shooting at baseball field in Virginia",
             "secondDuration": 405,
             "group": "group_7"
+        },
+        {
+            "videoId": "OXZ6ZIAecNY",
+            "title": "1 suspect in custody in Virginia park shooting: Reports",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

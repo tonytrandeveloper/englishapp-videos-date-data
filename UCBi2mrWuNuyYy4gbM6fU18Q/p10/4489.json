@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5YnByAMnJLQ",
-            "title": "On The Frontlines to Find the Terror in Paris Suspects",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vi7e0BkopGg",
             "title": "HOSTAGE SITUATION: Video of Manhunt for Suspects in Charlie Hebdo Attack",
             "secondDuration": 73,
@@ -61,8 +55,14 @@
             "title": "World News Now | Awards Season Fever!",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0ReVWDHdIU",
+            "title": "SKINNY: The People Have Spoken!",
+            "secondDuration": 257,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

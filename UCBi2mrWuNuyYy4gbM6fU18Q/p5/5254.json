@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LQZHm4OIH2U",
-            "title": "Apple's Tim Cook and Malala team up to fight for girls' education",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "IdXu9fSg5kM",
             "title": "Sources say Trump came close to striking a deal with Democrats the border wall",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "A van in San Francisco drove onto a sidewalk",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "RiWZYSqrQRE",
+            "title": "White House official says Democrats are taking an 'implausible position' on immigration",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

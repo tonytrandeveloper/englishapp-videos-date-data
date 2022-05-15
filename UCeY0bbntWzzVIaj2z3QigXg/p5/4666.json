@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kXmAhXyn3Hg",
-            "title": "Police Use Murder Victim’s Fitbit Data To Catch Her Killer | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ioCr15hKPPE",
             "title": "Gas Prices Increase Across The U.S. As Global Demand Grows | NBC Nightly News",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Body Cam Footage Shows Raid On New Mexico Compound | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "IgSuTAE6rYY",
+            "title": "Procession Held For Fallen Officer In South Carolina Shooting | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

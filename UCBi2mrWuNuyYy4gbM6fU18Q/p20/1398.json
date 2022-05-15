@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DvpKoCz0O3M",
-            "title": "Ginger Zee reflects on her 'best' math teacher",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "fPFSozXAjUg",
             "title": "Mom and children rescued from Houston roof",
             "secondDuration": 359,
@@ -121,8 +115,14 @@
             "title": "Texas towns brace for second impact from Harvey",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "KG_TCdNAblc",
+            "title": "Houston resident evacuates to 2-story house with 20 neighbors",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

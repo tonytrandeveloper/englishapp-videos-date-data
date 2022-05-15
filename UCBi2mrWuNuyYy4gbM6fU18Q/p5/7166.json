@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M7LoNS1zDwg",
-            "title": "Mary Lambert Reads a Poem Outside of Stonewall Inn",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkhqw00zZGY",
             "title": "Istanbul Airport Explosion [BREAKING NEWS]",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Boy Takes Joyride, Crashes Into Police Car",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "Uy2NJkBxSAM",
+            "title": "Benghazi Committee Final Report",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

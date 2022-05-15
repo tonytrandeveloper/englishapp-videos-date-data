@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OL_EqWIyHSY",
-            "title": "Watch Dramatic Video From Inside the Eye of Hurricane Harvey | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "FfK_eCY8OqE",
             "title": "Hurricane Harvey: Houston Struck by Tornadoes as Flooding Fears Grow | NBC Nightly News",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "Conor McGregor Prepares For One Of The Most Anticipated Boxing Matches In History | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "0fi8teqrG3c",
+            "title": "Knife Incident In Brussels Believed To Be Terror Attack | NBC Nightly News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

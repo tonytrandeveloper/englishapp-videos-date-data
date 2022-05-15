@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QbA30sxXwu0",
-            "title": "How Scientists Verified One Of Einstein's Most Controversial Theories | Mach | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "mSmMu26GN-k",
             "title": "Donald Trump And Hillary Clinton Aides Tussle Over Campaign At Harvard | NBC News",
             "secondDuration": 496,
@@ -31,8 +25,14 @@
             "title": "President-Elect Donald Trump Takes Victory Lap At Indiana Carrier Plant | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "GTNAMRl7guU",
+            "title": "North Dakota Veterans Asks Former Service Members To Avoid DAPL Protests | NBC News",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

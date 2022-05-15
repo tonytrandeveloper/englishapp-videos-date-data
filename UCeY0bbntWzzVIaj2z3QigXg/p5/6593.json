@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jMJCSqJBNgs",
-            "title": "Florida Governor On Hurricane Hermine: 'This Is Life-Threatening' | NBC News",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "-6FNIdbPGV4",
             "title": "SpaceX Rocket Explodes On Launchpad | NBC News",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: ‘We Will Have Friendships With Other Countries’ | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Migb3hotJQ",
+            "title": "Donald Trump Outlines 10 Point Plan For Immigration Reform | NBC News",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

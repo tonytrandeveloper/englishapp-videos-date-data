@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1rix5ROd-1g",
-            "title": "Texas high school student told to cut dreadlocks | ABC News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "uEIqfLl1VeE",
             "title": "Race to stop spread of coronavirus expands across US  | ABC News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "How prosecutors say drugmaker carried out scheme to sell powerful opioid: Part 1 | Nightline",
             "secondDuration": 572,
             "group": "group_7"
+        },
+        {
+            "videoId": "LTPSfQRgxjo",
+            "title": "Watch LIVE Impeachment Trial of President Donald Trump from US Senate: day three",
+            "secondDuration": 37729,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

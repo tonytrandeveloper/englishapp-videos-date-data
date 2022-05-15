@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z3EaZh1Aopo",
-            "title": "'Making a Murderer' Star Steven Avery Slams Lawyers",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "0GiyCQcGcWk",
             "title": "Simone Biles' Top 4 Ways to Stay Cool Under Olympics Pressure",
             "secondDuration": 340,
@@ -31,8 +25,14 @@
             "title": "Woman Delivers Baby in Hospital Toilet",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vd0CauPpgkY",
+            "title": "Shots Fired During Peaceful Protest in Ferguson",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

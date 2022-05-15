@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iOfZiYM57bM",
-            "title": "A Washington Post report claims President Trump concealed details of talks with Putin",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "C-oWctIwj0s",
             "title": "Jonathan Karl: Mueller report is 'almost certain to be anti-climactic'",
             "secondDuration": 632,
@@ -121,8 +115,14 @@
             "title": "Oregon middle school on lockdown after police shooting",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lex82waof8E",
+            "title": "Briefing Room: Shutdown showdown, Rep. Steve King NY Times fallout, 20/20 election, Justice Ginsburg",
+            "secondDuration": 1356,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

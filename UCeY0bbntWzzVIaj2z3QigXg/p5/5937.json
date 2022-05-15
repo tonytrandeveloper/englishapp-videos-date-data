@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H_eT1wRL4w8",
-            "title": "The Reporter Who Broke The Story Of Donald Trump Campaign Meeting | Megyn Kelly | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "9CTb8gGdhdM",
             "title": "Never-Before-Seen Maps Of Indian Ocean Seafloor From MH370 Search Data | NBC News",
             "secondDuration": 55,
@@ -31,8 +25,14 @@
             "title": "White House Press Briefings Still Dark | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "lphtrdYreeQ",
+            "title": "Link Between Poor Sleep And Increased Dementia Risk, Research Shows | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

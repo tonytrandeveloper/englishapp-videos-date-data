@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cmmiRf15qsk",
-            "title": "Houston Police On Cardiologist Killer: ‘The Suspect’s Deceased' | NBC News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "g-Y3uv-hKxs",
             "title": "Heavy Rain In Virginia Causes Flooding, Possible Dam Failure | NBC News",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "ISIS Claims Responsibility For Death Of American Cyclists Trip Around The World | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "KAzOJ3kNtUY",
+            "title": "Top National Security Warn Russia Still Trying To Interfere With U.S. Elections | NBC Nightly News",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

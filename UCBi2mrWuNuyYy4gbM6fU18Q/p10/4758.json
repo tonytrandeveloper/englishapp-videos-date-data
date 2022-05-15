@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PgcdKZ9tGss",
-            "title": "Severe Spring Weather Across the Midwest",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "RVMi7XiyWVE",
             "title": "Veterans Scandal:  Outrage Over Hospital Accusations",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: TINY HAMSTER EATS TINY PIZZA",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "jpDupdXgquw",
+            "title": "New Donald Sterling Recording: 'I'm Not a Racist'",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

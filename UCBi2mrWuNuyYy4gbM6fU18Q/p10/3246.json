@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9QTnAmE4sKQ",
-            "title": "Aspiring Weatherman Arrested for Starting Forest Fire",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "KZvnghc2fJE",
             "title": "California Deputy Shot Twice in the Head",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Giuliani on Trump Protests: 'Professional Protesters'",
             "secondDuration": 543,
             "group": "group_7"
+        },
+        {
+            "videoId": "t1Yp2XCp3vk",
+            "title": "Trump Softens Obamacare Pledge",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

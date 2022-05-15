@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a9hYAwKMZqI",
-            "title": "A Special Visit With Wounded Warrior Dogs",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "RJMR83UBgMQ",
             "title": "High-Speed Car Chase Caught on Camera",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Vending Machine Creates Custom Oreos",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "yP5ps1FxUPo",
+            "title": "1 Week Away Until Spring",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

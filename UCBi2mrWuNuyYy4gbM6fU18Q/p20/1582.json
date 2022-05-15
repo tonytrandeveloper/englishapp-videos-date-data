@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yyKE8zARpKQ",
-            "title": "Inside Controversial President of the Philippines' Bloody Drug War",
-            "secondDuration": 707,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4Up_J7T8zk",
             "title": "Harvey Weinstein: Worst Advice",
             "secondDuration": 52,
@@ -121,8 +115,14 @@
             "title": "President Obama Believes Russian President Putin Behind DNC Hacked Emails",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "65AkoJwmAos",
+            "title": "Russia's Digital Fingerprints on Election Hacking Code",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

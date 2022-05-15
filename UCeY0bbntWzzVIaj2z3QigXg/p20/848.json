@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uB8fF3YYAeM",
-            "title": "Protester Interrupts Nadler Opening Statement: 'We Voted For Donald Trump!' | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "XMVbZjuad7M",
             "title": "Golden Globe Nominations Announced | NBC News (Live Stream Recording)",
             "secondDuration": 3253,
@@ -121,8 +115,14 @@
             "title": "Trump: 'We Are Very Happy' American Student Was Freed From Iran | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "ifG12X0WEag",
+            "title": "Trump Speaks To Reporters Before Departing For Florida | NBC News (Live Stream Recording)",
+            "secondDuration": 684,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

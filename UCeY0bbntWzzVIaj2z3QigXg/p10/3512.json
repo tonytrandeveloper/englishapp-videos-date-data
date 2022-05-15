@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "InvqnOMz0PQ",
-            "title": "Faces Of The Waco Biker Arrests | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "CjmIkTQNGfM",
             "title": "Takata Recalls Defective Airbags Within 34 Million Vehicles | NBC Nightly News",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "Deaf Jazz Singer Hits All The Right Notes | NBC Nightly News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "89yWi4GcU1c",
+            "title": "The Long History And Rich Tradition Of Cuban Jews | NBC News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

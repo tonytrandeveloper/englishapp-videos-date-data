@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rC7tONNWT6c",
-            "title": "Luke Perry dies from massive stroke at 52",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsTX_c1UDHQ",
             "title": "Prayer service held at Alabama high school in wake of deadly tornado",
             "secondDuration": 69,
@@ -61,8 +55,14 @@
             "title": "Former Colorado Gov. John Hickenlooper joins 2020 presidential field",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "z0_zhteU5ZQ",
+            "title": "New move by Democrats on the Trump investigation",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

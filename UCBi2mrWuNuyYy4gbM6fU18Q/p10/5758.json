@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6Fllw987qq8",
-            "title": "WEBCAST: Happy Independence Day From World News Now!",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "u4FWAIN6-2I",
             "title": "Celebrating 4th of July",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "Iran Threat to Oil Route",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "YZ5jVm206h8",
+            "title": "New Car Sensor Warns Drivers Before Accident",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

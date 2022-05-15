@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I9CtcccKtaI",
-            "title": "Michigan Battles Surge In New Covid Cases | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "pV9L0rypFjg",
             "title": "VA Police Officer Fired After U.S. Army Lt. Pepper-Sprayed During Traffic Stop | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Police Release Bodycam Video Of Daunte Wright Shooting | NBC News NOW",
             "secondDuration": 195,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Ez2Ou2NiB0",
+            "title": "’It Doesn’t Need To Be This Way’: Minnesota Governor Calls For Police Reform | NBC News NOW",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

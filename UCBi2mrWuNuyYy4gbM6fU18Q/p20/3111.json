@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zcz2bCYdUaU",
-            "title": "ABC News' Karen Travers on 'Top Line'",
-            "secondDuration": 555,
-            "group": "group_7"
-        },
-        {
             "videoId": "-xgYXq0Syb0",
             "title": "The New York Times' Jeff Zeleny on 'Top Line'",
             "secondDuration": 249,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Treasures of the Deep",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q610giI0sHg",
+            "title": "Mila Kunis on \"That 70's Show\"",
+            "secondDuration": 281,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

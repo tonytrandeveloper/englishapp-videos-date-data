@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HYq66_Yo2qA",
-            "title": "Danger on Thin Ice: How to Survive Fall Into Icy Water",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "zaDjLNbZD4c",
             "title": "Signs That Flu Epidemic Could Shortly Peak",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "'Gangster Squad' Star Ryan Gosling",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "rj5uNLI2REI",
+            "title": "Kate Middleton's First Royal Portrait Revealed at National Portrait Gallery in London",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HJouwx7ehRQ",
-            "title": "Manhunt Underway for Suspect in Terror Attack on Christmas Market in Germany",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Px90yTppv48",
             "title": "New York City Plans Security for Times Square on New Year's Eve",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Security Is Stepped Up All Across Europe",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "WDFxU5ssJC4",
+            "title": "Fireworks Explosion at Market in Mexico: Death Toll Rises",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

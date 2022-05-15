@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SG8rYN7ykws",
-            "title": "Harvey Weinstein Found Guilty Of Rape | NBC News (Live Stream Recording)",
-            "secondDuration": 9853,
-            "group": "group_7"
-        },
-        {
             "videoId": "CNVa0YqV3P4",
             "title": "Weinstein Taken Into Custody Without Walker After Guilty Verdict | NBC News NOW",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Full Clyburn: 'I Want South Carolina To Have Its Say' In 2020 Democratic Primary | Meet The Press",
             "secondDuration": 444,
             "group": "group_7"
+        },
+        {
+            "videoId": "0BuEV2IzkWA",
+            "title": "Full Panel: Democratic Establishment Fears Sanders Nomination | Meet The Press | NBC News",
+            "secondDuration": 550,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

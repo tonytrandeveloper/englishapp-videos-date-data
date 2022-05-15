@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VPQ1xvlnF58",
-            "title": "New York AG Files Lawsuit To Dissolve NRA For Fraud | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "t0YYNWTWYTw",
             "title": "Ohio Gov. Mike DeWine Contracts Coronavirus As Death Rate Rises | NBC Nightly News",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "California Hospitals Still Struggling With Influx Of Coronavirus Patients | NBC News NOW",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "Eh569ZWjYrE",
+            "title": "Trump Considering Term-Limited Suspension Of Payroll Tax | NBC News NOW",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

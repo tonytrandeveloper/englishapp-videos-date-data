@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tEP_RkTdivI",
-            "title": "Illinois Governor Expected To Announce Stay-At-Home Order | NBC News (Live Stream Recording)",
-            "secondDuration": 3163,
-            "group": "group_7"
-        },
-        {
             "videoId": "_E0I3mtF1BQ",
             "title": "Trump, White House Coronavirus Task Force Holds News Conference | NBC News (Live Stream Recording)",
             "secondDuration": 9852,
@@ -121,8 +115,14 @@
             "title": "How Rural Hospitals Are Preparing For Coronavirus Patients | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XH8OqojDvCA",
+            "title": "Italy Overtakes China In Coronavirus-Related Deaths | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KGB9G3KsN7s",
-            "title": "Republican National Convention: Reince Priebus Opens Hurricane-Shortened Convention",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "QSGCYoQQxsc",
             "title": "Republican National Convention 2012: RNC Convention Communications Director on 'Jam-Packed Schedule'",
             "secondDuration": 432,
@@ -121,8 +115,14 @@
             "title": "What Year Was It?",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "GFt76w03dFo",
+            "title": "Farewell to Jon Banner",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

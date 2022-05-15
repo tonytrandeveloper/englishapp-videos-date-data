@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EO4ohDqtKWE",
-            "title": "Egypt President's Power Grab",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "RoiUshaICK8",
             "title": "Storming the Malls",
             "secondDuration": 160,
@@ -31,8 +25,14 @@
             "title": "Shopping as a Contact Sport",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "LhODGTY2TUw",
+            "title": "Top Tech Gifts to Buy this Holiday Season",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-BEC3HIndsE",
-            "title": "Secret Life: Mom Confesses to Alcoholism",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "q0syKXsLgMA",
             "title": "Who's Responsible for Gulf Oil Spill?",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Laura Bush Addresses Car Crash in Memoir",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "vomkNSluWW4",
+            "title": "The Conversation: iPad Gives Voice to the Autistic",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

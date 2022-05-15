@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9N12fV9gOhs",
-            "title": "Let’s Talk About Gender Dysphoria | Queer 2.0 | NBC Out",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "6XRD1T-YVc8",
             "title": "Donald Trump: I See Parallel Between ‘Brexit’ And U.S. | NBC News",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "How The Pride Rainbow Flag Came To Be | NBC Out | NBC News",
             "secondDuration": 318,
             "group": "group_7"
+        },
+        {
+            "videoId": "xCoXtDaoGbQ",
+            "title": "Representative John Lewis: 'We Will Continue To Fight' For Gun Law Reform | NBC News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

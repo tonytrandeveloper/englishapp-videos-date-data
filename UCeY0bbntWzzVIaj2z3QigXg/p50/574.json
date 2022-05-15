@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "qXl2JmeS9Ss",
-            "title": "LeBron James: Don’t Let President Donald Trump Use Sport To Divide Us | NBC News",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "9izRsmOD6jM",
             "title": "Former President Jimmy Carter Warns Against Provoking North Korea | NBC News",
             "secondDuration": 40,
@@ -301,8 +295,14 @@
             "title": "CVS Pharmacy To Limit Opioid Prescriptions | NBC Nightly News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "xLX2ZWobmeA",
+            "title": "GOP Health Care Bill Cassidy Faces The ‘Jimmy Kimmel Test’ | NBC Nightly News",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

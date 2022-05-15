@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ybKUbJUrB8U",
-            "title": "Where The U.S. Stands In The Fight Against ISIS | NBC Nightly News",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "PwUH4gE2ddc",
             "title": "2 Million At Times Square NYE Celebration Will See Increased Security | NBC Nightly News",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Erica Garner, Activist Daughter Of Eric Garner, Dies At 27 After Heart Attack | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGxp4EuxAW8",
+            "title": "Syria’s Wounded Are Not The Only War Casualties | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

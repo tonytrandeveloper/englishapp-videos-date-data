@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VazX5ORV6FQ",
-            "title": "New Hampshire’s $487 Million Powerball Winner To Donate To Charities | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "9HpEAddV2FQ",
             "title": "Photojournalist Survived Close Call with South Tower Collapse on 9/11 | NBC News",
             "secondDuration": 294,
@@ -31,8 +25,14 @@
             "title": "Paul Wolfowitz Says Saddam Hussein was the Bigger Liar | Meet The Press | NBC News",
             "secondDuration": 540,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugp_QluPos4",
+            "title": "Too Young To Remember: How Kids Comprehend 9/11 | NBC News",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

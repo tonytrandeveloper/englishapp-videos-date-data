@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZJ5L2U6XhY0",
-            "title": "U.S. Ambassador To South Korea Attacked With Razor | NBC Nightly News",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z-V8nW1r3ho",
             "title": "Supreme Court Surprises During Obamacare Arguments | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton's Use of Private Email Draws Scrutiny | NBC Nightly News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "QLZTsmsTmTU",
+            "title": "Netanyahu Blasts Iran Nuclear Deal in Controversial Speech | NBC Nightly News",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

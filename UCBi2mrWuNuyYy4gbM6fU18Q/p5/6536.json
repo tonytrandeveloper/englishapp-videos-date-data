@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9Tc1DJEaFGk",
-            "title": "Hillary Clinton's Campaign Manager Discusses Lead-Up to Election",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "27-QnlBgGa0",
             "title": "Clinton Campaigns with Beyonce, Katy Perry & Other Celebrities",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "Georgia Sheriff Ambushed, Killed Responding to Neighborhood Dispute",
             "secondDuration": 30,
             "group": "group_7"
+        },
+        {
+            "videoId": "x3TZUBMmnek",
+            "title": "Janet Reno Dead at 78 | Remembering the Former US Attorney General",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

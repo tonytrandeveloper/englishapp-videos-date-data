@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YRYWpDAHl-4",
-            "title": "U.S. Supersonic Bomber Leads Attack Drill Over Korean Peninsula | NBC News",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "7DsuUGky52w",
             "title": "Steve Bannon Slams Sen. Jeff Flake, Mitt Romney, And Mitch McConnell In Campaign Speech | NBC News",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "Rep. John Conyers Announces Retirement Amid Sexual Misconduct Allegations | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "noqaqluGBgg",
+            "title": "Russia Barred From 2018 Winter Olympics Over Doping | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

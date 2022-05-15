@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h759Havq2wU",
-            "title": "Michigan Primary Night: Newt Gingrich Re-emerges",
-            "secondDuration": 1263,
-            "group": "group_7"
-        },
-        {
             "videoId": "8xS92g5Jwqo",
             "title": "Ohio School Shooting Suspect: Why'd He Do It?",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Webcast: Cruise Ship Stranded; Live Polar Bear Cam",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouKz1EtkEiM",
+            "title": "Daytona 500 Race: Danica Patrick Crashes",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

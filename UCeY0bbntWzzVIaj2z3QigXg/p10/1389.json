@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nFIt56AV7kU",
-            "title": "Live: Trump Delivers Remarks On Supporting Farmers | NBC News",
-            "secondDuration": 2064,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZmO17RvxNKw",
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4708,
@@ -61,8 +55,14 @@
             "title": "Markets Rebound After Promising COVID-19 Vaccine Trial | NBC News NOW",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "LlbqctgHZnk",
+            "title": "Coronavirus: Nearly Every State Partially Reopens | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

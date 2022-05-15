@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uLKHz4C7iJI",
-            "title": "The Royal Family Goes Down Under",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "kO9_coVa08Y",
             "title": "Oscar Pistorius Trial: Pistorius Explains His Side of the Story",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "'Island of Lemurs' Exposes Threat of Illegal Logging",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "7RDcqC9Mplg",
+            "title": "Hit and Run on the Slopes",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

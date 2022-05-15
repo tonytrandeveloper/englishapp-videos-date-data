@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CP3JqwT115E",
-            "title": "30 Years Searching l 20/20 l PART 3",
-            "secondDuration": 446,
-            "group": "group_7"
-        },
-        {
             "videoId": "QesXWrC2UIg",
             "title": "30 Years Searching l 20/20 l PART 2",
             "secondDuration": 519,
@@ -31,8 +25,14 @@
             "title": "A driver crashed an SUV through a Chicago-area mall",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "Maqw_pF7ZN0",
+            "title": "President Trump deploys additional troops to Saudi Arabia",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

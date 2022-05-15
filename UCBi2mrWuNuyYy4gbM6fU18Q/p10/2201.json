@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ggyyWmdVCDU",
-            "title": "High-end complex in Nairobi under 'attack,' police say",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "6hzh4JxDjOA",
             "title": "'Sully' reunites with passengers 10 years after miracle landing",
             "secondDuration": 262,
@@ -61,8 +55,14 @@
             "title": "Teachers in Los Angeles strike for the first time in 30 years",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "QUSHrHaQ8aU",
+            "title": "Airport security checkpoints close amid shutdown",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

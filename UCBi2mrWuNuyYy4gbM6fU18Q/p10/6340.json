@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ThBLRibJaWU",
-            "title": "Summer Storms Hit the Northeast",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "3gp21JKaOi0",
             "title": "War on Salt",
             "secondDuration": 387,
@@ -61,8 +55,14 @@
             "title": "'Bachelor' Breakup: Jake and Vienna Split",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "BudGHqnzCRw",
+            "title": "Osama Bin Laden Bounty Hunter Comes Home",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

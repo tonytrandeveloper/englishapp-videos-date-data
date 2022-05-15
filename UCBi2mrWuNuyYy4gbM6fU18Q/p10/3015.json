@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6t8E2sRBYB4",
-            "title": "Health care bill makes for critical week at the White House",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "EN4zirgBuaU",
             "title": "New details about the California man who scaled the White House fence",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Prominent federal prosecutor fired after refusing attorney general's request to resign",
             "secondDuration": 211,
             "group": "group_7"
+        },
+        {
+            "videoId": "HlloQUj6AuU",
+            "title": "The Bible and the belt: Inside a camp for gay youth | ABC News",
+            "secondDuration": 495,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

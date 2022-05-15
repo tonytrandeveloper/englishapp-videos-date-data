@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RXHIB4b8unQ",
-            "title": "McCain gets standing ovation when he returns to DC after diagnosis",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_ynBaR875Y",
             "title": "‘Bachelorette’ Rachel Lindsay meets parents of the last three finalists",
             "secondDuration": 1688,
@@ -31,8 +25,14 @@
             "title": "Trump attacks Attorney General Sessions on Twitter",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "m5yPp5maK8s",
+            "title": "Trump lobbies for health care at Boy Scout jamboree",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

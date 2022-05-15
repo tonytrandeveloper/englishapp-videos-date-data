@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N1kGIcxvmVk",
-            "title": "Jogger describes being almost hit by gunfire",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTHvRFlNS_E",
             "title": "Suspect in congressional baseball shooting identified",
             "secondDuration": 88,
@@ -121,8 +115,14 @@
             "title": "Jeff Sessions full testimony on contacts with Russian officials during 2016 campaign",
             "secondDuration": 10081,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ei1yyoEwgU",
+            "title": "Newt Gingrich calls special counsel team 'bad people'",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

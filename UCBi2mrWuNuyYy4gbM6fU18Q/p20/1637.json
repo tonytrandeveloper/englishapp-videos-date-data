@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qqSMNHHq6Pc",
-            "title": "2 NYPD Officers Shot in The Bronx",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8oUgSIUIRvw",
             "title": "Man Proposes Inside Crocodile Enclosure",
             "secondDuration": 94,
@@ -121,8 +115,14 @@
             "title": "Megyn Kelly Details Sexual Harassment by Roger Ailes in New Book, Reportedly",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqqgQff99HQ",
+            "title": "Hillary Clinton Campaigns with Pharrell, Bernie Sanders",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

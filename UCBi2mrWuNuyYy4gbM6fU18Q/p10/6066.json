@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dX0vH6iAhfs",
-            "title": "Betty Ford Dies at Age 93: Wife of Gerald R. Ford and Former First Lady (07.08.11)",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "GFn438K6904",
             "title": "NASA Shuttle Launch: Atlantis Blasts Off From Cape Canaveral",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Casey Anthony",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "hIvctbfcBx8",
+            "title": "Jaycee Dugard Interview: Diane Sawyer Speaks Candidly With Survivor",
+            "secondDuration": 260,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

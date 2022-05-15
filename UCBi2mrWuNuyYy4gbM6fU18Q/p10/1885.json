@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "957rWPqrGa0",
-            "title": "Colts star Andrew Luck stuns with retirement announcement l ABC News",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "sCk4W9M8SiA",
             "title": "Inside the fires as the Amazon continues to burn l ABC News",
             "secondDuration": 172,
@@ -61,8 +55,14 @@
             "title": "'I don't see anyone carrying the voice of reason mantle right now': Cindy McCain",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "NPGFhkgWh5A",
+            "title": "American SuperTanker headed to the Amazon",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

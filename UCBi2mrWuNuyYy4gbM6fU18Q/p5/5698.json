@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z-mCMKhrsvg",
-            "title": "Families speak out about alleged dangers at Mexico resorts",
-            "secondDuration": 330,
-            "group": "group_7"
-        },
-        {
             "videoId": "UC3KpOWDFPk",
             "title": "Authorities roll out new effort to crackdown on road rage",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "Syrian forces battle ISIS for the city of Raqqa",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "PRdMcivMifM",
+            "title": "Suspected driver in human-smuggling case to appear in court",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

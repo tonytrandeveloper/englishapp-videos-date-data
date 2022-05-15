@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "6jVUc_4n6I4",
-            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "-gBgRK_0Prg",
             "title": "'Scandal' Season 3 Behind the Scenes Look",
             "secondDuration": 169,
@@ -301,8 +295,14 @@
             "title": "Breast Cancer Awareness: ABC News Goes Pink",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "dylKU-DtnLs",
+            "title": "Detection Inequality: Disparity Among Breast Cancer Screening Access",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

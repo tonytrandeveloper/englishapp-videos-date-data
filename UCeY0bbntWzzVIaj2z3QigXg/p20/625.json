@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BpH1YQFDdtk",
-            "title": "‘The Timing For This Is Not Right’: Trump Cancels Jacksonville Portion Of RNC | NBC News NOW",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "OGLHiRDoMxk",
             "title": "Trump Holds News Conference At White House | NBC News",
             "secondDuration": 1858,
@@ -121,8 +115,14 @@
             "title": "U.S. Orders China To Close Houston Consulate After COVID-19 Hacking Allegations | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "00d1TL6ksXI",
+            "title": "Trump On Coronavirus Vaccine Deal: ‘We Think We Have A Winner’ | NBC Nightly News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

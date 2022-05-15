@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZgePl3KQNKk",
-            "title": "Doggie Fat Camp Helps Pets Lose Weight",
-            "secondDuration": 166,
-            "group": "group_7"
-        },
-        {
             "videoId": "MR1mMtp8Xuc",
             "title": "Oscar Pistorius Murder Case: Reeva Steenkamp's Parents Speak Out",
             "secondDuration": 79,
@@ -121,8 +115,14 @@
             "title": "'Invisible War' Shines Light on Rape in the Military",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8p8GSQRtBI",
+            "title": "Robin Roberts' Journey: A New Life",
+            "secondDuration": 477,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

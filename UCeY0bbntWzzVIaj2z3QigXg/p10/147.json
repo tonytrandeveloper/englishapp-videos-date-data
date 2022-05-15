@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qev7qzJLjkQ",
-            "title": "Blinken Cancels Planned Meeting With Russian FM Lavrov On Thursday",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "uOVUVLXDJhc",
             "title": "Aerials Show Downed Utah Black Hawk Helicopters After Crash During Training Exercise",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Morning News NOW Full Broadcast - Feb. 22",
             "secondDuration": 2995,
             "group": "group_7"
+        },
+        {
+            "videoId": "ENBIuFZ2DiY",
+            "title": "Closing Arguments Begin In Federal Trial Of Ex-Officers Charged In Floyd Killing",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

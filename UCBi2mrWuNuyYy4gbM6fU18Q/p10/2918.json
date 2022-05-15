@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FUsYRcaBNDM",
-            "title": "Scary incident on board a passenger plane right after takeoff from Melbourne, Australia",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "2M4Q1pSc_5o",
             "title": "Trump is promising a decision on the Paris climate agreement very soon",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Portland stabbing suspect Jeremy Christian appears in court",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "uGAkT-_j0RE",
+            "title": "6-year-old gears up to compete in national spelling bee contest",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

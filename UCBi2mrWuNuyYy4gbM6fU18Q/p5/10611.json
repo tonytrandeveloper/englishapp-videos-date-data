@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M0gGEavkPig",
-            "title": "'This Week' Looks at Medal of Honor Ceremony: Honoring Clinton Romesha",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UCLwTLgOXg",
             "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Newt Gingrich During 'This Week' Roundtable: 'This is such Washington nonsense'",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "E6ODzKk2-4o",
+            "title": "Sports Illustrated Swimsuit Issue Controversy",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

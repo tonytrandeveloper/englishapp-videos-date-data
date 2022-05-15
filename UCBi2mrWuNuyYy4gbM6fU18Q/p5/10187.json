@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oaCGIxHXq94",
-            "title": "Sens. Saxby Chambliss and Dick Durbin 'This Week' Interview",
-            "secondDuration": 393,
-            "group": "group_7"
-        },
-        {
             "videoId": "QXdYfKlwOds",
             "title": "Summer of Scandal: 'This Week' Roundtable",
             "secondDuration": 434,
@@ -31,8 +25,14 @@
             "title": "Glenn Greenwald 'This Week' Interview",
             "secondDuration": 263,
             "group": "group_7"
+        },
+        {
+            "videoId": "yEy3Lw72J0g",
+            "title": "'This Week' on Baseball's Black Eye",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

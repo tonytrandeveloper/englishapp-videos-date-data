@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lUxTV7gt7eM",
-            "title": "SpaceX Crew-3 Astronauts Welcomed To ISS",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "5KbEZgxHK2k",
             "title": "Top Story with Tom Llamas - Nov. 11 | NBC News NOW",
             "secondDuration": 3039,
@@ -31,8 +25,14 @@
             "title": "Inside the U.S. Base in Djibouti As Military Race with China Escalates",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "q2yUdPgYYrU",
+            "title": "What Would It Take To Bring Down Soaring Gas And Energy Costs?",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

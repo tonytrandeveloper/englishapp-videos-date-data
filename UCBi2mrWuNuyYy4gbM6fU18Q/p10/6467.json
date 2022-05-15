@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S3JCIosrxew",
-            "title": "U.S. Security Officials on Alert",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "t0gwxSMhXXA",
             "title": "Conan's Last \"Tonight Show\"",
             "secondDuration": 115,
@@ -61,8 +55,14 @@
             "title": "Obama Calls for Limits on Banks",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "4THBt5r0cWM",
+            "title": "Mass Exodus of Haiti Quake Victims",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p3WmDPP7ZwY",
-            "title": "Authorities Release Training Videos on 'How to Spot Terror'",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "KMbVKtlMen0",
             "title": "Watch Out, Your Laptop Could Burn You",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "The Future of Television",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "l1e3JONn5X0",
+            "title": "Securing America",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

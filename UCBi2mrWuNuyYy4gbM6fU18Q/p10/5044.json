@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wsX6tsSSVH0",
-            "title": "Arsenic in Rice Poses Potential Health Concern",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "nAycPLFryMI",
             "title": "Fake Rental Listings: How To Protect Yourself",
             "secondDuration": 555,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Bouncing Snow Monkey",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZD9lG8ATxt0",
+            "title": "In Case You Missed It: 9/6/2013",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

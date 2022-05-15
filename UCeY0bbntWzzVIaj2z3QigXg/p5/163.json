@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Zo9bl8DMFfc",
-            "title": "DNA Helps Identify Killer In 1988 Murder Of San Diego Mom",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "AOCHc5FLT1Y",
             "title": "'World's Wost Powerful Rocket' Rolls To Launch Pad",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Zelenskyy Says Some Captured Russian Troops ‘Refuse To Go Back To Russia’",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "NLiOoAcfGEQ",
+            "title": "Iowa Trans Athlete Speaks Out Against New Law: 'All We Want Is Just To Be Included'",
+            "secondDuration": 258,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8ZMFf4Hd3L0",
-            "title": "City on edge after 3 mysterious bombings in less than 2",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "j5hwqF6jDL4",
             "title": "Show explores the world beneath the ocean's surface",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Trump tries to rally supporters on North Korea meeting",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "oK7samrHJlI",
+            "title": "O.J. Simpson discusses murders in newly released interview",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

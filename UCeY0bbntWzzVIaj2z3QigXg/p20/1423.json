@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZatVk94JZrI",
-            "title": "Solomeo, Italy: Where the King of Cashmere Rules with a Gentle Hand | Think | NBC News",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "21p-u04TUT0",
             "title": "Aerial Video Shows Widespread California Wildfires | NBC News",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "Las Vegas Shooting: Survivors Struggle To Finance Recovery Costs | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "drYXRxKoGi8",
+            "title": "Rohingya Muslim Refugees Flee Ethnic Cleansing In Myanmar | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

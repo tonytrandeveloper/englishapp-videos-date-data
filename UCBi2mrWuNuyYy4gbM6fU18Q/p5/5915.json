@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I8SFQvlLaOU",
-            "title": "'Let It Fall' doc offers searing look at LA riots from those who lived through it | ABC News",
-            "secondDuration": 507,
-            "group": "group_7"
-        },
-        {
             "videoId": "GiCtCkfeOuc",
             "title": "Pentagon investigates Michael Flynn's 24 days as national security adviser",
             "secondDuration": 223,
@@ -31,8 +25,14 @@
             "title": "IRS phone scammers have made millions of dollars making threatening calls to taxpayers",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "1NAGuR3oJdE",
+            "title": "Police head off suspected terror attack near Parliament in London",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

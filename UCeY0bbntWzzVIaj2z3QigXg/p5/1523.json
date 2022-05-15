@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ABANpWheoMc",
-            "title": "Morning News NOW Full Broadcast - April 23 | NBC News NOW",
-            "secondDuration": 2597,
-            "group": "group_7"
-        },
-        {
             "videoId": "PY4C_x_TjIs",
             "title": "White House Holds Press Briefing: April 23 | NBC News",
             "secondDuration": 3788,
@@ -31,8 +25,14 @@
             "title": "SpaceX Sends 4 Astronauts Into Space In Reused Rocket | NBC News NOW",
             "secondDuration": 333,
             "group": "group_7"
+        },
+        {
+            "videoId": "F-hPhiFJt4o",
+            "title": "New York City Artist Crafts Campaign Against Anti-Asian Hate | NBC News NOW",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

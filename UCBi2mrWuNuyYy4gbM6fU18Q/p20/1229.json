@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5EMkd3TV7ug",
-            "title": "President Trump meets with Kim Jong Un to commit to denuclearization",
-            "secondDuration": 480,
-            "group": "group_7"
-        },
-        {
             "videoId": "xY5b7uKp2Dg",
             "title": "Future challenges remain to verify agreements with North Korea",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "Unprecedented security for Trump, Kim summit",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "RMTSnsCDbLo",
+            "title": "Only two options on North Korea, 'peace or war': Sen. Lindsey Graham",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

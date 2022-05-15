@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iQj6gaM36R0",
-            "title": "World in Photos, June 18: 'Strawberry Moon', Toronto Raptors and a baby monkey",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "j-cWZ9PIYR8",
             "title": "The Briefing Room: Trump's 2020 campaign kickoff, Iran tensions, China tariffs | ABC News",
             "secondDuration": 1680,
@@ -61,8 +55,14 @@
             "title": "Trump set to kick off re-election campaign in Florida",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "IG7h1jKUVZE",
+            "title": "Pentagon to send 1,000 troops to Middle East",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

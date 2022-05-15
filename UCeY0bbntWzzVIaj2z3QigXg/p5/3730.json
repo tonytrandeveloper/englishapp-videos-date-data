@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lWOtffgxdKc",
-            "title": "Extended Interview: Kate del Castillo | NBC Nightly News",
-            "secondDuration": 714,
-            "group": "group_7"
-        },
-        {
             "videoId": "vr-Hof4kw7U",
             "title": "Actress Kate del Castillo Talks Her Passion Project And El Chapo Ordeal | NBC Nightly News",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Police Thwart Mass Shooting Threats In Ohio And Florida | NBC Nightly News",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "mo7HQzvYsz4",
+            "title": "American Support For Free Trade Rises After Trump Tariff Fights | Meet The Press | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

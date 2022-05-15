@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hGBHgLxFUiA",
-            "title": "Government shutdown cost $11 billion to economy",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "S23AAhY_s1Y",
             "title": "Police shootout leaving 3 officers injured and suspect dead",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Government shutdown cost $8 billion in first quarter of 2019",
             "secondDuration": 942,
             "group": "group_7"
+        },
+        {
+            "videoId": "T3JX_vPq9Pk",
+            "title": "White House press briefing with Sarah Sanders | ABC News",
+            "secondDuration": 3052,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

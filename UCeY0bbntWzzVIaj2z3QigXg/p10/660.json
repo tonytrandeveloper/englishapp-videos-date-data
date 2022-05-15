@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rUw39LbLGSg",
-            "title": "Nightly News Full Broadcast (June 13th)",
-            "secondDuration": 1157,
-            "group": "group_7"
-        },
-        {
             "videoId": "x4CQBL8ZhK0",
             "title": "Record Breaking Heat Wave And Drought in Western U.S.",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Minnesota’s First Critically Ill Covid Patient Completes Ironman",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "R48gm7LiT2c",
+            "title": "Common Colds Are Back As People Start To Gather",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

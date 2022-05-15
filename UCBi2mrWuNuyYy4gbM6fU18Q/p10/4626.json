@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lr-GdfGmivs",
-            "title": "Garden Gnome's Mysterious Cross-Country Journey",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXYzTHdNLMU",
             "title": "Real Estate Wars:  Chasing the Dream Home",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Rachael Ray Cooks Up a Delicious Taco Dinner",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "CBTjh5Z4neE",
+            "title": "Jamie Foxx and Quvenzhane Wallis Surprise School Kids",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

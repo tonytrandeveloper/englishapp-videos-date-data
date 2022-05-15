@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "I1pghPEhx50",
-            "title": "Texas Tribune Festival: One-on-One with Gary Cohn | NBC News",
-            "secondDuration": 2016,
-            "group": "group_7"
-        },
-        {
             "videoId": "U7XDC4Cyu4s",
             "title": "Biden Urges GOP To ‘Do The Right Thing’ On Filling SCOTUS Seat After Election | NBC News NOW",
             "secondDuration": 278,
@@ -31,8 +25,14 @@
             "title": "Watch NBC News NOW Live - September 23",
             "secondDuration": 42901,
             "group": "group_7"
+        },
+        {
+            "videoId": "8nYN8ro63aE",
+            "title": "Live: Justice Ruth Bader Ginsburg Lies In Repose At Supreme Court | NBC News",
+            "secondDuration": 42902,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

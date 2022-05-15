@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nD9cWJKB05U",
-            "title": "Lance Armstrong Breaks Down: Question Pushes Cyclist to Brink",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ayBBla3eBD0",
             "title": "Notre Dame Football Player Manti Te'o Speaks Out",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Flu Outbreak Update, Latest on Nationwide Spread",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "R9S6noxMOSM",
+            "title": "Cyclist Lance Armstrong: Bombshell Confession",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

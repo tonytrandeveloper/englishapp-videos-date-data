@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TQozs9O-l-c",
-            "title": "Nightly News Full Broadcast - Jan. 29",
-            "secondDuration": 1177,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-vxW7rKLec",
             "title": "Ukraine Braces For Possible Invasion As Russia Adds Military Force",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Civilian Dive Team Solves Two-Year Missing Person Case",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "5WdoTHg9hAc",
+            "title": "Gun Deliveries Stolen Off Train Cars In Los Angeles",
+            "secondDuration": 254,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

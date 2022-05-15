@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "96jSV4i2LEU",
-            "title": "Republicans Face off at Las Vegas GOP Presidential Debate | ABC News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "2mmaAsv4lB0",
             "title": "Netflix Premieres ‘House of Cards’  Season 4 Trailer | ABC News",
             "secondDuration": 270,
@@ -301,8 +295,14 @@
             "title": "Index: $10 Million Diamond Heist",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "hiXA-0aCshk",
+            "title": "‘GMA’ Hot List:  Lupita Nyong’o Discusses Her ‘Star Wars’ Character | ABC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

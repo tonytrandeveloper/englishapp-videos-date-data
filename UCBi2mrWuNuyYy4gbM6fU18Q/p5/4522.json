@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oVtKoapv3Ow",
-            "title": "3 shot at Alabama mall",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "RlePAEkJsVc",
             "title": "Trump threatens Mexico: 'We will close' the whole US border",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Family heartbroken after concrete crashes through car, killing driver",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "iPaRyG5rQ18",
+            "title": "Supreme Court justice fires back at Trump for 'Obama judge' comment",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

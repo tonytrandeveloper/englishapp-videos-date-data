@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "coPpB3fnitY",
-            "title": "Matchmaker, Matchmaker Make Me a Match",
-            "secondDuration": 743,
-            "group": "group_7"
-        },
-        {
             "videoId": "UmSpJcZYXro",
             "title": "Fall Is for Football",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Ivanka Trump's Advice for Women",
             "secondDuration": 300,
             "group": "group_7"
+        },
+        {
+            "videoId": "it1SiI6vnbo",
+            "title": "Fight of their Lives",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

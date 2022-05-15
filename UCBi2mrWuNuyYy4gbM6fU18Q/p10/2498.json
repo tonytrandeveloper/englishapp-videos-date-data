@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RjJAu5H-ZnU",
-            "title": "Voters in 4 states go to the polls in high-stakes primaries",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "g9611wBHNto",
             "title": "NY attorney general to resign after abuse report",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Blankenship: I'm 'probably the most honest person that ever ran for office'",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "QbsLUGapBh0",
+            "title": "University head reached out to students after graduation incident",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

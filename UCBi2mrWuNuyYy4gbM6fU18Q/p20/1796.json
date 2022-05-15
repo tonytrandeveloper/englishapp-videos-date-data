@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gWhrrdDDfQw",
-            "title": "Shot Pennsylvania Officer's Call for Help",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ok068orJXbI",
             "title": "Homeless Grumpy Cat Adopted by Home Inspector",
             "secondDuration": 28,
@@ -121,8 +115,14 @@
             "title": "Gunman Takes Hostages at German Movie Theater",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "UtW68jOKwtI",
+            "title": "Freddie Gray Trial | Officer Found Not Guilty",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

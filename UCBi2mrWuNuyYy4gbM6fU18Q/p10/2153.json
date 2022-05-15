@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QcDgyIK9tVw",
-            "title": "Mark Harris calls for new election in North Carolina amid voter fraud investigation",
-            "secondDuration": 1112,
-            "group": "group_7"
-        },
-        {
             "videoId": "caKz0g-fwfY",
             "title": "Russia investigation timeline | ABC News",
             "secondDuration": 616,
@@ -61,8 +55,14 @@
             "title": "'Empire' actor Jussie Smollett taken into custody by Chicago police",
             "secondDuration": 508,
             "group": "group_7"
+        },
+        {
+            "videoId": "_6COzWi5pfY",
+            "title": "Coast Guard lieutenant accused of plotting terror attack",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

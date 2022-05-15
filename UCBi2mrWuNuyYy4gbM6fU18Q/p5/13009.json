@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dSZNnz9SM4g",
-            "title": "Howie Mandel Talks About Living With OCD | 20/20 | ABC News",
-            "secondDuration": 547,
-            "group": "group_7"
-        },
-        {
             "videoId": "hub7eUn1lZs",
             "title": "Search for Thanksgiving Killer in Florida",
             "secondDuration": 359,
@@ -31,8 +25,14 @@
             "title": "Tiger Woods in Car Crash",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "4kgXQ822xCo",
+            "title": "The Black Friday CEO Face-Off",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

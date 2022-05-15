@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5kWyV7lNbaU",
-            "title": "Expectations of the Obama Administration",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "VcYbObyJe0A",
             "title": "Target Libya: Collateral Damage",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Lindsay Lohan Takes her Chances in Court",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "rLc10pwHxFg",
+            "title": "Michelle Bachmann Running for 2012 Presidential Election?",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

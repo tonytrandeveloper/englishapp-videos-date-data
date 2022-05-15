@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XFwe9C-t6-w",
-            "title": "Trump Hints at Rollback of Dodd-Frank Financial Regulations",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "ydG8pyAafXk",
             "title": "Arnold Schwarzenegger Fires Back at President Trump",
             "secondDuration": 285,
@@ -61,8 +55,14 @@
             "title": "Kellyanne Conway Cites 'Bowling Green Massacre' Defending Travel Ban | ABC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "V9SvHCQWyFI",
+            "title": "Milo Yiannopoulos Speech Cancellation Sparks Free Speech Questions",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hw03x6mNyrc",
-            "title": "America's Money: Late Card Payments; Travel Spending; Super-Rich",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "99eY4eurIFs",
             "title": "The Pulse: Texas Dust Storm; Blue Whale Kayaker; Smart Horse",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Dan Wheldon, Indy 500 Winner, Dies; Crash Video Shows Multiple Cars on Fire",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "H-WUDDQuug8",
+            "title": "Dog Pushes Cat in Baby Stroller, Rides Lawn-mower, Scooter: Caught on Tape",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

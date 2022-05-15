@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6soanMR4yWc",
-            "title": "Donald Trump's Latest Rant on Twitter Goes Nuclear",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "dN9PvWEZyLA",
             "title": "Passenger Removed from Flight After Allegedly Harassing Ivanka Trump",
             "secondDuration": 446,
@@ -31,8 +25,14 @@
             "title": "Holiday Travel Troubles During One of the Busiest Travel Times of the Year",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "DAbeXknfvQ4",
+            "title": "Ikea Tentatively Agrees to Pay $50M in Deaths of 3 Toddlers",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

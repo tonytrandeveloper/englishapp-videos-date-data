@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eN7sZ_nLEmk",
-            "title": "Dangerous Wildfires Burn Thousands of Acres in Oklahoma",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "SeLDiXAwxvY",
             "title": "Deep Dive on Global Terror Hot Spots",
             "secondDuration": 424,
@@ -31,8 +25,14 @@
             "title": "Terror Flashpoint: Raids Sweep Europe",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9_EBcn32tY",
+            "title": "Terror Flashpoint: How to Stop Radicalization",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "R8mJPX3pSF8",
-            "title": "Watch: St. Vincent's Volcano Deposits Thick Ash Over 110 Miles Away | NBC News NOW",
-            "secondDuration": 63,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Zpw6OS467g",
             "title": "Angry Protests Follow Fatal Shooting Of Black Man Near Minneapolis | NBC News NOW",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Congressman Opens Up About Post-Traumatic Stress After Jan. 6 Insurrection | NBC Nightly News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "YafMcXA_hKM",
+            "title": "Record-Breaking 4.6 Million Vaccine Doses Administered on Saturday | NBC Nightly News",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

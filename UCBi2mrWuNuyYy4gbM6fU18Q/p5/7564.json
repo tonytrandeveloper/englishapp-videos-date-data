@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2H76Fr_hs-0",
-            "title": "Will Smith, Former Saints Player, Shot and Killed in New Orleans",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "QyXtapY6194",
             "title": "Andy Warhol Masterpiece Stolen From Missouri Museum",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Young Woman Gets Accepted to All 8 Ivy League Schools",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "n8K2hY_fxL8",
+            "title": "Clinton, Sanders Fighting It Out for New York Votes",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

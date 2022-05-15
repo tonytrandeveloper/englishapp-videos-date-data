@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Cy8rdzqBtZ0",
-            "title": "Trump-backed candidate loses Alabama GOP primary",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "aJbnTPGWqgk",
             "title": "Growing up Democrat in a red state, Republican in a blue state | ABC News",
             "secondDuration": 434,
@@ -121,8 +115,14 @@
             "title": "An Inconvenient Border: Where China Meets North Korea | ABC News",
             "secondDuration": 2355,
             "group": "group_7"
+        },
+        {
+            "videoId": "V7Ug8gdIEcQ",
+            "title": "Athletes defend NFL protests amidst Trump's condemnations",
+            "secondDuration": 543,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

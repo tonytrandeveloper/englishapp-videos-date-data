@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "koRttfSCgQ0",
-            "title": "Live: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2081,
-            "group": "group_7"
-        },
-        {
             "videoId": "nQMXx6iO83Q",
             "title": "Four Former Trump Aides Subpoenaed in Jan. 6 Capitol Riot Investigation",
             "secondDuration": 322,
@@ -301,8 +295,14 @@
             "title": "White House Holds Press Briefing: September 22 | NBC News",
             "secondDuration": 3105,
             "group": "group_7"
+        },
+        {
+            "videoId": "HAWtrBScX38",
+            "title": "This Morning’s Top Headlines – June 23 | Morning News NOW",
+            "secondDuration": 1491,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

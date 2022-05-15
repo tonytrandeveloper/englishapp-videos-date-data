@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EzH4wRmy-b8",
-            "title": "Hugh Grant Opens Up",
-            "secondDuration": 441,
-            "group": "group_7"
-        },
-        {
             "videoId": "_iCxeXP6Rl8",
             "title": "Singing with Hugh Grant",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Robert Downey Jr. Is Sherlock Holmes",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "tyBuNina-_U",
+            "title": "Roll of the Dice",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4168aJbyKmw",
-            "title": "Minute-By-Minute Breakdown Of Deadly Astroworld Concert",
-            "secondDuration": 352,
-            "group": "group_7"
-        },
-        {
             "videoId": "CAYuV_vglXU",
             "title": "Meet The Midterms | Meet The Press Reports",
             "secondDuration": 1645,
@@ -61,8 +55,14 @@
             "title": "St. Louis Man Arrested In Connection To At Least 6 Fatal Shootings",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "OJdEZcDy2LY",
+            "title": "Trial In Death Of Ahmaud Arbery Enters Day 2 Of Testimony",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

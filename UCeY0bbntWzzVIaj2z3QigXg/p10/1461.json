@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W8NkiGerjKs",
-            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "mz-aep91l8U",
             "title": "Life Inside Germany As National Lockdown Is Extended | NBC News NOW",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Trump Receives International Backlash For Defunding WHO | NBC News NOW",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "wgTvz9mmpjg",
+            "title": "Tom Colicchio & Dominique Crenn Talk Recovery Strategies For Hospitality & Food | NBC News Now",
+            "secondDuration": 533,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

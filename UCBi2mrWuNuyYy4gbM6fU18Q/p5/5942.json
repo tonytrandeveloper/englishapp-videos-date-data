@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hY3AhwhIFmo",
-            "title": "One-on-One with Lt. Gen. Thomas Bergeson",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "xWqYTKsr43I",
             "title": "'Fight Tonight': Rare look at US defense against North Korea",
             "secondDuration": 379,
@@ -31,8 +25,14 @@
             "title": "VP Mike Pence heads to South Korea after failed North Korean missile launch",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "rOMPYFT7nws",
+            "title": "Massachusetts police arrest suspect in murder of jogger",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

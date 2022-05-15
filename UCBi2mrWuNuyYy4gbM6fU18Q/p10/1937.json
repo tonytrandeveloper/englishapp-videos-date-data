@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w5AM31JB5CY",
-            "title": "Puerto Rico governor may resign amid massive protests",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "oOlF8qpwvt4",
             "title": "Trump attacks Robert Mueller ahead of testimony",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Ole Miss student charged in business school classmate's slaying",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "KTz-HC2tsLE",
+            "title": "Trump's defense secretary pick Mark Esper swearing-in ceremony | ABC News",
+            "secondDuration": 336,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

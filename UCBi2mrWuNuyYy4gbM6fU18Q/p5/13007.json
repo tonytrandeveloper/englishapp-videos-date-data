@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cI0NGC-YpJQ",
-            "title": "Alleged Cop Killer Maurice Clemmons Killed",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "QdUMsI_qDdI",
             "title": "'Tis the Season to Be Tweeting, Saving",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Weekend Window to Sonoma Wine Country",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "embZCevKmaw",
+            "title": "Health Care Debate",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

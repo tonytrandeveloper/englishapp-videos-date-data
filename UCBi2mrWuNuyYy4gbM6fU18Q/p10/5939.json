@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d8FHgIC-Rbk",
-            "title": "The Great 'GMA' Gingerbread Competition",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_mNNDT5DJM",
             "title": "Prince Philip Rushed to the Hospital",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Christmas 2011 Polka",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "UgMdhvTAv50",
+            "title": "Favorite Holiday Movies",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

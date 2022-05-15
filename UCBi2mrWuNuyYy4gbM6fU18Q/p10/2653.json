@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fLZq0RaaFVk",
-            "title": "Apple apologizes for slowing down older iPhone models",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "x06H5R8XtoI",
             "title": "Family sues Alaska Airlines, contractor for escalator fall",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Corey Lewandowski responds to sexual assault charges",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "3RfT4fsiOM0",
+            "title": "Record snow, cold create arctic-like scenes",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

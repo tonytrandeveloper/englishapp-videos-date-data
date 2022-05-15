@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ytsx6GHL3Jo",
-            "title": "Donald Trump Delivers 'Super Saturday' Remarks",
-            "secondDuration": 1814,
-            "group": "group_7"
-        },
-        {
             "videoId": "Plb-m8Pb_9A",
             "title": "John Kasich Delivers Remarks on 'Super Saturday'",
             "secondDuration": 2113,
@@ -31,8 +25,14 @@
             "title": "OJ Simpson Frenzy Back After Shocking Discovery",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "X17PI2GsQRQ",
+            "title": "FBI Closing In on Gold Thieves",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

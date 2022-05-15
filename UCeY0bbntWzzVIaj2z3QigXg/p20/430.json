@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uhh1Bw24XI8",
-            "title": "NBC News Exclusive: Jacob Soboroff Interviews Homeland Security Sec. Alejandro Mayorkas | NBC News",
-            "secondDuration": 1166,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8xM95kyHws",
             "title": "Covid Long-Haulers Desperate To Find Treatment | NBC News NOW",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Watch: Astronauts Spacewalk Outside ISS | NBC News",
             "secondDuration": 8140,
             "group": "group_7"
+        },
+        {
+            "videoId": "OIAE_skmm_0",
+            "title": "Inside Look At Street Crisis Team In SF Making Strides Toward Police Reform | NBC News NOW",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VWYpViL-30A",
-            "title": "A Legislative Card Trick",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "HsMBpWqbci0",
             "title": "Corey Haim's Mom Calls 911",
             "secondDuration": 351,
@@ -61,8 +55,14 @@
             "title": "Four Legged Diplomacy",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "2euR1PZcSGY",
+            "title": "America's Backbone",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

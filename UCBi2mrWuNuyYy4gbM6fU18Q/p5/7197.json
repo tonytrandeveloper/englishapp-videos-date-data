@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rYimk6I6fLY",
-            "title": "Bear Attacks Marathon Runner",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "fw826uPacWw",
             "title": "Donald Trump, Jr. Discusses Father's Campaign Changes",
             "secondDuration": 264,
@@ -31,8 +25,14 @@
             "title": "The Bachelorette Season 12 Episode 6 Recap",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "SJQupmJWBS4",
+            "title": "Christo's The Floating Piers Allows Visitors to Walk on Water",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

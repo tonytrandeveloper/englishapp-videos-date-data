@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sx0znddY6tk",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Feb. 2 | NBC News NOW",
-            "secondDuration": 3012,
-            "group": "group_7"
-        },
-        {
             "videoId": "Lh8hUVAF8TA",
             "title": "Biden Administration Wants Families Separated At Border To Stay In The U.S.",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Major Winter Storm Hits Millions",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "onTmo1CLemc",
+            "title": "Rikers Island: People Living In ‘Inhumane Conditions’",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

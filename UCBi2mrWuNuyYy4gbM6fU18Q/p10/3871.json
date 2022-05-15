@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZZzNDOS2ygU",
-            "title": "Tina Fey Bashes Oscars, Lady Gaga, & Hollywood",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGrWzSDrdYc",
             "title": "Hulk Hogan Sues Gawker Over Sex Tape",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Eating Leftovers To Save The Planet | ABC News",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "-ygZCop5DXU",
+            "title": "Cooking In The Nude | ABC News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

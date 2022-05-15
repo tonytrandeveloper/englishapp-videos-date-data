@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xsecsyEsIg0",
-            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2527,
-            "group": "group_7"
-        },
-        {
             "videoId": "7mhReEeA0U0",
             "title": "European Residents Receive Covid Vaccine | NBC Nightly News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "Leading A Divided Country: Joe Biden's Approach To Unity | Meet The Press | NBC News",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "x1Kyb_OFXLk",
+            "title": "Federal Agents Search Home In Connection with Nashville Explosion | NBC Nightly News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

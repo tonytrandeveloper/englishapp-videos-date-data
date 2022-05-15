@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X5vQGbWiuAo",
-            "title": "Rob Nelson Farewell: Career Evolution",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "iBTfCdCMUVE",
             "title": "Rob Nelson Farewell: News Headlines",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Elephant Dung Coffee: Smooth, Rich, Expensive",
             "secondDuration": 260,
             "group": "group_7"
+        },
+        {
+            "videoId": "V6G4VlZthxQ",
+            "title": "Steubenville Rape Trial: Inside the Scandal",
+            "secondDuration": 374,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

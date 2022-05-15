@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3J6Tz1Jn1g8",
-            "title": "Video shows officers in tug-of-war with mother over baby",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "Trx7Wh-SuxU",
             "title": "Family pleads for missing Colorado mother to come home",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Congress reacts to memos implicating Trump in federal crime",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "MR6mgnFHkeg",
+            "title": "Search for missing Colorado woman intensifies",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

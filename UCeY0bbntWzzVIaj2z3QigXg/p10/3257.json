@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dE57GTZ8_vk",
-            "title": "Mike Pence Responds To Donald Trump's 'Shackles Off' Tweet | NBC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hy2CNvhmKNQ",
             "title": "Donald Trump Tells Supporters He'll Be 'Very Angry' If They Don't Vote For Him | NBC News",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton: Donald Trump’s ‘Locker Room Banter’ A ‘Weak Excuse For Behaving Badly’ | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "_1M-7uLzpJ0",
+            "title": "#MuslimsReportStuff Is The Post-Debate Hashtag To Follow | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kA7Zy_Xf2Do",
-            "title": "'Impacts of climate change are intensifying': Government report",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "zeJowbICjbI",
             "title": "Bus carrying college marching band overturns on icy interstate",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "Authorities work to recover American missionary's body from remote island",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "XbMv67ksWak",
+            "title": "Trump threatens to close US-Mexico border, says troops can use lethal force",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

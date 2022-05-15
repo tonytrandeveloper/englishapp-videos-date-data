@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jsBR--kB2VU",
-            "title": "Kherson, Ukraine Offers Glimpse Into Russian Occupation",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "tM3XPI4mhPE",
             "title": "Jussie Smollett's Outburst In Court: ‘I Am Innocent And I Am Not Suicidal!'",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Texas Flagged 27,000 Mail Ballots For Rejection During Primary",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "FVNu-uF5_SU",
+            "title": "Biden Designates Colombia As 'Major Non-NATO Ally' In Bilateral Meeting",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

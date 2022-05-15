@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MkiRm18LuQI",
-            "title": "President Donald Trump Speaks At ‘Keep America Great’ Rally In Texas | NBC News",
-            "secondDuration": 8788,
-            "group": "group_7"
-        },
-        {
             "videoId": "sDHe8uzKFu0",
             "title": "President Donald Trump Speaks At Louis Vuitton Workshop Ribbon Cutting Ceremony | NBC News",
             "secondDuration": 5238,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Calls Ceasefire Agreement With Turkey 'An Amazing Outcome' | NBC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "48c1PPKnCo8",
+            "title": "Zuckerberg: It's Not Right 'For Private Companies To Censor Politicians' | NBC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

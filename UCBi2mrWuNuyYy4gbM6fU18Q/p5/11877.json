@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d8FHgIC-Rbk",
-            "title": "The Great 'GMA' Gingerbread Competition",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "q_mNNDT5DJM",
             "title": "Prince Philip Rushed to the Hospital",
             "secondDuration": 169,
@@ -31,8 +25,14 @@
             "title": "Iraq War Mom Surprises Sons at Mall",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "MAOFrGizmH0",
+            "title": "Man Awakens From Coma After 2 Months",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

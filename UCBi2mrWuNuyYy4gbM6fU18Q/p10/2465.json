@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LajUMVn7xF8",
-            "title": "Fashion designer Kate Spade found dead by housekeeper: Police",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "0J2hlc-l5fA",
             "title": "Death toll on the rise in Guatemala as volcanic eruptions continue",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Supreme Court says baker OK to refuse gay wedding cake",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "yysZgRF14JE",
+            "title": "Desperate search for survivors in Guatemala eruption",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

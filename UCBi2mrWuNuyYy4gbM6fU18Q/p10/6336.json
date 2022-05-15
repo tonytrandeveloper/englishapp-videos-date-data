@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oSyTXNxL6kc",
-            "title": "The Conversation: LeBron James, Free Agent",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "CtyuUCMVuQU",
             "title": "Wonder Woman Gets a Makeover",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Karen Elson: \"The Ghost Who Walks\"",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "yDbocZ438f0",
+            "title": "Obesity in America",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

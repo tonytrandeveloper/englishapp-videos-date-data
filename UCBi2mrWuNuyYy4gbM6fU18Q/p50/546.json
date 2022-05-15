@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MrvEact-ilM",
-            "title": "Authorities searching for killer terrorizing a Tampa Bay neighborhood",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "RB3mQ6ex_ho",
             "title": "Kate del Castillo shares her side of what happened during 'El Chapo' meeting",
             "secondDuration": 440,
@@ -301,8 +295,14 @@
             "title": "Trump reverses position on health care subsidies",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSk7rLq6JMg",
+            "title": "Harvey Weinstein resigns from the Weinstein Co.",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

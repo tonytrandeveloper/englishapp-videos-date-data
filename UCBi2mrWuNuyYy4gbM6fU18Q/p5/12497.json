@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZzI_feKSrXE",
-            "title": "Bob Cusack: 'The White House Has To Change'",
-            "secondDuration": 292,
-            "group": "group_7"
-        },
-        {
             "videoId": "y97kd6799gQ",
             "title": "Dem Strategist: DC Will Be 'A Very Different Town'",
             "secondDuration": 611,
@@ -31,8 +25,14 @@
             "title": "Innocent Man Framed?",
             "secondDuration": 535,
             "group": "group_7"
+        },
+        {
+            "videoId": "58L-3psxiPs",
+            "title": "FBI Arrests Would-Be Bomber Targeting DC Metro",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

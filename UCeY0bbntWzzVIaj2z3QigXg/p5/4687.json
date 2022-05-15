@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ye2TKplLqp0",
-            "title": "360 Video: Inside Boeing’s Starliner Capsule | Mach | NBC News",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "a4vZJgpitJI",
             "title": "Michelle Obama Speaks At Voter Registration Rally | NBC News",
             "secondDuration": 1471,
@@ -31,8 +25,14 @@
             "title": "Trump Found Ford's Testimony 'Compelling,' Says Undecided Senators Must Be 'Comfortable' | NBC News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "IFEENtVntwA",
+            "title": "Senator Jeff Flake Calls For FBI Investigation, Delay Of Final Brett Kavanaugh Vote | NBC News",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

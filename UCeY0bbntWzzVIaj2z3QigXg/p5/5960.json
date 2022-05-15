@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aCz4T3Qm7lY",
-            "title": "Senate Majority Leader Mitch McConnell Delays Start Of Senate Recess | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "8qlKOUUYJt4",
             "title": "Air Traffic Control Averts Tragedy On Airport Taxiway | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "U.S. Military Denies Killing Mosul Civilians with ‘Imprecise Bombing’ | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxFKZhRDIb4",
+            "title": "Military C-130 Crashes In Mississippi | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

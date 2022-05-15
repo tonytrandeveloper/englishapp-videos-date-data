@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OzaeSJpRIok",
-            "title": "U.K. Covid Variant Detected In Colorado And California | NBC Nightly News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "rlp71jKMMGY",
             "title": "Nashville Police Say Officers Had No Legal Basis For Search Warrants Of Bomber’s Home | NBC News NOW",
             "secondDuration": 295,
@@ -31,8 +25,14 @@
             "title": "California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4981,
             "group": "group_7"
+        },
+        {
+            "videoId": "AA5iHVS_oyk",
+            "title": "Gov. Polis Discusses First Confirmed Case Of U.K. Covid-19 Variant In Colorado | NBC News NOW",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

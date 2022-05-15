@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Aj_ZuuwRjfU",
-            "title": "Live: Trump Receives Briefing On Hurricane Preparedness | NBC News",
-            "secondDuration": 454,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vy2k2HeIFUA",
             "title": "Minneapolis Official Sings 'Amazing Grace' In Emotional Tribute To George Floyd | NBC News NOW",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Live: White House Holds Press Briefing | NBC News",
             "secondDuration": 1773,
             "group": "group_7"
+        },
+        {
+            "videoId": "k9jwU5V3DN8",
+            "title": "Live: New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 3148,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

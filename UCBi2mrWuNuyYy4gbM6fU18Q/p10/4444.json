@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IbveWrL_9hQ",
-            "title": "ISIS Claims US Hostage Killed",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "nG2be1DCHJ4",
             "title": "Alleged Police Beating Caught on Tape; Officers Suspended",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "John Oliver on Making Current Events Funny",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "cubAa13BUwc",
+            "title": "In Case You Missed it: 2-6-15",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

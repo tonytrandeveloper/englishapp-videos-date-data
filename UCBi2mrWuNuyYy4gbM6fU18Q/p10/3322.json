@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XQJuUu_9zXI",
-            "title": "Why a Donkey for Democrats? | America 101",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "C39efddpdJw",
             "title": "Why an Elephant for Republicans? | America 101",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Rare Access to Guantanamo",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxOH1Pivu6w",
+            "title": "Iraqi Forces Gain Ground in Battle for Mosul",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

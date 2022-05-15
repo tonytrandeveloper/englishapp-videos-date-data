@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KSf8MvfQHw8",
-            "title": "America Strong:  Lolly-Wolly-Doodle",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "x_NpqQtGm70",
             "title": "Tony Stewart's First Race Since the Fatal Accident",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Tony Stewart Heads Back to the Racetrack",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "VbmZHJsGPOM",
+            "title": "Adm. William McRaven’s Inspirational Words",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

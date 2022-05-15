@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PIlTt5XA5PA",
-            "title": "Person of interest arrested in Alabama teen’s disappearance | ABC News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "wC3XenWH7dE",
             "title": "Ivanka Trump breaks with her dad on whistleblower identity | ABC News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Tech company accused of selling surveillance, security equipment made in China",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "qVIHJo9DHRc",
+            "title": "Police identify suspect in Aniah Blanchard missing person case",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

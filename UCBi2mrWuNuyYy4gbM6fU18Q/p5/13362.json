@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uUuuzgwI1tY",
-            "title": "Mother and Son on the Lam",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "vg3vtPJEUQI",
             "title": "Quick Fix: Brett Favre's Ever-Changing Mind",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Stephanopoulos on Obama vs. Cheney",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "EFOGuC_lnwo",
+            "title": "Cancer Patient's Dad Pleads for Safe Return",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

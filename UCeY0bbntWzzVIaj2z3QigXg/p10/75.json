@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MnuaMWEY4L4",
-            "title": "Investigation Underway After Boeing 737 Crashes In China",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "KrhhJLPg5IM",
             "title": "Historic Hearings For Judge Ketanji Brown Jackson Begin",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "White House: We Will Respond If Russia Conducts Cyber Attacks On U.S. Businesses",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "GxRMJVJN6x8",
+            "title": "Body Of Missing Transgender Activist Found On Lake Michigan Shore",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

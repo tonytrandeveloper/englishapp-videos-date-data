@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4-7rZ1nMl28",
-            "title": "Jury Convicts Former Police Officer Over Role In Capitol Riot",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "QpnnQ_lLhfY",
             "title": "Video Shows Aftermath Of NYC Subway Shooting In Brooklyn",
             "secondDuration": 65,
@@ -61,8 +55,14 @@
             "title": "Watch: Rescuers Evacuate People From Floods In Philippines",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "_GBz97Veb1w",
+            "title": "Ukrainian Forces Perform Controlled Explosion On Mines Left By Russian Troops",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

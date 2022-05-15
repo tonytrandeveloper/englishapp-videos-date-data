@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YflMeS6NExc",
-            "title": "Watch Stacey Abrams' Full Democratic Response | NBC News",
-            "secondDuration": 663,
-            "group": "group_7"
-        },
-        {
             "videoId": "WoDGTm7FzMk",
             "title": "Stacey Abrams: 'The Shutdown Was A Stunt' | NBC News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump: 'I Stand Here Ready To Work With You' | NBC News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "a153aLrDh9U",
+            "title": "Runner Kills Mountain Lion That Attacked Him On Trail | NBC Nightly News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

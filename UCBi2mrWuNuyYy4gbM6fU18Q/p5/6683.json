@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UAWi1LLsk8Q",
-            "title": "Storm Surge Slams Jacksonville Beach",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nGGnOwmWmY",
             "title": "More Than 1 Million Affected by Hurricane Matthew in Haiti",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Watch Florida Home Withstand Waves Crashing Onto Window",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "LlafWaxAouk",
+            "title": "Hulk Costume a 'Smash' Hit at Comic Con",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

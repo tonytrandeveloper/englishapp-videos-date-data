@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3EyWy4Mg-ls",
-            "title": "FDA Expected To Authorize Third Vaccine Dose For Immunocompromised People",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "LmaSKfjLrDY",
             "title": "RSV Spreading In Summer Surge",
             "secondDuration": 104,
@@ -301,8 +295,14 @@
             "title": "Biden Says $1 Trillion Infrastructure Bill ‘Will Transform America’",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "7S1Q2w2mOLk",
+            "title": "Live: Biden Delivers Remarks on Infrastructure | NBC News",
+            "secondDuration": 2065,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

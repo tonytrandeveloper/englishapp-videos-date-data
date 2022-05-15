@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FgxquuGHv3o",
-            "title": "The Royals Down Under",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "a7ED3vj8xvM",
             "title": "High School Students Raise $20K for Children's Hospital",
             "secondDuration": 127,
@@ -121,8 +115,14 @@
             "title": "Behind the Picture of Strength at the Boston Marathon Finish Line",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "BP-vU_3_7Ys",
+            "title": "Prosecution Grills Oscar Pistorius for the Last Time",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

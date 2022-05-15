@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m82G_UHVHXU",
-            "title": "Firefighter reunites with child he helped save from burning building",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "3nrvhtfttow",
             "title": "Procter & Gamble launches safety campaign to combat viral 'Tide pod challenge'",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "A van in San Francisco drove onto a sidewalk",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "RiWZYSqrQRE",
+            "title": "White House official says Democrats are taking an 'implausible position' on immigration",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

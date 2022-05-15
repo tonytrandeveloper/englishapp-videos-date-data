@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZJjEFnAIG1w",
-            "title": "Time Magazine Highlights Top 100 Influential Companies | NBC News NOW",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "uUmaN4EUvm4",
             "title": "How The 2020 Census Is Impacting Capitol Hill | NBC News NOW",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "First 100 Days: Americans Weigh In On Biden’s Promise To Unite The Country | NBC Nightly News",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "j60oQgMJbNs",
+            "title": "Mystery Sightings In The Sky Raise National Security Concerns | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

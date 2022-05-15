@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CJiJGVvFsHo",
-            "title": "Wentworth Miller Reveals Mental Health Crisis",
-            "secondDuration": 158,
-            "group": "group_7"
-        },
-        {
             "videoId": "IY0Ip6IzHAw",
             "title": "Billionaire's Son Charged With Fraud, Stealing from Charity",
             "secondDuration": 155,
@@ -301,8 +295,14 @@
             "title": "Lady Gaga Celebrates 30th Birthday",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "PgNGfSk-QCw",
+            "title": "Chicago Teen in Anti-Violence Video Shot by Stray Bullet",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

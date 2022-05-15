@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UOVTDQX_1qY",
-            "title": "Meet The Press Broadcast (Full) - October 18th, 2020 | Meet The Press | NBC News",
-            "secondDuration": 2857,
-            "group": "group_7"
-        },
-        {
             "videoId": "44Fpb0XwOtY",
             "title": "Biden Delivers Remarks In North Carolina | NBC News",
             "secondDuration": 1091,
@@ -121,8 +115,14 @@
             "title": "Senate Democrats Hint At Consequences As GOP Moves To Confirm Judge Barrett | NBC News NOW",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "NJXjwwNLYcE",
+            "title": "Biden Delivers Remarks On Health Care | NBC News",
+            "secondDuration": 2055,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y9YWYwypuV8",
-            "title": "George and Amal Clooney Shine a Light on Syrian Refugee Crisis",
-            "secondDuration": 434,
-            "group": "group_7"
-        },
-        {
             "videoId": "_mAYqDYqu0o",
             "title": "Mini Super Tuesday | Clinton Wins Big, Kasich Takes Ohio, Rubio Drops Out",
             "secondDuration": 449,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders: 'We Are Doing Something Very Radical in American Politics' [FULL SPEECH]",
             "secondDuration": 3548,
             "group": "group_7"
+        },
+        {
+            "videoId": "OAEHLC14lCU",
+            "title": "CDC Issues Guidelines to Fight Painkiller Addiction",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

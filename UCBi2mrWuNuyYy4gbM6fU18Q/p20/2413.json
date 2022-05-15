@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "m9OIryJNkYM",
-            "title": "TV Anchors Shaken Up by a Quake",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "4aB7U3I3-xQ",
             "title": "Russia and the United States Locked in a Duel of Super Powers",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "'This Week': Investigating Malaysia Air 370",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "t_PEYTU_1Go",
+            "title": "'This Week': Bill Gates on Education",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

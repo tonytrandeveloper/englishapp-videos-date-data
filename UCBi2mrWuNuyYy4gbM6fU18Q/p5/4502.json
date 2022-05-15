@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1BdxpF-dB88",
-            "title": "James Baker remembers George H.W. Bush's 'consequential presidency'",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "B5F094yu380",
             "title": "Trump cancels press conference at G20 as Michael Cohen asks for leniency",
             "secondDuration": 427,
@@ -31,8 +25,14 @@
             "title": "Celebrating the life and legacy of George H.W. Bush",
             "secondDuration": 582,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jk_R3TPg-r0",
+            "title": "The life and legacy of George H.W. Bush",
+            "secondDuration": 622,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

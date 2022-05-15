@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZYuwGVs6K5c",
-            "title": "Jeb Bush at an All-Time Low",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "413-o-fzrfY",
             "title": "Donald Trump Goes to New Hampshire to File for the Primary",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Former Taco Bell Exec to Face Civil Suit Over Uber Attack",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vpTvVbNsJs",
+            "title": "Chipotle Speaks Out on E.Coli Outbreak, Restaurant Closures",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

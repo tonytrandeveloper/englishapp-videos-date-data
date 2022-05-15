@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6cn26muiu3s",
-            "title": "Olympic gymnast claims sexual assault by team doctor",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uj80BlRoriM",
             "title": "Trump warns McCain: 'I fight back'",
             "secondDuration": 286,
@@ -61,8 +55,14 @@
             "title": "Trump reverses position on health care subsidies",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSk7rLq6JMg",
+            "title": "Harvey Weinstein resigns from the Weinstein Co.",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

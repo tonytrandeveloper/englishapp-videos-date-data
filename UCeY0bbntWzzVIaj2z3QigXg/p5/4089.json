@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oDVR1PbyjGk",
-            "title": "Discovering You: Corey Baker | NBC Learn",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "9DtKXbiWwtE",
             "title": "Where Did They Go? Arkansas Hunters At A Loss As Ducks Disappear | NBC News",
             "secondDuration": 807,
@@ -31,8 +25,14 @@
             "title": "Biggest Mortgage Drop In Decades Sparks A Boom In Home Sales | NBC Nightly News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "FRVpaGkACR4",
+            "title": "Prince Harry Says Fortnite Shouldn’t Be Allowed: ‘It’s Created To Addict’ | NBC Nightly News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

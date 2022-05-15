@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "awBRlvzuDSY",
-            "title": "Chicago Blackhawks GM Steps Down After Investigation Into 2010 Sexual Abuse",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "q3E1W6hjso8",
             "title": "Top Story with Tom Llamas - October 26 | NBC News NOW",
             "secondDuration": 3014,
@@ -61,8 +55,14 @@
             "title": "What's The Real Story Of The Alamo? A $250 Million Renovation Spurs Debate",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "WR0pY__8rOs",
+            "title": "FDA Advisory Panel OKs Pfizer Covid Vaccine For Kids 5 To 11",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

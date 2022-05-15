@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X0uvGGQhsjA",
-            "title": "LL Cool J Lick Count",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "2PaMOfr6gRE",
             "title": "3 Dead in Delaware Courthouse Shooting",
             "secondDuration": 27,
@@ -31,8 +25,14 @@
             "title": "Pope Benedict XVI Resigns: Who Will Be the Next Pope?",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "t0fI-rSJTis",
+            "title": "Carnival Cruise Ship Stranded off Yucatan Peninsula",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

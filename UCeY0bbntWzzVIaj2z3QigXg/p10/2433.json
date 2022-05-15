@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PGaOBuYGixo",
-            "title": "Facebook Battling Fake Profiles | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "-EgqyA53k7k",
             "title": "Facebook Experiences Biggest Loss In Stock Market History | NBC Nightly News",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "House Speaker Paul Ryan Holds Weekly News Conference | NBC News",
             "secondDuration": 731,
             "group": "group_7"
+        },
+        {
+            "videoId": "4IJvnkysupU",
+            "title": "Watch Live: Clearwater 'Stand Your Ground ' Press Conference | NBC News",
+            "secondDuration": 1866,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

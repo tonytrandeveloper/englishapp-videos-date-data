@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "854vxjaG4NI",
-            "title": "Donald Trump Doubles Lead in GOP Race, New NBC News Poll Shows | NBC Nightly News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "JxiHxKyYDdA",
             "title": "Amal Clooney Discusses Latest Human Rights Battle (Exclusive) | NBC Nightly News",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "President Obama Takes Aim At GOP In Final State of the Union | NBC News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "TUYJ1sFWd64",
+            "title": "Obama: The World Still Looks To The U.S. To Lead | NBC News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

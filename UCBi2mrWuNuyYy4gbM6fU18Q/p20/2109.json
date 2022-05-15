@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QL_J7tWnKHE",
-            "title": "Trump Talks Immigration to Record Crowds in Border State",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "XaIWz176D5g",
             "title": "Dashcam Captures Horrific Train Collision In New York",
             "secondDuration": 148,
@@ -121,8 +115,14 @@
             "title": "A Football Fan’s Masterpiece",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "uUjXMc1YOxk",
+            "title": "Terror Attacks Stopped",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

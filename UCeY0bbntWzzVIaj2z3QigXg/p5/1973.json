@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lUN6XEszlGk",
-            "title": "Inside An Appalachian ICU As Covid Takes Toll On Nurses | NBC News NOW",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "SqLmwiW-cuk",
             "title": "Weekly Initial Jobless Claims Rise To 885,000 As Country Struggles With Covid Surge | NBC News NOW",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Inside Effort To Track Origin Of Covid-19 | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "CanBy4hUpbo",
+            "title": "Sackler Family Grilled By Congress On Purdue Pharma’s Role In Opioid Crisis | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

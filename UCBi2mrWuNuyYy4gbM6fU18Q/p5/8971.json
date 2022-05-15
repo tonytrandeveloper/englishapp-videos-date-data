@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4nedjNvtb4Y",
-            "title": "Paris Attack: Heroes' Stories of Survival",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "MokUfX0u9yk",
             "title": "Most Wanted Woman in the World: Paris Attack Suspect Vanishes",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Handicapped Parking Cheaters: Heading on a Hike?",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "S8UiAwPXX5I",
+            "title": "Dogs That Sniff for Bedbug Infestations",
+            "secondDuration": 407,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

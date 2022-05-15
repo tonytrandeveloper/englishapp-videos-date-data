@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KxJVMsUV2wg",
-            "title": "Special counsel impanels grand jury in Russian investigation",
-            "secondDuration": 316,
-            "group": "group_7"
-        },
-        {
             "videoId": "UHTy7ulanCY",
             "title": "Conrad Roy's cousin speaks out after texting suicide sentence",
             "secondDuration": 215,
@@ -121,8 +115,14 @@
             "title": "Trump administration defends immigration proposal",
             "secondDuration": 275,
             "group": "group_7"
+        },
+        {
+            "videoId": "B7I-FBuGgfQ",
+            "title": "Riders stranded on bungee ride at county fair",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

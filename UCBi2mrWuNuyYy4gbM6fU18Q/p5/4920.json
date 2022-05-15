@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Fn-F8j1IZ38",
-            "title": "A woman in South Florida was killed in an alligator attack",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "_5bNhI7QQj4",
             "title": "President Trump meets with world leaders at G7 summit",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "The life and legacy of Anthony Bourdain, in his own words",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "wDMgihUjs7M",
+            "title": "'Parts Unknown' host Anthony Bourdain's death ruled a suicide: Officials",
+            "secondDuration": 241,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

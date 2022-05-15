@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5vs6goobsIw",
-            "title": "What’s Next For The Nor’easter | NBC Nightly News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "bQehazKJR7A",
             "title": "Nor’easter Leaves Travelers Stranded Across The U.S. | NBC Nightly News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Talking To Arizonans Who Are Worried About The Future Of Their Healthcare | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "4AVB_Ch6rmw",
+            "title": "2017 Nor’easter Winter Storm Stella Envelops New York’s Times Square | 360 Video | NBC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

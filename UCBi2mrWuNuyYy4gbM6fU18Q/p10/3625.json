@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v31tm86H2Mk",
-            "title": "Horse Learns to 'Play Dead'",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "l2STAR00Apg",
             "title": "Amusement Park Riders Stranded on Rides",
             "secondDuration": 44,
@@ -61,8 +55,14 @@
             "title": "Obama on His First Smartphone | THE SKINNY",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "UEcPuHEggiY",
+            "title": "Man Finds Pants Using Reddit",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

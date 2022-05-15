@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tiiw5Ehezgw",
-            "title": "Watch live:  President Trump, First Lady test positive for Covid-19",
-            "secondDuration": 724,
-            "group": "group_7"
-        },
-        {
             "videoId": "9B5LsLLlnaU",
             "title": "Contact Tracing And The President: What's Next After Positive COVID-19 Test? | NBC News",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "Trump Announces He And First Lady Have Tested Positive For COVID-19 | NBC News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "UdhmPlLav6s",
+            "title": "Watch NBC News NOW Live - October 1",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

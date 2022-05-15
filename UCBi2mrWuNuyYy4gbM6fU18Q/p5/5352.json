@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N2_YcWGBLj0",
-            "title": "General Motors shopping app raises safety concerns",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "EO4fcCD-FUo",
             "title": "Special counsel subpoenas Deutsche Bank for financial records",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Trump weighing plans to move US Embassy in Israel from Tel Aviv to Jerusalem",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "KIsKJq1tVVg",
+            "title": "Body camera captures Georgia cop saving infant in distress",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

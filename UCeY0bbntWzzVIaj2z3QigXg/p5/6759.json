@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Yt-Rs6H5U9Y",
-            "title": "Behind The Scenes Of Jeopardy!'s 'Power Players Week' | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "BnUh25Akb9o",
             "title": "Where The Term '420' Comes From | 101 | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Remembering ‘Everybody Loves Raymond’ Star Doris Roberts | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDr76YzTxHo",
+            "title": "A New Treatment for Stroke Patients When Every Second Counts | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

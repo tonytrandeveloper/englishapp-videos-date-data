@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "heWrsykL6-Q",
-            "title": "Elon Musk Tweets SpaceX Crash",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "H4UJsybIKdw",
             "title": "Prince William 'Appalled' by Cyberbullying",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Beyonce's Proteges Chloe x Halle",
             "secondDuration": 430,
             "group": "group_7"
+        },
+        {
+            "videoId": "5_gV4wITGlc",
+            "title": "Obama, Biden Meet With Orlando Shooting Survivors and Victim's Families",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

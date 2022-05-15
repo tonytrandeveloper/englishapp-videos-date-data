@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gulbdytjaXM",
-            "title": "White House press briefing following firing of national security adviser John Bolton | ABC News",
-            "secondDuration": 1294,
-            "group": "group_7"
-        },
-        {
             "videoId": "lc7WvUSVh9k",
             "title": "BREAKING NEWS - Trump fires National Security Adviser John Bolton | ABC News",
             "secondDuration": 865,
@@ -31,8 +25,14 @@
             "title": "Rescuer describes saving crew on capsized ship l ABC News",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "YSx2ot7BNvQ",
+            "title": "North Korea fires at least 2 projectiles into sea l ABC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5AOyCWB-Jn4",
-            "title": "Demonstrators march to protest police shooting of unarmed man",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "BbWVW76dQxk",
             "title": "Woman claiming to be Trump's ex-mistress: 'There was a real relationship'",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Demonstrators protest fatal shooting of unarmed man",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "C6IQ1RtRNeo",
+            "title": "New details on suspected serial bomber's alleged confession",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

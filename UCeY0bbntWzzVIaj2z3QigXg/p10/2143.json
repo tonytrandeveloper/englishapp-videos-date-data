@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gqTuCgyzWf8",
-            "title": "Watch Live: 2019 Oscar Nominations Announcement | NBC News",
-            "secondDuration": 1504,
-            "group": "group_7"
-        },
-        {
             "videoId": "SlT-OyWGdzw",
             "title": "Martin Luther King Jr.’s 10-Year-Old Granddaughter Says She Has A Dream, Too | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Lays Wreath At MLK Memorial Statue | NBC News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "v62B_ZlvXo8",
+            "title": "Growing Movement Honors Homeless Veterans With Dignified Farewell | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

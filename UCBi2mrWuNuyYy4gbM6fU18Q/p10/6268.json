@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h6Q7steg3U8",
-            "title": "Going Home: Georgetown Changes With the Times",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4vWTq3eBY8",
             "title": "Election Predictions: How Many Seats Will GOP Get?",
             "secondDuration": 655,
@@ -61,8 +55,14 @@
             "title": "Going Home: Next Generation of Tech Workers",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "oE7fRSuZ1Ok",
+            "title": "Alaska Senate Candidate Joe Miller on 'Top Line'",
+            "secondDuration": 10,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

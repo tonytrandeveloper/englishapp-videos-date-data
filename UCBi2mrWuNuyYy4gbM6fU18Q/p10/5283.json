@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ou2WMpAXR9k",
-            "title": "WEBCAST: Budget Deadline Tonight",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "JGBjL28DbnI",
             "title": "Pope Benedict XVI's Historic Farewell",
             "secondDuration": 301,
@@ -61,8 +55,14 @@
             "title": "Pope Benedict XIV Says Goodbye",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "Oo44mEErIko",
+            "title": "Sequester Countdown: The Reality of Budget Cuts",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

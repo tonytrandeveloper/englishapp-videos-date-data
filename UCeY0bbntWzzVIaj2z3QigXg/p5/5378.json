@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WQyPazWNV2Q",
-            "title": "White House Press Briefing - January 24, 2018 | NBC News",
-            "secondDuration": 15689,
-            "group": "group_7"
-        },
-        {
             "videoId": "kOjEeywsWEo",
             "title": "‘Your Words Will Haunt Him,’ Judge Tells Victims During Larry Nassar Sentencing | NBC News",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "ISIS Claims Attack On Afghan Save The Children Offices | NBC News",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "WEbgJIBL2Aw",
+            "title": "Larry Nassar Sentenced After Facing Over 150 Victims In Court | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

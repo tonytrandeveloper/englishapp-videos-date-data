@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0DKEiEATQTM",
-            "title": "One-On-One With U.S. Surgeon General As Covid Cases Rise",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "E_SNZo_U-5g",
             "title": "Airbus And Boeing Call For Pause On Rollout Of 5G",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Brawl Breaks Out At Miami International Airport",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "_rzoBHP5r-E",
+            "title": "Breaking Down How The Top Legal Cases Of 2021 Could Impact 2022",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

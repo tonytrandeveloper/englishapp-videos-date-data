@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pyXwJKms9yY",
-            "title": "Pork Problems: Consumer Reports Finds Dangerous Bacteria in Pork",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "4DAl9On8Cjg",
             "title": "Obama Back in Campaign Mode, Tackles Fiscal Cliff Crisis",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Grover Norquist No Tax Pledge Losing Some Ground Among GOP?",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "hFtMuzOmL0M",
+            "title": "'Dancing With the Stars' All-Star Season 15 Finale: Donald Driver on 3 Finalists' Performances",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

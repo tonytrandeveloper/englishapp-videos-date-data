@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HeQEegiUk08",
-            "title": "Happy Birthday, YouTube",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "zWuHWHLl9CE",
             "title": "Amplified: Yeasayer",
             "secondDuration": 375,
@@ -31,8 +25,14 @@
             "title": "Oscar Profile: Roger Corman",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-jb5PMg4P4",
+            "title": "Rogue Wave Victim: 'Like a Tsunami'",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

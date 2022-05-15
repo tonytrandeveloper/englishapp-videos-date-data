@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k32tpzYOU6k",
-            "title": "NBA Christmas Carol: Dribbling the Bells",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "kNe9sFN8P6g",
             "title": "Thanksgiving Gift Staten Island Residents Won't Soon Forget",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "Searching for Deals on Black Friday",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "2qdHyBIOquY",
+            "title": "Black Friday: Keeping Shoppers Safe",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

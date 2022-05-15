@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yx1WXsnmXQc",
-            "title": "Kavanaugh grilled on abortion, Russia investigation l SCOTUS Confirmation Hearing",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "jETJwUuqih8",
             "title": "ABC News Live: California wildfires, Kavanaugh confirmation, new book on Trump",
             "secondDuration": 2375,
@@ -31,8 +25,14 @@
             "title": "Ballerina speaks out on lawsuit over alleged sharing of nude photos",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "QW6mtukSe-0",
+            "title": "Trump blasts anonymous NYT op-ed writer at rally",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

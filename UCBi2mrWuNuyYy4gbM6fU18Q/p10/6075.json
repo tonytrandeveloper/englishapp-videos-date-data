@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dvvs1zTHTqY",
-            "title": "Rob Do My Job: Lucky Strike Bowling Alley",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXpa5pbpIbA",
             "title": "'Nightline' Investigation: War on Drugs",
             "secondDuration": 322,
@@ -61,8 +55,14 @@
             "title": "Los Alamos Nuclear Lab: Does Situation Compare with Japan Nuke Crisis?",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "nUsI7Gi94jA",
+            "title": "New Mexico Fires Threaten Los Alamos Nuclear Lab",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

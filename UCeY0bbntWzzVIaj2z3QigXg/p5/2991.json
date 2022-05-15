@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K4cu2-UdLlo",
-            "title": "New Data Shows Social Distancing, Stay-At-Home Orders May Be Factor In Slowing Spread Of Virus | NBC",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "H-80zr9TLuI",
             "title": "Health Care Workers Speak On Overwhelming Toll Of Pandemic | NBC Nightly News",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Dr. Birx Outlines Estimated Coronavirus Deaths In April | NBC Nightly News",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "eMbEao8EmSo",
+            "title": "Markets Close On One Of Worst Quarters In History Amid COVID-19 Pandemic | NBC News NOW",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "29MdWYicxzg",
-            "title": "Some Coronavirus Patients Report Symptoms Persistent, Lasting Weeks | NBC News Now",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "9lzvbBAraU0",
             "title": "Texas Principal Drives 800 Miles To Visit Graduating Seniors Amid Coronavirus Pandemic | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Former FDA Commissioner Sounds Alarm On Next Coronavirus Hot Spots | NBC Nightly News",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y9KukxEt2lc",
+            "title": "Inside A First-Of-Its-Kind Coronavirus Vaccine Trial | NBC Nightly News",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

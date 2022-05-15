@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VqAFx5SLxjs",
-            "title": "Mob boss murder suspect faces extradition hearing",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "0kgG03pVQRg",
             "title": "New details emerge on the Ethiopian Airlines crash",
             "secondDuration": 211,
@@ -121,8 +115,14 @@
             "title": "Deadly mosque attack in New Zealand",
             "secondDuration": 385,
             "group": "group_7"
+        },
+        {
+            "videoId": "NE9G830exA8",
+            "title": "Police search LA mall for reported gunman",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

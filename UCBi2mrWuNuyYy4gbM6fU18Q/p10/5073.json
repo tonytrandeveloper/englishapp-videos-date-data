@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lTfOKf-1Lao",
-            "title": "New Storms Could Mean More Rain for US Flood Zones",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "KS67YbKYbps",
             "title": "Florida Boy, 7 Months Old, Dies After Eating Detergent Pod",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: The Shark Whisperer",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "VEqC2YBxesU",
+            "title": "Tameka Raymond Says Usher Is a 'Control Freak'",
+            "secondDuration": 582,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

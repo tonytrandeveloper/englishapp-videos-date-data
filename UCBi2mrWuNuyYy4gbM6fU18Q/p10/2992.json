@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "i2kfY_UPjZ8",
-            "title": "Severe weather expected in South and Midwest, possible snow in Northeast",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "6SFJwt3YQvo",
             "title": "Miami plastic surgeon who films surgeries on Snapchat gets reality show | ABC News",
             "secondDuration": 399,
@@ -61,8 +55,14 @@
             "title": "Real-life 'Limitless' pill? Silicon Valley entrepreneurs pursue nootropics or 'smart drugs'",
             "secondDuration": 407,
             "group": "group_7"
+        },
+        {
+            "videoId": "65X5qRJqPWg",
+            "title": "Firefighters rescue dog from frozen pond",
+            "secondDuration": 51,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

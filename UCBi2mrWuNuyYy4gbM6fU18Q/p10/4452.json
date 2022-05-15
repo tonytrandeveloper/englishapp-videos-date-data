@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eOyJfcxFudA",
-            "title": "Super Bowl 2015: Facts and Figures",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "f8j5WnrFoH4",
             "title": "New England Patriots Win Super Bowl",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Defense Tries to Get Vanderbilt Guilty Verdict Thrown Out",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "colTcrnqSYA",
+            "title": "Passenger With Measles Takes Amtrak Train to Penn Station",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

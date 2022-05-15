@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H8n1UxvQvjw",
-            "title": "60 police Ford SUVs taken off the street",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "YSOOq3i2dMU",
             "title": "Deadly plane crash in Utah kills 4 people onboard instantly",
             "secondDuration": 83,
@@ -31,8 +25,14 @@
             "title": "White House press briefing live followed by ‘The Briefing Room’",
             "secondDuration": 3390,
             "group": "group_7"
+        },
+        {
+            "videoId": "ShEHAhV_eDI",
+            "title": "Chicago hospital celebrates baby boom 9 months after Cubs' World Series win",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

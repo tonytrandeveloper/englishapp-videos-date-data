@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "rPuQAzBOS-g",
-            "title": "President Obama and Sen. Mitch McConnell  Meet Face-to-Face",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "z2wIZfjqJBI",
             "title": "7 Baggage Handlers Accused of Stealing Electronics and Jewelry worth $20K",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "Couple With 12 Boys Expecting",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ipqR_OMLLQ",
+            "title": "Fun Ideas for Your Thanksgiving Leftovers",
+            "secondDuration": 204,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

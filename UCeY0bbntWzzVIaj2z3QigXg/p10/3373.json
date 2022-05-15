@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UA7pqlLoDd0",
-            "title": "Wildfire Forces Evacuations Of Alberta City | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "zgUlV7CwDxA",
             "title": "This School Is Helping Young Adults With Autism Make Movie Magic | NBC Nightly News",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "This Dad is Melting Down Thousands of Crayons to Help Children in Need | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "0KM327EuJaA",
+            "title": "Puerto Rico’s Financial Crisis Could Impact Growing Zika Fight | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

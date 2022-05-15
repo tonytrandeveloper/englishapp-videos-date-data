@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6xD_tXRFSsI",
-            "title": "Steubenville Rape Case: Teenage Girl Expected to Testify",
-            "secondDuration": 177,
-            "group": "group_7"
-        },
-        {
             "videoId": "HClf6ea5g9E",
             "title": "'Fifty Shades of Grey' Movie: Emma Watson Casting Rumors",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Republican Rob Portman Supports Gay Marriage",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "gQdgIJkC2Tg",
+            "title": "The Real Facts About Carfax",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

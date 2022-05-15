@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RpCKOOhduE4",
-            "title": "'Humans of New York' Blog Seeks Homes for Old Dogs",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "nLGqRivPHs0",
             "title": "Watch Benjamin Netanyahu's Surprise AIPAC Shout Out to Actress Scarlett Johansson",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "Is Scarlett Johansson Pregnant?",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "bYUemMODoTk",
+            "title": "Latest Testimony from Oscar Pistorius Case",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

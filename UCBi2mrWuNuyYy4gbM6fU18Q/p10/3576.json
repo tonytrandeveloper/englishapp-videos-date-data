@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UyoppqQcaTI",
-            "title": "Cat and Bear Make for Unlikely Friends",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "X-AIMkV5i9w",
             "title": "Trump 'Looking At' Replacing Hijab-Wearing TSA Staff With Vets",
             "secondDuration": 45,
@@ -61,8 +55,14 @@
             "title": "Istanbul Airport Suicide Attackers | New Image Released",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvXJaCncHx4",
+            "title": "Tesla Autopilot Death | Fatal Crash Sparks Investigation",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

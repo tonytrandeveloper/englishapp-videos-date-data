@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HNqu2rO2e_M",
-            "title": "Millions in path of deadly storms from Kentucky to Pennsylvania",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Xv_89m7i_0",
             "title": "What to expect from Trump, Putin meeting",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "US tennis star collapses mid-match at Wimbledon",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "KjLMVpDt8Ss",
+            "title": "Planes diverted after onboard security incidents",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

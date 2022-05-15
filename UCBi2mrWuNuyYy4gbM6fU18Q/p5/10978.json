@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9d8b5E_7lsA",
-            "title": "WEBCAST: Homicide Probe",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ayM3-cb7vQ",
             "title": "Israeli-Palestinian Conflict: Families Pray for Ceasefire",
             "secondDuration": 230,
@@ -31,8 +25,14 @@
             "title": "Meet NASCAR's First Woman Pit Crew Member",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "b0cEq6HvIiU",
+            "title": "Middle East on the Brink: Israel Prepared to Invade Gaza",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "jipOHCRVZdU",
-            "title": "Nationwide Hunt For Grandmother Accused Of Two Murders | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "LyT5QXUnBGE",
             "title": "Supreme Court Debates Internet Sales Tax Case | NBC Nightly News",
             "secondDuration": 110,
@@ -301,8 +295,14 @@
             "title": "Pentagon Briefing On Strikes In Syria | NBC News",
             "secondDuration": 1378,
             "group": "group_7"
+        },
+        {
+            "videoId": "GriRzb4WtJk",
+            "title": "New Museum Dedicated To The Art Of The Selfie | NBC Nightly News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

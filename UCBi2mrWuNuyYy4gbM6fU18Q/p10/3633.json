@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3pQx8EG1-Yk",
-            "title": "David Muir Reports: Win for New York Silverware Company",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "a4T-yGqaHR0",
             "title": "Sister Accused of Killing Her Twin in Hawaii",
             "secondDuration": 61,
@@ -61,8 +55,14 @@
             "title": "Harry Potter and the Cursed Child | Live Play vs Movie Cast | The Real Reel",
             "secondDuration": 40,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzXBWfUltvQ",
+            "title": "Plane Sunk in Sea To Create Artificial Reef",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

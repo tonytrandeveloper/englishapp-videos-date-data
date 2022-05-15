@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kBdCThItWd4",
-            "title": "54 Million Americans On The Move Ahead Of Thanksgiving | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "OCNbwQF3MYA",
             "title": "Dow Plunges 552 Points, Nasdaq Off Five Percent | NBC Nightly News",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Trump Dismisses CIA Conclusion That Saudi Prince Was Responsible For Jamal Murder | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "FHzJ9Kz7SnA",
+            "title": "Ivanka Trump Under Investigation For Using Private Email Account | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

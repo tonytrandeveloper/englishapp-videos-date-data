@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5dyOTyiiUmA",
-            "title": "O.J. Simpson: Inside the Case of the Defense 'Dream Team'",
-            "secondDuration": 409,
-            "group": "group_7"
-        },
-        {
             "videoId": "6dEljhrvykM",
             "title": "Inside the Infamous O.J. Simpson White Bronco Chase",
             "secondDuration": 499,
@@ -121,8 +115,14 @@
             "title": "New York City Greets Pope Francis In Historic Visit",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "FOlG2dYc-sY",
+            "title": "Pope Francis Addresses Congress, Refers to America as 'Land of Dreams'",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

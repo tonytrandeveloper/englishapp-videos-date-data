@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jE_jpss1Dsc",
-            "title": "American imprisoned in Venezuela reunites with family",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "_a396JdzvKw",
             "title": "Hero teacher who disarmed school shooter speaks out",
             "secondDuration": 185,
@@ -61,8 +55,14 @@
             "title": "National guardsman missing after devastating flash floods hit town",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "AauM23ytGpc",
+            "title": "Starbucks planning to shutter all stores for afternoon bias training",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

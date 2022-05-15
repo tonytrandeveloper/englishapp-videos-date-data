@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_CU8FiB-9pU",
-            "title": "University chemistry professors accused of making meth l ABC News",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "8LhmoGnmLOE",
             "title": "Major US policy reversal over Israeli settlements on West Bank l ABC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Hong Kong protests, figure skating and Evo Morales: World in Photos, Nov. 18",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "SxNyj3ZAC5o",
+            "title": "Capitol Hill gears up for 2nd week of impeachment hearings | ABC News",
+            "secondDuration": 1543,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

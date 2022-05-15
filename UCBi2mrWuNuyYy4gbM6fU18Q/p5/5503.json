@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qJiiL_UiB5c",
-            "title": "OJ Simpson released from prison after serving 9 years",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "EZ_YM4ApQtU",
             "title": "FEMA administrator: Puerto Rico has 'a long way to go' on hurricane recovery",
             "secondDuration": 318,
@@ -31,8 +25,14 @@
             "title": "Influencers Compete for Best 80s Prom Outfit - 'Closet Raiders' S1 E3",
             "secondDuration": 239,
             "group": "group_7"
+        },
+        {
+            "videoId": "sZZs-SkomOA",
+            "title": "Trump addresses criticism over the administration's handling of the crisis in Puerto Rico",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

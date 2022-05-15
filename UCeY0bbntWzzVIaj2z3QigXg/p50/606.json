@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ldnj2btHqFI",
-            "title": "National Intelligence Chief Dan Coats Testifies At Senate Hearing | NBC News",
-            "secondDuration": 7355,
-            "group": "group_7"
-        },
-        {
             "videoId": "ystVQWzFtII",
             "title": "For Undocumented Immigrants, ID Cards A Way Out Of 'Shadows' | NBC Latino | NBC News",
             "secondDuration": 219,
@@ -301,8 +295,14 @@
             "title": "Winter Melt Off Bring Breathtaking Waterfalls To Yosemite | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "4d8vtFluORk",
+            "title": "London Terror Attack: 12 Arrested As Investigation Intensifies | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

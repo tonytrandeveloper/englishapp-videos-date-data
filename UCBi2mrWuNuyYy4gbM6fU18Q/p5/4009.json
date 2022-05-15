@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5LMWZ7RUqGs",
-            "title": "Red Sox icon David Ortiz takes first steps after shot in the back",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "EgDVLQhdcu4",
             "title": "Jon Stewart demands Congress support 9/11 compensation fund",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "World in Photos, June 11: Women's World Cup, 'castellers' in Barcelona, a migrant",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "x1QqtpUlIZs",
+            "title": "Trump shows reporters paper allegedly showing the Mexico Trade deal",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

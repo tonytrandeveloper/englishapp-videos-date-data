@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NTY8ag0fE3U",
-            "title": "Trump Would ‘Act Differently’ as President, He Tells Lester Holt | NBC Nightly News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "YXFuv94HHRY",
             "title": "Hillary Clinton Embed: No Sleeping In Primary Season | NBC News",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders Defends Foreign Policy Credentials | Meet The Press | NBC News",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "nOV6TixesZU",
+            "title": "Donald Trump Looks Ahead to New Hampshire | Meet The Press | NBC News",
+            "secondDuration": 540,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

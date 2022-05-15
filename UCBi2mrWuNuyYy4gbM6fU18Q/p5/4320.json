@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0drclnySnsk",
-            "title": "Major storm to drench West Coast through the weekend",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "GZ4_4wpNeNI",
             "title": "President Trump to sign border security compromise bill, remark on situation at southern border",
             "secondDuration": 4645,
@@ -31,8 +25,14 @@
             "title": "Rapper 21 Savage fears deportation after ICE arrest",
             "secondDuration": 431,
             "group": "group_7"
+        },
+        {
+            "videoId": "jkVyfcjjwLY",
+            "title": "Trail runner describes near-deadly mountain lion attack",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "edcZeUJ7F3g",
-            "title": "These citizen journalists risk their lives to document ISIS horrors in Syria",
-            "secondDuration": 486,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uxv2DZDO4yo",
             "title": "Fate of terminally ill ‘Baby Charlie’ continues to be debated",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Manhunt underway for a suspected arsonist in Arizona",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "sagvr-3XKOI",
+            "title": "What's at stake for Trump's foreign trip",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

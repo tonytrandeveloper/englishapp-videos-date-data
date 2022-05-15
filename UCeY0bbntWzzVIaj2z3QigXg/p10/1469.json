@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mNc0UBkSEto",
-            "title": "In-depth Look At Coronavirus Antibody Testing | NBC Nightly News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "gnDiuUVKDAw",
             "title": "As Unemployment Grows, Americans Struggle To Get Food On The Table | NBC Nightly News",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Mayor de Blasio: Recent Coronavirus Numbers Show A ‘Step In The Right Direction’ | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "w5QREcDXIGk",
+            "title": "Christ The Redeemer Statue Lit Up in Tribute To Health Care Workers Battling COVID-19 | NBC News NOW",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

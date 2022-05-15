@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CuQYAR_PdPQ",
-            "title": "Latest details into Coronavirus and China l ABC News",
-            "secondDuration": 435,
-            "group": "group_7"
-        },
-        {
             "videoId": "hXVF5NeRzuQ",
             "title": "GOP chair reacts to impeachment trial l ABC News",
             "secondDuration": 359,
@@ -121,8 +115,14 @@
             "title": "Trump to deliver State of the Union address before impeachment verdict",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "rfOiqcoasHU",
+            "title": "Countdown to kickoff for Super Bowl 54 between 49ers and Chiefs",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

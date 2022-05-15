@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0JvL4FILDZg",
-            "title": "Bill Cassidy, Lindsey Graham Respond To Kimmel's 'Liar' Comment Over Health Bill | NBC News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "5AD8JLC5iwM",
             "title": "At Least 20 Children Killed In Mexico City School Collapse | NBC News",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Hurricane Maria Pummels Puerto Rico With Powerful Winds | NBC News",
             "secondDuration": 50,
             "group": "group_7"
+        },
+        {
+            "videoId": "GIpNGZVlMGs",
+            "title": "Aerial Footage Of Dominica Captures The Destruction Of Hurricane Maria | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

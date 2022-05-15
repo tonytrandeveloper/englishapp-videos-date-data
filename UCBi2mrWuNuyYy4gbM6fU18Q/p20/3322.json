@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jv-m-Jme-tA",
-            "title": "Inside Lady Liberty's Crown",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "ct34ubjnTs8",
             "title": "Frugal Fireworks",
             "secondDuration": 177,
@@ -121,8 +115,14 @@
             "title": "Exclusive: Inside Michael Jackson's Mansion",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "vGIGu4w-D7s",
+            "title": "Jackson's Will: Who Gets What?",
+            "secondDuration": 475,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

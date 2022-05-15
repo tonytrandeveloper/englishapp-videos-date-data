@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Up4qAkx91PU",
-            "title": "NCAA Bracket: Craziest March Madness Fans",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qd4ZzNIeMaE",
             "title": "'Dancing With the Stars' Season Premiere: Behind the Scenes",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Train Track Deaths: Victim's Parents Lead Effort to Prevent Accidents",
             "secondDuration": 433,
             "group": "group_7"
+        },
+        {
+            "videoId": "eKfGhrB10Nw",
+            "title": "Fatigued Truckers: Deadly Consequences",
+            "secondDuration": 514,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

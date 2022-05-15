@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PWi7DDtyCHg",
-            "title": "Queen Elizabeth II's 90 Birthday",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "5drHW7A5buc",
             "title": "Gawker Files for Bankruptcy After Hulk Hogan Lawsuit",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "OJ: Made in America",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXxf33unt44",
+            "title": "How Did Clinton Donor Get on Security Board?",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

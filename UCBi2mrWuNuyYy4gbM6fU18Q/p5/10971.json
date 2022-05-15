@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "epvd_w76JJw",
-            "title": "Jack Taylor Demolishes Basketball Record",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "_h9J5QUpAN0",
             "title": "Dreamliner Set to Change the Face of Flight",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Middle East on the Brink:  Egypt's Role in Cease-Fire Talks",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "dFpjDLYSZdA",
+            "title": "Middle East on the Brink:  Gaza Celebrates",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

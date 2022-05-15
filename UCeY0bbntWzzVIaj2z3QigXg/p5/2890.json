@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jJlgGhTN5Ls",
-            "title": "Live: California Gov. Newsom Gives Update On Coronavirus Response | NBC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "pGcESyHVu10",
             "title": "Live: New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4473,
@@ -31,8 +25,14 @@
             "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5552,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXlah_G-87w",
+            "title": "L.A. Street Vendors, Banned From Selling During COVID-19, Get Lifeline  | NBC News",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

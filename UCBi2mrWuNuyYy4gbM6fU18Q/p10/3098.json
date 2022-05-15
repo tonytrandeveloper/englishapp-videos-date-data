@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lTqnnl_ftN4",
-            "title": "Donald Trump's Inauguration | January 20, 2017",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZI_Yy-dnS1o",
             "title": "Minnesota Gov. Mark Dayton Reveals Serious Health Issue",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Trump Signs Order to Move Forward Keystone, Dakota Access Pipelines",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "LAmNfQM0ndE",
+            "title": "3 Puppies Rescued From Avalanche in Italy | ABC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

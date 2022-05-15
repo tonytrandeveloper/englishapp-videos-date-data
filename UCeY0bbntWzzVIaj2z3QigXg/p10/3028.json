@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4GtD4y114QY",
-            "title": "Space Missions To Watch In 2017 | Mach | NBC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "5FFipCdxxJ8",
             "title": "Guided Meditation A Positive Addition To Morning Routine | Better | NBC News",
             "secondDuration": 190,
@@ -61,8 +55,14 @@
             "title": "Two Charged Over Oakland Warehouse Fire That Killed 36 People | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "AjO-nQad1Fk",
+            "title": "Orlando Business Mass Shooting: Fired Employee Kills 5 | NBC Nightly News",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

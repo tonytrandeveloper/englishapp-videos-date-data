@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j2w20Zd-Vfw",
-            "title": "Dr. Ben Carson Interview 2013: 'This Week' Sunday Spotlight",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "ldnyxTF5SoY",
             "title": "White House Immigration Plan Leaked, Marco Rubio Water Bottle Moment: 'This Week' Roundtable",
             "secondDuration": 1042,
@@ -31,8 +25,14 @@
             "title": "The Political Positioning Surrounding America's Budget, Sequester Cuts: 'This Week' Roundtable",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "M0gGEavkPig",
+            "title": "'This Week' Looks at Medal of Honor Ceremony: Honoring Clinton Romesha",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

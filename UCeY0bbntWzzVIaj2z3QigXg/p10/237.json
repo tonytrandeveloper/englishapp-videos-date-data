@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RqNbpG-1PYU",
-            "title": "Watch: U.S. Embassy in Baghdad Targeted By Rocket Attack",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "n4rDiJswV8s",
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 4175,
@@ -61,8 +55,14 @@
             "title": "This Morning’s Top Headlines – Jan. 13 | Morning News NOW",
             "secondDuration": 1317,
             "group": "group_7"
+        },
+        {
+            "videoId": "1Um7ad0IXCk",
+            "title": "Baseball Welcomes Its First Female Manager Of An Affiliate Team",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

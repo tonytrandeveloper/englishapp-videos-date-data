@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ypr8fHA7lPU",
-            "title": "Texas Bartender Finds New Calling On Front Lines Of Coronavirus Pandemic | NBC Nightly News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "dh-Oelb2Yos",
             "title": "CDC Warns Coronavirus Cases Among Children Are Rising | NBC Nightly News",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "MI Youth Facility Shut Down After Death Of 16-Year-Old Restrained By 6 Staff Members | NBC News",
             "secondDuration": 286,
             "group": "group_7"
+        },
+        {
+            "videoId": "AGhydI6h-5Y",
+            "title": "California Surpasses 600,000 Coronavirus Cases | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

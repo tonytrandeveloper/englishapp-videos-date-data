@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "w1AIuXXf7zw",
-            "title": "Displaced families in Texas must wait one week to return home",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "mN_koKqloU0",
             "title": "New ballistic missile launched from North Korea",
             "secondDuration": 85,
@@ -301,8 +295,14 @@
             "title": "Doctors struggle to diagnose man's mysterious illness: Part 2",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "WWFYOsB5_Wk",
+            "title": "North Korea test-fires another ballistic missile",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

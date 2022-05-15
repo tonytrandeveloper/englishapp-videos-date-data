@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RNSTcb9pXTA",
-            "title": "California Wildfires Threaten Yosemite | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "EZ4-Q1coyQE",
             "title": "Rick Perry Responds To Charges | NBC News",
             "secondDuration": 59,
@@ -31,8 +25,14 @@
             "title": "DNA Myths | Debunker | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "mgRTuyUBmSM",
+            "title": "Should Federal Gov. Intervene In Ferguson? | NBC News",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

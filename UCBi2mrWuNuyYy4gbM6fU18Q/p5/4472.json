@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W-CTMgNP4i0",
-            "title": "Briefing Room: Cohen interview, Trump Inaugural Fund investigation, Shutdown Looms, Chief of Staff",
-            "secondDuration": 1612,
-            "group": "group_7"
-        },
-        {
             "videoId": "j6qjc0bl5JE",
             "title": "The Debrief: Michael Cohen interview, bomb threats reported across U.S., France shooting suspect",
             "secondDuration": 1536,
@@ -31,8 +25,14 @@
             "title": "Family of American student found dead in Netherlands speaks out",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "rb81QmP6fpo",
+            "title": "CBS acknowledges confidential $9.5M settlement with actress",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

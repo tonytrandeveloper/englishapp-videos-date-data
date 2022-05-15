@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zCcQ06RNHHI",
-            "title": "Vice President Mike Pence meets with Harvey survivors",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "i8NqGuBXzDc",
             "title": "White House holds press briefing as Hurricane Harvey relief efforts continue",
             "secondDuration": 3950,
@@ -121,8 +115,14 @@
             "title": "Harvey slams eastern Texas with new floods",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKDKhgawrzE",
+            "title": "Volunteers answer Harvey victims' pleas for rescue",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

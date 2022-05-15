@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Tj2s3T5JK50",
-            "title": "Crime-Fighting Chemical Spray Catches Thieves Off Guard",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "FC_wapgQLxw",
             "title": "Donald Trump 'This Week' Interview",
             "secondDuration": 319,
@@ -61,8 +55,14 @@
             "title": "Real Mona Lisa Discovered?",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "tlz8H8fDXcw",
+            "title": "Brian Banks' NFL Debut After Five Years in Prison",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

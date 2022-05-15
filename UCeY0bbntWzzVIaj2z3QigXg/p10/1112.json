@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "43xvd0YUGDs",
-            "title": "Pres. Trump’s Doctor Provides Health Update from Walter Reed",
-            "secondDuration": 2568,
-            "group": "group_7"
-        },
-        {
             "videoId": "M3JjUUQTYgs",
             "title": "How Does Experimental Covid-19 Treatment Trump Received Work? | NBC News",
             "secondDuration": 232,
@@ -61,8 +55,14 @@
             "title": "What The Constitution Says About A President’s Illness | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "hzq5Vphs_28",
+            "title": "How Former Presidents Have Dealt With Health Challenges | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

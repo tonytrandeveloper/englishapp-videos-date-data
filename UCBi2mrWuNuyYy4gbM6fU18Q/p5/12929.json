@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a_HVXiTXMLM",
-            "title": "Top Line: Mass. Upset and Education Reform",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "biR-vQaHuzg",
             "title": "Reagan: Seldom Have the Stakes Been Higher",
             "secondDuration": 472,
@@ -31,8 +25,14 @@
             "title": "JFK: 'The Tide Is Unfavorable'",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "HOme8RQtVyg",
+            "title": "McCain: Cut Pork, Cut Taxes",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

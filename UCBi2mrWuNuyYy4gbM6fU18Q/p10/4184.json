@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zcTTjwfoSmM",
-            "title": "Dr. Dre's New Album Release | ABC News",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "8bw192xR1uk",
             "title": "Devastating Wildfires Destroy Homes in Northern California  | ABC News",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "FDA Warns That Commonly Used Medical Device Can Be Hacked",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "CsuC11NNO7A",
+            "title": "Country Super Star Luke Bryan Uses Tinder to Debut New Single 'Kill the Lights'",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

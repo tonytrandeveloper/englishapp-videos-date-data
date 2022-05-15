@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VC0Lfe1binE",
-            "title": "Man Catches 5 Foul Balls At Detroit Tigers Game",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "OZi9BtHouXA",
             "title": "Father Charged With Murder After Leaving Baby In Hot Car",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "OJ Simpson Trial: Ex-DA Says He Didn't Want Marcia Clark As Prosecutor",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "i5rcEmxofos",
+            "title": "Hillary Clinton Comes On Strong in New York",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

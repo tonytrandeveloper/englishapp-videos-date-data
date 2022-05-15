@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5Dx-AtPTtfQ",
-            "title": "Major Storms Snarl Travel, Bring Dangerous Conditions Across The U.S. | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "LAkM6mfg8VA",
             "title": "House Intelligence Committee To Vote This Week On Impeachment Report On Ukraine | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Hong Kong Protesters Sport Pro-Trump Attire, Thank U.S. For Support | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "QlmDxKr9CfA",
+            "title": "MTP Compressed: Impeachment Moves Forward As 2020 Dems Face Questions On Campaign Trail",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

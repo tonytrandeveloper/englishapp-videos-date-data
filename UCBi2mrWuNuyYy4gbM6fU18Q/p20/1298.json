@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Dij2eO-8Oqo",
-            "title": "President Trump claims vindication after new indictments in Russia probe",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "-hC6XcCnovo",
             "title": "Dancers competing near Parkland, Florida, honor shooting victim Jaime Guttenberg",
             "secondDuration": 108,
@@ -121,8 +115,14 @@
             "title": "Florida school shooting: Details emerge in timeline, what we know about suspect | ABC News",
             "secondDuration": 539,
             "group": "group_7"
+        },
+        {
+            "videoId": "BmcSsc0TZxU",
+            "title": "Florida school shooting survivors recall shots, wounded classmates | ABC News",
+            "secondDuration": 415,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

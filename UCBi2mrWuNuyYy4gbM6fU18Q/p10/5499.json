@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PkFGgcBeOzc",
-            "title": "Soldier Surprises Dad Live on 'Good Morning America': West Point's Cameron Goins Reunites with Dad",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "lq6nC2AfxUM",
             "title": "iLuminate Light Show: Computer Scientist Combines Art With Technology on 'GMA'",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "EDNOS: Most Dangerous, Unheard of Eating Disorder | Nightline | ABC News",
             "secondDuration": 482,
             "group": "group_7"
+        },
+        {
+            "videoId": "ul_F-UoYEC0",
+            "title": "Mitt Romney Comments on President Obama's Win in 2012 Election",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

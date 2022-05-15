@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EovIGye_O4w",
-            "title": "ICE preparing to raid 10 major cities",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "YYbsOjtXs-M",
             "title": "President Trump reverses on Iran strike",
             "secondDuration": 298,
@@ -121,8 +115,14 @@
             "title": "More than 70 Philadelphia police officers put on administrative duty",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "uTWfl48kcfE",
+            "title": "The Briefing Room: Trump on Iran, Biden comments/son's foreign business dealings | ABC News",
+            "secondDuration": 1676,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

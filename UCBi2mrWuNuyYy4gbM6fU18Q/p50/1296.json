@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "MsSReN5w544",
-            "title": "Hit and Run Caught on Tape",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "KBu7L5kfdGo",
             "title": "Amplified: Versus",
             "secondDuration": 376,
@@ -301,8 +295,14 @@
             "title": "Inside the White House Security Meeting",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "kk0KP3S1k34",
+            "title": "When the Cheering Stops",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

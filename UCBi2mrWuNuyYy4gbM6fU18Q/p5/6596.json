@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d3Oe0aPqVvg",
-            "title": "NY-NJ Bombing Suspect Video Before Police Shootout",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "QFVSFvsBYaY",
             "title": "Mitt Romney Full Speech: Presidential Debates Didn't Address Key Issues",
             "secondDuration": 490,
@@ -31,8 +25,14 @@
             "title": "Trump to Spend Over $100M on Campaign [EXCLUSIVE INTERVIEW]",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "SlhWMOhYT48",
+            "title": "Trump Slams Clinton for Going to Adele Concert [EXCLUSIVE INTERVIEW]",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QRZTlYNjmso",
-            "title": "COVID-19 Fears Turn Beijing’s Busiest Streets Into A Ghost Town | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "GR5Z6bKRp9A",
             "title": "Video Shows Nancy Pelosi Ripping Trump's Speech In Preparation For Tearing It In Half | NBC News",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "McConnell, Schumer React After The Senate Votes To Acquit President Donald Trump | NBC News",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "v4S3MjxPMhk",
+            "title": "Justice John Roberts Calls His Impeachment Role ‘Ill Defined’ After Trump Acquitted | NBC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

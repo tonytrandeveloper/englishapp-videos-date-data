@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xNj12lPDNSQ",
-            "title": "Inspectors Try to Help Hoarders Clean Up Their Act",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "eyl3Z_9xZLc",
             "title": "GM CEO Faces Congressional Hearing on Faulty Ignition Switches",
             "secondDuration": 166,
@@ -61,8 +55,14 @@
             "title": "'Jeopardy' Celebrates Its Golden Anniversary",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "WBxgSad9sx0",
+            "title": "General Motors Recalls More Than 1 Million Cars",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

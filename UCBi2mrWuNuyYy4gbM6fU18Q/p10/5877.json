@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "snIhWbyTqzw",
-            "title": "Super Tuesday: Comedy Central's Indecision 2012 Bloggers Take on Republican Results",
-            "secondDuration": 692,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzuZdedYjyM",
             "title": "Super Tuesday Results 2012: Newt Gingrich's Official Speech After Georgia Primary Win",
             "secondDuration": 1370,
@@ -61,8 +55,14 @@
             "title": "Pig Racing in Texas",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "SqH-8JTe_5w",
+            "title": "Mom Protects Kids, Loses Legs in Tornado",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

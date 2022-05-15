@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EJ6p7Tngw8w",
-            "title": "Jacqueline Tran: \"For student success it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "gLKomynizBk",
             "title": "Weird Al Yankovic: \"For student success, it takes...\"",
             "secondDuration": 14,
@@ -31,8 +25,14 @@
             "title": "Aimee Bartis: \"For Student Success it Takes...\"",
             "secondDuration": 11,
             "group": "group_7"
+        },
+        {
+            "videoId": "AE6pcZGA0i0",
+            "title": "Paula Meckley: 'For student success it takes...'",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

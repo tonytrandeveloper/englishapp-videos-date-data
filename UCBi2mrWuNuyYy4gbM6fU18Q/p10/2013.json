@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QfdiamORViQ",
-            "title": "World in Photos, June 6: D-Day commemorations, bridge of the year, a white tiger cub",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "OlPP_-OAmiU",
             "title": "The Briefing Room: Border security, Mexico tariffs, DNC & climate change, D-Day remembered",
             "secondDuration": 1642,
@@ -61,8 +55,14 @@
             "title": "Heroes return to Normandy for 75th anniversary of D-Day",
             "secondDuration": 323,
             "group": "group_7"
+        },
+        {
+            "videoId": "bYoKRYhs-Lg",
+            "title": "Raptors seize the lead with Game 3 win in Oakland",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

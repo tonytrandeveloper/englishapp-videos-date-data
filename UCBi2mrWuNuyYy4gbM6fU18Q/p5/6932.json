@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vCAd2V5crt4",
-            "title": "Shanghai Disney Resort | An Inside Look",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "8GNP7a1Fb3k",
             "title": "Hillary Clinton Campaigns With Joe Biden",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Gunfire False Alarm at JFK Airport",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "zNyVsn-V6J0",
+            "title": "Ryan Lochte Robbed at Gunpoint",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

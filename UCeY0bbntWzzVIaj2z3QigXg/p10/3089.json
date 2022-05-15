@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6-2qurk22h0",
-            "title": "Fox News Fires Bill O’Reilly After Sexual Harassment Claims | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "rxlLSlFwQAE",
             "title": "Rex Tillerson Announces Review Of Iran Deal | NBC News",
             "secondDuration": 117,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Targets High-Skill Foreign Worker Program With New Order | NBC Nightly News",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "AjHkFxrktu4",
+            "title": "Fresno Shooting Spree: Three Dead After Gunman Opens Fire | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

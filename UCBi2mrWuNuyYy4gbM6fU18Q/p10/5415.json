@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lkGe3GsxLRw",
-            "title": "'Back to the Beginning' Christiane Amanpour Part 8: Solomon's Temple: Fabled Sacred Spot for Faiths",
-            "secondDuration": 422,
-            "group": "group_7"
-        },
-        {
             "videoId": "7ezmjZevXnk",
             "title": "'Back to the Beginning' Christiane Amanpour Part 5: Moses on Mount Sinai: The Ten Commandments",
             "secondDuration": 516,
@@ -61,8 +55,14 @@
             "title": "Norovirus Cruise Ship Outbreak: Virus Leaves Hundreds Ill on Queen Mary 2, Emerald Princess",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "vyBpr03QWw4",
+            "title": "Woman Charged for Gun in Deadly Firefighter Ambush",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

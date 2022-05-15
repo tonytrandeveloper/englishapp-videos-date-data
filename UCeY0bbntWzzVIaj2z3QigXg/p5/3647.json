@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6TGghnNQXUA",
-            "title": "Tropical Depression Imelda Brings Heavy Rain, Flooding To Texas | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "BtrqX0G3MZs",
             "title": "Trump Administration Announces Federal Rule On State Fuel Economy, Emissions Standards | NBC News",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "Federal Reserve Lowers Interest Rates | NBC News Now",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wu8IogqWMOo",
+            "title": "Democratic Donor Ed Buck Charged With Running Drug House | NBC News Now",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

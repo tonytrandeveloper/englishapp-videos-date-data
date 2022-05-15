@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WrtVKFCIibU",
-            "title": "Police Investigation Turns to Stepfather",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "hZC4NSAwzyY",
             "title": "Killer's Confession Jumpstarts Case",
             "secondDuration": 429,
@@ -61,8 +55,14 @@
             "title": "Raging Winds Beat Down as Storm Forms",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTv4I83OAZk",
+            "title": "Freewheeling 'Four-Wheel Bob'",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

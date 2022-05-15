@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tarn7tJk5NE",
-            "title": "Yale’s Most Popular Class Is Teaching Students How To Lead Happier Lives | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "8MbCcDjf88w",
             "title": "Sheriff’s Deputy Killed, Others Wounded In Colorado Shootout | NBC Nightly News",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Stock Market Recovers Half Of What Was Lost After Largest Dow Drop In History | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "BKuFsI_0KGA",
+            "title": "SpaceX’s Falcon Heavy Rocket Nails Its Maiden Test Flight | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "00GKmNkpZxo",
-            "title": "NY Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News (Live Stream Recording)",
-            "secondDuration": 3544,
-            "group": "group_7"
-        },
-        {
             "videoId": "kgEzBYEjNek",
             "title": "Florida Gov. DeSantis Gives Coronavirus Update | NBC News (Live Stream Recording)",
             "secondDuration": 466,
@@ -31,8 +25,14 @@
             "title": "Addiction Support Groups Turn To Apps To Help Members Stay On Track | NBC News NOW",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "hjZOcPV7oLY",
+            "title": "Inside Ford Automotive Factory Producing Medical Equipment To Fight COVID-19 | NBC News NOW",
+            "secondDuration": 223,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

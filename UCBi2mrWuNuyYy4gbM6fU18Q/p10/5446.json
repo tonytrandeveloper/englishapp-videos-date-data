@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZpHAOvpoCSc",
-            "title": "12.12.12 Concert Recap: Mick Jagger, Bruce Springsteen, Kanye West, Alicia Keys Deliver",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "j3xM2yK9WNk",
             "title": "WEBCAST: This Year's Most Fascinating Person",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Kim Jonh Un's North Korea Launches Successful Long-Range Missile",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "1zGV9RYIhaQ",
+            "title": "Oregon Mall Shooting: Clackamas Town Center Gunman Identified as Jacob Tyler Roberts",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

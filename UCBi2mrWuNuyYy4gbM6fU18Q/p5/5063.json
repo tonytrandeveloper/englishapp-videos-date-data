@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7uTUoG_0Cjs",
-            "title": "Sen. Lindsey Graham asks Facebook CEO if company needs government regulation",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "TX8MSZy5I3I",
             "title": "Senator catches Mark Zuckerberg off guard by asking which hotel he stayed in",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "SPECIAL REPORT: Mark Zuckerberg testifies before lawmakers",
             "secondDuration": 743,
             "group": "group_7"
+        },
+        {
+            "videoId": "gSdebby9fGc",
+            "title": "White House press briefing on Michael Cohen raid, future of Mueller investigation | ABC News",
+            "secondDuration": 4248,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

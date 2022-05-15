@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jV__CuGnmxY",
-            "title": "91 New Volcanoes Discovered Underneath The Antarctic Ice | Mach | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QjYoiF8RJE",
             "title": "President Trump Switches To Message Of Unity: 'No Division Too Deep For Us to Heal' | NBC News",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "A For Average, B For Bad: Behind The Model Minority Myth | NBC Asian America",
             "secondDuration": 453,
             "group": "group_7"
+        },
+        {
+            "videoId": "eWDpOpnONL4",
+            "title": "Can An Algorithm Save America's Justice System? | NBC News",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

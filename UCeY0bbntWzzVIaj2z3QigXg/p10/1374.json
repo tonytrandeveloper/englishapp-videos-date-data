@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q33xRQctwp4",
-            "title": "WHO Warns Of ‘Second Peak’ In Virus Cases: This Has Happened In Past Pandemics | NBC News NOW",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "JamDJKL4Hd8",
             "title": "Class Of 2020: Illinois High School Does Drive-Thru Graduation Ceremony | NBC News NOW",
             "secondDuration": 103,
@@ -61,8 +55,14 @@
             "title": "Inside Brazil Field Hospital Battling Coronavirus | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "OqHnJ3Ji5r8",
+            "title": "Summer Camps Take Steps To Prevent Coronavirus Spread | NBC News NOW",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HbGuQaTvKHE",
-            "title": "Creative Post-it Battle Takes Over New York City Office Windows | NBC Nightly News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "zVJlQF1MJW4",
             "title": "Search for Missing EgyptAir Jet’s Black Boxes Intensifies | NBC Nightly News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Gunman Shot by Secret Service Near White House | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "tFJdeQ2UcOM",
+            "title": "Tom Brokaw Awarded Legion of Honor in France | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

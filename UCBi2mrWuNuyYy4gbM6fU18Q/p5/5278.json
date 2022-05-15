@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8s1m7GPh2LA",
-            "title": "Confessions from a onetime Mexican drug-cartel hit man",
-            "secondDuration": 463,
-            "group": "group_7"
-        },
-        {
             "videoId": "ykECXnEIcZs",
             "title": "More than a dozen still missing in California mudslides",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Lawmakers say DACA deal is near",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "phlHlt2M8oE",
+            "title": "Backlash over alleged gender wage gap among 'All the Money in the World' cast",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

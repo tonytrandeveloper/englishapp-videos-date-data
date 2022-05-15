@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iiqjbE6k03Y",
-            "title": "Fort Hood Suspect's Ties to Terrorists",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "4PA9dXtAoLw",
             "title": "Steele vs. Kaine",
             "secondDuration": 850,
@@ -61,8 +55,14 @@
             "title": "The Art of Beating Long Lines",
             "secondDuration": 262,
             "group": "group_7"
+        },
+        {
+            "videoId": "flGmbqgXKAw",
+            "title": "Meet the Voice Behind the Catchphrase",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

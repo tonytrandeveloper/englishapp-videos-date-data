@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5YHVcT7B5gw",
-            "title": "Memorial Day: Remembering the Fallen",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "lSinpcuQaZM",
             "title": "Syria Massacre Leads to Outrage Around the Globe",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "80-Year-Old Skydiver's Nightmare Jump",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "u3in7_x1zQw",
+            "title": "Pippa's Fashion Flop",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

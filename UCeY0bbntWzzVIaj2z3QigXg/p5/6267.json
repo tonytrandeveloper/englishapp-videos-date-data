@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ahvnz2ijhgs",
-            "title": "From DJ To Artist: Alex Sensation On the Reggaeton Movement, First Album | NBC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "y6aXiedL6Tc",
             "title": "South Koreans Celebrate Court's Removal Of President Park | NBC News",
             "secondDuration": 56,
@@ -31,8 +25,14 @@
             "title": "Germany Attack: 5 Injured In Ax Stabbings At Dusseldorf Train Station | NBC Nightly News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "TggTzPcODBE",
+            "title": "CIA Leak: Assange Warns Of Cyber Arsenal Leak, US Scrambles To Find Leaker | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

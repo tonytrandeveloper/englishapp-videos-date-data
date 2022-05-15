@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o9uZZse5-c0",
-            "title": "NSA Whisleblower Edward Snowden on the Move From Hong Kong",
-            "secondDuration": 213,
-            "group": "group_7"
-        },
-        {
             "videoId": "OL5Fa8EZTEA",
             "title": "'This Week' Keith Alexander Interview: Snowden 'Has Caused Irreversible, Significant Damage'",
             "secondDuration": 826,
@@ -31,8 +25,14 @@
             "title": "Edward Snowden Flees Hong Kong",
             "secondDuration": 245,
             "group": "group_7"
+        },
+        {
+            "videoId": "E3F_lKsFNfw",
+            "title": "Stem Cell Therapy Becomes More Widely Available",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

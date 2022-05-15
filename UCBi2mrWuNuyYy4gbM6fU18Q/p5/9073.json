@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bGPpQrNA9Ks",
-            "title": "Apple Pie | INSOMNIAC KITCHEN (Episode 16)",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "IhSvVXQiouw",
             "title": "WEBCAST: Motorist Crashes Mustang On Golden Gate Bridge Walkway",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "The Beauty of Ugly Christmas Sweaters",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "b2Vw1RZSxoU",
+            "title": "Detroit Plunges Into Darkness",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

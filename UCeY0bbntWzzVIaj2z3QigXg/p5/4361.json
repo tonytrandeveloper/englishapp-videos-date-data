@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7OvmKSETOU0",
-            "title": "Indonesian Authorities Warn Of Possible Second Tsunami | NBC Nightly News",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "_BW5tEcAOSs",
             "title": "Russia Testing New Hypersonic Nuclear Missile | NBC Nightly News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Wall Street Has Largest Single-Day Point Gain Ever | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRQ2mX1YK0A",
+            "title": "President Donald Trump From Iraq: 'I Had Concerns For The Institution Of The Presidency' | NBC News",
+            "secondDuration": 445,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

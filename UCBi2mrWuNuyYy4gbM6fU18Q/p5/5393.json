@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KBUvD-kfpKc",
-            "title": "Roy Moore faces new accusations of sexual misconduct",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "_60knLlUmi8",
             "title": "Corporate landlord can be slow to fix problems and quick to threaten eviction: Critics",
             "secondDuration": 221,
@@ -31,8 +25,14 @@
             "title": "Trump refuses to answer questions about Alabama Senate candidate",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "b1t-_i-klOI",
+            "title": "UCLA basketball players apologize for international incident",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

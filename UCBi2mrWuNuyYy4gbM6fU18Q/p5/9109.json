@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jN7G4m603nE",
-            "title": "Gas Prices Expected to Drop to the Lowest in 5 Years",
-            "secondDuration": 52,
-            "group": "group_7"
-        },
-        {
             "videoId": "rUs8Wk8mzug",
             "title": "Bill Cosby Faces Rape Allegations",
             "secondDuration": 113,
@@ -31,8 +25,14 @@
             "title": "Rape Allegations Against Bill Cosby Reemerge",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "xYkM9iCrHHk",
+            "title": "Wolfgang Puck’s Thanksgiving Feast Recipes",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

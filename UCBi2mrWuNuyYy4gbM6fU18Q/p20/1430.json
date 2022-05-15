@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "W7NNOfkcKRg",
-            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
-            "secondDuration": 3184,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hrt2D33ouLk",
             "title": "White House faces new questions on Russia investigation",
             "secondDuration": 237,
@@ -121,8 +115,14 @@
             "title": "New developments in the brutal murders of 4 young Pennsylvania men",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fw6CilNx26U",
+            "title": "New developments in Bahamas missing newlywed mystery",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CyDRfK2S1Iw",
-            "title": "Lightning Strike Slo Mo",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "zxkH1ZNekew",
             "title": "Explosion in Mediterranean Resort of Antalya | Turkish Media Reports",
             "secondDuration": 43,
@@ -31,8 +25,14 @@
             "title": "Obama Reads Mean Tweets on Jimmy Kimmel Live!",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "kYqt6ODfw1E",
+            "title": "First Photograph of Earth from Space",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

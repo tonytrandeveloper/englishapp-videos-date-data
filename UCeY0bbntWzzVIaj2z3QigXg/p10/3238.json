@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jA5qvgMgErE",
-            "title": "John McCain Explains Why ‘Obamacare Was Doomed To Fail’ | NBC News",
-            "secondDuration": 51,
-            "group": "group_7"
-        },
-        {
             "videoId": "mLUOxEJFBZw",
             "title": "Paul Ryan: 'Always A Scandal' With The Clintons | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton On FBI Probe: ‘There Is No Case Here’ | NBC News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "eJA7-hxA1Vc",
+            "title": "White House: Will ‘Neither Defend or Criticize’ FBI Director | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

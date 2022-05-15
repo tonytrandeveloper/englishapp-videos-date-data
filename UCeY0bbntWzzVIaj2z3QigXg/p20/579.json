@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "c3V3EkyG0wg",
-            "title": "Multiple Wildfires Burn Across Oregon | NBC News NOW",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uwsw_l7K_Zo",
             "title": "Detroit Mother Worries Autistic Daughter Will Lose Out On Special Instruction | NBC News NOW",
             "secondDuration": 331,
@@ -121,8 +115,14 @@
             "title": "Portland Protests Surpass 100 Consecutive Days | NBC Nightly News",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "8lLKc6rHKpM",
+            "title": "California Wildfire Traps Hundreds In National Forest | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

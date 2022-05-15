@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "swn5C7N9zOU",
-            "title": "'Briefing Room': Bomb investigation,  US troops to Mexico border, HHS Sec'y Azar on health care",
-            "secondDuration": 1813,
-            "group": "group_7"
-        },
-        {
             "videoId": "W2Cje0iLjpg",
             "title": "'The Debrief': Investigation into explosive devices sent to public figures | ABC News",
             "secondDuration": 3249,
@@ -61,8 +55,14 @@
             "title": "7-year-old scores golden ticket to American Idol",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "be6NlL5jgHg",
+            "title": "7th child dies from outbreak at NJ rehabilitation center",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

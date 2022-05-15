@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Mk6lm9FighI",
-            "title": "How to Disappear in the Digital Age",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSKTTz0_gJk",
             "title": "Tapper Fact Checks Obama's Speech",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "TOP LINE: Obama's Primetime Message",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZX-bFh3sRk",
+            "title": "TOP LINE: Ricci Goes to Hill for Sexual Assault Victims",
+            "secondDuration": 609,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

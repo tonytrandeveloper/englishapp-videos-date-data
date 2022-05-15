@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JHAeMQSnjFo",
-            "title": "A Timeline Of President Donald Trump's Russia Denials: 'No Collusion' | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "0QMp4L78qTU",
             "title": "Newly-Engaged Royal Couple Prince Harry And Meghan Markle Make First Public Appearance | NBC News",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Kate Steinle's Family Speaks About Frustration And Grief On The Verdict Of The Case | NBC News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "80dGkH41cQY",
+            "title": "American Airlines Passengers In Limbo After Widespread Scheduling Glitch | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

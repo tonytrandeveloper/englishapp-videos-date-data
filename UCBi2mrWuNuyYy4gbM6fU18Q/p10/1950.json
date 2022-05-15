@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z9S3K3Mrng0",
-            "title": "The accident on the moon that nearly sabotaged historic landing",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "lNuBPgOJOZg",
             "title": "Suspect charged in murder of beloved Baton Rouge civil rights leader",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Emmy Nominations 2019: Ken Jeong and D'Arcy Carden announce the nominees",
             "secondDuration": 911,
             "group": "group_7"
+        },
+        {
+            "videoId": "8cXt3beSiTM",
+            "title": "The Debrief: Trump's tweet fallout, Jeffrey Epstein latest, Puerto Rico protest governor | ABC News",
+            "secondDuration": 1624,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

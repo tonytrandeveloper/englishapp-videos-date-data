@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VO_TiveEfXE",
-            "title": "Airbnb User Throws Raucous New Year's Party, Trashes House",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "pl1ghKI-mi8",
             "title": "Donald Trump Accuses Hillary Clinton of Spreading Terror, Not Diplomacy",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Search for Birth Mother | Adopted Daughter Meets Mom",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0GcW5NCEUM",
+            "title": "Bill Cosby Speaks Out for the First Time Since Charged",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

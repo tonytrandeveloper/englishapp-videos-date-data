@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "idAeFiAlryc",
-            "title": "Pete Buttigieg To Suspend Presidential Campaign | NBC Nightly News",
-            "secondDuration": 89,
-            "group": "group_7"
-        },
-        {
             "videoId": "drHKUYQBNus",
             "title": "Meet the talented 6-year-old drummer already getting university attention",
             "secondDuration": 177,
@@ -31,8 +25,14 @@
             "title": "Watch Joe Biden's Full South Carolina Victory Speech | NBC News",
             "secondDuration": 735,
             "group": "group_7"
+        },
+        {
+            "videoId": "oMNVqrMZD4M",
+            "title": "Watch 2020 Presidential Candidates React After South Carolina Primary Results | NBC News",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

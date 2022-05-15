@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NENqlOgLqyA",
-            "title": "Phyllis Diller Dead at 95: Queen of Comedy's Best Moments",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "K43RAaV8Ttw",
             "title": "Rep. Todd Akin Remains in Race Despite GOP Outcry Over 'Legitimate Rape' Comments",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "'Baywatch' Star's Noah's Ark Search: Donna D'Errico Risks Life on Turkey's Mount Ararat",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "fOp_je__Atc",
+            "title": "WEBCAST: Still Swimming From Cuba to Florida Keys",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

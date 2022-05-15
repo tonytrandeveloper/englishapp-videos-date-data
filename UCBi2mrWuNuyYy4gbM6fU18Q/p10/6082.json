@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "R3hbWR3BoDs",
-            "title": "New Infectious Disease From Ticks",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "-kffkKw8dYc",
             "title": "Sen. John McCain's Comments on Immigrants and Wildfire 'Irresponsible', Says Activist",
             "secondDuration": 350,
@@ -61,8 +55,14 @@
             "title": "Extreme Weather: Tornado Outbreak in 5 States",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "VNvQNrC-Tac",
+            "title": "New Cigarette Labels from the FDA",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

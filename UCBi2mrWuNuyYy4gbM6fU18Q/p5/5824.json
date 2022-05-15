@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8GhvdC74REU",
-            "title": "Vigil held for London terror attack victims",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "VRIW8sOEcBQ",
             "title": "President Trump announces plan to privatize air traffic control (full remarks)",
             "secondDuration": 1124,
@@ -31,8 +25,14 @@
             "title": "Trump turns to Twitter after London attack",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "IcQEndxBPd4",
+            "title": "London attack: Eight minutes of terror",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

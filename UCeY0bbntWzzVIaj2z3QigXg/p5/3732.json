@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GcVZNsq2_eQ",
-            "title": "Nonprofit Changing Lives With Service Dogs For Veterans And First Responders | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "F8iPbiwxRF0",
             "title": "Dramatic Video Shows Alaska Glacier Collapse Near Kayaker | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Tense Standoff In Portland Between Far Right And Anti-Fascist Groups | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "IrrtcZTAGP0",
+            "title": "Watch Live: Far-Right, Extremist Groups Clash In Portland, Oregon | NBC News",
+            "secondDuration": 9083,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

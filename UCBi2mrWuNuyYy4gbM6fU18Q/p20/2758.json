@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AVqIyFZdI8A",
-            "title": "George Will on Election 2012 Results: Marco Rubio is 'Big Winner'",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "gXpxa4sFH4o",
             "title": "Election 2012: Scott Brown Says He's Leaving Dysfunctionality",
             "secondDuration": 230,
@@ -121,8 +115,14 @@
             "title": "Barack Obama, Mitt Romney: Women's Votes in 2012 Election",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "RpuPjnbH6ro",
+            "title": "Barack Obama: Behind the Scenes of President's 2012 Campaign",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GOaQmFW4WrQ",
-            "title": "State of emergency declared ahead of Hurricane Michael",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "qot7FT7neBs",
             "title": "Pizza delivery hero meets Taylor Swift",
             "secondDuration": 147,
@@ -121,8 +115,14 @@
             "title": "Senate Dem: Justice Kavanaugh will have 'a big asterisk after his name'",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "elPnkAbQTpA",
+            "title": "First lady talks about her husband, Kavanaugh and the #MeToo movement",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

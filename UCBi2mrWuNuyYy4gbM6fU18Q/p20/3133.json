@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vjf4e7ZAc9M",
-            "title": "Tsunami of Toxic Sludge",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "LI4IGcMzsso",
             "title": "Political Smackdown in Connecticut",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Advice for Travelers",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "XgWXwv4LVfM",
+            "title": "Town Hall Debate: Setting Up the Debate",
+            "secondDuration": 385,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

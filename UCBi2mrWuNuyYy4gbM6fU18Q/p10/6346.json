@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PTP1JU1aVEk",
-            "title": "The Conversation: U.S. Secret Soccer Weapon",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "RM1xOThQgR0",
             "title": "Washington Post's Karen Tumulty on 'Top Line'",
             "secondDuration": 292,
@@ -61,8 +55,14 @@
             "title": "Autistic Student's inspirational Graduation Speech",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yr9awePM1VE",
+            "title": "'Boston Med' Premieres June 24 on ABC",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

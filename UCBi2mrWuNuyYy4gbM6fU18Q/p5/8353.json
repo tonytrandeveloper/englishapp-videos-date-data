@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3YpzXsGNtjc",
-            "title": "GOP Debate Coverage Recap",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "P5gi0iHe1v4",
             "title": "Typhoon Soudelor Turns Deadly",
             "secondDuration": 118,
@@ -31,8 +25,14 @@
             "title": "Kangaroo Hugging A Teddy Bear",
             "secondDuration": 44,
             "group": "group_7"
+        },
+        {
+            "videoId": "U2zjsh5noOw",
+            "title": "First GOP Debate: Donald Trump, and Other Memorable Moments",
+            "secondDuration": 444,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

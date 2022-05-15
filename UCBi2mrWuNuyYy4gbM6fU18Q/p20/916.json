@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7u_SDQz7MWA",
-            "title": "House Intelligence Committee expects to hear from whistleblower 'very soon': Schiff | ABC News",
-            "secondDuration": 671,
-            "group": "group_7"
-        },
-        {
             "videoId": "vE-vDUUS5lc",
             "title": "'I'm deeply disturbed' by whistleblower complaint: Former Trump adviser | ABC News",
             "secondDuration": 360,
@@ -121,8 +115,14 @@
             "title": "The Debrief: Acting DNI chief testifimony, vaping emergency, climate change walkout| ABC News",
             "secondDuration": 1942,
             "group": "group_7"
+        },
+        {
+            "videoId": "h3fLDFpWglA",
+            "title": "Airline bag handler arrested for alleged $250K heist | ABC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

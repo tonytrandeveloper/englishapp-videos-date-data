@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "LfY4540dZt8",
-            "title": "Trump rallies in red states, where his approval ratings are high",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "9fuqcTkEGug",
             "title": "Trump and Obama make final push before midterm elections",
             "secondDuration": 196,
@@ -301,8 +295,14 @@
             "title": "Alleged synagogue shooter charged with 29 federal counts",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "fObXWYRSjuE",
+            "title": "New video shows chaos amid deadly school shooting",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uqplr_QqhU0",
-            "title": "Top Story with Tom Llamas Full Broadcast - October 1st | NBC News NOW",
-            "secondDuration": 3003,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhxQ9o2X5HM",
             "title": "Nightly News Full Broadcast - October 1st",
             "secondDuration": 1124,
@@ -31,8 +25,14 @@
             "title": "Biden Heads To Capitol Hill After Infrastructure Vote Delay",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "RNe_5UiF1Wk",
+            "title": "Hospitals Facing Backlog In Patients Who Delayed Care Due To Pandemic",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

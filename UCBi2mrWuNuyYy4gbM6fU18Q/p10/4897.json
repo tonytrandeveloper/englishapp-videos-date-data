@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tn0Mk63oWv8",
-            "title": "Indiana Supermarket Shooting: 2 Dead at Martin's Super Market in Elkhart",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "oDNMPiKHEJ8",
             "title": "Exercise Overload: Are We Pushing Ourselves Too Far?",
             "secondDuration": 439,
@@ -61,8 +55,14 @@
             "title": "Amy Robach's New Haircut During Chemo",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "FmQiDxZPd_U",
+            "title": "Moment of Crisis: Hostage Negotiators on the Job",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

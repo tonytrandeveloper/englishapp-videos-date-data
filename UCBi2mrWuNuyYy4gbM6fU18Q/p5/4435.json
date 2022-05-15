@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QipI59Ohk34",
-            "title": "How music is helping wounded soldiers heal",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "hOhwI1v6iyI",
             "title": "The year ahead in politics",
             "secondDuration": 248,
@@ -31,8 +25,14 @@
             "title": "Happy New Year from Brazil",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "nT4S3RmaPd4",
+            "title": "Urgent manhunt for the gunman wanted in killing of a 7-year-old girl in Houston",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

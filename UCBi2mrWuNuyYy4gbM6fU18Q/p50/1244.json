@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "KysA5xwdDHU",
-            "title": "Families USA's Ron Pollack on 'Top Line'",
-            "secondDuration": 269,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ny0fdTH1nJk",
             "title": "Judd Gregg: 'It's About Time' for Bipartisanship",
             "secondDuration": 615,
@@ -301,8 +295,14 @@
             "title": "Roll Call's David Drucker on 'Top Line'",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "zcz2bCYdUaU",
+            "title": "ABC News' Karen Travers on 'Top Line'",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

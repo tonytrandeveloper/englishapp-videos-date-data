@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Av63Q4JkFFE",
-            "title": "'This Week': Roundtable on Pope Francis",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "zMVxNWCIWXo",
             "title": "'This Week' Sunday Spotlight: John Kerry on Vietnam",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "Kim Jong-un Orders Execution of His Uncle",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "lEvAWxKafus",
+            "title": "New Beatles Recordings to be Released on iTunes",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

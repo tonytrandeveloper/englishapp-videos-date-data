@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VzWcXu3DkNA",
-            "title": "Road Drones: Self Driving Trucks Cross Europe | 101 | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "kBjAdi3v9jg",
             "title": "Hillary Clinton Takes A Ride On The NYC Subway | NBC News",
             "secondDuration": 62,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz: Donald Trump Is 'Very Angry' After Wisconsin Loss | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "pb8X-lBNK24",
+            "title": "Durbin With Merrick Garland: ‘I Hope That The Republicans Come To Their Senses’ | NBC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

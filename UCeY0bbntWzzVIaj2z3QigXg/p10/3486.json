@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-4Gob1SgslE",
-            "title": "Donald Trump Makes His Mark During Republican Primary Debate | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0YU6HYiV5M",
             "title": "GOP Candidates Throw Out Their Best Hillary Clinton Zingers | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Planned Parenthood & The NRA Top Latest Poll | Chuck's Take | NBC News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "n4_zvHV38Ls",
+            "title": "Hillary Clinton Slams Jeb Bush for Calls to Defund Planned Parenthood | NBC Nightly News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

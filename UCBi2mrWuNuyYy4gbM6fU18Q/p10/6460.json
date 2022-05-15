@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H2Vn1DEIKV0",
-            "title": "China vs. USA: Green, Clean Energy Leaders",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "2qNpI3hMDuE",
             "title": "Paulson: Inside the Financial Meltdown",
             "secondDuration": 363,
@@ -61,8 +55,14 @@
             "title": "Winter Storm Slams Southern U.S.",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9pLEuDt29M",
+            "title": "Tragic Twist",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

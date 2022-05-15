@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VkIsT2nB1Gc",
-            "title": "Trump, Pence View Solar Eclipse from Washington, D.C.",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "R4X7wD4PleY",
             "title": "Experience The Eclipse Totality In 360 Video Aboard The USS Yorktown In South Carolina | NBC News",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "Navy Orders ‘Operational Pause’ After USS John S. McCain Collides With Tanker | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "1hBP9yyxrm4",
+            "title": "Taliban Resurgence In Afghanistan, 16 Years After 9/11 | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

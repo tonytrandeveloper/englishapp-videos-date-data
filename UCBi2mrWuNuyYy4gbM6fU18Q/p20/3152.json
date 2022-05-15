@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x7Ntt3EwNY8",
-            "title": "Phillips: 'Hollywood Is A Democratic Town'",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BmmXWb_2QA",
             "title": "Washington Post's Michael Shear on 'Top Line'",
             "secondDuration": 383,
@@ -121,8 +115,14 @@
             "title": "NCLR: New Bill 'Not Enough'",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jcz5rbY8Yb8",
+            "title": "Washington Post's Karen Tumulty on 'Top Line'",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

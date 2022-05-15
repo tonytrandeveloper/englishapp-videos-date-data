@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UwHoD2o1jD8",
-            "title": "Lin-Manuel Miranda 'Ellen' Freestyle",
-            "secondDuration": 252,
-            "group": "group_7"
-        },
-        {
             "videoId": "ruAgfRm0oFc",
             "title": "South Carolina Serial Killer Victims Identified",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Post Election Bullying in Schools",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "JdUITZavW0w",
+            "title": "Gun Goes Off in Struggle Between Police Officer and Driver Dashcam Video",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

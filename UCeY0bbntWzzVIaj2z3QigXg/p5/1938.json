@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_adf2ZJtV3g",
-            "title": "Watch Australian Surfers Save Woman Drowning In Hawaii | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "hVozAIutvlw",
             "title": "Inside The Program Helping Students Without College Degrees Secure Jobs In Tech | NBC News NOW",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "U.S. Covid Vaccine Rollout Slower Than Expected | NBC News NOW",
             "secondDuration": 1409,
             "group": "group_7"
+        },
+        {
+            "videoId": "C6KnVkrRzcA",
+            "title": "Teacher Turns Garage Into Library For Students Learning From Home | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

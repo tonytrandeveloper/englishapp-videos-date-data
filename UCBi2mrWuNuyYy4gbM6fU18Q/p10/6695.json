@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PMlJInbWSRU",
-            "title": "How to be Happy",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "banUnW8CA68",
             "title": "Bristol Palin on Preventing Teen Pregnancy",
             "secondDuration": 545,
@@ -61,8 +55,14 @@
             "title": "Moms Second-Guess Pregnancy Rights Law",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "claic4__V9g",
+            "title": "Stossel: The Reckless Should Pay for Rescues",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

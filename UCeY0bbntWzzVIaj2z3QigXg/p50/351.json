@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "N2CjwvUw-1k",
-            "title": "President Donald Trump Presents Presidential Citizens Medal To Widow Of 9/11 Responder | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "zIda9szGGHU",
             "title": "First Funerals Held For Americans Killed In Mexico Massacre | NBC Nightly News",
             "secondDuration": 90,
@@ -301,8 +295,14 @@
             "title": "Watch Live: Trump Speaks At Kentucky Campaign Rally | NBC News",
             "secondDuration": 6045,
             "group": "group_7"
+        },
+        {
+            "videoId": "k1F5fM5rq2w",
+            "title": "Watch Emotional Reunions At Oklahoma Prison Where Inmates Were Released | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

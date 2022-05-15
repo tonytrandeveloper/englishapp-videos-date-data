@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Wh_xF3sGncw",
-            "title": "Donald Trump: Last Space I Want to Invade is Hillary Clinton",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "BjQ9zBeJdw8",
             "title": "Donald Trump Sees 'Sinister Deal' Behind Republican Revolt",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "Shark Attacks Surfer in Oregon",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "PeRgmo_qGG0",
+            "title": "Hillary Clinton Widens Her Lead Over Donald Trump",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

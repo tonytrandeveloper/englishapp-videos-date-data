@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j2kldNlvv9U",
-            "title": "'The Briefing Rom': Migrant caravan, Texas senate race, Khashoggi investigation | ABC News",
-            "secondDuration": 1685,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wv8Fi3CO2NQ",
             "title": "Inside the caravan of migrants en route to US border",
             "secondDuration": 263,
@@ -61,8 +55,14 @@
             "title": "Video shows a Florida police officer hitting a 14-year-old during arrest",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "GhEyjlTAnqE",
+            "title": "Republican strategist: 'Trump is on every ballot' in the midterm elections",
+            "secondDuration": 887,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

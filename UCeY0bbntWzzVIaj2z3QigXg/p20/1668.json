@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PFzpBeFag4Q",
-            "title": "Congress Grill FBI Director James Comey Over Hillary Clinton Emails Investigation | NBC Nightly News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "7enpj6ku_RM",
             "title": "Governor: Philando Castile Would Be Alive If He Were White | NBC Nightly News",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "Juno Probe Entering Risky Phase In Jupiter Orbit | NBC News",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "fpWOPevvYag",
+            "title": "President Obama Sings Happy Birthday To Daughter Malia | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

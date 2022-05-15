@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EMUkGZgV3UE",
-            "title": "Did Syria Use Chemical Weapons on Its People?",
-            "secondDuration": 433,
-            "group": "group_7"
-        },
-        {
             "videoId": "aXicyKOfkMA",
             "title": "WEBCAST: Wing Walking Girls",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "The Tesla's Bold Claim on Car Safety",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "KmFXSC7FYEM",
+            "title": "Bradley Manning Sentenced to 35 Years in WikiLeaks Case",
+            "secondDuration": 503,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

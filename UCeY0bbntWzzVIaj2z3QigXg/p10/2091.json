@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u2CipCHefcQ",
-            "title": "Michael Cohen Says President Donald Trump Is Focus Of Several Investigations | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "19ZmP5f_-fs",
             "title": "Watch Live: Day 1 Of CPAC 2019 | NBC News",
             "secondDuration": 29861,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Says Michael Cohen Hearing Shows 'No Collusion' With Russia | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "GGBcREhsmiE",
+            "title": "Special Report: President Donald Trump Holds Press Conference At Summit In Vietnam | NBC News",
+            "secondDuration": 2844,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

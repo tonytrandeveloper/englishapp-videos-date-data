@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NlEbWM9L5Fk",
-            "title": "President Donald Trump on Confidence in Steve Bannon: ‘We’ll See What Happens’ | NBC News",
-            "secondDuration": 50,
-            "group": "group_7"
-        },
-        {
             "videoId": "bt2AyBAqz40",
             "title": "President Donald Trump on Charlotteville: I Think There's Blame on Both Sides | NBC News",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "Mexico Raid Uncovers Thousands Of Gallons Of Tainted Alcohol | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYqA8saytag",
+            "title": "U.S. Relations With China Grow Tepid Amid North Korea Crisis | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

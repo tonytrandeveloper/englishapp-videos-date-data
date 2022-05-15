@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nqXTnwPZRRk",
-            "title": "New fallout after viral confrontation between high schoolers, Native Americans",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "Frt81nmSbz8",
             "title": "Sen. Kamala Harris announces 2020 presidential run",
             "secondDuration": 575,
@@ -61,8 +55,14 @@
             "title": "New developments in the double murder of 2 Indiana teens",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "DhBmfevfHk4",
+            "title": "'People need a pathway to citizenship,' Gillibrand says of Trump's proposal",
+            "secondDuration": 640,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

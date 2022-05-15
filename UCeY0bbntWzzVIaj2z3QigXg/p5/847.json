@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z36qt2KJag4",
-            "title": "Nightly News Full Broadcast - October 13th",
-            "secondDuration": 1276,
-            "group": "group_7"
-        },
-        {
             "videoId": "y1BOfsSLxnw",
             "title": "Early Victims of ‘Havana Syndrome’ Speak Out About Ongoing Health Struggles",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "Emotional William Shatner Reflects On Spaceflight: ‘The Most Profound Experience’",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "nWpkRL0ZZ_Y",
+            "title": "Ports of Los Angeles, Long Beach To Aperate 24/7 To Ease Supply Chain Backup",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

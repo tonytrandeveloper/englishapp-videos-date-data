@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yU9pxchWlYc",
-            "title": "Serena Williams Says She Chased Down Cellphone Thief",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "psmgD6Y1uKE",
             "title": "Paris Train 'Hero' Spencer Stone Speaks Out on Stabbing",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Former Taco Bell Exec to Face Civil Suit Over Uber Attack",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "1vpTvVbNsJs",
+            "title": "Chipotle Speaks Out on E.Coli Outbreak, Restaurant Closures",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

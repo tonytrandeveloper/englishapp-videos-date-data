@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oAh0eXObg8Q",
-            "title": "Index: Car Salesman Kidnapped on a Test Drive",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "19pDZVMMt_E",
             "title": "'GMA' Flies Drone Into Icelandic Sinkhole",
             "secondDuration": 709,
@@ -61,8 +55,14 @@
             "title": "Dog Pants for All Fours",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "gUEdSR7AR44",
+            "title": "North Korea Claims It Detonated a Hydrogen Bomb",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

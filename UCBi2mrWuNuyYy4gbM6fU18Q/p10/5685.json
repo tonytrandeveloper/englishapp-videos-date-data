@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YRlBD0Pkwf4",
-            "title": "Summer Wildfires Scorch 10 States",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "SMwmJGXhizc",
             "title": "Reporter Tries Driving Simulator While on Ambien",
             "secondDuration": 227,
@@ -61,8 +55,14 @@
             "title": "Life or Death on Hospital Reality Show, 'New York Med'",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "C4zwab0QeyA",
+            "title": "President Obama Has Made Mitt Romney's VP-Pick Paul Ryan the Opponent",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OR6cmJ-TSaY",
-            "title": "Higher Gas Prices Leading To Surge Of Fuel Heists",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "DCOAOLT2lRI",
             "title": "Watch: Texas Newscast Captures Moment Tornado Crosses Two Major Highways",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Russia Steps Up Bombardment On Civilians As Momentum Stalls",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "MnuaMWEY4L4",
+            "title": "Investigation Underway After Boeing 737 Crashes In China",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

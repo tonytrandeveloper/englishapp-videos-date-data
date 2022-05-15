@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Tpe-gKbGnbQ",
-            "title": "Breakdown of Apollo 11",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "-pceDTbCNlQ",
             "title": "1969 Profile of Neil Armstrong",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Reporter Witnesses Indonesian Hotel Blasts",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vr1PjsUVAWk",
+            "title": "Billings Murder: The Eighth Accomplice",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

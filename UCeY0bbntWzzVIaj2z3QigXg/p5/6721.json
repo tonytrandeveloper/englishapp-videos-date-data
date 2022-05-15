@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CrQKImYW01g",
-            "title": "Severe Storms, Tornadoes Tear Through Plains States | NBC Nightly News",
-            "secondDuration": 179,
-            "group": "group_7"
-        },
-        {
             "videoId": "7556wTgsWxQ",
             "title": "Hillary Clinton On Email Use: 'If I Could Go Back, I'd Do It Differently' | NBC News",
             "secondDuration": 71,
@@ -31,8 +25,14 @@
             "title": "Paul Ryan: Donald Trump Phone Call 'Very Productive' | NBC News",
             "secondDuration": 33,
             "group": "group_7"
+        },
+        {
+            "videoId": "cZWVzyqZvW8",
+            "title": "Three White Football Players Accused Of Raping Disabled Black Student | NBC News",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

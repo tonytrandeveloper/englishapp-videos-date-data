@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XQQdeAer_zo",
-            "title": "When the system is rigged: What to know the about college admissions process",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "TZGe-THnKyI",
             "title": "Black boxes in Ethiopian Airlines crash to be sent overseas",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "The Briefing Room: President Trump's budget, FAA grounding Boeing 737, college bribery scheme",
             "secondDuration": 1531,
             "group": "group_7"
+        },
+        {
+            "videoId": "JyYoXzleFWM",
+            "title": "The Debrief: Boeing 737s grounded, college admissions cheating scam, Austin bombings one year later",
+            "secondDuration": 1574,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

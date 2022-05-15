@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ecvskadskvs",
-            "title": "Michael and Sara love their moms!",
-            "secondDuration": 201,
-            "group": "group_7"
-        },
-        {
             "videoId": "TumIusafX0s",
             "title": "The Debrief: Colorado shooting hero speaks, US increases tariffs on China, Texas flooding",
             "secondDuration": 1619,
@@ -61,8 +55,14 @@
             "title": "Bobby Bones' journey to 'American Idol'",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "SiTZq6ADLqo",
+            "title": "US seizes massive North Korean cargo vessel for violating sanctions",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

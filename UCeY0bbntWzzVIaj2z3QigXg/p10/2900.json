@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "GCXa958pIm8",
-            "title": "Houston By The Numbers: Population Boom Leaves A Paved City | Meet The Press | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "fm9h1UTpl5k",
             "title": "Senator Roy Blunt On Trump & McConnell: 'They're Both Tough Men' | Meet The Press | NBC News",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Hurricane Harvey’s Gone, But Devastation Continues In Texas | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "xNCpdabk95I",
+            "title": "Family Of Penn State Student Hope Hazing Death Sends Message To Frats And Sororities | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

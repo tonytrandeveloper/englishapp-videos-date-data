@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5jmu3ooLUuA",
-            "title": "Briefing Room:Troops deploying to Saudi Arabia, Trump/China meeting, House subpoena upheld",
-            "secondDuration": 1670,
-            "group": "group_7"
-        },
-        {
             "videoId": "qxjEbg2QOYI",
             "title": "The Debrief: California wildfires explode, Giuliani associates arrested, Ronan Farrow interview",
             "secondDuration": 5401,
@@ -31,8 +25,14 @@
             "title": "Simone Biles wins fifth world all-around title l ABC News",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBn3L_dBVuQ",
+            "title": "Thousands of people try to escape warfare in Syria l ABC News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

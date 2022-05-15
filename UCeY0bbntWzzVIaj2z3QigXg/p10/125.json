@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jn5nWkcGf4o",
-            "title": "Morning News NOW Full Broadcast - March 2",
-            "secondDuration": 3120,
-            "group": "group_7"
-        },
-        {
             "videoId": "duKv-mVpYQI",
             "title": "Watch Biden's State Of The Union Address In 3 Minutes",
             "secondDuration": 201,
@@ -61,8 +55,14 @@
             "title": "Lauren Boebert Heckles Biden During State Of The Union Address",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "vbcTw5mbCqo",
+            "title": "Beto O’Rourke Touts Plan After Winning Texas Governor Primary",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

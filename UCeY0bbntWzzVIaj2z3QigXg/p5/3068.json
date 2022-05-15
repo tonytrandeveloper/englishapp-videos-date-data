@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kMxokey64pU",
-            "title": "Joe Biden Gives Speech On Coronavirus Pandemic | NBC News (Live Stream Recording)",
-            "secondDuration": 1139,
-            "group": "group_7"
-        },
-        {
             "videoId": "h34z6hS52YM",
             "title": "Coronavirus Expert Dr. Fauci And CDC Head Dr. Redfield Testify Before House | NBC News (Live Stream)",
             "secondDuration": 6692,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Hosts Irish Prime Minister At White House | NBC News (Live Stream)",
             "secondDuration": 3547,
             "group": "group_7"
+        },
+        {
+            "videoId": "gQMbyvIXYQk",
+            "title": "Americans Try To Leave Spain Before Coronavirus Ban: 'I Just Hope To Be Able To Get Home' | NBC News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

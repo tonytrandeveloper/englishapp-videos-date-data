@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3fdmrMNWAJg",
-            "title": "Niagara Falls Jumper Attempting Suicide Survives: Caught on Tape",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "iwWmQnHc70w",
             "title": "Joplin Tornado Caught on Tape: One Year Later",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Will Smith Raps 'Fresh Prince' After Dare from British TV Host",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zzGdDCom3pQ",
+            "title": "SpaceX Launch Successful, 1st Commercial Rocket Heads to International Space Station",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

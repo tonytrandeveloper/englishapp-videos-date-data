@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qY3gJzzWvSc",
-            "title": "Carly Fiorina on Past Ted Cruz Attacks: ‘Heat of a Political Campaign’",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJmQh6ToPIQ",
             "title": "Kesha, Zedd to Release New Single",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Flubs Pronunciation of 'Tanzania'",
             "secondDuration": 32,
             "group": "group_7"
+        },
+        {
+            "videoId": "afwEOZUNcDA",
+            "title": "Homesick Dog Journeys 240 Miles Back To Original Owner",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

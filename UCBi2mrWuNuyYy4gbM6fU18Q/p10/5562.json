@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UGe_nevBytw",
-            "title": "Art Heist 2012: Picasso, Matisse, Monet Paintings Stolen in Art Heist",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "QDg2UU6zoug",
             "title": "Robocall Prevention Tips: Annoying Calls on the Rise: How to Fight Back",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "2nd Presidential Debate: Pressure on President Obama As He Faces Off with Mitt Romney",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "pe4Kt3ueWOA",
+            "title": "'Dancing With the Stars' All Stars 2012: Paula Abdul Joins the Judges Table",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

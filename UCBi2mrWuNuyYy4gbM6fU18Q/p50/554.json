@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "IT-MLyFheFo",
-            "title": "Sinkholes threaten Florida homes after Irma",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "FJ_UTHK6Pdw",
             "title": "Trump delivers blistering address to UN General Assembly",
             "secondDuration": 154,
@@ -301,8 +295,14 @@
             "title": "British Prime Minister speaks out about London terror attack",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fo64U7mL0is",
+            "title": "Police investigating possible deadly hazing incident at LSU",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

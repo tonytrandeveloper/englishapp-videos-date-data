@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OPuDWCkkhtg",
-            "title": "Five Dead After Knife Attack At Paris Police HQ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "kbDF6LyfxHk",
             "title": "Trump Signs Medicare Executive Order To 'Ensure The World's Best Health Care' | NBC News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "St. Louis Blues Surprise Young Hockey Fan With A Championship Ring | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "KiIX1QuI7vU",
+            "title": "Putin Talks Trump, 2020 Election On Moscow Panel | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

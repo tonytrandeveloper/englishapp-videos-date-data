@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qwVL0P96gpI",
-            "title": "Kobe Bryant Scores 60 | Bids Farewell to the NBA",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "zm63D9BvSto",
             "title": "Obama Blows Bubbles at White House Science Fair",
             "secondDuration": 239,
@@ -31,8 +25,14 @@
             "title": "Sean Parker, Ex-Facebook President, Bets $250M on Cancer Treatment",
             "secondDuration": 24,
             "group": "group_7"
+        },
+        {
+            "videoId": "xvql2kUQn9w",
+            "title": "Russian Jets Brazenly Buzz US Navy Destroyer",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

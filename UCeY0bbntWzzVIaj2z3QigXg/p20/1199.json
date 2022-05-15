@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wpF6tv90FLM",
-            "title": "How Animals Paved The Way For Human Space Flight | Mach | NBC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "jxwrPZU7NOw",
             "title": "Video Shows Houston Security Guard Ignoring Police Officers’ Pleas For Help | NBC Nightly News",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "Rep. Duncan Hunter In Court After Indictment For Alleged Misuse Of Campaign Funds | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "MrLvGq69Qgo",
+            "title": "Hawaii Residents Brace For Hurricane Lane | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

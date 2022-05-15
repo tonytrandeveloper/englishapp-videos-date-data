@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hBp2BimrTt8",
-            "title": "NBC Nightly News Broadcast (Full) - July 2nd, 2021",
-            "secondDuration": 1015,
-            "group": "group_7"
-        },
-        {
             "videoId": "nH4hUlVULmQ",
             "title": "NBC News NOW Full Broadcast - July 2, 2021",
             "secondDuration": 2612,
@@ -31,8 +25,14 @@
             "title": "U.S. Track Star Sha’Carri Richardson Speaks Out After Suspension",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "g0PUXSraWj0",
+            "title": "U.S. Troops Leave Afghanistan Air Base",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

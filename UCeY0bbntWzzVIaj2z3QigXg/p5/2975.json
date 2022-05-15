@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LoDcL0XyZ_A",
-            "title": "Trump Says Next Week Will Be The Worst Yet: ‘There Will Be A Lot Of Death’ | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "-tHE5Y_Yv9g",
             "title": "U.S. Death Toll Tops 8,000 As States Frustrated With Testing And Supplies | NBC Nightly News",
             "secondDuration": 182,
@@ -31,8 +25,14 @@
             "title": "California Gov. Newsom Gives Coronavirus Update | NBC News",
             "secondDuration": 2539,
             "group": "group_7"
+        },
+        {
+            "videoId": "PCB9J2_3Lxo",
+            "title": "New Jersey Governor Murphy Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 5668,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

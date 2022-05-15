@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C36F2aFrkc4",
-            "title": "Michael Steele: Donald Trump is 'Serious' About 2012",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "HJPu6yKaKwM",
             "title": "Michael Steele: Osama Bin Laden 'Subtle' Impact on 2012",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "Osama Bin Laden Killed: How Did They Do It?",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "zU_wQD3oX6g",
+            "title": "Osama Bin Laden Dead in Abbottabad, Pakistan: What Took So Long?",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

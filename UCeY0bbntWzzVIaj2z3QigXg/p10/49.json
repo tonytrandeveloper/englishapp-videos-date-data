@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PwBo10ps2pw",
-            "title": "Ukraine Takes Back Village Outside Kharkiv From Russian Soldiers",
-            "secondDuration": 217,
-            "group": "group_7"
-        },
-        {
             "videoId": "o25m6ESx4wg",
             "title": "Trump Publicly Calls On Putin For Dirt On Biden",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Covid Response Efforts | NBC News",
             "secondDuration": 562,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCxITpxwCIM",
+            "title": "21 States Suing To End Mask Mandates On Public Transportation",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

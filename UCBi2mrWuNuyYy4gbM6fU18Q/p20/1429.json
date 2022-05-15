@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EMHAzXEA0XA",
-            "title": "Despite campaign promises, Senate Republicans fail to pass new health care bill",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zyFMPKxtFb8",
             "title": "American Airlines employee celebrates 75 years on the job",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Superhero dog saves fawn desperately struggling to stay afloat off Long Island Sound",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "W7NNOfkcKRg",
+            "title": "White House press briefing 7/17/17: Breaking down the latest on 'The Briefing Room'",
+            "secondDuration": 3184,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

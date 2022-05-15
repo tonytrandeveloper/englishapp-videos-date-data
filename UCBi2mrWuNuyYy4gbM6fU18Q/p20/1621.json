@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e1Z2PPXmT7g",
-            "title": "Southern  Fires | 3,000+ Firefighters Battle Dozens of Fires",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-Ic8upxwWo",
             "title": "Rescued Thanksgiving Turkey Is Now a Pet",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Brendan Dassey of “Making a Murderer” to be Released from Prison",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "0U8F5oyelys",
+            "title": "Dancing with the Stars Week 13 HIGHLIGHTS",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

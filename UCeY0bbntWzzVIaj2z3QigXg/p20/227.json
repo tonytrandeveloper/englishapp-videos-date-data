@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TyR_qgWTyv0",
-            "title": "House Democrats Divided Over Infrastructure Bill",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "qnOl92MFaLE",
             "title": "LeBron James Says He Received Covid Vaccine Amid NBA Controversy",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "U.K. Drivers Facing Major Gas Shortage",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "iFFMuvlU8-4",
+            "title": "Top Story with Tom Llamas Full Broadcast - Sept. 27 | NBC News NOW",
+            "secondDuration": 2975,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

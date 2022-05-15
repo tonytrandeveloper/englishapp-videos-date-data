@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pr-_Wv4cA8U",
-            "title": "Jon Stewart, members of Congress advocate for WTC health program in DC | ABC News",
-            "secondDuration": 1954,
-            "group": "group_7"
-        },
-        {
             "videoId": "KfJfTKWUSjg",
             "title": "New signs special counsel's Russia probe is widening",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "New report reveals Mueller's investigation may have a new focus",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "ET7AJwXDKgU",
+            "title": "West Virginia teachers vow to remain on strike",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

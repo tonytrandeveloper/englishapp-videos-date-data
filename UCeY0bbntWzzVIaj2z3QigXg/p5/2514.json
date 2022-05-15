@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fQJrLG4XRs4",
-            "title": "First Black Female Doctor In The U.S. Receives Long-Overdue Recognition | NBC Nightly News",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "YU1gS6Ht9Gc",
             "title": "Miami Sets Curfew As Florida’s Coronavirus Cases Surge To 350,000 | NBC Nightly News",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Meet The Press Broadcast (Full) - July 19th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2855,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hy4mRA72UQM",
+            "title": "Full Clyburn: John Lewis 'Internalized So Much Of The Goodness' Of Scripture | Meet The Press",
+            "secondDuration": 624,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

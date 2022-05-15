@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "msZ6oBXBRCs",
-            "title": "Majority Of Americans Think U.S. Is Heading In The Wrong Direction, According To NBC News Poll",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "Asr9v7b8Apo",
             "title": "Biden Considers Deploying U.S. Troops Near Ukraine",
             "secondDuration": 434,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast  - Jan. 23",
             "secondDuration": 939,
             "group": "group_7"
+        },
+        {
+            "videoId": "TxMx25OnJ0s",
+            "title": "Anti-Vaccine Mandate Protests During Omicron Surge",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

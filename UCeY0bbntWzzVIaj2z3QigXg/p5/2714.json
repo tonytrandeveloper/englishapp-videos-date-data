@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2HnlBoCFOGk",
-            "title": "Growing Concern Over Spread Of Coronavirus Among George Floyd Protesters | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "2LVmhKu35OI",
             "title": "George Floyd Protesters Echo Same Hope For Progress As Protests From Years Before | NBC Nightly News",
             "secondDuration": 156,
@@ -31,8 +25,14 @@
             "title": "George Floyd Protesters Speak Out: 'We're Not Moving Until Something Changes' | NBC News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "f5pqDg6eTx0",
+            "title": "Pathologists Deliver Findings Of George Floyd’s Independent Autopsy | NBC News NOW",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

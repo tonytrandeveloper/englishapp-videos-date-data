@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zog0VM8hdEI",
-            "title": "WEBCAST: Laid to Rest",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "-kV-6eQDc5E",
             "title": "President Obama on Newtown Shooting: 'We Must Change'",
             "secondDuration": 287,
@@ -31,8 +25,14 @@
             "title": "President Obama Pledges Action on American Gun Control After Sandy Hook Shooting",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "UXTRkoZUtww",
+            "title": "Newtown, Connecticut Shooting: A Message of Hope",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8m6JviRQqGw",
-            "title": "WEBCAST: Drone Captures Holiday Lights Display",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "kf5AHR6O4FM",
             "title": "Radio Host Elvis Duran's Uncensored Take on Hollywood",
             "secondDuration": 452,
@@ -121,8 +115,14 @@
             "title": "MIX: \"Shake it Off\" Parody Goes Viral",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "CLm4TkUgoxo",
+            "title": "WEBCAST: Hostages Flee Sydney Cafe",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VhexJmzffTU",
-            "title": "NYC Mayor de Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 3521,
-            "group": "group_7"
-        },
-        {
             "videoId": "lLtaI9-3qfs",
             "title": "New York Governor Cuomo makes announcement amid COVID-19 pandemic",
             "secondDuration": 272,
@@ -31,8 +25,14 @@
             "title": "Concerns Over Coronavirus Spread As Some Groups Plan Easter Gatherings | NBC Nightly News",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kg8y850lwwU",
+            "title": "Coronavirus Stimulus Checks Begin To Hit Bank Accounts | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

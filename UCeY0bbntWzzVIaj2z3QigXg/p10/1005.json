@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hU1ZTbAHXoI",
-            "title": "Video Shows Launch of SpaceX Falcon 9 Rocket Carrying Dragon Supply Ship | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Rh8OojJ77g",
             "title": "Meet The Press Broadcast (Full) - December 6th, 2020 | Meet The Press | NBC News",
             "secondDuration": 2848,
@@ -61,8 +55,14 @@
             "title": "Brands Get Creative In Fighting Holiday Shipping Rush | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "zDaKxkeKBz0",
+            "title": "John Leguizamo On The Lack Of Latino Roles In Hollywood And His American Dream | Nightly News Films",
+            "secondDuration": 721,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

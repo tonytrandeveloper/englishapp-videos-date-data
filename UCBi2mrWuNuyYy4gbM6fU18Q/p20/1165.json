@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "61PPhs52S4M",
-            "title": "Trump backs two-state solution for Israeli-Palestinian conflict",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "7_b1njmid6k",
             "title": "President Donald Trump chairs UN Security Council meeting on nonproliferation | ABC News",
             "secondDuration": 7416,
@@ -121,8 +115,14 @@
             "title": "Bill Cosby sentenced to 3 to 10 years in prison",
             "secondDuration": 930,
             "group": "group_7"
+        },
+        {
+            "videoId": "PUz_CaKbT_c",
+            "title": "Bill Cosby sentenced to 3 to 10 years in prison for sexual assault: WPVI Coverage",
+            "secondDuration": 7633,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snfwaQ9nMsY",
-            "title": "Morning News NOW Full Broadcast - September 27",
-            "secondDuration": 2682,
-            "group": "group_7"
-        },
-        {
             "videoId": "lp8C4P8hwjk",
             "title": "This Morning’s Top Headlines – Sept. 27 | Morning News NOW",
             "secondDuration": 1037,
@@ -31,8 +25,14 @@
             "title": "Pfizer Booster Vaccines Rolled Out in U.S.",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "cqiPhpPeFVU",
+            "title": "New York School Vaccine Mandate Temporarily Blocked",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

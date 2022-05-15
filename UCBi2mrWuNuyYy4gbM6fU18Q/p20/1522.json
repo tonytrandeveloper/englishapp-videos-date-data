@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "99Sj2k_uVpE",
-            "title": "CPAC 2017: Betsy DeVos Speech (Full) | ABC News",
-            "secondDuration": 844,
-            "group": "group_7"
-        },
-        {
             "videoId": "054pHRNq1II",
             "title": "Massive iceberg poised to break off of Antarctica",
             "secondDuration": 77,
@@ -121,8 +115,14 @@
             "title": "Dakota Access Pipeline: The dramatic final showdown",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "XucIvBcBVjo",
+            "title": "Planet Earth as you've never seen it before",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

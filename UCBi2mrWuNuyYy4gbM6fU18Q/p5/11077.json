@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yZEerhZwOWM",
-            "title": "Student Arrested in Jessica Ridgeway Murder",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "AdH_YSDVvU8",
             "title": "President Obama on 'Tonight Show with Jay Leno'",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Shocking Airport Security Breach",
             "secondDuration": 253,
             "group": "group_7"
+        },
+        {
+            "videoId": "71RmPJBgIlw",
+            "title": "Bill Weir's Second Opinion",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

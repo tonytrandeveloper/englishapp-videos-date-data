@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ypi6IDfDbts",
-            "title": "US Olympic gymnast alleges sexual assault by team doctor  | ABC News",
-            "secondDuration": 416,
-            "group": "group_7"
-        },
-        {
             "videoId": "QFFR_Gv6Mak",
             "title": "Shooting rampage unfolds in Maryland and Delaware",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "NFL commissioner Roger Goodell holds news conference following owners meetings",
             "secondDuration": 1157,
             "group": "group_7"
+        },
+        {
+            "videoId": "6cn26muiu3s",
+            "title": "Olympic gymnast claims sexual assault by team doctor",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

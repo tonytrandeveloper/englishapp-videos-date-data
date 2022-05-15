@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lI4JLESBlyA",
-            "title": "Hurricane Sandy 2012: Danger of Falling Trees Lingers After the Storm",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "_MZLbtOfPIA",
             "title": "Transportation Nightmare: Gas Shortage, Gridlock",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Superstorm Hurricane Sandy, New York City ING Marathon 2012: Should Race Be Cancelled?",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "bvf2FUHCTKM",
+            "title": "Superstorm Hurricane Sandy 2012: A Tale of Two NYC's - Going Inside Powerless Lower Manhattan",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

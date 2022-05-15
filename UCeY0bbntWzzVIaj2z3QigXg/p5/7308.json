@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0qwuQ_wtn4s",
-            "title": "Jeff Rossen: \"I have a dream that...\"",
-            "secondDuration": 27,
-            "group": "group_7"
-        },
-        {
             "videoId": "VcRwZWs-qUU",
             "title": "Rev. Jesse Jackson: \"I have a dream that...\"",
             "secondDuration": 26,
@@ -31,8 +25,14 @@
             "title": "Andrew Zimmern: \"I have a dream that...\"",
             "secondDuration": 6,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z5tuyu_05qs",
+            "title": "Lee Saunders: \"I have a dream that...\"",
+            "secondDuration": 7,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

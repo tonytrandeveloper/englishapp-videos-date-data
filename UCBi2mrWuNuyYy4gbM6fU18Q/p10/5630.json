@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QgOV6TqdtMA",
-            "title": "Romney Campaign's Standings in Key Battleground States",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "cW9RhoYEpLY",
             "title": "Predicting Panda Pregnancy Isn't Easy",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Kristen Chenoweth Returns to TV After Head Injury",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "DEMIovVjJ7M",
+            "title": "Obama, Romney Spar Over August Job Numbers",
+            "secondDuration": 272,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

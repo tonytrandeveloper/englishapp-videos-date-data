@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q610giI0sHg",
-            "title": "Mila Kunis on \"That 70's Show\"",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "fUJLx7lb_HI",
             "title": "Mila Kunis on Natalie Portman, Black Swan, & Growing Up",
             "secondDuration": 561,
@@ -31,8 +25,14 @@
             "title": "Atheist Advertising",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "-0P2H_TQ7kU",
+            "title": "'Don't Ask, Don't Tell' Debate (Part 2)",
+            "secondDuration": 670,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

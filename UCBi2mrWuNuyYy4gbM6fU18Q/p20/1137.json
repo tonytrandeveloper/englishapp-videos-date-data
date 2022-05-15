@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FpIt9fZGR6k",
-            "title": "Nation honors America's heroes on Veterans Day",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "c78iR7x10mI",
             "title": "Judge finds no sign of fraud as Florida Senate recount continues",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Trump is in France for Veterans Day",
             "secondDuration": 276,
             "group": "group_7"
+        },
+        {
+            "videoId": "j7FQNgEbCFU",
+            "title": "The Camp Fire has destroyed more than 6,700 buildings in Northern California",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

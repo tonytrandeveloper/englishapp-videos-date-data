@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ax9dXwhPpLg",
-            "title": "Paula Broadwell: The Woman Who Shocked the Political World",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "qKMBkG2OKmY",
             "title": "NASCAR Controversy: Famed Driver Jeff Gordon Crosses the Line",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Justin Bieber and Selena Gomez Breakup: Victoria Secret Model to Blame?",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "zLiU5MKVfUY",
+            "title": "Indianapolis Neighborhood Explosion: 2 Dead After Mysterious Blast Destroys 5 Homes",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

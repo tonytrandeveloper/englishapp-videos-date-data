@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0GBcWC0Ppiw",
-            "title": "High alert at the US Embassy in Baghdad",
-            "secondDuration": 170,
-            "group": "group_7"
-        },
-        {
             "videoId": "854_uSyypjQ",
             "title": "Dramatic kidnap rescue caught on camera",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Countdown to 2020 from all over the world",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "gas99L-y-Gc",
+            "title": "New Year's fireworks in Brazil",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

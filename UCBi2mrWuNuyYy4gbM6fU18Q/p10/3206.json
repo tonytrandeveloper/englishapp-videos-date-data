@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oBxNdpEExGY",
-            "title": "Suspect Dead After Police Standoff in Tacoma",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "E19zACC2myg",
             "title": "The Attack: The Heroes of San Bernardino Part 1",
             "secondDuration": 536,
@@ -61,8 +55,14 @@
             "title": "Great White Shark Seal Attack in Cape Cod Caught On Camera",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "d_c_WOYZ0N0",
+            "title": "$15 Minimum Wage Protests Across US",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

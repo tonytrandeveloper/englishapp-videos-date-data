@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-BEC3HIndsE",
-            "title": "Secret Life: Mom Confesses to Alcoholism",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "q0syKXsLgMA",
             "title": "Who's Responsible for Gulf Oil Spill?",
             "secondDuration": 213,
@@ -121,8 +115,14 @@
             "title": "The Conversation: Rosie O'Donnell Opens Up",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "XHMYuUM4rAc",
+            "title": "Heating Up the 'Dance' Floor",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

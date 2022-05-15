@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "47wZfMQ9H1c",
-            "title": "Turkish President lays out what happened to Washington Post columnist",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "7lHM0c_Pks8",
             "title": "Trump fires up base with false claims on migrant caravan",
             "secondDuration": 219,
@@ -61,8 +55,14 @@
             "title": "538's Nate Silver: 'It's hard to find a clear path for Democrats' to win Senate",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "j2kldNlvv9U",
+            "title": "'The Briefing Rom': Migrant caravan, Texas senate race, Khashoggi investigation | ABC News",
+            "secondDuration": 1685,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

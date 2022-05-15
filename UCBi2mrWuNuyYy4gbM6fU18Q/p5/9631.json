@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-6_emS5CncQ",
-            "title": "Billion Dollar Bracket",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "aSarf4-REgk",
             "title": "Baby Gorilla Reunites With Mother",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Deadly Mudslide in Washington State",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "hpaJqh6aXqI",
+            "title": "Texas Oil Spill",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

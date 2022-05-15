@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wHHA5RjqEIw",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3376,
-            "group": "group_7"
-        },
-        {
             "videoId": "M9L2tz7l_tk",
             "title": "Inflation Rises To Highest Annual Level In 40 Years",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Jan. 11",
             "secondDuration": 1263,
             "group": "group_7"
+        },
+        {
+            "videoId": "ocrwoYZJTq4",
+            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
+            "secondDuration": 476,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

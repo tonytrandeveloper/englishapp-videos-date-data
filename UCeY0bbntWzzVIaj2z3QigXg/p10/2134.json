@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yibNEcn-4yQ",
-            "title": "Archival: Space Shuttle Challenger Disaster | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "UYxHA-eXC4g",
             "title": "Crowds Attend Funeral For Vietnam Veteran With No Next Of Kin | NBC News",
             "secondDuration": 177,
@@ -61,8 +55,14 @@
             "title": "Undocumented Workers Fired From Trump Golf Club Speak Out | NBC Nightly News",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "jGt4l1LgGMI",
+            "title": "As The Federal Government Comes Back To Life, Lawmakers Focus On What’s Next | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

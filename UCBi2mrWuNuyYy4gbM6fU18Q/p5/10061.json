@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1046ibhPqPs",
-            "title": "Aaron Alexis: The Man Behind the Washington Navy Yard Shooting",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZF0dFXjgk0",
             "title": "13 People Killed in Washington DC Shooting Rampage",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "13 Dead Including Shooter in Rampage At D.C. Naval Yard",
             "secondDuration": 558,
             "group": "group_7"
+        },
+        {
+            "videoId": "sbAW-iIxe1M",
+            "title": "Groundbreaking Miss America Winner Miss New York Takes Home Pageant Crown",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T05-1GbLBPs",
-            "title": "The Dolphin Debate",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "kGBjkl-GBXU",
             "title": "Bus Crash Mystery at Miami Airport",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Kim Kardashian's Arrival in Bahrain Causes Riot",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "79wgRgJYz4k",
+            "title": "Fiscal Cliff Countdown: Negotiations Still Stalled",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zn_Vyv0a8lk",
-            "title": "Tiger Woods news conference upon return to competitive golf at Hero World Challenge in the Bahamas",
-            "secondDuration": 1695,
-            "group": "group_7"
-        },
-        {
             "videoId": "J7IxmJ14Lnc",
             "title": "Michael Flynn could be preparing to make a deal with special counsel prosecutors",
             "secondDuration": 127,
@@ -61,8 +55,14 @@
             "title": "Cyber Monday off to record pace",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "pfFxhIo2N3Y",
+            "title": "Michael Flynn's lawyer met with members of Special Counsel Robert Mueller's team",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

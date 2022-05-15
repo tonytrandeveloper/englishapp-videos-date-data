@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5LMWZ7RUqGs",
-            "title": "Red Sox icon David Ortiz takes first steps after shot in the back",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "EgDVLQhdcu4",
             "title": "Jon Stewart demands Congress support 9/11 compensation fund",
             "secondDuration": 173,
@@ -121,8 +115,14 @@
             "title": "Boy swept to sea on unicorn raft describes ordeal",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "g4c5ZiDPKcc",
+            "title": "NYC chopper crash, John Dean testifies, boy on unicorn raft rescued at sea",
+            "secondDuration": 1147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

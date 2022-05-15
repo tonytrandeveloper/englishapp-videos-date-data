@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CxyjdXdWlFE",
-            "title": "GasBuddy.com Finds Cheapest Gas in Town",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "PbaWMTbQRgE",
             "title": "Earthquake in Mexico; Obama Daughter Safe",
             "secondDuration": 180,
@@ -61,8 +55,14 @@
             "title": "Kate Middleton, Princess Diana in First Speech",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "RyE4Vk2FRWg",
+            "title": "Trayvon Martin's Alleged Killer: 911 Calls",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

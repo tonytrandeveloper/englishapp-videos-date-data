@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D1kII_ZSm7U",
-            "title": "This Morning’s Top Headlines – Jan. 19 | Morning News NOW",
-            "secondDuration": 1334,
-            "group": "group_7"
-        },
-        {
             "videoId": "sqaFPDq6A_o",
             "title": "'Stalkerware' Apps Help Domestic Abusers Spy On Their Victims",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "Tonga Gears Up For Recovery After Volcanic Eruption",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "iutca1bq0GI",
+            "title": "Second Journalist Killed In Mexico This Week",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

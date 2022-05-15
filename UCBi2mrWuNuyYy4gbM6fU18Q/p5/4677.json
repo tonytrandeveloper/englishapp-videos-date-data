@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aW46ono4Snk",
-            "title": "Trump holds news conference with Polish president | ABC News",
-            "secondDuration": 2988,
-            "group": "group_7"
-        },
-        {
             "videoId": "91Ng90c_5cM",
             "title": "Kavanaugh, accuser called to testify at public hearing",
             "secondDuration": 450,
@@ -31,8 +25,14 @@
             "title": "Sally Field reflects on her past in new memoir, 'In Pieces'",
             "secondDuration": 681,
             "group": "group_7"
+        },
+        {
+            "videoId": "kV0XLvbcqtM",
+            "title": "Sally Field shares the truth of her off-screen life in new book",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

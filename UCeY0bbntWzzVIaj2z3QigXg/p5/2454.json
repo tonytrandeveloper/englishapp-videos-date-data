@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6hRk_zPTN1c",
-            "title": "Watch NBC News NOW Live - August 3",
-            "secondDuration": 42900,
-            "group": "group_7"
-        },
-        {
             "videoId": "Dn89n5P896A",
             "title": "Watch: Hostage Taker Captured On Live TV In Ukraine | NBC News NOW",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Newly-Released Bodycam Videos Show First Moments Of George Floyd’s Fatal Arrest | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7CW_XUzDng",
+            "title": "New Jersey Federal Judge Describes Day Son Was Killed, Husband Shot | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

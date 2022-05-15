@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0HaeXxyv8Sw",
-            "title": "Boy Scouts to begin admitting girls",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "HgJ9aaQOoC8",
             "title": "Death toll rises in California wildfires",
             "secondDuration": 266,
@@ -61,8 +55,14 @@
             "title": "Startups like Epic Games, Brit + Co and The VOID make announcements at Disney Accelerator Demo Day",
             "secondDuration": 3381,
             "group": "group_7"
+        },
+        {
+            "videoId": "1l2P73y9mAs",
+            "title": "President Donald Trump remarks on tax reform in Harrisburg, Pa.",
+            "secondDuration": 2563,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "poJbtNC6QSY",
-            "title": "President Trump's attorney discusses Mueller report findings",
-            "secondDuration": 198,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvelBsnijBc",
             "title": "A second student from Marjory Stoneman Douglas High has died in apparent suicide",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "'If it's released I want it all released': Rep. Jim Jordan on Mueller report",
             "secondDuration": 505,
             "group": "group_7"
+        },
+        {
+            "videoId": "sEM5geIsoo4",
+            "title": "Congress waiting on attorney general's summary of Mueller report",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EMHAzXEA0XA",
-            "title": "Despite campaign promises, Senate Republicans fail to pass new health care bill",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "zyFMPKxtFb8",
             "title": "American Airlines employee celebrates 75 years on the job",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Severe storms sweep the country",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "3GtVzcQKWRo",
+            "title": "Minneapolis mayor reacts to police shooting of bride-to-be",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

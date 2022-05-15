@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AeZB1aoXZ-Y",
-            "title": "Meet the Press - May 13, 2012 - Jamie Dimon, Sen. Carl Levin, Reince Priebus, roundtable",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "DrzCuRIVN4g",
             "title": "Dateline \"My Kid Would Never Do That\" Google+ Hangout Part 4 \"Discrimination\"",
             "secondDuration": 1758,
@@ -31,8 +25,14 @@
             "title": "Behind the scenes with Natalie Morales on Dateline",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "F7SNROQw4Q0",
+            "title": "Rock Center Exclusive: Inside the Situation Room",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

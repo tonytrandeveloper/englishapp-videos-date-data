@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aAl-e89YyHA",
-            "title": "‘Pathetic’: GOP Reactions To Donald Trump’s Charlottesville Comments | NBC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "2mV4HqdNJAQ",
             "title": "Vice President Mike Pence In Aftermath Of Charlottesville: 'I Stand With The President’ | NBC News",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Video Appears To Show Student With Autism Dragged By Teacher | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y5WzmPm7MBg",
+            "title": "Battle Over Confederate Monuments Renewed After Charlottesville Violence | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

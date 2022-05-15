@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DZPuxcECLSQ",
-            "title": "\"In Case You Missed It\"",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "B7CdV0esnkg",
             "title": "WEBCAST: Comic Actress Elaine Stritch Died",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Israel Launches a Ground Offensive in Gaza",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "ToHmXA3qNvU",
+            "title": "Neil Patrick Harris Interview 2014: Broadway Star on Starring in 'Hedwig,' 'Gone Girl'",
+            "secondDuration": 438,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

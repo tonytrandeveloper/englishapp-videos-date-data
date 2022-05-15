@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YKewYEIsfR8",
-            "title": "Self-Driving Shuttle Hit By Delivery Truck On Its First Hour Of Service | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ymp9ziicqxo",
             "title": "Jet-Powered Suit Sets New Fastest Speed As World Records Tumble | NBC News",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "University Of Cambridge Research: Sheep Can Be Trained To Recognize Faces | NBC News",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "jvJNaTuSm0U",
+            "title": "One Year Later: President Donald Trump’s Border Wall Promise | NBC News",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

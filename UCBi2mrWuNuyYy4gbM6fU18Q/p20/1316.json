@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "atI7wx6PEs8",
-            "title": "White House press briefing on potential government shutdown | ABC News",
-            "secondDuration": 1861,
-            "group": "group_7"
-        },
-        {
             "videoId": "wKHDbHCzWBs",
             "title": "Horrific details emerge in case of 13 captive siblings",
             "secondDuration": 469,
@@ -121,8 +115,14 @@
             "title": "Steve Bannon will talk with special counsel investigators: Sources",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "aMXG-Lz2vUI",
+            "title": "10-year-old boy tests positive for the flu, later dies from pneumonia",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

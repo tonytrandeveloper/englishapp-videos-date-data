@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W82RDt5nvVM",
-            "title": "Chaos ensued after Spirit Airlines cancelled 11 flights and delayed dozens more",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "6ZUhSghbN74",
             "title": "Eastwood meets his newly adopted family",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Jimmy Kimmel returns to TV with health care message",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KRA9NkpNcko",
+            "title": "More details emerge in horrific Penn State fraternity house party death | ABC News",
+            "secondDuration": 528,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

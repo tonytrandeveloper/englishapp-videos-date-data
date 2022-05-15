@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xPMLIfxESPI",
-            "title": "Oprah Favorite Things of 2016",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "tWIl4_5s1gs",
             "title": "Trump on Clinton Emails, Melania Addresses Bully Culture",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Megyn Kelly Details Sexual Harassment by Roger Ailes in New Book, Reportedly",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "VqqgQff99HQ",
+            "title": "Hillary Clinton Campaigns with Pharrell, Bernie Sanders",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

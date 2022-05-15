@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AbwlbBF2g9M",
-            "title": "Hillary Clinton Stops at Chipotle On Trip To Iowa | NBC Nightly News",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "2DzYhK2wKiI",
             "title": "Fatal Deputy Shooting Caught On Bodycam | NBC Nightly News",
             "secondDuration": 42,
@@ -61,8 +55,14 @@
             "title": "Sandra Bullock's 911 Call Heard At Stalker Court Hearing | NBC Nightly News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "fCKaOdPowPg",
+            "title": "Walter Scott Shooting Dash Cam Video Revealed | NBC Nightly News",
+            "secondDuration": 237,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

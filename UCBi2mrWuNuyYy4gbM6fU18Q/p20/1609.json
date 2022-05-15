@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gKK4WSxoU1U",
-            "title": "Fidel Castro's Death Impact on Cuba",
-            "secondDuration": 298,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXOt5jrAfm8",
             "title": "How Cuba's Tourism Scene Has Already Changed",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Jill Stein Calls for Recount",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "P53Rquk53h8",
+            "title": "Boy Calls 911 to Invite Cops to Thanksgiving Dinner",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

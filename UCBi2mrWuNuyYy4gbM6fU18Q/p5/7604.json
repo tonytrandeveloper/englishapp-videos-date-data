@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aw_HizEtJZ8",
-            "title": "Ted Cruz In A Minute",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHuQABPyYFo",
             "title": "Bernie Sanders In A Minute",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Ted Cruz's Wife Heidi Cruz: 'Ted and I Are Doing This as a Partnership'",
             "secondDuration": 414,
             "group": "group_7"
+        },
+        {
+            "videoId": "xsqhPJqFvjQ",
+            "title": "Rand Paul's Wife Kelley Paul: 'I Don't Like to Make Decisions Based Out of Fear'",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

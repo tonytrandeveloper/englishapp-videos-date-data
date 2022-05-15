@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pyAUp0s3xl4",
-            "title": "Man at center of GOP memo controversy speaks out",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "INPkzdUNyxY",
             "title": "Pennsylvania district's special election could be bellwether for 2018 midterm elections",
             "secondDuration": 450,
@@ -31,8 +25,14 @@
             "title": "Dow plummets more than 1,100 points in biggest single-day drop in history",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "CdbHDI0Xr-A",
+            "title": "'It was bodies everywhere': Amtrak crash witness",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

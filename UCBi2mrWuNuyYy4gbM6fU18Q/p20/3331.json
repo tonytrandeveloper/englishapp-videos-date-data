@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3-YJw8TMXDU",
-            "title": "Juju Juggles Gender Identity",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "uN0C-rk7-80",
             "title": "Shots Fired at Iranian Protesters",
             "secondDuration": 211,
@@ -121,8 +115,14 @@
             "title": "Iranian Election Results Disputed",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "i20qR61Fmz0",
+            "title": "Fake Rockefeller Found Guilty of Kidnapping",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

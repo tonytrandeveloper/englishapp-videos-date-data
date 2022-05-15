@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "I7EgkPGpafY",
-            "title": "Female Teen Plays Quarterback",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "9VCqvU7U6aE",
             "title": "Mega Millions Jackpot Winner Found",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "Did Clint Eastwood's Speech Overshadow Mitt Romney?",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "szVbfdxPsBs",
+            "title": "Romney Campaign Treats Donors Like Royalty",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

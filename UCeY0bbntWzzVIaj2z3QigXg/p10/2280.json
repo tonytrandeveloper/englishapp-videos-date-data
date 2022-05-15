@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aIcKmsl8PzI",
-            "title": "Watch Steve King's Fiery Exchange With Man On Pittsburgh Shooting | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nprt3RsctDI",
             "title": "Special Report: Trump to deliver speech on immigration",
             "secondDuration": 1155,
@@ -61,8 +55,14 @@
             "title": "Fan Arrested After Throwing Beer At Boston Red Sox Manager | NBC News",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "JamI_QvflL0",
+            "title": "Pirates, Princesses And Unicorns: Halloween Celebrations Across The Country | NBC Nightly News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

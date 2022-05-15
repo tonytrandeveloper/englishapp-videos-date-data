@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dfR6OQCZE4A",
-            "title": "Fenway Farms: Boston Red Sox Go Green With Rooftop Garden | NBC Nightly News",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "yAwUoOcoRzA",
             "title": "Suspected Killer in Custody After Murder of Memphis Cop | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "HitchBOT’s U.S. Tour Ends With Vandalization in Philly | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "gRX1ip1TuFg",
+            "title": "Fast Spreading Wildfires Prompt California State of Emergency | NBC Nightly News",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

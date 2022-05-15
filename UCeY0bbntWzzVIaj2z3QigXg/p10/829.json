@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VmqhHzEtKtU",
-            "title": "Historic Australian Floods Lead To Out-Of-Control Container And Runaway Emu | NBC News NOW",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "uD5fu6HPKn4",
             "title": "Colorado Witness Describes Seeing Gunman Shoot 'Rapid Fire' Before Entering Store | NBC News NOW",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "COVAX Brings Covid Vaccine Doses To Uganda | NBC News NOW",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "h-XP0sV0L58",
+            "title": "Third Wave Of Covid Grips Europe, Forcing New Lockdowns | NBC News NOW",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

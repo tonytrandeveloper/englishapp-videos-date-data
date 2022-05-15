@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CAvAdOgVFzM",
-            "title": "Famous Iowa Septuplets Graduate From High School",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "5awpTe0zp2c",
             "title": "Muslim Kids Read Letters From Japanese Internment Camps",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Freddie Gray Case | Police Officer Edward Nero Found Not Guilty",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8fwJhP6y0M",
+            "title": "Beauty and the Beast Trailer Premiere",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

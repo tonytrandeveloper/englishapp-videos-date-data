@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_y5YJKuB7zQ",
-            "title": "Astronauts Conduct Spacewalk to Open Door To The Future | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "6V_wwJZ7-4k",
             "title": "Sign Language Interpreter Honored By NYC Gay Men’s Chorus | NBC Out | NBC News",
             "secondDuration": 112,
@@ -31,8 +25,14 @@
             "title": "Senator John McCain Pressed On Vets Asking Him To Renounce Donald Trump | NBC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBCDv67dBT8",
+            "title": "Is Hosting The Olympics Worth The Price? | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

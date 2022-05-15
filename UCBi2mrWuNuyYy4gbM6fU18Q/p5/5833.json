@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5uPoZhFrJ7Y",
-            "title": "President Trump withdraws US from Paris climate change agreement (full remarks)",
-            "secondDuration": 2042,
-            "group": "group_7"
-        },
-        {
             "videoId": "fWaSB7maZMY",
             "title": "Marvel Comics’ Secret Empire 2017: Inside Black Widow's hunt for Captain America",
             "secondDuration": 1705,
@@ -31,8 +25,14 @@
             "title": "Chris Ruddy talks Paris accord, reports of divided White House",
             "secondDuration": 212,
             "group": "group_7"
+        },
+        {
+            "videoId": "FFVM-jB-IIM",
+            "title": "Police release new body-camera footage from Orlando shooting",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

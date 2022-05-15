@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RCgNPEAXCUM",
-            "title": "Democracy's Stronghold in Lebanon",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "sqSJJ4j_XH4",
             "title": "Fenway's Home Field Advantage",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Teen Drunken Driving Tragedy Revisited -",
             "secondDuration": 254,
             "group": "group_7"
+        },
+        {
+            "videoId": "k2u_N51YkF8",
+            "title": "Cuban Spies Living in South Dakota",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "81x1jo_A9kg",
-            "title": "Israeli Police Use Stun Grenades To Prevent Clashes In Sheikh Jarrah",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "DcjX9i0FxqQ",
             "title": "Stonewall Inn To Boycott Anheuser-Busch Over Political Donations",
             "secondDuration": 40,
@@ -121,8 +115,14 @@
             "title": "Newly Elected Iranian President Throws Doubt On Restoring Nuclear Deal",
             "secondDuration": 214,
             "group": "group_7"
+        },
+        {
+            "videoId": "7rwm_MH6coc",
+            "title": "Derek Chauvin To Be Sentenced This Week For George Floyd’s Murder",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

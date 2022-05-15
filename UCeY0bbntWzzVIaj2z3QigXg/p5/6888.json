@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mi-1TbmQ-EQ",
-            "title": "FBI Takes Pharma CEO Martin Shkreli Into Custody | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "JqAsIuCoJCg",
             "title": "‘He Saved My Life’: Vet with PTSD Reunited with Dog Four Years Later | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Fed. Chair Yellen: Raising Rate Is 'The End Of An Extraordinary 7 Year Period' | NBC News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "LGVrMXZNkA4",
+            "title": "Paul Ryan: Bi-partisan Deals Advance Republican Priorities | NBC News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

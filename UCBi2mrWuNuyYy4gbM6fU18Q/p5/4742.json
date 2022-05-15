@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lcB9sWRPg8U",
-            "title": "Former Trump attorney Michael Cohen reaches plea deal | ABC News",
-            "secondDuration": 1139,
-            "group": "group_7"
-        },
-        {
             "videoId": "GIevcJeUaS0",
             "title": "ABC News Live: Trump vs. Mueller, Manafort jury deliberates, SC gator attack",
             "secondDuration": 1512,
@@ -31,8 +25,14 @@
             "title": "Trump deports last Nazi war criminal in US back to Germany",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "2giy2uSMq5M",
+            "title": "Trump discredits special counsel, calls Mueller's team 'thugs'",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

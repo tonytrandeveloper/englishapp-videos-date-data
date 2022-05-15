@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yxjf8cxVx6E",
-            "title": "Chris Rock | Hosting the Oscars 2016",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "vjdvExvxicU",
             "title": "Woman Died of Dehydration While in Police Custody, Family Says",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "23-Year-Old Posing as High School Student Speaks Out",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "wYn7WPEp8l4",
+            "title": "Obama on Kansas Shooting: 'We Cannot Become Numb'",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

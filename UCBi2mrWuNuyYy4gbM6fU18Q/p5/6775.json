@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tHz4r7nVDoE",
-            "title": "Donald Trump, Hillary Clinton Clash Over Terror",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "BrosYvng7zg",
             "title": "Drivers Waste Billions on Premium Gas New Report Shows",
             "secondDuration": 130,
@@ -31,8 +25,14 @@
             "title": "George Bush Voting for Hillary Clinton, a Kennedy Says",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "xm3fYFgm_ZE",
+            "title": "NYC, NJ Bombings Suspect Charged with 5 Counts of Attempted Murder",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

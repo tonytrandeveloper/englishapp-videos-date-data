@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4T8iWG6VKgo",
-            "title": "Kavanaugh is sworn in as Supreme Court justice",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pslpz1k5MTQ",
             "title": "UFC fight spills out of the octagon",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Senate Dem: Justice Kavanaugh will have 'a big asterisk after his name'",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "elPnkAbQTpA",
+            "title": "First lady talks about her husband, Kavanaugh and the #MeToo movement",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

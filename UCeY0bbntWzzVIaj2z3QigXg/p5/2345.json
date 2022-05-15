@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6Z7Waybm_K4",
-            "title": "Watch NBC News NOW Live - August 27",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gx76TtLYRwI",
             "title": "Watch President Trump's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 4223,
@@ -31,8 +25,14 @@
             "title": "Republican National Convention Day 4 | Featuring President Trump | NBC News",
             "secondDuration": 13339,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wru4zUIfzCU",
+            "title": "Trump Condemns 'Rioting, Looting' In 'Democrat-Run Cities Like Kenosha' | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hEIwzrHybjI",
-            "title": "Inside Nashville’s Iconic Ryman Auditorium",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "aCynjNCFPKE",
             "title": "Nashville Schools Struggling Amid Pandemic Setbacks",
             "secondDuration": 231,
@@ -61,8 +55,14 @@
             "title": "New Research Explains How Covid Infects The Brain And Impairs Cognitive Functions",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "FTY4fZK7dGg",
+            "title": "LGBTQ Candidates Celebrate Historic Election Firsts Across The Country",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

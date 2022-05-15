@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "M-wNTrO9KHc",
-            "title": "Democrats gear up for 2nd round of hearings | ABC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "_wLLWPIakGw",
             "title": "California school shooting latest, ousted ambassador impeachment hearing, Venice flooding | ABC News",
             "secondDuration": 1243,
@@ -31,8 +25,14 @@
             "title": "Is Deval Patrick too late to the 2020 Presidential Race?",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "OvA7bXtSotk",
+            "title": "Virginia schools closed in search for Marine",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

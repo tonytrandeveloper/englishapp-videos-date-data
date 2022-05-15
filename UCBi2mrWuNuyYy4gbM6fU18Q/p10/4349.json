@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lpO6lVVu2i8",
-            "title": "Sofia Vergara on Meeting Joe Manganiello",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "knWvSkJTgO4",
             "title": "Best Man Sings Pop Medley Tribute at Brother’s Wedding",
             "secondDuration": 50,
@@ -61,8 +55,14 @@
             "title": "South Carolina Shooting: Response from Victim's Mother",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "b7fxFjlJl5E",
+            "title": "Rand Paul Announces 2016 Presidential Bid (FULL SPEECH)",
+            "secondDuration": 1530,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "waTTmbFYJRQ",
-            "title": "Jay-Z, Beyonce, Solange Move on From Elevator Incident United",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "xEKQb-WoPCE",
             "title": "FDA Cuts Recommended Dosage of Lunesta",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "The Groundbreaking Career of Barbara Walters",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "x55wH74Mo6Q",
+            "title": "President Obama Dedicates 9/11 Museum",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

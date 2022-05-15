@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6VO-EAvAHGk",
-            "title": "Florida Primary: Trump, Clinton Projected to Win",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAY430zOfeg",
             "title": "World Drone Prix | 15-Year Old Pilot Wins $250K",
             "secondDuration": 44,
@@ -121,8 +115,14 @@
             "title": "'Star Wars: The Force Awakens' Documentary Shows Behind the Scenes",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "GRzKJO2nSwg",
+            "title": "Donald Trump's Softer Side",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

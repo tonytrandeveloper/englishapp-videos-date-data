@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oWIZZDfIkEQ",
-            "title": "Keith Lamont Scott Shooting Video Released by Charlotte Police",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "ou1yICdRDX0",
             "title": "Erin Brockovich on Recent Environmental Threats",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "UNC Student Found Bludgeoned to Death in Her Own Apartment: Part 2",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "jsj4eqDLe10",
+            "title": "Friends, Family Stunned to Learn UNC Student Is Dead: Part 1",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

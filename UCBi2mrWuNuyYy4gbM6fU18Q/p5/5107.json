@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "op4sF_3xMiA",
-            "title": "Disney's 'Frozen' makes its debut on Broadway",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "hcmGMVl-y9U",
             "title": "Newborn reunited with parents after being taken by Native American tribe",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "Serial bombing suspect had locked bomb-making room at home: Authorities",
             "secondDuration": 149,
             "group": "group_7"
+        },
+        {
+            "videoId": "PKPnbvwghjE",
+            "title": "President Trump hosts Greek Independence Day celebration | ABC News",
+            "secondDuration": 690,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

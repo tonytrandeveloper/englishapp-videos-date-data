@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wlROB3uzC6s",
-            "title": "Marine's Best Friend",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "HCnJBwgSJjY",
             "title": "Jenni-Lyn Watson Murdered",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Bargain Hunters on the Prowl",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "4U59io5fj38",
+            "title": "First Couple on Their First Years in White House",
+            "secondDuration": 437,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

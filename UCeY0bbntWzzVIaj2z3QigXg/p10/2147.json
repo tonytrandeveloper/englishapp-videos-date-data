@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q983AtIAw0I",
-            "title": "How Three Artists Found Their Voice On Netflix’s Westside | NBC News Signal",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "svGrknogvWU",
             "title": "How The Shutdown Really Impacts National Security | NBC News Signal",
             "secondDuration": 245,
@@ -61,8 +55,14 @@
             "title": "Officers Cleared Of Charges Tried To Cover Up Evidence In Laquan McDonald Killing | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "8YPQuweHdxw",
+            "title": "Desperate Search For Survivors Buried In New Mexico Avalanche | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

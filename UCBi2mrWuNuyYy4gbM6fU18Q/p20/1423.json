@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4SD4K6-tkBk",
-            "title": "New TSA electronics policy announced",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ojYtD28O2I",
             "title": "President Donald Trump participates in jobs announcement at the White House",
             "secondDuration": 1687,
@@ -121,8 +115,14 @@
             "title": "Last killer whale born into captivity at SeaWorld has died",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "EyjizUNG3sc",
+            "title": "President Donald Trump holds ‘Make America Great Again’ rally in Youngstown, Ohio",
+            "secondDuration": 3516,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

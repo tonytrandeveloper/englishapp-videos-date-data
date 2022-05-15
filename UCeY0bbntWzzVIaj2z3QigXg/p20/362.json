@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lOdoH793Ti8",
-            "title": "Biden Speaks After CDC Releases New Mask Guidelines",
-            "secondDuration": 1180,
-            "group": "group_7"
-        },
-        {
             "videoId": "5HoIrt9MsMA",
             "title": "20-Year-Old Green Sea Turtle Saved by Group Of Volunteers",
             "secondDuration": 1482,
@@ -121,8 +115,14 @@
             "title": "NYC Police Commissioner Announces Arrest In Times Square Shooting",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGeqS-rqg3s",
+            "title": "Pipeline Restarting Operations Amid Frenzy At Gas Stations | NBC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GsVS8wiatHA",
-            "title": "Trump Qualified to Moderate Debate?",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "oH_da3E_BxM",
             "title": "Jerry Sandusky Speaks Out on Camera",
             "secondDuration": 360,
@@ -121,8 +115,14 @@
             "title": "Los Angeles Weather Leaves LAX Powerless; Powerful Santa Ana Winds Strongest in Years",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "tZLiWWK_TYI",
+            "title": "Meth Lab Crackdown in Kentucky",
+            "secondDuration": 482,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

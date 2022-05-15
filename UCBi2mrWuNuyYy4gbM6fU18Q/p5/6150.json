@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Poy_U0WEKKs",
-            "title": "Rob Gronkowski to Star in a Tide Super Bowl Commercial",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "ecrNq5iPzqA",
             "title": "Attack at the Louvre Officially Announced as Terrorism",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Trump Administration Announces New Sanctions on Iran",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "XFwe9C-t6-w",
+            "title": "Trump Hints at Rollback of Dodd-Frank Financial Regulations",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7QltynfMa8Y",
-            "title": "Boris Johnson Becomes New UK Prime Minister After Theresa May Resigns | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "9p0wNcQCfew",
             "title": "Allergan Recalls Breast Implants Linked To Cancer | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "The Mueller Probe: A Timeline Of Key Moments  | NBC News Now",
             "secondDuration": 418,
             "group": "group_7"
+        },
+        {
+            "videoId": "zI5tKrpUcPU",
+            "title": "Watch Full Response From Democratic Leadership To Mueller Hearing | NBC News Now",
+            "secondDuration": 1614,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

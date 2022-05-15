@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BYk_xxDcGk8",
-            "title": "Antibody Testing Increases as FDA Authorizes Different Tests",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "fY99T_E3HvE",
             "title": "CDC Director Warns Of ‘Pandemic Of The Unvaccinated’ As Covid Cases Rise",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "New Books Says Top General Feared Trump Would Attempt Coup",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "S9_DDZ7zP1E",
+            "title": "University Team Creates Mobile Lab For Medical Research On Marijuana",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CuOLpJMXGMc",
-            "title": "Jennifer Hudson: New Life, New Music 3/21/2011",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "aduIqJDLOX4",
             "title": "ABC World News Now - Gay 'Cure' App Creates Controversy for Apple's Rating System",
             "secondDuration": 34,
@@ -121,8 +115,14 @@
             "title": "Hollywood Hacker Targets Celebrities",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "iLqa7TE9B54",
+            "title": "Progress in Japan",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

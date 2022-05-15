@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X7C13EQhBZQ",
-            "title": "Wrongfully Convicted Man Freed After Retrial",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "LMnlCZWKWM0",
             "title": "Flamingos Take Over Town for Girl Battling Cancer",
             "secondDuration": 118,
@@ -61,8 +55,14 @@
             "title": "Boy With Dual Hand Transplant Wants To Play Football",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "vL7UVuDqe9s",
+            "title": "Joe Biden on Impact of Failed Turkish Coup",
+            "secondDuration": 25,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

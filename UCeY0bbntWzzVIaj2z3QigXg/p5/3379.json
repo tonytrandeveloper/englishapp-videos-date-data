@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OVawMyMxHpE",
-            "title": "President Donald Trump: ‘This Is Impeachment lite’ | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "yRxOCNSIbFo",
             "title": "Continuing Volcanic Activity Prevents Recovery Of Bodies From White Island | NBC News",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "A Minute-By-Minute Look At The New Zealand Volcano Eruption | NBC News NOW",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "D7LsbnHKZ6U",
+            "title": "The Issues: 2020 Candidates On Climate Change | NBC News NOW",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

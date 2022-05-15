@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tJ3mN9YGwjs",
-            "title": "Deer Slams Into Georgia Restaurant",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "zt28OqCWmc8",
             "title": "Penn State Sex Scandal: New Details",
             "secondDuration": 325,
@@ -31,8 +25,14 @@
             "title": "Herman Cain Fires Back at Accusers",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "lVQ9OaKIoNA",
+            "title": "Michael Jackson Doc Found Guilty",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Cta6UbAX-jo",
-            "title": "Trump pardons National Thanksgiving Turkey",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "1e-_cYrc2u8",
             "title": "The Debrief: Chicago shooting, California wildfires, and cruise ship death | ABC News",
             "secondDuration": 1600,
@@ -61,8 +55,14 @@
             "title": "Passengers share terrifying tales of plunging 84 stories in elevator",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "OcQTf6_WiBI",
+            "title": "Trio accused of scamming GoFundMe donors out of nearly $400k",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

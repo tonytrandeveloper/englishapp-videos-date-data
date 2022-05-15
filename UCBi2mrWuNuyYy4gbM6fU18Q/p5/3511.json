@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zqphWZz7aZg",
-            "title": "Inmate claims Patrick Frazee tried to hire gang to kill witnesses",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "ICr3_OyPHJo",
             "title": "Longtime Trump friend Roger Stone convicted on all 7 counts",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Trump denies tweets against Yovanovitch were witness intimidation | ABC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "81du2gsmuf4",
+            "title": "Yovanovitch says she would have blocked Trump’s Biden requests | ABC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

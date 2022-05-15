@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "K87ZQB4iQF0",
-            "title": "New Warning On Link Between High Blood Pressure And Grilled Meat | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "wHsVy43CqdU",
             "title": "FBI Director Chris Wray: There Are More Than 3,000 Open Terrorism Investigations | NBC Nightly News",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Federal Trade Commission Reportedly Probing Facebook | NBC Nightly News",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "MgAEmzP9OZs",
+            "title": "Two Students Shot At Maryland High School, Gunman Dead | NBC Nightly News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MViNCI4bNlw",
-            "title": "Frank Bruni: Atkins at Eight",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "kVIok3vyREc",
             "title": "'Psychic' Teen Describes Auras She",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper on Obama's Health Care Tour",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "ST5rimNAZN0",
+            "title": "Health Insurance Exec Turns Whistleblower",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

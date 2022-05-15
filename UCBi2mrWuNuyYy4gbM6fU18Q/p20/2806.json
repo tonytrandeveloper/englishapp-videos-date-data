@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8h44CTEAetE",
-            "title": "Richard Gere and 'Arbitrage' Stars Discuss Film's Inspiration",
-            "secondDuration": 578,
-            "group": "group_7"
-        },
-        {
             "videoId": "pTikNAPPnwY",
             "title": "Kato Kaelin New York Times: Former Witness Clarifies O.J. Simpson 'He Did It' Comment",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "48 Hours in Solitary Confinement: 'It Is a Very Lonely Feeling'",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "0y-0jT0waq4",
+            "title": "In Solitary Confinement, 'the Screaming Starts'",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

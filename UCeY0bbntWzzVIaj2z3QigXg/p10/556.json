@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y-3Pl-KBdK8",
-            "title": "This Morning’s Top Headlines – August 5 | Morning News NOW",
-            "secondDuration": 1232,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vq5_3-xOx5s",
             "title": "Inside scoop: Ice Cream Demand Surges Summer After Covid Pandemic",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Inside The New Eviction Moratorium",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "sZcOpCaZB8E",
+            "title": "Youth Covid Cases Rising Nationwide",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

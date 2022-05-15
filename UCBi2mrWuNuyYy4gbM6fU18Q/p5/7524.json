@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PHIKN4o0m20",
-            "title": "Johnny Depp, Amber Heard Apologize for Dog Smuggling",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "glwxPlHceNU",
             "title": "Woman Hit by Foul Ball at Tampa Bay Rays Game",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Looks for Landslide Win in New York",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "K9psw7uYszQ",
+            "title": "Ecuador, Japan Earthquakes | Rescuers Search for Survivors",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

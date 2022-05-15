@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vFkfPYD9sNY",
-            "title": "Lucky Students Take Oscar Stage",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "ozT9o0t0ApE",
             "title": "Road to Recovery: Robin Roberts First Week Back",
             "secondDuration": 178,
@@ -61,8 +55,14 @@
             "title": "'Invisible War' Shines Light on Rape in the Military",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8p8GSQRtBI",
+            "title": "Robin Roberts' Journey: A New Life",
+            "secondDuration": 477,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kfvMbCjOVvg",
-            "title": "Meet The Press Broadcast (Full) - June 20th, 2021",
-            "secondDuration": 2836,
-            "group": "group_7"
-        },
-        {
             "videoId": "yO_d3aYSBXA",
             "title": "How Juneteenth Support Grew Among Young Americans",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Portman: Manchin’s Voting Legislation Memo Is A \"Federal Takeover...\"",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "i3NJ4stL43c",
+            "title": "Bernie Sanders Against Raise In Gas Tax To Support Infrastructure",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

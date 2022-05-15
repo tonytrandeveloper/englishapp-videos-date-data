@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hGucyVPsCp8",
-            "title": "Tom Brokaw Visits The National World War II Museum In New Orleans | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "FnGR2e2arXc",
             "title": "Maria Menounos Reveals Risky Surgery To Remove Brain Tumor | NBC Nightly News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Chinese Scholar Was Kidnapped And Likely Killed By Illinois Man, Authorities Say | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "PzqsO2oqaB4",
+            "title": "Mosul: Iraqi Forces Continue Battle To Retake The Entire City From ISIS | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

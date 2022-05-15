@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "dpk2Cn-geok",
-            "title": "Donald Trump: I Will Release Tax Returns When Hillary Clinton Releases Emails | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "pfNJsaMylF0",
             "title": "Hillary Clinton Criticizes Donald Trump Over Tax Returns | NBC News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Debate Major Opportunity For Hillary Clinton To Regain Lost Support | NBC Nightly News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZpDSYYQSfiM",
+            "title": "9 Injured In Houston Mass Shooting Attack; Gunman Killed By Police | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

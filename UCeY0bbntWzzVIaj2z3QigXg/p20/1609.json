@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ijJ2zNIPQO0",
-            "title": "Standing Rock Protests Don't Stop For Thanksgiving | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "TsmSW9PK2qg",
             "title": "Marco Rubio: Fidel Castro's Death An 'Historical Milestone' (Full) | Meet The Press | NBC News",
             "secondDuration": 596,
@@ -121,8 +115,14 @@
             "title": "Stars, Icons Honored at Obama’s Final Medal of Freedom Ceremony | NBC News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "m-2iSdUC6kU",
+            "title": "White House: President Obama, Donald Trump Have Spoken Since Oval Office Meeting | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

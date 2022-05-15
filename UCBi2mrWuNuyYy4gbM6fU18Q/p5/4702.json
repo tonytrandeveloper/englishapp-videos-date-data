@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QW6mtukSe-0",
-            "title": "Trump blasts anonymous NYT op-ed writer at rally",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "uovBJYz0lWY",
             "title": "Mom, 3-year-old attacked by giraffe",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "'Smokey and the Bandit's' Burt Reynolds dies at the age of 82",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "udl6SQEcLeI",
+            "title": "Passengers report flu-like symptoms on 2 separate flights to Philadelphia",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

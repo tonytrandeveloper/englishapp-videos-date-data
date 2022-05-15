@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NwEvlsz-J9c",
-            "title": "Cabin swept away by flood, crashes into bridge",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "dl49_Kj3EEI",
             "title": "FBI Dir. James Comey testifies on alleged Russia 2016 election tampering at Senate oversight hearing",
             "secondDuration": 13730,
@@ -121,8 +115,14 @@
             "title": "Trump says he would meet with Kim Jong-Un",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "rljrGixht0c",
+            "title": "White House targets Michelle Obama initiatives, big banks",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

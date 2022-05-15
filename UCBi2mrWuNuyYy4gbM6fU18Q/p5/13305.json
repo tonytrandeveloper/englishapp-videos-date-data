@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nTrKR08sptE",
-            "title": "Gunman Kills Beloved Football Coach",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPz0aHUUvwo",
             "title": "Living in the Shadow of Health Care Fears",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Obama on Health Care: 'We Can Get It Done'",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "_je7cMS1TWg",
+            "title": "Cancer Teen Wants to Stop Chemo Therapy",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-RpAxMMRHYI",
-            "title": "Ryan Lochte's Rio Robbery Scandal",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJpjQ0VNdIg",
             "title": "Donald Trump Expresses Regret for Past Comments",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "LeBron James Highlights His Work Off The Court",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNK-MT3zPxU",
+            "title": "Dallas Shooter's Weapons Removed by Army During Deployment",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

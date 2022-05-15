@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DyyjNSLlcdc",
-            "title": "Live: New York Gov. Andrew Cuomo Holds Briefing On Coronavirus, George Floyd Protests | NBC News",
-            "secondDuration": 2716,
-            "group": "group_7"
-        },
-        {
             "videoId": "plRXzthk7qg",
             "title": "Live: NYC Mayor Bill De Blasio Holds Press Conference Amid George Floyd Protests | NBC News",
             "secondDuration": 4019,
@@ -61,8 +55,14 @@
             "title": "National Guard Patrols Philadelphia Amid George Floyd Protests | NBC News NOW",
             "secondDuration": 531,
             "group": "group_7"
+        },
+        {
+            "videoId": "f5hA9ky_sQw",
+            "title": "Watch NBC News NOW Live - June 1",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

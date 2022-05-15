@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5TvpVwS0qz0",
-            "title": "'Every American Is Affected By It' Trump Unable To 'Bluff His Way Out' Of COVID-19 | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "OezppaFym4I",
             "title": "Pence: 'Truly Remarkable Progress' On COVID Despite Spike In Infections | Meet The Press | NBC News",
             "secondDuration": 198,
@@ -121,8 +115,14 @@
             "title": "Fact-Checking Barr's Claim That Voting By Mail Leads To Fraud | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "dGlHMZQtO7U",
+            "title": "Minute-To-Minute Breakdown Leading Up To Elijah McClain's Deadly Stop | NBC News NOW",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

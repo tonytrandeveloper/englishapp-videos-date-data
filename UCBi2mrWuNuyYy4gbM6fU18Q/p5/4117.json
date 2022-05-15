@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LQFkhvSuSf0",
-            "title": "Missing 4-year-old has had multiple brain surgeries, requires constant care",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "udSQD-D75z0",
             "title": "Prince Harry and Meghan debut newborn son",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Lawyer for Britney Spears' mom files motion to 'have a voice' in her affairs",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "0CwB8dvxiXk",
+            "title": "Uber and Lyft drivers turn off app in multi-city strike",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

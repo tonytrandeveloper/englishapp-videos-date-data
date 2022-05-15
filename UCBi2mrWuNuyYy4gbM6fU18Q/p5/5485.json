@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-JPredb6SZM",
-            "title": "Remembering victims of the Las Vegas mass shooting",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "51GvJR_xdUU",
             "title": "New Orleans and Gulf Coast brace for approaching storm",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "White House press briefing: Likely questions on President Trump's Iran Deal plans",
             "secondDuration": 2590,
             "group": "group_7"
+        },
+        {
+            "videoId": "rvVj33TGj8Y",
+            "title": "Harvey Weinstein accused of sexual harassment",
+            "secondDuration": 638,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

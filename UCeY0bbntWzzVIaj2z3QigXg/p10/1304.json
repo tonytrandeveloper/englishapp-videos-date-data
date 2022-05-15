@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hdSB3SFbMlg",
-            "title": "Coronavirus Patients With Confusing, Long-Lasting Symptoms | NBC Nightly News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "RALFhJCukrU",
             "title": "Will The New COVID-19 Surge Be As Devastating As Last Spring’s? | NBC Nightly News",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "Trump: Democrats 'Want To Weaken Our Police' After Blocking Republican Reform Plan | NBC News NOW",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "XInKfVKHXU0",
+            "title": "Live: Trump Holds News Conference With President Of Poland | NBC News",
+            "secondDuration": 2250,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

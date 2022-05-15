@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TXAKRJiyeCg",
-            "title": "White House press briefing on Trump's Steel Tariffs, Mueller investigation, DACA | ABC News",
-            "secondDuration": 2127,
-            "group": "group_7"
-        },
-        {
             "videoId": "3u_af13b7Ng",
             "title": "Jordan Peele reflects on his historic Oscar win:  'It's a dream'",
             "secondDuration": 323,
@@ -31,8 +25,14 @@
             "title": "Moviegoer describes his big Oscar moment",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "pr-_Wv4cA8U",
+            "title": "Jon Stewart, members of Congress advocate for WTC health program in DC | ABC News",
+            "secondDuration": 1954,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

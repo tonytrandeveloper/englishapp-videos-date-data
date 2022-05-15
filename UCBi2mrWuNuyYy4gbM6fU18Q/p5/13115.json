@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8PBGgggomP0",
-            "title": "GM Says Goodbye to Saturn",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "NkG1O0P-vMo",
             "title": "Steve Harvey Breaks Down Stepfamilies",
             "secondDuration": 645,
@@ -31,8 +25,14 @@
             "title": "'Kate Plus 8': Will Anyone Watch?",
             "secondDuration": 224,
             "group": "group_7"
+        },
+        {
+            "videoId": "4NIs2azKXpw",
+            "title": "McCain on Afghanistan: Need Quick Decision",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

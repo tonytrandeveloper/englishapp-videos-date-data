@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uFanNYbhm2g",
-            "title": "2015 Grammy Awards",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "V5Nq15SxAcM",
             "title": "Taylor Swift, Lady Gaga Shine on the Red Carpet at Grammy Awards",
             "secondDuration": 292,
@@ -61,8 +55,14 @@
             "title": "Senator Ted Cruz on ISIS Hostage Claims",
             "secondDuration": 427,
             "group": "group_7"
+        },
+        {
+            "videoId": "JrCZrsTvgQ4",
+            "title": "ISIS Attack Plan: Threat to the US Homeland?",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

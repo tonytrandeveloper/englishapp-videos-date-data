@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_ru0OPWUvR0",
-            "title": "Donald Trump Jr. speaks to the Senate Judiciary Committee",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "k6Q2u_mrFn4",
             "title": "President Donald Trump holds joint news conference with emir of Kuwait",
             "secondDuration": 3085,
@@ -61,8 +55,14 @@
             "title": "The search for missing Texas realtor, last seen before Hurricane Harvey",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZDRbjGqXDLI",
+            "title": "Hurricane Irma barrels through the Caribbean, claiming at least 3 lives",
+            "secondDuration": 325,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

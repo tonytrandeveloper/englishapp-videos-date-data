@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D_NNcw8cIzk",
-            "title": "WEBCAST: Newest Star At The Zoo",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "nXpAhFtOFHg",
             "title": "Drones: Headed for Commercial Use?",
             "secondDuration": 351,
@@ -31,8 +25,14 @@
             "title": "Wall Street Taken For a Ride",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "SDTKGOiutWM",
+            "title": "'Worst First Day Ever' TV Anchor AJ Clemente a Web Star After Profane TV Debut",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

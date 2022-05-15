@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e-b4XSzMbE8",
-            "title": "Do Sanctions Actually Work? | NBC News Signal",
-            "secondDuration": 203,
-            "group": "group_7"
-        },
-        {
             "videoId": "j7-K3almpjM",
             "title": "U.S. Military Honors Soldiers Who Fell In Landmark WWI Battle | NBC News",
             "secondDuration": 126,
@@ -121,8 +115,14 @@
             "title": "12 Killed In Mass Shooting In Thousand Oaks, California | NBC Nightly News",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "h_L6JFu3X2k",
+            "title": "NBC News Signal - November 8th, 2018",
+            "secondDuration": 1610,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BSLqL4R5NKU",
-            "title": "FBI Terror Raids Extend to Denver",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "PjfUbQr74m8",
             "title": "TOP LINE: Rep. Joe Wilson, Anxious Americans and Race",
             "secondDuration": 306,
@@ -121,8 +115,14 @@
             "title": "Held Captive",
             "secondDuration": 533,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVqGEB7misI",
+            "title": "The Pain of Unemployment",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

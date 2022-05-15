@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VijFo4-Chw0",
-            "title": "Fashionable Technology",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "RjWoAtrpHBM",
             "title": "House Bolted to Cliff",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Obama to Address Nation on ISIS",
             "secondDuration": 56,
             "group": "group_7"
+        },
+        {
+            "videoId": "KosQ4yxJCMQ",
+            "title": "Instant Index: Broadway Lights Dimmed in Honor of Joan Rivers",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

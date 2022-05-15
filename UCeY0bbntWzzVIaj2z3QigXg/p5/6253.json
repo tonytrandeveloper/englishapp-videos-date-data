@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1bw-InhwXyk",
-            "title": "Soshee Is World’s First Social Media Robot Dog | Mach | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "YXXRlU7IPBI",
             "title": "Angela Merkel On President Trump: We Were Elected ‘To Find A Compromise’ | NBC News",
             "secondDuration": 88,
@@ -31,8 +25,14 @@
             "title": "Sean Spicer Cites Claim British Spy Agency Behind Alleged Trump Tower Wiretap | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "C9UikJXHcHU",
+            "title": "Irish PM Enda Kenny Reminds U.S. St. Patrick 'Was An Immigrant' | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

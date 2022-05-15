@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ppf-krWypOQ",
-            "title": "Trump surveys hurricane damage in Puerto Rico",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "jSwTZadXIPU",
             "title": "Actor with toy gun mistaken for robber",
             "secondDuration": 159,
@@ -61,8 +55,14 @@
             "title": "Las Vegas Police give update on mass shooting",
             "secondDuration": 2039,
             "group": "group_7"
+        },
+        {
+            "videoId": "TWHJ3AxpiBI",
+            "title": "Teen with heart disease creates video game",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

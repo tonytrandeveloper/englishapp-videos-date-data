@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N8azpwqrWtc",
-            "title": "Andrew Yang drops out of 2020 presidential race l ABC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "8iRsGABYoOs",
             "title": "WATCH LIVE: ABC News Live Prime | ABC News",
             "secondDuration": 3629,
@@ -31,8 +25,14 @@
             "title": "New questions for ‘doomsday’ parents of missing Idaho kids l ABC News",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "lyL2Z1COVFI",
+            "title": "Candidates vie for voters in New Hampshire l ABC News",
+            "secondDuration": 355,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

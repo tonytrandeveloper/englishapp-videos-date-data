@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "juVzHD7NEgk",
-            "title": "Lance Armstrong Oprah Interview Confession: Former Friends Turn on Star",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "owOn2Ejvzoo",
             "title": "London Helicopter Crash: Eyewitness Interview of Crash that Leaves 2 Dead, At Least 13 Injured",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "London Helicopter Crash: 2 Dead, at Least 13 Injured at Accident Site Near British Intelligence HQ",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXtVfb2YQzs",
+            "title": "Helicopter Crashes in London, 2 Dead",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

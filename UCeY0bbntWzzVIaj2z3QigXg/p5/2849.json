@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vAiSV8FewU0",
-            "title": "NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5146,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhZ64HLznuA",
             "title": "Blue Angels And Thunderbirds Perform Flyover Of Washington, D.C. | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Coronavirus Front line Workers Honored With Flyovers Across U.S. | NBC Nightly News",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "NIuIroDcvio",
+            "title": "New Warning Of Rare Coronavirus Complication In Children | NBC Nightly News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

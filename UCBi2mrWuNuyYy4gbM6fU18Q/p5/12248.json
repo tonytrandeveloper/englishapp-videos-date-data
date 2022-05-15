@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nEmytaIdRMQ",
-            "title": "Royal Wedding: Kate Middleton Princess Bride Steps Into History",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "k8SjZBUuNWU",
             "title": "London Transformed Into a Wedding Command Center",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "George W. Bush Interview on 'GMA':  Leads the Warrior 100 (2011)",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "nEZPfxTSvYA",
+            "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
+            "secondDuration": 229,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

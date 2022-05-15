@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uZf2RLCyADY",
-            "title": "'Real Housewives of Beverley Hills' Debuts Season 2 After Suicide of Russell Armstrong",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "1MKrWJrnwDE",
             "title": "Tennis Star Novak Djokovic Dances With 'Superfan' After 2011 U.S. Open Win",
             "secondDuration": 50,
@@ -121,8 +115,14 @@
             "title": "Labor Day Weekend: Time for Sales",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "i1BosHQqE0c",
+            "title": "Markets Down as No New Jobs Created Last Month",
+            "secondDuration": 213,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

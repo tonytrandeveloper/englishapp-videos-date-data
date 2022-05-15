@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GMcoIN_vlXw",
-            "title": "Mission: Saving Money on a Last-Minute Summer Vacation",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "AM9sq93pXVg",
             "title": "Taylor Swift Interview 2014: Singer Premieres 'Shake It Off,' Announces New Album",
             "secondDuration": 294,
@@ -121,8 +115,14 @@
             "title": "Gov. Rick Perry Fighting Back",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "e8Wn4JzRnuc",
+            "title": "Gas Station Explodes After Botched Diesel Heist in Florida",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

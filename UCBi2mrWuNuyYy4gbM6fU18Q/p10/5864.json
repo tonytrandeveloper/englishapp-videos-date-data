@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t4edBT0Wwro",
-            "title": "'Bully': Meryl Streep Hosts Movie Screening",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "eZ_I-FoAZ7M",
             "title": "Zola Jesus Interview: 'Conatus,' David Lynch Remix",
             "secondDuration": 280,
@@ -61,8 +55,14 @@
             "title": "Webcast: Whitney Houston Coroner Report",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "0bo2cixPVuY",
+            "title": "Kim Kardashian Attacked with Flour",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_KNikQ379UY",
-            "title": "Paul Ryan Dismisses Nomination in GOP Race",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "GxVy5sXYIQU",
             "title": "Dog Missing in Ocean for 5 Weeks Found by Navy",
             "secondDuration": 28,
@@ -31,8 +25,14 @@
             "title": "March Madness | Boy Sinks 2 Half-Court Shots to Win Championship",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yl5pDB_EQ0Y",
+            "title": "Donald Trump, Hillary Clinton Prepare for General Election",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

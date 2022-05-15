@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iHQjVk4oiec",
-            "title": "President Trump hosts German Chancellor Angela Merkel",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "mPwI5d4yKZY",
             "title": "Monster fire in Raleigh forces hundreds to evacuate their homes",
             "secondDuration": 142,
@@ -61,8 +55,14 @@
             "title": "Health care bill, Trump's budget plan face uphill battle in Congress",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sQz-GtmHqo",
+            "title": "Airport security officer hailed a hero for thwarting man's apparent suicide attempt",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9fbpBZzlIaA",
-            "title": "Ahead Of Hurricane Irma, Florida Starts Evacuations | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "BrKV_ROl-Xs",
             "title": "Memorializing The ‘Greatest Generation,’ One War Story At A Time | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Life Changes For A Generation Of Immigrants As President Donald Trump Ends DACA | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "IucXzbE1cfc",
+            "title": "Protests After Donald Trump Ends DACA | NBC Nightly News",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

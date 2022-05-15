@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "b0jD2KnA0gQ",
-            "title": "Tupac Alive at Coachella, Performs with Snoop Dogg",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "DBSqFMN-rlM",
             "title": "Solar Flare 2012 Video",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "Webcast: Secret Service Scandal; Deadly Tornadoes",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6YEwjVMqus",
+            "title": "Secret Service Scandal: President Calls for 'Thorough, Rigorous' Investigation",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

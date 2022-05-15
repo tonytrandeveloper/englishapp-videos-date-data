@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oh_obIUJ7HA",
-            "title": "In NBC News Exclusive, Putin Responds To Biden Calling Him A ‘Killer’",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "1B7vSKzcP0E",
             "title": "Behind The Scenes: Westminster Dog Show Held Outside For The 1st Time",
             "secondDuration": 104,
@@ -31,8 +25,14 @@
             "title": "During Trump Administration DOJ Subpoenaed Phone Records of Lawmakers",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "1BblPdIzPig",
+            "title": "Biden Meets With G7 Leaders Ahead of Putin Summit",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

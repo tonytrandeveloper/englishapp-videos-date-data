@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YRsEF-x0vCM",
-            "title": "Teen Kayaker Sarah Williams Survives Great White Shark Attack | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y37JGgYGADg",
             "title": "Press Secretary Sarah Huckabee Sanders On President Donald Trump's First Year In Office | NBC News",
             "secondDuration": 367,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Lobbies For Major Overhaul Of Tax Code | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "rq7lMmeVQGM",
+            "title": "New Information Emerges On Niger Ambush | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

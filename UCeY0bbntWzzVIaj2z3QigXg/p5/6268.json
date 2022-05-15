@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TggTzPcODBE",
-            "title": "CIA Leak: Assange Warns Of Cyber Arsenal Leak, US Scrambles To Find Leaker | NBC Nightly News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "GAEW1ZlOm2k",
             "title": "Company Trying To Revolutionize Deliveries With Robot Delivery | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Anne Hathaway: ‘Why Do We Continue To Overburden Mothers?’ | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "hOHLvV0unaQ",
+            "title": "Speaker Paul Ryan Gives PowerPoint On Obamacare Replacement | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

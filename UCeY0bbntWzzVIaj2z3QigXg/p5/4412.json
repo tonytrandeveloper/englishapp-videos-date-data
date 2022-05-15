@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4z48M8k09Ho",
-            "title": "Paralyzed Student Walks To Get College Diploma | NBC Nightly News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "0pOEDqKxNl8",
             "title": "Officers Rescues Family Of 4 From Burning New Jersey Home | NBC Nightly News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Assess ‘Friendly Meeting' With Chuck Schumer, Nancy Pelosi | NBC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "D73npZwsttI",
+            "title": "The Humanitarian Crisis In Plain Sight On The Streets Of L.A. | NBC News",
+            "secondDuration": 913,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "QrQLRMDzftw",
-            "title": "Full Surgeon General: 'There Is No Magic Bullet' To Stop Spread Of COVID-19 | Meet The Press",
-            "secondDuration": 568,
-            "group": "group_7"
-        },
-        {
             "videoId": "gUeNnCGd4TE",
             "title": "Full Panel: Who Is In Charge Of The Federal Response? | Meet The Press | NBC News",
             "secondDuration": 457,
@@ -121,8 +115,14 @@
             "title": "CDC Recommends Americans Wear Non-Medical Cloth Masks As U.S. Coronavirus Cases Top 270,000",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "6LY0qJUN0oU",
+            "title": "New York Hospital’s Cardiac Unit Pivots To Treat COVID-19 Patients | NBC News NOW",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5MzjxadVTAA",
-            "title": "NBC News Projects Bernie Sanders Wins Colorado Primary | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "9j0HbdN1QiM",
             "title": "Joe Biden Wins Oklahoma Primary, NBC News Projects | NBC News",
             "secondDuration": 77,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Warren Vows On Super Tuesday: ‘I Am In This Fight!’ | NBC News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "BzfXHB3SmnY",
+            "title": "Bloomberg Campaign Will 'Take Another Look' After Super Tuesday Results | NBC News NOW",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

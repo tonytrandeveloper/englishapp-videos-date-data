@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UGitzTGqA5s",
-            "title": "Exclusive Interview with Chelsea Manning",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "20PVAAJZSNY",
             "title": "UK election upset sends shockwaves around the world",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "What to watch in James Comey testimony",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "_nbpuEXJ6hs",
+            "title": "Michael Flynn and his dealings with Russia are focus of FBI investigation",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

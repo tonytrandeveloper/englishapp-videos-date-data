@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gelmePuBHm8",
-            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
-            "secondDuration": 1280,
-            "group": "group_7"
-        },
-        {
             "videoId": "KsWQfjVkYK0",
             "title": "Protests Sparked As Turkey Quits International Treaty On Women’s Rights",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Miami Condo Collapse Rescue Efforts Resume, OK'd By Engineers",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "aoUDt19QCWw",
+            "title": "Trump Organization Charged With Tax-Related Crimes",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

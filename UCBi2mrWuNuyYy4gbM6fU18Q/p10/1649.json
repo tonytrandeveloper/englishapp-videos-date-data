@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mfOLZ_TyjlA",
-            "title": "Coronavirus declared global health emergency by WHO l ABC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "g9Jc76JVD8Y",
             "title": "David Muir Reports | The Children of Auschwitz: Survivors Return 75 years after Liberation l Part 2",
             "secondDuration": 291,
@@ -61,8 +55,14 @@
             "title": "David Muir Reports | The Children of Auschwitz: Survivors Return 75 years after Liberation l Part 1",
             "secondDuration": 766,
             "group": "group_7"
+        },
+        {
+            "videoId": "rzfin0_UDXc",
+            "title": "Watch LIVE: Impeachment Trial of President Donald Trump day 8 - ABC News Live Coverage",
+            "secondDuration": 41187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

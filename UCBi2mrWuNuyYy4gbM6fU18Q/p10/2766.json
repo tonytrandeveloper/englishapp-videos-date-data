@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IT-MLyFheFo",
-            "title": "Sinkholes threaten Florida homes after Irma",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "FJ_UTHK6Pdw",
             "title": "Trump delivers blistering address to UN General Assembly",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "'Skyrim VR' demo: Play test the new 'Elder Scrolls' virtual reality game",
             "secondDuration": 959,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieA3BIOyTqs",
+            "title": "President Donald Trump blasts 'Rocket Man' Kim Jong Un in UN General Assembly 2017 address",
+            "secondDuration": 4408,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

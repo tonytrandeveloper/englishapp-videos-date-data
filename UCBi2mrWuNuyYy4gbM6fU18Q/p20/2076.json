@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1SF5a11EB4I",
-            "title": "How Sarcasm Is Linked to Creativity",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "ue_jHuton58",
             "title": "A Mac & Cheese Masterpiece | ABC News",
             "secondDuration": 230,
@@ -121,8 +115,14 @@
             "title": "Car Crash | Woman Driving Wrong Way on Highway",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "YO3AXFaCFkQ",
+            "title": "Ben Higgins | Best Bachelor?",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

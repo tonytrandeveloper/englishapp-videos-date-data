@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "raRzJUn9AV0",
-            "title": "Trump blames Democrats for the deaths of 2 children in border patrol care",
-            "secondDuration": 321,
-            "group": "group_7"
-        },
-        {
             "videoId": "5RBf2uGXiq0",
             "title": "Thief steals luxury yacht from dock",
             "secondDuration": 145,
@@ -61,8 +55,14 @@
             "title": "The famous names and faces the world said farewell to in 2018",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "nB9pYcFFQiU",
+            "title": "Power-plant blast in New York sparks chaos, confusion",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

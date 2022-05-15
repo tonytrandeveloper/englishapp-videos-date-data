@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ghtA5XskYDQ",
-            "title": "Coronavirus: Inside Hard-Hit Utah Hospital | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "onhk3pCfrmY",
             "title": "Evacuations Ordered As Colorado Wildfire Rages | NBC Nightly News",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Early In-Person Voting Begins In Florida | NBC News NOW",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "fxM8iAEIvY0",
+            "title": "Trump On Fauci: 'He Has A Bad Arm, But He's A Good Guy' | NBC News NOW",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

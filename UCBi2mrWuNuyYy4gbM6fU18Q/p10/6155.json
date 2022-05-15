@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ypxDSJrv3FQ",
-            "title": "Fear of Fallout",
-            "secondDuration": 354,
-            "group": "group_7"
-        },
-        {
             "videoId": "B-JY98NizBM",
             "title": "US Government Reevaluates Nuclear Infrastructure",
             "secondDuration": 161,
@@ -61,8 +55,14 @@
             "title": "Energy Chairman: We Can Make Nuclear Power 'Safely'",
             "secondDuration": 598,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lw55Nm0U8kg",
+            "title": "Bernie Sanders: Social Security Is 'Not Going Broke'",
+            "secondDuration": 299,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

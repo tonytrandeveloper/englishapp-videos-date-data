@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YNMSesnCNlY",
-            "title": "Amazon hires thousands of people on the spot",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "j48kl0SCNgo",
             "title": "Spectacular catch brings crowd to their feet at Fenway Park",
             "secondDuration": 86,
@@ -31,8 +25,14 @@
             "title": "White House press briefing 08/02/17",
             "secondDuration": 3556,
             "group": "group_7"
+        },
+        {
+            "videoId": "KTyObC28D2I",
+            "title": "10% Happier: George Stephanopoulos",
+            "secondDuration": 2211,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

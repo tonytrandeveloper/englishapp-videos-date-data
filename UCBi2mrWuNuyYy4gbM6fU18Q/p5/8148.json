@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vXxGHN7GBbA",
-            "title": "Planetary Phenomenon | ABC News",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "SC5tE-b70BI",
             "title": "Gwen and Gavin Settle Divorce | ABC News",
             "secondDuration": 222,
@@ -31,8 +25,14 @@
             "title": "After Hurricane Patricia",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "hbQp9HOItvo",
+            "title": "Arkansas State Rep., Wife Fight to Adopt 3 Young Girls",
+            "secondDuration": 629,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Qcx0EdVxUms",
-            "title": "Vice President Pence declares end to 'strategic patience' on North Korea",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "WzBLY6VX_Rw",
             "title": "North Korea's ballistic missile test explodes seconds after blastoff",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "Suspect arrested in the case of the murdered jogger outside of Boston",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "hY3AhwhIFmo",
+            "title": "One-on-One with Lt. Gen. Thomas Bergeson",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

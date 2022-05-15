@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Rpt_SUhg7Sg",
-            "title": "Ex-teacher gunned down on Mother's Day",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "oDwT9i9Y-bU",
             "title": "Kilauea volcano grows more explosive",
             "secondDuration": 175,
@@ -121,8 +115,14 @@
             "title": "Live animals cause uproar at high school's prom",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "P_CTh0tgWvI",
+            "title": "Hawaii braces for volcano's explosive steam eruption",
+            "secondDuration": 261,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

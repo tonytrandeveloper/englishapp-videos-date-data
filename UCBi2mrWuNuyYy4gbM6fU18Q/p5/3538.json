@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vZtWu8kI_lQ",
-            "title": "Buttigieg, Biden respond to Bloomberg possibly getting into the race | ABC News",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "1kmD2jGcRT8",
             "title": "John Bolton’s lawyer says client has ‘relevant’ information on Ukraine | ABC News",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "Trump remarks on Michael Bloomberg entering presidential race",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "8iTA7UFpJXY",
+            "title": "3 middle schoolers allegedly plotted school attack: Police",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

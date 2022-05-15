@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "edcZeUJ7F3g",
-            "title": "These citizen journalists risk their lives to document ISIS horrors in Syria",
-            "secondDuration": 486,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uxv2DZDO4yo",
             "title": "Fate of terminally ill ‘Baby Charlie’ continues to be debated",
             "secondDuration": 89,
@@ -61,8 +55,14 @@
             "title": "Mississippi woman's emotional reunion with biological father after 32 years: Part 2",
             "secondDuration": 417,
             "group": "group_7"
+        },
+        {
+            "videoId": "ePFEg3Ogk8A",
+            "title": "Mississippi woman's years-long search to find biological father: Part 1",
+            "secondDuration": 614,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

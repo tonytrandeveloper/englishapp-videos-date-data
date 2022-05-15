@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "va81D3N5nfM",
-            "title": "NPR Photojournalist, Translator Killed in Attack in Afghanistan",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "LYRkxu6NY70",
             "title": "Trump Refuses to Back Down on Claims of Judge's Alleged Bias",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Stephen Curry Discusses NBA Finals Performance",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "N7TkBTvQW5Y",
+            "title": "Hillary Clinton, Bernie Sanders Both Take Aim at Donald Trump",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

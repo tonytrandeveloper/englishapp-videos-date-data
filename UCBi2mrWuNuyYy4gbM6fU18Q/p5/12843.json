@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eqGNwznmsBQ",
-            "title": "The President's Picks",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "bC0AyqUe9as",
             "title": "The Conversation:  March Madness Moves In",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "Missing Mom's Final Hours Puzzle Police",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "dYxwx4fREzY",
+            "title": "Health Care: Debating 'Deem and Pass'",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

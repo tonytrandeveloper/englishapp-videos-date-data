@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RmFAn14ZDrE",
-            "title": "Trump escalates China trade war with new 10% tariff",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZOhAcD8t00c",
             "title": "Pres. Trump addresses media on the South Lawn | ABC News",
             "secondDuration": 1314,
@@ -31,8 +25,14 @@
             "title": "Rapper A$AP Rocky begins 2nd day of trial",
             "secondDuration": 269,
             "group": "group_7"
+        },
+        {
+            "videoId": "CzdPSRCb1ck",
+            "title": "Night 2 of Democratic debates, Navy fighter jet crashes, spotlight on Marianne Williamson | ABC News",
+            "secondDuration": 1279,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

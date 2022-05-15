@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "j5lcYNIA4yw",
-            "title": "Dust Devil Delays Women's College Softball Game",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZPuxiunT9c",
             "title": "FBI Paid Over $1M to Hack iPhone of San Bernardino Shooter",
             "secondDuration": 19,
@@ -61,8 +55,14 @@
             "title": "Prince | Chappelle Show, SNL Pay Tribute Through Impersonations",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "TTvr5YilLKI",
+            "title": "'Game of Thrones' Season 6 | Nikolaj Says Jon Snow is Dead",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

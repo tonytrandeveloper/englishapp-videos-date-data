@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rC5DoITq1dg",
-            "title": "CDC Data Shows Covid Booster Shots Highly Protective",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "mNq7FfWIkX8",
             "title": "Hallie Jackson NOW - Jan. 21 | NBC News NOW",
             "secondDuration": 3118,
@@ -31,8 +25,14 @@
             "title": "Study Tracks On-Duty Police Charged, Convicted Of Murder Or Manslaughter",
             "secondDuration": 670,
             "group": "group_7"
+        },
+        {
+            "videoId": "wEQDXc-EOh8",
+            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
+            "secondDuration": 2055,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

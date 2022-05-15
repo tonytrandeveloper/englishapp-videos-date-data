@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hBcrpOiEbS0",
-            "title": "NYC Pride Attendees Read SCOTUS Closing Remarks | NBC News",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "5jghbtyme8k",
             "title": "Supreme Court Strikes Down Same-Sex Marriage Ban | NBC Nightly News",
             "secondDuration": 194,
@@ -31,8 +25,14 @@
             "title": "Amazon Echo: Siri On Steroids For The Connected Home | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "u4VAAY-jmbQ",
+            "title": "Supreme Court Upholds Obamacare Subsidies | NBC Nightly News",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

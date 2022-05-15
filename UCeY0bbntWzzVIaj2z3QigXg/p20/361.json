@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5zJTQFrvCoo",
-            "title": "Morning News NOW Full Broadcast - May 14 | NBC News NOW",
-            "secondDuration": 3101,
-            "group": "group_7"
-        },
-        {
             "videoId": "cWngOjJIC90",
             "title": "Governors Target Unemployment Benefits To Get Employees Back To Work",
             "secondDuration": 250,
@@ -121,8 +115,14 @@
             "title": "Biden Discusses CDC Lifting Mask Restrictions For Fully Vaccinated People",
             "secondDuration": 540,
             "group": "group_7"
+        },
+        {
+            "videoId": "lOdoH793Ti8",
+            "title": "Biden Speaks After CDC Releases New Mask Guidelines",
+            "secondDuration": 1180,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

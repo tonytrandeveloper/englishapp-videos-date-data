@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wYB2FmOoQdU",
-            "title": "360 Video: On-Stage at Broadway’s “Come From Away” | NBC News",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Pi-DUm-Rg4",
             "title": "Irma: President Donald Trump Tries To Reassure Those In Storm’s Path | NBC Nightly News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Hurricane Irma: Inside A Miami Baby Ward | NBC Nightly News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "9VyXinvpd_8",
+            "title": "Hurricane Irma: Major Flooding Along Florida’s East Coast | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

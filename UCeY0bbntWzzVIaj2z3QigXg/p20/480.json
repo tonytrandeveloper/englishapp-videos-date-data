@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "EzhOZNJwI2c",
-            "title": "Pelosi Holds Briefing After Pro-Trump Rioters Stormed Capitol",
-            "secondDuration": 1335,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ftrijq3WRmg",
             "title": "Boris Johnson Denounces Trump Conduct As ‘Completely Wrong’ | NBC News NOW",
             "secondDuration": 83,
@@ -121,8 +115,14 @@
             "title": "How Was The U.S. Capitol Breached? | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "gnSK-vRZls8",
+            "title": "World Leaders React To Rioters Storming Congress | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

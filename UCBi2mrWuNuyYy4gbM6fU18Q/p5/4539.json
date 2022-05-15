@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "03PSOPpVd1A",
-            "title": "Monica Lewinsky's affair with Bill Clinton re-examined",
-            "secondDuration": 511,
-            "group": "group_7"
-        },
-        {
             "videoId": "JvEDoGpdaYI",
             "title": "Stormy Daniels' attorney arrested in Los Angeles: Police",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Fraternity shut down after Ohio University student's death",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "1wBd6UFtw8o",
+            "title": "Monica Lewinsky shares when crush on President Clinton began",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

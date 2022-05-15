@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "82mNydyo1Fc",
-            "title": "“Every Second Counts:” Teen’s Cancer Treatments Paused While Awaiting Covid-19 Results | NBC News",
-            "secondDuration": 235,
-            "group": "group_7"
-        },
-        {
             "videoId": "-uA3_G3vV4A",
             "title": "NYC Mayor Bill de Blasio Speaks After USNS Comfort Arrival | NBC News",
             "secondDuration": 5672,
@@ -31,8 +25,14 @@
             "title": "Hearses, Songs And Drones: How Colombian Police Get The Coronavirus Message Across | NBC News",
             "secondDuration": 79,
             "group": "group_7"
+        },
+        {
+            "videoId": "xSc7FJFk_8U",
+            "title": "Police In Nepal Use Special Device To Keep Safe Distances During Coronavirus Lockdown | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

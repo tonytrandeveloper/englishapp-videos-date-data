@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NSC9QDJoivE",
-            "title": "The Conversation: 'Ground Zero Mosque' Debate",
-            "secondDuration": 232,
-            "group": "group_7"
-        },
-        {
             "videoId": "kHw2tGYd150",
             "title": "Washington Post's Karen Tumulty on 'Top Line'",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "Michael Douglas Battles Throat Cancer",
             "secondDuration": 328,
             "group": "group_7"
+        },
+        {
+            "videoId": "R8TR7HBdt9g",
+            "title": "Muslim Center Fallout and Midterm Elections",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

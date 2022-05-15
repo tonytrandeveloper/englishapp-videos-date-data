@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Aou0JhYQGd8",
-            "title": "Democrats Want Mueller To Testify, Threaten To Subpoena Unredacted Report | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "wpdCl9C095I",
             "title": "Diver Rescued After Being Trapped For 27 Hours In Tennessee Cave | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "Mueller Report: Analyzing Whether Trump Tried To Influence Manafort With Pardon | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "C_7zCmW6k1o",
+            "title": "Live Coverage: Analysis As Redacted Mueller Report Is Released | NBC News",
+            "secondDuration": 15453,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

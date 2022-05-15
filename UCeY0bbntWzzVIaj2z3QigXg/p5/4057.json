@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lgYOK2U1H9w",
-            "title": "Mueller Report Reveals Links Between Russian Government, Trump Campaign | Meet The Press | NBC News",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "mcDAtzUecN4",
             "title": "Mueller Report: 'Does Not Exonerate' President Trump | Meet The Press | NBC News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Full Panel: Trump Team Claims 'No Obstruction, No Collusion' | Meet The Press | NBC News",
             "secondDuration": 339,
             "group": "group_7"
+        },
+        {
+            "videoId": "P4mr5YKO2ms",
+            "title": "Columbine Anniversary: Colorado Community Honors 13 Lives Cut Short | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

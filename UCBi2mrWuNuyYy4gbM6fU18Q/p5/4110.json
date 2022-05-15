@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VuUrwSytt64",
-            "title": "Trump raises tariffs on Chinese goods",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "lk-6IJoNJKs",
             "title": "Russian secret agent speaks out after guilty plea",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Bobby Bones' journey to 'American Idol'",
             "secondDuration": 440,
             "group": "group_7"
+        },
+        {
+            "videoId": "SiTZq6ADLqo",
+            "title": "US seizes massive North Korean cargo vessel for violating sanctions",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

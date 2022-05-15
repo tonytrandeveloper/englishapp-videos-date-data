@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AxfdT7LXBD8",
-            "title": "An Early Black Friday! | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "3J1Z2P6XqTg",
             "title": "Mueller Probing Possible Deal Between Turks, Flynn During Presidential Transition | NBC Nightly News",
             "secondDuration": 121,
@@ -121,8 +115,14 @@
             "title": "MTP At 70: Former President Richard Nixon Faces His Phobia | Meet The Press | NBC News",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "YKewYEIsfR8",
+            "title": "Self-Driving Shuttle Hit By Delivery Truck On Its First Hour Of Service | NBC News",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

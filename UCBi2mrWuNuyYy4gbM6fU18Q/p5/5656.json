@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vT4d_kC9opQ",
-            "title": "Search and rescue operation for 3 missing Marines suspended",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "I4CMbOC4aow",
             "title": "Bipartisan senators on new bill to protect special counsel",
             "secondDuration": 542,
@@ -31,8 +25,14 @@
             "title": "Authorities call off search for 3 missing Marines",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "z-9tc7AGmLE",
+            "title": "10 people taken to hospitals after severe turbulence on flight into Philadelphia",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

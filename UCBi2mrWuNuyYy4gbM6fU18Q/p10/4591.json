@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DpLSgtai9yA",
-            "title": "MIX: Weatherman vs Dog",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nm9oaNbvEgA",
             "title": "Cruise Ship Carrying Dallas Hospital Worker Docks in Texas",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Man's Ex Goes On Cyberstalking Rampage After Breakup",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "98mfyF2jyVg",
+            "title": "Did TV Show 'Dexter' Have Role in Utah Woman's Death?",
+            "secondDuration": 370,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

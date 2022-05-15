@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JqOQ59FfEBA",
-            "title": "SpaceX Launches Last First-Generation Dragon Capsule To ISS | NBC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "acwlRKSBtEU",
             "title": "The BETTER Way To Protect Yourself From Coronavirus | Better | NBC News",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Washington Governor Praises ‘Courageous’ Coronavirus Health Care Workers | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "LwydSDMQVV0",
+            "title": "Andrew Cuomo: 11 More New York Coronavirus Cases, Total Number Rises To 33 | NBC News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

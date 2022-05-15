@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8uUkrwBsqBc",
-            "title": "Jeb Bush on Paul Ryan's Speech:  Medicare Talk an 'Inspiring Choice'",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "sQdwVfBuFdw",
             "title": "Webcast: Paul Ryan Rallies RNC 2012",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Rand Paul on Delegate Dust-Up: Ron Paul 'Represented Very Well'",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "e2qtcsNTytc",
+            "title": "Rand Paul RNC Speech: Invokes American Dream at Republican National Convention 2012",
+            "secondDuration": 673,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

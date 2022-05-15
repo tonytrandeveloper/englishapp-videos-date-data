@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tp9OzOvKBPA",
-            "title": "Dangerous Weather Wreaks Havoc on the Holiday Weekend",
-            "secondDuration": 219,
-            "group": "group_7"
-        },
-        {
             "videoId": "bs0r4nSrric",
             "title": "Low Prices at the Pump Fuel Record Travel This Holiday Weekend",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Phone Addiction? | What Kids Don't Want You to Know",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "FC_bmCHbnts",
+            "title": "Baylor University Football Coach Fired, President Demoted",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h7M74BSU0CQ",
-            "title": "The latest on Jussie Smollet attack",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "en6hH_ApxCQ",
             "title": "Death toll rising as the deep freeze moves East",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "Parts of US slammed by snow, frigid temps",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "5hbWYiBuSEQ",
+            "title": "Firefighters struggle to battle fires in sub-zero temps",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z0ReVWDHdIU",
-            "title": "SKINNY: The People Have Spoken!",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQ864I6oooo",
             "title": "WEBCAST: Bill Cosby's TV Wife Speaks Out",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "\"EXCLUSIVE INTERVIEW:  Phylicia Rashad on the Bill Cosby Firestorm",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "EPb7WcZbwtM",
+            "title": "CES 2015: Take a Ride in a Self-Driving Car",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kdPtpXw3zaY",
-            "title": "Bernie Sanders Endorses Hillary Clinton",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ziP6PJMzBc",
             "title": "When the Moon Photobombs Planet Earth",
             "secondDuration": 37,
@@ -61,8 +55,14 @@
             "title": "Joe Biden Pledges to Do 'Anything I Can' for Hillary Clinton",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "0OitNaX75KI",
+            "title": "Build It Forward: West Virginia Flood Victims",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

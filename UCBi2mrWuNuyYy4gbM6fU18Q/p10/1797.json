@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kbiAAtVy2ew",
-            "title": "The Debrief: California wildfires, raging Texas tornadoes, Facebook and 2020 | ABC News",
-            "secondDuration": 2655,
-            "group": "group_7"
-        },
-        {
             "videoId": "GdIbU09t0Cc",
             "title": "Texas starts to recover after devastating tornados l ABC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "2 crew members, passenger overcome by fumes on flight",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "-m1eOYvNKH4",
+            "title": "Tornadoes wreak havoc overnight in Dallas l ABC News",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

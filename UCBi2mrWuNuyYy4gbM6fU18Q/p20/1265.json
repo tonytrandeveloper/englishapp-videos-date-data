@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z7qbUNJX7Xw",
-            "title": "Chemical weapons inspectors headed to site of suspected chemical attack",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "WeQFSGnGG6w",
             "title": "32-year-old NBA rookie describes his dream come true",
             "secondDuration": 187,
@@ -121,8 +115,14 @@
             "title": "Mariah Carey reveals battle with bipolar disorder",
             "secondDuration": 353,
             "group": "group_7"
+        },
+        {
+            "videoId": "YMLY5ugrGtY",
+            "title": "White House says Trump has power to fire Mueller",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

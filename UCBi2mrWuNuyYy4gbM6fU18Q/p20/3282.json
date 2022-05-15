@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qJxqk3cTuF0",
-            "title": "Why Pittsburgh for the G20 Summit?",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "lRYY6IuFjvY",
             "title": "Murder of Teens Stuns Houston Suburb",
             "secondDuration": 225,
@@ -121,8 +115,14 @@
             "title": "Jake Tapper on Obama's Diplomatic Dance",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "e-I_A8ovL0w",
+            "title": "Not in My Backyard! Gaddafi's Tent Trouble",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ds03yXzN89c",
-            "title": "Are Blueberry Farmers Exploiting Kids?",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUY9KYrEQmo",
             "title": "Jim Carrey's Favorite 'Christmas Carol'",
             "secondDuration": 306,
@@ -121,8 +115,14 @@
             "title": "The Disappearance of Melanie Melanson",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUbdmStzZ1s",
+            "title": "News 'Costumes'",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

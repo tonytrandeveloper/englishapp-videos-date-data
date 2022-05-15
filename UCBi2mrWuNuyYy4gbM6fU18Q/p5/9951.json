@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DJjZHlhLnXE",
-            "title": "New Jersey Mall Shooter Found Dead",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZYGeiBa18OA",
             "title": "Dominican-Based Company's Controversial Scorpion Venom Drug Claims",
             "secondDuration": 535,
@@ -31,8 +25,14 @@
             "title": "Big Break in Home Heating Costs",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "KuOXn55jTvc",
+            "title": "Alleged Bullying in the NFL",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

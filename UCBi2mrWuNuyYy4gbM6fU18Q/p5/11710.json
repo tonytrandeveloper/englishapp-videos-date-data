@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "l6aDw_Cmlaw",
-            "title": "Webcast: Whitney Houston; Google Glasses",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "_wa_9goBaQs",
             "title": "Whitney Houston: 'White Powder' Found on Spoon",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Grandmother Saves Boy in Tornado",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "8e_e1T9H4gI",
+            "title": "Thunderstorm System Causes Airplane Turbulence",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

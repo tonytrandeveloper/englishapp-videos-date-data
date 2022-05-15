@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0bo2cixPVuY",
-            "title": "Kim Kardashian Attacked with Flour",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "euDFDpUsAME",
             "title": "World's Smallest Puppy? | CUTE ANIMALS (Episode 7)",
             "secondDuration": 62,
@@ -121,8 +115,14 @@
             "title": "French Police Raid House in Toulouse in Search for Gunman",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "CxyjdXdWlFE",
+            "title": "GasBuddy.com Finds Cheapest Gas in Town",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

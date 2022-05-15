@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xu7dHa6PzPc",
-            "title": "Western Australia Lifts Covid Quarantine Restrictions | NBC News NOW",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "f4M5aXnon8Y",
             "title": "British Grandmother Is World's First To Receive BioNTech-Pfizer Covid Vaccination | NBC News NOW",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Thousands Left Homeless After Decades Long Armenia-Azerbaijan Conflict | NBC News NOW",
             "secondDuration": 368,
             "group": "group_7"
+        },
+        {
+            "videoId": "foAjV2ZzNFg",
+            "title": "Massachusetts Reopens Covid Field Hospital, First Time Since June | NBC News NOW",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

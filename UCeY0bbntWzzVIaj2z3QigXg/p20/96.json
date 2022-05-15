@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-3Fgay4G7Lo",
-            "title": "How Cuba Is Faring With U.S. Embargo After 60 Years",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "lGalgUS1kC0",
             "title": "LIVE: Biden Delivers Remarks on U.S. Special Forces Raid That Killed ISIS Leader | NBC News",
             "secondDuration": 611,
@@ -121,8 +115,14 @@
             "title": "Major Winter Storm Hits Millions",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "onTmo1CLemc",
+            "title": "Rikers Island: People Living In ‘Inhumane Conditions’",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

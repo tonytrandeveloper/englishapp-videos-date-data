@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "FZWbFFenES0",
-            "title": "Storm brings heavy snow to the West l ABC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "foDYRNgyaQ8",
             "title": "Trump impeachment trial launches in Senate l ABC News",
             "secondDuration": 212,
@@ -61,8 +55,14 @@
             "title": "Schiff reads articles of impeachment to Senate",
             "secondDuration": 1572,
             "group": "group_7"
+        },
+        {
+            "videoId": "fkldIKStTWQ",
+            "title": "Last decade was warmest on record: Report",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

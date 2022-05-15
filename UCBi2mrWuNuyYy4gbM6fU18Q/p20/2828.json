@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8uUkrwBsqBc",
-            "title": "Jeb Bush on Paul Ryan's Speech:  Medicare Talk an 'Inspiring Choice'",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "sQdwVfBuFdw",
             "title": "Webcast: Paul Ryan Rallies RNC 2012",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Jeb Bush on Hispanic, Asian American Voters",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "gjWuP1P5EHM",
+            "title": "SEAL Book Details Bin Laden's Death",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

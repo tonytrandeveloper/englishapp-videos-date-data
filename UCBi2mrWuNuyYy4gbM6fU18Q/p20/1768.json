@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Bvj2VkmOM08",
-            "title": "Tiffany Trump RNC Speech: Highlights Trump's Best Qualities",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "GZlnNSIYh8I",
             "title": "Ben Carson Full Speech Supporting Trump",
             "secondDuration": 442,
@@ -121,8 +115,14 @@
             "title": "Crane Collapses on New York Bridge",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1FLL_BtMkk",
+            "title": "Alton Sterling, Slain Officer Families Hug at Memorial",
+            "secondDuration": 42,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

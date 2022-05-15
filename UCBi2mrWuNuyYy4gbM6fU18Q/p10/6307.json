@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zh_oIE7a7EY",
-            "title": "Japan Rocks",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "xb0L-lo2X9M",
             "title": "Rangel's Rant",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Natural Born Killers",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "RunFOtv6GYY",
+            "title": "Manhunt: One Down, One to Go",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

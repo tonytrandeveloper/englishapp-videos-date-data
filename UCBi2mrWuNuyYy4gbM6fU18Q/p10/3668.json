@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BRsMtOiT2iE",
-            "title": "Charles Koch on the Lessons of His Father",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "XcrcbWs2KTI",
             "title": "Irish Teen Creates High-Tech Sleeping Bag for the Homeless",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Bernie Sanders Blasts Hillary Clinton's Refusal to Debate as 'Insulting' to Voters",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "tPapq7RJAas",
+            "title": "George Zimmerman Explains His Rationale for Auctioning Pistol That Killed Trayvon Martin",
+            "secondDuration": 78,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

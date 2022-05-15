@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3gNVIuI9GI0",
-            "title": "Austin Police Advise Residents: ‘Shelter in Place’ As Search For Active Shooter Continues | NBC News",
-            "secondDuration": 181,
-            "group": "group_7"
-        },
-        {
             "videoId": "qrUBL4TNSMU",
             "title": "Meet The Press Broadcast (Full) - April 18th, 2021 | Meet The Press | NBC News",
             "secondDuration": 2857,
@@ -61,8 +55,14 @@
             "title": "Families Grieve 8 people Killed at FedEx Facility | NBC Nightly News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "iapGMTvOJzM",
+            "title": "Countdown To Summer Olympics: Hear From Members Of Team USA | Nightly News: Kids Edition",
+            "secondDuration": 1477,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

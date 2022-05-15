@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Fq9nbJJyq6E",
-            "title": "Kitten Gets 3D-Printed Prosthetic Paw",
-            "secondDuration": 33,
-            "group": "group_7"
-        },
-        {
             "videoId": "5rzbej320zs",
             "title": "Google's AI Gets Artsy, Composes a Song",
             "secondDuration": 90,
@@ -61,8 +55,14 @@
             "title": "NBA Finals Preview | Warriors vs Cavaliers",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "fn1q3YT-c3M",
+            "title": "Gorilla Attack | Frantic 911 Calls Released",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

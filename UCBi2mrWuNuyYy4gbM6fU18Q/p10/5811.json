@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u3in7_x1zQw",
-            "title": "Pippa's Fashion Flop",
-            "secondDuration": 206,
-            "group": "group_7"
-        },
-        {
             "videoId": "qI1I7YU6-b4",
             "title": "Joel Stein's 'Quest for Masculinity'",
             "secondDuration": 289,
@@ -61,8 +55,14 @@
             "title": "Skin Cancer Warning: Sunscreen Labels Misleading?",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "D3p6svobPzc",
+            "title": "Memorial Day Weekend Weather: Hurricane Bud, Tropical Storm Beryl",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

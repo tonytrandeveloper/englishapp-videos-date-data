@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zUHfrb24kO8",
-            "title": "Marsha Blackburn to deliver victory speech after winning Senate race",
-            "secondDuration": 667,
-            "group": "group_7"
-        },
-        {
             "videoId": "FPl6FjN0cWI",
             "title": "Republican Mike Braun defeats incumbent Democrat in Indiana Senate race",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "Trump back in WH after 30 rallies in 20 states since Labor Day",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "D-oRQKesczo",
+            "title": "Toddler offers free hugs to strangers at Atlanta festival",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

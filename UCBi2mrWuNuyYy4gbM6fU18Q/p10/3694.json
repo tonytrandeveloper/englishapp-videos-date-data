@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9ub3A0_IGhw",
-            "title": "Housebroken Bison for Sale on Craigslist",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "DSgQPTOIkJc",
             "title": "Lucy Liu | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 789,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Addresses Not Releasing Tax Returns",
             "secondDuration": 415,
             "group": "group_7"
+        },
+        {
+            "videoId": "eVVOwP9bUoM",
+            "title": "George Zimmerman Auctioning Gun Used to Kill Trayvon Martin",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

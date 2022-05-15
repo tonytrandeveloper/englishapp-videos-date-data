@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F6uiXdAiIig",
-            "title": "How Analysts Are Using TikTok To Track Russian Military Movement",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "9OTB5X0OBMI",
             "title": "]White House Holds Press Briefing | NBC News",
             "secondDuration": 2790,
@@ -61,8 +55,14 @@
             "title": "District Attorneys Taking New Look At Alleged Police Misconduct",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fr7jckshe1w",
+            "title": "Spotify CEO Speaks Out Amid Growing Criticism Over Podcast",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

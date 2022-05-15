@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dTi9TGCD_jE",
-            "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRMFeoxK_rE",
             "title": "The Briefing Room: Mueller report, Netanyahu visits White House, 2020 hopeful Pete Buttigieg",
             "secondDuration": 1302,
@@ -121,8 +115,14 @@
             "title": "'If it's released I want it all released': Rep. Jim Jordan on Mueller report",
             "secondDuration": 505,
             "group": "group_7"
+        },
+        {
+            "videoId": "sEM5geIsoo4",
+            "title": "Congress waiting on attorney general's summary of Mueller report",
+            "secondDuration": 450,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

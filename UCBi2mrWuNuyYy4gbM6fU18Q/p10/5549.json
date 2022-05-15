@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HgkVOhPERcw",
-            "title": "First Lady Debate",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "6jlkxDikeiI",
             "title": "Hacking Hotel Locks in Seconds With Cheap Tools",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Fox News Anchor Van Susteren: Candy Crowley 'Clumsy' on Presidential Town Hall Debate Correction",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "WA4Hlb6BSFI",
+            "title": "'This Week' Your Voice; George Stephanopoulos Answers Viewer Questions.",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

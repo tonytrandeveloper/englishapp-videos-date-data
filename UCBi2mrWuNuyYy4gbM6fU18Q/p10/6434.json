@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9CCsE-UJUXY",
-            "title": "'Your Three Words' From Oscar Nominees",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "psI4MTnTtoc",
             "title": "Inside Hollywood's Bling Ring",
             "secondDuration": 260,
@@ -61,8 +55,14 @@
             "title": "Obama's Final Health Care Push",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "vcLmmiY0VM4",
+            "title": "Chelsea King's Body Found",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

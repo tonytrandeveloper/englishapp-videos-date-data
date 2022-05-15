@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OdNm5yLIfkY",
-            "title": "Emotional Ryan Lochte to Matt Lauer: 'I Let My Team Down' | NBC News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "gJOC7ADbdPs",
             "title": "New Zika Infections Trigger CDC Travel Warning for Miami Beach Area | NBC Nightly News",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Senator John McCain Pressed On Vets Asking Him To Renounce Donald Trump | NBC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBCDv67dBT8",
+            "title": "Is Hosting The Olympics Worth The Price? | NBC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

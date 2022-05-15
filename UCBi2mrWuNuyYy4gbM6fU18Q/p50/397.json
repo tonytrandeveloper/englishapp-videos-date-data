@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "brANIwtajLg",
-            "title": "The Debrief: Muller to testify, 2020 Democratic debates, San Francisco e-cig ban",
-            "secondDuration": 1703,
-            "group": "group_7"
-        },
-        {
             "videoId": "hY_yLQQiWpE",
             "title": "The Debrief: Border detention facilities, Iran sanctions, police racism probe  ABC News",
             "secondDuration": 11300,
@@ -301,8 +295,14 @@
             "title": "11 dead after skydiving plane crash in Hawaii",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "Sv1rzrbxVNc",
+            "title": "Hot air balloon plows into spectators in Missouri",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

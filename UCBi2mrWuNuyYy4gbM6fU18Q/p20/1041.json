@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0Hx8D913AHE",
-            "title": "Terrorist attack in Sri Lanka leaves more than 200 dead",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "CTseEgo-5gg",
             "title": "More details on the tiger attack in Kansas",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Parents of tortured children sentenced",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q1MU4uIzHtY",
+            "title": "Deadly storms threatening several states",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

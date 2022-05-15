@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tbx_2x-f2yw",
-            "title": "Student Accepted to Cornell, Family Goes Wild",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "X7pTjtYQ_KM",
             "title": "Kellyanne Conway Interview on Russian Hack Claims",
             "secondDuration": 276,
@@ -121,8 +115,14 @@
             "title": "Sen. Claire McCaskill: Trump's Cabinet Has 'Goldman, Generals, and Gazillionaires'",
             "secondDuration": 327,
             "group": "group_7"
+        },
+        {
+            "videoId": "GCY4PDHpvok",
+            "title": "Eisen: 'Trump Must Divest' From Business Interests or Be in Violation of Constitution on 'Day One'",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

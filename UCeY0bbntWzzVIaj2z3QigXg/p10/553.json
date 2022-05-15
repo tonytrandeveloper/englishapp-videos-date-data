@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CbDurA4U70s",
-            "title": "New Jersey Gov. Murphy Announces Mask Requirements For Schools",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "fvGPxsNFCJQ",
             "title": "White House Holds Press Briefing | NBC News",
             "secondDuration": 3265,
@@ -61,8 +55,14 @@
             "title": "Missouri First Responders Put Their Health On The Line as Covid Spikes",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "0IXtTPXlfUU",
+            "title": "NBC Nightly News Broadcast (Full) - August 5th, 2021",
+            "secondDuration": 968,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

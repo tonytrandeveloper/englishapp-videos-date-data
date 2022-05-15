@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vWyTy2VBErg",
-            "title": "Seahawks Gnome: The Real Mystery of the Super Bowl",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "UJvlmGNA0Mg",
             "title": "Plane Skids Off Icy Runway",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Deflate-Gate: Super Bowl Controversy Over Deflated Footballs Casts a Shadow Over the Big Game",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "ihN2jvfSKcg",
+            "title": "Melissa McCarthy, Kristen Wiig Join All-Female Cast for ‘Ghostbusters’ Remake",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

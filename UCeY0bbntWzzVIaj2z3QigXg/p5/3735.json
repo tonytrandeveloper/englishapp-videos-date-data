@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7QVDjftblwo",
-            "title": "Hear Why Black Millennials Are Key To The Democratic Nomination | NBC News Now",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "Rt01iZjKvhw",
             "title": "President Donald Trump Mocks Man At Rally: 'That Guy's Got A Serious Weight Problem' | NBC News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "NYPD Would Like To Interview 'Person Of Interest' Related To Rice Cooker Scare | NBC News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "F6GbhvNDgHc",
+            "title": "Debunking Immigration Myths: ‘Public Charge’ | NBC News Now",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

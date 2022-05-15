@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NMeeqHYvQZk",
-            "title": "NBC News’ Lester Holt Goes Inside Lab Creating Potential Coronavirus Treatment | NBC Nightly News",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "i41hvINacOA",
             "title": "U.S. Nursing Homes Recommend Limiting Family Visits Amid Coronavirus Concerns | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Dow Jones Climbs Over 1,100 Points After Historic Day Of Losses | NBC News NOW",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "0vwz73d98KE",
+            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
+            "secondDuration": 3254,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

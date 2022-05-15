@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qCSEO1VXOns",
-            "title": "‘I’ve Never Seen Anything Like It’: Tennessee Resident On Deadly Floods",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "pHuV1g-hbSg",
             "title": "Biden Calls On Private Companies 'To Step Up With Vaccine Requirements'",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Tropical Storm Henri Blows Into New England",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "g8mdTziMd-A",
+            "title": "Biden Urges Governors in Tropical Storm Henri Path: Take Advance FEMA Assistance",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

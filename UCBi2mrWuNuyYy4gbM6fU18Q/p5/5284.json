@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ykY-jCsTSE4",
-            "title": "President Donald Trump speaks at American Farm Bureau Federation's convention | ABC News",
-            "secondDuration": 2300,
-            "group": "group_7"
-        },
-        {
             "videoId": "gZxqqufsHPU",
             "title": "Health alert as flu becomes widespread across US",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Fallout continues from book on Trump White House",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "aAXTFwLho84",
+            "title": "Burst pipe at JFK adds to airport chaos",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

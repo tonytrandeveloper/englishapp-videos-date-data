@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J7OES6eQjZk",
-            "title": "Supreme Court Justice Antonin Scalia Dead at 79",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "PhijVxllGAs",
             "title": "Justice Scalia in His Own Words",
             "secondDuration": 96,
@@ -61,8 +55,14 @@
             "title": "Federal Agencies Investigating Playing Turf",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "_iJMhK0oddc",
+            "title": "Sue Klebold Explains Why She's Coming Forward: Part 1 | ABC News",
+            "secondDuration": 386,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

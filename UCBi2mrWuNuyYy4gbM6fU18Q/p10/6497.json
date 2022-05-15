@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ea69LY9NPlI",
-            "title": "Road to Jihad: Americans Recruited for Terror",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "bfcy3N-7dxc",
             "title": "A Late-Night Send-Off for Diane",
             "secondDuration": 151,
@@ -61,8 +55,14 @@
             "title": "Suze's Survival Guide",
             "secondDuration": 483,
             "group": "group_7"
+        },
+        {
+            "videoId": "5sX_5YjLpbI",
+            "title": "Invisible Man",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

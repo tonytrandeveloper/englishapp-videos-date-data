@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_xgZ6k7RpEk",
-            "title": "Hallie Jackson NOW - Mar. 16 | NBC News NOW",
-            "secondDuration": 3165,
-            "group": "group_7"
-        },
-        {
             "videoId": "3VLLQ1trWT0",
             "title": "New Video Shows Final Moments Before A Man Dies In Police Custody",
             "secondDuration": 258,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - March 16",
             "secondDuration": 1264,
             "group": "group_7"
+        },
+        {
+            "videoId": "gb9p_Ew8QuQ",
+            "title": "Ukraine Crisis: Inside Refugee Shelter Above Lviv Train Station",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

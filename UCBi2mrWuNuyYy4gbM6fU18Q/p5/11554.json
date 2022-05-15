@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FUVT7nma_9Y",
-            "title": "Webcast: Wildfires Continue in Colorado",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "c2JidSNBElc",
             "title": "Teen Shot in Head with Spear",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Mr. Mom: Stay-at-Home Dads on the Rise",
             "secondDuration": 306,
             "group": "group_7"
+        },
+        {
+            "videoId": "34VT0BcKW_Y",
+            "title": "Can Gastric Bypass Fuel Alcoholism?",
+            "secondDuration": 302,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

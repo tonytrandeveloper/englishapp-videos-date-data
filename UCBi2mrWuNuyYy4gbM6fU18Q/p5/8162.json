@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vu7F8AqggeQ",
-            "title": "New Video Released in Johnny Manziel Domestic Incident",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "NIxy9Q22fRE",
             "title": "CIA Hacked by Teen | ABC News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Daily Earth Photographs",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "LzCl355BTD8",
+            "title": "Oprah Buys 10% Stake in Weight Watchers",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

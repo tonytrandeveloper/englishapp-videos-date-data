@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "_fiPlPz6NKI",
-            "title": "ABC News Live: Trump-Putin summit reactions, lava bombs, Thailand cave latest",
-            "secondDuration": 1510,
-            "group": "group_7"
-        },
-        {
             "videoId": "aP9keLondr8",
             "title": "Trump stands his ground after Putin news conference backlash",
             "secondDuration": 366,
@@ -31,8 +25,14 @@
             "title": "At least 23 injured by 'lava bomb' on tourist boat in Hawaii",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "rWj1wC2YW0A",
+            "title": "Breaking down the Helsinki summit: What happened when Trump and Putin met",
+            "secondDuration": 615,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

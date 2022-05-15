@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BEI4FmnCqZ0",
-            "title": "Aurora, Colorado Shooting: The Next Day",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "DsuyZOGmqaA",
             "title": "Aurora, Colorado Gunman: James Holmes Was A Neuroscience PhD Student",
             "secondDuration": 261,
@@ -61,8 +55,14 @@
             "title": "Colorado Movie Theater Shooting:  Why Did James Holmes Choose Batman?",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "uxOwgvgfP1Y",
+            "title": "Aurora, Colorado Shooting: Inside James Holmes' Apartment",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

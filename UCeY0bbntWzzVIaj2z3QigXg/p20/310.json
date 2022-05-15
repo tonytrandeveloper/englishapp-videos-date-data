@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "hBp2BimrTt8",
-            "title": "NBC Nightly News Broadcast (Full) - July 2nd, 2021",
-            "secondDuration": 1015,
-            "group": "group_7"
-        },
-        {
             "videoId": "nH4hUlVULmQ",
             "title": "NBC News NOW Full Broadcast - July 2, 2021",
             "secondDuration": 2612,
@@ -121,8 +115,14 @@
             "title": "This Morning’s Top Headlines – July 2 | Morning News NOW",
             "secondDuration": 1308,
             "group": "group_7"
+        },
+        {
+            "videoId": "gelmePuBHm8",
+            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
+            "secondDuration": 1280,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

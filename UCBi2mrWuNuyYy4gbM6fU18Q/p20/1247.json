@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LLBmLbpua5I",
-            "title": "Unarmed black man speaks out about Waffle House altercation with police officer",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Aq6nZ4Yf0E",
             "title": "Elon Musk creating underground tunnel in Los Angeles",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Geologists warn of explosive eruptions in Hawaii",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCh50y71uoU",
+            "title": "Former NBC correspondent speaks out against Tom Brokaw",
+            "secondDuration": 351,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

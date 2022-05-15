@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NHDrRrT_Xuo",
-            "title": "Pfizer Reports Promising Results In First Phase Of Vaccine Trial | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "TlIhvJIkjM0",
             "title": "Powerful Letter Writing Campaign Sends Joy To Seniors Staying At Home | NBC Nightly News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Sister Of Missing Texas Solider Speaks About Meeting Military Suspect | NBC News NOW",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "ao9k0ibmhtc",
+            "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2430,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

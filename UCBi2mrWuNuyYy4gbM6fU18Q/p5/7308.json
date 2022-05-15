@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t_qcugpd0AQ",
-            "title": "Wild Shootout in Houston Leaves Two Dead",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "NYFUmS6tx08",
             "title": "Gorilla Drags Child in Cincinnati Zoo",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Man Crosses Finish Line 50 Days After Suffering Heart Attack",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "XYLdxRjHsiU",
+            "title": "Alan Pulido | Mexican Soccer Star Found After Being Kidnapped",
+            "secondDuration": 35,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

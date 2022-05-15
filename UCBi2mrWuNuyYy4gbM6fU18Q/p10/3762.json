@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aS24I9ME774",
-            "title": "Heidi Cruz on Potential Focus If She's First Lady",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "decpfjkZIVI",
             "title": "Obama Immigration Law | US Supreme Court to Hear Arguments",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Looks for Landslide Win in New York",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "K9psw7uYszQ",
+            "title": "Ecuador, Japan Earthquakes | Rescuers Search for Survivors",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

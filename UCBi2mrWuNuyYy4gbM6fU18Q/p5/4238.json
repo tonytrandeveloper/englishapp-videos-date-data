@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yQ3SVVE2T18",
-            "title": "New Zealand prime minister announces sweeping gun law changes",
-            "secondDuration": 74,
-            "group": "group_7"
-        },
-        {
             "videoId": "ch3nnk04XnQ",
             "title": "Former owner of Orchids of Asia spa speaks out",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "The latest on Sully the dog",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nap5RMooqBY",
+            "title": "Briefing Room: Trump visits Ohio, Supreme court to hear death row inmate's racial bias claim",
+            "secondDuration": 1579,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

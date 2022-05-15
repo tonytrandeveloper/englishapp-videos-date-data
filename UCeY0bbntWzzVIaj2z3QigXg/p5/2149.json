@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X82FvM75hjc",
-            "title": "Mini Donald, Melania Steal Show At White House Halloween | NBC News NOW",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "eiuVjKPCJAw",
             "title": "\"Trump 2020\" Heard Coming From NYPD Vehicle's Speaker | NBC News NOW",
             "secondDuration": 68,
@@ -31,8 +25,14 @@
             "title": "4 Pence Aides Test Positive For Covid-19 | NBC Nightly News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "RjB4WJsY9DQ",
+            "title": "With Nine Days To Go, Trump's Path To Victory Requires A Four State Sweep | NBC",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

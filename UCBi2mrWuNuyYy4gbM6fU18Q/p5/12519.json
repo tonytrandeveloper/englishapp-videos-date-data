@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ha6C3hIXibA",
-            "title": "New Drug Helps Fight Drug, Alcohol Addiction",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "7IqcBjM3osY",
             "title": "Amy Walter Talks 2010 Elections on 'Top Line'",
             "secondDuration": 214,
@@ -31,8 +25,14 @@
             "title": "Election Battleground: State of the Race",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "X0I5DHOETFE",
+            "title": "Test Driving the Google Car",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

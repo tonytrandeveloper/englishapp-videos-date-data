@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RMnoPSq74q4",
-            "title": "Former Air Force counterintelligence specialist charged with spying",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "6vchWDvsOlU",
             "title": "Jussie Smollett: 'I'm pissed off' at people who question attack",
             "secondDuration": 216,
@@ -121,8 +115,14 @@
             "title": "Trump 'not happy' with congressional border deal",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZbNiKgLMZU",
+            "title": "Pacific Northwest battles record snowstorm",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

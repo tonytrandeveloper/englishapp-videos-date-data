@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LZbpzJCJTrU",
-            "title": "Deadly Wildfires Kill 41 In Spain And Portugal | NBC News",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "CWf-AlCAMyE",
             "title": "Zunum's Hybrid-Electric Airplane Could Be The Future Of Air Travel | Mach | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "U.S.-Backed Fighters Claim Victory Over ISIS In Raqqa | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "i_TnJ9eu8yk",
+            "title": "Deadly Wildfires Kill At Least 36 In Portugal | NBC News",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

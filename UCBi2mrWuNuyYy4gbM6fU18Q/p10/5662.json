@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wrJEfycYS5w",
-            "title": "Republican National Convention 2012: Rep. Jason Chaffetz on Medicare Fight, Convention",
-            "secondDuration": 326,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y0iKnRJXLG4",
             "title": "Republican National Convention 2012: President Obama Readies for GOP Convention Duel",
             "secondDuration": 332,
@@ -61,8 +55,14 @@
             "title": "John Boehner on Republican Convention Goals",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGB9G3KsN7s",
+            "title": "Republican National Convention: Reince Priebus Opens Hurricane-Shortened Convention",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

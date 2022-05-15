@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "od1zY4M6BHU",
-            "title": "Dangerous Games and Mischief 2.0",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "lht45ClnJbs",
             "title": "Jerry Sandusky Trial: 8 Alleged Victims Testify",
             "secondDuration": 217,
@@ -121,8 +115,14 @@
             "title": "Identity Thefts Targeted at Kids",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "dzUjpHwxsrA",
+            "title": "Gas Prices Dropping for Summer?",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

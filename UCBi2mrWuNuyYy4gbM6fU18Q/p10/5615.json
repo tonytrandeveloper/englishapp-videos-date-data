@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8c2x467FrVI",
-            "title": "WEBCAST: Chicago Teachers End Strike",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "OKfbiodknNs",
             "title": "Best in TV: Best Talk Show Host",
             "secondDuration": 445,
@@ -61,8 +55,14 @@
             "title": "GMA's 'Modern Family' Spoof",
             "secondDuration": 11,
             "group": "group_7"
+        },
+        {
+            "videoId": "qn-VbZBTRcc",
+            "title": "GMA's 'Mad Men' Spoof",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

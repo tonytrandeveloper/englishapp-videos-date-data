@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CSEdTccXbOg",
-            "title": "Midair Meltdowns: Flying  With Kids",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "HSsYUwY-ccQ",
             "title": "Tiger Woods Prepares for Comeback",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Gary Giordano Takes On Critics",
             "secondDuration": 574,
             "group": "group_7"
+        },
+        {
+            "videoId": "GsVS8wiatHA",
+            "title": "Trump Qualified to Moderate Debate?",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

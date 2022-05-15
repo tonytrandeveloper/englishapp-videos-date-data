@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OjBoNde07eM",
-            "title": "Outrage over 'zero-tolerance' immigration policy",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "faAgHwonguE",
             "title": "A look inside the country's biggest immigration-processing facility",
             "secondDuration": 257,
@@ -61,8 +55,14 @@
             "title": "Laura Bush calls Trump immigration policy 'cruel'",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "2MUZJ_snvFk",
+            "title": "2 suicide bombings end 3 days of peace in Afghanistan",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N9QbBs5eXks",
-            "title": "How An Entire Pennsylvania City Was Hacked, Putting Public Safety At Risk | NBC Nightly News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "EA4EYQGgp_4",
             "title": "Boy Scouts Welcome Girls Across The Country Into Its Ranks For The First Time | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Full CBC Reps: Gov. Northam 'Needs To Resign' | Meet The Press | NBC News",
             "secondDuration": 528,
             "group": "group_7"
+        },
+        {
+            "videoId": "NpdcH-J5gr4",
+            "title": "Gov. Ralph Northam Refuses To Resign Over Racist Photo | Meet The Press | NBC News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

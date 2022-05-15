@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hBOOB58_cMw",
-            "title": "The founder and leader of ISIS has been killed in a US raid l ABC News",
-            "secondDuration": 394,
-            "group": "group_7"
-        },
-        {
             "videoId": "1q5dQxp_F_8",
             "title": "Manhunt underway for a gunman who stormed a college party killing 2 in Texas l ABC News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "'We are not done with ISIS yet': Retired Adm. Stavridis on the death of ISIS leader | ABC News",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "VGjDbOCfYr8",
+            "title": "'It was a brilliantly executed operation': Defense secretary on al-Baghdadi raid | ABC News",
+            "secondDuration": 473,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0JpW-zPrYwg",
-            "title": "Steve Jobs Dead: Apple Co-Founder Dies After Battle with Rare Pancreatic Cancer; World Mourns",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "utPrU0GoTgA",
             "title": "Webcast: Steve Jobs; Gabrielle Giffords; NYC Protests",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "'Dancing With the Stars' Week 3: Who Stepped Up, Who Faltered?  Louis Van Amstel Weighs In",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "H_GFyDFkKvo",
+            "title": "Amanda Knox Verdict: Not Guilty - Acquittal Prompts Immediate Release, Knox Leaving Prison",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

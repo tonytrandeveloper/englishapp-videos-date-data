@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NvlTCSwphNg",
-            "title": "Sen. Ted Cruz on health care reform: 'I believe we can get it done'",
-            "secondDuration": 553,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV2zEFOkAME",
             "title": "Government's top ethics watchdog on why he resigned",
             "secondDuration": 346,
@@ -121,8 +115,14 @@
             "title": "Putin denies involvement in 2016 election hacking",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "HNqu2rO2e_M",
+            "title": "Millions in path of deadly storms from Kentucky to Pennsylvania",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

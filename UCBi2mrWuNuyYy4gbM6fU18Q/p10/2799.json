@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EVl1VxNp_4Y",
-            "title": "About 1,000 people involved in search and rescue efforts",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "7D7VQsZORfg",
             "title": "Texas braces for potentially catastrophic flooding",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "300,000 lose power around Corpus Christi",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "WuTdTj9lxA0",
+            "title": "Pregnant woman stays in eye of Hurricane Harvey to have scheduled C-section",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

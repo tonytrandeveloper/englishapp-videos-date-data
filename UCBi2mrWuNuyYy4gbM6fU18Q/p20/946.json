@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "BRWBXupntpU",
-            "title": "The Debrief: Unrest in Hong Kong, new migrant detention rule and more",
-            "secondDuration": 1409,
-            "group": "group_7"
-        },
-        {
             "videoId": "l84ybM8vhcQ",
             "title": "Briefing Room: New immigration rules, Trump's latest comments  | ABC News",
             "secondDuration": 1474,
@@ -121,8 +115,14 @@
             "title": "Search expands for firefighters lost at sea l ABC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "g9dQNckjo2U",
+            "title": "NYPD officer involved in Eric Garner's death fired l ABC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eenkUR2BAXE",
-            "title": "ISIS Warnings Ignored By White House | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "MvY9ISmgSCk",
             "title": "Murdered Realtor Suspect Names Accomplice | NBC News",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Ferguson Chief Apologizes To Michael Brown's Family | NBC News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "IEdZ6LdXxRo",
+            "title": "Derek Jeter's Farewell Interview | NBC News",
+            "secondDuration": 273,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IcQEndxBPd4",
-            "title": "London attack: Eight minutes of terror",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "FilLac1NoAk",
             "title": "Stories of heroism after the London terror attack",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Londoners standing strong after latest terror attack",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "7OH50_dnXW0",
+            "title": "Rare tornado rips through a Canadian town",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

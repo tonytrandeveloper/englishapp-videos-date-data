@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ws6X_O6nYME",
-            "title": "NBC News NOW Full Broadcast - June 1st, 2021",
-            "secondDuration": 2970,
-            "group": "group_7"
-        },
-        {
             "videoId": "rVGzw6SalEg",
             "title": "Inside Look At Migrants' Dangerous Journey To U.S.",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "Watch: Teen Fights Off Bear To Protect Dogs In California Backyard",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3Wp76XBCdk",
+            "title": "Virginia Teacher Refuses To Comply With Proposed Pronoun Policy",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

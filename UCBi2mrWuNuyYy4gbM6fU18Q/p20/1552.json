@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Z3OatrLDK4U",
-            "title": "Spicer's 1st Briefing: I've Never Seen White House Press Secretary Do That",
-            "secondDuration": 766,
-            "group": "group_7"
-        },
-        {
             "videoId": "tTLcREwdNp0",
             "title": "Chuck Schumer on Women's March: Marching 'Part of The Grand American Tradition'",
             "secondDuration": 454,
@@ -121,8 +115,14 @@
             "title": "Inside the Inauguration of Donald Trump",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "BuO2_OK7zbI",
+            "title": "First Lady Melania Trump Speaks at Inaugural Ball | ABC News",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

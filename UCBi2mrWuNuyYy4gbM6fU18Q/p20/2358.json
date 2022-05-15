@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8zxT4Bn8giY",
-            "title": "'This Week': Elizabeth Drew's 'Washington Journal'",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "nf6Pa20AuKE",
             "title": "'This Week': Powerhouse Roundtable II",
             "secondDuration": 151,
@@ -121,8 +115,14 @@
             "title": "Militants Claim More Territory in Iraq",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "5TuLIpSMKJg",
+            "title": "John Muller Goodbye - \"In Case You Missed It\"",
+            "secondDuration": 361,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

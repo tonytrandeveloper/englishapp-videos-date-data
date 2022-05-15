@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9hYLSoTH_2I",
-            "title": "Fact Checking The South Carolina Democratic Presidential Debate | NBC News NOW",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "XKl_hsCnqcY",
             "title": "Flooding Crisis In South Carolina Puts Spotlight On Climate Change Amid Primary | NBC News NOW",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Trump: Coronavirus Poses ‘Very Low’ Risk To Americans | NBC News",
             "secondDuration": 324,
             "group": "group_7"
+        },
+        {
+            "videoId": "eZ8pm3-9dA4",
+            "title": "Trump Holds Press Conference On Coronavirus | NBC News (Live Stream Recording)",
+            "secondDuration": 5496,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

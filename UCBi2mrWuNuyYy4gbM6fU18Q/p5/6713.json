@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mD-EdOCiIjc",
-            "title": "Saving Soldiers' Lives on the Battlefield Begins with High-Tech Training",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "QCCWH_CNjM0",
             "title": "Treating PTSD With Virtual Reality Therapy: A Way to Heal Trauma",
             "secondDuration": 245,
@@ -31,8 +25,14 @@
             "title": "How This Food Computer Will Allow Anyone to Be a Farmer",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "aizVVLXK0Ms",
+            "title": "7-Year-Old Phenom 'Flying Squirrel' Takes Surfing World by Storm",
+            "secondDuration": 548,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

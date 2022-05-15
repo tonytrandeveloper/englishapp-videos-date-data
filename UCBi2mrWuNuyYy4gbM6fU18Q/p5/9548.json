@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wgwo92V2ULo",
-            "title": "Cheating in the Big Leagues",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "r3mAure9Yr0",
             "title": "Becoming Invisible and Homeless",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "Government Crackdown on Electronic Cigarettes",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "PXPcVG-yk9c",
+            "title": "Measles Outbreak in 13 States",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

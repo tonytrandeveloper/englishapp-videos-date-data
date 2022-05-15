@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T-L_XUHT1ow",
-            "title": "President Donald Trump And First Lady Speaks on Opioid Epidemic From White House (Full) | NBC News",
-            "secondDuration": 2015,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Axr9X3PZWU",
             "title": "Brooklyn Dance Protest #StomptheBan To Show Support For The Muslim Community | NBC Asian America",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Administration May Deepen Military Involvement In Africa | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "nTarIdgx8x4",
+            "title": "Federal Panel Recommends New Vaccine Against Shingles | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

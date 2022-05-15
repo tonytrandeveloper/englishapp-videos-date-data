@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "kVdCnHXU39g",
-            "title": "President Donald Trump and Emmanuel Macron Have Marathon Handshake | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "N-ON3HT1PLI",
             "title": "Syrian Rocker Refugee Finally Get The Keys To His New Life | NBC News",
             "secondDuration": 273,
@@ -301,8 +295,14 @@
             "title": "U.S. Military Denies Killing Mosul Civilians with ‘Imprecise Bombing’ | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxFKZhRDIb4",
+            "title": "Military C-130 Crashes In Mississippi | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

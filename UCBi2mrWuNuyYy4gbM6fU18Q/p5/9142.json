@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Rx1P53vpPaA",
-            "title": "Louisiana Senate Race Will Go to Runoff",
-            "secondDuration": 345,
-            "group": "group_7"
-        },
-        {
             "videoId": "_6t1TTe4U3w",
             "title": "Midterm Election Results 2014: Shelly Capito's Acceptance Speech",
             "secondDuration": 354,
@@ -31,8 +25,14 @@
             "title": "Voting Goes Viral With #VoterSelfie",
             "secondDuration": 43,
             "group": "group_7"
+        },
+        {
+            "videoId": "L2RDj8wlyp8",
+            "title": "Incumbent Lindsey Graham Wins South Carolina Senate Election",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

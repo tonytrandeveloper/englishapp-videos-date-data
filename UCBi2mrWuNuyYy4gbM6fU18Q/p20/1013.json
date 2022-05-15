@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gc8OkweWO80",
-            "title": "The Debrief: Kansas tornadoes, Mueller speaks and reactions, NBA finals preview | ABC News",
-            "secondDuration": 1739,
-            "group": "group_7"
-        },
-        {
             "videoId": "hS8oDBdBxeo",
             "title": "Mueller does not exonerate Trump in 1st remarks",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Kansas declares tornado emergency",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "26wqUaXOv3g",
+            "title": "New questions raised after Mar-a-Lago security breach",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

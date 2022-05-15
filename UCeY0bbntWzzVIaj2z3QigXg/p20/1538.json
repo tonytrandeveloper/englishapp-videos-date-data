@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "N1OJqkmEcCE",
-            "title": "President Donald Trump Fires Up His Base In Historic NRA Speech | NBC Nightly News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "w6bgjK8LwgA",
             "title": "North Korea Launches Another Ballistic Missile | NBC Nightly News",
             "secondDuration": 145,
@@ -121,8 +115,14 @@
             "title": "Ride Along With A Police Officer During The LA Riots | NBC Nightly News",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "bIVQMZJZ7MI",
+            "title": "25 Years After LA Riots: The Verdict That Sparked Them | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

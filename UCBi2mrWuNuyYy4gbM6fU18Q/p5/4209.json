@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rxeMF6ezF1g",
-            "title": "2 Marines killed in helicopter crash during training",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IZ4-4mgr8A",
             "title": "Joe Biden denies allegations of inappropriate conduct",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Used car sales expected to hit record levels",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "zRAU3amiZ5w",
+            "title": "'Time to move on,' Democrats 'refuse to accept that': Mulvaney on Mueller report",
+            "secondDuration": 1052,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

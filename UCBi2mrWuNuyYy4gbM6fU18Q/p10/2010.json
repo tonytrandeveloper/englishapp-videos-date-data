@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xa5B1o9xk7w",
-            "title": "Officer rescues pig from busy road | ABC News",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gkzl0rrsC6U",
             "title": "Cops confront deer intruder | ABC News",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "How YouTube's 'Hot Ones' 'humanizes' celebrities with hot sauce-covered chicken wings",
             "secondDuration": 475,
             "group": "group_7"
+        },
+        {
+            "videoId": "gYp0gW0lRCU",
+            "title": "Students in California town destroyed by Camp Fire graduate",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

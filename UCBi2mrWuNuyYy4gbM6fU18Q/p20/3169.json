@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yDbocZ438f0",
-            "title": "Obesity in America",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "VE_TviejQJk",
             "title": "Congo's Conflict Metals, Minerals May Have Built your PC, Phone",
             "secondDuration": 239,
@@ -121,8 +115,14 @@
             "title": "West Virginia Senator Robert C. Byrd Dies at 92",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "JbSDR65zWiA",
+            "title": "Interview With Leon Panetta",
+            "secondDuration": 1480,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q27esCbKAZo",
-            "title": "NBC News NOW Full Broadcast - April 6th, 2021 | NBC News NOW",
-            "secondDuration": 3140,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y4dibFGotMk",
             "title": "Use Of Force Policies A Focus In Chauvin Trial | NBC Nightly News",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "One-On-One With New Jersey's Governor Amid A Rise In Covid Cases | NBC Nightly News",
             "secondDuration": 215,
             "group": "group_7"
+        },
+        {
+            "videoId": "fgjdidblQnc",
+            "title": "California Aims To Fully Reopen By June 15 | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

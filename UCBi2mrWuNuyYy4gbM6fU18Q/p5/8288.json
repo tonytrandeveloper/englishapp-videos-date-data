@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8qRN2OvILIo",
-            "title": "Bernie Sanders on 2016 Campaign, Foreign Policy Positions",
-            "secondDuration": 588,
-            "group": "group_7"
-        },
-        {
             "videoId": "2i7MPyuayo4",
             "title": "Jorge Ramos on Recent Donald Trump Confrontation",
             "secondDuration": 319,
@@ -31,8 +25,14 @@
             "title": "Serena Williams Aims for Grand Slam at US Open",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "dys5IwF9pCM",
+            "title": "Vice President Joe Biden Greeted by Big Applause as Hillary Clinton Loses Ground in Polls",
+            "secondDuration": 234,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WWFYOsB5_Wk",
-            "title": "North Korea test-fires another ballistic missile",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "jTsR3YC4bkg",
             "title": "Hurricane Harvey marks Trump's 1st test of response to a natural disaster",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "'Hora Cero': Venezuela's crisis through a mother's eyes",
             "secondDuration": 928,
             "group": "group_7"
+        },
+        {
+            "videoId": "8OkV61u3Q1o",
+            "title": "White House press briefing: 08/25/17",
+            "secondDuration": 4013,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

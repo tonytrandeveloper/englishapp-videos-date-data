@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mPQPtR_QHS8",
-            "title": "Officer under fire for 'racially insensitive' Snapchat post",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "FgjzXZBmIFA",
             "title": "Experts probing reports of meteor seen across Florida Keys",
             "secondDuration": 78,
@@ -121,8 +115,14 @@
             "title": "Parts of US slammed by snow, frigid temps",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "5hbWYiBuSEQ",
+            "title": "Firefighters struggle to battle fires in sub-zero temps",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

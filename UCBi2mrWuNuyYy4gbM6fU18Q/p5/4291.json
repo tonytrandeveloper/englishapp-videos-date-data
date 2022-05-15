@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sC7THuzUJVU",
-            "title": "Trains crash into truck on tracks, killing 3 people",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5zlG0xyRxc",
             "title": "Trump has not addressed human rights issues in North Korea",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Experiencing the beauty of Vietnam's Ha Long Bay",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "kNNE2Qmao6g",
+            "title": "Selma Blair's courageous fight",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

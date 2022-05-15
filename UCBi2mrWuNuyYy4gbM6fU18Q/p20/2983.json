@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "re_IkK_QOy4",
-            "title": "Regis Philbin Feels 'Weight' of Last Show",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "vxxGHpuaxhY",
             "title": "George Clooney Gets Personal",
             "secondDuration": 483,
@@ -121,8 +115,14 @@
             "title": "Moms: Alleged Abuse Victims Will Testify",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "wo1a1AYhGeA",
+            "title": "Penn State Scandal: More Boys Come Forward",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "G7EW5uDDLlk",
-            "title": "Trump Meets With Bankers On Coronavirus Response | NBC News (Live Stream Recording)",
-            "secondDuration": 1455,
-            "group": "group_7"
-        },
-        {
             "videoId": "K9hoPjaNXFQ",
             "title": "‘This Is What Justice Looks Like’: Weinstein Accusers’ Attorney Gloria Allred | NBC News",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Speaks From Vermont | NBC News (Live Stream Recording)",
             "secondDuration": 366,
             "group": "group_7"
+        },
+        {
+            "videoId": "RapD4-7uAbg",
+            "title": "Fauci Gives Warning On Coronvirus: 'Bottom Line, It's Going To Get Worse' | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

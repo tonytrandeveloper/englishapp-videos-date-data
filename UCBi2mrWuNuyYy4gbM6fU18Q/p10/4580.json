@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "r2HEoFcOc6k",
-            "title": "MIX: “Thriller” Flash Mob",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "wgbrSmulGkc",
             "title": "WEBCAST: Walmart Apologizes for Controversial Website Page",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Teens Obsess Over '100 Club' for 'Likes' on Social Media",
             "secondDuration": 252,
             "group": "group_7"
+        },
+        {
+            "videoId": "VGCg_J1j_5M",
+            "title": "'SNL' Parodies Matthew McConaughey 'Lincoln' Ads",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

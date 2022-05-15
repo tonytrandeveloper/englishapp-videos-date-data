@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "bpI7wU80CgQ",
-            "title": "2 Republican senators take on Trump",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "lA49Yd1mPV8",
             "title": "US intelligence authorities examining video of Nigerien militant group",
             "secondDuration": 176,
@@ -121,8 +115,14 @@
             "title": "Manhunt grows for suspected Florida serial killer",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Yz0VUipUbhU",
+            "title": "Wildfires spread as conditions worsen in California",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8VTp_0ViOk0",
-            "title": "'Dancing with the Stars': Season 18 Premiere",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "31yj1XFUfq4",
             "title": "Missing Malaysia Airlines: New Clues About Flight's Disastrous Path",
             "secondDuration": 320,
@@ -31,8 +25,14 @@
             "title": "The Last Words of the Pilot and Co-Pilot on Malaysia Airlines Flight 370",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "m9OIryJNkYM",
+            "title": "TV Anchors Shaken Up by a Quake",
+            "secondDuration": 83,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

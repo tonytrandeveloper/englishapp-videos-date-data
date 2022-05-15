@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KQy6l24ymkE",
-            "title": "Biden Surveys Damage in Louisiana After Hurricane Ida",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "VYhT_wHY0W0",
             "title": "U.S. Added 235,000 Jobs in August",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Lake Tahoe Evacuated As Caldor Fire Spreads",
             "secondDuration": 218,
             "group": "group_7"
+        },
+        {
+            "videoId": "QOjqCA-NeZs",
+            "title": "This Morning’s Top Headlines – September 3 | Morning News NOW",
+            "secondDuration": 1043,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

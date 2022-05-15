@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "clrUNX9Ac6w",
-            "title": "Obama Balances Fiscal Cliff, Defense Department Appointment",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "dr_W9k-7uhA",
             "title": "Dee Dee Moore Trial: Woman Accused of Murdering Lottery Winner",
             "secondDuration": 149,
@@ -31,8 +25,14 @@
             "title": "'Dwarf': Woman Endures Painful, Controversial Surgeries to Grow Taller",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "RDOKGxgMdR0",
+            "title": "Powerball: Some Winners Remain a Mystery",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

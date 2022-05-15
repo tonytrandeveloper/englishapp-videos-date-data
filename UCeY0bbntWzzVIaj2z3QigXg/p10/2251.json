@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vW3CPUWYZ7Q",
-            "title": "Super-Earth Exoplanet Discovered Orbiting A Star Just 6 Light-Years From Our Sun | Mach | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "jQFD5oSPSL0",
             "title": "Can Humanity Survive This Century? | Mach | NBC News",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "FDA Restricts Flavored E-Cigarettes, Moving To Ban Menthol And Flavored Cigars | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "fFvIeIPxVy8",
+            "title": "Two Navy SEALs, Two Marines Charged In Murder Of Green Beret | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g9dQNckjo2U",
-            "title": "NYPD officer involved in Eric Garner's death fired l ABC News",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "EQNkJL6zqOw",
             "title": "Parents fight for custody after stopping son's chemotherapy l ABC News",
             "secondDuration": 189,
@@ -121,8 +115,14 @@
             "title": "White House dismisses fears of a recession l ABC News",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "92sQRvpv8LY",
+            "title": "9-year-old bitten by shark in knee-deep water l ABC News",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

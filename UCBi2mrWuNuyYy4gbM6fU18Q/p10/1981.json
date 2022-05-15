@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "brANIwtajLg",
-            "title": "The Debrief: Muller to testify, 2020 Democratic debates, San Francisco e-cig ban",
-            "secondDuration": 1703,
-            "group": "group_7"
-        },
-        {
             "videoId": "hY_yLQQiWpE",
             "title": "The Debrief: Border detention facilities, Iran sanctions, police racism probe  ABC News",
             "secondDuration": 11300,
@@ -61,8 +55,14 @@
             "title": "11-year-old killed after 40-foot tree falls on group at Girl Scout camp",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "txQKRy5vz0s",
+            "title": "Soldier becomes first living Medal of Honor recipient from Iraq War",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

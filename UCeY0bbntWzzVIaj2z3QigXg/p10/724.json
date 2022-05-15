@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WzvWluiXs00",
-            "title": "Morning News NOW Full Broadcast - May 13 | NBC News NOW",
-            "secondDuration": 3112,
-            "group": "group_7"
-        },
-        {
             "videoId": "NRTFfaV2KOw",
             "title": "Biden Speaks On Pipeline Cyberattack | NBC News",
             "secondDuration": 790,
@@ -61,8 +55,14 @@
             "title": "NYC Police Commissioner Announces Arrest In Times Square Shooting",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "BGeqS-rqg3s",
+            "title": "Pipeline Restarting Operations Amid Frenzy At Gas Stations | NBC News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_0B1sMfxWYw",
-            "title": "Jonestown Part 1: Who was the Peoples Temple leader Jim Jones?",
-            "secondDuration": 696,
-            "group": "group_7"
-        },
-        {
             "videoId": "bWtH6VIfnAQ",
             "title": "Jonestown Part 2: How Jim Jones rose to power within his Peoples Temple",
             "secondDuration": 503,
@@ -121,8 +115,14 @@
             "title": "Christine Blasey Ford, Brett Kavanaugh: Most memorable moments from their testimonies",
             "secondDuration": 315,
             "group": "group_7"
+        },
+        {
+            "videoId": "ewSCGtEQeZM",
+            "title": "Brett Kavanaugh's testimony: The moments that mattered",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

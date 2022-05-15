@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rxeMF6ezF1g",
-            "title": "2 Marines killed in helicopter crash during training",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "5IZ4-4mgr8A",
             "title": "Joe Biden denies allegations of inappropriate conduct",
             "secondDuration": 212,
@@ -121,8 +115,14 @@
             "title": "Man sentenced to 20 years in federal prison in deadly 'swatting' case",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "WKu10kBYdv0",
+            "title": "High school drama club gets high marks for 'Alien' musical",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

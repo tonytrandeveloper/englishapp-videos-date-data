@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4UAvxUgj4xQ",
-            "title": "Travel Nightmares",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZQ4owtQrJl4",
             "title": "The Conversation: 9-Year-Old Inspires Gift Giving",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Roll Call's Christina Bellantoni on 'Top Line'",
             "secondDuration": 290,
             "group": "group_7"
+        },
+        {
+            "videoId": "pJ-r6BaBBug",
+            "title": "Dem. Strategist: 'Obama in a Win-Win Position'",
+            "secondDuration": 610,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "wW7JsqbAcPM",
-            "title": "Adele Pregnancy Update; Singer's Upcoming James Bond Skyfall Theme Song",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "5qYR_S7Pi68",
             "title": "2012 Vice Presidential Debate: Countdown to Joe Biden Vs. Paul Ryan Election Showdown",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Man Busted in Body Armor at Airport",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "-dyPfuThke8",
+            "title": "WEBCAST: 27 Days to Go Until Election Day",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

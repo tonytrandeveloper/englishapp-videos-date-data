@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t_PEYTU_1Go",
-            "title": "'This Week': Bill Gates on Education",
-            "secondDuration": 251,
-            "group": "group_7"
-        },
-        {
             "videoId": "ggrWRTsdsBw",
             "title": "'This Week': Congress on Concussions",
             "secondDuration": 208,
@@ -121,8 +115,14 @@
             "title": "New Evidence May Indicate Struggle in the Cockpit of Missing Malaysia Airlines Flight 370",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJqD_VavFHo",
+            "title": "Tense Moments During Take Off in Philadelphia as Plane Goes Off Runway, Nose Crashes",
+            "secondDuration": 89,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

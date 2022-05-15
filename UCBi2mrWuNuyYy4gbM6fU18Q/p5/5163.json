@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Y3q7mKwq8Ec",
-            "title": "President Trump delivers remarks as Rev. Billy Graham lies in honor at the US Capitol",
-            "secondDuration": 3833,
-            "group": "group_7"
-        },
-        {
             "videoId": "t0BZhRJqX24",
             "title": "Shooting survivor describes emotional return to school",
             "secondDuration": 336,
@@ -31,8 +25,14 @@
             "title": "Dick's Sporting Goods to no longer sell assault-style rifles",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ev0IEKLRzw",
+            "title": "Appalling conditions inside Syrian refugee camp on Lesbos",
+            "secondDuration": 575,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P2OuSDuOVMg",
-            "title": "What Will Offices Look Like When Employees Return? | NBC News NOW",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "mk_s-6h8oC8",
             "title": "Burnout, Stress: Nurses Share Toll Fighting Coronavirus Is Taking | NBC News NOW",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "US Now Seeing Similar Covid Improvements With Different Approaches To Lockdowns | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "fSWQEiOftRE",
+            "title": "U.S. Officials Still Not Ruling Out Lab Accident As Covid Origin, Officials Say | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ksC3FfWjR0w",
-            "title": "YouTube Videos May Give New Insight Into Missing Doctor Case",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "31rqwPOYwYw",
             "title": "Spiderman Prepares to Celebrate New Year's in Times Square",
             "secondDuration": 289,
@@ -31,8 +25,14 @@
             "title": "PIN Data May Have Been Stolen During Massive Security Breach at Target",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "TKv-0XYYhiw",
+            "title": "Family Fights for Daughter on Life Support",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

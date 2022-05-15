@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_pzevau5kb4",
-            "title": "Sneak peek behind the scenes as Hollywood gears up for Oscars | ABC News",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "9INILBAxm44",
             "title": "Trump fires 2 men who testified in the House impeachment hearings | ABC News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "ABC News Democratic Debate: Moments that mattered | ABC News",
             "secondDuration": 232,
             "group": "group_7"
+        },
+        {
+            "videoId": "COXBtqZsMQc",
+            "title": "7th Democratic debate wraps up in New Hampshire | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

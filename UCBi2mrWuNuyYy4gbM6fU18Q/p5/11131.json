@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hHHwmQSlIIo",
-            "title": "Meningitis Outbreak: The Scramble",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "d0IWzPq7UyE",
             "title": "The Undecideds: Presidential Election Up for Grabs",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "Arlen Specter Dead: Former Pennsylvania Senator Dies of Cancer at Age 82",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "rKvr3HmaBXI",
+            "title": "Social Media's Impact on 2012 Presidential Election : 'This Week' Panel Discussion",
+            "secondDuration": 219,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

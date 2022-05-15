@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mDYJ4qCsF6E",
-            "title": "Longtime Trump confidante Roger Stone pleads not guilty",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "52hE_xVfxok",
             "title": "'Empire' star attacked in possible hate crime: Authorities",
             "secondDuration": 158,
@@ -121,8 +115,14 @@
             "title": "Chris Christie weighs in on his new book, shutdown, Roger Stone",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "QI4hcg_VqRU",
+            "title": "Ex-Starbucks CEO considering run for president",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

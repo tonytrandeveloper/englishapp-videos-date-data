@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2qk0BNUIFLg",
-            "title": "Mayor Pete Buttigieg Declares Campaign ‘Going Onto New Hampshire Victorious’ | NBC News",
-            "secondDuration": 1192,
-            "group": "group_7"
-        },
-        {
             "videoId": "lOe4Eqnw9q0",
             "title": "A History Of Applause At The State Of The Union | NBC News NOW",
             "secondDuration": 191,
@@ -61,8 +55,14 @@
             "title": "Elizabeth Warren In Iowa: ‘Too Close To Call,’ But ‘One Step Closer’ To Defeating Trump | NBC News",
             "secondDuration": 288,
             "group": "group_7"
+        },
+        {
+            "videoId": "gVgvD5-_8Uk",
+            "title": "Slow Iowa Caucus Results Due To 'Quality-Control' Checks | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

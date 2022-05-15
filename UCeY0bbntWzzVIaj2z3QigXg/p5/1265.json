@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i74T9x7GQ3o",
-            "title": "'An Anomaly: Full Miami-Dade Mayor Interview After Florida Building Collapse",
-            "secondDuration": 427,
-            "group": "group_7"
-        },
-        {
             "videoId": "jGX-9jCeHYA",
             "title": "NBC Nightly News Broadcast (Full) - June 26th, 2021",
             "secondDuration": 1147,
@@ -31,8 +25,14 @@
             "title": "Trump Back On The Campaign Trail",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "O_tKXR8UJrI",
+            "title": "Families Wait As 159 Remain Unaccounted For in Building Collapse",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

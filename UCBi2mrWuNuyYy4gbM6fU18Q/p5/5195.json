@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RXNBTaSSemc",
-            "title": "President Donald Trump delivers remarks on Parkland, Fla. school shooting | ABC News",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "osY6t4iNXMA",
             "title": "Teachers credited with saving lives in deadly school shooting",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Florida shooting is this year's 18th school-related shooting in the US",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "RI-4pAHOP7E",
+            "title": "17 confirmed dead in Florida school shooting, suspect in custody",
+            "secondDuration": 490,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

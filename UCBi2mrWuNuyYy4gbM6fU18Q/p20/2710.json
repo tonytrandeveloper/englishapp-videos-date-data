@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aJ4RCyYzarg",
-            "title": "Blizzard Slams Indiana, Moves Toward Northeast: Snow Storm Becoming Nor'easter",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "dnIleU__G64",
             "title": "'Incredibly Accurate Football Kicker' Video Impresses NFL: Havard Rugland Tries Out for Jets",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Hurricane Sandy Christmas",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "sHDE4RWWzGA",
+            "title": "How-to Guide to Making the Best of Those Christmas Gadgets",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

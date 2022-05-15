@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nwonVY_cNS4",
-            "title": "Cloud Seeders Make It Rain",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "1Gb_-F93OlY",
             "title": "Platelist: Chef Jerome Chang's Delectable Desserts",
             "secondDuration": 224,
@@ -31,8 +25,14 @@
             "title": "How Will New Jobs Numbers Impact the Election?",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "NAaFMclhORY",
+            "title": "Libya Attack Investigation: Was State Department on Top of Security?",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

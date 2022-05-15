@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ZpzfqQv3Jqc",
-            "title": "RNC Chairman Reince Priebus Full Interview on Trump Administration",
-            "secondDuration": 322,
-            "group": "group_7"
-        },
-        {
             "videoId": "kAeewGULiYQ",
             "title": "Bald Eagle Stuck in Storm Drain After Brawl With Another Eagle",
             "secondDuration": 70,
@@ -301,8 +295,14 @@
             "title": "Melania Trump, Our Next First Lady",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "X-NINpsGr7I",
+            "title": "Donald Trump Defies Polls and Takes the White House",
+            "secondDuration": 285,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

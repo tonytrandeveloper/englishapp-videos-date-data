@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "64o7ISNkaU8",
-            "title": "Clinton Senior Adviser on the Next Phase of the Campaign",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "oSELHPXvcdw",
             "title": "Rachel Dolezal’s Brothers Address Her Race",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Lone Gunman Assaults Police Station in Dallas",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "pDHa1AU77SI",
+            "title": "Grandmother Leads Slow-Speed Pursuit at 6 Miles per Hour",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

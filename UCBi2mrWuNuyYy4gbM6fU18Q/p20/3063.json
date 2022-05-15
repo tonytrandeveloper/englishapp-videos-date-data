@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nEZPfxTSvYA",
-            "title": "'Dancing With the Stars' Results: Chris Jericho Booted (2011)",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "WlXxefOnX2E",
             "title": "Nature's Wrath: Tornadoes and Floods",
             "secondDuration": 284,
@@ -121,8 +115,14 @@
             "title": "Rabbits on the Loose at Long Beach City College",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "CHRBcL_5lCw",
+            "title": "Interview With Pastor Tim Keller",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

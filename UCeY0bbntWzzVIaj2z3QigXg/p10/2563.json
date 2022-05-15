@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_jkZegeDvNM",
-            "title": "Waffle House Gunman Stole Car From BMW Dealership Before Shooting | NBC News",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "FskTKqqL6jA",
             "title": "‘Accidental Americans’ Push Back On Paying U.S. Taxes | NBC Nightly News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "Fishermen Catch Lost Gear In Program Using Ocean Trash For Fuel | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "YC3_XsfZtKU",
+            "title": "President Donald Trump Says Lawyer Michael Cohen Won’t ‘Flip’ | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

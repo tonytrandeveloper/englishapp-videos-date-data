@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jcBLjio0pVA",
-            "title": "The Lamoureux Twins Discuss Gender Equality | NBC News",
-            "secondDuration": 223,
-            "group": "group_7"
-        },
-        {
             "videoId": "8BXNhaQEhOE",
             "title": "Take A Look At How The U.S. Can Improve Its Recycling Habits | NBC News",
             "secondDuration": 288,
@@ -31,8 +25,14 @@
             "title": "Airplane Makes Miracle Water Landing After Missing Runway In Micronesia | NBC Nightly News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "Jrg0ccHRuPE",
+            "title": "John Legend Opens Up About Making History And Taking A Stand | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

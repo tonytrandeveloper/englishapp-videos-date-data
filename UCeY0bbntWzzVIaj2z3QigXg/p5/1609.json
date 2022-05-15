@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tPnNOzRaNXk",
-            "title": "Inside New Mexico’s Covid Vaccine Rollout Success | NBC Nightly News",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "zLsmPgbM0A0",
             "title": "U.S. Economy Adds 916,000 Jobs In March | NBC Nightly News",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Capitol Threat Suspect Identified As 25-Year-Old Indiana Man | NBC News NOW",
             "secondDuration": 360,
             "group": "group_7"
+        },
+        {
+            "videoId": "mKbYCaBzbcE",
+            "title": "National Guard Troops Arrive To Secure Grounds After Capitol Incident | NBC News NOW",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

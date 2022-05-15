@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Xp0ADdWqciI",
-            "title": "Bounce House Sent Tumbling in the Wind",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "d8x_3PCREFo",
             "title": "Worst Haircut Ever:  5-Year-Old cuts 3-Year-Old's Hair",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "'This Week' Powerhouse Roundtable II",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "gyUhxiFIhug",
+            "title": "'This Week' Powerhouse Roundtable",
+            "secondDuration": 469,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

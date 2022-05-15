@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HEVqtIW3JoU",
-            "title": "Thousands Stranded Between Belarus And Poland",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eu0ZFh_urKk",
             "title": "Attorney In Ahmaud Arbery Trial Apologizes For 'Black Pastor' Comment",
             "secondDuration": 217,
@@ -31,8 +25,14 @@
             "title": "Nightly News Full Broadcast - Nov. 12",
             "secondDuration": 1288,
             "group": "group_7"
+        },
+        {
+            "videoId": "DLnwXmW98wo",
+            "title": "New Evidence Suggests Early Trouble At Deadly Astroworld Concert",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZrBqYweKNF8",
-            "title": "A behind the scenes look at New England Patriots quarterback Tom Brady",
-            "secondDuration": 502,
-            "group": "group_7"
-        },
-        {
             "videoId": "hWgjC4D8c38",
             "title": "From the rambunctious to the devoted: Meet some of Philadelphia Eagles' fans",
             "secondDuration": 408,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump remarks at 2018 House and Senate Republican Member Conference | ABC News",
             "secondDuration": 2979,
             "group": "group_7"
+        },
+        {
+            "videoId": "-yx0bTPVob0",
+            "title": "Logan Paul interview: YouTube star speaks out after controversial video",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

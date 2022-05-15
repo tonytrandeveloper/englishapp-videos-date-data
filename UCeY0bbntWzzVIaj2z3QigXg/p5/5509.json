@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "krsMpbliG9I",
-            "title": "Southern California Wildfires Prompt Air Quality Warnings | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "m4bWCve0WsM",
             "title": "Massachusetts Town Turns Back The Clock In Ode To Norman Rockwell | NBC Nightly News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Jr. Questioned By House Panel On Meeting With Russian Lawyer | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "qeqKBBZID4U",
+            "title": "Hundreds Of Homes Lost In Southern California Wildfires | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

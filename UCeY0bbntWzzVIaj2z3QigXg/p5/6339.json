@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "a5-9GCsngjU",
-            "title": "Tom Hanks And Tom Brokaw Discuss Supporting The Troops | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "8R-3D6-JN3E",
             "title": "Tom Brokaw Talks To Wes Moore About Race And Journalism At Beginning Of His Career | NBC News",
             "secondDuration": 60,
@@ -31,8 +25,14 @@
             "title": "NASA Unveils New Spacesuit For Starliner Astronauts | NBC News",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "8HeVS92b4KM",
+            "title": "President Donald Trump: Secretary James Mattis ‘Will Override’ Any Opinion On Torture | NBC News",
+            "secondDuration": 79,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

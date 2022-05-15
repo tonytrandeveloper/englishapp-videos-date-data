@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yuCuuYUQFXM",
-            "title": "Charles Schumer 'This Week' Interview: New York Senator on Government Shutdown",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "NvAExvMLSwA",
             "title": "'This Week' Powerhouse Roundtable Discusses Government Shutdown",
             "secondDuration": 637,
@@ -61,8 +55,14 @@
             "title": "Madeleine McCann: Missing Girl Could Still be Alive",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "6jVUc_4n6I4",
+            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

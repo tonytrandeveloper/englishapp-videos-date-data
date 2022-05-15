@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "g-GfRGOGpas",
-            "title": "Christopher Wray FBI Nomination Hearing | NBC News",
-            "secondDuration": 16454,
-            "group": "group_7"
-        },
-        {
             "videoId": "jmwIheX5bZg",
             "title": "FBI Director Nominee Christopher Wray: Meeting Alone With Donald Trump ‘Highly Unlikely’ | NBC News",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "U.S. Military Denies Killing Mosul Civilians with ‘Imprecise Bombing’ | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxFKZhRDIb4",
+            "title": "Military C-130 Crashes In Mississippi | NBC News",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

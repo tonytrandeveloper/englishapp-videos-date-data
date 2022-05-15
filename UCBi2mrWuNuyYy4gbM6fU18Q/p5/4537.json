@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8F5nk9Qlya0",
-            "title": "911 call released in the death of Ohio University student",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "QsYqJF0Lzwo",
             "title": "Michael Avenatti arrested on suspicions of domestic violence",
             "secondDuration": 92,
@@ -31,8 +25,14 @@
             "title": "The Debrief: California wildfires, Florida recounts, winter weather forecast | ABC News",
             "secondDuration": 1693,
             "group": "group_7"
+        },
+        {
+            "videoId": "5N0C-Go-oUU",
+            "title": "USDA asked to name brands involved in turkey salmonella outbreak",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

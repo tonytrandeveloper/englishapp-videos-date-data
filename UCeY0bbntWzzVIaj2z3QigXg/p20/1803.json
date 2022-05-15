@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RNSTcb9pXTA",
-            "title": "California Wildfires Threaten Yosemite | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "EZ4-Q1coyQE",
             "title": "Rick Perry Responds To Charges | NBC News",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "ISIS Atrocities Detailed By Yazidi Refugees | NBC News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "_HsYvw8STRE",
+            "title": "Ferguson Protests Dispersed By SWAT Team | NBC News",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

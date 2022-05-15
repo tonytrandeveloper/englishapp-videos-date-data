@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RNE5hi74gUA",
-            "title": "‘Green Book’ Tells Story Of Unlikely Friendship During Divided Time | NBC Nightly News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "vwBQYcOm8fY",
             "title": "Meet The Kid Millionaire Behind Ryan’s World Toy Empire (Exclusive Interview) | NBC Nightly News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Trump Dismisses CIA Conclusion That Saudi Prince Was Responsible For Jamal Murder | NBC Nightly News",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "FHzJ9Kz7SnA",
+            "title": "Ivanka Trump Under Investigation For Using Private Email Account | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

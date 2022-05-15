@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Is9qHooP0jE",
-            "title": "Aircraft Laser Strikes Reach a Record High | NBC Nightly News",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "yxwI-0OhtAY",
             "title": "Flying Blind: Aircraft Laser Tags On The Rise | Short Take | NBC News",
             "secondDuration": 73,
@@ -31,8 +25,14 @@
             "title": "Waukegan, Illinois, and Towns Across America Remember Their Veterans | NBC Nightly News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "sae3_thx3Ng",
+            "title": "Missouri Campus Quiet After Online Threats | Short Take | NBC News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

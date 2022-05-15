@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BB_rlZQe--M",
-            "title": "Large earthquake rocks Alaska",
-            "secondDuration": 641,
-            "group": "group_7"
-        },
-        {
             "videoId": "v8TJ-p9KeG4",
             "title": "New video shows race to rescue nurses in wildfires",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Trump blasts Michael Cohen after guilty plea",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPxCJB3l8yc",
+            "title": "Tapes reveal Chris Watts confess to murdering wife",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

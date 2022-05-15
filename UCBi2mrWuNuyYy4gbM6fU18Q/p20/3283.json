@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "e-I_A8ovL0w",
-            "title": "Not in My Backyard! Gaddafi's Tent Trouble",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "5HAZrsIfFnQ",
             "title": "Netanyahu: Can't Freeze Israeli Settlements",
             "secondDuration": 210,
@@ -121,8 +115,14 @@
             "title": "Criminally Insane Killer Captured",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "smKrSlEazH0",
+            "title": "3 Terror Plot Suspects Arrested",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

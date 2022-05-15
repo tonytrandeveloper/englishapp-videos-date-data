@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "umP69fUB41s",
-            "title": "Arnold Schwarzenegger has 'a new hero' -- a bodybuilder with cerebral palsy",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "NHErGAhx-Lc",
             "title": "R. Kelly bailed out of jail for the second time in two weeks; new accuser comes forward",
             "secondDuration": 184,
@@ -31,8 +25,14 @@
             "title": "The oldest person in the world is 116 years and 66 days old",
             "secondDuration": 39,
             "group": "group_7"
+        },
+        {
+            "videoId": "J1fWohubIJ4",
+            "title": "A Denver police officer under investigation after incident with arrested suspect",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

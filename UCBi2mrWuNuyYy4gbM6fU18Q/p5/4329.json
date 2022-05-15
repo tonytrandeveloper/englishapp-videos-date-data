@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SZbNiKgLMZU",
-            "title": "Pacific Northwest battles record snowstorm",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "sffjImcj8js",
             "title": "IRS responds to outrage over smaller tax refunds",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Negotiators reach agreement 'in principle' to avoid another shutdown",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "v5ob-JuElEE",
+            "title": "Sen. Amy Klobuchar throws hat into presidential race",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "JJxyDRJ2PSY",
-            "title": "Sarah Hyland and Her Puppy, Barkley, Encourage Pet Adoption",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "nBVu6jFClLk",
             "title": "Monster Energy College Ambassador Program Under Scrutiny",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Man Carried to Safety as Home Burns",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpLSgtai9yA",
+            "title": "MIX: Weatherman vs Dog",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

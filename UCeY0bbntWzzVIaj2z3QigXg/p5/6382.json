@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HgEsR_y7pGM",
-            "title": "James Clapper: Julian Assange, Wikileaks Have Put Intel Officers In Danger | NBC News",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZu6jgNN7f0",
             "title": "John McCain Asks Intel Head: Does Russian Hacking Constitute An Act Of War? | NBC News",
             "secondDuration": 200,
@@ -31,8 +25,14 @@
             "title": "NASA Announces 2 Discovery Missions To Study Asteroids | NBC News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "R6oxNRFrPuA",
+            "title": "Former Undocumented Immigrant Adriano Espaillat Sworn Into Congress | NBC News",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

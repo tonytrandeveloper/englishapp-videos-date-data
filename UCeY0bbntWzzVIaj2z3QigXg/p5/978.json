@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DN8y6ULYBLY",
-            "title": "America Remembers: FDNY Chief Looks Back On 9/11 Attacks | Nightly News Films",
-            "secondDuration": 837,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0oyntt68Kg",
             "title": "White House Holds Press Briefing: September 9 | NBC News",
             "secondDuration": 1981,
@@ -31,8 +25,14 @@
             "title": "200 People, Including Americans, Set To Fly From Afghanistan To Doha",
             "secondDuration": 270,
             "group": "group_7"
+        },
+        {
+            "videoId": "hI8POLuzfjs",
+            "title": "Kentucky Hospitals Reach Full Capacity As Covid Spreads Among Kids",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

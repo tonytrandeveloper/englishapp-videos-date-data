@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "49P1O8snL-E",
-            "title": "Fast-moving fire leaves families homeless just as Christmas approaches",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "SaP0jWhHPtE",
             "title": "Officials warn against 'porch pirates' during holiday season",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Judicial nominee struggles to answer basic legal questions",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "pqNNwFe6gMM",
+            "title": "Former NXIVM member says she was branded when invited to secret sorority: Part 1",
+            "secondDuration": 680,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

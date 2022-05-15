@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3xzYCA8l1zU",
-            "title": "German Chancellor Angela Merkel: Europe Must Take Control Of Its Own Fate | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "1QES0gLjJNo",
             "title": "Whaling Protesters Cover Copenhagen Little Mermaid Statue With Red Paint | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "Boy Thrown From Water Slide At California Water Park | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "XUfc0XzyYBs",
+            "title": "Pres. Donald Trump’s First Memorial Day Marked By Jared Kushner Controversy | NBC Nightly News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

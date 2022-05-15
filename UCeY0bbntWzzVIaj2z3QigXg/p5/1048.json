@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dl1trq3qFYA",
-            "title": "NBC Nightly News Full Broadcast - August 22nd, 2021",
-            "secondDuration": 1143,
-            "group": "group_7"
-        },
-        {
             "videoId": "NeHABPCLWQI",
             "title": "Thousands of Americans Still Stranded in Afghanistan",
             "secondDuration": 148,
@@ -31,8 +25,14 @@
             "title": "Tropical Storm Henri Blows Into New England",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "g8mdTziMd-A",
+            "title": "Biden Urges Governors in Tropical Storm Henri Path: Take Advance FEMA Assistance",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

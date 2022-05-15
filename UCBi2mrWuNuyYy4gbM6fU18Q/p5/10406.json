@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RNxKgFvnaz8",
-            "title": "WEBCAST: Camel Invites Himself Into Car",
-            "secondDuration": 164,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hca74JiPiWw",
             "title": "Michael Jackson Trial: King of Pop's Kids Expected to Testify",
             "secondDuration": 121,
@@ -31,8 +25,14 @@
             "title": "Five Year-Old Boy Genius Destined for Mensa",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "X7FVYJ6ONXk",
+            "title": "'Frank Underwood' to Obama: 'Welcome to Nerd Prom' | ABC News Exclusive | ABC News",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

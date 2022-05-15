@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cC-iiREEpkA",
-            "title": "A Squishy Robot That Can Help Study Underwater Reefs | Mach | NBC News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "TmAVwo1sAbM",
             "title": "Ruth Ben-Ghiat: Trump Has Been Following The Authoritarian Playbook Since Day One | Think | NBC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Deadly Attack At College In Russian-Annexed Crimea | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "FDJKSZQ--e8",
+            "title": "President Trump: Khashoggi 'Wasn't A Citizen', But U.S. Taking Whereabouts Seriously | NBC News",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

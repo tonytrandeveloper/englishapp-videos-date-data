@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "yvoR2z2WFeg",
-            "title": "How Dua Lipa became one of pop music's biggest breakout stars",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "vk_F9zqyGCY",
             "title": "Michael Cohen on Trump: 'Don't believe what he is saying'",
             "secondDuration": 297,
@@ -301,8 +295,14 @@
             "title": "Ohio woman accused of planning mass murder at bar",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "XUotlrEZ8ag",
+            "title": "Accused Russian agent reaches plea deal",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

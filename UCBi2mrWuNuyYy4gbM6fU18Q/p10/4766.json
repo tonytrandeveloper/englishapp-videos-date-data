@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kNae0D_AGnA",
-            "title": "America's Money: 'Amazing Spider-Man' Swings Into Theaters",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "iu8pTfZdM78",
             "title": "'Plane Whisperer' Helps Others Overcome Fear",
             "secondDuration": 469,
@@ -61,8 +55,14 @@
             "title": "Were US Skating Uniforms to Blame for Poor Performance at Sochi Olympics?",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "t2xVR7j2HMk",
+            "title": "Instant Index: NASA Unveils Prototype for Mars Spacesuit",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qUoISO5Kzoo",
-            "title": "This Flying Car Could Take Off By The End Of The Year | Mach | NBC News",
-            "secondDuration": 73,
-            "group": "group_7"
-        },
-        {
             "videoId": "RpQg5TFmU1E",
             "title": "Attorney General Jeff Sessions Announces The End To DACA Program (Full) | NBC News",
             "secondDuration": 623,
@@ -61,8 +55,14 @@
             "title": "Water Is Still Rising In Houston | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "qyPiRjy2PXk",
+            "title": "Donald Trump Likely To End Program Protecting Young Undocumented Immigrants | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

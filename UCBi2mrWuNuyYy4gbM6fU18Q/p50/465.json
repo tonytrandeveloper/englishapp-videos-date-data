@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wdozJb_VFz4",
-            "title": "French gangster captured after 3-month manhunt",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "37OVOkEt8Vc",
             "title": "Volcano eruption adds to tsunami devastation",
             "secondDuration": 121,
@@ -301,8 +295,14 @@
             "title": "What's next after divisive Ford, Kavanaugh hearing",
             "secondDuration": 312,
             "group": "group_7"
+        },
+        {
+            "videoId": "EXoO4Zu2Z2k",
+            "title": "Sarah Sanders on Trump's reaction to Kavanaugh, Ford",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

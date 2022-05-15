@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "y7wB3BrttuM",
-            "title": "The Fame Game",
-            "secondDuration": 397,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddc5-umQgpQ",
             "title": "It's Still All About Christine O'Donnell",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Bed Intruder Song sung by Andrew Garfield",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "z7GI0pni5Ao",
+            "title": "Hospital Shooting Has Precendent",
+            "secondDuration": 339,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

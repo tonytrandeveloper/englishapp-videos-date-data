@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gD83ULHQBb8",
-            "title": "Dust, Blood and War: The Question of Afghanistan",
-            "secondDuration": 690,
-            "group": "group_7"
-        },
-        {
             "videoId": "-WiHdNsC8PU",
             "title": "The Conversation: David Takes On Twitter Commands",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "iPhone 4: Can You Hear Me Now?",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "ThBLRibJaWU",
+            "title": "Summer Storms Hit the Northeast",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

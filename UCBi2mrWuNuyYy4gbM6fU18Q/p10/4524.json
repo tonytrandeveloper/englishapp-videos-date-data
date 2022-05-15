@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CgkGkh_mQTY",
-            "title": "Instant Index: Adrian Peterson Loses Season-Long Suspension Appeal",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "EM7LR_-KvVk",
             "title": "Barbara Walters's 10 Most Fascinating People of 2015 Sneak Peek",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "MIX: Letters From The Past",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "vphALS_8quk",
+            "title": "WEBCAST: Powerful Storm Slams California",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

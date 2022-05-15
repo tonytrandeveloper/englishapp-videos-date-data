@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "H293B24UkuE",
-            "title": "David Letterman Prepares to Sign Off",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "mHFNuiGAPRE",
             "title": "Baltimore Protests Spread to New York, Boston",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Cargo Ship in Space Hurtles Toward Earth",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "j6n9WrZ1JSU",
+            "title": "2015 Teacher of the Year Honored at White House",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

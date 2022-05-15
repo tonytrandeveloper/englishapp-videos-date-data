@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GMAQc2xqBlI",
-            "title": "Swing State Outlook for 2012 Presidential Election; 'This Week' Roundtable Discussion",
-            "secondDuration": 1209,
-            "group": "group_7"
-        },
-        {
             "videoId": "LHl7HMb95YE",
             "title": "2012 Presidential Election, State of The Race; 'This Week' Roundtable Discussion",
             "secondDuration": 432,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sandy Aftermath: Life or Death Rescue of Trapped Appalachian Hiker Caught on Video",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "h1vn9h8TlPs",
+            "title": "Hurricane Sandy Aftermath: New York, New Jersey Await Emergency Gas Shipment",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

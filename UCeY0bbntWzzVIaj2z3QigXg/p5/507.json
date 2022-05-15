@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yDWCJ1eiRbE",
-            "title": "Nightly News Full Broadcast - Jan. 5",
-            "secondDuration": 1287,
-            "group": "group_7"
-        },
-        {
             "videoId": "DoMEcEvwQZs",
             "title": "Novak Djokovic Visa Rejected In Australia Amid Vaccine Exemption Dispute",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Inside The FBI’s January 6 Investigation",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "thh4djlh1fM",
+            "title": "Hallie Jackson NOW Full Episode – Jan. 5 | NBC News NOW",
+            "secondDuration": 3212,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

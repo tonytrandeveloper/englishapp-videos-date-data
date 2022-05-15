@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CHRBcL_5lCw",
-            "title": "Interview With Pastor Tim Keller",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "XkuJn-jbbw4",
             "title": "Gas Price Spikes",
             "secondDuration": 300,
@@ -121,8 +115,14 @@
             "title": "Singing with Reese Witherspoon",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpZltTVfHno",
+            "title": "Reese Witherspoon's Oscar",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

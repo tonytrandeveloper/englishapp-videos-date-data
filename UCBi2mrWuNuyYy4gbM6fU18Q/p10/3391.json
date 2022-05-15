@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t6vlO0o461g",
-            "title": "Plane Crashes Into Arizona Home",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "QhAp_hnhe-g",
             "title": "Minnesota Mall Attack | ISIS Claims to Have Inspired",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "New York City Explosion | Candidates React",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "DIvUAI4c1t0",
+            "title": "NYC Explosion Rocks Chelsea Neighborhood",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

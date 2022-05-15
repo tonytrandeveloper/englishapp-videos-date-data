@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Q27esCbKAZo",
-            "title": "NBC News NOW Full Broadcast - April 6th, 2021 | NBC News NOW",
-            "secondDuration": 3140,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y4dibFGotMk",
             "title": "Use Of Force Policies A Focus In Chauvin Trial | NBC Nightly News",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Former Obama Policing Task Force Member Weighs In On Chauvin Trial | NBC News NOW",
             "secondDuration": 391,
             "group": "group_7"
+        },
+        {
+            "videoId": "F1bJSh3AMi0",
+            "title": "Human Smugglers Use Facebook To Connect With Migrants Seeking Refuge In U.S. | NBC News NOW",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

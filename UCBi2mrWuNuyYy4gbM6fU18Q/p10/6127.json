@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CHRBcL_5lCw",
-            "title": "Interview With Pastor Tim Keller",
-            "secondDuration": 419,
-            "group": "group_7"
-        },
-        {
             "videoId": "XkuJn-jbbw4",
             "title": "Gas Price Spikes",
             "secondDuration": 300,
@@ -61,8 +55,14 @@
             "title": "Gerry Connolly: Middle Class Tax Cuts On The Table",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "a6Xy0cmJ16E",
+            "title": "Nissan Leaf the Solution to Gas Crisis?",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

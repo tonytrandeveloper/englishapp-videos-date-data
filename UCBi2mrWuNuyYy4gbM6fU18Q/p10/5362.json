@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0dx2EliGKz0",
-            "title": "New Medical Study Links Aspirin to Vision Loss",
-            "secondDuration": 87,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cneu7aZ2ul4",
             "title": "Phony Food on the Rise: Learn How to Spot Counterfeit Food",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "World News Now Says Farewell to Paula Faris",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "pziBaToTKVQ",
+            "title": "Inauguration 2013: Obamas Attend 2 Balls",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

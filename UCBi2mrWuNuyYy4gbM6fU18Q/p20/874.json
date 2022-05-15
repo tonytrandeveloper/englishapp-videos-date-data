@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PkbD8CcmToY",
-            "title": "Kamala Harris talks abuse of power post-Democratic debate l ABC News",
-            "secondDuration": 327,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTkKshvn-Vs",
             "title": "Andrew Yang talks Republicans and impeachment l ABC News",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Ambassador to EU addressed withholding aid at briefing with Vice President Pence | ABC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "US0ovfkSqB0",
+            "title": "‘Very bad idea’ to withhold money from Ukraine: Ambassador to European Union | ABC News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ncdHiHlEwtE",
-            "title": "Thanksgiving 2011 Puerto Rican Style",
-            "secondDuration": 368,
-            "group": "group_7"
-        },
-        {
             "videoId": "9D7IzwDWU_U",
             "title": "Disney Ice Festival in Belgium",
             "secondDuration": 60,
@@ -301,8 +295,14 @@
             "title": "Marriage Regret Moving Mainstream",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "GjLsGi9T-00",
+            "title": "Regis Philbin's Last Show",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

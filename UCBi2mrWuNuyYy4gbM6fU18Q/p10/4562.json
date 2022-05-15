@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NQwDFfcA0hQ",
-            "title": "Steve Carell Plays Eccentric Wrestling Coach in 'Foxcatcher'",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "XugDXUW5z-Y",
             "title": "WEBCAST: Shoppers Begin Lining Up For Black Friday",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Sinkhole Strikes Back",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "N0WbrMn5UuU",
+            "title": "New Clues in Robin Williams’ Final Hours",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

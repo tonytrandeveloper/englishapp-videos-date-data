@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W3tNSorVFM4",
-            "title": "Exclusive: Scott Brown Interview (Part 2)",
-            "secondDuration": 464,
-            "group": "group_7"
-        },
-        {
             "videoId": "YlHv0mWTNH0",
             "title": "Exclusive: Scott Brown Interview (Part 1)",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Winter Storm Slams Southern U.S.",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "L9pLEuDt29M",
+            "title": "Tragic Twist",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

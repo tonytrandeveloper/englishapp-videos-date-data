@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PJ1BC0g_PbQ",
-            "title": "Former Drone Pilots Denounce 'Morally Outrageous’ Program | NBC News",
-            "secondDuration": 416,
-            "group": "group_7"
-        },
-        {
             "videoId": "BGb1_q8YubA",
             "title": "Richard Branson On Capitalism Impacting Climate Change | NBC News",
             "secondDuration": 72,
@@ -31,8 +25,14 @@
             "title": "Victims of Mass Shootings Honored as Americans Adjust to New Reality | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "TOKhQL6Mtkc",
+            "title": "FBI: San Bernardino Mass Shooting Now a Terrorism Investigation | NBC Nightly News",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

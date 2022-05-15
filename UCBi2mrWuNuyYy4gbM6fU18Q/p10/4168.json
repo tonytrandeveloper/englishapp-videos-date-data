@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V9DKIXUvttM",
-            "title": "Al Gore May Launch 2016 Presidential Bid | ABC News",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "UdkKPP3bbLQ",
             "title": "Flight Attendant With Flair | ABC News",
             "secondDuration": 184,
@@ -61,8 +55,14 @@
             "title": "Index: New Clue in the Little Girl 'Baby Doe' Case Who Was Found on the Shoreline in Boston",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "q6ovC1mZ9-Y",
+            "title": "Urgent Search for Survivors After Powerful Deadly Explosions in China",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

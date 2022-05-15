@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FFVM-jB-IIM",
-            "title": "Police release new body-camera footage from Orlando shooting",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "BOuFiNWNYRI",
             "title": "Former FBI director James Comey to testify on Capitol Hill",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Lebron James is the target of a possible hate crime",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "FUsYRcaBNDM",
+            "title": "Scary incident on board a passenger plane right after takeoff from Melbourne, Australia",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

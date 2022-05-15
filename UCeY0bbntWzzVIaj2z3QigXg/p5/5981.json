@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Glf6xGqnGnw",
-            "title": "Passenger Jet Engine Bursts Into Flames After Landing In Denver | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "4AmgrDP1ZtI",
             "title": "Skiing On July 4th? It’s Possible On California’s Mammoth Mountain | NBC Nightly News",
             "secondDuration": 101,
@@ -31,8 +25,14 @@
             "title": "Iraqi PM Declares End Of ISIS ‘Caliphate’ In Iraq As Mosul Falls | NBC Nightly News",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "JXmh5hPceoo",
+            "title": "Many States Refusing Donald Trump Admin. Request For Extensive Voter Data | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

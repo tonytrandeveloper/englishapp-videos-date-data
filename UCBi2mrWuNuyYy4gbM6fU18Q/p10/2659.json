@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LtNSJN_fQZw",
-            "title": "Crunch time for holiday shoppers",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "8YElmtznDEU",
             "title": "New security precautions in effect for holiday season",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Trump, GOP celebrate $1.5 trillion tax overhaul",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "7UE9jAJFwgc",
+            "title": "'Deliberate' car ramming injures 19 in Australia",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

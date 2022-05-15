@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "P8rBiz6XWeo",
-            "title": "Howard Dean Praises Hillary's Ability to 'Get It Done'  | ABC News",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "4GaaDiAwa6Y",
             "title": "'Mothers of the Movement' Plead With the DNC to 'Save Our Children' | ABC News",
             "secondDuration": 808,
@@ -61,8 +55,14 @@
             "title": "Michelle Obama Fact-Checked: White House 'Was Built by Slaves'",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "-NJsutnyqOM",
+            "title": "Democratic National Convention | Stars at the DNC",
+            "secondDuration": 309,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

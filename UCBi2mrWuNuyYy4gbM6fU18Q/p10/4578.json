@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KW-dJdhhKL8",
-            "title": "Lava Flows Into Hawaiian Town, Burning at Least 1 Building",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "pSNMnW4kRQI",
             "title": "Quarantined Ebola Nurse Kaci Hickox 'Will Go to Court'",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Private Contractor Rocket Explodes After Takeoff",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "E7SKBqbtTcU",
+            "title": "Melissa Rivers Retains Powerhouse Attorneys After Death of Her Mother",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GRzKJO2nSwg",
-            "title": "Donald Trump's Softer Side",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "cVVnIpDga7I",
             "title": "Bernie Sanders Closing in on Hillary Clinton in Ohio",
             "secondDuration": 233,
@@ -301,8 +295,14 @@
             "title": "Cops Save Man From Burning Car [DASH CAM VIDEO]",
             "secondDuration": 57,
             "group": "group_7"
+        },
+        {
+            "videoId": "uDaak7iymRo",
+            "title": "Rescued Chimp Won't Stop Holding Hands With New Friend",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

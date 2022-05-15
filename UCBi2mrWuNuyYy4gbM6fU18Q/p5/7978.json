@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FZjCFRlaJEg",
-            "title": "Deadly Tornadoes in Texas | ABC News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "7jd9-cNucqo",
             "title": "Authorities Close in on the Catt Family Robbers: Part 2 | ABC News",
             "secondDuration": 396,
@@ -31,8 +25,14 @@
             "title": "Christmas Cooking With Emeril Lagasse",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "Je5E3WnVFyY",
+            "title": "Remembering the Reason for the Christmas Season",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

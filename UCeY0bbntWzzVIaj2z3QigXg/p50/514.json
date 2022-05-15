@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "IdxlKCoKSjI",
-            "title": "Gas Prices On The Rise, Distressing Drivers | NBC Nightly News",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "gcpyNecYzaU",
             "title": "FAA Orders Emergency Inspections After Southwest Engine Explosion | NBC Nightly News",
             "secondDuration": 134,
@@ -301,8 +295,14 @@
             "title": "New Zealand Prime Minister Serves As Role Model To Working Mothers | NBC Nightly News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "jipOHCRVZdU",
+            "title": "Nationwide Hunt For Grandmother Accused Of Two Murders | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

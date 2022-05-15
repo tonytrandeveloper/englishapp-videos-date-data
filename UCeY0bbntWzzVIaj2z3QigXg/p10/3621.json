@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t9_er_h_wI8",
-            "title": "Computers Teach Themselves to Play Pac-Man | Nerdwatch | NBC News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "LMc2TNtUaz8",
             "title": "Do Mammograms Save Lives? | Debunker | NBC News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Salty Truths About Sodium | Debunker | NBC News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "qEhBEZYB6ck",
+            "title": "Nelson Mandela's 1994 Inauguration | Flashback | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4KGHlxUOne0",
-            "title": "Wall Street Rollercoaster",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "r6v2MDz6hxM",
             "title": "Nashville Flood Destroys Music History",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Ole: Nightlines Cinco de Mayo Platelist",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "jADWZrBTTzg",
+            "title": "Private Umbilical Cord Blood Banking",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

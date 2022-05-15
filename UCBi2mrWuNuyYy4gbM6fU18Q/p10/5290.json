@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5SYikFxQJRo",
-            "title": "Real Money: Cut Costs on Medical Expenses",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "4wzOx3Fhf2E",
             "title": "Mediterranean Diet Could Help Reduce Heart Disease",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Oscars 2013: Seth MacFarlane's Best & Worst Moments",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "PrLZCZD6wwE",
+            "title": "WEBCAST: The 85th Oscars Wrap Up",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

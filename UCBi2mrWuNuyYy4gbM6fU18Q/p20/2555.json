@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yzPFWoUmiBI",
-            "title": "WEBCAST: ABC News Exclusive: Speaking Out",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "ks1zd6zrZSc",
             "title": "Man's Best Friend Gets TV Station",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "'This Week' Web Extra: Mark Leibovich Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 302,
             "group": "group_7"
+        },
+        {
+            "videoId": "W9hJN9s92kA",
+            "title": "'This Week' Report on George Zimmerman Verdict: Found Not Guilty in Trayvon Martin Case",
+            "secondDuration": 531,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

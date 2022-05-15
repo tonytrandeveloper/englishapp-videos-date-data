@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qXOTpOjgWvY",
-            "title": "Joe Biden Holds A Virtual Briefing On COVID-19 | NBC News (Live Stream Recording)",
-            "secondDuration": 5169,
-            "group": "group_7"
-        },
-        {
             "videoId": "vZF4bSwN99M",
             "title": "What COVID-19 School Closures Mean For Families With Special Needs Kids | Think | NBC News",
             "secondDuration": 241,
@@ -31,8 +25,14 @@
             "title": "How Countries Around The World Are Working To Flatten The Curve | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "fRIgJBm9L6k",
+            "title": "Doctor Describes His Experience Getting Tested For COVID-19 | NBC News NOW",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

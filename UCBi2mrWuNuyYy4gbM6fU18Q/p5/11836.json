@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "B1eM49NEkMY",
-            "title": "Cruise Ship Wreck: New Details on Captain",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "ma9ysdY30XU",
             "title": "Paula Deen Breaks Silence on Diabetes",
             "secondDuration": 163,
@@ -31,8 +25,14 @@
             "title": "Zappos.com Hacked, 24 Million Customers Personal Data Now at Risk",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "gPb3eFO4CSE",
+            "title": "South Carolina Debate: Opponents Gang Up on Romney, Ron Paul Booed, Gingrich Applauded",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RUIF2yuHnUI",
-            "title": "White House update on spending bill | ABC News",
-            "secondDuration": 1213,
-            "group": "group_7"
-        },
-        {
             "videoId": "2l_7veHc_cE",
             "title": "Marjory Stoneman Douglas students attend #NeverAgain rally | ABC News",
             "secondDuration": 2609,
@@ -61,8 +55,14 @@
             "title": "Mueller team zeroing in on political consulting firm with Trump ties: Sources",
             "secondDuration": 240,
             "group": "group_7"
+        },
+        {
+            "videoId": "AuEm_hNXk80",
+            "title": "Sources: Former FBI deputy director had launched a criminal probe into Sessions",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

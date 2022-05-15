@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iQr9oy0Qsp0",
-            "title": "Obamas Campaign for Hillary Clinton in Cleveland",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "pUgs9WfHsFM",
             "title": "High School Runner Helps Fellow Runner Finish at Meet",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Sarah Michelle Gellar From Buffy to Boss | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 701,
             "group": "group_7"
+        },
+        {
+            "videoId": "qyDmv-cdQik",
+            "title": "Boston Police Shooting | Officers in 'Extremely Critical' Condition",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

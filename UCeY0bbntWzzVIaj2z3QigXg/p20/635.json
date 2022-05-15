@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9grk714YbXc",
-            "title": "Watch NBC News NOW Live - July 13",
-            "secondDuration": 42901,
-            "group": "group_7"
-        },
-        {
             "videoId": "202gq_1r1Vw",
             "title": "Monkey Business: How COVID-19 Impacted Local Species In Thailand | NBC News NOW",
             "secondDuration": 573,
@@ -121,8 +115,14 @@
             "title": "Father-Daughter Ballet Class Goes Virtual | NBC Nightly News",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZtusbEZKE_M",
+            "title": "White House Officials Working To Undermine Fauci’s Credibility | NBC Nightly News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

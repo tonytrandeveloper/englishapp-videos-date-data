@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ut3bwGFLecI",
-            "title": "WEBCAST: Mandela Remembered",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZZ2QHqJjrRk",
             "title": "In Case You Missed It: 12/06/2013",
             "secondDuration": 207,
@@ -301,8 +295,14 @@
             "title": "Black Boxes Found in Deadly NYC Train Derailment",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "5JDGO3AsTFs",
+            "title": "WEBCAST: Electronics Research Turns Into Giant Rubik's Cube",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

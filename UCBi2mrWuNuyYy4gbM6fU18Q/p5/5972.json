@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x9rQKDba2KM",
-            "title": "Fox News faces lawsuits from 3 women claiming racial discrimination",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "HXNij1bqWZ0",
             "title": "Deadly chemical attack in Syria kills dozens",
             "secondDuration": 242,
@@ -31,8 +25,14 @@
             "title": "Corporate lawyer killed in shooting in Atlanta, suspect arrested",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "IkK2zMTnQYI",
+            "title": "High school junior takes his 93-year-old grandmother to prom",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

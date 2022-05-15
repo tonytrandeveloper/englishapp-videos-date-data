@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IGB3O2cKAa0",
-            "title": "Mother's Intuition: Last Link to Dying Soldier",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "xdI4LpfMVCE",
             "title": "God vs. Atheism in Battle of the Billboards",
             "secondDuration": 139,
@@ -121,8 +115,14 @@
             "title": "The 'Count Down to Zero' Nuclear Arms",
             "secondDuration": 697,
             "group": "group_7"
+        },
+        {
+            "videoId": "_gw809okiUk",
+            "title": "Teen With Cancer Checks Off Bucket List",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

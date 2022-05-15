@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "CAvAdOgVFzM",
-            "title": "Famous Iowa Septuplets Graduate From High School",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "5awpTe0zp2c",
             "title": "Muslim Kids Read Letters From Japanese Internment Camps",
             "secondDuration": 161,
@@ -301,8 +295,14 @@
             "title": "White House on Lockdown After Report of Shooting Nearby",
             "secondDuration": 61,
             "group": "group_7"
+        },
+        {
+            "videoId": "9-zNFtShNpw",
+            "title": "Evolution of the Watch | From the Sundial to the Smartwatch",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

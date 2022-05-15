@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e3TJJt9sebo",
-            "title": "Andrew Yang On Growing Up Asian American, Being ‘Bullied’ With Racial Slurs | NBC News",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "uhGP4ruf6Ls",
             "title": "Watch live: Trump presents Medal of Valor to Dayton officers who stopped mass shooter",
             "secondDuration": 1455,
@@ -61,8 +55,14 @@
             "title": "Election Maps Show 'Middle Ground' Communities Are Disappearing | Meet The Press | NBC News",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "Bu1KgFwt8NU",
+            "title": "MTP Compressed: Pres. Trump’s Credibility In Question As Congress Returns | Meet The Press",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

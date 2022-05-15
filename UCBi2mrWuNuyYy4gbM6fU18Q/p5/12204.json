@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qex83oZDXME",
-            "title": "Tornadoes Kill at least 12 More in Midwest, Storm Chasers' Videos Reveal Destruction",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "F5AuexvMxGg",
             "title": "'Dancing With the Stars' Finalists Perform on 'GMA': Chelsea Kane and Mark Ballas' Samba",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Tornadoes in America's Heartland",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "IWQcQiXKmCQ",
+            "title": "Joplin, Missouri, Searches for Survivors",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

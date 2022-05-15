@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TPw02Z7gHag",
-            "title": "President Trump unveils his 2020 election slogan, 'Keep America great.'",
-            "secondDuration": 394,
-            "group": "group_7"
-        },
-        {
             "videoId": "jgUCybcKeHc",
             "title": "Hidden camera captures a Michigan nursing home employee allegedly abusing a resident",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "20/20 Mar 9 Part 2: Adopted twins were separated and then part of a secret study",
             "secondDuration": 435,
             "group": "group_7"
+        },
+        {
+            "videoId": "Aou11qo50mg",
+            "title": "20/20 Mar 9 Part 1: Separated at birth: Adults learn they have long-lost identical twins",
+            "secondDuration": 387,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

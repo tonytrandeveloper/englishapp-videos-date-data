@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "N_6CohWX6KM",
-            "title": "Devastated By The Opioid Epidemic, Residents Of This Ohio City | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "5YDt5P91GS8",
             "title": "22-Year-Old ‘America’s Got Talent’ Winner Headlining Six Vegas Shows | NBC Nightly News",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "Baby Of Heidi Broussard, Murdered Texas Mom, Returned To Father | NBC Nightly News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "oShUWwIvSRU",
+            "title": "New Questions Over Controversial Pardons Issued By Matt Bevin | NBC Nightly News",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

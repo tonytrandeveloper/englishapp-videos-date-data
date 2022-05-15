@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0aVlBIJkDQ0",
-            "title": "Airport security questions raised after man crashes plane near Seattle",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHGslihnFro",
             "title": "Raging wildfires continue to blaze across the West",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "Political candidate accused of doctoring her college degree",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "ACd8MqpR6us",
+            "title": "Counterprotesters overwhelm 'Unite the Right' rally",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

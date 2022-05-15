@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U4uP16YFx0A",
-            "title": "Webcast: Eric LeGrand Honored by Buccaneers",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "6jzmffTL9-A",
             "title": "Junior Seau Dead in Apparent Suicide",
             "secondDuration": 189,
@@ -31,8 +25,14 @@
             "title": "Are Airbrushed Ads Dangerous?",
             "secondDuration": 350,
             "group": "group_7"
+        },
+        {
+            "videoId": "mxK5MafuNWs",
+            "title": "Junior Seau Found Dead: Did Concussion Play Role in Former NFL Players Apparent Suicide?",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

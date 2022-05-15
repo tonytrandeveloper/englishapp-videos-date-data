@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VDneqowrn60",
-            "title": "Jeff Sessions to Sally Yates in 2015: ‘You Need to Say No’ to the President | ABC News",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "iQsUv8rlWD8",
             "title": "Man Survives 70-Foot Fall Down Cliff in Car | ABC News",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "The Bachelor Week 5 Highlights | ABC News",
             "secondDuration": 251,
             "group": "group_7"
+        },
+        {
+            "videoId": "ru6CDnQ36W0",
+            "title": "Obama, Other World Leaders Oppose Trump Travel Ban",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

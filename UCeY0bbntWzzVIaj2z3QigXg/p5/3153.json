@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WUpfdQCclTA",
-            "title": "Jet Makes Fiery Landing At Daytona Beach Airport | NBC Nightly News",
-            "secondDuration": 69,
-            "group": "group_7"
-        },
-        {
             "videoId": "3OHZViRm-Eo",
             "title": "Trump Says Roger Stone Has A ‘Very Good Change Of Exoneration’ | NBC Nightly News",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "Will President Donald Trump Pardon Roger Stone After Prison Sentence? | NBC News",
             "secondDuration": 259,
             "group": "group_7"
+        },
+        {
+            "videoId": "xnMsbNgTlEM",
+            "title": "Harry Reid: Iowa And New Hampshire 'Have Done So Much Damage' | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

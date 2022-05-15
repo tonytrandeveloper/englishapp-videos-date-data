@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lD_pKHrp4Ng",
-            "title": "Robin Leach Dead, Hosted 'Lifestyles Of The Rich And Famous' | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZNMX_CGah0",
             "title": "Airstrike Kills Dozens In Yemen, Including Children | NBC News",
             "secondDuration": 56,
@@ -61,8 +55,14 @@
             "title": "Rep. Duncan Hunter In Court After Indictment For Alleged Misuse Of Campaign Funds | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "MrLvGq69Qgo",
+            "title": "Hawaii Residents Brace For Hurricane Lane | NBC Nightly News",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CqUUzmbvmeg",
-            "title": "Biden: Climate Change ’Not A Partisan Phenomenon, Its Science’ | NBC News NOW",
-            "secondDuration": 535,
-            "group": "group_7"
-        },
-        {
             "videoId": "pJ-IontWrm8",
             "title": "One-On-One With Lt. Col. Alexander Vindman | NBC Nightly News",
             "secondDuration": 234,
@@ -61,8 +55,14 @@
             "title": "Joe Biden Calls Trump A 'Climate Arsonist' In Speech Addressing Climate Change | NBC News NOW",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "bYnxJXiYdgM",
+            "title": "Biden Delivers Remarks On West Coast Wildfires | NBC News",
+            "secondDuration": 1411,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

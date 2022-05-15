@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "JgsG7KvJUT4",
-            "title": "Nightly News Full Broadcast - March 2",
-            "secondDuration": 1377,
-            "group": "group_7"
-        },
-        {
             "videoId": "N9syRGE51HE",
             "title": "Watch: Florida Governor Ron DeSantis Scolds Students For Wearing Masks",
             "secondDuration": 52,
@@ -61,8 +55,14 @@
             "title": "Black Students Allege Racism During Escape From Ukraine",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "juVRT68TJlk",
+            "title": "Police: Four Stabbed At Brooklyn Subway Station After Fight",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

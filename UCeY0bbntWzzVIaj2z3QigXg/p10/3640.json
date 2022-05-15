@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "shtHy20DKx8",
-            "title": "Dwight Howard: \"For student success, it takes...\"",
-            "secondDuration": 8,
-            "group": "group_7"
-        },
-        {
             "videoId": "7h1KPgNXhAc",
             "title": "Dr. Irwin Redener: \"For student success it takes...\"",
             "secondDuration": 32,
@@ -61,8 +55,14 @@
             "title": "Karyn Ruiz: \"For student success it takes...\"",
             "secondDuration": 20,
             "group": "group_7"
+        },
+        {
+            "videoId": "YQRe95-xaVw",
+            "title": "Christiane Leitinger: \"For student success it takes...\"",
+            "secondDuration": 21,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

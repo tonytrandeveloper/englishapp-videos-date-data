@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VewfNVrPdEE",
-            "title": "White House denies Trump's alleged comments on immigrants",
-            "secondDuration": 324,
-            "group": "group_7"
-        },
-        {
             "videoId": "IhpIy8zcE20",
             "title": "Miss America organization cleans house",
             "secondDuration": 147,
@@ -121,8 +115,14 @@
             "title": "How Kevin Spacey was replaced by Christopher Plummer in 'All the Money in the World'",
             "secondDuration": 374,
             "group": "group_7"
+        },
+        {
+            "videoId": "LtNSJN_fQZw",
+            "title": "Crunch time for holiday shoppers",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

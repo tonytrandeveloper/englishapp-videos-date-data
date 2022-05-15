@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4AVB_Ch6rmw",
-            "title": "2017 Nor’easter Winter Storm Stella Envelops New York’s Times Square | 360 Video | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "0Jbn_H3r15c",
             "title": "Why The Mystery And Magic Of Pi Keeps Us Fascinated | Mach | NBC News",
             "secondDuration": 84,
@@ -61,8 +55,14 @@
             "title": "SXSW 2017: Beauty Blogger Gabifresh Speaks Out On Fat Shaming | NBC BLK | NBC News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "DBD1MvHZ2mU",
+            "title": "CBO: New GOP Plan Would Leave 24 Million More Without Health Insurance | NBC Nightly News",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

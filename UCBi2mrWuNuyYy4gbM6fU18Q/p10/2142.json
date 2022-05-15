@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "E7rxaXhfMFs",
-            "title": "MLB CEO, wife 'deeply embarrassed' after public spat caught on video",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "sytWFc8ZxjI",
             "title": "Virginia school gives custodian warm welcome back after surgery",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Washington governor launches 2020 run",
             "secondDuration": 49,
             "group": "group_7"
+        },
+        {
+            "videoId": "uYYC1D3_5zk",
+            "title": "NY governor urges Amazon to reconsider HQ",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

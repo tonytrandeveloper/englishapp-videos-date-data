@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TjFi4EsvOBw",
-            "title": "Seven-Year-Old Sailor Gutzler’s Miraculous Survival After Plane Crash",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sao1-Na-xME",
             "title": "Princeton Grad Charged With Murder of Hedge Fund Founder",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Prince Andrew and Alan Dershowitz Deny Having Sex with Teen",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "K-JEX-crO6o",
+            "title": "Do You Google Your Ex? Why It May Be Normal",
+            "secondDuration": 230,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

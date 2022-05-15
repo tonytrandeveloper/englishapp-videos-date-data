@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fPNxOR8bZVk",
-            "title": "CBS board to meet as CEO faces sexual misconduct allegations",
-            "secondDuration": 392,
-            "group": "group_7"
-        },
-        {
             "videoId": "r906ikuszjA",
             "title": "Deadly California fire burns over 90,000 acres",
             "secondDuration": 299,
@@ -61,8 +55,14 @@
             "title": "Police gunned down suspect on the side of a freeway in Pennsylvania",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "4x7DxP2L4i0",
+            "title": "'Michael Cohen is on his own here,' but 'potentially has information': Dan Abrams",
+            "secondDuration": 551,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

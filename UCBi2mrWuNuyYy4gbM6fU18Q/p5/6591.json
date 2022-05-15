@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3QT0ZOCOw5w",
-            "title": "Burger King Trolls McDonalds for Halloween",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "TLezPE9VTrM",
             "title": "Governor Hickenlooper on Trump, Marijuana in Colorado | Election Cycle",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Emails Spark New Questions",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "z-SQi_WcuU0",
+            "title": "Rampaging Deer Has Diners Running",
+            "secondDuration": 44,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

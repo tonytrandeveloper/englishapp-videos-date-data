@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dTi9TGCD_jE",
-            "title": "Father of child killed in Sandy Hook massacre dies of apparent suicide",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "XRMFeoxK_rE",
             "title": "The Briefing Room: Mueller report, Netanyahu visits White House, 2020 hopeful Pete Buttigieg",
             "secondDuration": 1302,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Mueller report submitted, Netanyahu visits White House, college admissions scam",
             "secondDuration": 1813,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zo2Is3EVqKI",
+            "title": "Passenger describes being airlifted amid cruise ship scare",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

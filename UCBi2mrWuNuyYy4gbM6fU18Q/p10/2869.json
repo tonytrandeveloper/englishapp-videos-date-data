@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NvlTCSwphNg",
-            "title": "Sen. Ted Cruz on health care reform: 'I believe we can get it done'",
-            "secondDuration": 553,
-            "group": "group_7"
-        },
-        {
             "videoId": "oV2zEFOkAME",
             "title": "Government's top ethics watchdog on why he resigned",
             "secondDuration": 346,
@@ -61,8 +55,14 @@
             "title": "Littler brother's super hero",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "7rD1LFtc86Y",
+            "title": "Mixed messages after Trump-Putin meeting",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

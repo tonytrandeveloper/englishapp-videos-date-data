@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yzPFWoUmiBI",
-            "title": "WEBCAST: ABC News Exclusive: Speaking Out",
-            "secondDuration": 214,
-            "group": "group_7"
-        },
-        {
             "videoId": "ks1zd6zrZSc",
             "title": "Man's Best Friend Gets TV Station",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "George Zimmerman's Parents Exclusive Interview With Barbara Walters",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "rpCFoAH73Oc",
+            "title": "Twinkies Return to Store Shelves With a Vengeance",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

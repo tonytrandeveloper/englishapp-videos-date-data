@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kybRda6qK-w",
-            "title": "Libya Latest: Rebels Take Over Tripoli",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "0qafTqCuxKg",
             "title": "Interview with Jon Huntsman",
             "secondDuration": 689,
@@ -31,8 +25,14 @@
             "title": "Kim Kardashian Ties the Knot",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "XtE18pop7so",
+            "title": "Product Testing by Those Who Count",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M5sMva2ydoU",
-            "title": "Can Christianity and Science Coexist?",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "7EaJnFnizdY",
             "title": "Murder at the Museum",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "Sex Addicts' Dark World",
             "secondDuration": 504,
             "group": "group_7"
+        },
+        {
+            "videoId": "gKitE3PBAaA",
+            "title": "Britney and Bush... If You Know What I Mean",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

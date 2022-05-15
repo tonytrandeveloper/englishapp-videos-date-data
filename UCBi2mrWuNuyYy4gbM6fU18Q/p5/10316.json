@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cGLx3V4fKfs",
-            "title": "TV Anchors Seem to Despise Each Other",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "R1ZlbzsCtsY",
             "title": "WEBCAST: Transplant Ruling",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Superhero Window Washers",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "MOizImH4f0A",
+            "title": "Working Mom Controversy",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GS5kSYzi9CY",
-            "title": "Hillary Clinton: 'Talking About Energy' In Wikileaks Speech Comment | NBC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "_gs-TvfivFE",
             "title": "Hillary Clinton: ‘There's No Doubt That I Respect the 2nd Amendment’ | NBC News",
             "secondDuration": 54,
@@ -31,8 +25,14 @@
             "title": "Donald Trump: The Second Amendment Under 'Absolute Seige' | NBC News",
             "secondDuration": 46,
             "group": "group_7"
+        },
+        {
+            "videoId": "_8UJfRCW3vs",
+            "title": "What Lessons Are American Kids Learning From Contentious Election? | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

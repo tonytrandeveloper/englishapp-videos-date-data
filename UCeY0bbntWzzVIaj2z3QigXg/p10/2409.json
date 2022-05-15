@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YWEGGq6LAbQ",
-            "title": "President Donald Trump Revokes Former CIA Director Brennan’s Security Clearance | NBC Nightly News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "IRVmDr5SVZs",
             "title": "Footage Captures Horror Of Latest Kabul Suicide Blast | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Car Crashes Near Parliament In London ‘Terrorist Incident’ | NBC Nightly News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "wr64gIliGJ0",
+            "title": "Highway Bridge Collapses In Italy, Killing At Least 23 | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ju4MZtSWZjM",
-            "title": "Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 2063,
-            "group": "group_7"
-        },
-        {
             "videoId": "9x2M0usp3Ck",
             "title": "McConnell Says Bipartisan Agreement On Covid Relief 'Appears To Be Close At Hand' | NBC News NOW",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "FBI Foils Plot To Hijack Plane In Attack Targeting U.S. Skyscraper | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "MI2ke9iEaTE",
+            "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

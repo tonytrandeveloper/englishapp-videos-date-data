@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "gUEdSR7AR44",
-            "title": "North Korea Claims It Detonated a Hydrogen Bomb",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "bOdVSJbNrLY",
             "title": "Bristol Palin’s Ex-Fiancé Asks for Joint Custody of Baby Sailor",
             "secondDuration": 206,
@@ -301,8 +295,14 @@
             "title": "Search for Birth Mother | Adopted Daughter Meets Mom",
             "secondDuration": 471,
             "group": "group_7"
+        },
+        {
+            "videoId": "f0GcW5NCEUM",
+            "title": "Bill Cosby Speaks Out for the First Time Since Charged",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

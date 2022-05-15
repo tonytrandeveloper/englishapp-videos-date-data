@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ANZ4LThlJzY",
-            "title": "RAW: Deadly Earthquake Rattles China | NBC News",
-            "secondDuration": 43,
-            "group": "group_7"
-        },
-        {
             "videoId": "mtuoMCqnP7Q",
             "title": "Israel Pulls Troops Out Of Gaza | NBC News",
             "secondDuration": 235,
@@ -301,8 +295,14 @@
             "title": "Ukrainian Rebels Hand Over MH17 Black Boxes | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "_3_Bc5_32jc",
+            "title": "Kerry Defends Obama's Foreign Policy Record | NBC News",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

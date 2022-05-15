@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k3q5YXdWFx4",
-            "title": "Militants Take Control of Mosul",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "L2YcGAaAVng",
             "title": "Police Fatalities by Gunfire Increase 53 Percent",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Discusses the Possibility of Running for President",
             "secondDuration": 701,
             "group": "group_7"
+        },
+        {
+            "videoId": "cPls5MP5dps",
+            "title": "Hillary Clinton's Relationship With Obama",
+            "secondDuration": 413,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

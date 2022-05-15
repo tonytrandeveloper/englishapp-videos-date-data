@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jnXH7jTEFi8",
-            "title": "13-year-old goes on a game show and wins big",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "2umiirMHbe8",
             "title": "Intense stand-off between a man with a rifle and police in Oakland",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Rande Gerber | Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 1271,
             "group": "group_7"
+        },
+        {
+            "videoId": "QhM5TcmTqXw",
+            "title": "Shoplifting suspect drags Connecticut police officer with car",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

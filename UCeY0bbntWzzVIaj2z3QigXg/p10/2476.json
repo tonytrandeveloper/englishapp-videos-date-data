@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EpAgkEbnweQ",
-            "title": "James Lankford: 'Vast Majority' Of Migrants Coming For Economic Reasons | Meet The Press | NBC News",
-            "secondDuration": 595,
-            "group": "group_7"
-        },
-        {
             "videoId": "IYqVnhKGF-o",
             "title": "Sen. Angus King: 'We Had The Votes' For Border Wall (Full) | Meet The Press | NBC News",
             "secondDuration": 525,
@@ -61,8 +55,14 @@
             "title": "Nearly 2,000 Children Still In Limbo As Separated Parents Wait To Be Reunited | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "t0AKsxQ5pAY",
+            "title": "Biometric Scanning Now More Widely Available, Speeding Security Lines | NBC Nightly News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

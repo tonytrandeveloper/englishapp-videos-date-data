@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "08jk7bopL78",
-            "title": "Sneak peek of the arrival of the first vehicle for Slinky Dog Dash ride",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "KlR0giHWYUs",
             "title": "Joel Osteen explains decision to open Houston church after criticism",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Harvey slams eastern Texas with new floods",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "EKDKhgawrzE",
+            "title": "Volunteers answer Harvey victims' pleas for rescue",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

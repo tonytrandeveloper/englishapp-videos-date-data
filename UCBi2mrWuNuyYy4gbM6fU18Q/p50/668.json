@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "umzYjqlXnE8",
-            "title": "FBI Investigates Connecticut Plane Crash Mystery",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "wFO3aSFGEKs",
             "title": "Drink Beer For A Good Cause | ABC News",
             "secondDuration": 185,
@@ -301,8 +295,14 @@
             "title": "Woman Says She Found Boyfriend's Body Covered in Blood: Part 1",
             "secondDuration": 422,
             "group": "group_7"
+        },
+        {
+            "videoId": "I2u_GWXr5Aw",
+            "title": "Florida Streets Flooded After Hurricane Matthew Hits",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

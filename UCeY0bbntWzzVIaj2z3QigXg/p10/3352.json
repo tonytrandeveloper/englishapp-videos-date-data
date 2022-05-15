@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IVsEvwFyJlg",
-            "title": "Bernie Sanders Will Meet With Hillary Clinton Tuesday | Meet The Press | NBC News",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "VoAsU9ZdmGY",
             "title": "Police Search For Motive In Christina Grimmie Shooting | NBC News",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Goes After Donald Trump In Planned Parenthood Speech | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "3JVXRGgdNDg",
+            "title": "Philip Turns 95: 7 Interesting Facts About The Prince | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "t0AKsxQ5pAY",
-            "title": "Biometric Scanning Now More Widely Available, Speeding Security Lines | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "8myg0Q8kbKM",
             "title": "Trump Tells Republicans To Stop ‘Wasting Their Time’ On Immigration Legislation | NBC Nightly News",
             "secondDuration": 111,
@@ -121,8 +115,14 @@
             "title": "Let’s Be Honest: President Trump’s Executive Order Solves Almost Nothing | Think | NBC News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "8JcgtiOUj_I",
+            "title": "Fiery Torrent Of Fast-Moving Lava Flows From Hawaii's Kilauea | NBC News",
+            "secondDuration": 52,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZHelO4W3eEA",
-            "title": "David Gandy, Life as a Mega-Successful Male Model",
-            "secondDuration": 335,
-            "group": "group_7"
-        },
-        {
             "videoId": "rENTl5JKzlQ",
             "title": "Obama on Prism, Phone Spying Controversy: \"No One Is Listening To Your Phone Calls\"",
             "secondDuration": 545,
@@ -121,8 +115,14 @@
             "title": "Mom Caves to Daughter's Desire for a 'Fauxhawk,' Mommy-Blog Outrage Ensues",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "_2g6arpywTk",
+            "title": "WEBCAST: Rescued From the Rubble",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

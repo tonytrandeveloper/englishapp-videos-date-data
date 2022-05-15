@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4fuVlh-l32g",
-            "title": "France, Germany and Italy Record Highest Case Numbers In Months | NBC Nightly News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "zNNZbtsR194",
             "title": "U.S. Surge Sees 50,000 New Daily Covid-19 Cases | NBC Nightly News",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Trump Holds First In-Person Event Since Coronavirus Diagnosis | NBC News",
             "secondDuration": 1240,
             "group": "group_7"
+        },
+        {
+            "videoId": "qccdNhBfum0",
+            "title": "Spotting The Difference Between Poll Watching And Potential Voter Intimidation | NBC News NOW",
+            "secondDuration": 327,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

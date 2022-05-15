@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v8atgovmCpo",
-            "title": "Cracked Memphis Bridge Causing Major Traffic",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "TSa8KbDdDeU",
             "title": "Israel-Hamas Aerial Attacks Escalate Ahead Of Potential Ground Invasion",
             "secondDuration": 148,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: May 14 | NBC News",
             "secondDuration": 3091,
             "group": "group_7"
+        },
+        {
+            "videoId": "5zJTQFrvCoo",
+            "title": "Morning News NOW Full Broadcast - May 14 | NBC News NOW",
+            "secondDuration": 3101,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

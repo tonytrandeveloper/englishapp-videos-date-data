@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W8NkiGerjKs",
-            "title": "Live: NJ Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 5199,
-            "group": "group_7"
-        },
-        {
             "videoId": "mz-aep91l8U",
             "title": "Life Inside Germany As National Lockdown Is Extended | NBC News NOW",
             "secondDuration": 170,
@@ -31,8 +25,14 @@
             "title": "NYC Mayor Bill de Blasio Holds Coronavirus Briefing | NBC News",
             "secondDuration": 5517,
             "group": "group_7"
+        },
+        {
+            "videoId": "h_X3-PT7Z7g",
+            "title": "New York Mayor de Blasio Calls On Trump To 'Help Us Back On Our Feet' | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

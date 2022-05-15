@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "L3YYIOCY5j4",
-            "title": "Troops Come Home, Gadhafi's Last Fight",
-            "secondDuration": 380,
-            "group": "group_7"
-        },
-        {
             "videoId": "O-XziJo4Ttc",
             "title": "Madoff Family Secrets: Stephanie's Story",
             "secondDuration": 471,
@@ -121,8 +115,14 @@
             "title": "Moammar Gadhafi Captured in Libya; Rebels in Sirte Claim Libyan Leader Killed",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "tgL8l_O90ag",
+            "title": "Cops Kill Loose Lions, Tigers",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

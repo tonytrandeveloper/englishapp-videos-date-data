@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fqjnM_tWkxI",
-            "title": "‘A Dark Day For Journalism’: Wikileaks Editor-In-Chief On Julian Assange Arrest | NBC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "SCkqWZQt3Nw",
             "title": "Watch Live: Press Conference Following Julian Assange Court Appearance | NBC News",
             "secondDuration": 5249,
@@ -61,8 +55,14 @@
             "title": "Rep. Maxine Waters, Steven Mnuchin Have Heated Exchange During Hearing | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "c_IpcmcvwKE",
+            "title": "See A Black Hole For The First Time In Image Captured By Earth-Size Telescope | Mach | NBC News",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

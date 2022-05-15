@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-4LyQKf6rsM",
-            "title": "After Winning High School Baseball Game, Player Hugs Friend On Opposing Team | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "ubDUzv1PKgo",
             "title": "North Korea Summit: What Comes Next? | NBC Nightly News",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "President Trump Praises 'Talented' Kim Jong Un, Takes Another Swipe At Justin Trudeau | NBC News",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "4akFLFq3b-g",
+            "title": "President Donald Trump Holds Press Conference After Summit With Kim Jong Un | NBC News",
+            "secondDuration": 5028,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

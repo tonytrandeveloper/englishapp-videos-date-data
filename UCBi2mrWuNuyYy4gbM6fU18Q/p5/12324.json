@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4xWr2X9bSfc",
-            "title": "Interview With Sen. John McCain",
-            "secondDuration": 475,
-            "group": "group_7"
-        },
-        {
             "videoId": "LjoVsB2VrLg",
             "title": "Recreating a Scene From Disney's 'Up'",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Family Dog Saved by First Responders",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "dCDEob5MUgw",
+            "title": "Looks You Can Take to the Bank",
+            "secondDuration": 232,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YK468IxNoBM",
-            "title": "Jake Tapper on Sarah Palin's Fox Debut",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "QlSeXZWm1yk",
             "title": "'GMA's' Morning Mix: TV and Bonuses",
             "secondDuration": 453,
@@ -31,8 +25,14 @@
             "title": "A Soldier's Sacrifice",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEFXRgguhZ8",
+            "title": "Obama's Bank Tax",
+            "secondDuration": 189,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

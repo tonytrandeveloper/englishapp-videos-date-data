@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "91XMA6M5u0Q",
-            "title": "U.S. Uses Naval Exercise as Warning to Iran",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "-MMwapnicw0",
             "title": "Did Mitt Romney Fundraising Video Cost Hispanic Votes?",
             "secondDuration": 135,
@@ -61,8 +55,14 @@
             "title": "Emmy's Countdown: 'Mad Men,' 'Game of Thrones' and 'Modern Family' Spoofed on 'GMA'",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "8c2x467FrVI",
+            "title": "WEBCAST: Chicago Teachers End Strike",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

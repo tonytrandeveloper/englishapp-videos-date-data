@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "O232HO98Prc",
-            "title": "NBC Nightly News Broadcast (Full) - June 30th, 2021",
-            "secondDuration": 1179,
-            "group": "group_7"
-        },
-        {
             "videoId": "OWtJ05tDkn8",
             "title": "Delta Covid-19 Variant Cases Now Confirmed In All 50 States",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – July 1 | Morning News NOW",
             "secondDuration": 1270,
             "group": "group_7"
+        },
+        {
+            "videoId": "SACkA6Qwm6o",
+            "title": "Facebook Message Leads To Warrant in 2013 College Rape Case",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

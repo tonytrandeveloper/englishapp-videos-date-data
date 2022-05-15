@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "o4vxF-8Z7f4",
-            "title": "TV Anchor's Murder Trial Begins",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "Th28vB2VxwY",
             "title": "Top Line: The First Marriage: Michelle and Obama",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Top Line: Va. Gov Elections and Contractor Abuse Bill",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Ke686VAh10",
+            "title": "Midterm Election Madness",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

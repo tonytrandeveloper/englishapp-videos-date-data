@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Uo4Bt3QhqPE",
-            "title": "Super Bowl 2012: Betting in Las Vegas, New York Giants vs. New England Patriots",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "DuZDyGjUYHM",
             "title": "Securing Super Bowl 2012",
             "secondDuration": 313,
@@ -61,8 +55,14 @@
             "title": "Super Bowl Commercials 2012: Kim Kardashian's Sketcher Replacement, Mr. Quiggly, Visits 'GMA'",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "3kY2B0zC-D4",
+            "title": "Webcast: Weather Update; Plane Porn?",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

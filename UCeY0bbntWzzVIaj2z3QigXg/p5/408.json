@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7cfb32OEW50",
-            "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 27 | NBC News NOW",
-            "secondDuration": 3070,
-            "group": "group_7"
-        },
-        {
             "videoId": "4RhQlQd4vmM",
             "title": "Michael Avenatti Cross-Examines Former Client Stormy Daniels",
             "secondDuration": 165,
@@ -31,8 +25,14 @@
             "title": "Coast Guard Calls Off Search For Survivors Of Capsized Boat Near Florida Coast",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ybv8gYNPps",
+            "title": "Family Demands Answers After No Arrests Made In The Shooting Of A Black Man",
+            "secondDuration": 216,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "iI3oiJdKkG0",
-            "title": "This Police Offers Brings Superheroes To Life For Sick Children | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "YGzZdO9iMRk",
             "title": "Teacher Speaks Out After Removal From Meeting In Handcuffs | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "Aerials Show Montecito Devastation After Mudslides | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "CC_lBkIzpQ4",
+            "title": "Donald Trump Says An Interview With Special Counsel Robert Mueller ‘Seems Unlikely’ | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "wxOwymYMUhU",
-            "title": "Trump offers vague threat against North Korea",
-            "secondDuration": 426,
-            "group": "group_7"
-        },
-        {
             "videoId": "FijutZQTy5M",
             "title": "Vice President Mike Pence visits Las Vegas",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Trump administration rolls back birth control mandate",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "bnSgWQDkYxE",
+            "title": "Gulf Coast braces for landfall of Hurricane Nate",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

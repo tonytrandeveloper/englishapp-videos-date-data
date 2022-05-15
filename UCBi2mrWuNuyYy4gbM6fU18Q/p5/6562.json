@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "auGwgM_ns5c",
-            "title": "Alabama Pipeline Explosion Raises Fears of High Gas Prices",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "L6mBZSQdGCE",
             "title": "Lil Wayne on Black Lives Matter | FULL INTERVIEW | Nightline",
             "secondDuration": 374,
@@ -31,8 +25,14 @@
             "title": "Janet Jackson to Name Baby after Late Brothers",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRiuJFj7v6Y",
+            "title": "Deadly Alabama Gasline Explosion",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

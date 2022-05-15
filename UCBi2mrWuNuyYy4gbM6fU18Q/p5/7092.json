@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9cvgl8gUuqQ",
-            "title": "Nice Attack | Witness Describes Mayhem",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "c8tpOOInMzU",
             "title": "Nice Attack | American Eyewitness Describes Chaos",
             "secondDuration": 210,
@@ -31,8 +25,14 @@
             "title": "Nice Attack | 2 Americans Killed, Death Toll Rises to 84",
             "secondDuration": 248,
             "group": "group_7"
+        },
+        {
+            "videoId": "MATyNrquxAc",
+            "title": "Police and Drivers on Edge at Traffic Stops",
+            "secondDuration": 509,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

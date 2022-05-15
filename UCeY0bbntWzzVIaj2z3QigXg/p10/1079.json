@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Xf-GSuDrMmE",
-            "title": "Trump Closes Debate With What He would Say To Those Who Did Not Vote For Him | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIbrBk9b1Hg",
             "title": "Trump Says Biden Would ‘Destroy’ Oil Industry | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Trump Says Son Barron's Covid Illness 'Just Went Away' | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "UCA1A5GqCdQ",
+            "title": "Final 2020 Presidential Debate Between Donald Trump, Joe Biden | NBC News",
+            "secondDuration": 7173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NBUKdQIURK8",
-            "title": "Trump criticized for delayed response to Charlottesville protests",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "xcAYT5KVSh4",
             "title": "Tensions mount between the US and North Korea",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Trump: 'the hate and the division must stop'",
             "secondDuration": 659,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y3_72kSnevM",
+            "title": "Violence erupts at white nationalist rally in Charlottesville, Va.",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

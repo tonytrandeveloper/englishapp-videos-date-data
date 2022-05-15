@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mP73upHD6OY",
-            "title": "Hillary Clinton: We Must Repudiate 'Bigotry' Of Donald Trump, Ted Cruz | NBC News",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "nCgoQJsy-0o",
             "title": "'Affluenza' Teen Ethan Couch To Remain In Jail For 720 Days | NBC News",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Donald Trump's Convention Manager Paul Manafort (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 400,
             "group": "group_7"
+        },
+        {
+            "videoId": "9EDZaaZOdkA",
+            "title": "Bernie Sanders On Delegate Math, Hillary Clinton (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

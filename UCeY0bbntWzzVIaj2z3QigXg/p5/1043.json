@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TyLt55k9e6g",
-            "title": "Relatives Concerned Over Rising Covid Cases At Nursing Homes",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "pwzyd2THhDY",
             "title": "Tennessee Hit With Deadly Flooding",
             "secondDuration": 136,
@@ -31,8 +25,14 @@
             "title": "Pfizer CEO Speaks On Full FDA Approval",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "eeCSm48MrAQ",
+            "title": "Texas Republicans Renew Effort To Advance Voting Bill",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

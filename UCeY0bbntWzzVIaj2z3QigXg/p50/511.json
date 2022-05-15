@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "3xj2nqcI3Is",
-            "title": "President Donald Trump: Iran Deal Is An ‘Unacceptable Situation,’ ‘Horrible Agreement‘ | NBC News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "d-sSLfLc3gw",
             "title": "Israeli PM Benjamin Netanyahu Claims Iran Lied About Nuclear Weapons | NBC News",
             "secondDuration": 89,
@@ -301,8 +295,14 @@
             "title": "Lawmakers Grill Scott Pruitt Over Ethics Scandals, Spending | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "ofGehhEXvkI",
+            "title": "Deputy Tracey Newton Makes Life-Saving Kidney Donation To A Stranger | NBC Nightly News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

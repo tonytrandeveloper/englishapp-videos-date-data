@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b0NNKBPcQxU",
-            "title": "New details of 911 call amid search for missing teen",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "yTYGgl4MTk4",
             "title": "Being black in America: When performing everyday activities triggers 911 calls",
             "secondDuration": 493,
@@ -31,8 +25,14 @@
             "title": "Anheuser-Busch delivering drinking water to Florida, Georgia",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "1d8xmWStkO4",
+            "title": "Search for missing teen after parents found dead in Wisconsin",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

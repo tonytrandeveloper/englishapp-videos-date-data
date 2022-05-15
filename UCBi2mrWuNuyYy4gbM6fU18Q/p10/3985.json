@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9GnKuLVtiOM",
-            "title": "Bill Cosby Arraigned in Court on a Charge of Aggravated Indecent Assault",
-            "secondDuration": 323,
-            "group": "group_7"
-        },
-        {
             "videoId": "heWD_7VpAD4",
             "title": "Donald Trump Says Hillary Clinton Has a 'Major Problem'",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Carrie Fisher Speaks Out Against Body-Shamers",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "R0a2s2MbDWk",
+            "title": "'Glee' Star Arrested in Child Pornography Case",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

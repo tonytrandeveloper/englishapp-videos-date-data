@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fBe2sMBO8ys",
-            "title": "In Case You Missed It - 7/5/2013",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7NLA84i0mk",
             "title": "The Dangers of Backyard Fireworks",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Cellphone Tracking Helps Woman Bust Carjacker",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "MDrcMbIyxj4",
+            "title": "Jack Hanna Brings Baby Bear to 'GMA'",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

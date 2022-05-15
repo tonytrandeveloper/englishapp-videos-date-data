@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5rY91IlKhp8",
-            "title": "The Incredible Career of Frank Sinatra | ABC News",
-            "secondDuration": 283,
-            "group": "group_7"
-        },
-        {
             "videoId": "mlCzJUQljoA",
             "title": "Biker Rides the Rooftops of Gran Canaria | ABC News",
             "secondDuration": 183,
@@ -31,8 +25,14 @@
             "title": "US Officials on the Lookout for ISIS-Made Passports",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "H0dLhR3QM9M",
+            "title": "Students at Citadel Facing Suspension After Disturbing Images Were Allegedly Posted Online",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

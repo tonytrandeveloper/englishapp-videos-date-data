@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sbiKwsJ24rs",
-            "title": "Asteroid Flies Close To Earth | Archives | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Q0s7KKibZU",
             "title": "Boy Finds 5.16 Carat Diamond At State Park | Archives | NBC News",
             "secondDuration": 31,
@@ -61,8 +55,14 @@
             "title": "Did Snowden Warn The NSA? | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "npIi1V7ySuQ",
+            "title": "Is \"Lean In\" Useful? Hillary Clinton Explains | NBC News",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KXqD2T-k8Ks",
-            "title": "WEBCAST: Robin Roberts Returns!",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "7l3DTHT9zRM",
             "title": "Kansas City Gas Explosion and Massive Fire Leaves 14 Injured",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "Clive Davis Looks Back",
             "secondDuration": 394,
             "group": "group_7"
+        },
+        {
+            "videoId": "rgBxO1V7Jsk",
+            "title": "Clive Davis on Life and His Long Career",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

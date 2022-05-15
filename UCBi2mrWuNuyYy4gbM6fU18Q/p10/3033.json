@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PzxANkc7OXs",
-            "title": "Plane Crashes into Massachusetts building, pilot dies",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "v2k6acx4Bpw",
             "title": "2 Houston officers injured in shooting, authorities say",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Orcas cruise alongside jet ski in New Zealand",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "nAEq7EemdVg",
+            "title": "Iranian infant affected by travel ban recovering after heart surgery",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

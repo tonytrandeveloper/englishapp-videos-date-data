@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HmjxixmQFws",
-            "title": "Egyptian Revolution Tied to Events of the Past 2/11/2011",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "hLCFiFrpArE",
             "title": "Crisis in Cairo: Hosni Mubarak Steps Down as President of Egypt 2/11/2011",
             "secondDuration": 658,
@@ -61,8 +55,14 @@
             "title": "Free-Skier Skis on Ocean 2/10/2011",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "MfEKAl5A--0",
+            "title": "Pilot Fatigue and Crash Pads 2/9/2011",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

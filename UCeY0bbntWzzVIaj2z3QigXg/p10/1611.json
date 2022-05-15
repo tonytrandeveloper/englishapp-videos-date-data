@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-kw2IcPu3uE",
-            "title": "Breaking Down The Economics Of Iowa And Its Voters | NBC News NOW",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "PgoHKRMfvJw",
             "title": "Inside Iowa’s ‘Blue Stronghold’ That Flipped Red In 2016 | NBC News NOW",
             "secondDuration": 277,
@@ -61,8 +55,14 @@
             "title": "College Esports Teams Offer Scholarships For Video Gamers | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZX74zl7zU4",
+            "title": "American Universities At Risk From Chinese Spies, Intelligence Officials Say | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

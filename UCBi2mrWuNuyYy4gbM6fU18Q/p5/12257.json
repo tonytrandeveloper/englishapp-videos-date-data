@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GpZltTVfHno",
-            "title": "Reese Witherspoon's Oscar",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "zvFlnITrr_o",
             "title": "Royal Wedding: Celebrity Hat Maker",
             "secondDuration": 267,
@@ -31,8 +25,14 @@
             "title": "The Search for Holly Bobo",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "eGRy_kN3xEA",
+            "title": "Royal Wedding Memories: America Remembers Diana",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

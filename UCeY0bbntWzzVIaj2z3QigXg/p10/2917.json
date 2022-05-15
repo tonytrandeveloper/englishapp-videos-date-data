@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jV__CuGnmxY",
-            "title": "91 New Volcanoes Discovered Underneath The Antarctic Ice | Mach | NBC News",
-            "secondDuration": 84,
-            "group": "group_7"
-        },
-        {
             "videoId": "3QjYoiF8RJE",
             "title": "President Trump Switches To Message Of Unity: 'No Division Too Deep For Us to Heal' | NBC News",
             "secondDuration": 87,
@@ -61,8 +55,14 @@
             "title": "Protesters Clash With Police After Donald Trump Rally In Phoenix | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "sjQ4Ws04Qfw",
+            "title": "President Trump Rally in Arizona (Full) | NBC News",
+            "secondDuration": 5324,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

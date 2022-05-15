@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "K5y_bE9b50E",
-            "title": "FBI: Inquiry Into Possible Donald Trump Camp-Russia Connections Began In July | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "tycE-LlOQfE",
             "title": "Senate Hearings For Supreme Court Nominee Neil Gorsuch Get Underway Monday | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "How Small Talk Makes You Smarter And Happier | Better | NBC News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "TDWGj7sxqcQ",
+            "title": "Neil Gorsuch Hearing: GOP Praises His Conservatism, Democrats Critique Past Rulings | NBC News",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

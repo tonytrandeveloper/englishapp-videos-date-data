@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fObXWYRSjuE",
-            "title": "New video shows chaos amid deadly school shooting",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "emDdD25SeUc",
             "title": "More explosives could be in the mail: FBI",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Judge Greg Mathis on how Aretha Franklin inspired him to help the Flint water crisis",
             "secondDuration": 378,
             "group": "group_7"
+        },
+        {
+            "videoId": "1V_mVTrH8Wc",
+            "title": "White House press briefing on Pittsburgh synagogue shooting, mail bomb plot | ABC News",
+            "secondDuration": 2549,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

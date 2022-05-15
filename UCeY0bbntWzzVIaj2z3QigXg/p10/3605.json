@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RNSTcb9pXTA",
-            "title": "California Wildfires Threaten Yosemite | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "EZ4-Q1coyQE",
             "title": "Rick Perry Responds To Charges | NBC News",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Mo'ne Davis Dominating Little League | NBC News",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "31M_IEPV-UU",
+            "title": "Rebuilding Gaza Amid Peace Negotiations | NBC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

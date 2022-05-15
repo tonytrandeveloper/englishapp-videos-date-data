@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fOEcUiZg7Tk",
-            "title": "Kellyanne Conway Defends Refugee Ban, Cites False ‘Bowling Green Massacre’ | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "BI4IhEDylUI",
             "title": "President Trump Warns 'Nothing Is Off The Table' Regarding Iran | NBC Nightly News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Nancy Pelosi: Stunning 'White Supremacist' Named To Security Council | NBC News",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "2fyg8WmAfN4",
+            "title": "President Trump Speaks On Religious Liberty, Tolerance At Prayer Breakfast | NBC News",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

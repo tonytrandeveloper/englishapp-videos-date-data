@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sywJ3GXEoZE",
-            "title": "How An Algorithm Is Fighting The Opioid Epidemic | Mach | NBC News",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "QJVCf1SdVoI",
             "title": "Puerto Ricans Band Together After Receiving Little Help from Government | NBC News",
             "secondDuration": 156,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Proposes IQ Test After Sec. Rex Tillerson Calls Him ‘Moron’ | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "ivZdTK-jRuc",
+            "title": "Gwyneth Paltrow, Angelina Jolie Among Harvey Weinstein Accusers | NBC Nightly News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

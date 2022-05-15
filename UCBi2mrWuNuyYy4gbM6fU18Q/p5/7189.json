@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "alZKkFMw3eY",
-            "title": "Family Goes Missing in the Gulf of Mexico",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "7zrSGKONEJU",
             "title": "Midwest Braces for Severe Storms While Winds Sunder the East Coast",
             "secondDuration": 167,
@@ -31,8 +25,14 @@
             "title": "Trump Slams Clinton as a 'World-Class Liar'",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "YXbPzKvoMKw",
+            "title": "Zika Vaccine Approved for Safety Testing",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

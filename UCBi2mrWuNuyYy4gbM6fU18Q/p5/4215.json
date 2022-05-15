@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PGACSQdY45Q",
-            "title": "'Amazing Grace': Exclusive look at never-aired footage of Aretha Franklin",
-            "secondDuration": 406,
-            "group": "group_7"
-        },
-        {
             "videoId": "g25bL6qMTRQ",
             "title": "Controversial YouTube star Logan Paul documents Flat Earth conference",
             "secondDuration": 476,
@@ -31,8 +25,14 @@
             "title": "Trump reverses decision to slash funding for the Special Olympics",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "tCVy2iFRl7o",
+            "title": "Police trying to figure out what sparked deadly Seattle shooting spree",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

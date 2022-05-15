@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9O3Gdfb8utQ",
-            "title": "Eiffel Tower fireworks mark Bastille Day 2017 in Paris, France",
-            "secondDuration": 2245,
-            "group": "group_7"
-        },
-        {
             "videoId": "QQOunoiJIFQ",
             "title": "Beyonce Twins Sir and Rumi Debut, ‘Spider-Man Homecoming,' ‘Game of Thrones’ returns: ‘Real Live’",
             "secondDuration": 1752,
@@ -31,8 +25,14 @@
             "title": "OJ Simpson Vegas robbery accomplices speak out",
             "secondDuration": 257,
             "group": "group_7"
+        },
+        {
+            "videoId": "z3vxFTjC1SM",
+            "title": "Woman killed by jet-engine blast at popular tourist site",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zufk3bBl95U",
-            "title": "180 House Members Sign Onto Article of Impeachment | NBC Nightly News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "lINnKaBUiKQ",
             "title": "'So Long': Alex Trebek Appears As Jeopardy! Host For The Last Time | NBC News",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "New York To Expand Covid Vaccine Distribution, Eligibility To Accelerate Process | NBC News NOW",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge62zgg0Zwk",
+            "title": "New York Gov. Andrew Cuomo Holds Briefing | NBC News",
+            "secondDuration": 5091,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

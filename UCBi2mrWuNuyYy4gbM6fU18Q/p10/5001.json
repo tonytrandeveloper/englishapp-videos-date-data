@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Sz4KFDyUpy4",
-            "title": "Explosion at LAX: 4 Dry Ice Bombs Found",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ZlRGYiq63g",
             "title": "VH1's TLC Movie 'Crazy Sexy Cool' Explores the Iconic Group's Career",
             "secondDuration": 348,
@@ -61,8 +55,14 @@
             "title": "Charlie Hunnam Pulls out of 'Fifty Shades of Grey' Movie",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "SzSciG1MdwQ",
+            "title": "Woman Trapped on Drawbridge Rescued: Caught on Tape",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

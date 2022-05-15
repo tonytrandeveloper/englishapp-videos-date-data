@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M2kXLZPAxAg",
-            "title": "Watch Live: President Donald Trump Speaks From Wisconsin On New Foxconn Facility | NBC News",
-            "secondDuration": 2123,
-            "group": "group_7"
-        },
-        {
             "videoId": "621HYwgvtSQ",
             "title": "Senators React To Justice Anthony Kennedy’s Retirement From The Supreme Court | NBC News",
             "secondDuration": 179,
@@ -61,8 +55,14 @@
             "title": "California Woman Goes On Racist Rant In Viral Video | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "nZGcrnJhwpc",
+            "title": "Alexandria Ocasio-Cortez Defeats Top House Democrat Joe Crowley In Primary Upset | NBC Nightly News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

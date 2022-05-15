@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "p7ooWMXTgjE",
-            "title": "Special education teacher helps student overcome disability",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "JA1Od6XFyCQ",
             "title": "UN Ambassador Nikki Haley weighs in on US military strategy for Afghanistan",
             "secondDuration": 315,
@@ -301,8 +295,14 @@
             "title": "Two sisters to work with NASA during solar eclipse",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "53ne-bSjn6U",
+            "title": "Spanish authorities say Barcelona attack could have been even worse",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

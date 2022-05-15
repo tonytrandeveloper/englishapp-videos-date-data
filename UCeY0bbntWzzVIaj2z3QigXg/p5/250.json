@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D05gnEUrzlI",
-            "title": "Recapping Biden's State Of The Union Address",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "3_LUuE4IgFI",
             "title": "Ukrainian Residential Area 'Struck By Russian Cruise Missile,' Official Says",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Lauren Boebert Heckles Biden During State Of The Union Address",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "vbcTw5mbCqo",
+            "title": "Beto O’Rourke Touts Plan After Winning Texas Governor Primary",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

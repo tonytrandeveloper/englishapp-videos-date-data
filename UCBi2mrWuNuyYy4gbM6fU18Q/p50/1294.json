@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "hTjvEFbSNYo",
-            "title": "Obama's Super Bowl Pick",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "qx8L-8gVwYo",
             "title": "Is Medical Radiation Safe?",
             "secondDuration": 155,
@@ -301,8 +295,14 @@
             "title": "An Orphan's Story",
             "secondDuration": 58,
             "group": "group_7"
+        },
+        {
+            "videoId": "be2v6MNe9Qg",
+            "title": "Fault Lines of America",
+            "secondDuration": 259,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

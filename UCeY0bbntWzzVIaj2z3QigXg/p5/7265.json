@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "te3ZTuYIj80",
-            "title": "Coming Up on MTP: SOTU, Spying & Football",
-            "secondDuration": 16,
-            "group": "group_7"
-        },
-        {
             "videoId": "JRdq8tOoxqw",
             "title": "Coming Up on MTP: SOTU, Rand Paul & Olympic Security",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "'I Can't Breathe': K-Sise Inspired by Dateline NBC",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "8pJpRGpRSVA",
+            "title": "Selfie Lessons With Andy Cohen",
+            "secondDuration": 8,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

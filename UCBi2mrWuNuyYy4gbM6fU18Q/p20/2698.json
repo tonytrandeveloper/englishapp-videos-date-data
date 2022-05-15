@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_BlQDizjwiY",
-            "title": "Consumer Electronics Show (CES) 2013 Recap, Highlights: Tech21 Cases",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "d8kRiqTfe18",
             "title": "Bobcat Attacks Massachusetts Man in Garage",
             "secondDuration": 143,
@@ -121,8 +115,14 @@
             "title": "Rep. Gabby Giffords on Meeting Newtown, Conn. Shooting Victims",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "9U8F-CtUttg",
+            "title": "James Holmes on Trial: Suspect in Aurora, Colorado Movie Theatre Shootings Back in Court",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

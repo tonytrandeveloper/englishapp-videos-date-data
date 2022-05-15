@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vn5VFZVmcSo",
-            "title": "The Rachel Ray Way",
-            "secondDuration": 402,
-            "group": "group_7"
-        },
-        {
             "videoId": "4ay2hmb47kM",
             "title": "Uncertain Fate for Pet Moose",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "'Old Dog' Robin Williams on Movies, Tour",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "RLAODRWFE_A",
+            "title": "Jake Tapper on President Obama's 9th War Council",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

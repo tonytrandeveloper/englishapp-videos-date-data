@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hTLUT9EG1m0",
-            "title": "Trump Participates In Roundtable At Red Cross Headquarters | NBC News",
-            "secondDuration": 2373,
-            "group": "group_7"
-        },
-        {
             "videoId": "F7Q-UDdnmj8",
             "title": "Obama: John Lewis Spent His Life Fighting The Attacks On Democracy Circulating Now | NBC News",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "‘This Isn’t A game’: Biden Slams Trump, McConnell For Lack Of Support To Schools | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "ds_yaK3WsBE",
+            "title": "Trump Meets With Family Of Vanessa Guillen | NBC News",
+            "secondDuration": 1518,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

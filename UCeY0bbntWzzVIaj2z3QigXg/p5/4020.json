@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RwX7vu29PhI",
-            "title": "Rideshare Drivers To Strike Ahead Of The Uber’s $90B IPO | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "MNnKj3gGhVo",
             "title": "Surfaced Video From Sandra Bland’s Traffic Stop Before Death In Police Custody | NBC Nightly News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Officers Heard Shots Upon Entering Colorado School | NBC News",
             "secondDuration": 399,
             "group": "group_7"
+        },
+        {
+            "videoId": "6TLkL1CN338",
+            "title": "Student Describes Colorado School Shooting: ‘I Started Hearing Screams’ | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

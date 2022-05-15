@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cuXGFXJoJqI",
-            "title": "Ant-Man Trailer: Paul Rudd Proves Heroes Come in All Sizes",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "l-8kHKzerNE",
             "title": "Madonna Kisses Drake Onstage at Coachella",
             "secondDuration": 39,
@@ -61,8 +55,14 @@
             "title": "MTV Movie Awards: Channing Tatum Performs Sexy Dance",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "YxtQ0NbH3mQ",
+            "title": "Hillary Clinton 2016: Politicians, Commentators Discuss White House Run",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

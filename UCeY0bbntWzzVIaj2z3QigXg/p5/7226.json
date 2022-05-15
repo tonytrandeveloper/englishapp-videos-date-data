@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "h83A11ycaM0",
-            "title": "Terror, Grief as Israeli Bombs Destroy Gaza Hospital | NBC News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "mlNKXvpZRGA",
             "title": "Clinics Attempt To Treat Those Infected With Ebola | NBC News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Israeli Soldier Loses Three Friends In I.E.D. Attack | NBC News",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "OEi6YDpwDfM",
+            "title": "Ebola Outbreak Spreads In West Africa | NBC News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

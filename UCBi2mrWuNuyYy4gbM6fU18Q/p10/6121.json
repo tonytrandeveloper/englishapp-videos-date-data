@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MWqtFFtXlPw",
-            "title": "Jamie Foxx Welcomes Josh Elliott to 'GMA' (May 3, 2011)",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "sWmIXuWFsOA",
             "title": "How the Navy SEALs Got Osama Bin Laden",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Osama Bin Laden Killed: How Did They Do It?",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "zU_wQD3oX6g",
+            "title": "Osama Bin Laden Dead in Abbottabad, Pakistan: What Took So Long?",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

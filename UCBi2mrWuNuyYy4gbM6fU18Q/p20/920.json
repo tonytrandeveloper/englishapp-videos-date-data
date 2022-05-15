@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xrpCHr56Tso",
-            "title": "Firefighters in Southern California introduce new bundles of joy",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "scyE5uwV2BI",
             "title": "Nancy Pelosi hints at impeachment amid Trump whistleblower flap",
             "secondDuration": 141,
@@ -121,8 +115,14 @@
             "title": "Elizabeth Warren climbs in new Iowa poll",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "vHAGTdNWTpA",
+            "title": "Deadline set for Trump administration to hand over whistleblower complaint",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

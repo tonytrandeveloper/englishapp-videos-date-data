@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S9_DDZ7zP1E",
-            "title": "University Team Creates Mobile Lab For Medical Research On Marijuana",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "vfFJXp1IeKk",
             "title": "CDC Director Speaks Out On Delta Variant and Falling Vaccination Rates",
             "secondDuration": 183,
@@ -61,8 +55,14 @@
             "title": "Watch: British Inventor Unveils ‘Iron Man’ Electric Jet Suit",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "n1eUF1bjw-U",
+            "title": "Biden Delivers Remarks On Child Tax Credit Relief Payments | NBC News",
+            "secondDuration": 995,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

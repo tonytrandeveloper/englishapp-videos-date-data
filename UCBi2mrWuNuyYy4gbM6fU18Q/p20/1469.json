@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "D7n2VoHetfg",
-            "title": "Trail of ransomware attacks could lead back to North Korea",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "57uwGO5xi1A",
             "title": "New developments in deadly police shooting of teen in Connecticut",
             "secondDuration": 89,
@@ -121,8 +115,14 @@
             "title": "North Korea launches ballistic missile",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "e7ZdFIujS5s",
+            "title": "Unprecedented global cyberattack spread ransomware to five continents",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

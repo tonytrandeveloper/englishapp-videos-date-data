@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KhvI2hfIChQ",
-            "title": "Astronaut Christina Koch returns home after 1 year in space | ABC News Prime",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qt8rqFqdk3M",
             "title": "‘Trusted Travelers’ program is suspended for New Yorkers | ABC News Prime",
             "secondDuration": 395,
@@ -31,8 +25,14 @@
             "title": "Colorado cop won’t face charges l ABC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zn2hCQvBJ0U",
+            "title": "WATCH LIVE: ABC News Live Prime | ABC News",
+            "secondDuration": 3616,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ffl3BYut9ww",
-            "title": "Full NBC News NOW Coronavirus Coverage - March 19 | NBC News Now",
-            "secondDuration": 26107,
-            "group": "group_7"
-        },
-        {
             "videoId": "P3Z_PsT2txU",
             "title": "California Gov. Newsom Give Update On Coronavirus | NBC News (Live Stream Recording)",
             "secondDuration": 6280,
@@ -61,8 +55,14 @@
             "title": "How Rural Hospitals Are Preparing For Coronavirus Patients | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "XH8OqojDvCA",
+            "title": "Italy Overtakes China In Coronavirus-Related Deaths | NBC Nightly News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

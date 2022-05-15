@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "L23_XHmX628",
-            "title": "Awning Collapse!",
-            "secondDuration": 26,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Hf2NNZeBls",
             "title": "Florida Lotto Murder Trial: Bizarre Moments",
             "secondDuration": 288,
@@ -301,8 +295,14 @@
             "title": "'This Week' Viewer Question: Which President Would George Stephanopoulos Want to Interview?",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "2BNMvN49lVU",
+            "title": "Political Optimism in America's Government: 'This Week' Roundtable Discussion",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

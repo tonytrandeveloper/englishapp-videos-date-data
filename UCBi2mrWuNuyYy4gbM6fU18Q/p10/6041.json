@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "X92CnnRLaG0",
-            "title": "Philadelphia Cracks Down on Flash Mobs",
-            "secondDuration": 297,
-            "group": "group_7"
-        },
-        {
             "videoId": "DYYEBpAica0",
             "title": "Vampire Bat Kills Louisiana Teen",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Child Labor on Farms Caught on Tape",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZAYwplaAJ_E",
+            "title": "Rick Perry Enters GOP Presidential Race",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "0BuEV2IzkWA",
-            "title": "Full Panel: Democratic Establishment Fears Sanders Nomination | Meet The Press | NBC News",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "i5rowPYyALw",
             "title": "Trump Congratulates Bernie Sanders On Nevada Win, Thinks He Will Be Democratic Nominee | NBC News",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "Record Number Of Children Killed By Flu This Season | NBC Nightly News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "E_Ar6MGdDcA",
+            "title": "Officials Warn Of Misinformation Danger Amid Coronavirus Fears | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

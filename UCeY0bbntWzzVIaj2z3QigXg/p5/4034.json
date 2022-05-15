@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XR1IyuyQTZo",
-            "title": "Should We Trust Netflix With Our User Data? | Think | NBC News",
-            "secondDuration": 239,
-            "group": "group_7"
-        },
-        {
             "videoId": "S6Z6F3VOJDM",
             "title": "Dramatic Landslide Sweeps Away Homes In Bolivia’s Capital | NBC News",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "UNC Students Describe Running For Cover During Shooting | NBC News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "aczf62zwuVU",
+            "title": "President Donald Trump And Dems Strike Deal For $2 Trillion Infrastructure Plan | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

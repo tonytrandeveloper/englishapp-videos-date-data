@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4mPfWQr8ohY",
-            "title": "Mitt Romney Returns Home",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "LfwULAUr1PI",
             "title": "New Congress Faces Old Tax Crisis",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "What's Next for America?",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "cVUuYIKlu4k",
+            "title": "2012 Election Results; California's 'Frakenfood' Vote, Legalization of Gay Marriage, Pot",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

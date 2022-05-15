@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9jJ13-7sIEw",
-            "title": "Nightly News Full Broadcast - March 19",
-            "secondDuration": 1299,
-            "group": "group_7"
-        },
-        {
             "videoId": "XY8kgPEjSJ4",
             "title": "Interest In Electric Vehicles Grows As Gas Prices Rise",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Russia Claims Use of Hypersonic Missile For First Time In Ukraine War",
             "secondDuration": 188,
             "group": "group_7"
+        },
+        {
+            "videoId": "ugxqbE832Jw",
+            "title": "Google Facing Lawsuit Over Allegations Of Systemic Bias",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

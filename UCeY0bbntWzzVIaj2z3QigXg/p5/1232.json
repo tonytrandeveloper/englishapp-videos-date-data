@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BxX3dACdoYU",
-            "title": "NBC Nightly News Broadcast (Full) - July 4th, 2021",
-            "secondDuration": 1289,
-            "group": "group_7"
-        },
-        {
             "videoId": "uqAxhETywCo",
             "title": "This Morning’s Top Headlines – July 5 | Morning News NOW",
             "secondDuration": 1085,
@@ -31,8 +25,14 @@
             "title": "Taliban Gaining Ground Before U.S. Troops Finish Withdrawal",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMcgEdLUdu4",
+            "title": "Retired Power Plant Revived To Mine Bitcoin",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

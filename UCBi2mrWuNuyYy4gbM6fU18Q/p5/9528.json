@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T-ZPsG07iN4",
-            "title": "'This Week': Washington's Night Out",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "KbeVDycK84k",
             "title": "'This Week': Crime and Punishment",
             "secondDuration": 612,
@@ -31,8 +25,14 @@
             "title": "Child Left Alone Near Pool Falls In and Nearly Drowns",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "2kULtj3lOD4",
+            "title": "'Girl Meets World' Trailer Prepares Fans for Show's Premiere",
+            "secondDuration": 175,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

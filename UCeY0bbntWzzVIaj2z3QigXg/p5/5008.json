@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Py5WRLl19_U",
-            "title": "At Least 8 White Nationalists Running For State Or Federal Office | NBC Nightly News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "n68UZLhmrl8",
             "title": "President Donald Trump Speaks At U.S. Coast Guard Headquarters | NBC News",
             "secondDuration": 3411,
@@ -31,8 +25,14 @@
             "title": "Eastern U.S. Slammed With Severe Weather | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "81voaQPoLmE",
+            "title": "U.S. Announces New Tariffs On Mexico, Canada And EU | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

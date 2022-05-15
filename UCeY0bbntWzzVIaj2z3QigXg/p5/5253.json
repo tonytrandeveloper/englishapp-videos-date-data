@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "srZQ0xcJkJQ",
-            "title": "Jeff Flake: Republican Party Doesn’t Have To Be The ‘Party Of Trump’ | Meet The Press | NBC News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "69x4rRN7X3w",
             "title": "Hunting For Ghost Gear: What Happens When Fishing Nets Go Rogue | NBC News",
             "secondDuration": 365,
@@ -31,8 +25,14 @@
             "title": "Confronting Russian President Vladimir Putin, Part 5 | Megyn Kelly | NBC News",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZETpCefN784",
+            "title": "Confronting Russian President Vladimir Putin, Part 4 | Megyn Kelly | NBC News",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qwt9WHe68TY",
-            "title": "Andrew Yang says campaign will give 10 people $1,000 a month for a year",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "_nWUwvh4jns",
             "title": "Klobuchar on ‘Medicare for All’ bill: ‘While Bernie wrote the bill, I read the bill’",
             "secondDuration": 70,
@@ -121,8 +115,14 @@
             "title": "The Briefing Room: Democratic Debate preview in Houston | ABC News",
             "secondDuration": 3655,
             "group": "group_7"
+        },
+        {
+            "videoId": "5EBnXw9omGg",
+            "title": "Plane passengers see flames after bird strike l ABC News",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

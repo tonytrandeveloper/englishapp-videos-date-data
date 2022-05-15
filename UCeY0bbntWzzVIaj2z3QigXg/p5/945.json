@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tYmsmWoQ1NI",
-            "title": "Southern Border Crisis Apparent in Del Rio, Texas",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "nK5CkeEKi2s",
             "title": "Space Capsule To Splashdown In Ocean",
             "secondDuration": 147,
@@ -31,8 +25,14 @@
             "title": "NBC Nightly News Full Broadcast - September 17th, 2021",
             "secondDuration": 1270,
             "group": "group_7"
+        },
+        {
+            "videoId": "3y-60Fzm_DY",
+            "title": "NBC News NOW Full Broadcast – September 17, 2021",
+            "secondDuration": 2979,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

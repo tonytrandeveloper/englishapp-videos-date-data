@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "t3hzGmYPzBc",
-            "title": "Donald Trump Boosts “SNL” Ratings | ABC News",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "eRADGfGbtpU",
             "title": "Stabbing Attack Caught on Camera| ABC News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "High School Athlete Breaks Barriers",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "qZSWkX4n-jc",
+            "title": "Window Blinds Deadly Delay: The Fight for Kids Safety",
+            "secondDuration": 481,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

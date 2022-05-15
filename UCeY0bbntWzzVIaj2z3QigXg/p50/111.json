@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "nbT5Q1ZEUxg",
-            "title": "NBC Nightly News Broadcast (Full) - August 7th, 2021",
-            "secondDuration": 794,
-            "group": "group_7"
-        },
-        {
             "videoId": "Da42HHYAPkA",
             "title": "More Than 1,000 Evacuated Due To Wildfires in Greece",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "First Responders Scramble To Keep Up With Surging Covid Patients",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "y-3Pl-KBdK8",
+            "title": "This Morning’s Top Headlines – August 5 | Morning News NOW",
+            "secondDuration": 1232,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

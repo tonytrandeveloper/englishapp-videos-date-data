@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5e15KtGc0nM",
-            "title": "Federal Budget Battle Takes Center Stage on Senate Floor",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kbc_AtDIPrM",
             "title": "WEBCAST: Tea Party Talk-A-Thon",
             "secondDuration": 155,
@@ -121,8 +115,14 @@
             "title": "Emmys 2013: Backstage With the Winners",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfjvcKVBWVk",
+            "title": "WEBCAST: Impromptu Landing Strip",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IWQcQiXKmCQ",
-            "title": "Joplin, Missouri, Searches for Survivors",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uc6iDSOeIng",
             "title": "Air France Flight 447: Pilot Errors?",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Joplin, Mo., Dramatic Tornado Video: Twisters Rip Across Midwest; Levels City",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "xHGaUkuy5pc",
+            "title": "Election 2012: Tim Pawlenty on 'GMA' - Says Barack Obama's Israel Stance, 'a Misstep' (05.23.11)",
+            "secondDuration": 320,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KRjK2QWH65g",
-            "title": "Tsunami Warning For Hawaii After Quake Hits British Columbia",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "ezKrjbCC79g",
             "title": "Hurricane Sandy Aftermath: Widespread Power Outages Expected: How to Keep the Lights On",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "Extreme Shoplifting Caught on Tape: Organic Foods Targeted",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "vavqvTFJzzA",
+            "title": "Billy Idol Performs at Fan's Birthday Party",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

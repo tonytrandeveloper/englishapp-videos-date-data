@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4I6_6qga4e4",
-            "title": "World Series Game 6 Highlights | Cubs Grand Slam Keep Hope Alive",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "HAthT1ZInck",
             "title": "Trump, Clinton Tied in Latest Tracking Poll",
             "secondDuration": 182,
@@ -121,8 +115,14 @@
             "title": "Dog Rescued From Italian Earthquake Rubble",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "SHXl_2Uw4OM",
+            "title": "Trump Slams Obamacare, Calls for Congress to Repeal It",
+            "secondDuration": 294,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

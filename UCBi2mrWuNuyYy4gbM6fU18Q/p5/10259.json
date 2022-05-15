@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "09o1jgnocJ0",
-            "title": "Dinosaur Bar-B-Que with John Stage",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "xlbgWMRzVPQ",
             "title": "Unbreakable Father-Daughter Bond",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Nelson Mandela Health: South African Icon in Critical Condition",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "KGoW5KerdNg",
+            "title": "Prince Jackson Testimony in Michael Jackson Civil Suit: Dad's Post-Rehearsal Words Reveal Concern",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

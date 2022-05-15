@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pR3ud1o4e_o",
-            "title": "Delta Plane Skids Off Runway At LaGuardia Airport | NBC Nightly News",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "uVJh3v_1ZDk",
             "title": "ISIS, Iran, And The Politcs Of Security | Meet The Press | NBC News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Iran Foreign Minister Zarif: 'We Will Never Have a Bomb' | NBC Nightly News",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZJ5L2U6XhY0",
+            "title": "U.S. Ambassador To South Korea Attacked With Razor | NBC Nightly News",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

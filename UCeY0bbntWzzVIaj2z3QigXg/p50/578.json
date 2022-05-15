@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iC0Albb3CiE",
-            "title": "Misery In Paradise: Florida Keys A Ghost Town After Hurricane Irma | NBC Nightly News",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "mJIxH39inxM",
             "title": "Mitch McConnell: Debt Ceiling Won’t Be Revisited Until 2018 | NBC News",
             "secondDuration": 84,
@@ -301,8 +295,14 @@
             "title": "Hurricane Irma: Florida’s West Coast Braces For Impact As Storm Shifts West | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "kaT_YySmSNY",
+            "title": "Hurricane Irma: Long Lines For Thousands Fleeing To Overcrowded Shelters | NBC Nightly News",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

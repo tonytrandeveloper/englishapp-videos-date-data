@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r7q_wkJgXhg",
-            "title": "Chicago Police Shooting Unarmed 17-Year-Old | NEW VIDEO RELEASED",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "BdNi8mais1A",
             "title": "Two Mountain Lion Cubs Found in California | ABC News",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "How To Lose Weight | Trainer Gains and Loses 60 POUNDS in 'Fit to Fat to Fit'",
             "secondDuration": 418,
             "group": "group_7"
+        },
+        {
+            "videoId": "gJCjAueuQnI",
+            "title": "Republican Debate Highlights: Trump and Cruz Unleash Insults",
+            "secondDuration": 417,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DjQII3pNVIY",
-            "title": "Trump Speaks At Wisconsin Shipyard | NBC News",
-            "secondDuration": 1642,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ow-buURqVNA",
             "title": "How To Enjoy Summer Camp From Your Own Home | Nightly News: Kids Edition",
             "secondDuration": 1029,
@@ -31,8 +25,14 @@
             "title": "Biden Delivers Remarks On Health Care | NBC News",
             "secondDuration": 892,
             "group": "group_7"
+        },
+        {
+            "videoId": "YftH6WMhOR4",
+            "title": "Contact Tracing Apps Were Supposed To Save Us. What Happened? | NBC News",
+            "secondDuration": 344,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

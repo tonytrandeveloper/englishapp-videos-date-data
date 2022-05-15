@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WKssTqy7GLI",
-            "title": "Morning News NOW Full Broadcast - July 12 | NBC News NOW",
-            "secondDuration": 2505,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZmCFzTmPWjM",
             "title": "Surfside Condo Collapse Death Toll Climbs To 94",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Extreme Weather Dominates 2021 As Washington Stalls On Climate",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "nKUoUwr_WVU",
+            "title": "Republicans Follow A ‘Winning At All Costs’ Strategy Into The Midterms",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

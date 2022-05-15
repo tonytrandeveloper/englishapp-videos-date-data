@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mXBxlFTdWqs",
-            "title": "Ebola Cured In Nina Pham, Texas Nurse | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "jroAQJFTa5k",
             "title": "Raw: Ebola In NYC Man, 3 Quarantined | NBC News",
             "secondDuration": 143,
@@ -61,8 +55,14 @@
             "title": "ISIS Claims It Intercepted U.S. Weapons Drop | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "fD4qqTXtBpI",
+            "title": "Man To Obama: 'Don't Touch My Girlfriend' | 3rd Block | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

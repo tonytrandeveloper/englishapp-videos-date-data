@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uyF3T2S8Xpo",
-            "title": "White House Holds Press Briefing: April 1 | NBC News",
-            "secondDuration": 2624,
-            "group": "group_7"
-        },
-        {
             "videoId": "sn40SvBF7FQ",
             "title": "Orange Police Found 'Personal' Connections Between Mass Shooting Suspect, Victims | NBC News NOW",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Frontline Workers Reflect On Fighting Pandemic, Becoming New Mothers | NBC News NOW",
             "secondDuration": 297,
             "group": "group_7"
+        },
+        {
+            "videoId": "r7qZXo_vnlw",
+            "title": "Vote Count Underway In Union Fight At Amazon Alabama Warehouse | NBC News NOW",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

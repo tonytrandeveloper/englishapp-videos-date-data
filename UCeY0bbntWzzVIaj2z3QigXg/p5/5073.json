@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U137t9xPpMU",
-            "title": "It's Too Early For #MeToo Comeback Stories | Think | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "qCZEbQM5OJY",
             "title": "Extended Interview: Chicago Police Department Superintendent | NBC Nightly News",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Gina Haspel: I Supported Destruction Of Interrogation Tapes To Eliminate Security Risk | NBC News",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "TWoH0UgPbUY",
+            "title": "Ali Khamenei: President Donald Trump Will ‘Will Turn Into Ashes And Food For Worms’ | NBC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

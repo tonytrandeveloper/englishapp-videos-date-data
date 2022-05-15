@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kllCNmj4J-A",
-            "title": "New York City College Student Fatally Stabbed In Shocking Attack | NBC Nightly News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6cBPudc4e8",
             "title": "Lone Survivor Of New Jersey Grocery Store Attack Shares His Story | NBC Nightly News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Raskin Criticizes Republican Defense Of Trump: 'They Don't Accept The Facts' | NBC News",
             "secondDuration": 165,
             "group": "group_7"
+        },
+        {
+            "videoId": "5PXg89vLPhE",
+            "title": "Trump Speaks At White House Summit On Child Care And Paid Leave | NBC News (Live Stream Recording)",
+            "secondDuration": 2603,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

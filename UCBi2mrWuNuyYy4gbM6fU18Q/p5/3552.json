@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-CKoH3DyCuk",
-            "title": "ABC News’ David Muir gets exclusive access on USS Florida",
-            "secondDuration": 416,
-            "group": "group_7"
-        },
-        {
             "videoId": "NICG_zyetTE",
             "title": "First witness transcript from impeachment inquiry is released",
             "secondDuration": 201,
@@ -31,8 +25,14 @@
             "title": "WATCH LIVE Pres. Trump holds campaign rally in Lexington, Kentucky | ABC News",
             "secondDuration": 5553,
             "group": "group_7"
+        },
+        {
+            "videoId": "zWB91CNB5Ug",
+            "title": "Trump demands identity of whistleblower",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "GhEyjlTAnqE",
-            "title": "Republican strategist: 'Trump is on every ballot' in the midterm elections",
-            "secondDuration": 887,
-            "group": "group_7"
-        },
-        {
             "videoId": "bwQBTxZuqcY",
             "title": "Schiff: Khashoggi killing should be 'relationship-altering event for' US and Saudis",
             "secondDuration": 467,
@@ -301,8 +295,14 @@
             "title": "Anheuser-Busch delivering drinking water to Florida, Georgia",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "1d8xmWStkO4",
+            "title": "Search for missing teen after parents found dead in Wisconsin",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

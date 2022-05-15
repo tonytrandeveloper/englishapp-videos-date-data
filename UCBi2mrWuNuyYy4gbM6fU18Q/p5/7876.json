@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8UOiN4QEB7o",
-            "title": "'GMA' Hot List:  Oprah Winfrey Opens Up About Her Weight Loss",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "HavRo9BeLuk",
             "title": "360° View of Flint Water Distribution | ABC News #360Video",
             "secondDuration": 63,
@@ -31,8 +25,14 @@
             "title": "Super Bowl 50's Most Buzzed-About Ads",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "FFGe-J_WdK8",
+            "title": "Donald Trump Stands By Decision to Skip GOP Debate",
+            "secondDuration": 218,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

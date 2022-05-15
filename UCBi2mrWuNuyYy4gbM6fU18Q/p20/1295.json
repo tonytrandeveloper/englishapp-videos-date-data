@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "kxoWWzWYmiM",
-            "title": "Manafort, Gates facing new charges from special counsel",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vr9b8JAeu2U",
             "title": "Three nursing home staffers now charged in 2014 death of WWII veteran",
             "secondDuration": 97,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump meets with teachers, students affected by school shootings | ABC News",
             "secondDuration": 4988,
             "group": "group_7"
+        },
+        {
+            "videoId": "At79hiIUON0",
+            "title": "Alligator 'resists arrest' after hiding from under truck | ABC News",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

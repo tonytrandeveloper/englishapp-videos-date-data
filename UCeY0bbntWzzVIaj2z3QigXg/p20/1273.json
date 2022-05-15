@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9l9vQExLFZ0",
-            "title": "Donald Trump On Giuliani Comments: ‘He Started Yesterday, He’ll Get His Facts Straight’ | NBC News",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "hngJF9mcqss",
             "title": "A Mexican Pastime Takes Root In The U.S. | NBC Latino | NBC News",
             "secondDuration": 341,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Attends National Day Of Prayer Event | NBC News",
             "secondDuration": 2920,
             "group": "group_7"
+        },
+        {
+            "videoId": "83zL852qwU4",
+            "title": "Teen Arrested For Plotting Mass Shooting At Texas Mall | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

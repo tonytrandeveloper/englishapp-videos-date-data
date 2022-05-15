@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GStw0ciMweM",
-            "title": "Hero dog who helped take down ISIS leader from elite K-9 group l ABC News",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "WBigUXk3F7U",
             "title": "Former House Democrat speaks out after resignation, ethics scandal l ABC News",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "ISIS leader al-Baghdadi dead after US raid in Syria: What we know | Nightline",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "QEx3IhATTDg",
+            "title": "Boy, 6, reads football coach a letter of thanks l ABC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

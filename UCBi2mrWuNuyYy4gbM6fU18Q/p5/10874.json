@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2xaiFLjZn_Y",
-            "title": "Sandy Hook Elementary Shooting: Gunman Adam Lanza Got Guns From Mother",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "tk2oh-GIyIw",
             "title": "Newtown Board of Education Spokesperson Speaks About Sandy Hook Elementary Tragedy",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "Connecticut Shooting Tragedy:  The Shooter",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "fMeyJhoyvyM",
+            "title": "Connecticut Shooting Tragedy:  Two Brothers' Escape",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

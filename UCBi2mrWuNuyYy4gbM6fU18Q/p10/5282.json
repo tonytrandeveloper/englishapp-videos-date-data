@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "was4L42vlyc",
-            "title": "Florida Man Believed Dead After Falling into Sinkhole",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "pR5yNx8YFSE",
             "title": "Dennis Rodman's Trip to North Korea Causes Controversy",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Controversial 'Fast Diet' Instructs 2 Days of Fasting",
             "secondDuration": 419,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ou2WMpAXR9k",
+            "title": "WEBCAST: Budget Deadline Tonight",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

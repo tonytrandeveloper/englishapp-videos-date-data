@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PRAXVim8tk8",
-            "title": "Bill De Blasio: Helicopter Crash ‘Not An Act Of Terrorism’ | NBC News Now",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "yF0gqB1MdtM",
             "title": "Helicopter Crash In Midtown Manhattan Leaves One Dead | NBC News Now",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "Governor Andrew Cuomo On Helicopter Crash: People In The Building Felt It Shake | NBC News",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "9zXLLSXNmiw",
+            "title": "Special Report: Helicopter Crash-Lands In Midtown Manhattan | NBC News",
+            "secondDuration": 2714,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

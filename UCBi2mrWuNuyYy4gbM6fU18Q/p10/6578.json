@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "41bTZ_pq_9A",
-            "title": "Released From Juvenile Justice Center",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "IZP84HwLD8I",
             "title": "Obama: I Will Protect Medicare",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "TOP LINE: Obama's Primetime Message",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "FZX-bFh3sRk",
+            "title": "TOP LINE: Ricci Goes to Hill for Sexual Assault Victims",
+            "secondDuration": 609,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

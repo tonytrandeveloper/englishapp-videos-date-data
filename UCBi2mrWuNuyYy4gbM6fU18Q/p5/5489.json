@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZJeC8ntUBQ0",
-            "title": "New York Comic-Con 2017, 'Star Wars: The Last Jedi' and 'Darth Vader' Comic on 'Inside Marvel'",
-            "secondDuration": 1145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kc0XPrIj9rs",
             "title": "Accused killer clown could face the death penalty",
             "secondDuration": 233,
@@ -31,8 +25,14 @@
             "title": "FBI agents question Las Vegas gunman's girlfriend for several hours",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "DdnzebclgeA",
+            "title": "Trump meets with Vegas victims, 1st responders",
+            "secondDuration": 206,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

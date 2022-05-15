@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "npIi1V7ySuQ",
-            "title": "Is \"Lean In\" Useful? Hillary Clinton Explains | NBC News",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "iawBUmfuSBo",
             "title": "\"Snowden Is A Lawbreaker\" Says Hillary Clinton | NBC News",
             "secondDuration": 59,
@@ -61,8 +55,14 @@
             "title": "Snowden: Any Cell Phone Can Be Hacked | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-dfwHCjM3k",
+            "title": "Snowden Discusses Surveillance Reform | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

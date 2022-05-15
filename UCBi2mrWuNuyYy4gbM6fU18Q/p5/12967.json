@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZHtSGErkLe8",
-            "title": "Top Line: GOP and Dem Strategists Go Head-to-Head",
-            "secondDuration": 587,
-            "group": "group_7"
-        },
-        {
             "videoId": "WGSFz0RmUa4",
             "title": "The Conversation: Missed Terror Signals",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "The Epic Journey of NFL's Michael Oher",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "m8xIcLhcIZs",
+            "title": "The Dangers of Fainting",
+            "secondDuration": 310,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

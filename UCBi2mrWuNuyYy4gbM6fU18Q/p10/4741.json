@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-uoDyBezJNw",
-            "title": "WEBCAST: Powerful storms hit the east coast",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "UKxNt-ywHK8",
             "title": "In Case You Missed It: 5/23/2014",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "11 Killed, Dozens Injured in Ukraine Attack",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "9sXcuQCkllw",
+            "title": "Jennifer Lawrence is Back in Blue for 'X-Men: Days of Future Past'",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

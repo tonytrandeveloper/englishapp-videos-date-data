@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ohDtmyKCNKk",
-            "title": "Robot Barista Makes U.S. Debut | Mach | NBC News",
-            "secondDuration": 59,
-            "group": "group_7"
-        },
-        {
             "videoId": "RCI5FlQtaMc",
             "title": "Executive Orders That Cleared The Way For Japanese Internment Camps | NBC News",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "Protests Erupt At Airports Across The U.S. In Defiance Of Immigration Ban | NBC News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "idhLiCazM-Y",
+            "title": "A 20 Percent Tax On Mexican Goods Will Affect Your Pocket Too | NBC News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

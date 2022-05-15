@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "8WBP55X9lGc",
-            "title": "Amplified: X-Japan (extended)",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Gctw79gm90",
             "title": "Drill Operators on Chilean Miners' Rescue",
             "secondDuration": 211,
@@ -121,8 +115,14 @@
             "title": "Murder on the Lake?",
             "secondDuration": 416,
             "group": "group_7"
+        },
+        {
+            "videoId": "QrbKk7SwMBc",
+            "title": "The Conversation: Psych Yourself Rich",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

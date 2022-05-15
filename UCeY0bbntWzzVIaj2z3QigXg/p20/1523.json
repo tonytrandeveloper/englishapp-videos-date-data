@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "S4aI2froOk0",
-            "title": "Senate Democrats: GOP Health Care Plan Should Be Dead On Arrival | NBC News",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "4W-JUElwM14",
             "title": "Army Battles To Oust ISIS-Linked Fighters Besieging Philippines City | NBC News",
             "secondDuration": 80,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Calls Trump Budget An 'Unimaginable Level Of Cruelty' | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "E86vxjlWPyg",
+            "title": "President Donald Trump Meets With Pope Francis At Vatican | NBC News",
+            "secondDuration": 849,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

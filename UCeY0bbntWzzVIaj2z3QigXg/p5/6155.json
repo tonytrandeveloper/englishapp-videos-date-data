@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yzHDtdDKSXc",
-            "title": "Two US Special Forces Killed In Anti-ISIS Raid In Afghanistan | NBC Nightly News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "r6rQHUNb_ys",
             "title": "Pentagon Now Investigating Mike Flynn, Oversight Committee Reveals | NBC Nightly News",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Violence Erupts As Nationalists Storm Macedonian Parliament | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "1SjDUGwHVbI",
+            "title": "100 Days Of Sean Spicer Press Briefings | NBC News",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

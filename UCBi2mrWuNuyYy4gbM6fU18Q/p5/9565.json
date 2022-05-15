@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yarEbKyk8PU",
-            "title": "'Game of Thrones' Author George R.R. Martin",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "CkXR9Zkr0hU",
             "title": "Mt. Everest Tragedy: At Least 12 Dead",
             "secondDuration": 243,
@@ -31,8 +25,14 @@
             "title": "World News Now Polka: Hot Club of Cowtown",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "SY3edw3OEiM",
+            "title": "WEBCAST: New Questions in South Korea Ferry Accident",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

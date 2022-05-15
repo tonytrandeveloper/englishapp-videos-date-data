@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AwpXLhLUY3A",
-            "title": "Russians claims suspected Syrian chemical attack was staged by aid group",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "FW4ShKQQJXA",
             "title": "Syrian refugee family ready to start a new life in New Zealand",
             "secondDuration": 193,
@@ -31,8 +25,14 @@
             "title": "Illusionist may be forced to reveal trick amid lawsuit",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "jlqs7ptwRDE",
+            "title": "6-year-old sees color for the 1st time",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

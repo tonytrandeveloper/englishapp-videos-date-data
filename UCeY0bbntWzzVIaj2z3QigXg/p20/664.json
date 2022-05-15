@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jSfXwXt0jBs",
-            "title": "Inspiring Mother-Daughter Doctor Duo Makes History | NBC Nightly News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZyzIAMUYSeg",
             "title": "Coronavirus Pandemic Is Making America’s Food Deserts Worse | NBC Nightly News",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
             "secondDuration": 2902,
             "group": "group_7"
+        },
+        {
+            "videoId": "gt3P8E4nknM",
+            "title": "Silent in Seattle: Thousands March In Quiet Support of Black Lives Matter | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g4c5ZiDPKcc",
-            "title": "NYC chopper crash, John Dean testifies, boy on unicorn raft rescued at sea",
-            "secondDuration": 1147,
-            "group": "group_7"
-        },
-        {
             "videoId": "NxwogVt6yZo",
             "title": "Ali Stroker becomes first actress who uses wheelchair to win Tony",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Helicopter crashes onto roof of NYC building, pilot killed [FULL SPECIAL REPORT] l ABC News",
             "secondDuration": 890,
             "group": "group_7"
+        },
+        {
+            "videoId": "IK3V5238fAE",
+            "title": "1 dead after helicopter crashes into NYC building",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

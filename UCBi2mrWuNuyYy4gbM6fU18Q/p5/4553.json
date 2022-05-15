@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "70S3CHHVpfE",
-            "title": "Bar shooting survivors recount horror",
-            "secondDuration": 436,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sf4OxWlTMo0",
             "title": "FBI searches home of suspected gunman in California mass shooting",
             "secondDuration": 82,
@@ -31,8 +25,14 @@
             "title": "Teen describes surviving great white shark bite",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SltC3aoE8Q",
+            "title": "Sessions' replacement a critic of Mueller investigation",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

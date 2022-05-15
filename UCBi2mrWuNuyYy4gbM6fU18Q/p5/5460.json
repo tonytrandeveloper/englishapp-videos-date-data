@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YmiJUlx5drU",
-            "title": "Stock market hits 23K milestone",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "CJ5KbeyVp7U",
             "title": "Trump switches position on health care subsidies",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Trump reverses position on health care subsidies",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSk7rLq6JMg",
+            "title": "Harvey Weinstein resigns from the Weinstein Co.",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

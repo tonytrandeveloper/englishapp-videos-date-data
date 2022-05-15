@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yfcayjG4-_0",
-            "title": "Saying Goodbye to Alan Thicke",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "2eTAVBfGdUA",
             "title": "Yahoo Hacked: User Info Stolen From Over 1B Accounts",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "CorePower Yoga Founder Found Dead in Home",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "5x7sybqWcFk",
+            "title": "New Video Revealed in Dylann Roof Trial",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NXM38TwjyhI",
-            "title": "Violent Tornado Causes Major Damage Amid Outbreak in Oklahoma | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "kiBr8G8OeEw",
             "title": "Sen. Jeff Flake On Donald Trump, SCOTUS Confirmation (Full Interview) | Meet The Press | NBC News",
             "secondDuration": 312,
@@ -31,8 +25,14 @@
             "title": "2-Day Shooting Rampage Ends With Gunman's Capture Near Washington, DC | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "F3uF-GEzVHQ",
+            "title": "Speaker Ryan Refuses to Endorse Donald Trump, Trump Returns the Favor | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

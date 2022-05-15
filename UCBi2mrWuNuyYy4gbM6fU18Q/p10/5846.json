@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "q6YEwjVMqus",
-            "title": "Secret Service Scandal: President Calls for 'Thorough, Rigorous' Investigation",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ul5Ad1q43mE",
             "title": "Five Dead in Oklahoma Tornadoes",
             "secondDuration": 164,
@@ -61,8 +55,14 @@
             "title": "Car Accident Videos: Gas, Brake Pedal Confusion",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "1EgkgX8Sr8o",
+            "title": "Cory Booker Discusses Fire Rescue",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DQuVRZp87Ys",
-            "title": "Rand Paul In A Minute: Everything You Need to Know",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "h-bIrxthHb0",
             "title": "Cats Listen to Cat Music at a Cat Cafe",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Sixth Grader Has Near-Perfect Bracket",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "G4i51LXIbpQ",
+            "title": "“Dancing With The Stars” Recap",
+            "secondDuration": 252,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

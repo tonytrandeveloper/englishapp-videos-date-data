@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "avhNkkzJ9QA",
-            "title": "President Donald Trump Outlines Tax Reform, But Gives No Specifics | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "C6KDyF-BHMk",
             "title": "Hurricane Harvey’s Growing Death Toll | NBC Nightly News",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Meet Hexa, An Adorable, Terrifying, Spider-Like Robot | Mach | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "9EF_AsVo40w",
+            "title": "\"We Have To Go Help\": Texas Family Answers Call In Wake Of Harvey | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

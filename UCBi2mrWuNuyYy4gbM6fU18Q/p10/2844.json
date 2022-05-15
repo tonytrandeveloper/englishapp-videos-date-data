@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "66XXlSXYdHg",
-            "title": "Trump faces growing backlash over transgender military ban",
-            "secondDuration": 210,
-            "group": "group_7"
-        },
-        {
             "videoId": "O2NkTVVuScg",
             "title": "State Dept. cautions US tourists in Mexico about 'tainted' alcohol",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "New developments in case where driver livestreamed deadly car crash",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "4SD4K6-tkBk",
+            "title": "New TSA electronics policy announced",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

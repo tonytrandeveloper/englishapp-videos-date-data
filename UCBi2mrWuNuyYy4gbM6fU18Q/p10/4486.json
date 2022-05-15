@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4nedjNvtb4Y",
-            "title": "Paris Attack: Heroes' Stories of Survival",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "MokUfX0u9yk",
             "title": "Most Wanted Woman in the World: Paris Attack Suspect Vanishes",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Paris Attack: The Day of the Raid",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "SVS-a89laMc",
+            "title": "Paris Hostage Raid Video: Watch the Moment Police Storm Paris Supermarket",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_gtYIgR4ZHU",
-            "title": "President Trump slams media amid news of FBI-White House contact over Russia probe",
-            "secondDuration": 482,
-            "group": "group_7"
-        },
-        {
             "videoId": "w6laGIDz0vo",
             "title": "Amal Clooney shows off baby bump at Cesar Awards",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "CPAC 2017: Top Trump Advisors Take the Stage",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "W6VKEO2DUaQ",
+            "title": "Oscars 2017: Top contenders to Win",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vhFTRZTxUak",
-            "title": "The man behind Big Bird retires from 'Sesame Street' after 50 years",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "F6Mbz8Cjlak",
             "title": "Beto O'Rourke fights to unseat Sen. Ted Cruz in Texas midterm battle",
             "secondDuration": 150,
@@ -121,8 +115,14 @@
             "title": "Trumps get firsthand look at hurricane's destruction",
             "secondDuration": 234,
             "group": "group_7"
+        },
+        {
+            "videoId": "G-m-Yzepyj0",
+            "title": "Video: White woman refuses black man entry into building",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

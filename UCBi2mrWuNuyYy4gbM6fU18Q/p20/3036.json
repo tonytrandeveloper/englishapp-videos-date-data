@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "p-JSZ8n2mhY",
-            "title": "Tour Boat Capsizes Off Coast of Mexico: American Tourist Dead",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "l3tqr4c1Nes",
             "title": "Are Prince William and Kate Middleton Ready For Parenthood?",
             "secondDuration": 96,
@@ -121,8 +115,14 @@
             "title": "Casey Anthony Trial: Defense Rests",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "OmxrHjHMv3g",
+            "title": "Will and Kate Take Ottawa",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

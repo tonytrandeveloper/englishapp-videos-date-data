@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7WGA4Bm8Lb4",
-            "title": "Academy Holds Governors Awards",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "DkPM9CTHkLI",
             "title": "West Coast Prepares for Extreme Weather",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Powerball Jackpot: Arizona Winner Still Hasn't Claimed Winnings",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "clrUNX9Ac6w",
+            "title": "Obama Balances Fiscal Cliff, Defense Department Appointment",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

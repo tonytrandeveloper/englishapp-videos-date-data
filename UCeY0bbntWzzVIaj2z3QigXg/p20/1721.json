@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5S7sTEslzPk",
-            "title": "Spike Lee On America’s Gun Culture (Full Interview) | Meet The Press | NBC News",
-            "secondDuration": 1321,
-            "group": "group_7"
-        },
-        {
             "videoId": "-MTuj907mHw",
             "title": "Bernie Sanders On Trump, ISIS, Economic Inequality | Meet The Press | NBC News",
             "secondDuration": 595,
@@ -121,8 +115,14 @@
             "title": "Deadly Las Vegas Strip Crash Was No Accident: Police | NBC Nightly News",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "7QMaFKbV_KA",
+            "title": "‘Hell No’: Hillary Clinton Won’t Apologize to Donald Trump | NBC Nightly News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

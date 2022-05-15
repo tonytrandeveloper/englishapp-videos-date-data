@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "L0beRd3iyF0",
-            "title": "Oscars make strides in recognizing black films, filmmakers",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "-0fUSvDuttY",
             "title": "'The Dropout': The rise and fall of Elizabeth Holmes, Theranos",
             "secondDuration": 293,
@@ -31,8 +25,14 @@
             "title": "Oscar nominations are out: Who's in and who's out",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "ikjnay1548M",
+            "title": "The backlash from Lincoln Memorial confrontation",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

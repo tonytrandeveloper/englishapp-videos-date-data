@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "-hd9cf-MWD4",
-            "title": "Cuomo: New York Coronavirus Eviction Moratorium Extended Through August 20 | NBC News NOW",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBMQbOI9mJM",
             "title": "Mayor De Blasio: 218 Homeless New Yorkers Accepted Help From Outreach Services | NBC News NOW",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "Police Use Force In Attempt To Stop Brawl In Jersey City | NBC News NOW",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "iPN3b9GHUHk",
+            "title": "White House: House ‘Did Not Act In Good Faith’ Requesting Fauci Testimony | NBC News",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

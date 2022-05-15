@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q1AzTts1_-o",
-            "title": "Valentine's Day Cancelled: Georgia Sheriff Shuts Down Holiday",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "SKgR6JuSjq0",
             "title": "Extreme Weather: Record Breaking Winter Storm Freezes East Coast",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Girl Survives Parachute Failure Describes Being 'Scared'",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "JZOsgysHlIY",
+            "title": "Historic Winter Storm Slams East Coast",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

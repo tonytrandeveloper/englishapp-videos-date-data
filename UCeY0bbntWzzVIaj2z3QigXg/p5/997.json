@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KQy6l24ymkE",
-            "title": "Biden Surveys Damage in Louisiana After Hurricane Ida",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "VYhT_wHY0W0",
             "title": "U.S. Added 235,000 Jobs in August",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "'QAnon Shaman' Pleads Guilty In Federal Court For Role in January 6 Riot",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "blrFmZaCpFU",
+            "title": "Morning News NOW Full Broadcast - September 3",
+            "secondDuration": 2875,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

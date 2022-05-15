@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-3jVT1ikPlI",
-            "title": "Brutal Cold Isn’t Going Anywhere | NBC Nightly News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "9eqUjitifj4",
             "title": "Increased Police Presence In Times Square On New Year’s Eve | NBC Nightly News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Snapshots Of 2017: Best Photos Of The Year | NBC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "BtVUz7Kpu04",
+            "title": "Dozens Killed In Suicide Attacks On Afghan Cultural Center | NBC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

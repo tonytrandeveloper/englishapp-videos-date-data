@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6T9tusqmS2c",
-            "title": "Woman dies after declining Tamiflu due to cost",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "i-fnn4tpI3s",
             "title": "Rob Porter's first wife responds to Kellyanne Conway's domestic violence comments op-ed",
             "secondDuration": 244,
@@ -121,8 +115,14 @@
             "title": "Former White House aide's ex-wife lashes back at Trump",
             "secondDuration": 323,
             "group": "group_7"
+        },
+        {
+            "videoId": "wOGLcUD2W9o",
+            "title": "US figure skater makes history at Winter Olympics",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_qHGaJqV4mg",
-            "title": "Attack at Fort Hood",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "q1CdC2IGoYI",
             "title": "Army Major Allegedly Kills Fellow Soldiers",
             "secondDuration": 254,
@@ -301,8 +295,14 @@
             "title": "Top Line: Va. Gov Elections and Contractor Abuse Bill",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "4Ke686VAh10",
+            "title": "Midterm Election Madness",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

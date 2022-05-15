@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7tIT0y6jpVw",
-            "title": "Magazine May Have Published Image of Secret Russian Submarine | 3rd Block | NBC News",
-            "secondDuration": 40,
-            "group": "group_7"
-        },
-        {
             "videoId": "aQd1WCsYdas",
             "title": "Al Qaeda Claims Responsibility for Charlie Hebdo Attack | NBC Nightly News",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "2015 Oscars: Acting Nominees All White | NBC Nightly News",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "q0ccNpvuJvw",
+            "title": "Belgian Police Kill Two Suspected Terrorists | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

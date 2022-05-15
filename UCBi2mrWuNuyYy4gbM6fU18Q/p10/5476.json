@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hFtMuzOmL0M",
-            "title": "'Dancing With the Stars' All-Star Season 15 Finale: Donald Driver on 3 Finalists' Performances",
-            "secondDuration": 228,
-            "group": "group_7"
-        },
-        {
             "videoId": "4kcQmJdpc7A",
             "title": "Caught on Tape: Toddler Nearly Hit by Car Crashing Into Store",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Inside Amazon: Secrets of an Online Mega-Giant",
             "secondDuration": 292,
             "group": "group_7"
+        },
+        {
+            "videoId": "pi9S5AHMqaM",
+            "title": "'Zero Dark Thirty' Focuses on Young Female CIA Agent",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

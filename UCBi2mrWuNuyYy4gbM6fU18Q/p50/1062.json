@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "M0gGEavkPig",
-            "title": "'This Week' Looks at Medal of Honor Ceremony: Honoring Clinton Romesha",
-            "secondDuration": 72,
-            "group": "group_7"
-        },
-        {
             "videoId": "8UCLwTLgOXg",
             "title": "Stuart Stevens During 'This Week' Roundtable: 'We don't have a 140 character problem'",
             "secondDuration": 77,
@@ -301,8 +295,14 @@
             "title": "Toy Fair 2013 With Giz Wiz Dick DeBartolo",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "USlXhub75w0",
+            "title": "Carnival Triumph Cruise Passengers Describe Ordeal",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

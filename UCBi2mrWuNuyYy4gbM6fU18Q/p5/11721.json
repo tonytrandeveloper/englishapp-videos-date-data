@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ONerGHt8KpA",
-            "title": "Webcast: Magic Johnson Group Buying LA Dodgers",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "2QsqrZcoAKE",
             "title": "Kevin Smith - \"Tough Sh*t\"",
             "secondDuration": 291,
@@ -31,8 +25,14 @@
             "title": "Jet Blue Pilot Restrained by Passengers",
             "secondDuration": 301,
             "group": "group_7"
+        },
+        {
+            "videoId": "3atZZENWL1s",
+            "title": "Female Crash Dummies Test in Slow Motion; New Car Safety Rating",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

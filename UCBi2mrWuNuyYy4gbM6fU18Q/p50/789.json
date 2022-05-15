@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Rru_Dfcq3iU",
-            "title": "Spanish Bullfighter Trains With Baby In His Arms | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "329wQiDeIOI",
             "title": "Trump Boycotts Debate | ABC News",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "Snow Causes Thousands of Car Crashes",
             "secondDuration": 271,
             "group": "group_7"
+        },
+        {
+            "videoId": "lZxUVsp2Tmg",
+            "title": "Snow, Flood Fears in New Jersey",
+            "secondDuration": 242,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Oq7R5LffR-U",
-            "title": "Bernie Sanders Speaks After Suspending Presidential Campaign | NBC News",
-            "secondDuration": 866,
-            "group": "group_7"
-        },
-        {
             "videoId": "zDJIVYjq_S8",
             "title": "Mayor De Blasio Gives Racial Breakdown Of New York's Coronavirus Fatalities | NBC News",
             "secondDuration": 97,
@@ -31,8 +25,14 @@
             "title": "Italian Grandmother, 103, Recovers From COVID-19 With Hydration, Pills, And Faith | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "jPgKAnG6U7c",
+            "title": "Some Tokyo Streets Still Busy Despite COVID-19 State Of Emergency | NBC News",
+            "secondDuration": 62,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E4cp8zWMcnk",
-            "title": "Black Bears Chase Tourists at Yellowstone National Park",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "4XIgIF6Tnro",
             "title": "Michelle Obama's Commencement Speech 2015 at Tuskegee University",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Severe Weather Across The Country",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "2ZGcb-rVoEc",
+            "title": "Angry Principal's Racial Rant at Graduation Ceremony",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

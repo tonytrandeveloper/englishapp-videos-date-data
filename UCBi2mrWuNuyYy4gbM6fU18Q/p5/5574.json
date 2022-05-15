@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cHwm2GsBKes",
-            "title": "LA battles largest wildfire in city's history",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "iGM-YeXvXW4",
             "title": "Neighborhoods struggle as water recedes post-Harvey",
             "secondDuration": 191,
@@ -31,8 +25,14 @@
             "title": "North Korea tests a hydrogen bomb",
             "secondDuration": 217,
             "group": "group_7"
+        },
+        {
+            "videoId": "w4SwKbTw9Ys",
+            "title": "JJ Watt, from 'sack machine' to giving machine",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

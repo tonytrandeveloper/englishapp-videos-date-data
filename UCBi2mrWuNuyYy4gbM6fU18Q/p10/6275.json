@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BV1VHKhg124",
-            "title": "'Top Line': O'Donnell, Woodward and Archie Comics",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "5Nfe0LLAyEc",
             "title": "Tom Jones: 'I Want to Live Forever'",
             "secondDuration": 213,
@@ -61,8 +55,14 @@
             "title": "Frazier: 'Will Entertain' Joining Black Caucus",
             "secondDuration": 574,
             "group": "group_7"
+        },
+        {
+            "videoId": "JT6uLYtlqWs",
+            "title": "'Top Line' Talks Lady Gaga, Murkowski and Money",
+            "secondDuration": 326,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

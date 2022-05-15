@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IZ-5tWwoGw4",
-            "title": "Watch Live: White House Press Briefing January 3rd | NBC News",
-            "secondDuration": 509,
-            "group": "group_7"
-        },
-        {
             "videoId": "ATaqJwfUp7o",
             "title": "Florida Woman Recounts Moments Leading Up To Her Rescue From Submerged Car | NBC News",
             "secondDuration": 178,
@@ -31,8 +25,14 @@
             "title": "Nancy Pelosi In Her First Moments As She Reclaims Speakership Of House | NBC News",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYxXfXjl4BM",
+            "title": "Forecasting 2020 For The Democrats | NBC News",
+            "secondDuration": 228,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

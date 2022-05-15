@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kUNhb4CmO9k",
-            "title": "George Zimmerman Jury Sees Slain Trayvon Martin Photos",
-            "secondDuration": 477,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q0DekfBm7Uo",
             "title": "$1.2 Million Plane Heist",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "From Hong Kong to Russia: Where Is Edward Snowden?",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "32ezAsUCJ7s",
+            "title": "WEBCAST: Zimmerman Opening Statements",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

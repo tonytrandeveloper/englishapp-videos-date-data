@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oDVR1PbyjGk",
-            "title": "Discovering You: Corey Baker | NBC Learn",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "9DtKXbiWwtE",
             "title": "Where Did They Go? Arkansas Hunters At A Loss As Ducks Disappear | NBC News",
             "secondDuration": 807,
@@ -121,8 +115,14 @@
             "title": "MacKenzie Bezos To Keep 25 Percent Amazon Stock After Divorce | NBC Nightly News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "YPup11BIJsA",
+            "title": "Hilaria Baldwin Announces That She May Be Having A Miscarriage | NBC Nightly News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

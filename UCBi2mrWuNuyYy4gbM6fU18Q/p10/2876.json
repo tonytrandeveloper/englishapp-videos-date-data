@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WEohdeRiegU",
-            "title": "North Korea claims its 1st intercontinental ballistic missile test",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "HJg_VL14W9I",
             "title": "Jujimufu is Instagram's acrobatic, bodybuilding star",
             "secondDuration": 388,
@@ -61,8 +55,14 @@
             "title": "Do Trump's anti-media tweets encourage violence?",
             "secondDuration": 235,
             "group": "group_7"
+        },
+        {
+            "videoId": "LXj_WBpz1FA",
+            "title": "Trump ramps up media war with CNN wrestling tweet",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

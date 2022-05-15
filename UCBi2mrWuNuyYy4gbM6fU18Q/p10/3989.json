@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CBL7CdW4N-s",
-            "title": "Donald Trump Takes on the Clintons",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZEmnBCd7RoA",
             "title": "Deadly Tornadoes Tear Through Texas",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Christmas Cooking With Emeril Lagasse",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "Je5E3WnVFyY",
+            "title": "Remembering the Reason for the Christmas Season",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

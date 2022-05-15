@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Mk6lm9FighI",
-            "title": "How to Disappear in the Digital Age",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSKTTz0_gJk",
             "title": "Tapper Fact Checks Obama's Speech",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Joe Biden: Obama Re-Centered Debate",
             "secondDuration": 242,
             "group": "group_7"
+        },
+        {
+            "videoId": "b2tqMCEHeWc",
+            "title": "Ellen DeGeneres Joins 'American Idol'",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Ue4l8dLoyxQ",
-            "title": "Ring, Amazon sued over string of hacked security cameras | ABC News",
-            "secondDuration": 159,
-            "group": "group_7"
-        },
-        {
             "videoId": "eXUOSK-vBps",
             "title": "Trump and Speaker Pelosi trade barbs on Twitter over impeachment | ABC News",
             "secondDuration": 160,
@@ -301,8 +295,14 @@
             "title": "The Year 2019: Marie Kondo, 'Avengers: Endgame,' a royal baby and other obsessions l ABC News",
             "secondDuration": 447,
             "group": "group_7"
+        },
+        {
+            "videoId": "x3EdpMt1hNA",
+            "title": "The Year 2019: Remembering those we lost l ABC News",
+            "secondDuration": 367,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

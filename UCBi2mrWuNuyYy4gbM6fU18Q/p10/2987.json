@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IkK2zMTnQYI",
-            "title": "High school junior takes his 93-year-old grandmother to prom",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "iHB-Za6aFEs",
             "title": "Panda spotted in the wild in China",
             "secondDuration": 53,
@@ -61,8 +55,14 @@
             "title": "President Trump's SCOTUS nominee clears a key committee",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "za0MffNfflM",
+            "title": "Louisiana is in a state of emergency, as twister lifts up car and drops it back down",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

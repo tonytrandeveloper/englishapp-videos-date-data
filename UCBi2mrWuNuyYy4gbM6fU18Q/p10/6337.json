@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yDbocZ438f0",
-            "title": "Obesity in America",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "VE_TviejQJk",
             "title": "Congo's Conflict Metals, Minerals May Have Built your PC, Phone",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "Kara DioGuardi talks Paula Abdul: Their Relationship and Paula's Future",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "KeCkmSSL8jI",
+            "title": "The Conversation: The Facebook Movement",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

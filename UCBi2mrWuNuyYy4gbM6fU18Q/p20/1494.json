@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IkK2zMTnQYI",
-            "title": "High school junior takes his 93-year-old grandmother to prom",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "iHB-Za6aFEs",
             "title": "Panda spotted in the wild in China",
             "secondDuration": 53,
@@ -121,8 +115,14 @@
             "title": "2 explosions kill at least 10 in St. Petersburg",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "-wyWowfNsLY",
+            "title": "Possible new sighting of missing teacher and former student",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

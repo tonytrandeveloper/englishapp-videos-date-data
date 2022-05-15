@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d0p_0X3lFM8",
-            "title": "Dancing With the Stars, Matchups Revealed (03.02.11)",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "DgpF22wXl00",
             "title": "Was Mickey Rooney Abused? (03.02.11)",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Rethinking Meat and Veggies",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQX8T-qWf7A",
+            "title": "The State of Women in America",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

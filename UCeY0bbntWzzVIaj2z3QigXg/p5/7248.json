@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S34Fr9UYjfI",
-            "title": "Hillary Clinton's Close Relationship With Obama | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "EWxAgOtfyZs",
             "title": "Edward Snowden's Faith In Government | NBC News",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "Snowden: Any Cell Phone Can Be Hacked | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-dfwHCjM3k",
+            "title": "Snowden Discusses Surveillance Reform | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

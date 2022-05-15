@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ikiE3xH1Wms",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 2449,
-            "group": "group_7"
-        },
-        {
             "videoId": "o909yQ0IXjY",
             "title": "Morning News NOW Full Broadcast - March 3",
             "secondDuration": 3054,
@@ -61,8 +55,14 @@
             "title": "White House Unveils New Covid Plan, No Longer Recommends Contact Tracing",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "cbF3J71tqcQ",
+            "title": "Russian Anti-Invasion Protesters Detained In St. Petersburg",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

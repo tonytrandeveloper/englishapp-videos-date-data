@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Tqrwyhad9yA",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 1752,
-            "group": "group_7"
-        },
-        {
             "videoId": "4oAnFzafTyg",
             "title": "Trump Signs Bill To Help Preserve 'Grandeur And Splendor' Of National Parks | NBC News NOW",
             "secondDuration": 137,
@@ -31,8 +25,14 @@
             "title": "Live: Trump Participates in Signing Ceremony for the Great Outdoors Act | NBC News",
             "secondDuration": 2008,
             "group": "group_7"
+        },
+        {
+            "videoId": "GrgYxLD8SAo",
+            "title": "Honeymooners Finally Return Home After Being Stranded By Coronavirus For Months | NBC News NOW",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

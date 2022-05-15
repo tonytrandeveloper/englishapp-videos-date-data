@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QkRGmx0CSP0",
-            "title": "TOP LINE: Obama Ratchets Up Rhetoric at G-20",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "J3OcH9FpJcw",
             "title": "Are We Born to Cheat?",
             "secondDuration": 334,
@@ -61,8 +55,14 @@
             "title": "NYC Terror Suspect Charged in Bomb Plot",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "qJxqk3cTuF0",
+            "title": "Why Pittsburgh for the G20 Summit?",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

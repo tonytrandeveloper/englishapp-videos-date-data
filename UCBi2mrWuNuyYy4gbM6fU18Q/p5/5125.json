@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LIY7iWY3tgs",
-            "title": "Donald Trump Jr., wife to divorce",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpYFMwRRnhs",
             "title": "Man left in alleyway as an infant searches for birth parents: Part 1",
             "secondDuration": 596,
@@ -31,8 +25,14 @@
             "title": "Special counsel subpoenas the Trump Organization for Russia documents",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "2cZhXExqsT0",
+            "title": "'Instant bridge' that collapsed in Miami supposed to last 100 years",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

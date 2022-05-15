@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "xes5PzOucko",
-            "title": "James Cameron’s Deep Sea Challenge in 3D",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "YZRZH9H3wJ8",
             "title": "Drone Danger in the Sky",
             "secondDuration": 114,
@@ -301,8 +295,14 @@
             "title": "Chris Pratt Discusses His Role in 'Guardians of the Galaxy'",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "3NqCM2sTEDA",
+            "title": "Will.i.am Discusses the Release of His Debut Solo Album",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

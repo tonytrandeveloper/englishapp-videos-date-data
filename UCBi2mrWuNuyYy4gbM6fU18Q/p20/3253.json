@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dSZNnz9SM4g",
-            "title": "Howie Mandel Talks About Living With OCD | 20/20 | ABC News",
-            "secondDuration": 547,
-            "group": "group_7"
-        },
-        {
             "videoId": "hub7eUn1lZs",
             "title": "Search for Thanksgiving Killer in Florida",
             "secondDuration": 359,
@@ -121,8 +115,14 @@
             "title": "The Bottom Line on the State Dinner",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "vn5VFZVmcSo",
+            "title": "The Rachel Ray Way",
+            "secondDuration": 402,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

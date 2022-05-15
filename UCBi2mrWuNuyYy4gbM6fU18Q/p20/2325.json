@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "2lFrDufvcAI",
-            "title": "Ebola Patients to Return Home",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "LpRugCzAtoI",
             "title": "Josh Brolin Interview 2014: Actor on Latest Role in 'Sin City: A Dame to Kill For'",
             "secondDuration": 216,
@@ -121,8 +115,14 @@
             "title": "Rhode Island Coach’s Winning Spirit is a Homerun Despite Loss in Little League World Series",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMcoIN_vlXw",
+            "title": "Mission: Saving Money on a Last-Minute Summer Vacation",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

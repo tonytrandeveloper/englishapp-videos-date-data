@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cs7hWzVSEME",
-            "title": "Oklahoma Tornadoes Devastate Residents",
-            "secondDuration": 469,
-            "group": "group_7"
-        },
-        {
             "videoId": "secNgNYpRc0",
             "title": "The Bunker Tapes: Saving Ethan",
             "secondDuration": 401,
@@ -31,8 +25,14 @@
             "title": "Severe Drought Creates Price Spike in Nation's Beef Supply",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pq9pU2Jj77Y",
+            "title": "Houston Hotel Fire Kills Firefighters During Enormous Blaze",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

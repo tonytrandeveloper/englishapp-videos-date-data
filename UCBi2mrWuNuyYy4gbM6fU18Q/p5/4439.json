@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7nGCL4nIfxE",
-            "title": "New Year's Eve celebration kicks off in Australia",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "yfQ9IjzHwpc",
             "title": "Police search for suspect after 7-year-old shot in Walmart parking lot",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Outgoing White House chief of staff challenges definition of border wall",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "BnSW4rfpzK0",
+            "title": "Thousands of the protesters have taken to the streets in Paris",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

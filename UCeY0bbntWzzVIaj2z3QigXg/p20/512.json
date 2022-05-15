@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "97LSlekxXf8",
-            "title": "Officials Hold Briefing On Operation Warp Speed, Covid Vaccine Distribution",
-            "secondDuration": 3016,
-            "group": "group_7"
-        },
-        {
             "videoId": "TKrcoVViWAM",
             "title": "Watch: New York Gov. Andrew Cuomo Holds Briefing On Covid-19 | NBC News",
             "secondDuration": 1495,
@@ -121,8 +115,14 @@
             "title": "First Lady Melania Trump Receives White House Christmas Tree | NBC News NOW",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "bBwkDK835yw",
+            "title": "Cuomo: Covid Hospitalization Numbers Rose 122 Percent In Last Three Weeks | NBC News NOW",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

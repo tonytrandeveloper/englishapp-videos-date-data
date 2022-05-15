@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Xv_6fOHuM4E",
-            "title": "Chuck: 'It Was A Train Wreck' | Meet The Press | NBC News",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q-xTJ0swS2k",
             "title": "First Presidential Debate Kicks Off With Interruptions, Insults | NBC News",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Amy Coney Barrett’s Judicial Record: What We Know | NBC News NOW",
             "secondDuration": 584,
             "group": "group_7"
+        },
+        {
+            "videoId": "uRvr64hwoXc",
+            "title": "WATCH: Jet Suit Paramedic Joins Mountain Rescue Drill | NBC News NOW",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

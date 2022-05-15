@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "93M1NMWWW8s",
-            "title": "Meet the Press - Christie, Plouffe, Roundtable - Setpember 30, 2012",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "En9RUKeP-1A",
             "title": "2012 Presidential Debate on NBC News: October 3, 2012 at 9E/6P",
             "secondDuration": 16,
@@ -31,8 +25,14 @@
             "title": "Justin Bieber and Ryan Seacrest Behind the Scenes on Rock Center",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "7FDWWVUZgQ0",
+            "title": "Meet the Press - Mitt Romney; Roundtable - September 9, 2012",
+            "secondDuration": 21,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jmtDDpRCU5U",
-            "title": "Where the GOP Candidates Stand the Day After the ABC Debate",
-            "secondDuration": 197,
-            "group": "group_7"
-        },
-        {
             "videoId": "PNZxyBchDWE",
             "title": "Democratic Candidates Race to the Front Just Two Days Before New Hampshire Primary",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "360° View Inside the GOP Debate Spin Room | ABC News",
             "secondDuration": 53,
             "group": "group_7"
+        },
+        {
+            "videoId": "IJE-utieDDc",
+            "title": "Marco Rubio Fought off GOP Candidates at Latest Debate",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

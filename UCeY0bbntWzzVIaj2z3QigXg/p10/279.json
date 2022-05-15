@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yh8bilaGvpg",
-            "title": "Kellogg's Workers Ratify Tentative Contract After Strike",
-            "secondDuration": 412,
-            "group": "group_7"
-        },
-        {
             "videoId": "TKsG1gXjNhw",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Dec. 21 | NBC News NOW",
             "secondDuration": 3100,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW Full Episode – Dec. 21 | NBC News NOW",
             "secondDuration": 3099,
             "group": "group_7"
+        },
+        {
+            "videoId": "0DKEiEATQTM",
+            "title": "One-On-One With U.S. Surgeon General As Covid Cases Rise",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

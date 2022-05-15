@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SHeKHl7vaEs",
-            "title": "The Russia-Ukraine Conflict Explained | Nightly News: Kids Edition",
-            "secondDuration": 1545,
-            "group": "group_7"
-        },
-        {
             "videoId": "zsd_A_qo7zo",
             "title": "How Russia Could Be Impacted By New Economic Sanctions",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Watch Joe Biden’s Full Speech Denouncing Russia’s Invasion of Ukraine | NBC News",
             "secondDuration": 2360,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8I8FkGgoPA",
+            "title": "'Putin Is The Aggressor': Biden Announces Sanctions In Response To Russian Attacks On Ukraine",
+            "secondDuration": 283,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

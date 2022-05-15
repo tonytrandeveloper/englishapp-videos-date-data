@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kAEhKh7eKzw",
-            "title": "Democratic candidates debate: Addressing country's racism l ABC News",
-            "secondDuration": 880,
-            "group": "group_7"
-        },
-        {
             "videoId": "nrc0-K3U0MQ",
             "title": "Democratic candidates debate: Gun reform l ABC News",
             "secondDuration": 945,
@@ -31,8 +25,14 @@
             "title": "Trump will tune into the Democratic Debate",
             "secondDuration": 161,
             "group": "group_7"
+        },
+        {
+            "videoId": "8O_i-1CcrRo",
+            "title": "Top 10 candidates take the stage for the Democratic Debate in Houston",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

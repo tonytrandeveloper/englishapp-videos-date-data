@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-MgC5BsPdK4",
-            "title": "Campers Mauled in Bear Attack",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNPgjY8X7y4",
             "title": "Hospital Mix-Up: Survivor's Mom Speaks",
             "secondDuration": 404,
@@ -61,8 +55,14 @@
             "title": "Deadly Plane Crash in Pakistan",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ss11GwCMViU",
+            "title": "Maryland 'Serial Killer Charged",
+            "secondDuration": 348,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

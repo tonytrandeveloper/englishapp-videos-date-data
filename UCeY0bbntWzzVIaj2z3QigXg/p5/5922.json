@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1KsEW7iNPoU",
-            "title": "‘Obamacare Is Death,’ President Donald Trump Declares | NBC Nightly News",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "eNRH567Q4Bk",
             "title": "Jared Kushner Meets With Senate Committee: \"I Did Not Collude With Russia\" | NBC Nightly News",
             "secondDuration": 166,
@@ -31,8 +25,14 @@
             "title": "Going Home: Joe Maddon and His Plans to Reunite His Divided Hometown | Megyn Kelly | NBC News",
             "secondDuration": 669,
             "group": "group_7"
+        },
+        {
+            "videoId": "AyWjC1asfq0",
+            "title": "General Joseph Dunford On North Korea: We Can Protect The American People Today | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

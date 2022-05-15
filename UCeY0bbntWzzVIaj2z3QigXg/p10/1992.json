@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w_rgv0cKNq8",
-            "title": "SpaceX Deploys 60 Starlink Satellites After Successful Launch | Mach | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "ddNhOy53iJo",
             "title": "SpaceX launches Falcon 9 in Starlink mission",
             "secondDuration": 4282,
@@ -61,8 +55,14 @@
             "title": "Former Jihadist Works To Reform Charlottesville Extremist | NBC News NOW",
             "secondDuration": 403,
             "group": "group_7"
+        },
+        {
+            "videoId": "vKHuyp44vhQ",
+            "title": "Does The End Of ‘GOT’ Mean Subscriber Churn? | NBC News NOW",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

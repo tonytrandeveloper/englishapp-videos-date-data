@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zQ92z_jGf9w",
-            "title": "Vigil for Pittsburgh shooting victims",
-            "secondDuration": 8415,
-            "group": "group_7"
-        },
-        {
             "videoId": "zAIp3s1i9bE",
             "title": "‘A Horrific Crime Scene:’ Officials Describe Aftermath Of Pittsburgh Shooting | NBC Nightly News",
             "secondDuration": 87,
@@ -121,8 +115,14 @@
             "title": "New Details On Mail Bomb Suspect Cesar Sayoc As Investigation Continues | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "m3pLgIbUCQo",
+            "title": "What We Know About The Pittsburgh Synagogue Shooting Suspect | NBC Nightly News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gsPAg9hxVcA",
-            "title": "Breaking Down The Case Against Alex Jones | NBC News Now",
-            "secondDuration": 216,
-            "group": "group_7"
-        },
-        {
             "videoId": "_zH3PKvwg1k",
             "title": "Bodycam Shows Jussie Smollett With Rope Around His Neck After Alleged Attack | NBC News",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Investigators Examining Repairs Of Crashed Plane That Killed 11 People On Board | NBC Nightly News",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "BxkMThJPv7k",
+            "title": "300 Migrant Children In Crowded Conditions Moved To Tent Camp After Outcry | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

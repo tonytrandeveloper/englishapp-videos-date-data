@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SUpfku1ccYc",
-            "title": "A look at ABC News’ 2020 presidential debate hall",
-            "secondDuration": 37,
-            "group": "group_7"
-        },
-        {
             "videoId": "bWmuTzQOT2k",
             "title": "Melania Trump takes on issue of e-cigarettes l ABC News",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Rescuer describes saving crew on capsized ship l ABC News",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "YSx2ot7BNvQ",
+            "title": "North Korea fires at least 2 projectiles into sea l ABC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

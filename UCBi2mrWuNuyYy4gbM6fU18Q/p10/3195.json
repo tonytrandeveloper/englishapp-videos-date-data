@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T4PL5m7cy-g",
-            "title": "Christmas Parade Shooting | 1 Arrested",
-            "secondDuration": 29,
-            "group": "group_7"
-        },
-        {
             "videoId": "Flej-73VLW8",
             "title": "Edward Snowden Full  Interview on Trump, Petraeus, & Having 'No Regrets'",
             "secondDuration": 428,
@@ -61,8 +55,14 @@
             "title": "Donald Trump, Ivanka Meet With Al Gore",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "AtVqXvVJfiI",
+            "title": "Michael Slager Mistrial Outrage Grows",
+            "secondDuration": 395,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

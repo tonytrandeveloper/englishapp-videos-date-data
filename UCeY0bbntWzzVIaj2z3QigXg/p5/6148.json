@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8VBmHCca_6k",
-            "title": "SpaceX Falcon 9 Rocket Carries Classified Satellite Into Space | NBC News",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "Zm17oY2yGcQ",
             "title": "Are You The Office Jerk? | Better | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Inspiring America: 25 Years After The LA Riots, A Doctor Inspires America | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1OJqkmEcCE",
+            "title": "President Donald Trump Fires Up His Base In Historic NRA Speech | NBC Nightly News",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

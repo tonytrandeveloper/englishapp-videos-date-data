@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6IMsR1Y8aSY",
-            "title": "Minnesota Mall Stabbing Rampage | At Least 8 Injured",
-            "secondDuration": 134,
-            "group": "group_7"
-        },
-        {
             "videoId": "p94Ewvfj9Mw",
             "title": "NYC Explosion | Former NYPD, Homeland Security Official on Explosion",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "New York City Explosion | Candidates React",
             "secondDuration": 47,
             "group": "group_7"
+        },
+        {
+            "videoId": "DIvUAI4c1t0",
+            "title": "NYC Explosion Rocks Chelsea Neighborhood",
+            "secondDuration": 67,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

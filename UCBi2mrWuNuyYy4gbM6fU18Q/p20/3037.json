@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OmxrHjHMv3g",
-            "title": "Will and Kate Take Ottawa",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "n-Z2q4srvLo",
             "title": "Hidden Talents Save U.S. Jobs",
             "secondDuration": 133,
@@ -121,8 +115,14 @@
             "title": "Dry Ice Bomb Video: Dangerous Trend Hits Web",
             "secondDuration": 144,
             "group": "group_7"
+        },
+        {
+            "videoId": "dvvs1zTHTqY",
+            "title": "Rob Do My Job: Lucky Strike Bowling Alley",
+            "secondDuration": 290,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

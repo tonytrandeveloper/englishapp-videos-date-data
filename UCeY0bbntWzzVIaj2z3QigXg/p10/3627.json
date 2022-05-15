@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rWQ26B3oQNc",
-            "title": "\"Washio\" App Delivers Laundry, Drycleaning | Short Cuts | NBC News",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2Z4UxdYrWU",
             "title": "Can Air France 447 Help Find MH370? | Flashback | NBC News",
             "secondDuration": 175,
@@ -61,8 +55,14 @@
             "title": "This Teenager Will Revolutionize Nuclear Power | Archives | NBC News",
             "secondDuration": 569,
             "group": "group_7"
+        },
+        {
+            "videoId": "DRAwuB7rdrM",
+            "title": "Can Video Games Help Map The Brain? | Nerdwatch | NBC News",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "At7byiGzVzc",
-            "title": "Authorities Detain Possible Suspect | NBC News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "p-CWw9iQmlE",
             "title": "President Donald Trump Comments On School Shooting | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Parkland, Florida School Shooting: Father Describes What His Daughter Saw Inside | NBC News",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "HU10H6Ktzd8",
+            "title": "School Shooting Reported In Florida | NBC News",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

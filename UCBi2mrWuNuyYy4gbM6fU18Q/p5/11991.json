@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qH8o9YVvvAU",
-            "title": "Fitness Guru, C.J. Senter, 10, Has Six-Pack: Too Fit, Too Soon? | Nightline | ABC News",
-            "secondDuration": 244,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y4IVI3LV4dM",
             "title": "Herman Cain: GOP's Newest Rising Star Heads Into Debate Ahead of Rick Perry, Surging in Polls",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "Rescue Mission to Save South Pole Scientist",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "id4JNAeRxkw",
+            "title": "Rick Perry Attacks Mitt Romney in New Ad",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

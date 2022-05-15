@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-MgC5BsPdK4",
-            "title": "Campers Mauled in Bear Attack",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "XNPgjY8X7y4",
             "title": "Hospital Mix-Up: Survivor's Mom Speaks",
             "secondDuration": 404,
@@ -31,8 +25,14 @@
             "title": "Missouri State University to Right Racial Wrong",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "FbQddfQm-M4",
+            "title": "Obama on 'Roses and Thorns' of Office",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

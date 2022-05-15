@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x3TZUBMmnek",
-            "title": "Janet Reno Dead at 78 | Remembering the Former US Attorney General",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "0SweS4JJ2_I",
             "title": "Off-Duty Cop Kills Black Man Joshua Beal in Chicago",
             "secondDuration": 36,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Campaigns with Beyonce, Jay-z & Katy Perry",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "fwEkTuZ1Qxk",
+            "title": "Election Results Revealed by Tarot Card Reader",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

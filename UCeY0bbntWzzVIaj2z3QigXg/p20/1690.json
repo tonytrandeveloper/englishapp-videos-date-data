@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Arle8ww4T80",
-            "title": "Reading the Ogallala Aquifer: Saving Ancient Water | NBC News",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "I1E8B-Q-qC4",
             "title": "Bernie Sanders Acknowledges Path to Nomination Is ‘Hard’ But ‘Not Unrealistic’ | NBC Nightly News",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Woman Rescues Horse From Floodwaters | NBC News",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "E0FTw-WpU5o",
+            "title": "More Than 350 Dead and 2,500 Injured After Powerful Quake Hits Ecuador | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

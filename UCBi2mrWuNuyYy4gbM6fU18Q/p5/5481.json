@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "34BQx_YzJt0",
-            "title": "Trump faces divide on NFL, Republican issues",
-            "secondDuration": 193,
-            "group": "group_7"
-        },
-        {
             "videoId": "rV9K_PQAvXU",
             "title": "Republican senator blasts President Trump",
             "secondDuration": 255,
@@ -31,8 +25,14 @@
             "title": "Outrage over a deadly police shooting in Utah",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "AlYPdXUa9c0",
+            "title": "Harvey Weinstein fired from the company he co-founded after misconduct allegations",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

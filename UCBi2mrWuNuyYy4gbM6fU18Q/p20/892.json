@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "IuKPAkquqmY",
-            "title": "House of Representatives has voted",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "0mDpZLlOtwA",
             "title": "Cuba Gooding Jr. facing new charges of misconduct",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Teams of firefighters work to protect library, homes in California",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "sGfGZ_1iVnI",
+            "title": "Extreme red flag warning issued as fires rage in California",
+            "secondDuration": 354,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

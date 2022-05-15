@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1156XZTBJvQ",
-            "title": "3 US soldiers killed, 1 wounded in insider attack in Afghanistan",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "1xyixr0fmSU",
             "title": "One man takes to the skies for a tense and scary marriage proposal",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Adam West, known for playing the 'caped crusader' has died",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "rvVEtgC5OkE",
+            "title": "Trump gives first public remarks since Comey's testimony",
+            "secondDuration": 420,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

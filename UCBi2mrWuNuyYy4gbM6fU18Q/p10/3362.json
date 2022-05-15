@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qiYsX7dxVPM",
-            "title": "Lady Gaga Headlining Super Bowl 51 Halftime Show",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "wgLop5bHI0M",
             "title": "'Life at Vet U' Shows Vet Students Tackling Animal ER Challenges",
             "secondDuration": 407,
@@ -61,8 +55,14 @@
             "title": "Obama Welcomes Team USA to White House",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "PrFeLlyFePQ",
+            "title": "Father Has THE BEST Reaction to Shoes",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

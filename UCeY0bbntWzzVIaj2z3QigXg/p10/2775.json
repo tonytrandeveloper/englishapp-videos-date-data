@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pbF1gEdtJgs",
-            "title": "North Korean Soldier Makes Desperate Escape In Border Chase | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HpucVWp9E3M",
             "title": "Holiday Gridlock Ensues As Thanksgiving Travelers Flock Roads And Airports | NBC Nightly News",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Police Give Turkeys, Not Tickets | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "lBfxaedHjNU",
+            "title": "Former USA Olympics Doctor Larry Nassar: ‘I’m So Horribly Sorry’ For Abusing Girls | NBC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

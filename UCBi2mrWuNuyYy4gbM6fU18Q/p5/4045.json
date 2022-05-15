@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V77j1V7XiDs",
-            "title": "New Mexico student tased by deputy",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "BAzLmBrVcqo",
             "title": "Delaware woman survived beating at Dominican Republic resort",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "The Debrief: Abortion debate, Everest deaths, MLB foul ball scare | ABC News",
             "secondDuration": 1571,
             "group": "group_7"
+        },
+        {
+            "videoId": "X11pAq66CbE",
+            "title": "Raptors beat Warriors in Game 1 of NBA Finals",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

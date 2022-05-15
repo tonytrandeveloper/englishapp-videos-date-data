@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "qn-VbZBTRcc",
-            "title": "GMA's 'Mad Men' Spoof",
-            "secondDuration": 23,
-            "group": "group_7"
-        },
-        {
             "videoId": "OEzOVrCq94Q",
             "title": "iPhone Thefts Caught on Tape",
             "secondDuration": 133,
@@ -31,8 +25,14 @@
             "title": "Afghanistan Suicide Bombing Shifts U.S. Troops' Orders",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "L51Q8LeqC-I",
+            "title": "Mitt Romney Video: Republican vs. Democrat Reaction",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

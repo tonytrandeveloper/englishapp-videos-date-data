@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1M5acB2fKrs",
-            "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuiY_sKAsqQ",
             "title": "Coronavirus Outbreak: Strained Hospitals Running Low On Supplies | NBC Nightly News",
             "secondDuration": 142,
@@ -31,8 +25,14 @@
             "title": "'We're Doing Great': Trump Celebrates Fed Rate Cuts As COVID-19 Cases Grow | NBC News",
             "secondDuration": 199,
             "group": "group_7"
+        },
+        {
+            "videoId": "UVSWUDrAVHk",
+            "title": "Coverage of the COVID-19 outbreak | NBC News",
+            "secondDuration": 6528,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

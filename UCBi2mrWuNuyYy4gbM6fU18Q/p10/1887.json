@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TzxfC7CqbOQ",
-            "title": "Patient dies from severe respiratory illness, possibly from vaping",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "hxKmOT5NuJs",
             "title": "Michael Drejka found guilty of manslaughter",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "Secret tricks to hack fall and holiday travel | ABC News",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "wTikWUQUpPg",
+            "title": "Beverly Hills Realtor charged in celebrity burglaries | ABC News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

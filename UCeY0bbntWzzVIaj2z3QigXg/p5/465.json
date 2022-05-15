@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gu4CISy_-pQ",
-            "title": "Video Game Giant Activision Blizzard Faces Worker Walkout",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnFRTx8tVfM",
             "title": "Ohio Supreme Court Battles Partisan Gerrymandering In Redistricting Process",
             "secondDuration": 310,
@@ -31,8 +25,14 @@
             "title": "Top Story With Tom Llamas - Jan. 14 | NBC News NOW",
             "secondDuration": 2483,
             "group": "group_7"
+        },
+        {
+            "videoId": "OylC0OON0jk",
+            "title": "Data From Major U.S. Cities Suggest Omicron Is Peaking",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

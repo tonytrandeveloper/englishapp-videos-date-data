@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SUn84kEDGJs",
-            "title": "A Great Big World's Debut Album 'Is There Anybody Out There?' Drops",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "HEw5L1Rix6M",
             "title": "Polar Vortex Returns: Winter Storm Targets East Coast",
             "secondDuration": 256,
@@ -61,8 +55,14 @@
             "title": "All Eyes on Russia Winter Olympic Terror Threat",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "UeExOsyAAdY",
+            "title": "Carly Rae Jepsen is Broadway Bound in 'Cinderella'",
+            "secondDuration": 304,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

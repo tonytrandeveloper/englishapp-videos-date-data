@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U7AFnSxYSyQ",
-            "title": "Vice Presidential Debate Full Highlights | Pence, Kaine on  Social Security",
-            "secondDuration": 160,
-            "group": "group_7"
-        },
-        {
             "videoId": "LZpHW4DYcu4",
             "title": "VP Debate Full Highlights | Trump & Clinton's Trustworthiness, Likeability",
             "secondDuration": 354,
@@ -31,8 +25,14 @@
             "title": "Tim Kaine and Mike Pence Set to Face Off in Virginia",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "2t-88javFZU",
+            "title": "Hurricane Matthew Strikes Haiti",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

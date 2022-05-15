@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "DrSSR3mihdo",
-            "title": "6.4 earthquake hits Puerto Rico leaving 1 dead, multiple injured l ABC News",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "jldSH475OLM",
             "title": "Crews race against time, weather changes to contain Australia fires | ABC News",
             "secondDuration": 199,
@@ -301,8 +295,14 @@
             "title": "Trapped | 20/20 | PART 5",
             "secondDuration": 481,
             "group": "group_7"
+        },
+        {
+            "videoId": "BbBjWcr6R78",
+            "title": "Trapped | 20/20 | PART 4",
+            "secondDuration": 489,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

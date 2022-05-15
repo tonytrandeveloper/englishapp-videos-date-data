@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BMP1DL0y570",
-            "title": "Brown University Student Tests Positive for Date-Rape Drug",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "NskLOmF046Y",
             "title": "Private Jet Crashes in the Bahamas",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "How to Survive a Bear Attack (Episode 1) | Good Morning America | ABC News",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "RdkmPPHQNLs",
+            "title": "SKINNY: 2014 MTV EMA's",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

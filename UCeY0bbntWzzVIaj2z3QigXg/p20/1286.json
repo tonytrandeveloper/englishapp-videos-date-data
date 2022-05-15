@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jipOHCRVZdU",
-            "title": "Nationwide Hunt For Grandmother Accused Of Two Murders | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "LyT5QXUnBGE",
             "title": "Supreme Court Debates Internet Sales Tax Case | NBC Nightly News",
             "secondDuration": 110,
@@ -121,8 +115,14 @@
             "title": "South Carolina Official Discusses Events Surrounding Inmate Deaths | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "amWoSSfzuiY",
+            "title": "NASA’s New Satellite TESS Will Look For Undiscovered Alien Worlds | Mach | NBC News",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

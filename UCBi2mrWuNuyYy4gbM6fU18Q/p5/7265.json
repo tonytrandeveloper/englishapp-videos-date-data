@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3pQx8EG1-Yk",
-            "title": "David Muir Reports: Win for New York Silverware Company",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "a4T-yGqaHR0",
             "title": "Sister Accused of Killing Her Twin in Hawaii",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "3 Men Rescued From Lake Michigan [CAUGHT ON TAPE]",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "uBfG26Yw4bE",
+            "title": "Sea Lice Outbreaks on the Rise in Beaches",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

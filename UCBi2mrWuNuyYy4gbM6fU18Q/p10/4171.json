@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "krcn1mGyWsQ",
-            "title": "Man Accuses Ex-Girlfriend of Misappropriating His Sperm",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "1VVNOqziR8I",
             "title": "Hillary Clinton Agrees to Turn Over Private Email Server",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Donald Trump's New Tone",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "DwmxBUu3HNs",
+            "title": "New Warnings About Toxic Rivers",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

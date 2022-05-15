@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SeBhxLlXEJk",
-            "title": "Servicemen Murder Investigation Reveals Acts of Heroism",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "fHnL8oQEcjA",
             "title": "New Dash Cam Footage Released in Sandra Bland Case",
             "secondDuration": 192,
@@ -121,8 +115,14 @@
             "title": "Ginger Zee and Ben Aaron Reveal Gender of Their Baby",
             "secondDuration": 173,
             "group": "group_7"
+        },
+        {
+            "videoId": "CjeFRqtEaY0",
+            "title": "Sandra Bland Jailhouse Video Shows Last Moments of Her Life",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

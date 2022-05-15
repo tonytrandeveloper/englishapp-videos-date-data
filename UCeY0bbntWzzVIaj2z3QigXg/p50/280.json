@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "eEIrk_Hlt5I",
-            "title": "Live: Trump Delivers Remarks at a Presidential Recognition Ceremony | NBC News",
-            "secondDuration": 1197,
-            "group": "group_7"
-        },
-        {
             "videoId": "cd-59-pW6Ck",
             "title": "White House Holds Press Briefing: May 15 | NBC News",
             "secondDuration": 2024,
@@ -301,8 +295,14 @@
             "title": "EMT Killed At Home By Kentucky Police In ‘Botched Raid,’ Family Says | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "GGRUN6AefkQ",
+            "title": "NBC News Medical Contributor Speaks Out About Coronavirus Hospitalization | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

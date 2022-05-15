@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "F2RQPVO-ibU",
-            "title": "ISIS names new leader, issues threat to US l ABC News",
-            "secondDuration": 85,
-            "group": "group_7"
-        },
-        {
             "videoId": "jcRL658fGlM",
             "title": "Katie Hill blasts 'double standard' in final floor speech l ABC News",
             "secondDuration": 320,
@@ -31,8 +25,14 @@
             "title": "Trump impeachment inquiry enters new phase l ABC News",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "OyX5QDUNEtc",
+            "title": "Nationals return to DC as World Series champs l ABC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

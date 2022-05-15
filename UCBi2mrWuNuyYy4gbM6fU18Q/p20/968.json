@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tWHwVFaFTEY",
-            "title": "Russian meddling 'wasn't a single attempt. They're doing it as we sit here': Mueller",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "WSR9OeR2jkA",
             "title": "Russian interference not a hoax, investigation not a witch hunt: Mueller",
             "secondDuration": 199,
@@ -121,8 +115,14 @@
             "title": "Boris Johnson replaces Theresa May as UK prime minister",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "w5AM31JB5CY",
+            "title": "Puerto Rico governor may resign amid massive protests",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

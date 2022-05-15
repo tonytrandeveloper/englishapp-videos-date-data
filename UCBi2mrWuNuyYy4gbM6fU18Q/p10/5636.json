@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EKux363Dg64",
-            "title": "Jennifer Granholm DNC Speech Highlights: 'Rev Up Your Engines'",
-            "secondDuration": 248,
-            "group": "group_7"
-        },
-        {
             "videoId": "6Y-2eQhLtP4",
             "title": "Julian Castro at DNC With Twin Brother Joaquin: Discuss Being Twins at DNC, Obama's Leadership",
             "secondDuration": 378,
@@ -61,8 +55,14 @@
             "title": "Bob Woodward Book Exposes Obama-Boehner Cracks",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "f1ldt-jU1J8",
+            "title": "L.A. Bank Robbers' 'Bomb' Was a Fake",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

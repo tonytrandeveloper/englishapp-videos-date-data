@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JEZCBLzyumc",
-            "title": "Full Pollsters: Trump Has 'Never Had A Positive Job Rating' in NBC News / WSJ Poll | Meet The Press",
-            "secondDuration": 389,
-            "group": "group_7"
-        },
-        {
             "videoId": "-BGrpryl-Gc",
             "title": "Full Panel: 'Tale of Two Very Different Campaigns' | Meet The Press | NBC News",
             "secondDuration": 425,
@@ -31,8 +25,14 @@
             "title": "Trump Holds Campaign Rally In Pennsylvania | NBC News",
             "secondDuration": 3530,
             "group": "group_7"
+        },
+        {
+            "videoId": "Tc0Gb6coKKQ",
+            "title": "Biden And Obama Campaign In Michigan | NBC News",
+            "secondDuration": 3411,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

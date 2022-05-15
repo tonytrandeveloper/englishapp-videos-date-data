@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xYE1ePgCkSg",
-            "title": "Cantaloupe Salmonella Outbreak: Kentucky Hit Hard, Origin Believed to Be Indiana",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJOfvzfVsdY",
             "title": "WEBCAST: Frightening Crash Leaves Nascar Driver Unharmed",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "'Big Baboon House': Monkey's 'Real World'",
             "secondDuration": 246,
             "group": "group_7"
+        },
+        {
+            "videoId": "3tQtAs3d05E",
+            "title": "Chiropractic Neurology: Miracle Method or Placebo?",
+            "secondDuration": 365,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

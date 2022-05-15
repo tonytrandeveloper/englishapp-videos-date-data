@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3JtAiWUlFmQ",
-            "title": "'This Week' Roundtable: Second Term Slump",
-            "secondDuration": 697,
-            "group": "group_7"
-        },
-        {
             "videoId": "2Q24up4iR_k",
             "title": "'This Week' Roundtable: Snowden Vindicated?",
             "secondDuration": 426,
@@ -31,8 +25,14 @@
             "title": "New Jersey Carjacking Shooting Could Reveal Criminal Trend",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "qXFUxmXdTfc",
+            "title": "Philadelphia Eagles Cheerleader Succeeds as Army Intelligence Officer",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

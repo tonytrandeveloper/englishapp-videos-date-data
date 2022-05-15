@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ajZtkIG9hCc",
-            "title": "Pence Says He And Trump May Never See 'Eye To Eye' On Jan. 6 Riot",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "2vL-cPA9pfY",
             "title": "NBC Nightly News Broadcast (Full) - June 3rd, 2021",
             "secondDuration": 1189,
@@ -61,8 +55,14 @@
             "title": "Interview With UN Ambassador As Russia Threatens To Cut Off Syria Aid",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "aLTVqRBCI1E",
+            "title": "WH Rolls Out Plan To Share Covid Vaccines With Other Countries",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "b2tqMCEHeWc",
-            "title": "Ellen DeGeneres Joins 'American Idol'",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "el24RuX8VLg",
             "title": "Bottom Line on Obama's Health Care Speech",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "A New Model for Juvenile Justice",
             "secondDuration": 460,
             "group": "group_7"
+        },
+        {
+            "videoId": "41bTZ_pq_9A",
+            "title": "Released From Juvenile Justice Center",
+            "secondDuration": 318,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

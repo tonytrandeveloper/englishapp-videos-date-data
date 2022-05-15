@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D81csZ_MV3c",
-            "title": "Watch Live: President Donald Trump Speaks At Police Conference In Chicago | NBC News",
-            "secondDuration": 4249,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZmlzGbuLPno",
             "title": "What It’s Like In The White House Situation Room During A Major Military Operation | Nightly News",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "ISIS leader Abu Bakr al-Baghdadi Killed In U.S. raid | NBC Nightly News",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "wfyySPHEWZ8",
+            "title": "Watch: Kincade Fire In California Unfold From The View Of A Car | NBC News",
+            "secondDuration": 80,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

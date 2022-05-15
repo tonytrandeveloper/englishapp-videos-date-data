@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "V77j1V7XiDs",
-            "title": "New Mexico student tased by deputy",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "BAzLmBrVcqo",
             "title": "Delaware woman survived beating at Dominican Republic resort",
             "secondDuration": 109,
@@ -61,8 +55,14 @@
             "title": "Senior North Korean official reportedly executed",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "lDNsXGhj-uc",
+            "title": "The meteoric rise of Lil Nas X and the song 'Old Town Road' that got him there l Nightline",
+            "secondDuration": 555,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hExpXlf2rUs",
-            "title": "How to Survive a Car Crash Through Ice (Episode 4)",
-            "secondDuration": 265,
-            "group": "group_7"
-        },
-        {
             "videoId": "QnLN_m1AkUc",
             "title": "White House Confirms Death of Female US Hostage Held By ISIS",
             "secondDuration": 256,
@@ -31,8 +25,14 @@
             "title": "High-Speed Police Car Chase Caught on Video",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "k5KBT8Gak7k",
+            "title": "Jon Stewart Tackles Brian Williams' Helicopter Explanation",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

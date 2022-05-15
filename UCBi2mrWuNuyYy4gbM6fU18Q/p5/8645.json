@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "r0Ykd_7LepU",
-            "title": "Daytime Emmy Award Winners",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "HUiXyaelPV0",
             "title": "25-Year-Old Man Meets the Retired Cop Who Once Saved Him",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Nepal Earthquake Leaves Thousands Dead",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "8CtHu-JMbhc",
+            "title": "The Supreme Court Takes on Gay Marriage",
+            "secondDuration": 581,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

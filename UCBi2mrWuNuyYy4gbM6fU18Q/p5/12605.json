@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x7Ntt3EwNY8",
-            "title": "Phillips: 'Hollywood Is A Democratic Town'",
-            "secondDuration": 481,
-            "group": "group_7"
-        },
-        {
             "videoId": "5BmmXWb_2QA",
             "title": "Washington Post's Michael Shear on 'Top Line'",
             "secondDuration": 383,
@@ -31,8 +25,14 @@
             "title": "Deadly Off-Road Race Kills 8, Injures 12",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "dOCtjJvL9vc",
+            "title": "Battle Over Mosque Goes National",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

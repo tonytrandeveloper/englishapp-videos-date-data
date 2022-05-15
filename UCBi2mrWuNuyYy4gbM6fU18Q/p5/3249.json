@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "OhwRJ4Kjxug",
-            "title": "Meet the future phenom, Wolf Cuckier | ABC News Live Prime",
-            "secondDuration": 242,
-            "group": "group_7"
-        },
-        {
             "videoId": "AZiSoJoVGl0",
             "title": "American who contracted coronavirus on cruise ship speaks out | ABC News Live Prime",
             "secondDuration": 226,
@@ -31,8 +25,14 @@
             "title": "Chinese military accused in 2017 Equifax breach",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "prMVtto25mI",
+            "title": "Man allegedly confesses to shooting police officers",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

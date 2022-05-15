@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "X7C13EQhBZQ",
-            "title": "Wrongfully Convicted Man Freed After Retrial",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "LMnlCZWKWM0",
             "title": "Flamingos Take Over Town for Girl Battling Cancer",
             "secondDuration": 118,
@@ -121,8 +115,14 @@
             "title": "Hillary Clinton Defends Her Health",
             "secondDuration": 202,
             "group": "group_7"
+        },
+        {
+            "videoId": "7jHmM1Q5c10",
+            "title": "Dad Tells Son He Loves Him During Little League World Series",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

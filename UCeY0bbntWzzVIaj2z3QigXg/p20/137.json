@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UyJf9fAvXHg",
-            "title": "Nightly News Full Broadcast - Dec. 24",
-            "secondDuration": 1276,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bt9PRxlkVm0",
             "title": "What Christmas Looks Like Around The World Amid Pandemic",
             "secondDuration": 103,
@@ -121,8 +115,14 @@
             "title": "Packed Roads and Airports With Americans On The Move For The Holidays",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "txiU-tnlOz0",
+            "title": "Long Covid Testing Lines Ahead Of Holiday Gatherings",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YpCrepX_f24",
-            "title": "Protests In Arizona As Vote Count Ongoing | NBC Nightly News",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjHBqU8cx-A",
             "title": "Trump Campaign Announces Federal Lawsuit In Nevada Over Vote Count | NBC Nightly News",
             "secondDuration": 90,
@@ -121,8 +115,14 @@
             "title": "How Arizona Poll Workers Verify Signature On Ballots | NBC News",
             "secondDuration": 297,
             "group": "group_7"
+        },
+        {
+            "videoId": "QpSG_jr-128",
+            "title": "NBC Director Of Elections Says ‘A Lot Of Quality Control’ Goes Into Calling A Race | NBC News",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

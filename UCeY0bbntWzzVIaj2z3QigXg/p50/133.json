@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "R48gm7LiT2c",
-            "title": "Common Colds Are Back As People Start To Gather",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "xwX2F0Gberw",
             "title": "14 People Wounded in Austin, Texas Mass Shooting",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "Biden Delivers Remarks On Covid Vaccination Programs | NBC News",
             "secondDuration": 1124,
             "group": "group_7"
+        },
+        {
+            "videoId": "FFP4XMMHlHU",
+            "title": "Consumer Prices Surged 5% in May, Largest Yearly Increase Since 08'",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

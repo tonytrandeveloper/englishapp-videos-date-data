@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K4ilAn65dCw",
-            "title": "Nonprofit Gives Backpacks Full Of Hope To Children In Foster Care | NBC Nightly News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "xrvRPlPuGCc",
             "title": "Man Arrested After Crashing Truck Into Dallas News Station | NBC Nightly News",
             "secondDuration": 75,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Reacts To Anonymous New York Times Op-Ed | NBC News",
             "secondDuration": 359,
             "group": "group_7"
+        },
+        {
+            "videoId": "vuOkhbqbUs8",
+            "title": "President Donald Trump Meets With Sheriffs From Across The Country | NBC News",
+            "secondDuration": 850,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

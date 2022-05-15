@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HTg08-R6FUM",
-            "title": "Death toll from Dorian climbs to 30 in Bahamas | ABC News",
-            "secondDuration": 169,
-            "group": "group_7"
-        },
-        {
             "videoId": "05TiI038on8",
             "title": "Dorian batters Outer Banks, Wildfires blaze near Los Angeles, Brexit turmoil | ABC News",
             "secondDuration": 1568,
@@ -61,8 +55,14 @@
             "title": "Democratic presidential candidates talk climate change",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "HiFggoyX5FI",
+            "title": "Hurricane Dorian: Category 2 storm makes its way up east coast from South Carolina to North Carolina",
+            "secondDuration": 1745,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

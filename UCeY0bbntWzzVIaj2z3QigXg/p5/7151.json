@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UQdUXMOHERE",
-            "title": "A Moat Around The White House? | NBC News",
-            "secondDuration": 46,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYf9_yyjaWI",
             "title": "Obama Bypasses Congress On Immigration | NBC News",
             "secondDuration": 146,
@@ -31,8 +25,14 @@
             "title": "Surfers Hit Lake Erie During Lake Effect Snow Storm | NBC News",
             "secondDuration": 70,
             "group": "group_7"
+        },
+        {
+            "videoId": "gee6je0YX1U",
+            "title": "Buffalo In State Of Emergency After Massive Snowfall | NBC News",
+            "secondDuration": 322,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

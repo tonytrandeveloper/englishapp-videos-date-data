@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "i5rcEmxofos",
-            "title": "Hillary Clinton Comes On Strong in New York",
-            "secondDuration": 208,
-            "group": "group_7"
-        },
-        {
             "videoId": "PPLsVVEWXhY",
             "title": "Jordan Spieth's Epic Meltdown at the Masters",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Billboard Music Awards Finalists Announced Live on 'GMA'",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "SkdDvwbl1VE",
+            "title": "Shipwrecked Sailors Rescued After Making 'Help' Sign",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YNOHWrAbX2w",
-            "title": "Tylenol Killings Linked to Unabomber?",
-            "secondDuration": 122,
-            "group": "group_7"
-        },
-        {
             "videoId": "YjTnUdmmYuw",
             "title": "Price of Used Cars Hits 16-Year High",
             "secondDuration": 130,
@@ -61,8 +55,14 @@
             "title": "McDonald's Fan Consumes 25,000 Big Macs",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "ILjJZQPdJIE",
+            "title": "Does Heaven Exist in the Modern World?",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

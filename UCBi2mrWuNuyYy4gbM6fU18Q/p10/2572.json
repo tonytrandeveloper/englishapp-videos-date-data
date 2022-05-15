@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "VTvY4yiaTh8",
-            "title": "Nor'easter brings whiteout conditions and thundersnow to Northeast",
-            "secondDuration": 211,
-            "group": "group_7"
-        },
-        {
             "videoId": "wL7L5J2Xziw",
             "title": "Trump asked witnesses about special counsel talks: Source",
             "secondDuration": 158,
@@ -61,8 +55,14 @@
             "title": "Former Trump aide said one of her email accounts was hacked: Source",
             "secondDuration": 213,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVJHSvesMMo",
+            "title": "Nor'easter brings some airports to a complete standstill",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

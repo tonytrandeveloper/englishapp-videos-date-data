@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-4Gob1SgslE",
-            "title": "Donald Trump Makes His Mark During Republican Primary Debate | NBC News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "F0YU6HYiV5M",
             "title": "GOP Candidates Throw Out Their Best Hillary Clinton Zingers | NBC News",
             "secondDuration": 78,
@@ -31,8 +25,14 @@
             "title": "Jon Stewart Says Goodbye After 16 Years as ‘The Daily Show’ Host | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "DGh2e0urZR0",
+            "title": "Netflix Gives New Parents ‘Unlimited’ Paid Leave For A Year | NBC Nightly News",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

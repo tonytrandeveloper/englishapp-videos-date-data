@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "a9hYAwKMZqI",
-            "title": "A Special Visit With Wounded Warrior Dogs",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "RJMR83UBgMQ",
             "title": "High-Speed Car Chase Caught on Camera",
             "secondDuration": 130,
@@ -121,8 +115,14 @@
             "title": "Juan Pablo Says He's Not the Character of 'The Bachelor'",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "hlb2cXddpBI",
+            "title": "Target Photoshop Error Fuels Body-Image Debate",
+            "secondDuration": 182,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

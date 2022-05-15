@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e8Wn4JzRnuc",
-            "title": "Gas Station Explodes After Botched Diesel Heist in Florida",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ukmbd6Rx8HA",
             "title": "Protesters, Police Clash Despite Curfew in Ferguson, Missouri",
             "secondDuration": 202,
@@ -31,8 +25,14 @@
             "title": "Missing Amish Girls Found Alive and Safe",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "8a9aNw-JE1E",
+            "title": "'Ice Bucket Challenge' Sweeps America",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

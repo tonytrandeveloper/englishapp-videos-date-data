@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ikiE3xH1Wms",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 2449,
-            "group": "group_7"
-        },
-        {
             "videoId": "o909yQ0IXjY",
             "title": "Morning News NOW Full Broadcast - March 3",
             "secondDuration": 3054,
@@ -301,8 +295,14 @@
             "title": "Lauren Boebert Heckles Biden During State Of The Union Address",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "vbcTw5mbCqo",
+            "title": "Beto O’Rourke Touts Plan After Winning Texas Governor Primary",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

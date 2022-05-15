@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Qri6I2OGRUI",
-            "title": "The Bachelor Week 4 Highlights: Nick Goes Home | ABC News",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "cdjTlKYT0eQ",
             "title": "Trump Administration's First Full Day of Business",
             "secondDuration": 253,
@@ -61,8 +55,14 @@
             "title": "Sean Spicer Full Press Conference | ABC News",
             "secondDuration": 4758,
             "group": "group_7"
+        },
+        {
+            "videoId": "l889u0syVyw",
+            "title": "Trump Wall A Waste of Time: Obama Border Chief Says",
+            "secondDuration": 160,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

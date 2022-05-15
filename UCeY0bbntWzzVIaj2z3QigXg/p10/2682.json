@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "G6l6YwkR_bM",
-            "title": "U.S. Presidential Line Of Succession: Do You Know It? | NBC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "DuHm3F-QMac",
             "title": "Houston Police Investigate Death Of Kidnapping Victim | NBC News",
             "secondDuration": 235,
@@ -61,8 +55,14 @@
             "title": "Increased Demand For Flu Shot Amid Mounting Emergency | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "SZwGPaSAwvU",
+            "title": "Growing Questions And Division Over Secret Memo | NBC Nightly News",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Wdj9xcuJGgg",
-            "title": "President Donald Trump Says More Sanctions Will Be Placed On North Korea | NBC News",
-            "secondDuration": 35,
-            "group": "group_7"
-        },
-        {
             "videoId": "wrAJ0tJPT1I",
             "title": "Everyday Citizens Lend A Hand In Mexico City After Earthquake | NBC Nightly News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Iranian Leader Takes Aim At ‘Rogue Newcomer’ President Donald Trump In U.N. Address | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "xDOil81EZ94",
+            "title": "Barack Obama Calls GOP’s Relentless Obamacare Repeal Efforts ‘Aggravating’ | NBC News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

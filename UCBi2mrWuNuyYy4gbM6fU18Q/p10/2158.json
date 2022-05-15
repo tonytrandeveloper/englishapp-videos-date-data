@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-8FpEdozVNc",
-            "title": "New allegation surfaces that Jussie Smollett staged his own attack: Source",
-            "secondDuration": 225,
-            "group": "group_7"
-        },
-        {
             "videoId": "hbi_u0f4nPM",
             "title": "Women and children flee Syria",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "2 men detained in Jussie Smollett investigation released",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgxP-FcEZ6s",
+            "title": "Police detained a man who tried to breach airport security in Orlando",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QDVckBlUDoY",
-            "title": "Vice President Joe Biden Meets With Sen. Elizabeth Warren",
-            "secondDuration": 136,
-            "group": "group_7"
-        },
-        {
             "videoId": "p_UW1mXi7ZQ",
             "title": "Remembering Hurricane Katrina Through New Orleans Music",
             "secondDuration": 206,
@@ -31,8 +25,14 @@
             "title": "Details Emerge About Gunman on Board Paris-Bound Train",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "HwtdLV1jscw",
+            "title": "7 Killed, More Injured as Airshow Plane Crashes on UK Highway",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

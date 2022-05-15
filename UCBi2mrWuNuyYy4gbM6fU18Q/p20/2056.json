@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FOlG2dYc-sY",
-            "title": "Pope Francis Addresses Congress, Refers to America as 'Land of Dreams'",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "yQCo8qhx_ig",
             "title": "Hundreds Killed in Tragic Hajj Stampede Near Mecca",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Pope Francis Shows Personal Touch When He Rides Through D.C.",
             "secondDuration": 208,
             "group": "group_7"
+        },
+        {
+            "videoId": "Lq4UUhv2URU",
+            "title": "Pope Francis' Message to the President",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

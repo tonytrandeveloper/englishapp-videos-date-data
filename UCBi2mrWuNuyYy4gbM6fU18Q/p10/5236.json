@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w1AAkW3QHQo",
-            "title": "Coney Island Reopens for First Time Since Superstorm Sandy",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "WTvW7xAB2fY",
             "title": "Historic Papal Meeting: Pope Francis Meets with Pope Emeritus Benedict XVI",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "Caught on Tape: Frightening Footage of Giraffe Attack",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "_j0feVyI8zY",
+            "title": "Worst First Date Ever: Man Stages Attack to Impress Date",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

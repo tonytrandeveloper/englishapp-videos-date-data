@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ybq9lDBnhT8",
-            "title": "Sesame Street visits children at Jordan refugee camp",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "YmYNfd5KgZk",
             "title": "Several towns evacuating before the expected Category 3 hurricane",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Record-breaking Powerball jackpot winner",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "kTZsIAeHptU",
+            "title": "White House press briefing 8/24/17",
+            "secondDuration": 2606,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

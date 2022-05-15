@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9O1XwM3tSsY",
-            "title": "This Morning’s Top Headlines – October 4 | Morning News NOW",
-            "secondDuration": 1409,
-            "group": "group_7"
-        },
-        {
             "videoId": "mgAiai7raLw",
             "title": "Nightly News Full Broadcast - October 3rd",
             "secondDuration": 1039,
@@ -31,8 +25,14 @@
             "title": "Several States Reach Vaccine Mandate Deadline",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "TMJ2xgPrggE",
+            "title": "Authorities Work To Slow Major California Oil Spill",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

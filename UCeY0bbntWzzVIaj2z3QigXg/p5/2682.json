@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5NrRIIeNFfo",
-            "title": "Full BLM Co-Founder: 'Defund The Police' Means 'Invest In The Resources That Our Communities Need'",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "lxD_Pmlfs8M",
             "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
             "secondDuration": 1510,
@@ -31,8 +25,14 @@
             "title": "Mayor de Blasio Lifts Curfew As NYC Set To Begin Restart Phase 1 | NBC News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "fEmealSp7Aw",
+            "title": "Live: Demonstrators Gather for George Floyd Protests Across the Country | NBC News",
+            "secondDuration": 42901,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

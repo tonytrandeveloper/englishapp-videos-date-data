@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U0rqD_92Fc8",
-            "title": "CDC Report Shows rising Breakthrough Infections",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "E093gSomC0I",
             "title": "Tornado Damage Across Multiple States",
             "secondDuration": 89,
@@ -31,8 +25,14 @@
             "title": "Watch: Turkish Friends Find Themselves Trapped By Wildfires On Mountain Road",
             "secondDuration": 65,
             "group": "group_7"
+        },
+        {
+            "videoId": "CINMDUSr8lA",
+            "title": "Hundreds of Afghan Evacuees Fleeing Taliban Arrive in U.S.",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

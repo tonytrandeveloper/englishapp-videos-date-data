@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7iZV2l6BxKQ",
-            "title": "Inside The NBC News Decision Desk | NBC Nightly News",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Az5xlvB-lc",
             "title": "Hotly Contested Governors Races Could Give Foresight Into The 2020 Elections | NBC Nightly News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Midterms 2018: Voters Battle Long Lines And Malfunctioning Machines | NBC Nightly News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "85Kal3j5ktM",
+            "title": "Energized Voters Hit The Polls For What Could Be Record Midterm Turnout | NBC Nightly News",
+            "secondDuration": 133,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

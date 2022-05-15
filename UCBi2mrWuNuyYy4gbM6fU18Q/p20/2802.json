@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "k6mNvF9tSOw",
-            "title": "'Dancing With the Stars' Week 1 Results: Pamela Anderson Booted (2012)",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y461sAi_Blw",
             "title": "J.K. Rowling Interview on 'The Casual Vacancy': 'Harry Potter' Author on Rihanna's Influence",
             "secondDuration": 307,
@@ -121,8 +115,14 @@
             "title": "President, Michelle Obama Hit 'The View' as UN General Assembly Meets",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "4mr0OGYp6Co",
+            "title": "WEBCAST: Shorty Finally Returns Home Several Years Later",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

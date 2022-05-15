@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jOA0_W5iFGU",
-            "title": "Wall Street Rollercoaster Fueled By Trade Tensions With China | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "anYaMxY2ls8",
             "title": "Final Look At Former President George H.W. Bush's Casket Before Private Burial | NBC News",
             "secondDuration": 228,
@@ -31,8 +25,14 @@
             "title": "Watch live: George H.W. Bush’s casket begins final procession at presidential library",
             "secondDuration": 3658,
             "group": "group_7"
+        },
+        {
+            "videoId": "YK0Q9RXSK2s",
+            "title": "George H.W. Bush’s Casket Makes Ride Aboard Train To Final Resting Place | NBC News",
+            "secondDuration": 69,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

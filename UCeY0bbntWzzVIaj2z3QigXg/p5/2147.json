@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "74dFbQVx4jA",
-            "title": "New York Early Voting Begins With Record Turnout | NBC News NOW",
-            "secondDuration": 334,
-            "group": "group_7"
-        },
-        {
             "videoId": "O5YiZOElwNw",
             "title": "Trump Encourages Poll Watching In Pennsylvania: ‘We’re Watching You Gov. Wolf’ | NBC News NOW",
             "secondDuration": 576,
@@ -31,8 +25,14 @@
             "title": "Sports Venues Converted Into Polling Places For Election | NBC Nightly News",
             "secondDuration": 238,
             "group": "group_7"
+        },
+        {
+            "videoId": "tCeKtfAXNz4",
+            "title": "Trump Claims Biden Wants To 'Eradicate Your Energy' While Campaigning In Pennsylvania | NBC News NOW",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

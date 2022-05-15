@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UDfxXVEI0VA",
-            "title": "Trump ally indicted on insider trading charges speaks out",
-            "secondDuration": 186,
-            "group": "group_7"
-        },
-        {
             "videoId": "mINZu5ZfZ2w",
             "title": "Mom says airline didn't notify her of kids' whereabouts",
             "secondDuration": 209,
@@ -31,8 +25,14 @@
             "title": "Video shows teen being pushed off bridge into river",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "73ASB9VnW58",
+            "title": "NY GOP lawmaker charged with insider trading and lying to FBI",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

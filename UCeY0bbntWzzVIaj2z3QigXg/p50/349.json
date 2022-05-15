@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ieO4ZfPvzoE",
-            "title": "Hero Firefighter Dies Rescuing Other First Responders From Apartment Inferno | NBC Nightly News",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "R2uOro035kA",
             "title": "Trump Welcomes Turkey’s Leader To White House Weeks After Syria Invasion | NBC Nightly News",
             "secondDuration": 125,
@@ -301,8 +295,14 @@
             "title": "Watch Mercury Make Rare Transit Between Earth And The Sun | NBC News",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLE_kNKpkhI",
+            "title": "Veteran Boycotts Parade: ‘I Don’t Want To Be Politicized’ | NBC News Now",
+            "secondDuration": 314,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

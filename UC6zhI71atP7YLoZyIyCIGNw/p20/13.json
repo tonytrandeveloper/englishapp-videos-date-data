@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "DiMkVQsD_AY",
-            "title": "🎅 Christmas Songs | Deck the Halls, Jingle Bells, We Wish You a Merry Christmas | Dave and Ava 🎅",
-            "secondDuration": 2187,
-            "group": "group_5"
-        },
-        {
             "videoId": "daGcfmBclmU",
             "title": "🎁 Santa & More Christmas Songs | Dave and Ava Christmas 🎁",
             "secondDuration": 2080,
@@ -121,8 +115,14 @@
             "title": "🌕🦇 Baby Songs | Halloween Songs for Kids by Dave and Ava 🌕🦇",
             "secondDuration": 1793,
             "group": "group_5"
+        },
+        {
+            "videoId": "foTbS4LEy6U",
+            "title": "🍁 Halloween Songs | Baby Songs | Dave and Ava 🍁",
+            "secondDuration": 349,
+            "group": "group_5"
         }
     ],
     "nbPages": 35,
-    "nbResults": 688
+    "nbResults": 687
 }

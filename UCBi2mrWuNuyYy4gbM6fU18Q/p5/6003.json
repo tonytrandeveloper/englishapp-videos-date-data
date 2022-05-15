@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5ktmzqg3BTo",
-            "title": "GOP negotiates as House prepares to vote on health care bill",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "9yRXxIbDOnY",
             "title": "Focus on ISIS after deadly London terror attack",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "The desperate search for a 15-year-old girl allegedly kidnapped by ex-teacher",
             "secondDuration": 501,
             "group": "group_7"
+        },
+        {
+            "videoId": "g2gvTqexYg8",
+            "title": "Terror investigation underway in London",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

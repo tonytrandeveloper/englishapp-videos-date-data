@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z5tuyu_05qs",
-            "title": "Lee Saunders: \"I have a dream that...\"",
-            "secondDuration": 7,
-            "group": "group_7"
-        },
-        {
             "videoId": "9njgRaYzJek",
             "title": "Howie Mandel: \"I have a dream that...\"",
             "secondDuration": 11,
@@ -31,8 +25,14 @@
             "title": "Ron Mott: \"I have a dream that...\"",
             "secondDuration": 24,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKsCI7b-qHg",
+            "title": "Terry Crews: \"I have a dream that...\"",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

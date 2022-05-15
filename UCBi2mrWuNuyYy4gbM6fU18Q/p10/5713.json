@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8na-0eItOls",
-            "title": "James Holmes in Court, Charged With 24 Counts of Murder",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "-gC-3RrzvHQ",
             "title": "Dick Cheney on Sarah Palin, Heart Transplant, Daughter's Wedding",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Aurora, Colorado Shootings: Matthew McConaughey, 'Killer Joe,' 'Magic Mike' Star, On Film Violence",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "XsUNAtG3QVc",
+            "title": "Jordyn Wieber Out of Olympic Gymnastics Final: Kerri Strug Discusses in Interview",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

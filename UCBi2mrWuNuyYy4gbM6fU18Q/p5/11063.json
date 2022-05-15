@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "llfF0_hKm4g",
-            "title": "Hurricane Sandy Downs Power Lines in Delaware",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "uMvnjBAR1pI",
             "title": "Hurricane Sandy: Air Travel Shuts Down on East Coast",
             "secondDuration": 98,
@@ -31,8 +25,14 @@
             "title": "State of the 2012 Presidential Election Race: 'This Week' Roundtable Discussion",
             "secondDuration": 445,
             "group": "group_7"
+        },
+        {
+            "videoId": "3A7QawluxdA",
+            "title": "Newt Gingrich 'This Week' Interview: Richard Mourdock's Comments Reflect 'Virtually Every Catholic'",
+            "secondDuration": 362,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

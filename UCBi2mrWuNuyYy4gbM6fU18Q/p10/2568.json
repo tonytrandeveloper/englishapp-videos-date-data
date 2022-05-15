@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oK7samrHJlI",
-            "title": "O.J. Simpson discusses murders in newly released interview",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "nkq2QeUaygw",
             "title": "Trump to announce gun safety proposals",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "Decorated army veteran opened fire at the facility he was treated for PTSD",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "TPw02Z7gHag",
+            "title": "President Trump unveils his 2020 election slogan, 'Keep America great.'",
+            "secondDuration": 394,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

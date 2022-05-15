@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5DKOdNHiHak",
-            "title": "President Donald Trump Gives White House A '10' For Puerto Rico Response | NBC News",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "xfjl9Y58ipM",
             "title": "Operation Cross Country: FBI Arrests 120 Human Traffickers | NBC News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Las Vegas Security Guard Breaks Silence On Ellen DeGeneres’ Show | NBC Nightly News",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "1FbclUtlxWM",
+            "title": "Those Who Serve: New Orleans Officers Mentoring Young People Through Music | NBC Nightly News",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

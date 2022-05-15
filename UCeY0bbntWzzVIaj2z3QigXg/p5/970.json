@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "0oHOcuMlgHA",
-            "title": "Lester Holt Reflects On Where America Is Now, 20 Years After 9/11",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "YLkU7oeb4C0",
             "title": "Reflecting On Afghanistan 20 Years After 9/11",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "9/11 20th Anniversary: Procession And Moment Of Silence Held At Moment North Tower Was Struck",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "7ozp3Rhg_gU",
+            "title": "‘Unity Is Possible in America’: Harris Honors 9/11 Anniversary",
+            "secondDuration": 518,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

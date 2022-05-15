@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4lBe119tjRI",
-            "title": "Hochul Allocates $65 Million Towards Booster Shot Programs Across New York",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "GA3LWnQjcg8",
             "title": "White House Covid-19 Response Team Briefing | NBC News",
             "secondDuration": 1325,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - August 31",
             "secondDuration": 2860,
             "group": "group_7"
+        },
+        {
+            "videoId": "LXG8zj6G9vw",
+            "title": "NBC News Finds Abandoned, Inoperable U.S. Military Equipment At Kabul Airport",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

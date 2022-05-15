@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "p3_hvKVMvM4",
-            "title": "Trump vs Clinton: What Do New Yorkers Think? | Election Cycle",
-            "secondDuration": 300,
-            "group": "group_7"
-        },
-        {
             "videoId": "pYB3ZrODrA8",
             "title": "Loretta Lynch Condemns Police Attacks in Baton Rouge",
             "secondDuration": 279,
@@ -301,8 +295,14 @@
             "title": "Zika Trasmitted Through Sexual Contact",
             "secondDuration": 64,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y9zmejGpSuI",
+            "title": "Nice Attack Driver Unknown to Security Officials",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yftzZHHbtfg",
-            "title": "SpaceX Falcon 9 Rocket Crashes Into Drone Ship",
-            "secondDuration": 20,
-            "group": "group_7"
-        },
-        {
             "videoId": "EfTtGNzWSkg",
             "title": "Trump to GOP: 'Be Quiet' or I’ll Lead Alone",
             "secondDuration": 43,
@@ -61,8 +55,14 @@
             "title": "Hidden Life of the Orlando Shooter",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSH8pWi0gR0",
+            "title": "Hero Wrestles Seattle Gunman During Reload [CAUGHT ON CAMERA]",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

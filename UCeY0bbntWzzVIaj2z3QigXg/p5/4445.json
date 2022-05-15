@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "34uncetqpCo",
-            "title": "‘The Natural World Is In Your Hands,’ David Attenborough Tells World Leaders | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "dO4P2PyuD3Y",
             "title": "Soyuz Rocket Carrying NASA Astronaut Successfully Lifts Off On Space Station Mission | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Watch Live: NASA's OSIRIS-REx Spacecraft Arrival At Asteroid Bennu | NBC News",
             "secondDuration": 1632,
             "group": "group_7"
+        },
+        {
+            "videoId": "NxVOnfxCuS8",
+            "title": "After Surviving A Bus Crash, A Hockey Player Is Determined To Get Back On The Ice | NBC Nightly News",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

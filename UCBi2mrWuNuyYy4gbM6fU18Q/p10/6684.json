@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "wvxCSqO9eQg",
-            "title": "Detroit's New Mayor Tackles Unemployment",
-            "secondDuration": 229,
-            "group": "group_7"
-        },
-        {
             "videoId": "VAqWC3Cpny8",
             "title": "Banker Saves a Dozen Ducklings From Ledge",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "'The Most Dynamic Actor of his Generation'",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "PjR-jqd22kw",
+            "title": "QUICK FIX: Geniuses or Fools?",
+            "secondDuration": 203,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8QN1IPI8NGI",
-            "title": "Trump: 'I Appreciate' Special Counsel Disputing Buzzfeed News Story | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "iAWSq03_FhQ",
             "title": "Sony Parts Ways With R. Kelly | NBC Nightly News",
             "secondDuration": 74,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump And Kim Jong Un Will Meet For Second Summit Next Month | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "UYZ7RSiH7Lg",
+            "title": "Explosive New Report Claims Trump Personally Instructed Cohen To Lie To Congress | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

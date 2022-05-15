@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XcRqKvAEerk",
-            "title": "Blind Fencers Face Off",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "o57Vpcy2ly0",
             "title": "The Conversation: Recession Moralities",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "'Dancing With the Stars' Recap",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "RYsCYLcvR54",
+            "title": "Dodgers' Owners in Divorce Mess",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

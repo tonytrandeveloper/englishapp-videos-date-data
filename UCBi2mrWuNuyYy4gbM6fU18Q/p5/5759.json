@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PA4ihipaxOo",
-            "title": "Gunman opens fire at New York City hospital, killing 1 and injuring others: ABC Radio Coverage",
-            "secondDuration": 1790,
-            "group": "group_7"
-        },
-        {
             "videoId": "_utad0NuQvA",
             "title": "Jay-Z’s '4:44' album, Serena Williams vs. John McEnroe and more on ‘Real Live’",
             "secondDuration": 1580,
@@ -31,8 +25,14 @@
             "title": "Venus Williams 'at fault' in fatal car accident, police say",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "H6IP80Wx0Mk",
+            "title": "What to do in a 'road rage' situation",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

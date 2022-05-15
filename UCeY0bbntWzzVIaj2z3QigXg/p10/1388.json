@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6PwwIDO0H68",
-            "title": "Live: President Donald Trump Holds A Cabinet Meeting | NBC News",
-            "secondDuration": 4140,
-            "group": "group_7"
-        },
-        {
             "videoId": "cDZCVtEgCLM",
             "title": "Live: Illinois Gov. Pritzker Holds Coronavirus Briefing | NBC News",
             "secondDuration": 1652,
@@ -61,8 +55,14 @@
             "title": "De Blasio Calls On NYC To Issue Health Benefits For Families Of Workers Lost To COVID-19 | NBC News",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "nFIt56AV7kU",
+            "title": "Live: Trump Delivers Remarks On Supporting Farmers | NBC News",
+            "secondDuration": 2064,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

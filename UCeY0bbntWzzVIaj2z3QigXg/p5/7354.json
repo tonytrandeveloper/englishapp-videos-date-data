@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aqS96k4zrW0",
-            "title": "Toyota Concert Series on TODAY: Meet Susan the Super Fan",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "mKG5FDA63Cs",
             "title": "Chris Hansen Confronts \"Bath Salts\" Distributor",
             "secondDuration": 30,
@@ -31,8 +25,14 @@
             "title": "Ann Curry's Journey with NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "i5AUOfpvL7Y",
+            "title": "The Real Strength of NBC News",
+            "secondDuration": 224,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

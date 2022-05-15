@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "i9GckIAdfE0",
-            "title": "Beyonce Lemonade | Turns Lemons Into Lemonade",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "elAgl1QozXk",
             "title": "Charles Koch: Political System 'Rigged,' But Not By Me",
             "secondDuration": 618,
@@ -31,8 +25,14 @@
             "title": "Kitten 'Game of Thrones' | Mashable, ASPCA Team up",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "Hiwj9HNihcE",
+            "title": "Beyonce 'Lemonade' Hailed as a Masterpiece",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

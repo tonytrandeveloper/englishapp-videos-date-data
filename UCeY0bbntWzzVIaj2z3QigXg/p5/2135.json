@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "bsUmD3uplWE",
-            "title": "Suspected Terror Attack At Church In France Leaves Three Dead | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "y32FpekmKNU",
             "title": "‘No, I'm Not Part Of The Problem’: Corbyn Responds To Anti-Semitism Report | NBC News NOW",
             "secondDuration": 105,
@@ -31,8 +25,14 @@
             "title": "Trump Holds Campaign Rally In Florida | NBC News",
             "secondDuration": 6765,
             "group": "group_7"
+        },
+        {
+            "videoId": "vIdOlCX31_g",
+            "title": "Trump Says ‘Anonymous’ NY Times Op-Ed Writer Miles Taylor ‘Should Be Prosecuted’ | NBC News NOW",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

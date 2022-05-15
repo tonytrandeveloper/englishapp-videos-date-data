@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6HE9ey4Pj5U",
-            "title": "The Conversation:  Behind the Scenes at the Oscars",
-            "secondDuration": 189,
-            "group": "group_7"
-        },
-        {
             "videoId": "5aLOAK2HloE",
             "title": "Amplified: Rogue Wave",
             "secondDuration": 516,
@@ -121,8 +115,14 @@
             "title": "Speaking the Language in 'Avatar'",
             "secondDuration": 279,
             "group": "group_7"
+        },
+        {
+            "videoId": "hk6q1QqzGhA",
+            "title": "Chelsea King's Parents Fight for Justice",
+            "secondDuration": 56,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

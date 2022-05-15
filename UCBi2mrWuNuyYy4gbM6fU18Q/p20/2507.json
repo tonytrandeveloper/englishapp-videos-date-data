@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "AySyPB1WlUo",
-            "title": "Government Shutdown Day Three",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "CKf7pIYjfH0",
             "title": "High Speed Chase From White House to Capitol Hill Ends With Suspect Dead",
             "secondDuration": 300,
@@ -121,8 +115,14 @@
             "title": "Popular Dating Website Allows Users to Pay to Filter Candidates",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "LtHwpa2qvlk",
+            "title": "Jay-Z Vanity Fair Interview: Blue Ivy, Beyonce Discussed in Chat With Magazine",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

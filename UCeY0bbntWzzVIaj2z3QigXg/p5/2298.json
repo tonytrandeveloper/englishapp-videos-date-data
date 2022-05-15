@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ye6wBVoQyAo",
-            "title": "'Whole Towns Have Been Wiped Out' | Meet The Press | NBC News",
-            "secondDuration": 174,
-            "group": "group_7"
-        },
-        {
             "videoId": "7nrP-ShFL78",
             "title": "Live: Trump Holds Campaign Rally In Reno, Nevada | NBC News",
             "secondDuration": 6304,
@@ -31,8 +25,14 @@
             "title": "AstraZeneca COVID Vaccine Trials Resume After Being Put On Hold | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "Js-MlN_3pBc",
+            "title": "Tossed Ballots Raise Concerns As Voters Mail In Their Ballots | NBC Nightly News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

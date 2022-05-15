@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ho1dX1ozZHI",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 2910,
-            "group": "group_7"
-        },
-        {
             "videoId": "ljRzyjTELUk",
             "title": "Greta Thunberg Leads Massive Climate Protest Outside COP26 Climate Summit in Glasgow",
             "secondDuration": 189,
@@ -121,8 +115,14 @@
             "title": "Nightly News Full Broadcast - November 4th",
             "secondDuration": 1123,
             "group": "group_7"
+        },
+        {
+            "videoId": "hEIwzrHybjI",
+            "title": "Inside Nashville’s Iconic Ryman Auditorium",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

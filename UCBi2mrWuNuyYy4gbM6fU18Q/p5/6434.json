@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PvENFRC65eQ",
-            "title": "Fidel Castro Interview With Barbara Walters",
-            "secondDuration": 546,
-            "group": "group_7"
-        },
-        {
             "videoId": "I_GTlCBfVuU",
             "title": "Fidel Castro Dies at 90",
             "secondDuration": 304,
@@ -31,8 +25,14 @@
             "title": "Dad Realized He Could Talk to Son With Autism With Cartoon Characters: Part 2",
             "secondDuration": 355,
             "group": "group_7"
+        },
+        {
+            "videoId": "GwvjVrUDh3Q",
+            "title": "France Terror Plot | 5 Suspects Arrested",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

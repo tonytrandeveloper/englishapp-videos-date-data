@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NH-M_sLPZrs",
-            "title": "Supreme Court Hears Arguments On Plan To Exclude Undocumented Immigrants From Census | NBC News",
-            "secondDuration": 5616,
-            "group": "group_7"
-        },
-        {
             "videoId": "UhFoJ4k9udk",
             "title": "Meteor Dazzles As It Plunges From The Night Sky | NBC News NOW",
             "secondDuration": 43,
@@ -61,8 +55,14 @@
             "title": "Full Mullen Interview: 'National Security Issues Do Not Wait' For Presidential Transitions",
             "secondDuration": 488,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ygbo3_VQkmM",
+            "title": "Full Fauci Interview: 'We're Going To Have To Do The Kinds Of Restrictions We Would Have Liked To'",
+            "secondDuration": 919,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

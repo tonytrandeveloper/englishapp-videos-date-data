@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PjmoT6dmQjY",
-            "title": "Mom of 13-year-old shark attack victim speaks out",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "icuToV3jxJA",
             "title": "Melania Trump travels solo to Africa",
             "secondDuration": 85,
@@ -31,8 +25,14 @@
             "title": "A year after Las Vegas massacre, bump stocks are still on sale",
             "secondDuration": 153,
             "group": "group_7"
+        },
+        {
+            "videoId": "uVP_EDAcstw",
+            "title": "Trump reverses, says Senate setting rules in Kavanaugh FBI probe",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

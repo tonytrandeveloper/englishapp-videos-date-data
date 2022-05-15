@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YMLY5ugrGtY",
-            "title": "White House says Trump has power to fire Mueller",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "DttOQhE0ksg",
             "title": "Facebook CEO Mark Zuckerberg answers questions, addresses possibility of regulation",
             "secondDuration": 547,
@@ -301,8 +295,14 @@
             "title": "Federal authorities seize Backpage.com",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "su5h_zEYboM",
+            "title": "20/20 Apr 6 Part 2: Two men found guilty of murder in college student's shooting death",
+            "secondDuration": 461,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

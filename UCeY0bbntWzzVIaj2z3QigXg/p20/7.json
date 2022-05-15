@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "rrDyjxivWaE",
-            "title": "NYC Subway Shooting: Eyewitnesses Speak Out As Manhunt Underway",
-            "secondDuration": 204,
-            "group": "group_7"
-        },
-        {
             "videoId": "boGqgl62jM4",
             "title": "'Person of interest' Named In NYC Subway Shooting That Wounded 10, Injured 13",
             "secondDuration": 258,
@@ -121,8 +115,14 @@
             "title": "Watch: Rescuers Evacuate People From Floods In Philippines",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "_GBz97Veb1w",
+            "title": "Ukrainian Forces Perform Controlled Explosion On Mines Left By Russian Troops",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

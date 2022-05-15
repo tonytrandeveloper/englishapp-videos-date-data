@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rvVEtgC5OkE",
-            "title": "Trump gives first public remarks since Comey's testimony",
-            "secondDuration": 420,
-            "group": "group_7"
-        },
-        {
             "videoId": "YJ0trAzjFmU",
             "title": "Warriors defeated by Cavs in game 4 of NBA Finals",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Trump says Comey's testimony is total and complete vindication",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "UGitzTGqA5s",
+            "title": "Exclusive Interview with Chelsea Manning",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

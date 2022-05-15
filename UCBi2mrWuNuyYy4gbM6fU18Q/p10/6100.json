@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1tLogDeIgCg",
-            "title": "Casey Anthony's Car Had Smell of Death",
-            "secondDuration": 279,
-            "group": "group_7"
-        },
-        {
             "videoId": "LikNG6t3r2A",
             "title": "Mark Zuckerberg on New Hunting Diet",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Does Sarah Palin's Bus Tour Mean She's Running?",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "YYnwnjLwFBE",
+            "title": "Sarah Palin Bus Tour Reignites Talk of Presidential Run",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

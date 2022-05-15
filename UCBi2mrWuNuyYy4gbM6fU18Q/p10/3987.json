@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "hy_U9RvtP2w",
-            "title": "Important Deadline for Smartphone Customers",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "5-0wzqbtb1w",
             "title": "'Affluenza' Teen, Mother Found in Mexico",
             "secondDuration": 264,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Across the Country | ABC News",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "aB30AT2Vy7M",
+            "title": "CNN Anchor Poppy Harlow Faints During Live Broadcast | ABC News",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

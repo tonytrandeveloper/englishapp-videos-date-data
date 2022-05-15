@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Sz4KFDyUpy4",
-            "title": "Explosion at LAX: 4 Dry Ice Bombs Found",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "_ZlRGYiq63g",
             "title": "VH1's TLC Movie 'Crazy Sexy Cool' Explores the Iconic Group's Career",
             "secondDuration": 348,
@@ -301,8 +295,14 @@
             "title": "Government Shutdown: Obama to Meet with Congressional Republicans",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "iC4gLOWhvNI",
+            "title": "Gunman on San Francisco Train Goes Unnoticed Before Killing",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

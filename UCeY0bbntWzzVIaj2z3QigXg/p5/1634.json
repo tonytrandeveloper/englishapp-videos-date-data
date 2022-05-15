@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aIDeKLOEp30",
-            "title": "Pepsi Teams Up With Peeps To Create Limited-Edition Soda | NBC News NOW",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ignYrZjC8c",
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1925,
@@ -31,8 +25,14 @@
             "title": "How Important Opening Statements Will Be In Derek Chauvin’s Trial | NBC News NOW",
             "secondDuration": 305,
             "group": "group_7"
+        },
+        {
+            "videoId": "gVJQv5AUIYg",
+            "title": "Giant Container Ship Blocking Suez Canal Finally Shifts | NBC News NOW",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uzdmnC5In8M",
-            "title": "Buck: 'Don't See My Self As A Tea Party Candidate'",
-            "secondDuration": 546,
-            "group": "group_7"
-        },
-        {
             "videoId": "rqVrMShqKm0",
             "title": "Speaker Boehner? Sherrod Says No And Palin Calls",
             "secondDuration": 361,
@@ -31,8 +25,14 @@
             "title": "Inside Tiger Woods' Divorce",
             "secondDuration": 303,
             "group": "group_7"
+        },
+        {
+            "videoId": "UWshdVc4DvE",
+            "title": "Egg Recall Investigation",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

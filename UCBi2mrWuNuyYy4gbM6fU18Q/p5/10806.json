@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tCSVKHnfU38",
-            "title": "Ex-USC Player: Painkiller Injections Caused Heart Attack",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "x80RGkJD8Vc",
             "title": "Khan Academy: Learn Everything, Online",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "20 Female Senators Sworn in on Capitol Hill",
             "secondDuration": 322,
             "group": "group_7"
+        },
+        {
+            "videoId": "eAMp46t7g2c",
+            "title": "Sandy Hook Elementary Students' First Day Back",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

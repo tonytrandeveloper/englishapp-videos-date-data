@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9VFKssfuyek",
-            "title": "Briefing Room: Markets down, Congress/White House subpoena clash, US carrier group to Persian Gulf",
-            "secondDuration": 1805,
-            "group": "group_7"
-        },
-        {
             "videoId": "xROhvdgiFYA",
             "title": "The Debrief: Royal Baby born, Russia plane crash, Iran-US showdown, Michael Cohen to prison",
             "secondDuration": 1497,
@@ -31,8 +25,14 @@
             "title": "US deploys aircraft carrier to Middle East",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "5hyz2cJ1LTw",
+            "title": "Kentucky Derby champion jockey reacts to controversial win",
+            "secondDuration": 382,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

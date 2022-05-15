@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1M5acB2fKrs",
-            "title": "Coronavirus Outbreak: States Shutdown Restaurants And Bars To Slow Spread | NBC Nightly News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuiY_sKAsqQ",
             "title": "Coronavirus Outbreak: Strained Hospitals Running Low On Supplies | NBC Nightly News",
             "secondDuration": 142,
@@ -121,8 +115,14 @@
             "title": "An Exclusive New Club At USC: The Next Wave Of Social Media Stars And Influencers  | NBC News",
             "secondDuration": 349,
             "group": "group_7"
+        },
+        {
+            "videoId": "mdZY2XPIXdM",
+            "title": "Watch live: Pence holds press conference with coronavirus task force",
+            "secondDuration": 5229,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

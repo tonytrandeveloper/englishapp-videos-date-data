@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "T1juTqtBTl8",
-            "title": "Aaron Hernandez's former fiancée breaks silence about new docuseries l ABC News",
-            "secondDuration": 383,
-            "group": "group_7"
-        },
-        {
             "videoId": "zoS6kJO7l5Y",
             "title": "Americans evacuate virus epicenter in China l ABC News",
             "secondDuration": 1414,
@@ -121,8 +115,14 @@
             "title": "Fog before Kobe Bryant’s fatal crash 'thick' like milk, witness says",
             "secondDuration": 233,
             "group": "group_7"
+        },
+        {
+            "videoId": "V5VJEMad4jI",
+            "title": "Lakers star Kobe Bryant, in his own words",
+            "secondDuration": 49,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

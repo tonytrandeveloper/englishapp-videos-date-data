@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uMefXUShrSY",
-            "title": "High Tech Hoaxers Run Wild",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "JmY5ZALZ2nE",
             "title": "Reverend Jones: No Regrets",
             "secondDuration": 359,
@@ -61,8 +55,14 @@
             "title": "Joe Wilson: Government Shutdown 'Not Catastrophic'",
             "secondDuration": 469,
             "group": "group_7"
+        },
+        {
+            "videoId": "1D0D0794G7o",
+            "title": "Marco Rubio: 'I Am Not Running for Vice President'",
+            "secondDuration": 406,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

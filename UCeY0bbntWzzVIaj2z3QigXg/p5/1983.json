@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MIMXxUdgLoU",
-            "title": "Biden Delivers Remarks On Electoral College Vote Certification | NBC News",
-            "secondDuration": 1108,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kvaejw0tLP8",
             "title": "Backlash Over Op-Ed Criticizing Jill Biden For Using The Title ‘Dr' | NBC Nightly News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "First Covid Vaccine Given In U.S. As Distribution Begins | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "j70A7Jr38S4",
+            "title": "State Electors Meet to Cast Their Electoral College Votes | NBC News",
+            "secondDuration": 30191,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

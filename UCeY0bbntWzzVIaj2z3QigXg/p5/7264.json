@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yfUlULb_17M",
-            "title": "Sunday on MTP: White House Senior Adviser Dan Pfeiffer | NBC News",
-            "secondDuration": 15,
-            "group": "group_7"
-        },
-        {
             "videoId": "CiW77IKLRnQ",
             "title": "Sunday on MTP: Ukraine, The Francis Effect | NBC News",
             "secondDuration": 15,
@@ -31,8 +25,14 @@
             "title": "Students Respond to President Obama's 2014 State of the Union Address",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "te3ZTuYIj80",
+            "title": "Coming Up on MTP: SOTU, Spying & Football",
+            "secondDuration": 16,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

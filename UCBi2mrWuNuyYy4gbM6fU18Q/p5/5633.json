@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8fYgQng0lIM",
-            "title": "School video shows young boy with autism dragged down a hallway by teachers",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "jkVyBDqFUIg",
             "title": "FBI arrest suspect for allegedly trying to detonate a cargo van outside an Oklahoma bank",
             "secondDuration": 91,
@@ -31,8 +25,14 @@
             "title": "Taraji P. Henson interview on 'Empire' season 4, new film 'Proud Mary'",
             "secondDuration": 618,
             "group": "group_7"
+        },
+        {
+            "videoId": "iGGtkKc1nSs",
+            "title": "Eyewitnesses describe Charlottesville protests that left 3 dead",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

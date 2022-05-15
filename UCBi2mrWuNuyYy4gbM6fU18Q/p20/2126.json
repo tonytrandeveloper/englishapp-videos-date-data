@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ey8R_pugu3Y",
-            "title": "United Airlines Passengers Stuck in Canada After Flight Was Diverted",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "88_6nqc4SB4",
             "title": "2 Teens In North Carolina Lose Limbs In Separate Shark Attacks",
             "secondDuration": 157,
@@ -121,8 +115,14 @@
             "title": "Lone Gunman Assaults Police Station in Dallas",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "pDHa1AU77SI",
+            "title": "Grandmother Leads Slow-Speed Pursuit at 6 Miles per Hour",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

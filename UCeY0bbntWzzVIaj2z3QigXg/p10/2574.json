@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yLSHjjN8SLI",
-            "title": "Tornado Strikes Arkansas As Swath Of U.S. Hit By Severe Spring Storms | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "aK_5WHv0IqE",
             "title": "Family’s Story Of Survival After California Mudslides | NBC Nightly News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Candidates Use Social Media For Contributions And Calls To Action | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "v7e6U71OYGc",
+            "title": "So, You've Deleted Facebook. Now What? | Better | NBC News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

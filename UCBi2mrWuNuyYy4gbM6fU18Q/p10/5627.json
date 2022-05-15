@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "C0jcPXxFZUM",
-            "title": "5-Hour Energy Empire Under Scrutiny",
-            "secondDuration": 280,
-            "group": "group_7"
-        },
-        {
             "videoId": "47DtHA_pQrI",
             "title": "Blind Chef Is 'MasterChef' Winner",
             "secondDuration": 251,
@@ -61,8 +55,14 @@
             "title": "The Tallest Man on Earth Interview: New, 'Self-Centered' Album, \"There's No Leaving Now\"",
             "secondDuration": 291,
             "group": "group_7"
+        },
+        {
+            "videoId": "3sc7WONTIHE",
+            "title": "9/11/2012 Memorial Observances",
+            "secondDuration": 33,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

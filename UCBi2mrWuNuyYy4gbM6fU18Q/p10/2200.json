@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gEWiBrIeYWk",
-            "title": "American among 14 killed at Kenya hotel",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "ajPeDLQo_w0",
             "title": "Toddler falls out of moving vehicle while strapped into car seat",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "AG nominee promises he won't interfere with Mueller as confirmation hearing begins",
             "secondDuration": 167,
             "group": "group_7"
+        },
+        {
+            "videoId": "ggyyWmdVCDU",
+            "title": "High-end complex in Nairobi under 'attack,' police say",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

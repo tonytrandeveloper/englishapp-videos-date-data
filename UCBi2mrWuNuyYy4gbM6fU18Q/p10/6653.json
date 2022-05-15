@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "nTrKR08sptE",
-            "title": "Gunman Kills Beloved Football Coach",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "nPz0aHUUvwo",
             "title": "Living in the Shadow of Health Care Fears",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Teen Pregnancy: After Baby Is Born",
             "secondDuration": 409,
             "group": "group_7"
+        },
+        {
+            "videoId": "1jigqTiaLZ8",
+            "title": "The Science of Predicting Weather",
+            "secondDuration": 447,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

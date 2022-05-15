@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "P4XfoeoaLRw",
-            "title": "Donald Sterling Won't Fight Forced Sale of LA Clippers",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZSkVRj8viAI",
             "title": "Several People Killed in Santa Barbara Drive-By Shooting",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "'Shark Whisperer' Hopes To Show Vicious Animals' Softer Side",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "awLUGeD2eVI",
+            "title": "Road Rage: Why Drivers Snap",
+            "secondDuration": 390,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

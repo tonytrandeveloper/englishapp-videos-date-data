@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TSacnp3foIQ",
-            "title": "Colin Kaepernick Explains Socks He Wore During Practice",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jlj2BW8AtUQ",
             "title": "SpaceX Explosion CAUGHT ON TAPE",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "Trump Narrows Clinton's Lead in New National Poll",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "S537XYmFkQY",
+            "title": "Senator Tim Kaine Reacts to Trump's Immigration Speech",
+            "secondDuration": 271,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

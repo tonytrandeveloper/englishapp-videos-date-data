@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "tyMSMFqh888",
-            "title": "Snow to Come on First Day of Spring",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "s1Bf3UA5re0",
             "title": "New Cars Often Sold in U.S. With Open Safety Recalls",
             "secondDuration": 399,
@@ -31,8 +25,14 @@
             "title": "UVA Student Attack Prompts Police Brutality Investigation",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "rUvPYz2jkXE",
+            "title": "Tunisia Museum Attack Survivors Recount Terror",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

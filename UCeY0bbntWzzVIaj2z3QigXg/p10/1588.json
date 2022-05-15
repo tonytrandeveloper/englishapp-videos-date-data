@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "h-kquTDglHY",
-            "title": "Trump Delivers Remarks To National Border Patrol Council Members | NBC News (Live Stream Recording)",
-            "secondDuration": 6614,
-            "group": "group_7"
-        },
-        {
             "videoId": "t7NOYNgPwww",
             "title": "Iran's FM Mohammad Javad Zarif: ‘We Were Very Close To A War’ | NBC News",
             "secondDuration": 323,
@@ -61,8 +55,14 @@
             "title": "Debunking Conspiracies Around The Coronavirus | NBC News NOW",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "xIOWOBEGzpg",
+            "title": "House Passes Historic Resolution For Equal Rights Amendment | NBC News NOW",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

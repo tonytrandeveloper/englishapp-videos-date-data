@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WV3Ek5iIbuo",
-            "title": "Anne Hathaway Ex and Celebrity Swindler Raffaello Follieri Speaks Out",
-            "secondDuration": 266,
-            "group": "group_7"
-        },
-        {
             "videoId": "Iw3hWcUpLbk",
             "title": "Adam Carolla: Not Taco Bell Material",
             "secondDuration": 192,
@@ -121,8 +115,14 @@
             "title": "Making 'Hovercat' Go Viral",
             "secondDuration": 353,
             "group": "group_7"
+        },
+        {
+            "videoId": "rm4yIANefkY",
+            "title": "'Pimp Hunters' Launch Investigation",
+            "secondDuration": 293,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

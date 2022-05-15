@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SYUREGUjfrU",
-            "title": "Video Illustrates 'Apocalyptic' Conditions Of Ukraine's Mariupol",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "W_ejiqpr1uM",
             "title": "How Florida’s ‘Don’t Say Gay’ Bill Could Impact The LGBTQ Community",
             "secondDuration": 325,
@@ -61,8 +55,14 @@
             "title": "Russian Invasion A Historic Test For World Leaders",
             "secondDuration": 278,
             "group": "group_7"
+        },
+        {
+            "videoId": "gioPNRCVmnU",
+            "title": "What Ukrainians Are Carrying With Them As They Rush To Escape",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SkjpVS6JQ7Q",
-            "title": "Pakistan Shooting | Gunman Open Fire in Deadly Campus Attack",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "25uCYfvZgGQ",
             "title": "Sarah Palin, Donald Trump | FULL ENDORSEMENT SPEECH",
             "secondDuration": 1200,
@@ -31,8 +25,14 @@
             "title": "Bernie Sanders Growing Popularity Makes Clinton Camp Nervous",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "_A96dM7e5EU",
+            "title": "Greyhound Bus Crashes on its Side in San Jose",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

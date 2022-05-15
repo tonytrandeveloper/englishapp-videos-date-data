@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lZpkIpzKbok",
-            "title": "Houston Police Reveal Identities Of Suspects In Firefight With Officers | NBC News",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "xDxiCwaetfY",
             "title": "CIA director: North Korea Still 'Committed To Developing' Nukes | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Intel Heads Keep Quiet At Senate Hearing On Using Huawei Products | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "7Xl67vmi2_8",
+            "title": "Intel Chief Warns Of Foreign Interference In 2020 Elections | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OVQtSNFM9Hw",
-            "title": "Biden Honors Responders Of Jan 6. Capitol Riot With Congressional Gold Medals",
-            "secondDuration": 1363,
-            "group": "group_7"
-        },
-        {
             "videoId": "PhrhGuiAf8A",
             "title": "Biden Announces 'All-Out Effort' For 50% of Passenger Vehicles Sold To Be Electric By 2030",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "Inside The New Eviction Moratorium",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "sZcOpCaZB8E",
+            "title": "Youth Covid Cases Rising Nationwide",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

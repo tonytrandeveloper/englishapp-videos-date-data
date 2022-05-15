@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DIvUAI4c1t0",
-            "title": "NYC Explosion Rocks Chelsea Neighborhood",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "n_7FjZh84dY",
             "title": "Pipe Bomb Explodes in New Jersey",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Evel Knievel Fan Pulls Off Legendary Stunt",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "7iWvD08F_4w",
+            "title": "Toxic Florida Sinkhole Concerns Grow",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rGU5by4Xgi0",
-            "title": "WEBCAST: Remembering Sherman Hemsley",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "_2FOSMUcBdI",
             "title": "Cuba's Little Boxers Fight for Olympic Goal",
             "secondDuration": 270,
@@ -61,8 +55,14 @@
             "title": "Aurora, Colorado: 'Dark Knight Rises' Star Christian Bale Visits",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "CkQnWMk1nns",
+            "title": "Mariah Carey Is New 'American Idol' Judge; 'The Bachelorette' Proposal",
+            "secondDuration": 343,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

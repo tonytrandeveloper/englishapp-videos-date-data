@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NXQjCuWFdzI",
-            "title": "Abby Johnson Discusses Why She Left Planned Parenthood At The 2020 RNC | NBC News",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "Vr_6h8J2LKU",
             "title": "Billy Graham's Granddaughter Praises Trump As A 'Fierce Advocate' For People Of Faith | NBC News",
             "secondDuration": 200,
@@ -121,8 +115,14 @@
             "title": "Watch Steve Scalise's Full Speech At The 2020 RNC | NBC News",
             "secondDuration": 220,
             "group": "group_7"
+        },
+        {
+            "videoId": "NhyJAb-Pgr4",
+            "title": "Donald Trump Jr. Calls Joe Biden ‘Loch Ness Monster’ At RNC | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

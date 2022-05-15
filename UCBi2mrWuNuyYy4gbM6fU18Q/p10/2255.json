@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "asQl0H-m91Y",
-            "title": "Ivanka Trump responds to personal email use questions, border crisis and her father",
-            "secondDuration": 550,
-            "group": "group_7"
-        },
-        {
             "videoId": "EvXRdffd33g",
             "title": "NFL team signs player days after arrest for alleged domestic abuse",
             "secondDuration": 106,
@@ -61,8 +55,14 @@
             "title": "Pelosi wins nomination for House speaker in closed-door caucus meeting",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDge_pu60RI",
+            "title": "The Debrief: Ivanka Trump interview, US-Mexico border tension, Manafort, alleged Md. hazing incident",
+            "secondDuration": 1381,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

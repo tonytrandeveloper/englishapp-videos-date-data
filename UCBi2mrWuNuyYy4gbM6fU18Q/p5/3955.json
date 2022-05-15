@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "oS4tUEpch7g",
-            "title": "7-year-old boy dressed as police officer hands out flowers and hugs",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "YxrSwR0C4Ks",
             "title": "All eyes on Joe Biden, Bernie Sanders as second debate nears",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "SCOTUS rules to block citizenship question in end-of-term decision",
             "secondDuration": 244,
             "group": "group_7"
+        },
+        {
+            "videoId": "CFaDX6OeJ2U",
+            "title": "Lightning strikes against beautiful sunset",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zm6wFii8054",
-            "title": "Trump Halts Covid Relief Bill Negotiations As Government Outbreak Grows | NBC Nightly News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "DF_LNwcH0f0",
             "title": "Former Facebook Engineer Speaks Out About Misinformation, Hate Speech On Platform | NBC Nightly News",
             "secondDuration": 182,
@@ -61,8 +55,14 @@
             "title": "Timeline: How Did COVID-19 Spread Through The White House? | NBC News NOW",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "6D4S-ILHYSs",
+            "title": "‘He Wasn’t Paying Attention To The Rules’: Voters React To Trump’s Covid-19 Diagnosis | NBC News NOW",
+            "secondDuration": 730,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

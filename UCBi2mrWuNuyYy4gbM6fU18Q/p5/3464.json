@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TX39YsnagO4",
-            "title": "Citizens take down terrorist on London Bridge",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "baIK6xaEQzA",
             "title": "Trump impeachment enters new stage",
             "secondDuration": 120,
@@ -31,8 +25,14 @@
             "title": "Cyber Monday deals you may want to cash in on",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "1MAdBQQOiBo",
+            "title": "'When the military becomes politicized, nothing good can come of it': Retired Marine | ABC News",
+            "secondDuration": 588,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ufVwVjq8-zw",
-            "title": "Latest details on suspected mail bomber",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "bCUKmXTmI5U",
             "title": "SPECIAL REPORT UPDATE: 11 people killed in Pittsburgh synagogue shooting",
             "secondDuration": 100,
@@ -61,8 +55,14 @@
             "title": "Inside 20 hours family, housekeeper held hostage in DC mansion: 20/20 Oct 26 Part 2",
             "secondDuration": 413,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSUwm55OGas",
+            "title": "How authorities linked Florida man to suspected package bombs case",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

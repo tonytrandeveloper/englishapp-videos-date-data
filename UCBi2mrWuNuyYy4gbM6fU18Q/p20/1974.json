@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Zg9yhIM6gKk",
-            "title": "BLIZZARD OF 2016 | Coastal Flooding",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "VuvX0K8MaIA",
             "title": "The Flint Mom and the City Official Who Discovered Lead Contaminated Water",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Deadly Storms Wallop the South",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "KniWVRi4Gsc",
+            "title": "The Power of Made in America All Over the World",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

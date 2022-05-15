@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QRAehF33YPw",
-            "title": "Michael Bloomberg Commits To Spend $100 Million To Help Biden in Florida | Meet The Press | NBC News",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "MaeR5LR9coQ",
             "title": "Full Peter Strzok: 'I Believe ... Donald Trump Is Compromised By The Russians' | Meet The Press",
             "secondDuration": 544,
@@ -31,8 +25,14 @@
             "title": "Why Biden Ties With Trump in Florida, But Leads in Pennsylvania | Meet The Press | NBC News",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ye6wBVoQyAo",
+            "title": "'Whole Towns Have Been Wiped Out' | Meet The Press | NBC News",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

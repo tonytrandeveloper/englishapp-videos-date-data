@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fyGGhRhYsgQ",
-            "title": "Nightly News Full Broadcast - Nov. 3",
-            "secondDuration": 1284,
-            "group": "group_7"
-        },
-        {
             "videoId": "qFIJ9NL1Nwc",
             "title": "Top Story with Tom Llamas - November 3rd | NBC News Now",
             "secondDuration": 2841,
@@ -121,8 +115,14 @@
             "title": "Supply Chains Threatened As Thieves Hit Cargo Shipments",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "lbsYAgu7MXo",
+            "title": "LIVE: Meet The Press 2021 Election Night Special Coverage | NBC News NOW",
+            "secondDuration": 11626,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

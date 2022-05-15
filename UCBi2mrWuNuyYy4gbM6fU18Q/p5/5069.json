@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fDUx-TJPiAk",
-            "title": "Trump reiterating his support for his embattled EPA chief",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQCiVdm5fVo",
             "title": "Soldier personally thanks author of letter sent to him in Iraq 15 years ago",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "Man detonates 2 explosive devices inside a California Sam's Club store",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "QMJOcauf8Bk",
+            "title": "2 dead after van plows into German pedestrian promenade",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

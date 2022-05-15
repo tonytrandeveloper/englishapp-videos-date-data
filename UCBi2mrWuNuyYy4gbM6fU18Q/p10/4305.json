@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tLfOQIVd0Do",
-            "title": "Tom Brady in Hot Water Over Deflategate",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "oirDQWDm47k",
             "title": "Airplane Comes Dangerously Close to Boaters in Argentina",
             "secondDuration": 48,
@@ -61,8 +55,14 @@
             "title": "Bradley Cooper Supports Bone Marrow Awareness to Save Man’s Life",
             "secondDuration": 376,
             "group": "group_7"
+        },
+        {
+            "videoId": "swWDS-8dd7w",
+            "title": "Mike Huckabee Describes 2016 Presidential Campaign Live on 'GMA'",
+            "secondDuration": 240,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

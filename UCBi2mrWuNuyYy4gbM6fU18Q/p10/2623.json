@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Yw4sbMiGl4o",
-            "title": "Trump proposes path to citizenship for 1.8M",
-            "secondDuration": 230,
-            "group": "group_7"
-        },
-        {
             "videoId": "XqbswnacC0w",
             "title": "HS senior invited to Harlem Globetrotters game after trick shot",
             "secondDuration": 83,
@@ -61,8 +55,14 @@
             "title": "Students say they believe accused high school shooter had a recent death in the family",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZqRNfrArwM",
+            "title": "Traffic stop chase ends in head-on collision",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

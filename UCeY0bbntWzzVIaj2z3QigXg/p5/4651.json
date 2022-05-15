@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D1Ix6pD2Wyk",
-            "title": "Hurricane Michael Lashes Cuba, And Barrels Toward Gulf Coast | NBC News",
-            "secondDuration": 58,
-            "group": "group_7"
-        },
-        {
             "videoId": "2sjn_Vn0ZlE",
             "title": "Giant Pumpkin Weighing 2,170 Pounds Scoops First Prize At Weigh-Off. | NBC News",
             "secondDuration": 81,
@@ -31,8 +25,14 @@
             "title": "Lester Visits Houston Home Of A Tex-Mex Obsession | NBC Nightly News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "7h7wraKyJ-k",
+            "title": "Houston Family Looks Back On Hurricane Harvey | NBC Nightly News",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

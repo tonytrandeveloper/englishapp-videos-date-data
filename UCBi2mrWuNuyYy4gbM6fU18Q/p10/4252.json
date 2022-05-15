@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "waFXKwv4fgg",
-            "title": "Inside a Top Secret Anti-ISIS Command Center",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "IqzqMsBIxVs",
             "title": "Chris Christie: ‘Liberal Political Consultants Put Together’ Clinton Speech",
             "secondDuration": 586,
@@ -61,8 +55,14 @@
             "title": "Lone Gunman Assaults Police Station in Dallas",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "pDHa1AU77SI",
+            "title": "Grandmother Leads Slow-Speed Pursuit at 6 Miles per Hour",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

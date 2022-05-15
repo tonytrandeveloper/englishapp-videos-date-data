@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ws6X_O6nYME",
-            "title": "NBC News NOW Full Broadcast - June 1st, 2021",
-            "secondDuration": 2970,
-            "group": "group_7"
-        },
-        {
             "videoId": "rVGzw6SalEg",
             "title": "Inside Look At Migrants' Dangerous Journey To U.S.",
             "secondDuration": 139,
@@ -31,8 +25,14 @@
             "title": "SUV Used In Miami Shooting Found In Florida Canal",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "Kgd0mM9CL5E",
+            "title": "Macron And Merkel React To NSA Spying Claims",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

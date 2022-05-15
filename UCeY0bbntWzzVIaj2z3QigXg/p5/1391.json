@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "1bGjHuI5fUo",
-            "title": "California Police Hold Briefing On San Jose Shooting | NBC News",
-            "secondDuration": 2006,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SyRy1da7q8",
             "title": "Videos Show Rare Lunar Event Known As 'Super Flower Blood Moon'",
             "secondDuration": 76,
@@ -31,8 +25,14 @@
             "title": "Belarusian President Defends Diversion of Ryanair Flight",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ApfvZAbMAE",
+            "title": "Watch: Pope Kisses Concentration Camp Survivor's Tattoo",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

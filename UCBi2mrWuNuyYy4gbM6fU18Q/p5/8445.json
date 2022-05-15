@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Gzd8Oxtj4xU",
-            "title": "A Whole City Turns Out to See the Pope",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "4BpJvwELrsk",
             "title": "Ticker Tape Parade for World Cup-Winning U.S. Womened Soccer Stars",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Vanessa Williams Shows Off Her Wedding Dress",
             "secondDuration": 198,
             "group": "group_7"
+        },
+        {
+            "videoId": "NKMV6zaRglw",
+            "title": "'Trainwreck' Will Have a Premiere in Cleveland Because of LeBron James",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SZ1Or2OWGJI",
-            "title": "Hallie Jackson NOW Full Episode – Jan. 10 | NBC News NOW",
-            "secondDuration": 3271,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sy6Od_tQGrE",
             "title": "17 Killed, More Than 60 Injured In Bronx Apartment Fire",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "City Of 14 Million To Be Tested After Two Omicron Cases Found In Tianjin, China",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "ub29SE8eyPI",
+            "title": "Health Care System Overwhelmed As U.S. Surpasses 60 Million Covid Cases",
+            "secondDuration": 243,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

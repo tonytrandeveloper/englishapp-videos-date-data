@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "lIVF32GWnNY",
-            "title": "Latest NBC News Poll: 64% Disapprove Of Self-Pardon For President Trump | Meet The Press | NBC News",
-            "secondDuration": 104,
-            "group": "group_7"
-        },
-        {
             "videoId": "0JrKv6m0Bmk",
             "title": "Dr. Fauci: Reports Of A Spent Vaccine Stockpile Was ‘Just A Misunderstanding’ | Meet The Press",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "Biden’s Plans For Covid Vaccine Distribution Include FEMA, Pharmacies | NBC News NOW",
             "secondDuration": 980,
             "group": "group_7"
+        },
+        {
+            "videoId": "HdGrlVAlnqg",
+            "title": "Florida Restaurant Manager Saves Boy From Abuse, Police Say | NBC Nightly News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

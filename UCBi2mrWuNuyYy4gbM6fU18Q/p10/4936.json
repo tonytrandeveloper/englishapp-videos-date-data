@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bqkLCtFZeHk",
-            "title": "Secrets of Nigella Lawson Revealed in a Bitter Court Case",
-            "secondDuration": 142,
-            "group": "group_7"
-        },
-        {
             "videoId": "fREFqDu4W0M",
             "title": "'Anchor Man 2' Star Will Ferrell Reveals Inspiration for Ron Burgundy",
             "secondDuration": 129,
@@ -61,8 +55,14 @@
             "title": "The Dangers of Prescription Painkillers",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "lsGC50-seEM",
+            "title": "Nelson Mandela's Daughter Speaks About Her Father",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

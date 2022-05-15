@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YRlBD0Pkwf4",
-            "title": "Summer Wildfires Scorch 10 States",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "SMwmJGXhizc",
             "title": "Reporter Tries Driving Simulator While on Ambien",
             "secondDuration": 227,
@@ -121,8 +115,14 @@
             "title": "Jet Skier Breaches JFK Airport Security",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "YLFd5SKYXyQ",
+            "title": "Cosmo Editor Helen Gurley Brown Dies",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

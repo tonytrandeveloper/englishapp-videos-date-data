@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "NvEzXcHPhGk",
-            "title": "Failed Terror Plot: A Link to al Qaeda?",
-            "secondDuration": 353,
-            "group": "group_7"
-        },
-        {
             "videoId": "5WnO9l6C-TE",
             "title": "Lose Those Holiday Pounds",
             "secondDuration": 285,
@@ -121,8 +115,14 @@
             "title": "Remembering the Troops on Christmas",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "AsiyFMMgc70",
+            "title": "Christmas Eve Security Scare for Pope",
+            "secondDuration": 107,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

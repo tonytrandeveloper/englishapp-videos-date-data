@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cBNs8WbwNw0",
-            "title": "Senate Group Working On Health Care Has No Women | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "xGmKYe54EPw",
             "title": "Emergency At Hanford Nuclear Site After Tunnel Collapse | NBC Nightly News",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Brawls Break Out After Spirit Airlines Cancels Flights | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "bGQYXPijMQ4",
+            "title": "What Barack Obama Doesn’t Miss About The White House | NBC News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

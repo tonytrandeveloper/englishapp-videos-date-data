@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LQFkhvSuSf0",
-            "title": "Missing 4-year-old has had multiple brain surgeries, requires constant care",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "udSQD-D75z0",
             "title": "Prince Harry and Meghan debut newborn son",
             "secondDuration": 144,
@@ -121,8 +115,14 @@
             "title": "The Debrief: Russia plane crash, Barr versus Dems, West Coast measles outbreak | ABC News",
             "secondDuration": 1550,
             "group": "group_7"
+        },
+        {
+            "videoId": "6Ofz4BwubMI",
+            "title": "Former Dem and GOP prosecutors lash out at Trump",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

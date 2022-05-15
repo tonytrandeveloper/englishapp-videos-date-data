@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zoKm25iWQUI",
-            "title": "President Donald Trump Talks Gun Legislation: ‘Progress Is Being Made’ | NBC News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "8_WxdOePB48",
             "title": "Watch Scenes From 9/11 Remembrance Events At The Three Sites Of Terror Attacks | NBC News",
             "secondDuration": 161,
@@ -121,8 +115,14 @@
             "title": "Watch: Smoke Billows From Derailed Train On Fire In Illinois | NBC News",
             "secondDuration": 54,
             "group": "group_7"
+        },
+        {
+            "videoId": "IBKQHPbw0jY",
+            "title": "President Donald Trump On How He Is Taking Action To Protect HBCUs | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

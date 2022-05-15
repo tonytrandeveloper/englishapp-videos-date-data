@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aXOTuVyCcbc",
-            "title": "Why Mike Bloomberg is sitting out the Iowa caucuses l ABC News",
-            "secondDuration": 337,
-            "group": "group_7"
-        },
-        {
             "videoId": "8B9tjtUK-pY",
             "title": "Breaking down how the Iowa caucuses work l ABC News",
             "secondDuration": 132,
@@ -61,8 +55,14 @@
             "title": "Rush Limbaugh diagnosed with advanced lung cancer l ABC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "CuQYAR_PdPQ",
+            "title": "Latest details into Coronavirus and China l ABC News",
+            "secondDuration": 435,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

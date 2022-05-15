@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hzpY7aDPhtw",
-            "title": "Trump: Obama 'Was Born in the United States'",
-            "secondDuration": 47,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZDz5o0xGvJE",
             "title": "Blind Former Gang Member Fights Off Robbers",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "OJ Simpson's Life in Prison",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "N1m8bNBaVMs",
+            "title": "Dwayne Johnson on Playing Demigod Maui in 'Moana'",
+            "secondDuration": 378,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

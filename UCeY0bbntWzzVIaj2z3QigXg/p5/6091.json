@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Kd_PTwZttXM",
-            "title": "Manchester Attack: Father And Brothers Of Suspected Bomber Are Arrested | NBC Nightly News",
-            "secondDuration": 157,
-            "group": "group_7"
-        },
-        {
             "videoId": "3kFBZs26DJk",
             "title": "Border Wall Showdown: American Families Fight To Keep Their Land At Texas-Mexico Border | NBC News",
             "secondDuration": 313,
@@ -31,8 +25,14 @@
             "title": "‘I Can’t Breathe’: Video Shows Man Begging For Help Before He Died In Jail | NBC News",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "maFpykhDgZo",
+            "title": "Military Deployed On London Streets After U.K. Raises Terror Threat | NBC News",
+            "secondDuration": 55,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

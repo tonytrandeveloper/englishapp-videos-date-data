@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EEUsWPeMWos",
-            "title": "Student killed confronting gunman at Spokane school",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "QKLemdYK-wM",
             "title": "Real-life 'Iron Man': How paralyzed surgeon is able to perform surgeries: Part 1",
             "secondDuration": 541,
@@ -31,8 +25,14 @@
             "title": "Wounded warrior dog helps Army sergeant return home from Afghanistan - 'Career Canines' S1 E1",
             "secondDuration": 401,
             "group": "group_7"
+        },
+        {
+            "videoId": "EtVgiX8V7EE",
+            "title": "8 residents found dead in Florida nursing home",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

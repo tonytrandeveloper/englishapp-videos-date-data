@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8IaZQ3MQGkM",
-            "title": "Driving Dangers Report Hidden for Years",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "Yn9SpNntSHg",
             "title": "Neighborhood Unites to Rescue Crash Victims",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Bottom Line on the President's Ratings",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "lb6V6DRoruQ",
+            "title": "Growing Up with Two Mothers",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

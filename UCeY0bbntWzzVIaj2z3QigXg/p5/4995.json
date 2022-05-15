@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8uSkLiFXx38",
-            "title": "Police Chase Armored Vehicle Stolen From Virginia Military Base | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "Tgyq2zsGPI0",
             "title": "Desperate Search For Loved Ones After Guatemala Volcano Eruption | NBC Nightly News",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Designer Kate Spade’s Death Sparks National Conversation On Suicide | NBC Nightly News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "gNL3D-3VosU",
+            "title": "Four Arizona Police Officers On Leave For Punching Unarmed Man | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

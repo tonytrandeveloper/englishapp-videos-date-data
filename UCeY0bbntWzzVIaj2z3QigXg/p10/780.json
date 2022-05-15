@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RTJHAgLfgUI",
-            "title": "Live: CDC Director, Dr. Fauci Testify At House Hearing On Covid Pandemic | NBC News",
-            "secondDuration": 11286,
-            "group": "group_7"
-        },
-        {
             "videoId": "270rdx3kUQQ",
             "title": "Defense Rests In Derek Chauvin Trial, Closing Arguments Will Be Monday | NBC News NOW",
             "secondDuration": 188,
@@ -61,8 +55,14 @@
             "title": "Blinken Says Action Must Follow Words During Surprise Visit To Kabul | NBC News NOW",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "MUKR52yboMQ",
+            "title": "Authorities Report 'Almost Uneventful' End To Brooklyn Center Protest Over Daunte Wright's Death",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

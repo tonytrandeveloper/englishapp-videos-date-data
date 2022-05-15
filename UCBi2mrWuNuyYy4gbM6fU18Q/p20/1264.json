@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nO0qJCvDAPk",
-            "title": "Strikes will establish a strong deterrent of chemical weapons: Trump",
-            "secondDuration": 497,
-            "group": "group_7"
-        },
-        {
             "videoId": "QE9pbI-GK8E",
             "title": "Pentagon officials remark on strikes in Syria",
             "secondDuration": 849,
@@ -121,8 +115,14 @@
             "title": "In new book, former FBI director likens President Donald Trump to a mafia boss",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "Z7qbUNJX7Xw",
+            "title": "Chemical weapons inspectors headed to site of suspected chemical attack",
+            "secondDuration": 96,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3gEGaybPlXU",
-            "title": "Flu Season Is Three Times Worse Than Last Year | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "SgULnELJwrU",
             "title": "Two Charged In Murder Of Mother, Kids, Partner In Troy, New York | NBC Nightly News",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Erica Garner, Activist Daughter Of Eric Garner, Dies At 27 After Heart Attack | NBC Nightly News",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "MGxp4EuxAW8",
+            "title": "Syria’s Wounded Are Not The Only War Casualties | NBC Nightly News",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

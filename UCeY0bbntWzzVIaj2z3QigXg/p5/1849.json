@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lBsLPUIZkFY",
-            "title": "All U.S. States Report Covid Vaccine Shortages | NBC Nightly News",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "ihbelsEECw8",
             "title": "Trial Begins Against Italy’s Biggest, Notorious Organized Crime Group | NBC News NOW",
             "secondDuration": 219,
@@ -31,8 +25,14 @@
             "title": "Scientists Keep Doomsday Clock At 100 Seconds To Midnight, Same As 2020 | NBC News NOW",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "Pe3o_xY1jKg",
+            "title": "An End To Trump’s ‘Zero-Tolerance’ Migrant Family Separation Policy | NBC News NOW",
+            "secondDuration": 263,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

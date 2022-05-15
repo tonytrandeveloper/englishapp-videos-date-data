@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "kJ0Gpz_pi6A",
-            "title": "Jet plane dumps fuel over elementary school yard l ABC News",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "BKP--kTcn6o",
             "title": "Sen. Elizabeth Warren touts female political success at Iowa debate l ABC News",
             "secondDuration": 229,
@@ -301,8 +295,14 @@
             "title": "Broken Vows l 20/20 l PART 4",
             "secondDuration": 541,
             "group": "group_7"
+        },
+        {
+            "videoId": "PLaA_rHE6JU",
+            "title": "Broken Vows l 20/20 l PART 3",
+            "secondDuration": 383,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

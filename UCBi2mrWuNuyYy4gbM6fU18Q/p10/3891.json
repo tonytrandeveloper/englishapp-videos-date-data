@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UtnUYAIIjI0",
-            "title": "‘The Bachelor’ Season 20 Week 8 Recap  | ABC News",
-            "secondDuration": 255,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-Dq2udfcEg",
             "title": "Kalamazoo Shooting Suspect Admits to ‘Taking People’s Lives’  Investigators Say",
             "secondDuration": 86,
@@ -61,8 +55,14 @@
             "title": "Bob Dole Endorses Marco Rubio | ABC EXCLUSIVE",
             "secondDuration": 74,
             "group": "group_7"
+        },
+        {
+            "videoId": "c2dfad65M2g",
+            "title": "WATCH: SeaWorld Rescues Whale Caught In Fishing Line",
+            "secondDuration": 34,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3kPLL4KnKTc",
-            "title": "White House Holds Press Briefing: September 30 | NBC News",
-            "secondDuration": 2752,
-            "group": "group_7"
-        },
-        {
             "videoId": "QmJICxcNVLQ",
             "title": "Progressives Planning Primary Challenge Against Sen. Kyrsten Sinema",
             "secondDuration": 190,
@@ -31,8 +25,14 @@
             "title": "'Megadrought' Sparks Concerns Over Southwest Sustainability, Water Supply",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "5zkNsiQM1U4",
+            "title": "Rep. Kevin McCarthy Holds Press Conference | NBC News",
+            "secondDuration": 840,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

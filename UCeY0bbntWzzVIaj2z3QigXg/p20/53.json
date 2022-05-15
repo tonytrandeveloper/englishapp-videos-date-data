@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "KL9KCJB70vA",
-            "title": "Trial Begins For Four Men Who Plotted To Kidnap Michigan Governor",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "BwNf5GqQ4oE",
             "title": "Nightly News Full Broadcast - March 9",
             "secondDuration": 1289,
@@ -121,8 +115,14 @@
             "title": "Morning News NOW Full Broadcast - March 9",
             "secondDuration": 3183,
             "group": "group_7"
+        },
+        {
+            "videoId": "SYUREGUjfrU",
+            "title": "Video Illustrates 'Apocalyptic' Conditions Of Ukraine's Mariupol",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SvvaZm1wQnc",
-            "title": "WEBCAST: A Special Tribute to a Boy Named Danny",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "doSund-cmdA",
             "title": "American Music Awards 2013: Winners, Performers",
             "secondDuration": 236,
@@ -61,8 +55,14 @@
             "title": "Thanksgiving Travel Season Could See Nasty Winter Storm",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "HhqemK8ORbY",
+            "title": "One Direction Hosts 7-Hour Digital Extravaganza",
+            "secondDuration": 187,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

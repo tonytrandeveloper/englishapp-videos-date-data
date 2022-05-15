@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XtE18pop7so",
-            "title": "Product Testing by Those Who Count",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "Gs2nPASVR98",
             "title": "Kim Kardashian's Big Hollywood Wedding",
             "secondDuration": 139,
@@ -61,8 +55,14 @@
             "title": "ABC World News Now on Facebook",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "8qsThUEiwRo",
+            "title": "Internet Brides: From Ukraine With Love",
+            "secondDuration": 427,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

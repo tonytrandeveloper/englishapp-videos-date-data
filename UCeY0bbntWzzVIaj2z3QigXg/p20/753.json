@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yvdWBnLO2IQ",
-            "title": "First responders at risk in coronavirus pandemic: 300 NYPD officers test positive | NBC Nightly News",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "OshIvDCE5TM",
             "title": "Italian doctor’s advice for American hospitals: Reshape protocols and be flexible | NBC Nightly News",
             "secondDuration": 74,
@@ -121,8 +115,14 @@
             "title": "New Effort To Get Masks And Gloves To Healthcare Workers Launches Online | NBC News NOW",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "nyGpK1I9heo",
+            "title": "Senate Passes Coronavirus Relief Bill | NBC News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

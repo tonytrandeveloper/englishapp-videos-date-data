@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "00x9edSIEAQ",
-            "title": "First Images Released From Brazen California Jail Break",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "7_nMdBW79fk",
             "title": "Crash for Cash? 1 Man Accused of Faking 22 Accidents",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "How Flint, Michigan's Contaminated Water Was Discovered",
             "secondDuration": 423,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zg9yhIM6gKk",
+            "title": "BLIZZARD OF 2016 | Coastal Flooding",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

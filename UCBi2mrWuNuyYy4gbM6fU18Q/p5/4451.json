@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hfFkMMHPAmw",
-            "title": "The Year 2018: Gun violence, hurricanes and other major news events",
-            "secondDuration": 414,
-            "group": "group_7"
-        },
-        {
             "videoId": "v3QyiGB-6Lc",
             "title": "The Year 2018: 'Black Panther,' 'Crazy Rich Asians and other breakout stars",
             "secondDuration": 400,
@@ -31,8 +25,14 @@
             "title": "The Year 2018: What were they thinking?",
             "secondDuration": 309,
             "group": "group_7"
+        },
+        {
+            "videoId": "GyeJRdjeQTg",
+            "title": "Search for survivors after deadly tsunami hits Indonesia",
+            "secondDuration": 363,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ocrwoYZJTq4",
-            "title": "Study Examines Far-Right Group ‘Oath Keepers’ Alleged Role In January 6 Riot",
-            "secondDuration": 476,
-            "group": "group_7"
-        },
-        {
             "videoId": "m0LqPDPbJeM",
             "title": "NOW Tonight With Joshua Johnson Full Episode - Jan. 11 | NBC News NOW",
             "secondDuration": 3101,
@@ -61,8 +55,14 @@
             "title": "Growing Frustration Among Voting Rights Activists In Georgia",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "hB1N9_uikw0",
+            "title": "Fauci, Walensky Restify At Senate Hearing About Pandemic Response",
+            "secondDuration": 183,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

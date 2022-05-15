@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YH6APNw1tXk",
-            "title": "Bernie Sanders Reads Scott King Letter, Calls Warren’s Silencing ‘Incomprehensible’ | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "onRXP1OUHc0",
             "title": "Bone Marrow Registry Seeks More People To 'Be The Match' For Mixed Race Patients | NBC Asian America",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Tornadoes Strike New Orleans Area That Was Devastated By Katrina | NBC Nightly News",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "xCHFIvZ_HiM",
+            "title": "New England Patriots Celebrate Super Bowl Win In Victory Parade | NBC News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

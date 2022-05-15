@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "BZaqhqEhvCg",
-            "title": "U.S. Security Flaws Post-9/11",
-            "secondDuration": 317,
-            "group": "group_7"
-        },
-        {
             "videoId": "LB_2-gsH8GE",
             "title": "Princess Boy Loves to Wear Dresses",
             "secondDuration": 368,
@@ -61,8 +55,14 @@
             "title": "'Dancing With the Stars' 2011: Couples Announced on 'GMA'",
             "secondDuration": 264,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVM7wPxFWSE",
+            "title": "Go Naked for Clothes in California!",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

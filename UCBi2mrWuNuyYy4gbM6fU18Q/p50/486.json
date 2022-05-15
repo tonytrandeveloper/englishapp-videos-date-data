@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "Is7ah_4gZ1Q",
-            "title": "Woman describes terrifying parasailing crash in Mexico | ABC News",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZ_JqI8daWI",
             "title": "EPA Administrator Scott Pruitt resigns amid scandals: Special Report",
             "secondDuration": 638,
@@ -301,8 +295,14 @@
             "title": "Deadly rampage kills 5 at the Capital Gazette",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "wq8nhMMTjvQ",
+            "title": "Georgia medical board suspends license of 'dancing doctor' for at least 2-1/2 years",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

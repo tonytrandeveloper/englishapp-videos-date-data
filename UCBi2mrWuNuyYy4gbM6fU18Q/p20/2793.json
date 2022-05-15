@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "7sPIaJpYF_Y",
-            "title": "Presidential Debate 2012 Live Stream from ABC News and Yahoo News: The Candidates Debate (Part 2)",
-            "secondDuration": 6705,
-            "group": "group_7"
-        },
-        {
             "videoId": "jaILZ8fnCvE",
             "title": "Presidential Debate 2012 Live Stream from ABC News and Yahoo News: The Candidates Debate (Part 1)",
             "secondDuration": 6538,
@@ -121,8 +115,14 @@
             "title": "Obama vs. Romney: The First Debate",
             "secondDuration": 336,
             "group": "group_7"
+        },
+        {
+            "videoId": "gEHkD_f8ucc",
+            "title": "Presidential Debate 2012 Analysis: Who Won 1st Debate?  Donna Brazile, Matthew Dowd, Nicolle Wallace",
+            "secondDuration": 286,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

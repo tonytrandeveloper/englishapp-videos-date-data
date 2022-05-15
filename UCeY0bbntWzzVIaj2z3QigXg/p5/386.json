@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V4y5JZKgAs4",
-            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2200,
-            "group": "group_7"
-        },
-        {
             "videoId": "hiHSvgDk_zE",
             "title": "LIVE: Biden Holds Event to Reignite Cancer Moonshot | NBC News",
             "secondDuration": 2615,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - Feb. 2",
             "secondDuration": 2673,
             "group": "group_7"
+        },
+        {
+            "videoId": "zNBdZ_yasDc",
+            "title": "Putin Blames U.S. For Ukraine Tension But Open To Diplomatic Solution",
+            "secondDuration": 371,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

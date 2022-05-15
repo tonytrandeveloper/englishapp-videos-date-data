@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DI2wgbS5Z00",
-            "title": "Whitney Houston Remembered at Private Funeral, Alicia Keys, Kevin Costner Speak",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "E3dpCWo2P9w",
             "title": "Farewell to Whitney: Breaking Barriers",
             "secondDuration": 328,
@@ -31,8 +25,14 @@
             "title": "Oscar Predictions:  Best Picture",
             "secondDuration": 465,
             "group": "group_7"
+        },
+        {
+            "videoId": "epweF4xRFi8",
+            "title": "Oscar Predictions:  Best Actor",
+            "secondDuration": 396,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

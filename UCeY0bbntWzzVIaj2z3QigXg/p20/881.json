@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SfBg4gYPK50",
-            "title": "Special Report: House Votes To Pass Impeachment Resolution | NBC News",
-            "secondDuration": 333,
-            "group": "group_7"
-        },
-        {
             "videoId": "z16Fx7XFz9k",
             "title": "Twitter Will Stop Accepting Political Ads Ahead Of 2020 Election | NBC Nightly News",
             "secondDuration": 76,
@@ -121,8 +115,14 @@
             "title": "Military Leaders Discuss ISIS Raid That Killed Al-Baghdadi | NBC News",
             "secondDuration": 5717,
             "group": "group_7"
+        },
+        {
+            "videoId": "wnWrAjmHSDo",
+            "title": "President Donald Trump Presents The Medal Of Honor To Matthew Williams | NBC News",
+            "secondDuration": 1286,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

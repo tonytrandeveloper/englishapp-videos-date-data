@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fWcWsQALL44",
-            "title": "Consumer Electronics Show (CES) 2013 in 60: HapiLabs HapiFork Help Slow Hungry Habits",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "VzSlJtRGs78",
             "title": "Consumer Electronics Show (CES) 2013 in 60: New Audi Pilotless Parking With Help From Smartphones",
             "secondDuration": 103,
@@ -31,8 +25,14 @@
             "title": "Consumer Electronics Show (CES) 2013 Recap, Highlights: Sony 4K",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "_BlQDizjwiY",
+            "title": "Consumer Electronics Show (CES) 2013 Recap, Highlights: Tech21 Cases",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

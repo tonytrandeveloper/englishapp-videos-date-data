@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iwpc04H0IYU",
-            "title": "Cher Calls Donald Trump 'Dangerous,' Says Hillary Clinton 'Screwed Up' | NBC News",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "-ywiSeidZXc",
             "title": "'White Helmet' Rescue Worker Describes Aleppo's Devastation | NBC News",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Report: Leaked Tax Docs Show Donald Trump Claimed $916M In Losses In 1995 | NBC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "ENpgbvlU8S4",
+            "title": "Quake Swarm In Southern California Renews Fears Of ‘The Big One’ | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

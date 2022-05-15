@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ak5GBTYJArw",
-            "title": "Jennifer Aniston's Fitness Secrets Revealed",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "DM0Kl0z2r0Y",
             "title": "Marion 'Suge' Knight Shot at Chris Brown's Pre-VMA Party",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Earthquake in California",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "z31K6lzqFcc",
+            "title": "Napa Quake Leaves Thousands Without Power, Water",
+            "secondDuration": 197,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

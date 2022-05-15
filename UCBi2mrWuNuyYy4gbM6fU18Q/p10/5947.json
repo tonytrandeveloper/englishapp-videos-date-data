@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uoS9liwSsaU",
-            "title": "Steve Jobs: Most Fascinating Person",
-            "secondDuration": 224,
-            "group": "group_7"
-        },
-        {
             "videoId": "By8GRIQv0ro",
             "title": "Pippa Middleton in the Spotlight",
             "secondDuration": 176,
@@ -61,8 +55,14 @@
             "title": "Webcast: Marine Corps Purple Heart Fiasco; Melting Ice Bar",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "KO4MniR0Ulo",
+            "title": "Bear Climbs Dumptruck",
+            "secondDuration": 72,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

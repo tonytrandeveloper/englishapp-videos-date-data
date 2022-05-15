@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BnidTB683FM",
-            "title": "Senator Lindsey Graham: 'The FBI Needs To Play By The Rules' (Full) | Meet The Press | NBC News",
-            "secondDuration": 636,
-            "group": "group_7"
-        },
-        {
             "videoId": "s3scPFeUVOY",
             "title": "Michael Wolff: 25th Amendment Is Discussed In The White House Every Day | Meet The Press | NBC News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Security Flaws Put Virtually All Phones, Computers At Risk | NBC Nightly News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "3a91-TrSjlo",
+            "title": "California Towns Banking On Marijuana For Revitalization | NBC Nightly News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

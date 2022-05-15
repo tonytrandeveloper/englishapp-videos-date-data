@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5J1_y3GE8z4",
-            "title": "Support Duck Flies with Owner",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "PneRedMmGNo",
             "title": "Melania Trump Defends Donald",
             "secondDuration": 356,
@@ -31,8 +25,14 @@
             "title": "Price Is Right | 3 Contestants Hit $1, Make History",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "ulkXpc4zgjI",
+            "title": "US Supports Iraqi Forces in Mosul",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

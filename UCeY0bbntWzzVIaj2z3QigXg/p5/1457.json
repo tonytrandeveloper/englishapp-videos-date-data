@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "14Z_JOeoK1Y",
-            "title": "Dr. Fauci Testifies At Senate Hearing On Covid-19 Response | NBC News",
-            "secondDuration": 9516,
-            "group": "group_7"
-        },
-        {
             "videoId": "DBDsomhfzEE",
             "title": "Morning News NOW Full Broadcast - May 11 | NBC News NOW",
             "secondDuration": 3134,
@@ -31,8 +25,14 @@
             "title": "Pipeline Cyberattack Raises Questions Over U.S. Infrastructure Vulnerabilities | NBC News NOW",
             "secondDuration": 247,
             "group": "group_7"
+        },
+        {
+            "videoId": "b1V1CalpPs4",
+            "title": "See Aftermath Of Palestinian, Israeli Jerusalem Day Violence | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

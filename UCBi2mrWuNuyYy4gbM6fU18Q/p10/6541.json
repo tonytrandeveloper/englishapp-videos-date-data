@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tveWWsVm9qY",
-            "title": "Is Obama Tough Enough?",
-            "secondDuration": 993,
-            "group": "group_7"
-        },
-        {
             "videoId": "KEFbX8FhWUc",
             "title": "Soar Through the Sky with Pro Hang Gliders",
             "secondDuration": 163,
@@ -61,8 +55,14 @@
             "title": "Holiday Air Travel Prices Soar",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "QFL5hOkg3xw",
+            "title": "Afghan Election Results Delayed",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

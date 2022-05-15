@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z0ReVWDHdIU",
-            "title": "SKINNY: The People Have Spoken!",
-            "secondDuration": 257,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQ864I6oooo",
             "title": "WEBCAST: Bill Cosby's TV Wife Speaks Out",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "One Million Dollar Appraisal for Grandma’s Old Baseball Cards",
             "secondDuration": 62,
             "group": "group_7"
+        },
+        {
+            "videoId": "xChxwD02NbM",
+            "title": "EARTHQUAKE VIDEO: 11 Quakes in the last 24 hours",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

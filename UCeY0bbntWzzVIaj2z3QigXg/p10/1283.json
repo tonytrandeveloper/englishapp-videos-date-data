@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oovb_0bW1pY",
-            "title": "Mayor Bill De Blasio Announces Start Of Phase 3: 'Today Is A Good Day' | NBC News NOW",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra2IMvIwx9A",
             "title": "Florida Governor: 'We Need Proper Perspective' As Youth Coronavirus Cases Rise | NBC News NOW",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Full Panel: 'There Needs To Be A Reassessment Of Our History' | Meet The Press | NBC News",
             "secondDuration": 337,
             "group": "group_7"
+        },
+        {
+            "videoId": "bPNRuHLxkIw",
+            "title": "Full Bhadelia: 'Our System Is Not Responsive Enough' To COVID-19 Crisis | Meet The Press | NBC News",
+            "secondDuration": 329,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

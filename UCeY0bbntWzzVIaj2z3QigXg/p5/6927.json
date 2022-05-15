@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aQwHkF8SloM",
-            "title": "What We Learned From Clinton’s Debate Performance Last Night | NBC Nightly News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "V9i5ocUOx1c",
             "title": "Trump Talks Campaign Regrets, Hillary Clinton and a Change in Tone | NBC Nightly News",
             "secondDuration": 196,
@@ -31,8 +25,14 @@
             "title": "Jennifer Lawrence Speaks Out on Hollywood’s Gender Pay Gap | NBC Nightly News",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "z95aiwQra2w",
+            "title": "Pregnant Refugee Who Collapsed From Tear Gas Shares New Joy | NBC Nightly News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

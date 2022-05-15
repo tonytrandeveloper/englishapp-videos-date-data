@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3A7QawluxdA",
-            "title": "Newt Gingrich 'This Week' Interview: Richard Mourdock's Comments Reflect 'Virtually Every Catholic'",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "D8pADnQg45o",
             "title": "Stephanie Cutter 'This Week' Interview: 2012 Presidential Election - Romney, Obama in the Polls",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Hurricane Sandy Delays: Traveling Plans at Standstill With Flight, Transportation Cancellations",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "KRjK2QWH65g",
+            "title": "Tsunami Warning For Hawaii After Quake Hits British Columbia",
+            "secondDuration": 270,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

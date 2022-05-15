@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hi1N3RNCcZ0",
-            "title": "Inside Iowa’s Growing Coronavirus Crisis | NBC Nightly News",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "z3jQ2Vjk7jE",
             "title": "Pfizer Says Covid-19 Vaccine Is 95 Percent Effective | NBC Nightly News",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Cuomo Defends Closing New York City Schools As Covid Cases Rise | NBC News NOW",
             "secondDuration": 382,
             "group": "group_7"
+        },
+        {
+            "videoId": "WDWwFH6RoAA",
+            "title": "Protesters Condemn Pompeo’s Visit To Israeli West Bank Settlement | NBC News NOW",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

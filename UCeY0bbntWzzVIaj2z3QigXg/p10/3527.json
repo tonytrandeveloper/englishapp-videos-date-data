@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fCKaOdPowPg",
-            "title": "Walter Scott Shooting Dash Cam Video Revealed | NBC Nightly News",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "kxwTHtQ04ec",
             "title": "Hillary Clinton Dodging Questions of A Presidential Bid | NBC News",
             "secondDuration": 95,
@@ -61,8 +55,14 @@
             "title": "Rand Paul Reveals Conventional Strategy | Chuck's Take | NBC News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "tdPEgojVZr8",
+            "title": "South Carolina Cop Charged With Murder Of Walter Scott | NBC Nightly News",
+            "secondDuration": 48,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

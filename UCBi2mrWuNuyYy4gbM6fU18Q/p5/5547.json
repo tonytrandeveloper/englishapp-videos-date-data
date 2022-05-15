@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "haXDcuKL_2M",
-            "title": "Democrats say General Michael Flynn committed criminal acts by concealing information",
-            "secondDuration": 191,
-            "group": "group_7"
-        },
-        {
             "videoId": "OoKcM_NTaHQ",
             "title": "Millions of people across 5 states remain without power after Irma",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Miles and miles of destruction where Irma first made landfall in the U.S.",
             "secondDuration": 223,
             "group": "group_7"
+        },
+        {
+            "videoId": "0TGgQzGod-E",
+            "title": "More than 2,000 stranded Americans return home from the Caribbean",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jN1ku1AAI54",
-            "title": "The Hustlers l 20/20 l PART 1",
-            "secondDuration": 466,
-            "group": "group_7"
-        },
-        {
             "videoId": "Wjvi1GA9NGQ",
             "title": "Felicity Huffman sentenced to 14 days in prison in ‘Varsity Blues’ case I Nightline",
             "secondDuration": 377,
@@ -31,8 +25,14 @@
             "title": "‘She had a way out’: Family speaks at ex-cheerleader’s sentencing",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "BiPoghvHOzQ",
+            "title": "Felicity Huffman gets 14 days in prison for college cheating scam",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9zwMIUusEEs",
-            "title": "Top Line: Reid, Republicans and Palin",
-            "secondDuration": 302,
-            "group": "group_7"
-        },
-        {
             "videoId": "cEjNdJ7XBtQ",
             "title": "Top Line: Health Care Reform: Cadillac Taxes",
             "secondDuration": 547,
@@ -31,8 +25,14 @@
             "title": "Will Conan Stay at NBC?",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "YK468IxNoBM",
+            "title": "Jake Tapper on Sarah Palin's Fox Debut",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

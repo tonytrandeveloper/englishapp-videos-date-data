@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ds03yXzN89c",
-            "title": "Are Blueberry Farmers Exploiting Kids?",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "MUY9KYrEQmo",
             "title": "Jim Carrey's Favorite 'Christmas Carol'",
             "secondDuration": 306,
@@ -61,8 +55,14 @@
             "title": "Private Eye Hunts for Clues in Murder",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "czQgML4PVqQ",
+            "title": "It's On: Yankees vs. Phillies",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

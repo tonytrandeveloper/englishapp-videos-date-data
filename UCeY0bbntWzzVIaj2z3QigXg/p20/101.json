@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "TQozs9O-l-c",
-            "title": "Nightly News Full Broadcast - Jan. 29",
-            "secondDuration": 1177,
-            "group": "group_7"
-        },
-        {
             "videoId": "w-vxW7rKLec",
             "title": "Ukraine Braces For Possible Invasion As Russia Adds Military Force",
             "secondDuration": 128,
@@ -121,8 +115,14 @@
             "title": "Gen. Milley Warns Russia Could Invade Ukraine With ‘Little Warning’",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "BJNZxqydPx4",
+            "title": "San Francisco Lifts Indoor Mask Mandate For Those Who Are Boosted",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QzeJzwObWsE",
-            "title": "NYC Murder Mystery | 2 Suspects to Appear in Court",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZnnPjRpdWk",
             "title": "4 Officers Shot Overnight",
             "secondDuration": 39,
@@ -31,8 +25,14 @@
             "title": "Chuck Schumer: Donald Trump's Victory 'Not a Mandate'",
             "secondDuration": 274,
             "group": "group_7"
+        },
+        {
+            "videoId": "kc0gxmUJQUw",
+            "title": "Donald Trump's Cabinet Begins to Take Shape",
+            "secondDuration": 295,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NJXjwwNLYcE",
-            "title": "Biden Delivers Remarks On Health Care | NBC News",
-            "secondDuration": 2055,
-            "group": "group_7"
-        },
-        {
             "videoId": "D2vCLBi_89g",
             "title": "Trump Announces Plan To Provide Covid Vaccines To Nursing Homes At No Cost | NBC News NOW",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "898,000 Americans Filed For Unemployment Last Week, Signaling Slow Economic Recovery | NBC News NOW",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "ykR1SKh1AeU",
+            "title": "Highlights From Trump And Biden’s Dueling Town Hall Events | NBC News",
+            "secondDuration": 328,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

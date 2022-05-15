@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sbiKwsJ24rs",
-            "title": "Asteroid Flies Close To Earth | Archives | NBC News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Q0s7KKibZU",
             "title": "Boy Finds 5.16 Carat Diamond At State Park | Archives | NBC News",
             "secondDuration": 31,
@@ -121,8 +115,14 @@
             "title": "Snowden: Any Cell Phone Can Be Hacked | NBC News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "1-dfwHCjM3k",
+            "title": "Snowden Discusses Surveillance Reform | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bMGRTOaC0O4",
-            "title": "Texas Gov. Abbott Announces Plan To Bus Migrants To Washington",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "Ct_0mYJIY5k",
             "title": "Speaker Pelosi Tests Positive For Covid",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "U.S. Imposes New Sanctions On Russian Banks, Members Of Putin’s Family",
             "secondDuration": 285,
             "group": "group_7"
+        },
+        {
+            "videoId": "fUIR-yTXaQw",
+            "title": "'Weapons, Weapons And Weapons': Ukrainian Foreign Minister's Agenda For NATO",
+            "secondDuration": 74,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

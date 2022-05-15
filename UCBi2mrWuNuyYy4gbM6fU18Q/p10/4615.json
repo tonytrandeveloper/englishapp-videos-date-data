@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qszpq0Ydv04",
-            "title": "Derek Jeter’s Last Game at Yankee Stadium",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "UBtcn60d9dE",
             "title": "Routine Traffic Stop Raises Concerns About Police Brutality",
             "secondDuration": 110,
@@ -61,8 +55,14 @@
             "title": "On the Town with Ed Sheeran",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "qwepbZ_4J-A",
+            "title": "Baby Gorilla Kamina’s Search for a Mother",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

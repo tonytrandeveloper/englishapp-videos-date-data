@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ozyjivDaLWc",
-            "title": "Biden Unveils Infrastructure Plan: 'It's Big, Yes. It's Bold, Yes' | NBC News NOW",
-            "secondDuration": 312,
-            "group": "group_7"
-        },
-        {
             "videoId": "0HyFj_jkKwI",
             "title": "Biden Delivers Remarks On The Economy | NBC News",
             "secondDuration": 2131,
@@ -61,8 +55,14 @@
             "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
             "secondDuration": 1711,
             "group": "group_7"
+        },
+        {
+            "videoId": "THiFsaDQ_s4",
+            "title": "When Will Children Be Able To Get A Covid-19 Vaccine? | NBC News NOW",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

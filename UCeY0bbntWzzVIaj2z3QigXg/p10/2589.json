@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sPzubN4hJgw",
-            "title": "NCAA Champs Villanova Honored With Victory Parade In Philadelphia | NBC News",
-            "secondDuration": 5744,
-            "group": "group_7"
-        },
-        {
             "videoId": "mbZL9HylHLU",
             "title": "Annual U.S. - South Korean Military Drills Get Underway | NBC News",
             "secondDuration": 54,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump To Send National Guard To U.S.-Mexico Border | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "2F6lqZKdQcU",
+            "title": "YouTube Shooter Repeatedly Posted Grievances About The Video Platform | NBC Nightly News",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

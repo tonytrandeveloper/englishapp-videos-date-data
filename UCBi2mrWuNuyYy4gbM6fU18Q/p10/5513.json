@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cVUuYIKlu4k",
-            "title": "2012 Election Results; California's 'Frakenfood' Vote, Legalization of Gay Marriage, Pot",
-            "secondDuration": 173,
-            "group": "group_7"
-        },
-        {
             "videoId": "_MKgy6OEWPk",
             "title": "Election Results 2012: President Barack Obama's Family Calls White House Home for Four More Years",
             "secondDuration": 224,
@@ -61,8 +55,14 @@
             "title": "Election Night 2012: What Results Mean",
             "secondDuration": 273,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncaCr4VklA4",
+            "title": "Governor Mitt Romney Concedes Race to Obama",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

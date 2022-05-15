@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3n2oQWDgJ6c",
-            "title": "The Senate effort to kill Obamacare before deadline",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "55jRFrWtljs",
             "title": "An arrest in slayings of 2 black men in Louisiana",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "'Skyrim VR' demo: Play test the new 'Elder Scrolls' virtual reality game",
             "secondDuration": 959,
             "group": "group_7"
+        },
+        {
+            "videoId": "ieA3BIOyTqs",
+            "title": "President Donald Trump blasts 'Rocket Man' Kim Jong Un in UN General Assembly 2017 address",
+            "secondDuration": 4408,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

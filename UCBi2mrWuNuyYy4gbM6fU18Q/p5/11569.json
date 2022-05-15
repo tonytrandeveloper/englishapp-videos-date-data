@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dzUjpHwxsrA",
-            "title": "Gas Prices Dropping for Summer?",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "88RuE1dM_2c",
             "title": "Colorado Wildfire Seen From Wyoming",
             "secondDuration": 152,
@@ -31,8 +25,14 @@
             "title": "Lance Armstrong Faces Doping Charges",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "HTML9aYG5lQ",
+            "title": "Darth Vader Super Bowl Ad Boy Needs Heart Surgery",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

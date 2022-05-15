@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Id8v1cDSUCY",
-            "title": "The Jubilee Queen: The Queen's Job",
-            "secondDuration": 453,
-            "group": "group_7"
-        },
-        {
             "videoId": "5g7ZCHjQdnQ",
             "title": "The Jubilee Queen: A Tour of Buckingham",
             "secondDuration": 335,
@@ -31,8 +25,14 @@
             "title": "The Jubilee Queen: When She Became Queen",
             "secondDuration": 373,
             "group": "group_7"
+        },
+        {
+            "videoId": "iS34ch_qv-g",
+            "title": "The Jubilee Queen: Elizabeth, The Early Years",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

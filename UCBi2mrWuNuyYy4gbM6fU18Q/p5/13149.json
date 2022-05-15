@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ugYE3djp09Y",
-            "title": "When Animals Attack",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "eEjJKmDebRM",
             "title": "Obama Opponent Speaks Out",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "New York Thankful for 9/11 Kindness",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "ePeWZdu07cg",
+            "title": "Partying in Madoff Victims' House",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

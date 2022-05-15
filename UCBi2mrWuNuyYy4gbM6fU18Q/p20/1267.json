@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "w1YTicNHeY4",
-            "title": "Trump vows suspected Syria attack 'will be met forcefully'",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "IJWxZUK3TDA",
             "title": "Civilians killed, children struggling to breathe in alleged chemical attack in Syria",
             "secondDuration": 496,
@@ -121,8 +115,14 @@
             "title": "Syrian government accused of launching another poison gas attack on civilian",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "fDUx-TJPiAk",
+            "title": "Trump reiterating his support for his embattled EPA chief",
+            "secondDuration": 301,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

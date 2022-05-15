@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "u8rBCb8odO8",
-            "title": "Ted Cruz to Speak at the Republican National Convention",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "bNk1n4uwhR0",
             "title": "Eric Trump: 'My Father Is Running For You'",
             "secondDuration": 889,
@@ -121,8 +115,14 @@
             "title": "Melania Trump's Speechwriter Apologizes, Trump Rejects Resignation",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fc1EZD3Dnhk",
+            "title": "Teen Dies in Dad's Arms After Shooting",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

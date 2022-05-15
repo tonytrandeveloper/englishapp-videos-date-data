@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "MA1BNY6IkwI",
-            "title": "Paul Krugman During 'This Week' Roundtable: NRA an 'Insane' Organization",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9hrrlaz3nw",
             "title": "'This Week' Web Extra: Jorge Ramos Answers Viewer Questions From Facebook, Twitter",
             "secondDuration": 327,
@@ -121,8 +115,14 @@
             "title": "Twitter Hacked, 250,000 Users Could be Compromised",
             "secondDuration": 14,
             "group": "group_7"
+        },
+        {
+            "videoId": "6tEwiImxaBo",
+            "title": "Terrorist Attack on American Embassy in Turkey",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

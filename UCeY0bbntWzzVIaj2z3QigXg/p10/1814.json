@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sthsR-p1MaQ",
-            "title": "Russian Soyuz Rocket Launches First Astronaut From UAE To International Space Station | NBC News",
-            "secondDuration": 3292,
-            "group": "group_7"
-        },
-        {
             "videoId": "gAlZpPPVGQk",
             "title": "WATCH: When Royal Baby Archie Meets The Archbishop | NBC News",
             "secondDuration": 68,
@@ -61,8 +55,14 @@
             "title": "Impeachment Process Has Only Happened Three Times In American History | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "dTyv3dAbdkE",
+            "title": "Nancy Pelosi Announces Formal Impeachment Inquiry | NBC Nightly News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

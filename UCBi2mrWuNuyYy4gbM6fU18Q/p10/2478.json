@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UItIzY3w60I",
-            "title": "Police say shooter left class during test and allegedly returned with 2 guns",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "z2lmMm47wJ0",
             "title": "Pres. Donald Trump gives commencement speech at U.S. Naval Academy | ABC News",
             "secondDuration": 10970,
@@ -61,8 +55,14 @@
             "title": "Harvey Weinstein to turn himself in and face criminal charges: Sources",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "U9l_rFRzEZw",
+            "title": "'It came outta nowhere': NBA player speaks about being tased by police",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

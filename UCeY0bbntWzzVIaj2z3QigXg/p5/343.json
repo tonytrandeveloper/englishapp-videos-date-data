@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5e4jI2LsCTY",
-            "title": "Sarah Palin Testifies Against The New York Times",
-            "secondDuration": 202,
-            "group": "group_7"
-        },
-        {
             "videoId": "HVlHq5Vj0MI",
             "title": "Los Angeles Sweeps Homeless Encampments Ahead Of Super Bowl",
             "secondDuration": 276,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW - Feb. 10 | NBC News NOW",
             "secondDuration": 2712,
             "group": "group_7"
+        },
+        {
+            "videoId": "C5T9lk6RB6k",
+            "title": "Top Story with Tom Llamas - Feb. 10 | NBC News NOW",
+            "secondDuration": 2296,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

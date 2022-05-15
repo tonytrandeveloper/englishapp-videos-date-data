@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DsY3l8zJ6bA",
-            "title": "LIVE: Rep. Kevin McCarthy Holds Weekly Briefing On Capitol Hill | NBC News",
-            "secondDuration": 940,
-            "group": "group_7"
-        },
-        {
             "videoId": "co79KwcxGck",
             "title": "LIVE: Biden Delivers Remarks on the November Jobs Report | NBC News",
             "secondDuration": 1175,
@@ -31,8 +25,14 @@
             "title": "California Prepares To Become Abortion ‘Safe Haven’ If Supreme Court Overturns Roe v. Wade",
             "secondDuration": 296,
             "group": "group_7"
+        },
+        {
+            "videoId": "sYGl41Ofbak",
+            "title": "How Smash-And-Grab Robberies Disproportionately Impact Small Businesses",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

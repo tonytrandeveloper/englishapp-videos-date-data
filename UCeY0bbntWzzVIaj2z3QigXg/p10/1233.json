@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ibPDIgG1RQQ",
-            "title": "Trump Claims Mail-In Voting 'Will Be Catastrophic' For The Presidential Election | NBC News NOW",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "2BxetDSrrxY",
             "title": "Live: Trump Speaks To Reporters Before Departing For Florida | NBC News",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "New Technology Can Detect Traces Of The Coronavirus On Surfaces | NBC News NOW",
             "secondDuration": 494,
             "group": "group_7"
+        },
+        {
+            "videoId": "vwLCApp8Wxs",
+            "title": "Live Music Industry Struggles To survive Amid Coronavirus Pandemic | NBC News NOW",
+            "secondDuration": 867,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

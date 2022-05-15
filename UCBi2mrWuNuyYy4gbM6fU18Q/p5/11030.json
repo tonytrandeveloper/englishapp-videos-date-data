@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UShk3fKRVVw",
-            "title": "Election 2012: Republicans Projected to Retain Control of the House",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xf7pT9H0Hp0",
             "title": "Presidential Election Results 2012: Obama Projected Winner of Michigan",
             "secondDuration": 138,
@@ -31,8 +25,14 @@
             "title": "2012 Presidential Election Newsroom Tour",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "k612wv59Og0",
+            "title": "2012 Election: Music Americans Thought About While Voting",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

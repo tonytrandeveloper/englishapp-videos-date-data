@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nz45FrQaiHY",
-            "title": "LA County Sheriff's Office reveals details of thwarted school shooting plot | ABC News",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "K7CaaZvE5eo",
             "title": "Trump unloads on Fox News as impeachment inquiry enters new phase | ABC News",
             "secondDuration": 301,
@@ -31,8 +25,14 @@
             "title": "Tesla truck’s ‘unbreakable’ windows shatter during demonstration",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "bTsjO8ZnGXg",
+            "title": "Former college student facing charges in boyfriend’s suicide",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Khj3q3Rce54",
-            "title": "85 injured in Mexico plane crash",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "hAqenTf2pD8",
             "title": "Ranch and River fires in California torching nearly 75,000 acres",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "Judge blocks release of plans for 3D-printed guns",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "QkQXKcKHCrg",
+            "title": "Protests continue after no charges filed in fatal Minneapolis police shooting",
+            "secondDuration": 503,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

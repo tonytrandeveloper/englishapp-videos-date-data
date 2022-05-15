@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yMsoOmSmazs",
-            "title": "Dental Scare Leaves Thousands at Risk of HIV",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "R9rTOBV7_RY",
             "title": "The Price of Clean Air: Lowering Car Pollution May Raise Gas Prices",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "McDonald's, Subway Battle: Chicken McWrap  Aims to Cash in on Health Eating",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y8Wwej8qnQA",
+            "title": "Tulsa Oklahoma Dentist Allegedly Exposed Patients to HIV, Hepatitis with Unclean, Rusty Insturments",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9KuAW1Xhk2E",
-            "title": "Saturday Night Live's Long History Of Political Parodies | NBC News",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "upZlrXv58uM",
             "title": "Alfred Olango's Mother Speaks Out About His Shooting | NBC News",
             "secondDuration": 94,
@@ -31,8 +25,14 @@
             "title": "The Rise Of Slow TV: In Jackson Hole, A Street Corner Is All The Rage | NBC Nightly News",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "4tb1FP3iw40",
+            "title": "Sources: Intel Has Drawn \"Direct Links\" To Russia In Election Hackings | NBC Nightly News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

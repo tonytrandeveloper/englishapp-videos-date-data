@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "IyCUb7bWnBw",
-            "title": "Aerials Show Heavy Flooding In North Carolina's Outer Banks | NBC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "nDQvVBH7yMg",
             "title": "Comedian Gary Owen On Why He Always Runs His Jokes By ‘Strong Black Women’ | NBC News Now",
             "secondDuration": 247,
@@ -61,8 +55,14 @@
             "title": "Hurricane Dorian Hits Coast Of North Carolina | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "CU6lVvrTL5A",
+            "title": "Satellite Images, Before And After Dorian, Reveal Extent Of Destruction In Bahamas | NBC News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "A7ZRXpkH4u4",
-            "title": "Check Out The Puppies In Training That Have Become A Virtual Hit | Nightly News: Kids Edition",
-            "secondDuration": 792,
-            "group": "group_7"
-        },
-        {
             "videoId": "oFKC1yiSQhw",
             "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2636,
@@ -121,8 +115,14 @@
             "title": "Inside Brazil Field Hospital Battling Coronavirus | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "OqHnJ3Ji5r8",
+            "title": "Summer Camps Take Steps To Prevent Coronavirus Spread | NBC News NOW",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

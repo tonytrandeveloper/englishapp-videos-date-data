@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "qqAWynYu9is",
-            "title": "Live: Biden Briefed By FEMA On Preparations For Hurricane Ida | NBC News",
-            "secondDuration": 551,
-            "group": "group_7"
-        },
-        {
             "videoId": "LLpCju9XaBM",
             "title": "Live: Pentagon Holds Press Briefing Following U.S. Drone Strike In Afghanistan | NBC News",
             "secondDuration": 1956,
@@ -61,8 +55,14 @@
             "title": "Supreme Court Blocks CDC Eviction Moratorium",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "jFfiDBVaDig",
+            "title": "Florida Judge Rules Gov. DeSantis' School Mask Mandate Ban Is Unlawful",
+            "secondDuration": 262,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

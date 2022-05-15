@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "LFai05bMeWo",
-            "title": "New Footage In The Kyle Rittenhouse Case",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "q0nzShYVZks",
             "title": "Pfizer Seeks FDA Booster Authorization For All Adults",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "Shaquille O'Neal Offers Reward In Georgia Police Officer's Shooting",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "4168aJbyKmw",
+            "title": "Minute-By-Minute Breakdown Of Deadly Astroworld Concert",
+            "secondDuration": 352,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

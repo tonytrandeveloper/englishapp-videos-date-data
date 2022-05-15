@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vq1BpqMB80s",
-            "title": "2 Americans among 8 killed in NYC truck attack",
-            "secondDuration": 585,
-            "group": "group_7"
-        },
-        {
             "videoId": "l1AdT-1qeB4",
             "title": "NYPD mounts massive show of force around New York City after terrorist attack",
             "secondDuration": 181,
@@ -121,8 +115,14 @@
             "title": "Possible terror attack leaves at least 8 dead in NYC according to Officials",
             "secondDuration": 12646,
             "group": "group_7"
+        },
+        {
+            "videoId": "9iFNj_-zXWQ",
+            "title": "Trump's attorney reacts to Russia investigation charges",
+            "secondDuration": 210,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

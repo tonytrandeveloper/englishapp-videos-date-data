@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H_QrgO2xDYE",
-            "title": "Tropical Storm Grace Halts Rescue Efforts In Deadly Haiti Earthquake",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "klRiU94ei2c",
             "title": "NBC Nightly News Full Broadcast - August 18th, 2021",
             "secondDuration": 1256,
@@ -61,8 +55,14 @@
             "title": "In His Own Words: Air Force Pararescueman On Afghanistan",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "G1I4wxjQ0U8",
+            "title": "‘We Failed In Politics’: Exiled Afghan President Refuses To Blame Military",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

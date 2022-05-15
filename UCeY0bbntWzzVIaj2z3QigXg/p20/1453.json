@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9EF_AsVo40w",
-            "title": "\"We Have To Go Help\": Texas Family Answers Call In Wake Of Harvey | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "W1DDctgadTE",
             "title": "North Korea Airs Purported Video Showing Launch Of Japan Missile | NBC News",
             "secondDuration": 64,
@@ -121,8 +115,14 @@
             "title": "Nikki Haley Says ‘Enough Is Enough’ After North Korea’s Latest Missile Launch | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "RbfOJlEDM1M",
+            "title": "Donald Trump in Texas to Survey Harvey Damage (Full) | NBC News",
+            "secondDuration": 1182,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C5GUyUDMzcU",
-            "title": "Three Mile Island Shuts Down 40 Years After Partial Meltdown | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "DKvLRuDpFU8",
             "title": "Celebrating 25 Years Of ‘Friends’ With The Show’s Creators | NBC Nightly News",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Watch: Climate Change Marches Across The Globe | NBC News Now",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "rwDTWJyURgs",
+            "title": "Justin Trudeau Pledges To Ban Assault Rifles In Canada | NBC News",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

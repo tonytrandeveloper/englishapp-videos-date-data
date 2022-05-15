@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pNQFMsAgBVE",
-            "title": "How the TV show 'Deception' depicts real magic tricks on screen",
-            "secondDuration": 281,
-            "group": "group_7"
-        },
-        {
             "videoId": "l216G02yTGs",
             "title": "White House press briefing on US helicopter crash, Trump nominees, Stormy Daniels | ABC News",
             "secondDuration": 2623,
@@ -31,8 +25,14 @@
             "title": "Investigators search for cause of Florida bridge collapse",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "LIY7iWY3tgs",
+            "title": "Donald Trump Jr., wife to divorce",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

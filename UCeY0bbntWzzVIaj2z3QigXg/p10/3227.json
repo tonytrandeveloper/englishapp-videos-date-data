@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9hfjrPAsEao",
-            "title": "Kellyanne Conway: Time To Say Donald Trump 'Is Our President' | Meet The Press | NBC News",
-            "secondDuration": 582,
-            "group": "group_7"
-        },
-        {
             "videoId": "QntGEb-KgXo",
             "title": "Why 'Passing Privilege' Is A Problem In The Trans Community | Queer 2.0 | NBC News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Donald Trump On Obamacare: Open To Keeping Some Provisions | NBC Nightly News",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "IXZscV1H15g",
+            "title": "Latino Voter: ‘We Didn’t See Donald Trump Coming’ | NBC News",
+            "secondDuration": 421,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

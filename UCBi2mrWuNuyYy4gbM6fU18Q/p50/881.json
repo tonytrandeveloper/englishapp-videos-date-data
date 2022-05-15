@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TsVUQphYE10",
-            "title": "VIDEO: Woman Shot Out Of A Cannon POV",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "YxE4_uSGny0",
             "title": "Diane von Furstenberg Talks 6th Annual DVF Awards",
             "secondDuration": 247,
@@ -301,8 +295,14 @@
             "title": "US Ambassador to South Korea Defends Himself From Attack",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJCQjr5zeqY",
+            "title": "Hillary Clinton Tweets about Email Controversy",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

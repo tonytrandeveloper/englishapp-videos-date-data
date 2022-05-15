@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2aDql7J5gTU",
-            "title": "Melania Trump reportedly issues statement after husband criticized for bullying tweets | ABC News",
-            "secondDuration": 196,
-            "group": "group_7"
-        },
-        {
             "videoId": "6n1egMXDqrA",
             "title": "Police search for accomplices in deadly stabbing of Barnard College student | ABC News",
             "secondDuration": 125,
@@ -31,8 +25,14 @@
             "title": "Lou Pearlman forms two iconic boy bands, Backstreet Boys and *NSYNC | Nightline",
             "secondDuration": 560,
             "group": "group_7"
+        },
+        {
+            "videoId": "MoAk3ziUp58",
+            "title": "13-year-old arrested in murder of Barnard College freshman",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

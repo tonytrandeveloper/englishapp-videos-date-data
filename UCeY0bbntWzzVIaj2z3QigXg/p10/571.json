@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "3nJiAkstNdU",
-            "title": "Biden Considers Making Vaccines Mandatory For Federal Workforce",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "C25dHdlAhz4",
             "title": "Stefanik: Pelosi Was Made Aware Of Capitol Threats And ‘Failed To Act’",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: July 27 | NBC News",
             "secondDuration": 2331,
             "group": "group_7"
+        },
+        {
+            "videoId": "vHrt44ANHIA",
+            "title": "Watch: Jan. 6 House Select Committee Holds First Hearing On Capitol Riot",
+            "secondDuration": 13139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

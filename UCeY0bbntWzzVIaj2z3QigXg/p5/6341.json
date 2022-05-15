@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZcMe8mPxi1Y",
-            "title": "Prime Minister Theresa May Pays Respects At Arlington National Cemetery | NBC news",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvfF8iSREUw",
             "title": "Families Fear Wall Will Tear Them Apart | NBC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Mexican President Peña Nieto Cancels Meeting With President Donald Trump | NBC Nightly News",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "y40hK_AgUUw",
+            "title": "‘Sanctuary Cities’ Vow To Resist President Donald Trump, Despite Funding Threat | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "LIY7iWY3tgs",
-            "title": "Donald Trump Jr., wife to divorce",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "qpYFMwRRnhs",
             "title": "Man left in alleyway as an infant searches for birth parents: Part 1",
             "secondDuration": 596,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump participates in roundtable  on tax cuts, reform | ABC News",
             "secondDuration": 2019,
             "group": "group_7"
+        },
+        {
+            "videoId": "U5CwKSefnBA",
+            "title": "National School Walkout Day: Coverage of school walkout to protest gun violence | ABC News",
+            "secondDuration": 22319,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

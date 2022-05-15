@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ONerGHt8KpA",
-            "title": "Webcast: Magic Johnson Group Buying LA Dodgers",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "2QsqrZcoAKE",
             "title": "Kevin Smith - \"Tough Sh*t\"",
             "secondDuration": 291,
@@ -301,8 +295,14 @@
             "title": "Webcast: Apache Crash; Girl Scout Cookies",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "UP0agm3dCkQ",
+            "title": "Million Hoodie March Held in Honor of Trayvon Martin",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

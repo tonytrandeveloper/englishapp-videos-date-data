@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YZ5jVm206h8",
-            "title": "New Car Sensor Warns Drivers Before Accident",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "2RzgRaVrb2o",
             "title": "Colorado Wildfire: Fireworks Ban",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "GlaxoSmithKline Fined $3 Billion",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rkd5sRxyM54",
+            "title": "Amelia Earhart:  75 Years Later",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

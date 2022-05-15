@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "u78vLISDvKo",
-            "title": "The race to prevent the sudden death of mothers in childbirth in the U.S.",
-            "secondDuration": 607,
-            "group": "group_7"
-        },
-        {
             "videoId": "PoWjpgdAbwA",
             "title": "Ryan Seacrest, Katy Perry and Lionel Richie on how this season is different",
             "secondDuration": 370,
@@ -61,8 +55,14 @@
             "title": "5 confirmed dead as severe storms hit Northeast",
             "secondDuration": 210,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rpt_SUhg7Sg",
+            "title": "Ex-teacher gunned down on Mother's Day",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

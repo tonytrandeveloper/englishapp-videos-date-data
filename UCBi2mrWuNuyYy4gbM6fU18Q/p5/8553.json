@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "V4BDjthzoo4",
-            "title": "LeBron James Leads Cleveland Cavaliers Into NBA Finals",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "7b3EcfV3QTg",
             "title": "Tornado Touches Down in Ohio, Texas Recovers From Flooding",
             "secondDuration": 263,
@@ -31,8 +25,14 @@
             "title": "If Men Had Periods",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "VKYN7p3MMvY",
+            "title": "Study Ranks Likability Of Celebrity Endorsers",
+            "secondDuration": 205,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

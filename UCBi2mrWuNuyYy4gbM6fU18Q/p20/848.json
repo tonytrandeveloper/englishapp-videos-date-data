@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HnEFiDC5PSg",
-            "title": "Kim has 'two paths in front of him ... we'll see which one they choose': O'Brien | ABC News",
-            "secondDuration": 676,
-            "group": "group_7"
-        },
-        {
             "videoId": "dAAJfDMoHJI",
             "title": "Ohio doctor faces 25 counts of murder after fatal opioid overdoses | ABC News",
             "secondDuration": 173,
@@ -121,8 +115,14 @@
             "title": "NYPD announce break in manhunt for Barnard student’s death",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "rV8rUEXGjhg",
+            "title": "Major winter storm hinders holiday travel on the West Coast",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

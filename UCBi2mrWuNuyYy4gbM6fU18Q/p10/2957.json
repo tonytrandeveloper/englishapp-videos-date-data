@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8BTlzV7w2EA",
-            "title": "Housing may be on the upswing despite weak growth in the economy",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "0KZxONoAJz4",
             "title": "Index: British authorities say they've foiled an active terror plot",
             "secondDuration": 64,
@@ -61,8 +55,14 @@
             "title": "Heath Ledger doc offers a different side of late actor",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "I8SFQvlLaOU",
+            "title": "'Let It Fall' doc offers searing look at LA riots from those who lived through it | ABC News",
+            "secondDuration": 507,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

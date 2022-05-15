@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C9DP61ENGzM",
-            "title": "John Brennan Interview on ABC's 'This Week': White House's Top Counterterrorism Official",
-            "secondDuration": 624,
-            "group": "group_7"
-        },
-        {
             "videoId": "5FS61RuEorg",
             "title": "World's Smallest Dog! Which of These Cute Puppies is The Tiniest Dog in the World",
             "secondDuration": 273,
@@ -31,8 +25,14 @@
             "title": "True Confessions:  Ex-HR Exec Tells All",
             "secondDuration": 370,
             "group": "group_7"
+        },
+        {
+            "videoId": "iShrIY3GN6s",
+            "title": "Exclusive:  American Apparel CEO",
+            "secondDuration": 400,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

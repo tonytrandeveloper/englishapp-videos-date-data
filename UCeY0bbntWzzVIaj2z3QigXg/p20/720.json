@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "6D39gXp8lVs",
-            "title": "VW Reopens Europe's Largest Car Factory After Coronavirus Lockdown Eases | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "ExxAHS_8vU8",
             "title": "High School Students Sail Home 4,300 Miles After COVID-19 Disrupts Flights | NBC News",
             "secondDuration": 85,
@@ -121,8 +115,14 @@
             "title": "Georgia Partially Reopens As Businesses Weigh Coronavirus Health Concerns | NBC Nightly News",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "3rj2QxXtj_c",
+            "title": "New High Tech Coronavirus Contact Tracing Efforts Stoke Privacy Concerns | NBC Nightly News",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

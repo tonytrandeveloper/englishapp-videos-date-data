@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XWL05YW4F8A",
-            "title": "Making a Murderer | Evidence Left Out [ EPISODE 2 ]",
-            "secondDuration": 407,
-            "group": "group_7"
-        },
-        {
             "videoId": "XuH_tPnhnrQ",
             "title": "Hollywood Star Jamie Foxx Saves the Day in Real Life",
             "secondDuration": 65,
@@ -31,8 +25,14 @@
             "title": "'GMA' Hot List: Spike Lee Live, Michael Strahan Learns to Dance",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "kUV1zLdV0GI",
+            "title": "Spike Lee on Oscars Outrage: 'I'm Going to the Knicks Game'",
+            "secondDuration": 404,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "tQAVFimUsH0",
-            "title": "FRIDAY FUNNIES",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "X3GXXh5dRSA",
             "title": "SKINNY: Steamy New “Fifty Shades” Trailer",
             "secondDuration": 254,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Man Sends Live Chicks to Ex's House",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "gl71xitLtVI",
+            "title": "When Obsessing Over Healthy Eating Turns Dangerous",
+            "secondDuration": 432,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

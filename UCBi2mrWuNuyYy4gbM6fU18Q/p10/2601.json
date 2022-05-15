@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6T9tusqmS2c",
-            "title": "Woman dies after declining Tamiflu due to cost",
-            "secondDuration": 180,
-            "group": "group_7"
-        },
-        {
             "videoId": "i-fnn4tpI3s",
             "title": "Rob Porter's first wife responds to Kellyanne Conway's domestic violence comments op-ed",
             "secondDuration": 244,
@@ -61,8 +55,14 @@
             "title": "A rare, inside look at the personal life of Gloria Allred",
             "secondDuration": 490,
             "group": "group_7"
+        },
+        {
+            "videoId": "jA78OyDtVB8",
+            "title": "US Olympic figure skater Adam Rippon is ready to compete for the gold",
+            "secondDuration": 362,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

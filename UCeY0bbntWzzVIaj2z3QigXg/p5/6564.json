@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "KHvsa_KzhNM",
-            "title": "NYC Mayor: Cell Phone Alert System Had 'Extraordinary Effect' | NBC News",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "Nt3hbGpQm44",
             "title": "FBI: Ahmad Rahmani Linked To Bombs In New York And New Jersey | NBC News",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "Elizabeth Warren: Donald Trump Is A 'Nasty Little Bully' Who Has 'Dark And Ugly Soul' | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "NczuKFP8kuY",
+            "title": "FBI Investigating Minnesota Mall Attack As 'Potential Act Of Terrorism' | NBC News",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

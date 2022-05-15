@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "707dZB-nVjU",
-            "title": "Watch: Trump holds listening session on vaping",
-            "secondDuration": 3462,
-            "group": "group_7"
-        },
-        {
             "videoId": "iZTOy70m-28",
             "title": "Sacha Baron Cohen Slams Social Media Companies: 'Your Product Is Defective' | NBC News",
             "secondDuration": 220,
@@ -301,8 +295,14 @@
             "title": "Rep. Speier: Trump 'Has Five Pinocchios On A Daily Basis' | NBC News",
             "secondDuration": 134,
             "group": "group_7"
+        },
+        {
+            "videoId": "EP89uVN7IA4",
+            "title": "Maloney Slams Sondland After Fiery Exchange On Trump, Biden Investigation | NBC News",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

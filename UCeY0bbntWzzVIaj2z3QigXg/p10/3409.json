@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aPHMWpAStgo",
-            "title": "John Kasich: Brokered Convention A 'Real Prospect' | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "2lIcsw1c6O8",
             "title": "On the Trail With Trump Supporters | NBC News",
             "secondDuration": 137,
@@ -61,8 +55,14 @@
             "title": "Rubio Vows To Build On Super Tuesday As Race Continues | NBC News",
             "secondDuration": 331,
             "group": "group_7"
+        },
+        {
+            "videoId": "XpFqz_fEm7g",
+            "title": "Astronaut Scott Kelly Returns to Earth | NBC News",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

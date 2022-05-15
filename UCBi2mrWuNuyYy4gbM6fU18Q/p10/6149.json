@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rLc10pwHxFg",
-            "title": "Michelle Bachmann Running for 2012 Presidential Election?",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "kHWIymY-C_8",
             "title": "Elizabeth Taylor Remembered",
             "secondDuration": 441,
@@ -61,8 +55,14 @@
             "title": "Elizabeth Taylor Dead at 79",
             "secondDuration": 267,
             "group": "group_7"
+        },
+        {
+            "videoId": "C--VjZkphDo",
+            "title": "Battlefield: Libya",
+            "secondDuration": 419,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Kic2CFXqyb8",
-            "title": "Seattle Mariners Introduce LED's to MLB | NBC News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "kQc_wPtuvXw",
             "title": "Disneyland Measles Outbreak Spreads To 27 States | NBC Nightly News",
             "secondDuration": 160,
@@ -61,8 +55,14 @@
             "title": "State Of The Union: GOP Response's Many Faces | NBC News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "cHuutqa3CrE",
+            "title": "James Holmes Trail: Largest Jury Pool In History | NBC News",
+            "secondDuration": 50,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

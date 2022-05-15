@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l4PuT4f5Tzw",
-            "title": "Mouth-Watering Fall Food | ABC News",
-            "secondDuration": 247,
-            "group": "group_7"
-        },
-        {
             "videoId": "H1Z96MnpL2o",
             "title": "Dancing With the Stars Week 2 Recap | ABC News",
             "secondDuration": 241,
@@ -61,8 +55,14 @@
             "title": "Pope Francis' Ride Makes Americans Smile",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZgQzGkHgR_k",
+            "title": "Kim Davis INTERVIEW | Defends Denying Same-Sex Marriage Licenses",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

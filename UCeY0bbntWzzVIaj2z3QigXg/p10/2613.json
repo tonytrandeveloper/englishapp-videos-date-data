@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "SKVITDfXzfk",
-            "title": "President Donald Trump Sharpens Attack On Robert Mueller | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "VR-iW-TFE88",
             "title": "Self-Driving Uber Car Involved In Fatal Accident In Arizona | NBC Nightly News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Delivers Remarks On Opioid Crisis In New Hampshire | NBC News",
             "secondDuration": 2624,
             "group": "group_7"
+        },
+        {
+            "videoId": "jUZR7RDxkSs",
+            "title": "Assad Gives Video Driving Tour Of Territory Captured From Syria’s Rebels | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

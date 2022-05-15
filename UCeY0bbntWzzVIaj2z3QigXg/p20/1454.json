@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RbfOJlEDM1M",
-            "title": "Donald Trump in Texas to Survey Harvey Damage (Full) | NBC News",
-            "secondDuration": 1182,
-            "group": "group_7"
-        },
-        {
             "videoId": "q7qLpjOqm-g",
             "title": "Investigators Say Former Nurse Could Be Germany's Worst Post-War Serial Killer | NBC News",
             "secondDuration": 91,
@@ -121,8 +115,14 @@
             "title": "U.S. Coast Guard Conducts Rescue Mission After Hurricane Harvey | NBC News",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "65A5ohykPS0",
+            "title": "A Large Asteroid Is About To Pass By Earth | Mach | NBC News",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

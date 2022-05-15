@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ah_Kvh-ISGM",
-            "title": "The LGBTQ Dance Company Challenging Gender Norms With Ballet | NBC Left Field",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "dyDzF4lJkOs",
             "title": "'Textalyzer' Device Allows Police To Determine If Drivers Text While Driving | NBC Nightly News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Medical Marijuana Delivered Directly To Customers From California Start-ups | NBC News",
             "secondDuration": 647,
             "group": "group_7"
+        },
+        {
+            "videoId": "wPaPDs0RzEc",
+            "title": "Police Officer Stabbed In Michigan Airport, Possible Terror Incident | NBC News",
+            "secondDuration": 45,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

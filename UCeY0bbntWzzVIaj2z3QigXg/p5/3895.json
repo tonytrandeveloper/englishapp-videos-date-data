@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dJUfSzyUcyE",
-            "title": "Cory Booker, O’Rourke On Holding Pharmaceutical Companies Accountable For Opioid Crisis | NBC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "pBLrKigHSso",
             "title": "Elizabeth Warren And Amy Klobuchar Weigh In On Economy, Student Loans | NBC News",
             "secondDuration": 176,
@@ -31,8 +25,14 @@
             "title": "Is A Third U.S.-North Korea Summit In The Works For Pres. Trump And Kim Jong Un? | NBC Nightly News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "AFBjZWeEgOg",
+            "title": "Robert Mueller Submits To Subpoenas, Agrees To Testify In Public | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

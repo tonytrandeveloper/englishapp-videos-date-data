@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k304N4JZBmA",
-            "title": "Toys That Teach | ABC News",
-            "secondDuration": 274,
-            "group": "group_7"
-        },
-        {
             "videoId": "iXIK9Crh3k0",
             "title": "Bold Shoplifter Hides Stolen Drill In Pants | ABC News",
             "secondDuration": 179,
@@ -31,8 +25,14 @@
             "title": "NASA Reveals Traces of Water Found on Mars",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "1otcO8hhEhw",
+            "title": "High School Football Player Dies From Blow to Spleen",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

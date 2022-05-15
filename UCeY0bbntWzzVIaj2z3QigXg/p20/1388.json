@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "pbF1gEdtJgs",
-            "title": "North Korean Soldier Makes Desperate Escape In Border Chase | NBC Nightly News",
-            "secondDuration": 96,
-            "group": "group_7"
-        },
-        {
             "videoId": "HpucVWp9E3M",
             "title": "Holiday Gridlock Ensues As Thanksgiving Travelers Flock Roads And Airports | NBC Nightly News",
             "secondDuration": 86,
@@ -121,8 +115,14 @@
             "title": "Busiest Thanksgiving Travel In A Decade | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "pmghf6WUlMo",
+            "title": "Missing Submarine Could Soon Run Out Of Air | NBC Nightly News",
+            "secondDuration": 75,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

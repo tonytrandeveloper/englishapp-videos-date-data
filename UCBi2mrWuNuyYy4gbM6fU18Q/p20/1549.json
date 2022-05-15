@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YxqhdBTm0sE",
-            "title": "President Donald Trump Vows to Launch 'Major Investigation' Into Alleged Voter Fraud",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "4VRDCh5C4Ws",
             "title": "Company to Release Slow-Browning Apples",
             "secondDuration": 170,
@@ -121,8 +115,14 @@
             "title": "Trump Signs Order to Move Forward Keystone, Dakota Access Pipelines",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "LAmNfQM0ndE",
+            "title": "3 Puppies Rescued From Avalanche in Italy | ABC News",
+            "secondDuration": 36,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

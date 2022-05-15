@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2lIMzuP1ibI",
-            "title": "Hurricane Irma Survivor: ‘I Don’t Know How To Get Back On My Feet’ | NBC News Now",
-            "secondDuration": 276,
-            "group": "group_7"
-        },
-        {
             "videoId": "pPaXBWovadk",
             "title": "New Texas Gun Laws Make It Easier To Carry Firearms In Public Spaces | NBC News Now",
             "secondDuration": 171,
@@ -61,8 +55,14 @@
             "title": "New Technology Helps Gather Critical Hurricane Intensity Data | NBC Nightly News",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "7pzYujG0Jww",
+            "title": "Florida Braces For Impact As Hurricane Dorian Moves In | NBC Nightly News",
+            "secondDuration": 134,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

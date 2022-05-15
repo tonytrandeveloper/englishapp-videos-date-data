@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NeAygDojuns",
-            "title": "Exclusive: Twitter CEO Jack Dorsey On Alex Jones’ ‘Timeout’ | NBC Nightly News",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "z9A8zItU0lk",
             "title": "Dascha Polanco Talks OITNB, Being Latino In Hollywood And Posing Naked | Think | NBC News",
             "secondDuration": 254,
@@ -31,8 +25,14 @@
             "title": "Car Crashes Near Parliament In London ‘Terrorist Incident’ | NBC Nightly News",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "wr64gIliGJ0",
+            "title": "Highway Bridge Collapses In Italy, Killing At Least 23 | NBC Nightly News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

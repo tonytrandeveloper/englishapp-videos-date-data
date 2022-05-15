@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pb47AXrMm5c",
-            "title": "Supreme Court Denies Request To Block Texas Abortion Law",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "V4LORk99CiA",
             "title": "Hospitals On The Brink In Montana During Latest Covid Surge",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "Biden Delivers Remarks On Response To Hurricane Ida | NBC News",
             "secondDuration": 1491,
             "group": "group_7"
+        },
+        {
+            "videoId": "sXnpUZClz60",
+            "title": "Report Finds Eviction Crisis Could Disproportionately Affect LGBTQ Renters",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

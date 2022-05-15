@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ASxCKKa9GwU",
-            "title": "Bernard Madoff: Life While Doing Life",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "-bjSzsbbtVA",
             "title": "Senators Grill Sotomayor",
             "secondDuration": 162,
@@ -31,8 +25,14 @@
             "title": "Gunned Down",
             "secondDuration": 344,
             "group": "group_7"
+        },
+        {
+            "videoId": "aKLZoifX3ds",
+            "title": "Could an Injection Help You Shed Pounds?",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

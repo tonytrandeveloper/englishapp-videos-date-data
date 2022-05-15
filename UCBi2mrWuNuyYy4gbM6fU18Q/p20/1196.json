@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "sDnMzytFaFI",
-            "title": "Fired Ohio State assistant football coach breaks silence",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "J3HWBdj_Bmk",
             "title": "Man taunts bison at Yellowstone",
             "secondDuration": 95,
@@ -121,8 +115,14 @@
             "title": "Missing Iowa student possibly sighted in Missouri",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "wSblNawJ1n8",
+            "title": "Famed coach on leave amid investigation of former assistant",
+            "secondDuration": 146,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

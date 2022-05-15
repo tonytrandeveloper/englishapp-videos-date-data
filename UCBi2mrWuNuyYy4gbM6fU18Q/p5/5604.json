@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kTZsIAeHptU",
-            "title": "White House press briefing 8/24/17",
-            "secondDuration": 2606,
-            "group": "group_7"
-        },
-        {
             "videoId": "_pYLBF3Uz9E",
             "title": "'10% Happier': Thupten Jinpa | ABC News",
             "secondDuration": 3602,
@@ -31,8 +25,14 @@
             "title": "Trump follows divisive rally with unity call in Reno speech",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "ac4w5dZBkHs",
+            "title": "Gulf Coast states brace for Tropical Storm Harvey",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

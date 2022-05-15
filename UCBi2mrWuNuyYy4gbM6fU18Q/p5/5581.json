@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zCcQ06RNHHI",
-            "title": "Vice President Mike Pence meets with Harvey survivors",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "i8NqGuBXzDc",
             "title": "White House holds press briefing as Hurricane Harvey relief efforts continue",
             "secondDuration": 3950,
@@ -31,8 +25,14 @@
             "title": "JJ Watt raises Harvey fundraising goal to $10M | ABC News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "RBHbbqbJTeI",
+            "title": "Port Arthur mayor speaks out on flooded town, evacuations | ABC News",
+            "secondDuration": 201,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

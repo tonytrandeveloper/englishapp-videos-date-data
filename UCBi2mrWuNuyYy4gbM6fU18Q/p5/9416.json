@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D9mBDwxibpU",
-            "title": "George Clooney's Best Man Could Be Brad Pitt",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "l-0RoCMpXVg",
             "title": "Hideous Pooches Fight for the Title of 'World's Ugliest Dog'",
             "secondDuration": 232,
@@ -31,8 +25,14 @@
             "title": "Mother Receives Open-Heart Surgery While Giving Birth",
             "secondDuration": 184,
             "group": "group_7"
+        },
+        {
+            "videoId": "AqMUiYwKORI",
+            "title": "Have Errands? Pay Someone Else to Do Them",
+            "secondDuration": 333,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

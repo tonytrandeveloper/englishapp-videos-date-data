@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "73ASB9VnW58",
-            "title": "NY GOP lawmaker charged with insider trading and lying to FBI",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHgCRol-d4U",
             "title": "Trump lawyers deny Mueller's request for in-person interview",
             "secondDuration": 196,
@@ -61,8 +55,14 @@
             "title": "Young girl attacked by shark in shallow water",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "RsVV8brvRZM",
+            "title": "Cops ambushed on 'National Night Out'",
+            "secondDuration": 131,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

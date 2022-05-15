@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VXzCVY5-zoE",
-            "title": "White House Holds Press Briefing: March 3 | NBC News",
-            "secondDuration": 3096,
-            "group": "group_7"
-        },
-        {
             "videoId": "IfGCtpUuTKE",
             "title": "Dolly Parton Urges People To Get Vaccinated Through Song As She Gets Her First Shot | NBC News NOW",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Undocumented Immigrants Wrongly Denied Covid Vaccines In Texas | NBC News NOW",
             "secondDuration": 284,
             "group": "group_7"
+        },
+        {
+            "videoId": "YSpCl9z8j7s",
+            "title": "Why States Like TX & MS Are Rolling Back Covid Restrictions, Lifting Mask Mandate | NBC News NOW",
+            "secondDuration": 298,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

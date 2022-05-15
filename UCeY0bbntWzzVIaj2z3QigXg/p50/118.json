@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "STnG4tIX100",
-            "title": "NBC News NOW Full Broadcast - July 19, 2021",
-            "secondDuration": 3026,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra_Yu1ZFpZk",
             "title": "U.S. Accuses China Of Cyberattacks | NBC Nightly News",
             "secondDuration": 99,
@@ -301,8 +295,14 @@
             "title": "Federal Judge Rules DACA Program Illegal",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "BYk_xxDcGk8",
+            "title": "Antibody Testing Increases as FDA Authorizes Different Tests",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

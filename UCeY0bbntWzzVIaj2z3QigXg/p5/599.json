@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "cWQSmnIFBFU",
-            "title": "Morning News NOW Full Broadcast - Dec. 13",
-            "secondDuration": 2918,
-            "group": "group_7"
-        },
-        {
             "videoId": "I5JJS8Uxi8g",
             "title": "U.S. Surpasses 800,000 Covid Deaths",
             "secondDuration": 61,
@@ -31,8 +25,14 @@
             "title": "This Morning’s Top Headlines – Dec. 13 | Morning News NOW",
             "secondDuration": 1238,
             "group": "group_7"
+        },
+        {
+            "videoId": "uUk2dKC7Rxc",
+            "title": "Deadly Tornado Outbreak Leaves Bowling Green, Kentucky Unrecognizable",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

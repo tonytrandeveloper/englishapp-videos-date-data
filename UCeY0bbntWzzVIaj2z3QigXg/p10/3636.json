@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DznEKFcX1eE",
-            "title": "Dr. John Deasy: \"For student success, it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "mev6GU11Yjk",
             "title": "Chelsea Fearce: \"For student success, it takes...\"",
             "secondDuration": 8,
@@ -61,8 +55,14 @@
             "title": "Dr. Tony Marx: \"For student success, it takes...\"",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "MU1fv8vF9D8",
+            "title": "Randi Weingarten: \"For student success, it takes...\"",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

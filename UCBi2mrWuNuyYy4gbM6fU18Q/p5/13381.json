@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c-sDbeBIKSQ",
-            "title": "Comedian in Chief",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "iv_cmrVLMS8",
             "title": "Bottom Line on Obama's Health Care Plan",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Rebranding the GOP",
             "secondDuration": 596,
             "group": "group_7"
+        },
+        {
+            "videoId": "fM8h8s7JOCw",
+            "title": "Obama's Foreign Policy Challenges",
+            "secondDuration": 888,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WOKfGDK7wIE",
-            "title": "Falling kittens rescued from Hurricane Michael",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "wpO4K8VGDJU",
             "title": "Melania Trump says she's one of the most bullied people in the world",
             "secondDuration": 253,
@@ -31,8 +25,14 @@
             "title": "Florida governor describes destruction of Hurricane Michael",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "vge3C5jWA2o",
+            "title": "Hurricane Michael leaves at least 200K Floridians in the dark",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

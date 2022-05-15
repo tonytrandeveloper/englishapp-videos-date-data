@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zxqmyZGNd3U",
-            "title": "US Senator casts vote holding newborn",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "pfBhJ4mcR2k",
             "title": "The search for answers after Southwest plane's emergency landing",
             "secondDuration": 465,
@@ -31,8 +25,14 @@
             "title": "Trump adds former NY Mayor Rudy Giuliani to his legal team",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "cxfEO6m_umI",
+            "title": "Viral video captures 6-year-old scoring puck from Washington Capitals player",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

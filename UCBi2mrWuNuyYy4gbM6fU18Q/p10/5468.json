@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "clrUNX9Ac6w",
-            "title": "Obama Balances Fiscal Cliff, Defense Department Appointment",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "dr_W9k-7uhA",
             "title": "Dee Dee Moore Trial: Woman Accused of Murdering Lottery Winner",
             "secondDuration": 149,
@@ -61,8 +55,14 @@
             "title": "Behind the Badge: Confessions of a Cop",
             "secondDuration": 319,
             "group": "group_7"
+        },
+        {
+            "videoId": "gaUKLL-8xcw",
+            "title": "Confessions From the Gym: Paying By the Pound",
+            "secondDuration": 405,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "J9mdqjfkptY",
-            "title": "Boston Bombing: Tsarnaev's Blood-Stained Message Shown To Jury | NBC Nightly News",
-            "secondDuration": 90,
-            "group": "group_7"
-        },
-        {
             "videoId": "z11F3CdJ8tA",
             "title": "OU Fraternity House Mom Repeats Racial Slur In New Video | NBC Nightly News",
             "secondDuration": 153,
@@ -61,8 +55,14 @@
             "title": "Wisconsin Police Kill Unarmed Black Teen Tony Robinson | NBC Nightly News",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "f-D7sj256HU",
+            "title": "Pandas Are Making a Comeback | NBC Nightly News",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zFiBAjdbYmQ",
-            "title": "White House Press Briefing - January 22, 2018 | NBC News",
-            "secondDuration": 1168,
-            "group": "group_7"
-        },
-        {
             "videoId": "-RPQTs65uNw",
             "title": "Chuck Schumer Blames Donald Trump: ‘Great Deal-Making President Sat On The Sidelines’ | NBC News",
             "secondDuration": 207,
@@ -31,8 +25,14 @@
             "title": "Arab Lawmakers Protest As Vice President Mike Pence Delivers Speech To Knesset | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "xgb4TDKkmxk",
+            "title": "Actors On Time’s Up Movement: ‘We Can All Stand To Be A Bit More Thoughtful’ | NBC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

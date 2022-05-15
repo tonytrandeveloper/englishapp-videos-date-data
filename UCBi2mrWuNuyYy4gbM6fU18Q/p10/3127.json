@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TCNHcgx1T0E",
-            "title": "Obama's Farewell Address: 'It Has Been the Honor of My Life to Serve You'",
-            "secondDuration": 543,
-            "group": "group_7"
-        },
-        {
             "videoId": "vAryxfCxNnA",
             "title": "'Black-ish' Tackles Donald Trump Presidency",
             "secondDuration": 390,
@@ -61,8 +55,14 @@
             "title": "Jeff Sessions: 'I Abhor the Klan'",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "hvkT7Zv9TYk",
+            "title": "Jeff Sessions Confirmation Hearing Interrupted by Hecklers",
+            "secondDuration": 149,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

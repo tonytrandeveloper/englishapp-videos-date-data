@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "p_x9AT9WY4M",
-            "title": "Stacey Abrams gives an enthusiastic speech, stays in the race",
-            "secondDuration": 443,
-            "group": "group_7"
-        },
-        {
             "videoId": "Q3yT1HRDARs",
             "title": "DNC Chairman on House win, Senate loss",
             "secondDuration": 366,
@@ -31,8 +25,14 @@
             "title": "Andrew Gillum gives concession speech",
             "secondDuration": 559,
             "group": "group_7"
+        },
+        {
+            "videoId": "6KiZ1udKKdQ",
+            "title": "What it means for Democrats' control of the House",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pAD1qXdyMTA",
-            "title": "Six People Killed in Suicide Bombing Outside Baghdad",
-            "secondDuration": 124,
-            "group": "group_7"
-        },
-        {
             "videoId": "e4CSqBttBn8",
             "title": "Police Around the Country Cracking Down on Street Racers",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "A New Look at War-Town Ramadi After the Iraqis Take it Back from ISIS",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "r82456QphlQ",
+            "title": "Internet Trolls Brigade George Zimmerman's Gun Auction",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

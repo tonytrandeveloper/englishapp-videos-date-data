@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W5FRUM-AK9k",
-            "title": "Trump Full Press Conference (2/16/17) | ABC News",
-            "secondDuration": 4673,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-Q_KjyShxU",
             "title": "President Trump: Russia Reports are 'Fake News'",
             "secondDuration": 128,
@@ -31,8 +25,14 @@
             "title": "Trump denies campaign communications with Russians",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "wNcTCBziH_I",
+            "title": "Westminster Dog Show Winner Enjoys Steak Dinner | ABC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

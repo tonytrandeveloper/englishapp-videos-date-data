@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ETaVUa1C8qY",
-            "title": "Reflecting On July 4th As Americans Celebrate Again",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "PR8fsp0I7mk",
             "title": "Veterans Face Roadblocks Moving From Military To Civilian Health Care Jobs",
             "secondDuration": 140,
@@ -121,8 +115,14 @@
             "title": "Taliban Gaining Ground Before U.S. Troops Finish Withdrawal",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "GMcgEdLUdu4",
+            "title": "Retired Power Plant Revived To Mine Bitcoin",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

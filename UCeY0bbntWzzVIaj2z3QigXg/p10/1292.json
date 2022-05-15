@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ynT2IBEsEJs",
-            "title": "Hong Kong Police Arrest Protesters After New Security Law Comes Into Effect | NBC News NOW",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "FUn5Pazl6HQ",
             "title": "Mail-In Voting: How Secure Is It? | NBC News NOW",
             "secondDuration": 239,
@@ -61,8 +55,14 @@
             "title": "EU Bars Travelers From U.S. Due To Coronavirus Levels | NBC Nightly News",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "Qam8Mi1IWCM",
+            "title": "White House Learned Of Russian Bounty Intelligence In Early 2019 | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

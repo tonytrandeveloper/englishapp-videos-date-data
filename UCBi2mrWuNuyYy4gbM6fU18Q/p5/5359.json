@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8rAOHcLQPlU",
-            "title": "Top House Intel Dem calls Flynn plea 'very significant'",
-            "secondDuration": 422,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZUp9eSf9D5Q",
             "title": "NBC facing tough questions after firing of Matt Lauer",
             "secondDuration": 171,
@@ -31,8 +25,14 @@
             "title": "Trump celebrates after the Senate passes a tax bill",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "s9pihUzRl4Y",
+            "title": "New questions about Matt Lauer's firing over alleged sexual misconduct",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

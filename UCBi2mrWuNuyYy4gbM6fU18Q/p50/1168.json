@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iShrIY3GN6s",
-            "title": "Exclusive:  American Apparel CEO",
-            "secondDuration": 400,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y_wirgxeXtU",
             "title": "Colorado Tornado Video: Survivors Dig Out",
             "secondDuration": 142,
@@ -301,8 +295,14 @@
             "title": "Fifty Shades of Grey: Author Speaks",
             "secondDuration": 558,
             "group": "group_7"
+        },
+        {
+            "videoId": "vQ6Frh6WMVs",
+            "title": "Shark Attack Death Blamed on Reality TV",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

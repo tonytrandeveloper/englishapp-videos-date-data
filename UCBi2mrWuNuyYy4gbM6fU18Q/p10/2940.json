@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "4sDRNT8TAmQ",
-            "title": "Touching story of three boys destined to be raised by a woman they call mom",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "KXK-tbWnVLo",
             "title": "Trump's dinner with Comey: What really happened",
             "secondDuration": 152,
@@ -61,8 +55,14 @@
             "title": "BMW mystery fires: Parked cars have burst into flames",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "H6VPud8W4S4",
+            "title": "Michigan high school hosts '13 Reasons Why Not' project",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

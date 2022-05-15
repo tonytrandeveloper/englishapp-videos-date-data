@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x5i-6hJAtuU",
-            "title": "Golden Globes 2014: Emma Watson and Julia Roberts Cause Fashion Buzz With Unconventional Gowns",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "dWukmK_pxIw",
             "title": "Texting Allegedly Triggers Movie Theater Shooting by Retired Police Captain",
             "secondDuration": 99,
@@ -121,8 +115,14 @@
             "title": "'This Week': New Jersey Scandal",
             "secondDuration": 581,
             "group": "group_7"
+        },
+        {
+            "videoId": "GVfLCWmFnsw",
+            "title": "'This Week': Shattering the Glass Ceiling",
+            "secondDuration": 634,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

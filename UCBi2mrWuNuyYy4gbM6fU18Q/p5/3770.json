@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IyyGSXdr5GA",
-            "title": "Brazil's air force deployed tankers to drop water on the Amazon as it burns",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "GZGni3D2oDM",
             "title": "Immigration and Customs Enforcement shut down a free hotline for detained immigrants",
             "secondDuration": 93,
@@ -31,8 +25,14 @@
             "title": "'I don't see anyone carrying the voice of reason mantle right now': Cindy McCain",
             "secondDuration": 388,
             "group": "group_7"
+        },
+        {
+            "videoId": "NPGFhkgWh5A",
+            "title": "American SuperTanker headed to the Amazon",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

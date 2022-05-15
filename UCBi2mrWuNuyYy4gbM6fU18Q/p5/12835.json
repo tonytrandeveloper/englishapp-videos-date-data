@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "De7rn4LHiJQ",
-            "title": "Vicky Kennedy Breaks Her Silence",
-            "secondDuration": 267,
-            "group": "group_7"
-        },
-        {
             "videoId": "qigjrnIlq_Q",
             "title": "White House Defends Health Care",
             "secondDuration": 204,
@@ -31,8 +25,14 @@
             "title": "Tiger Woods: 'I Was Living a Life of a Lie'",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "HmLaZuvNDcc",
+            "title": "Pelosi Defies Odds, Passes Health Care",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

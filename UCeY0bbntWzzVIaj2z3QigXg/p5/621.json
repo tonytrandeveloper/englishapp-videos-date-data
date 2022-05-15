@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "3ezWYb9Qarc",
-            "title": "Nightly News Full Broadcast - Dec. 7",
-            "secondDuration": 1260,
-            "group": "group_7"
-        },
-        {
             "videoId": "kDLNFTE9xNY",
             "title": "Pearl Harbor Survivors Reflect On 80th Anniversary Of Attack",
             "secondDuration": 140,
@@ -31,8 +25,14 @@
             "title": "Hallie Jackson NOW: Jussie Smollett Latest, Vaccine Mandate Blocked | Dec. 7",
             "secondDuration": 3082,
             "group": "group_7"
+        },
+        {
+            "videoId": "cnAd9hfPzps",
+            "title": "State Of Emergency Declared In Hawaii Amid Heavy Rain, Flooding",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

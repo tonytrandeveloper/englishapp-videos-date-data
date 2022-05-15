@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Z5ffMIwvjo4",
-            "title": "White House Briefing | NBC News",
-            "secondDuration": 2930,
-            "group": "group_7"
-        },
-        {
             "videoId": "oqqd_muLg4c",
             "title": "U.S. Government Test Missile As Tensions Rise With North Korea | NBC News",
             "secondDuration": 57,
@@ -61,8 +55,14 @@
             "title": "Sweet Story Behind Video Of Fist-Bumping Toddler | NBC Nightly News",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "KXebgwFXYJk",
+            "title": "Hot Car Deaths: New Law Would Require Car Makers To Build Alarm Systems | NBC Nightly News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

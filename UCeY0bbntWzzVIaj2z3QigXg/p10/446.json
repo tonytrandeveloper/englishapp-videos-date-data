@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uqplr_QqhU0",
-            "title": "Top Story with Tom Llamas Full Broadcast - October 1st | NBC News NOW",
-            "secondDuration": 3003,
-            "group": "group_7"
-        },
-        {
             "videoId": "GhxQ9o2X5HM",
             "title": "Nightly News Full Broadcast - October 1st",
             "secondDuration": 1124,
@@ -61,8 +55,14 @@
             "title": "White House Holds Press Briefing: October 1 | NBC News",
             "secondDuration": 2089,
             "group": "group_7"
+        },
+        {
+            "videoId": "_xnULOQH7M4",
+            "title": "Morning News NOW Full Broadcast - October 1",
+            "secondDuration": 3148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

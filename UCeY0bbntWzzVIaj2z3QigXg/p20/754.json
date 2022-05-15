@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nyGpK1I9heo",
-            "title": "Senate Passes Coronavirus Relief Bill | NBC News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "fAoCu0nn0Cg",
             "title": "Senate votes on coronavirus stimulus package | NBC News (Live Stream Recording)",
             "secondDuration": 42901,
@@ -121,8 +115,14 @@
             "title": "How Countries Around The World Are Working To Flatten The Curve | NBC News NOW",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "fRIgJBm9L6k",
+            "title": "Doctor Describes His Experience Getting Tested For COVID-19 | NBC News NOW",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

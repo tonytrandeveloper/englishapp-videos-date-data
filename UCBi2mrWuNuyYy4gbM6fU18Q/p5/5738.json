@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "U7irvbc5N4o",
-            "title": "Suspects arrested in slaying of American tourist in Greece",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZdcZEs2nmv0",
             "title": "Iraqi forces said to be in final battle for Mosul",
             "secondDuration": 131,
@@ -31,8 +25,14 @@
             "title": "Littler brother's super hero",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "7rD1LFtc86Y",
+            "title": "Mixed messages after Trump-Putin meeting",
+            "secondDuration": 236,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

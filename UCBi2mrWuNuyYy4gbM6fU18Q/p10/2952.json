@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aNbGtWSAV_c",
-            "title": "Four countries are on the brink of famine",
-            "secondDuration": 363,
-            "group": "group_7"
-        },
-        {
             "videoId": "vqn7SXYZDqo",
             "title": "Hillary Clinton breaks her silence on what led to her devastating loss",
             "secondDuration": 226,
@@ -61,8 +55,14 @@
             "title": "Trump says he would meet with Kim Jong-Un",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "rljrGixht0c",
+            "title": "White House targets Michelle Obama initiatives, big banks",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

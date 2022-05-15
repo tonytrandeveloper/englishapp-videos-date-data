@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "lwGT6IZMhl0",
-            "title": "New Jersey Gov. Phil Murphy Announces Jersey Shore Will Open For Memorial Day | NBC News NOW",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "c5FHRElONJc",
             "title": "Live: Dr. Bright Testifies At House Hearing On Coronavirus Response | NBC News",
             "secondDuration": 13874,
@@ -31,8 +25,14 @@
             "title": "De Blasio Responds To Calls For NYC Health Commissioner To Resign | NBC News NOW",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "TLq4WEbFFEQ",
+            "title": "Arctic Scientists Stranded By Coronavirus Travel Restrictions | NBC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

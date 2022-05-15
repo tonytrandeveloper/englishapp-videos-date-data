@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p7ooWMXTgjE",
-            "title": "Special education teacher helps student overcome disability",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "JA1Od6XFyCQ",
             "title": "UN Ambassador Nikki Haley weighs in on US military strategy for Afghanistan",
             "secondDuration": 315,
@@ -61,8 +55,14 @@
             "title": "Pres. Trump addresses US policy on Afghanistan: Special Report",
             "secondDuration": 1774,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ZftM7kMPZo",
+            "title": "The great American eclipse sweeps across the US",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

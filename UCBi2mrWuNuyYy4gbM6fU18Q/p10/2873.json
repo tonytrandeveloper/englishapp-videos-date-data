@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_YPze0vLacw",
-            "title": "Inside Mosul | How ISIS escapes",
-            "secondDuration": 55,
-            "group": "group_7"
-        },
-        {
             "videoId": "RPczER4YKqM",
             "title": "Truck flips and crashes in Pennsylvania",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Music mogul works to help free the wrongfully convicted",
             "secondDuration": 461,
             "group": "group_7"
+        },
+        {
+            "videoId": "edcZeUJ7F3g",
+            "title": "These citizen journalists risk their lives to document ISIS horrors in Syria",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

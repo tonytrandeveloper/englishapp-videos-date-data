@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nOV6TixesZU",
-            "title": "Donald Trump Looks Ahead to New Hampshire | Meet The Press | NBC News",
-            "secondDuration": 540,
-            "group": "group_7"
-        },
-        {
             "videoId": "eWOesrffzXo",
             "title": "Hillary Clinton Talks Foreign Policy, Wall Street | Meet The Press | NBC News",
             "secondDuration": 585,
@@ -31,8 +25,14 @@
             "title": "LA Doctor Faces Life in Prison for Patients’ Overdose Deaths | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "KBWxA1niErQ",
+            "title": "Massive NYC Crane Collapses, Leaving 1 Dead and 3 Injured | NBC Nightly News",
+            "secondDuration": 161,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

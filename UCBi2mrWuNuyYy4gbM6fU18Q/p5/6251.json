@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "T8EnSWoz66g",
-            "title": "Kellyanne Conway Interview on Trump Russia Claims",
-            "secondDuration": 308,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0ca3kHAujM",
             "title": "Star Wars Rogue One: Creating K-2SO",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "President Obama Emotional Farewell Address | ABC News",
             "secondDuration": 194,
             "group": "group_7"
+        },
+        {
+            "videoId": "68ufZv4_e7I",
+            "title": "Obama Farewell Address: Where was Sasha Obama?",
+            "secondDuration": 168,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

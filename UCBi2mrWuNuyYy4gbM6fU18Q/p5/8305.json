@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YO3AXFaCFkQ",
-            "title": "Ben Higgins | Best Bachelor?",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "aAXr86LDI64",
             "title": "Vice President Joe Biden Hints at a Presidential Bid  | ABC News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Puns From Ikea Labels | ABC News",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "nGYikkVD-4E",
+            "title": "Tim Cook's Focus on an Academic Revolution",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

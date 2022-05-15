@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fL4eraGhPMg",
-            "title": "Stranded by Ash with no Plan B",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "IWWSa_iDHlA",
             "title": "In Whose God Do We Trust?",
             "secondDuration": 143,
@@ -31,8 +25,14 @@
             "title": "The Conversation: Breaking Down the Mojo",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "RokNiVbeZIc",
+            "title": "iPhone's Next Generation Found in a Bar",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

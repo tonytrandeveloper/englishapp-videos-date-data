@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PXPcVG-yk9c",
-            "title": "Measles Outbreak in 13 States",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "gZa-hbFHJLc",
             "title": "FDA Wants Warning Label on E-Cigarettes, Ban on Sales to Minors",
             "secondDuration": 132,
@@ -121,8 +115,14 @@
             "title": "Defendant Shot, Killed in Federal Court After Menacing Witness",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "VHJK3ZZwv08",
+            "title": "Australian Rapper Iggy Azalea Talks New Album",
+            "secondDuration": 82,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

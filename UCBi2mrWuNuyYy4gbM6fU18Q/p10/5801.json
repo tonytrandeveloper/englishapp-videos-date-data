@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "S3TJtwUOmQg",
-            "title": "Sugar: Latest Target in Diet Wars",
-            "secondDuration": 314,
-            "group": "group_7"
-        },
-        {
             "videoId": "dnRTt34wAhk",
             "title": "Giggle Seizures: No Laughing Matter | Nightline | ABC News",
             "secondDuration": 338,
@@ -61,8 +55,14 @@
             "title": "Kristen Stewart on \"Snow White & the Huntsman\"",
             "secondDuration": 755,
             "group": "group_7"
+        },
+        {
+            "videoId": "S85WMM_cKpg",
+            "title": "George Zimmerman's Bond Revoked: Must Surrender in 48 Hours",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

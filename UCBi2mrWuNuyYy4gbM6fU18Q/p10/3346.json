@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RaXpdGHmhHU",
-            "title": "Hurricane Matthew Batters the Bahamas",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzsE7FMqsVU",
             "title": "Jackie Trailer Starring Natalie Portman First Look",
             "secondDuration": 254,
@@ -61,8 +55,14 @@
             "title": "Obama Full Speech on Paris Climate Agreement",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "bp8aZZcsP_I",
+            "title": "Father Billed $40 for Holding Baby After Delivery",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

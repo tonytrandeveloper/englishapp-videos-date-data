@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Yr9awePM1VE",
-            "title": "'Boston Med' Premieres June 24 on ABC",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "aeIQ5SUxiIw",
             "title": "Analyzing Obama's Oil Crisis Plan",
             "secondDuration": 335,
@@ -121,8 +115,14 @@
             "title": "The Conversation:  Boycott BP Facebook Movement",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "OWjwxsBuCn0",
+            "title": "Obama to Address Oil Spill From Oval Office",
+            "secondDuration": 277,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

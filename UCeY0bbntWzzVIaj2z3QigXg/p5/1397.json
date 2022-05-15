@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "X-BbAjII-is",
-            "title": "Moderna Vaccine Poised To Become 2nd Approved For Kids 12-17 Years Old",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "sgF_r7y7MNo",
             "title": "White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1432,
@@ -31,8 +25,14 @@
             "title": "Morning News NOW Full Broadcast - May 25 | NBC News NOW",
             "secondDuration": 2685,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Qpega0ZOqA",
+            "title": "The Effect Of Derek Chauvin's Conviction On Policing",
+            "secondDuration": 428,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

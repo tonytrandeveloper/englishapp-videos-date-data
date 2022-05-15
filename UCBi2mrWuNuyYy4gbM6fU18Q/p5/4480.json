@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RLNqD7XmLdY",
-            "title": "The Debrief: Trump meets with Pelosi and Schumer, accused Russian agent reaches plea deal| ABC News",
-            "secondDuration": 1049,
-            "group": "group_7"
-        },
-        {
             "videoId": "2SN53uj_VUg",
             "title": "Controversy surrounds sentencing of Baylor student accused of rape",
             "secondDuration": 126,
@@ -31,8 +25,14 @@
             "title": "Ohio woman accused of planning mass murder at bar",
             "secondDuration": 131,
             "group": "group_7"
+        },
+        {
+            "videoId": "XUotlrEZ8ag",
+            "title": "Accused Russian agent reaches plea deal",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

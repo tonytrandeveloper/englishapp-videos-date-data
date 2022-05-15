@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w1AIuXXf7zw",
-            "title": "Displaced families in Texas must wait one week to return home",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "mN_koKqloU0",
             "title": "New ballistic missile launched from North Korea",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Texas towns brace for second impact from Harvey",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "KG_TCdNAblc",
+            "title": "Houston resident evacuates to 2-story house with 20 neighbors",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

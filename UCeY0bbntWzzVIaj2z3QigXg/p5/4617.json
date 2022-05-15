@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uBl3gJztVcQ",
-            "title": "Video Shows Police Officer Teaching Boys ‘Lesson’ For Carrying BB Gun | NBC Nightly News",
-            "secondDuration": 79,
-            "group": "group_7"
-        },
-        {
             "videoId": "VXEyrXwX3u0",
             "title": "Texas Flooding Kills At Least Two After Days Of Torrential Rain | NBC Nightly News",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "Trump presents the Medal of Honor to Sgt. Major John L. Canley",
             "secondDuration": 1614,
             "group": "group_7"
+        },
+        {
+            "videoId": "cC-iiREEpkA",
+            "title": "A Squishy Robot That Can Help Study Underwater Reefs | Mach | NBC News",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

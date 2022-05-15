@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Co3FfIq34IQ",
-            "title": "Kidnapping attempt botched by a 12-year-old | ABC News",
-            "secondDuration": 117,
-            "group": "group_7"
-        },
-        {
             "videoId": "l0m8PBl-4Cs",
             "title": "6 of 7 bodies recovered after Hawaii helicopter crash | ABC News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "Some Navy SEALs speak out about pardon of Special Operations Chief Eddie Gallagher | ABC News",
             "secondDuration": 201,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ue4l8dLoyxQ",
+            "title": "Ring, Amazon sued over string of hacked security cameras | ABC News",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

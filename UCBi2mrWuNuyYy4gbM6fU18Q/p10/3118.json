@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OmbyZJRgAKU",
-            "title": "Sports Arena Roof Collapses",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "HkGkE3zmzNY",
             "title": "Voice of King",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "Queen Latifah Reveals 'Living Single' Reboot",
             "secondDuration": 241,
             "group": "group_7"
+        },
+        {
+            "videoId": "GWM4eEcepTY",
+            "title": "Donald Trump's Incoming Administration's Ties to Russia Continue to Face Scrutiny",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

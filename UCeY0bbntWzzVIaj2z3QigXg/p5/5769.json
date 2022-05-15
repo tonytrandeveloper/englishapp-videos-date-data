@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5iRiQoLosfs",
-            "title": "Florida Residents Return to Horrific Devastation",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "PeYf-aK-zr8",
             "title": "Apple’s September 12th Event In 2 Minutes | Mach | NBC News",
             "secondDuration": 161,
@@ -31,8 +25,14 @@
             "title": "After Hurricane Irma, Largest Power Restoration Effort In U.S. History Begins | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "lnawERq53tc",
+            "title": "Apple Unveils Three New iPhones | NBC Nightly News",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "gnHjYD-xWuk",
-            "title": "Powerful storms wreak havoc ahead of Christmas",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIKAnOLXGaU",
             "title": "Drones cause 2-day shutdown at London's Gatwick Airport",
             "secondDuration": 141,
@@ -31,8 +25,14 @@
             "title": "Weinstein case continues as judge declines to dismiss charges",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "3FTruiwzkuQ",
+            "title": "The latest on Trump, border wall and the government shutdown",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

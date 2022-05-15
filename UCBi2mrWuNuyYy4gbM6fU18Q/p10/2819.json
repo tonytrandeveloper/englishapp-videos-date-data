@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bwxRKGJf88Q",
-            "title": "Trump's comments on Charlottesville under fire from GOP colleagues",
-            "secondDuration": 343,
-            "group": "group_7"
-        },
-        {
             "videoId": "3Y5WTCjysx8",
             "title": "Anthony Scaramucci Full Interview - Former WH Comm. Director Takes Facebook Questions LIVE",
             "secondDuration": 1217,
@@ -61,8 +55,14 @@
             "title": "Trump: 'the hate and the division must stop'",
             "secondDuration": 659,
             "group": "group_7"
+        },
+        {
+            "videoId": "Y3_72kSnevM",
+            "title": "Violence erupts at white nationalist rally in Charlottesville, Va.",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

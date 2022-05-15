@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "C0ybj7TAxhc",
-            "title": "Columbine's Chilling Legacy",
-            "secondDuration": 377,
-            "group": "group_7"
-        },
-        {
             "videoId": "datqjyVmgME",
             "title": "CDC's Tom Frieden on Ebola: 'We Will Stop it in its Tracks'",
             "secondDuration": 321,
@@ -31,8 +25,14 @@
             "title": "Nearly 30,000 Fans Flock to LEGO Expo in Virginia",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "FMLleqyic_Y",
+            "title": "Coast Guard Rescues Man in Bubble",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

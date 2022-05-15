@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-CjQAuPFzEI",
-            "title": "Fire at outdoor music festival in Barcelona forces 20,000 people to evacuate",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "oQwEydUvBSo",
             "title": "Arrests made in suspected terror plot in Australia",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Video shows border officers' actions and inactions resulted in tragic 2013 incident",
             "secondDuration": 484,
             "group": "group_7"
+        },
+        {
+            "videoId": "b2eNDOJqNSM",
+            "title": "Republicans' bid to repeal Obamacare ends with a surprise",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

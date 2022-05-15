@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_ru0OPWUvR0",
-            "title": "Donald Trump Jr. speaks to the Senate Judiciary Committee",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "k6Q2u_mrFn4",
             "title": "President Donald Trump holds joint news conference with emir of Kuwait",
             "secondDuration": 3085,
@@ -121,8 +115,14 @@
             "title": "Woman catches mechanic taking a joyride in her car",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "dkjYWbLrL8A",
+            "title": "Florida governor discusses preparations as Hurricane Irma nears",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

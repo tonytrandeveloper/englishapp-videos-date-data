@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "94_NoGFeT9o",
-            "title": "Lake Invaders",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "Pvp5dugGnkk",
             "title": "Border Patrol Death",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "One on One:  Matthew Dowd",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "8dTkftVWjfo",
+            "title": "2012 Election Debates: President Obama, Mitt Romney Countdown to Confrontation",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

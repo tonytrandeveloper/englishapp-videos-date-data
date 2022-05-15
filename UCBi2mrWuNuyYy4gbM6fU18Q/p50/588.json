@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "WPBMJ89uza0",
-            "title": "New Miss USA responds to health care backlash",
-            "secondDuration": 385,
-            "group": "group_7"
-        },
-        {
             "videoId": "dhNH05O_aCU",
             "title": "Intelligence community reacts to report of Trump leak",
             "secondDuration": 290,
@@ -301,8 +295,14 @@
             "title": "BMW mystery fires: Parked cars have burst into flames",
             "secondDuration": 476,
             "group": "group_7"
+        },
+        {
+            "videoId": "H6VPud8W4S4",
+            "title": "Michigan high school hosts '13 Reasons Why Not' project",
+            "secondDuration": 440,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

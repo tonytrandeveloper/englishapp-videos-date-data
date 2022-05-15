@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jH__8-20uRg",
-            "title": "What Can Penguins Teach Us About Earth?",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "dTzMULtLZPk",
             "title": "Haiti after the Earthquake: 1 Month Later",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Mid-Air Crash Kills Three Over Colorado",
             "secondDuration": 209,
             "group": "group_7"
+        },
+        {
+            "videoId": "gZzOfmsX7D0",
+            "title": "Boy Scouts of America Celebrate Centennial",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

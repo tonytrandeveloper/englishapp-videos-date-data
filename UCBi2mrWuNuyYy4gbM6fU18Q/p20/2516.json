@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "1046ibhPqPs",
-            "title": "Aaron Alexis: The Man Behind the Washington Navy Yard Shooting",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "BZF0dFXjgk0",
             "title": "13 People Killed in Washington DC Shooting Rampage",
             "secondDuration": 183,
@@ -121,8 +115,14 @@
             "title": "Controversial TV Chef Paula Deen Makes Tearful Comeback",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "9BXvsllb_ZQ",
+            "title": "Modern-Day American Beauties Break Pageant Mold",
+            "secondDuration": 99,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

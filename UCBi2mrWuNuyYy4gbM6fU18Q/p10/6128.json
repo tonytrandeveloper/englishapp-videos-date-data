@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a6Xy0cmJ16E",
-            "title": "Nissan Leaf the Solution to Gas Crisis?",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "fzgXBpDZxqU",
             "title": "Teen's Fake Pregnancy Fools School",
             "secondDuration": 198,
@@ -61,8 +55,14 @@
             "title": "Singing with Reese Witherspoon",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "GpZltTVfHno",
+            "title": "Reese Witherspoon's Oscar",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WFKZHqSiLW0",
-            "title": "The Briefing Room: Migrants in Tijuana, GM layoffs, climate change report | ABC News",
-            "secondDuration": 1750,
-            "group": "group_7"
-        },
-        {
             "videoId": "h5L8B6vYesw",
             "title": "InSight mission landing on Mars | ABC News",
             "secondDuration": 2572,
@@ -31,8 +25,14 @@
             "title": "Family of man shot, killed by police demands answers",
             "secondDuration": 150,
             "group": "group_7"
+        },
+        {
+            "videoId": "GnOnCvZFnCE",
+            "title": "New book gives behind-the-scenes look at Trump White House",
+            "secondDuration": 305,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zm6wFii8054",
-            "title": "Trump Halts Covid Relief Bill Negotiations As Government Outbreak Grows | NBC Nightly News",
-            "secondDuration": 199,
-            "group": "group_7"
-        },
-        {
             "videoId": "DF_LNwcH0f0",
             "title": "Former Facebook Engineer Speaks Out About Misinformation, Hate Speech On Platform | NBC Nightly News",
             "secondDuration": 182,
@@ -121,8 +115,14 @@
             "title": "Biden: Wearing Masks Should Be 'Patriotic' | NBC News",
             "secondDuration": 98,
             "group": "group_7"
+        },
+        {
+            "videoId": "pIqLE35tFe8",
+            "title": "'Masks Matter': Biden Criticizes Trump For Removing Mask Upon Arriving At The White House | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

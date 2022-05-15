@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "krHezQZ9Rpk",
-            "title": "New Sinkhole in Florida Town Puts Residents on Edge",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "Edbrs8BBWhw",
             "title": "$338 Million Powerball Winner Sold",
             "secondDuration": 185,
@@ -31,8 +25,14 @@
             "title": "Supreme Court to Take on Gay Marriage",
             "secondDuration": 125,
             "group": "group_7"
+        },
+        {
+            "videoId": "w1AAkW3QHQo",
+            "title": "Coney Island Reopens for First Time Since Superstorm Sandy",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

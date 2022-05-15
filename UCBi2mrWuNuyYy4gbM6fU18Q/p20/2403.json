@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "xzfhfLADfWg",
-            "title": "Samuel L. Jackson Brings Marvel to 'Live in Times Square'",
-            "secondDuration": 329,
-            "group": "group_7"
-        },
-        {
             "videoId": "9D2fRIg3ymQ",
             "title": "Oscar Pistorius Won't Be First to Take Stand in Murder Trial",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "'Jeopardy' Celebrates Its Golden Anniversary",
             "secondDuration": 108,
             "group": "group_7"
+        },
+        {
+            "videoId": "WBxgSad9sx0",
+            "title": "General Motors Recalls More Than 1 Million Cars",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

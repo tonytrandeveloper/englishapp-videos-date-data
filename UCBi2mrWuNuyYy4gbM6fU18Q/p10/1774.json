@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v2YUTMmIZwY",
-            "title": "The Debrief: Impeachment moves forward, Protests in Iraq, Ambush in Mexico | ABC News",
-            "secondDuration": 1577,
-            "group": "group_7"
-        },
-        {
             "videoId": "K31oClneEhc",
             "title": "Arctic blast prompts winter weather advisory in 6 states l ABC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "9 members of Mormon family killed in Mexico",
             "secondDuration": 243,
             "group": "group_7"
+        },
+        {
+            "videoId": "fpyWcWHRi6Y",
+            "title": "Hit-and-run victim ignored as dozens of drivers pass by",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

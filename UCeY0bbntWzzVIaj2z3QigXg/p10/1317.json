@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "v-U0pYeVD74",
-            "title": "Supreme Court Blocks Trump Bid To End Protections For Dreamers | NBC News NOW",
-            "secondDuration": 1141,
-            "group": "group_7"
-        },
-        {
             "videoId": "eFmgaARtUe0",
             "title": "Pelosi Orders Removal Of Portraits Of Former House Speakers Who Served Confederacy | NBC News NOW",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "NYC Continues Reopening As Florida, Texas, Other States See Surge In Cases | NBC Nightly News",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "FWxTMBbZhaI",
+            "title": "‘We Are Struggling’: Hospital Staff Working Overtime To Treat Coronavirus Patients | NBC News NOW",
+            "secondDuration": 880,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

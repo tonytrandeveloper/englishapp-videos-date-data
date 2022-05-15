@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "n8rJao2QiDI",
-            "title": "Donald Trump Fever Spreading in Cleveland",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "I8UATeFRpSQ",
             "title": "Donald Trump Rejects Speechwriter's Resignation Over Melania's Speech",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Melania Trump's Speechwriter Apologizes, Trump Rejects Resignation",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "Fc1EZD3Dnhk",
+            "title": "Teen Dies in Dad's Arms After Shooting",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

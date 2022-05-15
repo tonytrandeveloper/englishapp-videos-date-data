@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8K3w5Ty1hLk",
-            "title": "More than 1 million people march in Barcelona to support a unified Spain",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "hkBh-yMKBfk",
             "title": "An urgent warning concerning novelty contact lenses",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Russia investigation seeks first charges",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "7R9fXVq_YPo",
+            "title": "West Virginia police seek escaped inmate",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

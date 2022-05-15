@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_RSBYbi7LZM",
-            "title": "Trump makes case for border wall in national address",
-            "secondDuration": 1440,
-            "group": "group_7"
-        },
-        {
             "videoId": "tZnpu9ExFTA",
             "title": "Democratic leaders respond to Trump's prime-time address",
             "secondDuration": 307,
@@ -61,8 +55,14 @@
             "title": "Briefing Room: Manafort & Russia probe, Shutdown status, Dems gun bill,  Syria exit plan",
             "secondDuration": 1428,
             "group": "group_7"
+        },
+        {
+            "videoId": "2Yx-_WkdC7I",
+            "title": "John Bobbitt on how his life changed after notorious trials – 20/20 Extra",
+            "secondDuration": 128,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

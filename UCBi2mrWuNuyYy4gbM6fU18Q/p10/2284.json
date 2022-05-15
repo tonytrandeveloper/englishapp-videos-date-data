@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "d-mp0jh8XWI",
-            "title": "Trump campaign ad pulled from airwaves",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "htEHuyOHUsc",
             "title": "Single mother in Iowa comes forward as Powerball winner",
             "secondDuration": 119,
@@ -61,8 +55,14 @@
             "title": "Homeowner yells through doorbell to stop potential burglars",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "DEFRwrZGry4",
+            "title": "Man describes how he stopped shooter in Florida yoga studio",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

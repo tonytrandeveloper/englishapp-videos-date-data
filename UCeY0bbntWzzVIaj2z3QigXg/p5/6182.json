@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZTlMZiJoT8g",
-            "title": "Why You Could be Addicted To The Internet | Better | NBC News",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "2U9ffSK_NgI",
             "title": "Arkansas Governor’s Office Weighs In As Executions Blocked: ‘Remember The Victims' | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Search Warrants: Prince Didn’t Have Prescriptions For Drugs In His Home | NBC Nightly News",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "F1STO3-HNkU",
+            "title": "Arkansas Working To Lift Court's Halt On Slate Of Executions This Week | NBC Nightly News",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

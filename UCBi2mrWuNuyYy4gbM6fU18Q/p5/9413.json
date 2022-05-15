@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ad4MmL4-7sc",
-            "title": "Minnesota Rivers Rising as Forecast Calls for More Drenching Rain",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "2KQIrvD_xmA",
             "title": "'This Week': Military Strategy in Iraq",
             "secondDuration": 346,
@@ -31,8 +25,14 @@
             "title": "'This Week': Crisis in Iraq",
             "secondDuration": 193,
             "group": "group_7"
+        },
+        {
+            "videoId": "G5nOsd-0Keg",
+            "title": "'This Week': Reflections on Iraq",
+            "secondDuration": 220,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

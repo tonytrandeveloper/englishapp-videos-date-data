@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "F-ZSkHGW7E8",
-            "title": "Police Bring Fencing Back To Capitol Hill Ahead Of ‘Justice For J6’ Rally",
-            "secondDuration": 287,
-            "group": "group_7"
-        },
-        {
             "videoId": "vReIgW8z86I",
             "title": "Deadly Earthquake Rattles China's Sichuan Province",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Watch: SpaceX Launches Inspiration4 All-Civilian Crew Into Orbit",
             "secondDuration": 2020,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q9Gmq0zQx08",
+            "title": "The New Latino Landscape: New Hampshire’s Population Boom",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

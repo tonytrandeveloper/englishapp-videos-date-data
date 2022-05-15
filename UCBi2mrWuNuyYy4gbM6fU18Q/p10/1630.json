@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Pk7dCTfGSSo",
-            "title": "Candidates take on Trump’s climate change and trade policies | ABC News",
-            "secondDuration": 445,
-            "group": "group_7"
-        },
-        {
             "videoId": "mejpqnbJlRM",
             "title": "Bloomberg has ‘slight advantage’ paying for commercials: Sanders | ABC News",
             "secondDuration": 79,
@@ -61,8 +55,14 @@
             "title": "Candidates discuss gun policy | ABC News",
             "secondDuration": 361,
             "group": "group_7"
+        },
+        {
+            "videoId": "1TlKNGiN52E",
+            "title": "Democratic candidates discuss decriminalization of drugs | ABC News",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

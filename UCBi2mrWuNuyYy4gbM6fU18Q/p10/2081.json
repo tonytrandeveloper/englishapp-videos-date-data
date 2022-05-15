@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0Hx8D913AHE",
-            "title": "Terrorist attack in Sri Lanka leaves more than 200 dead",
-            "secondDuration": 249,
-            "group": "group_7"
-        },
-        {
             "videoId": "CTseEgo-5gg",
             "title": "More details on the tiger attack in Kansas",
             "secondDuration": 131,
@@ -61,8 +55,14 @@
             "title": "Clean up begins after severe weather outbreak",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "jF2uFsir-bA",
+            "title": "FBI joins search for missing Chicago boy",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "0VIJQWeuOa4",
-            "title": "‘Good To Know' Headlines: Butterball Recall, Facebook Political Testing, New United Airlines Routes",
-            "secondDuration": 116,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jpj6kJO6OBM",
             "title": "British Lawmaker Stabbed To Death While Meeting With Public",
             "secondDuration": 177,
@@ -301,8 +295,14 @@
             "title": "Nightly News Full Broadcast - October 12th",
             "secondDuration": 1118,
             "group": "group_7"
+        },
+        {
+            "videoId": "BLD_AGMsibs",
+            "title": "Benton Harbor, Michigan Faces Water Crisis Amid Unsafe Lead Levels",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

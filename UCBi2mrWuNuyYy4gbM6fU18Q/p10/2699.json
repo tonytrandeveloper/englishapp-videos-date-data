@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ELr6p8rJUrk",
-            "title": "Deadly rampage in Northern California",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "3SIOKCXpfUo",
             "title": "Attorney General Jeff Sessions testifies on Russia Investigation before House Judiciary Committee",
             "secondDuration": 23988,
@@ -61,8 +55,14 @@
             "title": "A 5th woman steps forward accusing Roy Moore of sexual misconduct",
             "secondDuration": 268,
             "group": "group_7"
+        },
+        {
+            "videoId": "MYjBscEegQM",
+            "title": "Donald Trump Jr. had secret communications with WikiLeaks",
+            "secondDuration": 208,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

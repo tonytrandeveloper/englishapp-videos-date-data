@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sZr8hln3FKc",
-            "title": "Brett Eldredge Performs 'Lose My Mind' Live",
-            "secondDuration": 171,
-            "group": "group_7"
-        },
-        {
             "videoId": "jPpMEE0N57o",
             "title": "Tory Johnson's 'Shift for Good' | Goodbye to Negativity",
             "secondDuration": 372,
@@ -61,8 +55,14 @@
             "title": "California Fires Leave Behind Apocalyptic-Like Destruction",
             "secondDuration": 420,
             "group": "group_7"
+        },
+        {
+            "videoId": "AXblsDITMpg",
+            "title": "Arnold Schwarzenegger Is Back as New 'Celebrity Apprentice' Host",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

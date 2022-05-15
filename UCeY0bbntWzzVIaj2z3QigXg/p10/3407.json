@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "soYuQJeT6UY",
-            "title": "Mitt Romney On 2016 Republican Race, Donald Trump | Meet The Press | NBC News",
-            "secondDuration": 592,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sl1MaCcFhRc",
             "title": "Lindsey Graham On GOP Race, Working With Ted Cruz | Meet The Press | NBC News",
             "secondDuration": 410,
@@ -61,8 +55,14 @@
             "title": "LAPD Testing Knife Allegedly Found on OJ Simpson’s Former Property | NBC Nightly News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "mPw9S4NEJvY",
+            "title": "Trump’s Flip-Flops on Issues Leaves Many Questions for Many Voters | NBC Nightly News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

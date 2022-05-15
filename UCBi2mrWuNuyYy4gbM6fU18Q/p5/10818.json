@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-UBFK9k5HJ4",
-            "title": "Presidential Prescription:  George H. W. Bush",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "RpttHI_nbqg",
             "title": "Terror on the Tracks",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "Coach Pagano Back on the Field",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "qszEC58FTVQ",
+            "title": "Terror Threat:  Al Qaeda Bounty on Ambassadors",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

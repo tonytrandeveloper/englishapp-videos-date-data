@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "v6SaOv_0H2s",
-            "title": "MIX: \"Comfortable\" Campaign",
-            "secondDuration": 176,
-            "group": "group_7"
-        },
-        {
             "videoId": "lvW3bNGqJ4w",
             "title": "WEBCAST: Americans Head to the Polls",
             "secondDuration": 136,
@@ -121,8 +115,14 @@
             "title": "911 Operators, First Responders in Hot Seat for Bad Behavior",
             "secondDuration": 485,
             "group": "group_7"
+        },
+        {
+            "videoId": "BmpQyjNZC0w",
+            "title": "Putting Psychic to the Stars to the Test",
+            "secondDuration": 410,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

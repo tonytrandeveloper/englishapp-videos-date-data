@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "c3V3EkyG0wg",
-            "title": "Multiple Wildfires Burn Across Oregon | NBC News NOW",
-            "secondDuration": 99,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uwsw_l7K_Zo",
             "title": "Detroit Mother Worries Autistic Daughter Will Lose Out On Special Instruction | NBC News NOW",
             "secondDuration": 331,
@@ -31,8 +25,14 @@
             "title": "In-Depth Look At Michigan’s Race To Prepare For November Election | NBC Nightly News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "5M2-CfKrqSo",
+            "title": "One-On-One With Michael Cohen: Trump ‘Should Resign Now’ | NBC Nightly News",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZhNOuDYKkzM",
-            "title": "Trump, White House Coronavirus Task Force Hold News Conference | NBC News (Live Stream Recording)",
-            "secondDuration": 7841,
-            "group": "group_7"
-        },
-        {
             "videoId": "kVS8aTQ46Rw",
             "title": "Trump Claims Calling Coronavirus 'The Chinese Virus' Is 'Not Racist At All' | NBC News",
             "secondDuration": 66,
@@ -61,8 +55,14 @@
             "title": "Chaos, Confusion At Manila Airport After COVID-19 Policy Changes | NBC News",
             "secondDuration": 55,
             "group": "group_7"
+        },
+        {
+            "videoId": "jPKeUhVvFtw",
+            "title": "Esports Fill Void As Pro Sports Cancelled Amid Coronavirus Outbreak | NBC News NOW",
+            "secondDuration": 255,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

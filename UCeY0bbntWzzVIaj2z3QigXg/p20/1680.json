@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yVyu4z0bFuA",
-            "title": "Lou Gehrig's Impact On ALS 75 Years Later | 101 | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "fNTfU9aCrJY",
             "title": "Life Stories: Reggae/Pop/Rock Band Common Kings | NBC Asian America",
             "secondDuration": 418,
@@ -121,8 +115,14 @@
             "title": "$1 Million Will Buy You an Entire West Virginia Town | NBC Nightly News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "CrQKImYW01g",
+            "title": "Severe Storms, Tornadoes Tear Through Plains States | NBC Nightly News",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

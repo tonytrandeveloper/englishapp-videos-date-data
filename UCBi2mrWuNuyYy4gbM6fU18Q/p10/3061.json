@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NdLOxcm4HfY",
-            "title": "North Korea Tests Trump, Firing a Ballistic Missile Into the Sea of Japan",
-            "secondDuration": 237,
-            "group": "group_7"
-        },
-        {
             "videoId": "SoNneiwbB5k",
             "title": "Separate Chicago Shootings Leave Two Girls in Critical Condition",
             "secondDuration": 93,
@@ -61,8 +55,14 @@
             "title": "Twins Meet the Officers Who Saved Their Lives 20 Years Ago",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "gK8PYZu9OwI",
+            "title": "Doctor Accused of Falsely Diagnosing Patients With Skin Cancer Gets to Keep His License",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

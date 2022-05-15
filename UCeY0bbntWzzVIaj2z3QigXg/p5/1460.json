@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QkFXRDOw0P0",
-            "title": "FBI Says Russian Criminal Group Behind Cyberattack On Major U.S. Pipeline | NBC Nightly News",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "wdZbWTkC5AQ",
             "title": "GOP Set To Vote On Removing Cheney From House Leadership | NBC Nightly News",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Biden Addresses Pipeline Cyberattack: FBI Is Engaged To Assess, Address This Attack | NBC News",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "6l3wlxjjPjk",
+            "title": "How Social Media Is Impacting The Political Divide | NBC News NOW",
+            "secondDuration": 317,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

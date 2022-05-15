@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LdCvDgmElss",
-            "title": "Lara Logan Attacked, Assaulted by Mob of 200 2/16/2011",
-            "secondDuration": 144,
-            "group": "group_7"
-        },
-        {
             "videoId": "kaIY3KT6MtQ",
             "title": "American Children Kidnapped and Taken to Japan 2/16/2011",
             "secondDuration": 472,
@@ -61,8 +55,14 @@
             "title": "Amplified: Apex Manor 2/14/2011",
             "secondDuration": 402,
             "group": "group_7"
+        },
+        {
+            "videoId": "VUmQGbhLn8w",
+            "title": "Apex Manor: 'No Small Magic' 2/14/2011",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

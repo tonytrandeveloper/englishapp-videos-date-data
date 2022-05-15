@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mIXTmiNE9cQ",
-            "title": "'This Week' Sunday Spotlight: 'Lone Survivor'",
-            "secondDuration": 238,
-            "group": "group_7"
-        },
-        {
             "videoId": "8t6fYN25Sps",
             "title": "'This Week': Sen. Charles Schumer",
             "secondDuration": 392,
@@ -31,8 +25,14 @@
             "title": "'This Week': Inside Special Operations",
             "secondDuration": 438,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q6Md8wM4SuU",
+            "title": "Jeff Bezos: 'Galapagos, Five Stars. Kidney Stones, Zero Stars'",
+            "secondDuration": 244,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

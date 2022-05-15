@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "snIhWbyTqzw",
-            "title": "Super Tuesday: Comedy Central's Indecision 2012 Bloggers Take on Republican Results",
-            "secondDuration": 692,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzuZdedYjyM",
             "title": "Super Tuesday Results 2012: Newt Gingrich's Official Speech After Georgia Primary Win",
             "secondDuration": 1370,
@@ -121,8 +115,14 @@
             "title": "David Axelrod Interview on ABC's 'This Week\"",
             "secondDuration": 351,
             "group": "group_7"
+        },
+        {
+            "videoId": "uM8f6Oeyp-U",
+            "title": "Super Tuesday: Who Will be Victorious?",
+            "secondDuration": 247,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

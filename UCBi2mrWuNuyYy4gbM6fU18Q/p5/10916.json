@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "46dZ3i-E6Rc",
-            "title": "WEBCAST: Walmart Special Delivery",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "D7vKSAhRWOg",
             "title": "NFL Picks for December 7, 2012",
             "secondDuration": 313,
@@ -31,8 +25,14 @@
             "title": "Confessions of a Serial Killer",
             "secondDuration": 314,
             "group": "group_7"
+        },
+        {
+            "videoId": "PgJ3GaFi3tY",
+            "title": "Hillary Clinton's Exit Plan for Syria's Assad",
+            "secondDuration": 162,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

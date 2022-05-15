@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zbRT_KJHB34",
-            "title": "Inside the Lion Park Where American Was Mauled to Death",
-            "secondDuration": 433,
-            "group": "group_7"
-        },
-        {
             "videoId": "cHc7MRs6yFU",
             "title": "Train Crashes Into a Car, Splitting It in Half",
             "secondDuration": 107,
@@ -61,8 +55,14 @@
             "title": "Chinese Ferry Overturns on Yangtze River, Hundreds Missing",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "lHtauASkebY",
+            "title": "Derrick Coleman Hopes to Inspire Kids to Overcome Obstacles",
+            "secondDuration": 266,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

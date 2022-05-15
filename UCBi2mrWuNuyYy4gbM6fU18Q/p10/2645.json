@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "gjdEJlgKPbM",
-            "title": "Nor'easter storm drops over a foot of snow in Long Island",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "eKY-72q2lpU",
             "title": "In 'Molly's Game,' how Olympic hopeful became high-stakes poker princess",
             "secondDuration": 388,
@@ -61,8 +55,14 @@
             "title": "A magnitude 4.4 quake jolted the San Francisco Bay area.",
             "secondDuration": 66,
             "group": "group_7"
+        },
+        {
+            "videoId": "-3URa6tW2ig",
+            "title": "White House press briefing on Michael Wolff book, and Steve Bannon | ABC News",
+            "secondDuration": 2736,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

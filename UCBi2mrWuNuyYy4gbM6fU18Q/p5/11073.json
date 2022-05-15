@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mPB8aTulBko",
-            "title": "Real Money:  Turn Your Old Gadgets Into Cash",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "bFgSClgfMk0",
             "title": "Hurricane Sandy: When Storms Collide",
             "secondDuration": 247,
@@ -31,8 +25,14 @@
             "title": "President Obama and Mitt Romney Battle for Ohio",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "S3VQy1-MJo4",
+            "title": "Baltimore School Bus Caught Running Red Light",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

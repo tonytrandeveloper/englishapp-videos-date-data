@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "e7Td4qbeCD8",
-            "title": "Summer Brunch Made Easy | ABC News",
-            "secondDuration": 275,
-            "group": "group_7"
-        },
-        {
             "videoId": "ii9Xi7FUS0s",
             "title": "Pete's Dragon | Behind the Scenes",
             "secondDuration": 353,
@@ -61,8 +55,14 @@
             "title": "F-35 Fighter Jet: The Future of Flight",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "n43rGgQZnb0",
+            "title": "Boy Opens Bakery to Buy Mom a New House",
+            "secondDuration": 46,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aUmn2j5Tmgw",
-            "title": "One-on-one with 2020 Democratic presidential candidate Steve Bullock",
-            "secondDuration": 362,
-            "group": "group_7"
-        },
-        {
             "videoId": "zXxnI4Eh6eA",
             "title": "U.S. women's national soccer team prepares for next game",
             "secondDuration": 101,
@@ -121,8 +115,14 @@
             "title": "Wife of California congressman pleads guilty to corruption charges",
             "secondDuration": 104,
             "group": "group_7"
+        },
+        {
+            "videoId": "uduvPN-TpSs",
+            "title": "Sarah Sanders leaving post as White House press secretary",
+            "secondDuration": 389,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

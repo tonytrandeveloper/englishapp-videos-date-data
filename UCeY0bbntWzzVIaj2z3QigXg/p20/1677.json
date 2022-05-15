@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3JVXRGgdNDg",
-            "title": "Philip Turns 95: 7 Interesting Facts About The Prince | NBC News",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "fd-iOCnbi2o",
             "title": "Life Outside The Gender Binary | Queer 2.0 | NBC Out",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Should We Really Fear Genetically Modified Zika Mosquitoes? | Scientificus | NBC News",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "EZ3VHv-9Xds",
+            "title": "Bernie Sanders Vows To Continue The Fight | NBC News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

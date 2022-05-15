@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DQD09Vtvkeg",
-            "title": "Dan Pfeiffer 'This Week' Interview: NSA Spying and Obamacare",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "kLHlcdfGcAU",
             "title": "Rand Paul 'This Week' Interview: NSA Spying, Obamacare and Plagiarism Charges",
             "secondDuration": 568,
@@ -61,8 +55,14 @@
             "title": "ING New York City Marathon Returns and Runners Are Proud",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "UpsBLYNsxIQ",
+            "title": "Cirque De Soleil Performer Falls During Show",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

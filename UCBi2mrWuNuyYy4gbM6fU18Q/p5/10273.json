@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "COnGnDe6Gcs",
-            "title": "Tiger Mauls Employee at Exotic Rescue Center",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Y3mrtbwyuc",
             "title": "Gandolfini Friends and Family Pay Tribute to Actor",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Nelson Mandela's Harrowing Ambulance Ride",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "sZDIrtwvZso",
+            "title": "World's Ugliest Dog Contest Heats Up",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "UgxLSAPvW9w",
-            "title": "Top Line: What's Big for 2010: Yemen, Jobs, Elections",
-            "secondDuration": 351,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mu6SGD6sHDI",
             "title": "Negotiations Begin on Health Care Bill",
             "secondDuration": 421,
@@ -121,8 +115,14 @@
             "title": "Inside the White House Security Meeting",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "kk0KP3S1k34",
+            "title": "When the Cheering Stops",
+            "secondDuration": 486,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

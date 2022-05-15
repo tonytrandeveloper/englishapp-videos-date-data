@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HKXZMo7blzg",
-            "title": "Christiane Amanpour on Hosni Mubarak's Refusal to Leave 2/10/2011",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "jZXxi4Hdng0",
             "title": "Hosni Mubarak Doesn't Resign, Step Down 2/10/2011",
             "secondDuration": 297,
@@ -31,8 +25,14 @@
             "title": "Free-Skier Skis on Ocean 2/10/2011",
             "secondDuration": 34,
             "group": "group_7"
+        },
+        {
+            "videoId": "MfEKAl5A--0",
+            "title": "Pilot Fatigue and Crash Pads 2/9/2011",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

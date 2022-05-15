@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uiJM7WvaIbM",
-            "title": "Aunt Barbara to Visit WNN on May 10th",
-            "secondDuration": 48,
-            "group": "group_7"
-        },
-        {
             "videoId": "a04xoy5Bvq8",
             "title": "Top Stories 5/9/2012 - Rob Nelson & Sunny Hostin",
             "secondDuration": 725,
@@ -61,8 +55,14 @@
             "title": "Generation XXX: Teens Addicted to Porn?",
             "secondDuration": 352,
             "group": "group_7"
+        },
+        {
+            "videoId": "hj0XehIUsqk",
+            "title": "Duck Boat Hit by Barge Caught on Tape",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

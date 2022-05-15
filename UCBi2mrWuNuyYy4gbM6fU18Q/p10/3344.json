@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NB0Ry2kHS-A",
-            "title": "Hurricane Matthew Stirs Up the Campaign Trail",
-            "secondDuration": 163,
-            "group": "group_7"
-        },
-        {
             "videoId": "lV_yMw-su5U",
             "title": "Hurricane Matthew Makes Its Way Up the East Coast",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "World's Deepest Known Underwater Cave Explored",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "4J5FZ2uqUnc",
+            "title": "Deadliest Catch the Untold Story | Real Biz with Rebecca Jarvis | ABC News",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

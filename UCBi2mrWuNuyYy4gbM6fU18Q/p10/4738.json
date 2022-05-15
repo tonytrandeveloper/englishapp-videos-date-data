@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AL1pSxv5FOI",
-            "title": "'This Week' Veterans Affairs Scandal",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "KeRmO7iYfqE",
             "title": "'This Week' Mass Shooting in Isla Vista",
             "secondDuration": 472,
@@ -61,8 +55,14 @@
             "title": "Motive Starts to Emerge in Santa Barbara Shooting",
             "secondDuration": 595,
             "group": "group_7"
+        },
+        {
+            "videoId": "0YKw_A39dvY",
+            "title": "Indy 500 Pit Crew Gives 'GMA' Anchor a Lesson in Changing Tires",
+            "secondDuration": 158,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

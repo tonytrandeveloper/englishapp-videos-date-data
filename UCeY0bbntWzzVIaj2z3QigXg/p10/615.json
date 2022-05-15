@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ETaVUa1C8qY",
-            "title": "Reflecting On July 4th As Americans Celebrate Again",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "PR8fsp0I7mk",
             "title": "Veterans Face Roadblocks Moving From Military To Civilian Health Care Jobs",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "Inside One Of The Nation’s Largest Cryptocurrency Mines",
             "secondDuration": 348,
             "group": "group_7"
+        },
+        {
+            "videoId": "b5QwiP1F3JI",
+            "title": "UK Prime Minister Boris Johnson Outlines End Of Covid Restrictions",
+            "secondDuration": 225,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

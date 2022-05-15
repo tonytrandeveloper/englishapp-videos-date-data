@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "QbA30sxXwu0",
-            "title": "How Scientists Verified One Of Einstein's Most Controversial Theories | Mach | NBC News",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "mSmMu26GN-k",
             "title": "Donald Trump And Hillary Clinton Aides Tussle Over Campaign At Harvard | NBC News",
             "secondDuration": 496,
@@ -61,8 +55,14 @@
             "title": "Tim Kaine: Congress Unwilling To Debate War Authorization Is ‘Height Of Immorality’ | NBC News",
             "secondDuration": 181,
             "group": "group_7"
+        },
+        {
+            "videoId": "9uJSMuRp0F4",
+            "title": "Tennessee Tornado Survivor: I Thought We All Were Gonna Die | NBC News",
+            "secondDuration": 85,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

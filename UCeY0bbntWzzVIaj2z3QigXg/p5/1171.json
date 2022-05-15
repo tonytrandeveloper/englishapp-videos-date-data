@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "STnG4tIX100",
-            "title": "NBC News NOW Full Broadcast - July 19, 2021",
-            "secondDuration": 3026,
-            "group": "group_7"
-        },
-        {
             "videoId": "ra_Yu1ZFpZk",
             "title": "U.S. Accuses China Of Cyberattacks | NBC Nightly News",
             "secondDuration": 99,
@@ -31,8 +25,14 @@
             "title": "Jeff Bezos poised to be second billionaire in space",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "5IjvGolBgds",
+            "title": "Inside A Florida Hospital During Nationwide Covid Surge",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

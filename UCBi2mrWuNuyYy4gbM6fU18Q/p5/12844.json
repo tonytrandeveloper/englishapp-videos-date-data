@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dYxwx4fREzY",
-            "title": "Health Care: Debating 'Deem and Pass'",
-            "secondDuration": 311,
-            "group": "group_7"
-        },
-        {
             "videoId": "vTKuc9xFoxg",
             "title": "Gerard Butler Is 'The Bounty Hunter'",
             "secondDuration": 341,
@@ -31,8 +25,14 @@
             "title": "Tiger Woods Returns to Golf",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "VWYpViL-30A",
+            "title": "A Legislative Card Trick",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

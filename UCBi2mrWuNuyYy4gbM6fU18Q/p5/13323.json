@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j23QBe_yURk",
-            "title": "The Mommy Blogger",
-            "secondDuration": 231,
-            "group": "group_7"
-        },
-        {
             "videoId": "Qr--RC-KIXU",
             "title": "Mitt Romney on GOP Future",
             "secondDuration": 758,
@@ -31,8 +25,14 @@
             "title": "Bottom Line on Health Care",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "p6ZGz5TjBks",
+            "title": "Iranian Unrest Over Elections",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

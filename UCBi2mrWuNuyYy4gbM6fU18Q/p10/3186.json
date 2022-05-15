@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mDhsRztNIa4",
-            "title": "John Glenn Receives the Presidential Medal of Freedom in 2012 | ARCHIVAL VIDEO",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "7iXEIc0ClbQ",
             "title": "Hillary Clinton Full Speech at Harry Reid Portrait Unveiling",
             "secondDuration": 565,
@@ -61,8 +55,14 @@
             "title": "Double Amputee Handcuffed by Cops, Falls to Ground",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "dW7ypwSlcak",
+            "title": "Deadly Chain of Car Crashes on Icy I-96 Kills at Least 2",
+            "secondDuration": 39,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

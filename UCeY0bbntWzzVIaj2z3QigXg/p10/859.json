@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "uhh1Bw24XI8",
-            "title": "NBC News Exclusive: Jacob Soboroff Interviews Homeland Security Sec. Alejandro Mayorkas | NBC News",
-            "secondDuration": 1166,
-            "group": "group_7"
-        },
-        {
             "videoId": "b8xM95kyHws",
             "title": "Covid Long-Haulers Desperate To Find Treatment | NBC News NOW",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "CDC Creating New Guidelines For People Who Are Fully Vaccinated | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "DCavIpG_uLs",
+            "title": "Biden Holds Roundtable On The American Rescue Plan | NBC News",
+            "secondDuration": 746,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

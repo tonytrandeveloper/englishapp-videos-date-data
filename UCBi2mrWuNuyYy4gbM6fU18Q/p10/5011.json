@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6jVUc_4n6I4",
-            "title": "Alex Rodriguez Accuses MLB of Smear Campaign",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "-gBgRK_0Prg",
             "title": "'Scandal' Season 3 Behind the Scenes Look",
             "secondDuration": 169,
@@ -61,8 +55,14 @@
             "title": "Government Shutdown View from Pakistan: Jameel",
             "secondDuration": 51,
             "group": "group_7"
+        },
+        {
+            "videoId": "5Z4_B99QXoE",
+            "title": "Government Shutdown View from Pakistan: Saifullah",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

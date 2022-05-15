@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZqX3JRgmSfc",
-            "title": "Justice Dept Files Undisclosed Criminal Charges Against Wikileaks Founder Assange | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "8wa5nkSPA_s",
             "title": "More Than 600 Missing In Northern California Wildfire | NBC Nightly News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Nico Tortorella, Alok Vaid-Menon On Trump Administration’s Transgender Proposal | NBC News Signal",
             "secondDuration": 230,
             "group": "group_7"
+        },
+        {
+            "videoId": "iNPK89FX93A",
+            "title": "Switching Sides: Has #MeToo Become Weaponized? | NBC News Signal",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

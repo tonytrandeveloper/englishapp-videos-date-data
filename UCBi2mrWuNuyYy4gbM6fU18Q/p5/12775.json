@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vomkNSluWW4",
-            "title": "The Conversation: iPad Gives Voice to the Autistic",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "RpZboCz7x34",
             "title": "Sen. Carl Levin on Goldman Hearings",
             "secondDuration": 269,
@@ -31,8 +25,14 @@
             "title": "Blankfein: Goldman Shares Burden of Failure",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "EhmU9kuX4-A",
+            "title": "Goldman and Greed",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

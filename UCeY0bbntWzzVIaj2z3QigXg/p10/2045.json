@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oDVR1PbyjGk",
-            "title": "Discovering You: Corey Baker | NBC Learn",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "9DtKXbiWwtE",
             "title": "Where Did They Go? Arkansas Hunters At A Loss As Ducks Disappear | NBC News",
             "secondDuration": 807,
@@ -61,8 +55,14 @@
             "title": "Alexandria Ocasio-Cortez Warns Of Failed Policies 'Waiting To Unravel' | NBC News",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "YXj0mr4HJlw",
+            "title": "Joe Biden Jokes About Personal Space After Giving Hug: 'I Had Permission' | NBC News",
+            "secondDuration": 81,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

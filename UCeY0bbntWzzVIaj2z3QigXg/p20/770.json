@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "lWh_9IL90N4",
-            "title": "Joe Biden Promises ‘Bold Progressive Vision’ After Primary Wins | NBC News",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "1ZzXCxDDN3I",
             "title": "Washington Voters Show Resilience Amid Coronavirus Outbreak | NBC News NOW",
             "secondDuration": 227,
@@ -121,8 +115,14 @@
             "title": "Dow Jones Climbs Over 1,100 Points After Historic Day Of Losses | NBC News NOW",
             "secondDuration": 293,
             "group": "group_7"
+        },
+        {
+            "videoId": "0vwz73d98KE",
+            "title": "CDC Director Dr. Robert Redfield Testifies Before House | NBC News (Live Stream Recording)",
+            "secondDuration": 3254,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

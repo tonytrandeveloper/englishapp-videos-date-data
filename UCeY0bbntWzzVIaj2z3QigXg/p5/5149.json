@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "v7e6U71OYGc",
-            "title": "So, You've Deleted Facebook. Now What? | Better | NBC News",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "FKZAPXKksXM",
             "title": "Senator Ernst: Trump Needs To Come To Congress For Further Syria Strikes | Meet The Press | NBC News",
             "secondDuration": 509,
@@ -31,8 +25,14 @@
             "title": "Video Shows Damage To Syrian Chemical Center After Strikes | NBC News",
             "secondDuration": 78,
             "group": "group_7"
+        },
+        {
+            "videoId": "XTaF_nUL78w",
+            "title": "US Strike On Syria Will ‘Significantly Impact’ Future Chemical Weapons Programs | NBC News",
+            "secondDuration": 165,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

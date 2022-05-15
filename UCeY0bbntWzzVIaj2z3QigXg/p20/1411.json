@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "yA8EU1FUu80",
-            "title": "Jeff Flake's Senate Floor Speech On President Donald Trump: 'I Will Not Be Complicit' | NBC News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "gkj3uWB5Wxo",
             "title": "Jeff Flake's Senate Floor Speech On His Retirement, GOP's Future, President Trump (Full) | NBC News",
             "secondDuration": 1056,
@@ -121,8 +115,14 @@
             "title": "President Donald Trump Lobbies For Major Overhaul Of Tax Code | NBC Nightly News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "rq7lMmeVQGM",
+            "title": "New Information Emerges On Niger Ambush | NBC Nightly News",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

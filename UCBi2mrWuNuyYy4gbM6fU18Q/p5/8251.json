@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AXblsDITMpg",
-            "title": "Arnold Schwarzenegger Is Back as New 'Celebrity Apprentice' Host",
-            "secondDuration": 135,
-            "group": "group_7"
-        },
-        {
             "videoId": "RsHCXxsk6Z0",
             "title": "'Monday Night Football' Kicks Off",
             "secondDuration": 87,
@@ -31,8 +25,14 @@
             "title": "Kentucky County Clerk, Kim Davis Back to Work",
             "secondDuration": 93,
             "group": "group_7"
+        },
+        {
+            "videoId": "q_9kuPpJ-4E",
+            "title": "Exclusive: Backstage at New York Fashion Week With Victoria Beckham",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "k8kutt0PTbM",
-            "title": "Webcast: Solar Flare 2012; Doritos Taco Bell",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mdq29Yj6UZg",
             "title": "ABC Overnight Anchors Have Disco Party",
             "secondDuration": 26,
@@ -31,8 +25,14 @@
             "title": "Apple Unveils the New iPad",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "KbpJ4uuI7Zo",
+            "title": "Revenge for Real: Murder in the Hamptons",
+            "secondDuration": 539,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

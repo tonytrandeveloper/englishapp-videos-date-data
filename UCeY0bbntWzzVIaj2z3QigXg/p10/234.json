@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "EXlyLPGI9W0",
-            "title": "Inside Pittsburgh Children’s Hospital Overwhelmed By Covid Cases",
-            "secondDuration": 178,
-            "group": "group_7"
-        },
-        {
             "videoId": "Bx559bk0Q6o",
             "title": "Covid Testing Company Under Investigation Amid Growing Consumer Complaints",
             "secondDuration": 144,
@@ -61,8 +55,14 @@
             "title": "LIVE: White House Holds Press Briefing | NBC News",
             "secondDuration": 2341,
             "group": "group_7"
+        },
+        {
+            "videoId": "4ILii-zIuSs",
+            "title": "Biden Announces More Federal Help To Hospitals During Covid Surge",
+            "secondDuration": 463,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

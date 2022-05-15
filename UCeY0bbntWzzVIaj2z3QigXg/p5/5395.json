@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x38PFzXmAKI",
-            "title": "Winter Weather Turns Deadly Across U.S. | NBC Nightly News",
-            "secondDuration": 81,
-            "group": "group_7"
-        },
-        {
             "videoId": "9B4-vJAFqLM",
             "title": "Time Is Running Out To Avoid Government Shutdown | NBC Nightly News",
             "secondDuration": 132,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Adds Confusion To Shutdown Battle | NBC Nightly News",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "JuAoQraxpR8",
+            "title": "President Trump Pennsylvania Speech: ‘We’re Gonna Win A Lot Of Elections, I Can Tell You’ | NBC News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

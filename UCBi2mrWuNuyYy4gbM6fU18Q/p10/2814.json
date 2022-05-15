@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PqU9XQO7Gcw",
-            "title": "Fiery crash snarls traffic in Kansas City, Missouri",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "_Sp_-E2jmlc",
             "title": "Charlottesville holds memorial service for woman killed in car ramming",
             "secondDuration": 193,
@@ -61,8 +55,14 @@
             "title": "RNC chairwoman reacts to Charlottesville violence, Trump's remarks",
             "secondDuration": 332,
             "group": "group_7"
+        },
+        {
+            "videoId": "dz69He6kQvY",
+            "title": "Trump lashes out at 'alt-left' in Charlottesville",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

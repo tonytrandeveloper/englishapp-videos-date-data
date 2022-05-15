@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Minc2Mzc0C0",
-            "title": "U.S. Soldier Has Survived 7 Bomb Attacks, Still Serving",
-            "secondDuration": 449,
-            "group": "group_7"
-        },
-        {
             "videoId": "CbaI36qwVuQ",
             "title": "L.A. Lawyer Brings Hope, Learning to Soweto AIDS Orphans",
             "secondDuration": 358,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Buffed out Bods",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "fBe2sMBO8ys",
+            "title": "In Case You Missed It - 7/5/2013",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AxfdT7LXBD8",
-            "title": "An Early Black Friday! | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "3J1Z2P6XqTg",
             "title": "Mueller Probing Possible Deal Between Turks, Flynn During Presidential Transition | NBC Nightly News",
             "secondDuration": 121,
@@ -61,8 +55,14 @@
             "title": "President Donald Trump Hails Vietnam Veterans: 'Tough And Smart Cookies' | NBC News",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "P93PEKO3G0k",
+            "title": "Louis CK Accused Of Sexual Misconduct By Five Women | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

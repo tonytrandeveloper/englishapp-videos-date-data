@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "JjB1PKVyGNw",
-            "title": "FDA Cracking Down On Inaccurate Coronavirus Antibody Tests | NBC Nightly News",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "iVryFj6Z0_8",
             "title": "Coronavirus Linked To Rare Condition In Children | NBC Nightly News",
             "secondDuration": 117,
@@ -31,8 +25,14 @@
             "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4509,
             "group": "group_7"
+        },
+        {
+            "videoId": "hUzlpIxXbtM",
+            "title": "50 Years Later: Kent State Shooting | NBC Nightly News",
+            "secondDuration": 116,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

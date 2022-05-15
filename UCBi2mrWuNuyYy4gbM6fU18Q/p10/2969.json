@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vDaid4Hh1gA",
-            "title": "President Donald Trump full spech from Kenosha, Wisconsin Snap-on Tools headquarters 4/18/2017",
-            "secondDuration": 1548,
-            "group": "group_7"
-        },
-        {
             "videoId": "Akv3BrOGQ60",
             "title": "North Korea says it's 'ready' for US attack as Pence heads to Japan",
             "secondDuration": 204,
@@ -61,8 +55,14 @@
             "title": "Ivanka Trump's brand in the spotlight over reported new trademarks",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "ncGUfZDBv-Y",
+            "title": "North Korea test missiles, challenges US with nuclear war threats | ABC News",
+            "secondDuration": 560,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

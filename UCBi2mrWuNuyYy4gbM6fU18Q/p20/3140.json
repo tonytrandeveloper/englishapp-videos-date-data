@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "z7GI0pni5Ao",
-            "title": "Hospital Shooting Has Precendent",
-            "secondDuration": 339,
-            "group": "group_7"
-        },
-        {
             "videoId": "6WwaWlMb1yc",
             "title": "Wall Street Fuming About the New Sheriff in Town",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Patricia Heaton: Back in 'The Middle'",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "gifEd6TsJdo",
+            "title": "Mothers Wait for Sons' Release From Iran",
+            "secondDuration": 231,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "RCa6nkvW1t4",
-            "title": "Cops say Tennessee teacher may have planned abduction of 15-year-old student in advance",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "Xq6eEn6AEvs",
             "title": "Little girl rescued from Hurricane Katrina reunited with the airman who saved her",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "Suspect in Paris airport attack was known to French authorities as a 'radicalized Muslim'",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "r2oBnyiUUdI",
+            "title": "Attack on soldier creates chaos at Paris airport",
+            "secondDuration": 174,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

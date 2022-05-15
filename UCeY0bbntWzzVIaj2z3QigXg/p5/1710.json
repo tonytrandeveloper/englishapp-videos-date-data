@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-PqXGSBls5o",
-            "title": "NBC News NOW Full Broadcast - March 8th, 2021 | NBC News NOW",
-            "secondDuration": 3123,
-            "group": "group_7"
-        },
-        {
             "videoId": "HQBsglyKiH4",
             "title": "Covid Vaccinated People Should Still Be Taking Precautions Despite New CDC Guidance | NBC News NOW",
             "secondDuration": 354,
@@ -31,8 +25,14 @@
             "title": "Exclusive: Iceland PM Speaks On Nation’s Covid Response, Women In Leadership | NBC Nightly News",
             "secondDuration": 121,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZChMNz-sfek",
+            "title": "Gov. Cuomo Defiant As Calls To Resign Mount | NBC Nightly News",
+            "secondDuration": 115,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "vgpcYrurBNA",
-            "title": "Donald Trump Tax Returns Leaked From 1995",
-            "secondDuration": 290,
-            "group": "group_7"
-        },
-        {
             "videoId": "_2Q5hu92u9Q",
             "title": "Alec Baldwin as Donald Trump SNL Debut",
             "secondDuration": 236,
@@ -31,8 +25,14 @@
             "title": "Philadelphia Police Fire More Than 100 Gunshots",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "mD-EdOCiIjc",
+            "title": "Saving Soldiers' Lives on the Battlefield Begins with High-Tech Training",
+            "secondDuration": 246,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

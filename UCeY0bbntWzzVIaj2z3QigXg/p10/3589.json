@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sMG57uDnCJc",
-            "title": "Utah Jazz Signs 5 Year Old With Leukemia | 3rd Block | NBC News",
-            "secondDuration": 30,
-            "group": "group_7"
-        },
-        {
             "videoId": "892OoNNph_M",
             "title": "Enterovirus D-68: What You Need To Know | NBC News",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Typhoon Phanfone Hits Japan, Kills U.S. Serviceman | NBC News",
             "secondDuration": 72,
             "group": "group_7"
+        },
+        {
+            "videoId": "Nt3D8Dw_Zlk",
+            "title": "Secret Service Names New Director: Joseph Clancy | NBC News",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

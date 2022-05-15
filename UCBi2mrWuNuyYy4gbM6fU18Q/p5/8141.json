@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dX5A6zyUvdE",
-            "title": "One Direction Breaks Billboard Record | ABC News",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "cg3iLEzbDmc",
             "title": "Violent Classroom Arrest Probed by FBI",
             "secondDuration": 135,
@@ -31,8 +25,14 @@
             "title": "Power Outage Halts World Series",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ro2hlwP03iI",
+            "title": "FBI Investigating Classroom Takedown in South Carolina",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

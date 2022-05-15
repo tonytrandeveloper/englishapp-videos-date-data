@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FqiXKN08ANA",
-            "title": "Amplified SXSW: Fools Gold",
-            "secondDuration": 456,
-            "group": "group_7"
-        },
-        {
             "videoId": "b-RpmUN9irY",
             "title": "Student Beaten by Cops Fights Back",
             "secondDuration": 372,
@@ -31,8 +25,14 @@
             "title": "Strong Earthquake Kills Hundreds in China",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "H6OlaDVcOgw",
+            "title": "Flipping a Flop",
+            "secondDuration": 195,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

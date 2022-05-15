@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "nJqttjXTjTs",
-            "title": "Uber's Scandal-Plagued 2017 Explained From Sexual Harassment To Travel Ban | NBC News",
-            "secondDuration": 109,
-            "group": "group_7"
-        },
-        {
             "videoId": "g7wjZdpfLPs",
             "title": "Robots Sparking Debate About Sentience, Autonomy, Identity, And Dangers Of AI | Mach | NBC News",
             "secondDuration": 180,
@@ -31,8 +25,14 @@
             "title": "Pres. Donald Trump Has Offered Bold Policies, But Still No Big Legislation Passed | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "J8IH2Tmju70",
+            "title": "Prosecutors: May Be More To Alleged NSA Leaker Reality Winner’s Story | NBC Nightly News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

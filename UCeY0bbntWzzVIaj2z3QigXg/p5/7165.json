@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zH5mnv25EGs",
-            "title": "AT&T Unlimited Data Plans Misleading | NBC News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "bNtF9mxlrqw",
             "title": "NASA-Contracted Rocket Explodes | NBC News",
             "secondDuration": 69,
@@ -31,8 +25,14 @@
             "title": "Adorable Puppy Wears Boston Police K-9 Vest | 3rd Block | NBC News",
             "secondDuration": 29,
             "group": "group_7"
+        },
+        {
+            "videoId": "UxbKMD2ob9w",
+            "title": "Ebola Containment Assessed By U.S. Ambassador | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

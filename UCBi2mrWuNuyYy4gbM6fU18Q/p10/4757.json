@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "l5BKMSAnVZw",
-            "title": "Pope Francis Tweets For Safety of Nigerian Schoolgirls",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "gzIXVzhK4FY",
             "title": "Puff Daddy Receives Honorary Doctorate From Howard University",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Growing Traffic in Our Skies:  Drone Almost Hits Passenger Plane",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "PgcdKZ9tGss",
+            "title": "Severe Spring Weather Across the Midwest",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

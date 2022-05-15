@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VEQgWMCslhs",
-            "title": "Donald Trump Responds to Latest Presidential Poll | ABC News",
-            "secondDuration": 240,
-            "group": "group_7"
-        },
-        {
             "videoId": "o0DRkaNpqcA",
             "title": "'Big Bang Theory' Star Kaley Cuoco's Ex Requests Spousal Support",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Meet the 'Back to the Future' Fan Building Tricked-Out DeLoreans",
             "secondDuration": 225,
             "group": "group_7"
+        },
+        {
+            "videoId": "10hRo2XEiKI",
+            "title": "Google Employee Living in His Truck",
+            "secondDuration": 185,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

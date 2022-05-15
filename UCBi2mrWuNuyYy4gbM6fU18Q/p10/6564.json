@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "x1OyYCo5Moo",
-            "title": "Eureka! Water Found on the Moon",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "fexUmOEBMPo",
             "title": "Adultery Victim Speaks Out at Face-Off",
             "secondDuration": 138,
@@ -61,8 +55,14 @@
             "title": "Jake Tapper on Obama's Diplomatic Dance",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "e-I_A8ovL0w",
+            "title": "Not in My Backyard! Gaddafi's Tent Trouble",
+            "secondDuration": 157,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

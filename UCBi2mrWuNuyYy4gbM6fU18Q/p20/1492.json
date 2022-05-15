@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ZGLYe82dcbA",
-            "title": "US launches military strike on Syria",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "zfx7R_FhBYI",
             "title": "US launches military strike on Syria after alleged chemical attack | ABC News",
             "secondDuration": 744,
@@ -121,8 +115,14 @@
             "title": "Trump defends Fox News' Bill O'Reilly",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "8L_VNiJqtXg",
+            "title": "Pepsi apologizes for new ad after receiving huge backlash",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

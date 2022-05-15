@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Ixg6vAyJWWg",
-            "title": "Live: Trump Holds Press Briefing on Coronavirus Testing | NBC News",
-            "secondDuration": 3709,
-            "group": "group_7"
-        },
-        {
             "videoId": "JzMEGcTW4e0",
             "title": "Live: California Gov. Newsom Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2271,
@@ -61,8 +55,14 @@
             "title": "Hairdresser Reopens For Business The Moment French Lockdown Eases | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "2xf7cRQCwAw",
+            "title": "Skateboarder Uses School's COVID-19 Lockdown To Pull Off 1080-Degree Turn | NBC News",
+            "secondDuration": 73,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

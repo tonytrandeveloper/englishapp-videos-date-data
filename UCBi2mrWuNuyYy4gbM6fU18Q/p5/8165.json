@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "yMuf5-ikQXk",
-            "title": "Seth Rogen Throws James Franco a Bar Mitzvah",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8INVU_dJM4k",
             "title": "Deadly Shooting in Israel | ABC News",
             "secondDuration": 129,
@@ -31,8 +25,14 @@
             "title": "Jilted Bride Gives Back",
             "secondDuration": 183,
             "group": "group_7"
+        },
+        {
+            "videoId": "bmu9E2MmpNw",
+            "title": "Fall Freeze: Frosty Temperatures Come Early",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

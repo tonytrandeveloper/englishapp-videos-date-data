@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Qe-7BWuH4Ug",
-            "title": "N.J. Gov. Phil Murphy Announces State Parks, Golf Courses Will Reopen May 2 | NBC News NOW",
-            "secondDuration": 270,
-            "group": "group_7"
-        },
-        {
             "videoId": "HHY7euv8uvM",
             "title": "Live: New Jersey Governor Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 4080,
@@ -121,8 +115,14 @@
             "title": "Oxford University Scientists Say Coronavirus Vaccine Could Be Ready By Year’s End | NBC Nightly News",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "hCSYxtBhQZM",
+            "title": "First Coronavirus Antibody Test Without Doctor’s Visit Now Available | NBC Nightly News",
+            "secondDuration": 129,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

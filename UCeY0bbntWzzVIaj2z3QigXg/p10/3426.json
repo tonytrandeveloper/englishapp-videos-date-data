@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ycJkm_6-dEY",
-            "title": "Bernie Sanders Celebrates ‘Virtual Tie’ With Hillary Clinton | NBC News",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "u7uFBciMaS0",
             "title": "Ted Cruz Wins Iowa Caucus: NBC News Projection | NBC News",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Brendan Dassey’s Attorneys Speak Out On Steven Avery Investigation | Dateline | NBC News",
             "secondDuration": 317,
             "group": "group_7"
+        },
+        {
+            "videoId": "NF-6RRLM8ZU",
+            "title": "Tom Brokaw on Iowa’s Relationship With the Presidential Election Circus | NBC Nightly News",
+            "secondDuration": 156,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

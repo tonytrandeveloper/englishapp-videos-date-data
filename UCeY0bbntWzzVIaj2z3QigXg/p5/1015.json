@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dGXqpYF-6yQ",
-            "title": "Hurricane Ida Leaves Destruction In Houma, Louisiana",
-            "secondDuration": 138,
-            "group": "group_7"
-        },
-        {
             "videoId": "wi5nX5KU_Qc",
             "title": "Nurses Cared For NICU Babies During Hurricane Ida",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "America’s Longest War Ends As Final Flight Leaves Kabul",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "x2RIl4ZDyNw",
+            "title": "Hurricane Ida: Search And Rescue Underway In Louisiana",
+            "secondDuration": 209,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

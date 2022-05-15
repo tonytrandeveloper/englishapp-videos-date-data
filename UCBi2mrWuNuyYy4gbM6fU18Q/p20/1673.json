@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4J5FZ2uqUnc",
-            "title": "Deadliest Catch the Untold Story | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "tMtoSEb9tK0",
             "title": "Rolling Stones - Blue & Lonesome Announced",
             "secondDuration": 63,
@@ -121,8 +115,14 @@
             "title": "Obama Full Speech on Paris Climate Agreement",
             "secondDuration": 304,
             "group": "group_7"
+        },
+        {
+            "videoId": "bp8aZZcsP_I",
+            "title": "Father Billed $40 for Holding Baby After Delivery",
+            "secondDuration": 41,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

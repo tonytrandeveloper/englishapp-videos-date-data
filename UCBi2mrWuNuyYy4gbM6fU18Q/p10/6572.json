@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Cq2Of60vG8s",
-            "title": "How Soldiers Avoid Civilian Casualties",
-            "secondDuration": 119,
-            "group": "group_7"
-        },
-        {
             "videoId": "qejqknJdIqw",
             "title": "Swayze: The Walters Interviews",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "Held Captive",
             "secondDuration": 533,
             "group": "group_7"
+        },
+        {
+            "videoId": "pVqGEB7misI",
+            "title": "The Pain of Unemployment",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

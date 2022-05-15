@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GUCvRSPnIOg",
-            "title": "Restaurant employee takes on 3 gunmen in attempted robbery",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "LeUBypjxoWE",
             "title": "Nor’easter brings massive storm surge and flooding to East Coast",
             "secondDuration": 237,
@@ -31,8 +25,14 @@
             "title": "Mystery of woman's death deepens and her boyfriend's son dies in the hospital: 20/20 Part 2",
             "secondDuration": 408,
             "group": "group_7"
+        },
+        {
+            "videoId": "r-ACqly_aF4",
+            "title": "Massive 'bomb cyclone' pounds Northeast",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

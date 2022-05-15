@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "D-oRQKesczo",
-            "title": "Toddler offers free hugs to strangers at Atlanta festival",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "cXxJe-fjNHg",
             "title": "Man found guilty on all counts in New York City subway bomb attack",
             "secondDuration": 90,
@@ -31,8 +25,14 @@
             "title": "'The Debrief': 2018 Midterm election day, Tennessee tornadoes | ABC News",
             "secondDuration": 1600,
             "group": "group_7"
+        },
+        {
+            "videoId": "1RB8ICFmhXs",
+            "title": "New concerns about election security as voters head to the polls",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

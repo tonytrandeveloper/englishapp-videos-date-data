@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Vv8ZLBcKlZM",
-            "title": "Index: Lesley Gore Dies at Age 68",
-            "secondDuration": 57,
-            "group": "group_7"
-        },
-        {
             "videoId": "LVxFqZi7-Hk",
             "title": "Woman Stung on Plane by Stowaway Scorpion",
             "secondDuration": 119,
@@ -121,8 +115,14 @@
             "title": "NBA Star Visits Group of Students Leading Up to All-Star Game",
             "secondDuration": 168,
             "group": "group_7"
+        },
+        {
+            "videoId": "PmByq-3hsnk",
+            "title": "Boston Mayor Addresses Harsh Winter Conditions",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

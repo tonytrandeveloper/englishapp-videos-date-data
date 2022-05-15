@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "XW3nL6Or3qU",
-            "title": "Live: NYC Mayor Bill De Blasio Holds Coronavirus Briefing | NBC News",
-            "secondDuration": 4145,
-            "group": "group_7"
-        },
-        {
             "videoId": "__9GHl3D3cA",
             "title": "NYC Heat Wave Initiative To Provide 74K Air Conditioners To Low-Income Seniors | NBC News NOW",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "‘Don’t Know How I’m Going To Survive’: Business Owners On Impact Of COVID-19 | NBC News NOW",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "wTYXauFgmrA",
+            "title": "Attorneys For Man Charged In Ahmaud Arbery Death Speak Out | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

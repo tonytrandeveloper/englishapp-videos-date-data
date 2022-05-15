@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CAKkiQNiTn8",
-            "title": "Homeland Security Sec. Kirstjen Nielsen On U.S. Election Meddling: 'It Was The Russians' | NBC News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "-Thsppek9h4",
             "title": "This Personal Flying Vehicle Is Ready For Take Off | Mach | NBC News",
             "secondDuration": 85,
@@ -61,8 +55,14 @@
             "title": "Bode Miller And Morgan Miller Speak Out After Daughter's Drowning | NBC Nightly News",
             "secondDuration": 171,
             "group": "group_7"
+        },
+        {
+            "videoId": "7eHEWXtAlK8",
+            "title": "Bodycam Footage Of Minneapolis Police Shooting Released | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

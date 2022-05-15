@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "wmRysxkj8y4",
-            "title": "What Makes Portland So Bike Friendly? | NBC Nightly News",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "kER9xtM9JN4",
             "title": "New FDA Requirement Will Reveal Calories In Alcohol | NBC Nightly News",
             "secondDuration": 94,
@@ -301,8 +295,14 @@
             "title": "Will North Korea Release Three American Prisoners? | NBC Nightly News",
             "secondDuration": 113,
             "group": "group_7"
+        },
+        {
+            "videoId": "uymkJwpxmWs",
+            "title": "New Allegations Against Charlie Rose And Multiple CBS Executives | NBC Nightly News",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

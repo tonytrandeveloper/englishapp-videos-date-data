@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Zn2hCQvBJ0U",
-            "title": "WATCH LIVE: ABC News Live Prime | ABC News",
-            "secondDuration": 3616,
-            "group": "group_7"
-        },
-        {
             "videoId": "moHGto3qxfM",
             "title": "Trump celebrates victory in impeachment trial l ABC News",
             "secondDuration": 216,
@@ -61,8 +55,14 @@
             "title": "Passenger jet slides off runway, breaks into pieces in Turkey",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "JHh2EwrXfP8",
+            "title": "Police release new video from mom’s storage facility in missing Idaho kids case",
+            "secondDuration": 199,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

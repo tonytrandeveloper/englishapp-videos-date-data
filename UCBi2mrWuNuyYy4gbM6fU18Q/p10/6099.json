@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "cNqMmZ0N-n8",
-            "title": "Snooki Taken Into Custody in Italy",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "hREp-krB1IY",
             "title": "The Land of the Brave",
             "secondDuration": 317,
@@ -61,8 +55,14 @@
             "title": "Interview with Mitch Daniels",
             "secondDuration": 182,
             "group": "group_7"
+        },
+        {
+            "videoId": "1tLogDeIgCg",
+            "title": "Casey Anthony's Car Had Smell of Death",
+            "secondDuration": 279,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "E86vxjlWPyg",
-            "title": "President Donald Trump Meets With Pope Francis At Vatican | NBC News",
-            "secondDuration": 849,
-            "group": "group_7"
-        },
-        {
             "videoId": "JmQp3mPqYA8",
             "title": "Manchester In Mourning: Bombing Victims Remembered | NBC Nightly News",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "Meet The Heroes Who Stepped Up To Help Manchester’s Survivors | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "_UoV5p8cdaQ",
+            "title": "How America Is Preparing For A Soft Target Terror Attack | NBC Nightly News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "T6izUbGy9hE",
-            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "QWbRvvDU8XE",
             "title": "Exclusive look inside a nuclear-powered guided missile submarine l ABC News",
             "secondDuration": 347,
@@ -61,8 +55,14 @@
             "title": "WATCH LIVE Pres. Trump holds campaign rally in Lexington, Kentucky | ABC News",
             "secondDuration": 5553,
             "group": "group_7"
+        },
+        {
+            "videoId": "zWB91CNB5Ug",
+            "title": "Trump demands identity of whistleblower",
+            "secondDuration": 200,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

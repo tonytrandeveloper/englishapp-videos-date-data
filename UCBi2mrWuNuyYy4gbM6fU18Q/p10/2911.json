@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y71tSCqvz54",
-            "title": "Andrea Constand takes the stand in the Bill Cosby sexual assault trial",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "B1wQuU66n6A",
             "title": "Donald Jr., Eric Trump take on their dad's critics",
             "secondDuration": 356,
@@ -61,8 +55,14 @@
             "title": "Disgruntled worker returns to job, kills 5 people and himself in Florida",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "7UyxCgI7gtE",
+            "title": "Bill Cosby goes on trial for alleged sexual assault",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

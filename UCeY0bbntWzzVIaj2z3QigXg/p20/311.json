@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gelmePuBHm8",
-            "title": "NBC Nightly News Broadcast (Full) - July 1st, 2021",
-            "secondDuration": 1280,
-            "group": "group_7"
-        },
-        {
             "videoId": "KsWQfjVkYK0",
             "title": "Protests Sparked As Turkey Quits International Treaty On Women’s Rights",
             "secondDuration": 109,
@@ -121,8 +115,14 @@
             "title": "Live: White House Covid-19 Response Briefing | NBC News",
             "secondDuration": 1681,
             "group": "group_7"
+        },
+        {
+            "videoId": "mhc4mE_ptQU",
+            "title": "Pelosi Appoints Republican Rep. Liz Cheney to Jan 6th Committee",
+            "secondDuration": 251,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

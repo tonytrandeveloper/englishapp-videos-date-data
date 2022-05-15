@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EaSqmd6vtkA",
-            "title": "Prince William Turns 30, Inherits $14 Million",
-            "secondDuration": 105,
-            "group": "group_7"
-        },
-        {
             "videoId": "vYfaxWe_y2k",
             "title": "Summer Solstice: Heat Wave Hits",
             "secondDuration": 195,
@@ -31,8 +25,14 @@
             "title": "Jet Blue Mechanical Failure Triggers Emergency Landing; FAA To Investigate",
             "secondDuration": 122,
             "group": "group_7"
+        },
+        {
+            "videoId": "vNbKXEJqgqo",
+            "title": "'Snooki and JWOWW' Interview; 'Jersey Shore' Spinoff Premieres on MTV",
+            "secondDuration": 170,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

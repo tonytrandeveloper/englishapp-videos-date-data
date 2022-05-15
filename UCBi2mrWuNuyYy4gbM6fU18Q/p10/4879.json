@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "de3H_KwxsJA",
-            "title": "American Athletes Arrive in Sochi Amid Terror Fears",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "7fdc6a0PsIA",
             "title": "Tim Tebow Faces Off Against Joe Montana in Football Food Fight",
             "secondDuration": 228,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Drone Delivery Trouble",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "FjRd0i6CsYg",
+            "title": "Son, Dad and Seahawks",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

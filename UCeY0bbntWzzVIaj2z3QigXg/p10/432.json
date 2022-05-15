@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "M9sTvot2_3Q",
-            "title": "Nightly News Full Broadcast - October 9th",
-            "secondDuration": 1298,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mg7yKToNWl8",
             "title": "Vaccine Mandates Hit Police Departments Nationwide",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Watch: Bodycam Shows Ohio Police Pull Disabled Black Man From Car",
             "secondDuration": 219,
             "group": "group_7"
+        },
+        {
+            "videoId": "mQRH0HhMKsQ",
+            "title": "Top Story with Tom Llamas Full Broadcast - October 8th | NBC News NOW",
+            "secondDuration": 2979,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

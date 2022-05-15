@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "ip-yDq0wlp8",
-            "title": "Mysterious 'Music' Heard in Outer Space",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "aEAGOwT_i8A",
             "title": "Megabus Explodes in Flames on Illinois Highway",
             "secondDuration": 137,
@@ -121,8 +115,14 @@
             "title": "Texas Couple Facing Lawsuit After Posting Review on Yelp",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "ATGyC6Sp_Ms",
+            "title": "Jeb Bush Suspends His Presidential Campaign",
+            "secondDuration": 418,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

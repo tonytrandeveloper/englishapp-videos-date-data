@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "zImSquX7Llw",
-            "title": "Arrest made in disappearance of Iowa jogger",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSpNjD-nGho",
             "title": "Paul Manafort found guilty on 8 counts",
             "secondDuration": 1799,
@@ -61,8 +55,14 @@
             "title": "Trump deports last Nazi war criminal in US back to Germany",
             "secondDuration": 177,
             "group": "group_7"
+        },
+        {
+            "videoId": "2giy2uSMq5M",
+            "title": "Trump discredits special counsel, calls Mueller's team 'thugs'",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pRI8u7pmF9c",
-            "title": "The Debrief: Trump in London, Virginia Beach shooting, Venice cruise ship crash | ABC News",
-            "secondDuration": 1594,
-            "group": "group_7"
-        },
-        {
             "videoId": "gvQPsB1IGd0",
             "title": "American couple found dead in Dominican Republic resort hotel room",
             "secondDuration": 153,
@@ -31,8 +25,14 @@
             "title": "NBA Finals: Warriors overcome another injured starter to win Game 2",
             "secondDuration": 172,
             "group": "group_7"
+        },
+        {
+            "videoId": "Muwlb-7H4y0",
+            "title": "Virginia Beach shooting: What we know so far",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CYxRoCfItwE",
-            "title": "US soccer stars prepare for World Cup parade",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "EkvLQTcf8tw",
             "title": "Calls grow for labor secretary to resign amid Jeffrey Epstein scandal",
             "secondDuration": 227,
@@ -31,8 +25,14 @@
             "title": "Marriott accused of hidden fees",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "LeHUiJGAZak",
+            "title": "UK ambassador resigns after leaked cables",
+            "secondDuration": 54,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "AoR3Ly4sLjM",
-            "title": "The Climate Challenge: Syrians Devastated By Environmental And Health Impacts Of Oil And War",
-            "secondDuration": 155,
-            "group": "group_7"
-        },
-        {
             "videoId": "Do7ZzZjrpSU",
             "title": "Arizona Governor Sends National Guard To Southern Border | NBC Nightly News",
             "secondDuration": 112,
@@ -301,8 +295,14 @@
             "title": "Steve Kornacki Crunches The Numbers On U.S. Covid Vaccinations | NBC News NOW",
             "secondDuration": 266,
             "group": "group_7"
+        },
+        {
+            "videoId": "djEiDpI23u0",
+            "title": "Families With Transgender Children Plan To Flee Their States As GOP Bills Loom | NBC News NOW",
+            "secondDuration": 177,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

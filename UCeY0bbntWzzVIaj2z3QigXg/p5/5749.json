@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UXRXi_MwRcc",
-            "title": "7.1-Magnitude Earthquake Rattles Mexico City | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "UO0hIASuAqY",
             "title": "Special Report: Deadly Earthquake Hits Central Mexico | NBC News",
             "secondDuration": 211,
@@ -31,8 +25,14 @@
             "title": "Reverend Al Sharpton: Now Is The Time To Stand Up Like Dr. Martin Luther King | NBC News",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "NB8Y8af0q1I",
+            "title": "How Yoga Changes Your Brain | Better | NBC News",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

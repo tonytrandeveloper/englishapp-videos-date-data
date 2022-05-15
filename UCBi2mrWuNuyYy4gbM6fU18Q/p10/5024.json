@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CKKNYaVTFWQ",
-            "title": "Keyshawn Johnson and Sharna Burgess Booted from 'Dancing With the Stars'",
-            "secondDuration": 349,
-            "group": "group_7"
-        },
-        {
             "videoId": "dGYk6PQ0CSk",
             "title": "Kenya Mall Attack: Kenyan Forces Take Control of Mall, Search for Terrorists",
             "secondDuration": 197,
@@ -61,8 +55,14 @@
             "title": "Emmys 2013: Backstage With the Winners",
             "secondDuration": 343,
             "group": "group_7"
+        },
+        {
+            "videoId": "VfjvcKVBWVk",
+            "title": "WEBCAST: Impromptu Landing Strip",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

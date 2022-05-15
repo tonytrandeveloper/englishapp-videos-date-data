@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "e2-5tUaMmtc",
-            "title": "ABC News Live: Trump in the UK, latest on Thailand cave rescue",
-            "secondDuration": 1268,
-            "group": "group_7"
-        },
-        {
             "videoId": "ROURUD1ARtM",
             "title": "Woman who was abandoned at birth sets out to meet her biological siblings",
             "secondDuration": 208,
@@ -31,8 +25,14 @@
             "title": "Documents suggest Cohen used WH connections for business",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "1LrfFIlGzFk",
+            "title": "Pres. Trump, PM May hold joint news conference in U.K",
+            "secondDuration": 3311,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

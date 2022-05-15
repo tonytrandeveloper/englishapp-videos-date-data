@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zImSquX7Llw",
-            "title": "Arrest made in disappearance of Iowa jogger",
-            "secondDuration": 143,
-            "group": "group_7"
-        },
-        {
             "videoId": "wSpNjD-nGho",
             "title": "Paul Manafort found guilty on 8 counts",
             "secondDuration": 1799,
@@ -31,8 +25,14 @@
             "title": "'The Briefing Room': Cohen plea deal, Manafort jury deliberates, Trump tweets on Mueller  | ABC News",
             "secondDuration": 1042,
             "group": "group_7"
+        },
+        {
+            "videoId": "lcB9sWRPg8U",
+            "title": "Former Trump attorney Michael Cohen reaches plea deal | ABC News",
+            "secondDuration": 1139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

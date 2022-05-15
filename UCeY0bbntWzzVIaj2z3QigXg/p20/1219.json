@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "vpP67Mb4nT0",
-            "title": "President Donald Trump Speaks At VFW Convention In Kansas City | NBC News",
-            "secondDuration": 3604,
-            "group": "group_7"
-        },
-        {
             "videoId": "ZptvtvMO4-Q",
             "title": "Jeff Sessions Laughs As Students Chant 'Lock Her Up' During Speech | NBC News",
             "secondDuration": 117,
@@ -121,8 +115,14 @@
             "title": "Fiery Kilauea Volcano Continues To Spout Lava On Hawai’i | NBC Nightly News",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "AoWBizz0PpI",
+            "title": "3-Year-Old Dies After Being Left In A Hot Van | NBC Nightly News",
+            "secondDuration": 108,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

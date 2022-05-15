@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "d3OXLZBZjgY",
-            "title": "President Donald Trump: James Comey ‘Wasn't Doing A Good Job' | NBC News",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "FWuBY96XWng",
             "title": "VP Mike Pence Denies Connection Between James Comey Firing And Russia Probe | NBC news",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Dianne Feinstein Calls James Comey’s Firing ‘Beyond Surprising’ | NBC News",
             "secondDuration": 89,
             "group": "group_7"
+        },
+        {
+            "videoId": "5gDolstPPw4",
+            "title": "Russian FM Lavrov Comments Sarcastically On James Comey Firing At Rex Tillerson Photo Op | NBC News",
+            "secondDuration": 58,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

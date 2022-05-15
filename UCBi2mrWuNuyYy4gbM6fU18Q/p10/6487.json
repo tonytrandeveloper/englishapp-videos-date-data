@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "AsiyFMMgc70",
-            "title": "Christmas Eve Security Scare for Pope",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "O4qfRGTeyu0",
             "title": "Never on Sundays",
             "secondDuration": 492,
@@ -61,8 +55,14 @@
             "title": "Train Hits Tree",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "4JCO2sQaeLg",
+            "title": "Christmas Miracle: Church's Window Saved",
+            "secondDuration": 94,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

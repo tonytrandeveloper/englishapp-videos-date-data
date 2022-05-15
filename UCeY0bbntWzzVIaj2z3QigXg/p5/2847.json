@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kUvYXfxqXiE",
-            "title": "Americans Donate Stimulus Checks To Help Others In Need | NBC Nightly News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "qK_n5wT_byc",
             "title": "Florida Gov. DeSantis holds coronavirus briefing | NBC News",
             "secondDuration": 2788,
@@ -31,8 +25,14 @@
             "title": "Vaccine Tests Should Have Results By 'Early June': Oxford Professor | Meet The Press | NBC News",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "PBKKq35Ah4c",
+            "title": "Full Inglesby: In Fall, We'll Have 'Two, Concurrent Large Public Health Challenges' | Meet The Press",
+            "secondDuration": 470,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MN1RgyuLNq0",
-            "title": "After 18 Kids, Family Prays for More",
-            "secondDuration": 483,
-            "group": "group_7"
-        },
-        {
             "videoId": "aK2AArI4vh0",
             "title": "Steve Jobs Resigns as Apple CEO",
             "secondDuration": 329,
@@ -61,8 +55,14 @@
             "title": "Earthquake in New York: Epicenter Near Richmond, Virginia; Washington Monument Cracks",
             "secondDuration": 162,
             "group": "group_7"
+        },
+        {
+            "videoId": "S31K-8-xkdU",
+            "title": "Glenn Campbell Diagnosed With Alzheimer's Disease",
+            "secondDuration": 323,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

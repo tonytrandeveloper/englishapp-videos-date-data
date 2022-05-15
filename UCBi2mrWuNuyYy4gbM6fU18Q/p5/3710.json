@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2UWVO0Trd1c",
-            "title": "ABC News Democratic Debate - WATCH THE FULL DEBATE (2019)",
-            "secondDuration": 9208,
-            "group": "group_7"
-        },
-        {
             "videoId": "Y49rfCnGW1g",
             "title": "O'Rourke takes a stand against gun violence after Texas shootings",
             "secondDuration": 186,
@@ -31,8 +25,14 @@
             "title": "Harris defends work as prosecutor after she’s questioned during debate",
             "secondDuration": 383,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZSeDLAXGfYA",
+            "title": "ABC News talks about Trump’s take on Democrats",
+            "secondDuration": 215,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

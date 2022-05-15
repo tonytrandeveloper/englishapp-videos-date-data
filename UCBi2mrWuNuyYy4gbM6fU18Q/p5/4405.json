@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iOfZiYM57bM",
-            "title": "A Washington Post report claims President Trump concealed details of talks with Putin",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "C-oWctIwj0s",
             "title": "Jonathan Karl: Mueller report is 'almost certain to be anti-climactic'",
             "secondDuration": 632,
@@ -31,8 +25,14 @@
             "title": "No payday for federal employees due to government shutdown",
             "secondDuration": 159,
             "group": "group_7"
+        },
+        {
+            "videoId": "spLgIyUH2DU",
+            "title": "Shooting chaos at a New Jersey mall",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

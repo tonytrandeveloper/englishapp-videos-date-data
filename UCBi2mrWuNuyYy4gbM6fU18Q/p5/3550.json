@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "j8uyEpYalqE",
-            "title": "New rideshare, taxi rules lead to travel nightmares at airports",
-            "secondDuration": 168,
-            "group": "group_7"
-        },
-        {
             "videoId": "5GUtP-H-77I",
             "title": "US family killed on way to wedding in Mexico l ABC News",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "Trump rallies to hold governor’s seat in Kentucky | ABC News",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "T6izUbGy9hE",
+            "title": "FBI arrests man accused of plotting to bomb synagogue l ABC News",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

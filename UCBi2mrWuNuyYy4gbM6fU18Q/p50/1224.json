@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "iP3swfak8Kg",
-            "title": "Who Is 'Coolest' 2012 Candidate?",
-            "secondDuration": 241,
-            "group": "group_7"
-        },
-        {
             "videoId": "NlpeGuorKhM",
             "title": "Jon Huntsman Hits South Carolina",
             "secondDuration": 396,
@@ -301,8 +295,14 @@
             "title": "Osama Bin Laden's Compound: New Details Revealed",
             "secondDuration": 154,
             "group": "group_7"
+        },
+        {
+            "videoId": "MWqtFFtXlPw",
+            "title": "Jamie Foxx Welcomes Josh Elliott to 'GMA' (May 3, 2011)",
+            "secondDuration": 92,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

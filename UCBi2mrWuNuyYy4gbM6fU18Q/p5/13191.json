@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "J-D8cwnbhW8",
-            "title": "1991: Kennedy Faces Questions in Private Life",
-            "secondDuration": 103,
-            "group": "group_7"
-        },
-        {
             "videoId": "_xNDdyAhx7k",
             "title": "Kennedy the Young Politician",
             "secondDuration": 70,
@@ -31,8 +25,14 @@
             "title": "'Cash for Appliances'",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "GZoyZ630OFA",
+            "title": "Quick Fix: A Holocaust Love Story",
+            "secondDuration": 288,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

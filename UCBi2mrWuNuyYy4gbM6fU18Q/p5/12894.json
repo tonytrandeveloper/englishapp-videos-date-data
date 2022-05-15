@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "iirrPOfjv5k",
-            "title": "Top Line: Obama's Bipartisan Pageantry",
-            "secondDuration": 305,
-            "group": "group_7"
-        },
-        {
             "videoId": "4jif6YKOilY",
             "title": "Top Line: Palin: Popular But Unqualified?",
             "secondDuration": 271,
@@ -31,8 +25,14 @@
             "title": "New Clues in Alabama Campus Shooting",
             "secondDuration": 421,
             "group": "group_7"
+        },
+        {
+            "videoId": "vq3cNdU22j4",
+            "title": "Ken Starr Controversy as Lewinsky Case Resurfaces",
+            "secondDuration": 346,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

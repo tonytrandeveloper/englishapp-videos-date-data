@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PUz_CaKbT_c",
-            "title": "Bill Cosby sentenced to 3 to 10 years in prison for sexual assault: WPVI Coverage",
-            "secondDuration": 7633,
-            "group": "group_7"
-        },
-        {
             "videoId": "B6duwP875vM",
             "title": "'The Briefing Room': Trump at UN, Kavanaugh's Fox interview, Rosenstein latest | ABC News",
             "secondDuration": 1227,
@@ -61,8 +55,14 @@
             "title": "Deputy AG Rosenstein and Trump to meet Thursday",
             "secondDuration": 175,
             "group": "group_7"
+        },
+        {
+            "videoId": "c5JYrAOXLhg",
+            "title": "Survivors and supporters rally together in Girls for Gender Equity walkout",
+            "secondDuration": 441,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

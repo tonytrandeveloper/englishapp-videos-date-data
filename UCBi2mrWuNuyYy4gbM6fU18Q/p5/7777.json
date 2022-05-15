@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hPwptjDWsTI",
-            "title": "Ted Cruz | Loss Speech after Nevada Caucus",
-            "secondDuration": 572,
-            "group": "group_7"
-        },
-        {
             "videoId": "Cwc7NcWSzbQ",
             "title": "Donald Trump SPEECH After VICTORY in Nevada Caucuses",
             "secondDuration": 521,
@@ -31,8 +25,14 @@
             "title": "80-Year-Old School Bus Driver Wins a Grammy",
             "secondDuration": 85,
             "group": "group_7"
+        },
+        {
+            "videoId": "KkXNfi1cXQk",
+            "title": "President Obama Vows to Close Guantanamo Bay",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

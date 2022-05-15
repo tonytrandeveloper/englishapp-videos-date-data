@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pXpJoJYHz-c",
-            "title": "President Trump Admin Sanctions Russia For Poisoning Of Ex-Spy And His Daughter | NBC Nightly News",
-            "secondDuration": 120,
-            "group": "group_7"
-        },
-        {
             "videoId": "bld0E59pK7c",
             "title": "New Study Shows Inducing Labor May Help Some Women Avoid C-Sections | NBC Nightly News",
             "secondDuration": 102,
@@ -61,8 +55,14 @@
             "title": "Federal Prosecutors File Insider Trading Charges Against NY Representative Chris Collins | NBC News",
             "secondDuration": 170,
             "group": "group_7"
+        },
+        {
+            "videoId": "ILR_pm8zg50",
+            "title": "Way Too Early: The 2020 Election - Midterm Special | NBC News",
+            "secondDuration": 1853,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

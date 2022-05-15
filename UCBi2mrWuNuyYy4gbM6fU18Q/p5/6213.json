@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "PigKT_Nu-Mk",
-            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
-            "secondDuration": 460,
-            "group": "group_7"
-        },
-        {
             "videoId": "Eofd3K7xyms",
             "title": "Jackie Evancho National Anthem At Trump Inauguration",
             "secondDuration": 124,
@@ -31,8 +25,14 @@
             "title": "Mike Pence Takes Oath of Office | ABC News",
             "secondDuration": 157,
             "group": "group_7"
+        },
+        {
+            "videoId": "9Sg9GOdWq2g",
+            "title": "Trump Arrives at Presidential Inauguration",
+            "secondDuration": 87,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

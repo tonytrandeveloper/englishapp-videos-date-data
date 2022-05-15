@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "7RAqXnzdfVk",
-            "title": "Way Too Early: The 2020 Election | NBC News",
-            "secondDuration": 19709,
-            "group": "group_7"
-        },
-        {
             "videoId": "gNYz4-B5m7E",
             "title": "API TransFusion: The Journey To The Historic Retreat | NBC Asian America",
             "secondDuration": 454,
@@ -61,8 +55,14 @@
             "title": "South Korea Caught Off Guard After U.S.-North Korea Summit | NBC Nightly News",
             "secondDuration": 117,
             "group": "group_7"
+        },
+        {
+            "videoId": "-4LyQKf6rsM",
+            "title": "After Winning High School Baseball Game, Player Hugs Friend On Opposing Team | NBC Nightly News",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

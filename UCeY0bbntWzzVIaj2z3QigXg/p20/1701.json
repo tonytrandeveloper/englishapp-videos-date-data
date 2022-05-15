@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_jU1V8AD62o",
-            "title": "Swollen Rivers, Historic Flooding Across the South | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "7fi_Qix5KBE",
             "title": "Entire DC Metro System Shut Down For Emergency Inspections | NBC Nightly News",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "John Kasich On Donald Trump: 'He's Not Going To Be The Nominee' | Meet The Press | NBC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "q29GjmFDiRA",
+            "title": "John Kasich On Donald Trump, GOP Race (Full Interview) | Meet The Press | NBC News",
+            "secondDuration": 313,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

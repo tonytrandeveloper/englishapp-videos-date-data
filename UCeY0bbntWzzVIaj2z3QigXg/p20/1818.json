@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fcbaJ23icdo",
-            "title": "Anant Agarwal: \"For student success, it takes...\"",
-            "secondDuration": 12,
-            "group": "group_7"
-        },
-        {
             "videoId": "usmCoNj_pwY",
             "title": "Allyson Felix: \"For student success, it takes...\"",
             "secondDuration": 12,
@@ -121,8 +115,14 @@
             "title": "Dr. Tony Marx: \"For student success, it takes...\"",
             "secondDuration": 36,
             "group": "group_7"
+        },
+        {
+            "videoId": "MU1fv8vF9D8",
+            "title": "Randi Weingarten: \"For student success, it takes...\"",
+            "secondDuration": 26,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

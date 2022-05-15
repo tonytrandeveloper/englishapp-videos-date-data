@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_Zc7bceKwDQ",
-            "title": "Biden Expected To Vet Final Supreme Court Candidates This Weekend",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "WEJiHqKKXNg",
             "title": "U.S. Warns Russia Could Invade Ukraine Before End of Olympics",
             "secondDuration": 173,
@@ -61,8 +55,14 @@
             "title": "Watch: News NOW Anchors Try Curling",
             "secondDuration": 341,
             "group": "group_7"
+        },
+        {
+            "videoId": "ONmyz6bpBsM",
+            "title": "Biden Urges Americans To Leave Ukraine Amid Rising Tensions",
+            "secondDuration": 416,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

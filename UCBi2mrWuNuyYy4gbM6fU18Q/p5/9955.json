@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DQD09Vtvkeg",
-            "title": "Dan Pfeiffer 'This Week' Interview: NSA Spying and Obamacare",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "kLHlcdfGcAU",
             "title": "Rand Paul 'This Week' Interview: NSA Spying, Obamacare and Plagiarism Charges",
             "secondDuration": 568,
@@ -31,8 +25,14 @@
             "title": "President Obama's Approval Rating and the Lame Duck Potenial: 'This Week' Roundtable",
             "secondDuration": 595,
             "group": "group_7"
+        },
+        {
+            "videoId": "IDeU-G0rfiY",
+            "title": "LAX Shooting Suspect Paul Ciancia Faces Federal Murder Charges",
+            "secondDuration": 274,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

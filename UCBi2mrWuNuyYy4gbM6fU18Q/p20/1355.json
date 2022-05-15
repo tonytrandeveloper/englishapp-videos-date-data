@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "brbKCnkaYOo",
-            "title": "Mass shooting at church in small Texas town",
-            "secondDuration": 187,
-            "group": "group_7"
-        },
-        {
             "videoId": "Hs7mDI0TFQw",
             "title": "Trump kicks off 13-day trip in Asia",
             "secondDuration": 213,
@@ -121,8 +115,14 @@
             "title": "Significant development in the Harvey Weinstein case",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "9M0PS4cVDAg",
+            "title": "6 firefighters in Miami have been fired for harassing co-worker",
+            "secondDuration": 90,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

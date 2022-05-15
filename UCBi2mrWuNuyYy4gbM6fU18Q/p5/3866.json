@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zCivS6LxM3Q",
-            "title": "Ole Miss student died of gunshot wounds: Police",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "E7JolUCuII4",
             "title": "North Korea launches short-range missiles into Sea of Japan",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "CatCon 2019: World's most famous Instagram cats and feline lovers gather I Nightline",
             "secondDuration": 389,
             "group": "group_7"
+        },
+        {
+            "videoId": "P9CFyehNIg8",
+            "title": "Robert Mueller takes questions for 7 hours from 2 committees",
+            "secondDuration": 312,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "CLtqDDJG0Wo",
-            "title": "Devin Nunes gives opening statement before 6th hearing",
-            "secondDuration": 373,
-            "group": "group_7"
-        },
-        {
             "videoId": "qKPqjGF7fcI",
             "title": "Residents capture turkey following postal worker delivering mail",
             "secondDuration": 80,
@@ -31,8 +25,14 @@
             "title": "Trump remarks on Sondland testimony: ‘I want nothing’ from Ukraine",
             "secondDuration": 163,
             "group": "group_7"
+        },
+        {
+            "videoId": "4eF4acrxpX0",
+            "title": "‘The president has 5 Pinocchios on a daily basis’: Rep. Speier | ABC News",
+            "secondDuration": 57,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_F6gwgFOILY",
-            "title": "Security, Cold Weather And Excitement Ahead Of Super Bowl Sunday | NBC Nightly News",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "lfxA4JZbDJo",
             "title": "Father Of Three Victims Tries To Attack Larry Nassar In Court | NBC Nightly News",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "12-Year-Old Girl In Custody After Los Angeles Middle School Shooting | NBC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "RTW7ciTuccQ",
+            "title": "A Season Of Protests For The NFL | NBC News",
+            "secondDuration": 143,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

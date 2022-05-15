@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-RpAxMMRHYI",
-            "title": "Ryan Lochte's Rio Robbery Scandal",
-            "secondDuration": 212,
-            "group": "group_7"
-        },
-        {
             "videoId": "wJpjQ0VNdIg",
             "title": "Donald Trump Expresses Regret for Past Comments",
             "secondDuration": 200,
@@ -61,8 +55,14 @@
             "title": "Zika Confirmed in Miami Beach",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "yJv4G3En0pk",
+            "title": "War Torn Syria Through the Eyes of a Child",
+            "secondDuration": 97,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

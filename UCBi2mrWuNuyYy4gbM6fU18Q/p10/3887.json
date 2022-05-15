@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1QW_zkYkDBo",
-            "title": "Apple CEO Tim Cook Speaks Exclusively With David Muir",
-            "secondDuration": 390,
-            "group": "group_7"
-        },
-        {
             "videoId": "VsRBgvlVXeM",
             "title": "Tim Cook | EXCLUSIVE Interview on Apple's Privacy Decision",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Bill and Melinda Gates Urge Teens to 'Get Involved'",
             "secondDuration": 346,
             "group": "group_7"
+        },
+        {
+            "videoId": "GRI3RIfVDJQ",
+            "title": "Oscars Countdown: Red-Carpet Worthy Makeovers",
+            "secondDuration": 303,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

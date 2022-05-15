@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Trqfwc_Gchs",
-            "title": "Pres. Trump Speaks At National Christmas Tree Lighting Ceremony | NBC News (Live Stream Recording)",
-            "secondDuration": 301,
-            "group": "group_7"
-        },
-        {
             "videoId": "BXchq8m1hhU",
             "title": "Raging Australian Wildfires Turn Sydney’s Skies Orange | NBC News",
             "secondDuration": 59,
@@ -121,8 +115,14 @@
             "title": "Pete Buttigieg Talks 2020 Election, Diversity In Democratic Party | NBC News",
             "secondDuration": 881,
             "group": "group_7"
+        },
+        {
+            "videoId": "SK_XOMun15w",
+            "title": "Pelosi Clashes With Reporter Who Asks If She Hates Trump: 'I Don't Hate Anyone' | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

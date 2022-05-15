@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "z-9tc7AGmLE",
-            "title": "10 people taken to hospitals after severe turbulence on flight into Philadelphia",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "iTCr_gY_BtY",
             "title": "Trump begins 17-day vacation as Russia investigation heats up",
             "secondDuration": 181,
@@ -61,8 +55,14 @@
             "title": "Missing hiker and dog rescued after 4 days in woods",
             "secondDuration": 118,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ZwgTv9w1aE",
+            "title": "What happened in the Massachusetts suicide texting case",
+            "secondDuration": 572,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

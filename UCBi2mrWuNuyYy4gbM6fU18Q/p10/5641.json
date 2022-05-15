@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Dj7KbciQdII",
-            "title": "Robbers Strap 'Bomb' to Bank Manager",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "SvprFwqurIo",
             "title": "Costa Rica Earthquake: Magnitude 7.6 Tremor Sets Off Tsunami Warning Along Coastlines",
             "secondDuration": 22,
@@ -61,8 +55,14 @@
             "title": "Rahm Emanuel on 2012 Election:  'Clear Choice,' 'Clear Implications'",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "Zsm9URjXdkg",
+            "title": "Michelle Obama Takes Stage at Democratic National Convention",
+            "secondDuration": 137,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

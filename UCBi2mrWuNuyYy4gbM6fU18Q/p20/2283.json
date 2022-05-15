@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RdkmPPHQNLs",
-            "title": "SKINNY: 2014 MTV EMA's",
-            "secondDuration": 222,
-            "group": "group_7"
-        },
-        {
             "videoId": "7BntSr_SGzo",
             "title": "MIX: Man Dances While Cleaning",
             "secondDuration": 178,
@@ -121,8 +115,14 @@
             "title": "FRIDAY FUNNIES",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "a6SJ1yvHILw",
+            "title": "Man Raises Awareness for Testicular Cancer",
+            "secondDuration": 180,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

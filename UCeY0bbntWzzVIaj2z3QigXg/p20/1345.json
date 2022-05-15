@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "_qx4hVGhZYA",
-            "title": "California House Of Horrors: Parents Could Face Life In Prison | NBC Nightly News",
-            "secondDuration": 94,
-            "group": "group_7"
-        },
-        {
             "videoId": "4KrSkWqiOxM",
             "title": "Philadelphia To Establish ‘Safe Injection Sites’ | NBC Nightly News",
             "secondDuration": 57,
@@ -121,8 +115,14 @@
             "title": "Americans Killed In Kabul Intercontinental Hotel Siege, U.S. Official Says | NBC Nightly News",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "0cIYBCoBPJM",
+            "title": "James Comey, Sessions Interviewed By Robert Mueller's Team In Russia Probe | NBC Nightly News",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

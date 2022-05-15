@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "xzNZDZ68r6w",
-            "title": "Webcast: Sinkhole in Florida; 7-Foot-Tall Igor",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "TQnclbDRkWY",
             "title": "The Pulse: Amazing Animal Videos",
             "secondDuration": 123,
@@ -31,8 +25,14 @@
             "title": "Airline Fees: Weigh More, Pay More?",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "02EnwaEedjw",
+            "title": "Chen Guangcheng Asks Hillary Clinton for Ride",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

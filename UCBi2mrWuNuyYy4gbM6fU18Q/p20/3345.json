@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "VFfPlTrN-uk",
-            "title": "A Moment Alone, and Girl Disappears",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "YPB8HfggDxA",
             "title": "The Hunt for Galactic Love!",
             "secondDuration": 192,
@@ -121,8 +115,14 @@
             "title": "Tom Hanks Does it All",
             "secondDuration": 362,
             "group": "group_7"
+        },
+        {
+            "videoId": "c-sDbeBIKSQ",
+            "title": "Comedian in Chief",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

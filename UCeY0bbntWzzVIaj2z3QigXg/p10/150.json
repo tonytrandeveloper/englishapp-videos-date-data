@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Q0JhPRlOeX8",
-            "title": "Morning News NOW Full Broadcast - Feb. 21",
-            "secondDuration": 2965,
-            "group": "group_7"
-        },
-        {
             "videoId": "nZmL6i1guh0",
             "title": "At Least Six People Stabbed In NYC Subway Over The Weekend",
             "secondDuration": 46,
@@ -61,8 +55,14 @@
             "title": "Queen Elizabeth Tests Positive for Covid-19",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "DtKYiM9OLd4",
+            "title": "A War in Ukraine May Raise Prices in the U.S.",
+            "secondDuration": 138,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

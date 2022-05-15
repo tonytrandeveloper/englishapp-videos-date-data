@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "0bo2cixPVuY",
-            "title": "Kim Kardashian Attacked with Flour",
-            "secondDuration": 54,
-            "group": "group_7"
-        },
-        {
             "videoId": "euDFDpUsAME",
             "title": "World's Smallest Puppy? | CUTE ANIMALS (Episode 7)",
             "secondDuration": 62,
@@ -61,8 +55,14 @@
             "title": "Webcast: Apache Crash; Girl Scout Cookies",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "UP0agm3dCkQ",
+            "title": "Million Hoodie March Held in Honor of Trayvon Martin",
+            "secondDuration": 169,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

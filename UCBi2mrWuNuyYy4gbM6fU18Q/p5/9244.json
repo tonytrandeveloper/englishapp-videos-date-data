@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "5m-FhaiLzyA",
-            "title": "Alex Trebek Kicks Off New Season With Stache",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "IuYom1U_iVk",
             "title": "The Best Day of the Week to Buy a Used Car",
             "secondDuration": 106,
@@ -31,8 +25,14 @@
             "title": "Dwyane Wade Talks About His Wedding Day and the Upcoming Season",
             "secondDuration": 146,
             "group": "group_7"
+        },
+        {
+            "videoId": "cOulphtmSAQ",
+            "title": "Olympic Bobsledder, Hurdler the 1st to Leave the DWTS Ballroom",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

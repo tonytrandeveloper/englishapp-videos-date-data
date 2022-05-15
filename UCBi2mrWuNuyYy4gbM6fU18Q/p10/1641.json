@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "9mK-xJgoPlM",
-            "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "PBpqH5fsqo0",
             "title": "Iowa caucuses give Democratic candidates first test of voter appeal | Nightline",
             "secondDuration": 705,
@@ -61,8 +55,14 @@
             "title": "Voters demand more transparency in Iowa caucuses | ABC News",
             "secondDuration": 227,
             "group": "group_7"
+        },
+        {
+            "videoId": "aXOTuVyCcbc",
+            "title": "Why Mike Bloomberg is sitting out the Iowa caucuses l ABC News",
+            "secondDuration": 337,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

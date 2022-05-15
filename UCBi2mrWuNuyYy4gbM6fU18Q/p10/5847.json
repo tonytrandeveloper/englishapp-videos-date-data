@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1EgkgX8Sr8o",
-            "title": "Cory Booker Discusses Fire Rescue",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "CLSp-IzhAiA",
             "title": "Prometheus' Guy Pearce Viral Video: Actor Discusses",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "'Ridiculously Photogenic Guy' Zeddie Little Inspires 'Ridiculously Photogenic' Puppy Meme",
             "secondDuration": 42,
             "group": "group_7"
+        },
+        {
+            "videoId": "MUCbsWe7BmE",
+            "title": "Alleged Murder-For-Hire Target Speaks",
+            "secondDuration": 334,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

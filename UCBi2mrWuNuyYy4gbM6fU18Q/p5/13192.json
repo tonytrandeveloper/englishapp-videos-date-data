@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GZoyZ630OFA",
-            "title": "Quick Fix: A Holocaust Love Story",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "B48TxPKQRfA",
             "title": "Father, Son Discuss Tragic Decision",
             "secondDuration": 110,
@@ -31,8 +25,14 @@
             "title": "New Allegations Against CIA",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "hBxF4aLRGRE",
+            "title": "Michael Jackson's Final Moments",
+            "secondDuration": 345,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

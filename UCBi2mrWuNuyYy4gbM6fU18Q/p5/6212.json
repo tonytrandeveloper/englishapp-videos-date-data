@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "SGq-WX5lSxA",
-            "title": "Paul Ryan Toasts Mike Pence as a 'Happy Warrior'",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "zD8j29PsKfc",
             "title": "Trump Full Speech at Inaugural Luncheon: 'Honored' by Hillary Clinton's Attendence | ABC News",
             "secondDuration": 154,
@@ -31,8 +25,14 @@
             "title": "360º Trump Presidential Inauguration (VR) | ABC News",
             "secondDuration": 5649,
             "group": "group_7"
+        },
+        {
+            "videoId": "PigKT_Nu-Mk",
+            "title": "Obama Final Speech Before Departing Washington (FULL) | ABC News",
+            "secondDuration": 460,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

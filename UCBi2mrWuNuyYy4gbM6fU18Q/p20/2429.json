@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "CjsHX7H4wqw",
-            "title": "Australian Landmark Destroyed in Controlled Explosion",
-            "secondDuration": 41,
-            "group": "group_7"
-        },
-        {
             "videoId": "jVnLoZGcoC0",
             "title": "\"The Bachelor\" Juan Pablo Stars in TV Ad",
             "secondDuration": 61,
@@ -121,8 +115,14 @@
             "title": "BuzzFeed Gives Real Women the Cover Model Treatment",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "T47tJ3F2j7M",
+            "title": "Hijacked Ethiopian Plane: New Details From Inside",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

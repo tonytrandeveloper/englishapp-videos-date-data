@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oJOoOW768BQ",
-            "title": "Wireless Device Built to See Through Walls | NerdWatch | NBC News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "dr5oe6MIaoE",
             "title": "Three Big Misconceptions About Immigration | Debunker | NBC News",
             "secondDuration": 100,
@@ -121,8 +115,14 @@
             "title": "Midnight Ramadan Brunch In NYC | NBC News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "_ZbhWq0tUrA",
+            "title": "Time-Lapse: Costa Concordia Takes Final Voyage | NBC News",
+            "secondDuration": 32,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tZLiWWK_TYI",
-            "title": "Meth Lab Crackdown in Kentucky",
-            "secondDuration": 482,
-            "group": "group_7"
-        },
-        {
             "videoId": "KqsZAS3C6as",
             "title": "ABC News Exclusive: Too Many Meds for Foster Kids?",
             "secondDuration": 291,
@@ -61,8 +55,14 @@
             "title": "Will Herman Cain Withdraw From 2012 Race?",
             "secondDuration": 190,
             "group": "group_7"
+        },
+        {
+            "videoId": "srB8Kf4bHYs",
+            "title": "Connecticut Powerball Winners: Did Wealth Managers Cover For Actual Winner?",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

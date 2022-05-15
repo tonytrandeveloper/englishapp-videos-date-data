@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nHhDOjHz5ZE",
-            "title": "U.S. women's soccer team celebrated as 'absolute magic'",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "eV6Or00JKH8",
             "title": "Kevin Spacey accuser takes stand, invokes 5th Amendment",
             "secondDuration": 102,
@@ -121,8 +115,14 @@
             "title": "Disney Channel star Cameron Boyce dies",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "uDfaMA-EXzE",
+            "title": "Trump's approval ratings on the rise",
+            "secondDuration": 321,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2vEpKu0nuAQ",
-            "title": "Deadly Israel-Hamas Violence Worsens",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "HZu7ss22AxE",
             "title": "Americans React To CDC’s New Mask Guidance For Fully Vaccinated",
             "secondDuration": 100,
@@ -31,8 +25,14 @@
             "title": "Biden Discusses CDC Lifting Mask Restrictions For Fully Vaccinated People",
             "secondDuration": 540,
             "group": "group_7"
+        },
+        {
+            "videoId": "lOdoH793Ti8",
+            "title": "Biden Speaks After CDC Releases New Mask Guidelines",
+            "secondDuration": 1180,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

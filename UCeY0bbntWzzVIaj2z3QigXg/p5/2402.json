@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RXo7ZNh6U-s",
-            "title": "Watch Mich. Gov. Gretchen Whitmer's Full Speech At The 2020 DNC | NBC News",
-            "secondDuration": 263,
-            "group": "group_7"
-        },
-        {
             "videoId": "n65DKhiAW5A",
             "title": "Watch John Kasich's Full Speech At The 2020 DNC | NBC News",
             "secondDuration": 250,
@@ -31,8 +25,14 @@
             "title": "Watch Gov. Andrew Cuomo's Full Speech At The 2020 DNC | NBC News",
             "secondDuration": 326,
             "group": "group_7"
+        },
+        {
+            "videoId": "we7bS7IZSYk",
+            "title": "Watch Rep. Jim Clyburn's Full Speech At The 2020 DNC | NBC News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

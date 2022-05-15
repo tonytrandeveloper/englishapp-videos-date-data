@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Ged7gYPChIY",
-            "title": "E3's Sony Booth 2017: Preview latest technology from electronics company",
-            "secondDuration": 1277,
-            "group": "group_7"
-        },
-        {
             "videoId": "TimBOj3rBVE",
             "title": "Nintendo's E3 booth: 'Super Mario Odyssey,' 'Pokken Tournament DX' Switch game demos",
             "secondDuration": 1744,
@@ -31,8 +25,14 @@
             "title": "Gabby Giffords 'so sad' after GOP baseball shooting",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "ti_Jr-sRaAs",
+            "title": "Congressmen describe how the GOP baseball shooting unfolded",
+            "secondDuration": 297,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AF-OGaxCBNM",
-            "title": "Adam LaRoche Retires Because Son Was Banned from Clubhouse | ABC News",
-            "secondDuration": 183,
-            "group": "group_7"
-        },
-        {
             "videoId": "oPINWZ5houo",
             "title": "Michelle Obama SXSW Interview | Says She Won't Run for President",
             "secondDuration": 234,
@@ -31,8 +25,14 @@
             "title": "Donald Trump Warns of Riots if Republicans Block His Nomination",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "G10t9BPJfs4",
+            "title": "Hillary Clinton Shifts Focus to Donald Trump",
+            "secondDuration": 135,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

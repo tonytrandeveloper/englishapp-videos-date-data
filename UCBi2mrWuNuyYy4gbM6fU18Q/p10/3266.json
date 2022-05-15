@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TwOLrDruOeU",
-            "title": "Presidential Election Polls Show a Virtual Tie in Florida and North Carolina",
-            "secondDuration": 71,
-            "group": "group_7"
-        },
-        {
             "videoId": "T6dR5B799hs",
             "title": "Bill Clinton Gives Final Solo Campaign Rally of the Election Cycle",
             "secondDuration": 150,
@@ -61,8 +55,14 @@
             "title": "Best Tweets of the 2016 Presidential Election",
             "secondDuration": 82,
             "group": "group_7"
+        },
+        {
+            "videoId": "eND4nTTylH0",
+            "title": "Obama Mocks Trump Over Twitter Account",
+            "secondDuration": 23,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

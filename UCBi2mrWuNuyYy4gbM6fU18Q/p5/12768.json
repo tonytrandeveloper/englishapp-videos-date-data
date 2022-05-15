@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "uhJXBfl8ur0",
-            "title": "NYC Mayor: We'll Find Our Man",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "g_YhifEuKB0",
             "title": "Warren Buffett Weighs in on Goldman",
             "secondDuration": 231,
@@ -31,8 +25,14 @@
             "title": "Weekend Window: New Orleans Jazz Fest",
             "secondDuration": 155,
             "group": "group_7"
+        },
+        {
+            "videoId": "5nynjd8Xa5k",
+            "title": "Car Bomb Found in Times Square",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

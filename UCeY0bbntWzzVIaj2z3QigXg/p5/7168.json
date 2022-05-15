@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "W27ByB2_fJA",
-            "title": "Canadian Parliament Shooting Leaves Soldier Dead | NBC News",
-            "secondDuration": 315,
-            "group": "group_7"
-        },
-        {
             "videoId": "508X-K0Sch4",
             "title": "Surviving Ebola: Exclusive Interview | NBC News",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "ISIS Claims It Intercepted U.S. Weapons Drop | NBC News",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "fD4qqTXtBpI",
+            "title": "Man To Obama: 'Don't Touch My Girlfriend' | 3rd Block | NBC News",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

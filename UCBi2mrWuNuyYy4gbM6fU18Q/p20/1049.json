@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j2lqe3K1klk",
-            "title": "Mother says school 'failed' to protect her daughter",
-            "secondDuration": 264,
-            "group": "group_7"
-        },
-        {
             "videoId": "xIhALK-Ci9k",
             "title": "Couple trapped in car by downed power line speak out",
             "secondDuration": 135,
@@ -121,8 +115,14 @@
             "title": "The Woman in the Suitcase: Part 3",
             "secondDuration": 559,
             "group": "group_7"
+        },
+        {
+            "videoId": "Rh0AGJeHPcs",
+            "title": "The Woman in the Suitcase: Part 2",
+            "secondDuration": 534,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "juVrrLVSmkg",
-            "title": "California earthquake, Trump’s “Salute to America,” life support mix-up | ABC News",
-            "secondDuration": 1252,
-            "group": "group_7"
-        },
-        {
             "videoId": "mgYHnbRtaMY",
             "title": "Disney Parks celebrate Fourth of July with 'A Concert in the Sky'",
             "secondDuration": 1284,
@@ -61,8 +55,14 @@
             "title": "Chandeliers shake as 6.4 magnitude earthquake hits California | ABC News",
             "secondDuration": 45,
             "group": "group_7"
+        },
+        {
+            "videoId": "QPIv7z9-E-k",
+            "title": "National Independence Day Parade: ABC News Live coverage",
+            "secondDuration": 4006,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

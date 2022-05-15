@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "H1sjbluTj-I",
-            "title": "Jonathan Karl: Trump may be 'uniquely positioned to get a deal with North Korea'",
-            "secondDuration": 638,
-            "group": "group_7"
-        },
-        {
             "videoId": "YnoJ4uqUa1U",
             "title": "FBI agent's gun discharges on dance floor",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "Nearly 70 percent of early breast cancer patients may not need chemotherapy: Study",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "IgELQuJOASY",
+            "title": "An FBI agent's gun accidentally discharged in a Denver nightclub",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

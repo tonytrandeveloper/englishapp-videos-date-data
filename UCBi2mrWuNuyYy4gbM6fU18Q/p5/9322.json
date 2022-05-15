@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "mv0NZSg7eng",
-            "title": "California Driver Shot, Chases Down Assailant",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "U_L7wkTpM4k",
             "title": "Airstrikes Authorized in Iraq",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "Supermoon to Make Appearance During Meteor Shower",
             "secondDuration": 73,
             "group": "group_7"
+        },
+        {
+            "videoId": "oD03V7fstg0",
+            "title": "Yelp Reviews Have Become Make-or-Break For Businesses",
+            "secondDuration": 430,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

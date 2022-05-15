@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "m9OIryJNkYM",
-            "title": "TV Anchors Shaken Up by a Quake",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "4aB7U3I3-xQ",
             "title": "Russia and the United States Locked in a Duel of Super Powers",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Delta Plane Loses Part of Wing During Flight",
             "secondDuration": 31,
             "group": "group_7"
+        },
+        {
+            "videoId": "ouphDZHYIb0",
+            "title": "Lady Gaga Reveals Financial Woes",
+            "secondDuration": 222,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

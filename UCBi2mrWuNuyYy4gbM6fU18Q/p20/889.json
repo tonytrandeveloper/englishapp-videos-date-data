@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zWB91CNB5Ug",
-            "title": "Trump demands identity of whistleblower",
-            "secondDuration": 200,
-            "group": "group_7"
-        },
-        {
             "videoId": "oFpkQgF_xyE",
             "title": "Briefing Room: Impeachment depositions transcripts, Trump loses tax return subpoena appeal",
             "secondDuration": 1652,
@@ -121,8 +115,14 @@
             "title": "'We have a plan that is affordable...paid for': Buttigieg on his health care plan | ABC News",
             "secondDuration": 643,
             "group": "group_7"
+        },
+        {
+            "videoId": "drfElvLkrbc",
+            "title": "Federal regulators look into possible defect in Tesla batteries | ABC News",
+            "secondDuration": 166,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

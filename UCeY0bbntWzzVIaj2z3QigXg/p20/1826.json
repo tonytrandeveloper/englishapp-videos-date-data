@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "jsjv0cx2LTw",
-            "title": "Jeremy Lin: \"I have a dream that...\"",
-            "secondDuration": 5,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6xJpKl9bx4",
             "title": "Eugenio Siller: \"I have a dream that...\"",
             "secondDuration": 30,
@@ -121,8 +115,14 @@
             "title": "Nancy Snyderman: \"I have a dream that...\"",
             "secondDuration": 7,
             "group": "group_7"
+        },
+        {
+            "videoId": "R3es2HUMVzI",
+            "title": "Maria Shriver: \"I have a dream that...\"",
+            "secondDuration": 5,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

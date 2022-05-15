@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "qQys7MvXjl8",
-            "title": "Chicago's Top Cop Responds to Police-Involved Shooting Video",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "7s0tPC0PqH0",
             "title": "Beaches on Cape Cod Closed Due to Great White Shark Activity",
             "secondDuration": 56,
@@ -121,8 +115,14 @@
             "title": "Donald Trump Backtracks on Iran Video Claim",
             "secondDuration": 109,
             "group": "group_7"
+        },
+        {
+            "videoId": "nPem6-ZHv9U",
+            "title": "Morolake Akinosun Tweeted 5 Years Ago That She'd Be at Rio Olympics",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

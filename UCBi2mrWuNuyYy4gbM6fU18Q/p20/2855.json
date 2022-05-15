@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "03gMX9jaZ-g",
-            "title": "Bird Strike Leaves Gaping Hole in Plane",
-            "secondDuration": 151,
-            "group": "group_7"
-        },
-        {
             "videoId": "7wod_s8Tfos",
             "title": "WEBCAST: \"Fifty Shades of Grey\" Baby Boom",
             "secondDuration": 131,
@@ -121,8 +115,14 @@
             "title": "Investigation: Inside Egg 'Factory Farm'",
             "secondDuration": 506,
             "group": "group_7"
+        },
+        {
+            "videoId": "H4B8407RVV0",
+            "title": "How Did Phillip Garrido Pull Off This Crime? - PART 1",
+            "secondDuration": 521,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

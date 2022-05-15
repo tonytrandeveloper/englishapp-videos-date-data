@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "nmV2jm6G5WA",
-            "title": "Stephanopoulos on Terrorism Speeches",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "qjLVNJ0ieMQ",
             "title": "A Girl's Life, Interrupted by Tics",
             "secondDuration": 237,
@@ -121,8 +115,14 @@
             "title": "Cancer Kid and Mother on the Run",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "DvOWV_vx5Vo",
+            "title": "Scuba Therapy for Soldiers",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

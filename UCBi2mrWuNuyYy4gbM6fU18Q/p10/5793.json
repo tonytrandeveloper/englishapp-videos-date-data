@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "bGmn-XIT_rQ",
-            "title": "White House Intelligence Leaks Under Investigation",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "hybra6HVBWQ",
             "title": "Hottest Spring Weather on Record: Tornadoes, Wildfires, Hail",
             "secondDuration": 88,
@@ -61,8 +55,14 @@
             "title": "Former NFL Players Sue NFL League's Science on Concussions , Say League 'Promotes Violence'",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "EJDbaXAadS4",
+            "title": "CMT Music Awards: Carrie Underwood, 'Good Girl' Singer, Takes 2 Awards at Country Music Awards 2012",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

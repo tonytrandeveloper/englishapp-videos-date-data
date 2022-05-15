@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pGLUtAkHNG4",
-            "title": "‘It Feels Like It’s Alive’: Firefighters Battle California Blaze | NBC Nightly News",
-            "secondDuration": 137,
-            "group": "group_7"
-        },
-        {
             "videoId": "v_7dzhiHbmo",
             "title": "Protesters Assemble In Philadelphia On Day 1 Of DNC | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "Inside the Startup That Is Serving Pizza Made by Robots | NBC Nightly News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "-abomPSxhCk",
+            "title": "Newly-Official GOP Nominee Donald Trump Rehashes Old Feud With Ted Cruz | NBC Nightly News",
+            "secondDuration": 181,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

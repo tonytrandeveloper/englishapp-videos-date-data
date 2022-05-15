@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "MiC21e7al6s",
-            "title": "Wells Fargo Potential Unauthorized Accounts Grows To 3.5 Million | NBC Nightly News",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "8dSBkfPHihs",
             "title": "More Explosions Possible At Flooded Plant | NBC Nightly News",
             "secondDuration": 127,
@@ -31,8 +25,14 @@
             "title": "ARCHIVES: Tom Brokaw Reports On Princess Diana's Death | NBC News",
             "secondDuration": 207,
             "group": "group_7"
+        },
+        {
+            "videoId": "3DQ4c-mKPZs",
+            "title": "ARCHIVES: Prince Harry Remembers Diana 10 Years After Her Death | NBC News",
+            "secondDuration": 145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

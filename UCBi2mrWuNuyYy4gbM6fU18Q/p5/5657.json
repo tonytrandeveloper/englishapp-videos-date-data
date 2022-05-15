@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "z-9tc7AGmLE",
-            "title": "10 people taken to hospitals after severe turbulence on flight into Philadelphia",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "iTCr_gY_BtY",
             "title": "Trump begins 17-day vacation as Russia investigation heats up",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Two murder suspects in custody after cross-country manhunt",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "EhYQMAuGF_s",
+            "title": "Man survives 45 hours stranded in the Arizona desert after his car breaks down",
+            "secondDuration": 91,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

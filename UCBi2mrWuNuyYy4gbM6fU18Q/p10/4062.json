@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jDLowHB_G9E",
-            "title": "'GMA' Hot List: Donald Trump Live, Robin Williams' Widow | ABC News",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "sVq0V7rKImk",
             "title": "Robin Williams' Widow Discusses Husband's Tragic Death",
             "secondDuration": 372,
@@ -61,8 +55,14 @@
             "title": "Adele’s “Hello” Breaks Records | ABC News",
             "secondDuration": 226,
             "group": "group_7"
+        },
+        {
+            "videoId": "W_WMPvOuM4Q",
+            "title": "Halloween Just Ended, and It's Already Starting to Look Like Christmas",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

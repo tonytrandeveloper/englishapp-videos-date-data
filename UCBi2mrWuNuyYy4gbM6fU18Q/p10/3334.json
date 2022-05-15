@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Rx5MSge5fOM",
-            "title": "Urban Angling: Fishing on the East River | ABC News",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "H8czVPrRkWk",
             "title": "Former Miss Arizona Says Trump Would Walk In on 'Half-Naked' Contestants | ABC News",
             "secondDuration": 452,
@@ -61,8 +55,14 @@
             "title": "Hillary Clinton Accuses Trump's Campaign of Being 'Desperate'",
             "secondDuration": 228,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wh_xF3sGncw",
+            "title": "Donald Trump: Last Space I Want to Invade is Hillary Clinton",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

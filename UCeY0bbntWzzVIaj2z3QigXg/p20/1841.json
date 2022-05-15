@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "fCpaPBseK54",
-            "title": "Behind the Scenes with MSNBC's Thomas Roberts",
-            "secondDuration": 39,
-            "group": "group_7"
-        },
-        {
             "videoId": "PiUV2sruhy4",
             "title": "Dateline NBC Fan Contest",
             "secondDuration": 16,
@@ -121,8 +115,14 @@
             "title": "JFK: 50 Days",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "4UFstl8vh9E",
+            "title": "Rockefeller Center Christmas Tree 2010",
+            "secondDuration": 61,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "oxyIE248hco",
-            "title": "Bottle to Throttle: Was Pilot Flying Drunk?",
-            "secondDuration": 284,
-            "group": "group_7"
-        },
-        {
             "videoId": "d6xCkTXMRPY",
             "title": "D.C. Sniper Executed",
             "secondDuration": 107,
@@ -301,8 +295,14 @@
             "title": "Attack on Fort Hood: 13 Dead",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "_qHGaJqV4mg",
+            "title": "Attack at Fort Hood",
+            "secondDuration": 268,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

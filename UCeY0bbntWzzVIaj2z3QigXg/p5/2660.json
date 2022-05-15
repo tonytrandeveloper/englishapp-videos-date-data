@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "x391dybjC_s",
-            "title": "Live: New York Governor Cuomo Holds Briefing | NBC News",
-            "secondDuration": 2425,
-            "group": "group_7"
-        },
-        {
             "videoId": "h2kwT90EvFQ",
             "title": "Live: New York City Mayor De Blasio Holds Briefing | NBC News",
             "secondDuration": 4003,
@@ -31,8 +25,14 @@
             "title": "How Police Violence Caught On Camera Turns Into Accountability | NBC News NOW",
             "secondDuration": 308,
             "group": "group_7"
+        },
+        {
+            "videoId": "jJLp2SBATUI",
+            "title": "Hamilton Removes Controversial Statue To Protect The Public | NBC News",
+            "secondDuration": 59,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

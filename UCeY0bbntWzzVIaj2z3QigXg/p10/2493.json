@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OiTO2rMiEs4",
-            "title": "President Donald Trump And Justin Trudeau Tariff Dispute Continues | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "QZ5WT_HPd-Q",
             "title": "Evacuations Ordered As Colorado Wildfire Grows | NBC Nightly News",
             "secondDuration": 74,
@@ -61,8 +55,14 @@
             "title": "Microsoft’s Xbox Adaptive Controller Is Designed For Gamers With Limited Mobility | Mach | NBC News",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "QUNhvp7S7rI",
+            "title": "Parkland School Shooting Survivors Perform At Tony Awards Ceremony | NBC News",
+            "secondDuration": 63,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WSdjpkoKhfY",
-            "title": "Welcome, Archie Harrison Mountbatten-Windsor!",
-            "secondDuration": 396,
-            "group": "group_7"
-        },
-        {
             "videoId": "QgPN4GJuVRA",
             "title": "GOP-led Senate Intelligence Committee subpoenas Donald Trump Jr.: Sources",
             "secondDuration": 162,
@@ -61,8 +55,14 @@
             "title": "Deputy Sheriff's story differs from Ted Kennedy's at Chappaquiddick",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "LQFkhvSuSf0",
+            "title": "Missing 4-year-old has had multiple brain surgeries, requires constant care",
+            "secondDuration": 102,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

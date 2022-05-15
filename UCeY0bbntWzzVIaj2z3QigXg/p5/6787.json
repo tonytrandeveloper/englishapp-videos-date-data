@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2pgAN4wj91c",
-            "title": "A Random Encounter: Episode 2 | Conviction | Dateline NBC",
-            "secondDuration": 488,
-            "group": "group_7"
-        },
-        {
             "videoId": "OJi4mP_lTj4",
             "title": "1000 Miles Away: Episode 3 | Conviction | Dateline NBC",
             "secondDuration": 423,
@@ -31,8 +25,14 @@
             "title": "This Is The Guy: Episode 6 | Conviction | Dateline NBC",
             "secondDuration": 480,
             "group": "group_7"
+        },
+        {
+            "videoId": "p-LCbyN3k80",
+            "title": "The First Day: Episode 1 | Conviction | Dateline NBC",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

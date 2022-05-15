@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-r6ooBkIQcQ",
-            "title": "Top Story with Tom Llamas - April 5 | NBC News NOW",
-            "secondDuration": 2717,
-            "group": "group_7"
-        },
-        {
             "videoId": "zwfU2_Gyy94",
             "title": "El Salvador Arrests 6,000 Gang Members In 10 Days",
             "secondDuration": 188,
@@ -31,8 +25,14 @@
             "title": "NOW Tonight with Joshua Johnson - Apr. 5 | NBC News NOW",
             "secondDuration": 3224,
             "group": "group_7"
+        },
+        {
+            "videoId": "D8kZ-gwDaqg",
+            "title": "Months After Surfside Collapse, Concerns Spark Miami Beach Apartment Evacuation",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

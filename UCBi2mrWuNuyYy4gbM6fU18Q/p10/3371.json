@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "aAzI13tT0Gk",
-            "title": "Teen Surfer Astonished After Being Hit by Leaping Dolphin",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "y7vpTFyIWuw",
             "title": "Celebrities React to the Presidential Debates  | ABC News",
             "secondDuration": 307,
@@ -61,8 +55,14 @@
             "title": "Presidential Debate Highlights | Preventing Homegrown Terror",
             "secondDuration": 841,
             "group": "group_7"
+        },
+        {
+            "videoId": "2CbQEZ892bE",
+            "title": "Presidential Debate Highlights | Race Relations, Police-Involved Shootings",
+            "secondDuration": 1353,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

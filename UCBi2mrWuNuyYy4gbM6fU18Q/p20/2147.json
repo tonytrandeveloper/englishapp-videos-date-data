@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4PzqoIwO23I",
-            "title": "California Teen Accuses Hollywood Acting Coach of Sexual Assault",
-            "secondDuration": 548,
-            "group": "group_7"
-        },
-        {
             "videoId": "em5ZkTFxIuI",
             "title": "Boston Bomber Dzhokhar Tsarnaev Sentenced to Death",
             "secondDuration": 287,
@@ -121,8 +115,14 @@
             "title": "Jeb Bush Says He Misheard Iraq War Question",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "JnCQlXxShzI",
+            "title": "George Clooney Discusses the Other World of 'Tomorrowland'",
+            "secondDuration": 276,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

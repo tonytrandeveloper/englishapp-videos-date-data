@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sCzfdATdGXY",
-            "title": "Donald Trump FBI head nominee Christopher Wray Senate confirmation hearing",
-            "secondDuration": 18793,
-            "group": "group_7"
-        },
-        {
             "videoId": "TkH6DGyIVHY",
             "title": "Trump Jr.'s meeting with Russian lawyer 'not illegal': President's lawyer",
             "secondDuration": 338,
@@ -61,8 +55,14 @@
             "title": "Russian lawyer's meeting at Trump Tower raises questions",
             "secondDuration": 221,
             "group": "group_7"
+        },
+        {
+            "videoId": "anbLguSES5s",
+            "title": "Emails send shock waves across Capitol Hill",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

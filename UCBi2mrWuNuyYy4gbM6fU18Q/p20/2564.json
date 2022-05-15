@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "gl4EmnrRfPk",
-            "title": "WEBCAST: 19 Firefighters Killed in Arizona Wildfire",
-            "secondDuration": 125,
-            "group": "group_7"
-        },
-        {
             "videoId": "j2A_S4cdiE0",
             "title": "19 Firefighters Dead in Yarnell Hill Wildfire",
             "secondDuration": 246,
@@ -121,8 +115,14 @@
             "title": "Instant Index: Start Me Up, Professor Jagger!",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "JjE4mP7SXN4",
+            "title": "Demi Lovato Interview 2013: Singer on America's Influence on 'Made in the USA'",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

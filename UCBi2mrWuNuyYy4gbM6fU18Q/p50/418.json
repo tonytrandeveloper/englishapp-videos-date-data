@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "7464nNheJlM",
-            "title": "Briefing Room: Mueller report, AG order on asylum seekers, 60 arrests announced in ' opioid bust",
-            "secondDuration": 1658,
-            "group": "group_7"
-        },
-        {
             "videoId": "buEXHwgkI-Q",
             "title": "Notre Dame Fire: Churches in Paris ring bells to honor cathedral | ABC News",
             "secondDuration": 1531,
@@ -301,8 +295,14 @@
             "title": "Mayors across the country are challenging Trump's sanctuary city proposal",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "FgriiB9oJbM",
+            "title": "Video shows officer shoot suspect during struggle",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

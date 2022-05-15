@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "xE5HKgF5kBo",
-            "title": "American Student Found Dead in Italian River",
-            "secondDuration": 95,
-            "group": "group_7"
-        },
-        {
             "videoId": "sTomfl2wxP0",
             "title": "How July 4th Was Celebrated 40 Years Ago",
             "secondDuration": 335,
@@ -61,8 +55,14 @@
             "title": "Bangladesh Attack Kills US College Students",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "EEw-lmq8ycU",
+            "title": "Wimbledon 2016 | Sam Querrey, Serena Williams Take Center Stage",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

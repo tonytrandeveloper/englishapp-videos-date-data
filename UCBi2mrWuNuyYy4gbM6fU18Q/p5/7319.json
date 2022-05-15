@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BWn01ra9Txs",
-            "title": "Navy Jets Collide Midair Over the Atlantic",
-            "secondDuration": 82,
-            "group": "group_7"
-        },
-        {
             "videoId": "w3wYz6OeDqk",
             "title": "Donald Trump Agrees to Debate Bernie Sanders in CA",
             "secondDuration": 164,
@@ -31,8 +25,14 @@
             "title": "The Obama’s Plan for Life After the White House",
             "secondDuration": 60,
             "group": "group_7"
+        },
+        {
+            "videoId": "w7-FIld_HYM",
+            "title": "Hillary Clinton Defends Email Use, Discusses Potential Sanders/Trump Debate",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

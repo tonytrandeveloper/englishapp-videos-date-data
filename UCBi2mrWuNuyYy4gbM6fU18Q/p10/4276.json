@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_hsJJk4-xhA",
-            "title": "Green Pastures Can Boost Concentration",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "RkL2sfCv4k0",
             "title": "An Energy Drink Made in America in a Dorm Room",
             "secondDuration": 140,
@@ -61,8 +55,14 @@
             "title": "FIFA Officials Arrested in Corruption Investigation",
             "secondDuration": 151,
             "group": "group_7"
+        },
+        {
+            "videoId": "V4BDjthzoo4",
+            "title": "LeBron James Leads Cleveland Cavaliers Into NBA Finals",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "sONXFVo8v6I",
-            "title": "Is President Donald Trump A Shoo-In For 2020? | NBC News Signal",
-            "secondDuration": 220,
-            "group": "group_7"
-        },
-        {
             "videoId": "A_8NsLsI9H8",
             "title": "Switching Sides: Should A.I. Be Regulated? | NBC News Signal",
             "secondDuration": 367,
@@ -31,8 +25,14 @@
             "title": "Court Filing Reveals Sales Tactics By Maker Of OxyContin | NBC Nightly News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KY0rD3UuCB4",
+            "title": "Librarian Taken Hostage At Maximum Security Prison In Dramatic Encounter | NBC Nightly News",
+            "secondDuration": 65,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

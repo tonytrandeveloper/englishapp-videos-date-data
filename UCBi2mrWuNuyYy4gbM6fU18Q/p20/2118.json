@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Iu7IGqBzNfE",
-            "title": "Jada Pinkett Smith on the Eroticism of 'Magic Mike XXL'",
-            "secondDuration": 289,
-            "group": "group_7"
-        },
-        {
             "videoId": "PIxEvjzyQjo",
             "title": "David Sweat Gets Captured, NASA Experiences a Major Malfunction",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "SCOTUS Rules on The Affordable Care Act",
             "secondDuration": 112,
             "group": "group_7"
+        },
+        {
+            "videoId": "4wkLTaaYeSA",
+            "title": "Obamacare Gets a Major Supreme Court Victory",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "LiPJRZM1Rkk",
-            "title": "Mitch McConnell Advises Donald Trump To Discourage Violence At Rallies | NBC News",
-            "secondDuration": 53,
-            "group": "group_7"
-        },
-        {
             "videoId": "887mnf4X-Ao",
             "title": "Ted Cruz on John Kasich: Staying In Race ‘Benefits Trump’ | NBC News",
             "secondDuration": 76,
@@ -61,8 +55,14 @@
             "title": "CDC Issues New Guidelines in Effort to Stop U.S. Painkiller Epidemic | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "_jU1V8AD62o",
+            "title": "Swollen Rivers, Historic Flooding Across the South | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

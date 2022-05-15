@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "PzxANkc7OXs",
-            "title": "Plane Crashes into Massachusetts building, pilot dies",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "v2k6acx4Bpw",
             "title": "2 Houston officers injured in shooting, authorities say",
             "secondDuration": 106,
@@ -121,8 +115,14 @@
             "title": "Spicer on Russia Ties: 'Special Prosecutor for What'",
             "secondDuration": 169,
             "group": "group_7"
+        },
+        {
+            "videoId": "uwl4qsU0iMM",
+            "title": "SOLDIER RETURN: Magic show Reunites Boy with Dad",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

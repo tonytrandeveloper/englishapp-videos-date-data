@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iKOLmukKtvI",
-            "title": "Rep. Jordan: Upper echelon of FBI had 'failure of leadership' l ABC NEWS",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "EIRXi4vZ67A",
             "title": "President Trump heads to the UK for official state visit",
             "secondDuration": 194,
@@ -121,8 +115,14 @@
             "title": "Meet the new champions from the Scripps National Spelling Bee",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "V77j1V7XiDs",
+            "title": "New Mexico student tased by deputy",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

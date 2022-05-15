@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mISZWYuo6aI",
-            "title": "Tulsi Gabbard: We Need To End These Regime Change Wars | NBC News",
-            "secondDuration": 188,
-            "group": "group_7"
-        },
-        {
             "videoId": "papAYc645FE",
             "title": "2020 Presidential Candidate Julian Castro: 'I Believe In A Woman's Right To Choose' | NBC News",
             "secondDuration": 105,
@@ -61,8 +55,14 @@
             "title": "New Haven Police Shooting: Body Cam Footage Raising New Questions | NBC Nightly News",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "5eXoV-zf-ME",
+            "title": "Migrant Family Separations ‘Not Worth It,’ Acting DHS Secretary Says | NBC Nightly News",
+            "secondDuration": 239,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

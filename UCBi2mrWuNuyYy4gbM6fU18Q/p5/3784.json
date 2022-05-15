@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Z2Q6_pf8j4Q",
-            "title": "Briefing Room: Biden leads in new poll,  Planned Parenthood drops out of Title X | ABC News",
-            "secondDuration": 1449,
-            "group": "group_7"
-        },
-        {
             "videoId": "sxWfA7ttkJo",
             "title": "Flooding in India, surfing competition, Afghan forces: World in Photos, Aug. 20",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Search expands for firefighters lost at sea l ABC News",
             "secondDuration": 132,
             "group": "group_7"
+        },
+        {
+            "videoId": "g9dQNckjo2U",
+            "title": "NYPD officer involved in Eric Garner's death fired l ABC News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

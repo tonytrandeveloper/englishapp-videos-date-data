@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aj1NXgoV3rY",
-            "title": "Computer glitch strands thousands of British Airways passengers",
-            "secondDuration": 182,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5sUv0-Zvrk",
             "title": "Prosecutors demanding DNA sample from husband of slain radio host",
             "secondDuration": 109,
@@ -31,8 +25,14 @@
             "title": "Fatal stabbing on a Portland commuter train",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "mHTdA296vlQ",
+            "title": "Rock icon Gregg Allman dies at age 69",
+            "secondDuration": 132,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

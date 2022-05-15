@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "dnCdgqCza9o",
-            "title": "Tom Cole: 'A Very Dysfunctional Congress'",
-            "secondDuration": 637,
-            "group": "group_7"
-        },
-        {
             "videoId": "nVDzRPZbHTk",
             "title": "Child Left Outside Store on a Leash | What Would You Do? | WWYD | ABC News",
             "secondDuration": 202,
@@ -121,8 +115,14 @@
             "title": "Rihanna Chats About Her New Album",
             "secondDuration": 83,
             "group": "group_7"
+        },
+        {
+            "videoId": "mB-9TNv04cY",
+            "title": "The Conversation: Understanding China's Expansion",
+            "secondDuration": 123,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

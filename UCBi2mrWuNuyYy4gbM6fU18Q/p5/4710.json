@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ctl4ujVd9ic",
-            "title": "Lewinsky shuts down interview after Clinton question",
-            "secondDuration": 140,
-            "group": "group_7"
-        },
-        {
             "videoId": "OoL1ugRBkwI",
             "title": "White House withholds 100,000 pages of documents related to Kavanaugh",
             "secondDuration": 244,
@@ -31,8 +25,14 @@
             "title": "New details emerge about wife who poisoned her husband with eye drops",
             "secondDuration": 96,
             "group": "group_7"
+        },
+        {
+            "videoId": "optZZJVN-q0",
+            "title": "Concertgoer shot by police after opening fire in San Diego",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

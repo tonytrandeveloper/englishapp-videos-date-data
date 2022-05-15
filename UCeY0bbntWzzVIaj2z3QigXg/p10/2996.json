@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "MKkEmeiHE4E",
-            "title": "This Food Truck Owner Is Delivering Happiness To Hospitalized Children | NBC Nightly News",
-            "secondDuration": 121,
-            "group": "group_7"
-        },
-        {
             "videoId": "5lttlPAkTzM",
             "title": "Serena Williams Responds To John McEnroe’s Controversial Comments | NBC Nightly News",
             "secondDuration": 120,
@@ -61,8 +55,14 @@
             "title": "Space Launches : Who’s Getting Off The Planet These Days And Why? | Mach | NBC News",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "stye71OgJAc",
+            "title": "Donald Trump Seems To Now Accept Russian Election Interference, Blames Obama | NBC Nightly News",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

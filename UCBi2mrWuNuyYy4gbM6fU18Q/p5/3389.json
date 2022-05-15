@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "HnEFiDC5PSg",
-            "title": "Kim has 'two paths in front of him ... we'll see which one they choose': O'Brien | ABC News",
-            "secondDuration": 676,
-            "group": "group_7"
-        },
-        {
             "videoId": "dAAJfDMoHJI",
             "title": "Ohio doctor faces 25 counts of murder after fatal opioid overdoses | ABC News",
             "secondDuration": 173,
@@ -31,8 +25,14 @@
             "title": "At least 5 killed, 4 injured in Louisiana plane crash | ABC News",
             "secondDuration": 180,
             "group": "group_7"
+        },
+        {
+            "videoId": "Co3FfIq34IQ",
+            "title": "Kidnapping attempt botched by a 12-year-old | ABC News",
+            "secondDuration": 117,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

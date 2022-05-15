@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TIG1j_htqrY",
-            "title": "Trump tweet suggests that conversations with Comey may have been recorded",
-            "secondDuration": 207,
-            "group": "group_7"
-        },
-        {
             "videoId": "zxuxNFtsrCU",
             "title": "The wild life of John McAfee, mysterious cybersecurity pioneer",
             "secondDuration": 487,
@@ -31,8 +25,14 @@
             "title": "John McAfee's lab in Belize raided on suspicions he was making meth: Part 2",
             "secondDuration": 454,
             "group": "group_7"
+        },
+        {
+            "videoId": "4sDRNT8TAmQ",
+            "title": "Touching story of three boys destined to be raised by a woman they call mom",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

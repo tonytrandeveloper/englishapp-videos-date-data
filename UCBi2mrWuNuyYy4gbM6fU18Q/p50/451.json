@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "bmpb_tAiBeo",
-            "title": "Celebrating the life of former President George H.W. Bush",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "zUSfJm6qu5g",
             "title": "Roger Stone insists he won't betray President Trump to Robert Mueller",
             "secondDuration": 175,
@@ -301,8 +295,14 @@
             "title": "Pelosi wins nomination for House speaker in closed-door caucus meeting",
             "secondDuration": 80,
             "group": "group_7"
+        },
+        {
+            "videoId": "EDge_pu60RI",
+            "title": "The Debrief: Ivanka Trump interview, US-Mexico border tension, Manafort, alleged Md. hazing incident",
+            "secondDuration": 1381,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

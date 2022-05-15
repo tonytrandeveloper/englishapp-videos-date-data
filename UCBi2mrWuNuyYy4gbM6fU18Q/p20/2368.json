@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uE0ePMxkI8w",
-            "title": "Wild Weather in the Heartland",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "njVPfBZzfZs",
             "title": "Disturbed Mind of Elliot Rodger",
             "secondDuration": 120,
@@ -121,8 +115,14 @@
             "title": "Dangerous Waters:  Rip Currents Alert",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "fBuUt0FFBzQ",
+            "title": "Surveillance Video of Santa Barbara Deadly Rampage",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

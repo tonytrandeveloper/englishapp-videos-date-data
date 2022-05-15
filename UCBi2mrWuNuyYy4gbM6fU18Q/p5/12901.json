@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZSv3_G58eCc",
-            "title": "Is This Global Warming?",
-            "secondDuration": 67,
-            "group": "group_7"
-        },
-        {
             "videoId": "yfz5FOncYmQ",
             "title": "The Conversation: You Tube Videos From Iran",
             "secondDuration": 212,
@@ -31,8 +25,14 @@
             "title": "Washington, D.C., Buried in Snow",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "e6sIWLN9qpA",
+            "title": "Palin Panned in New Poll",
+            "secondDuration": 184,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

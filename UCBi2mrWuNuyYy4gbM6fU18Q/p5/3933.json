@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "juVrrLVSmkg",
-            "title": "California earthquake, Trump’s “Salute to America,” life support mix-up | ABC News",
-            "secondDuration": 1252,
-            "group": "group_7"
-        },
-        {
             "videoId": "mgYHnbRtaMY",
             "title": "Disney Parks celebrate Fourth of July with 'A Concert in the Sky'",
             "secondDuration": 1284,
@@ -31,8 +25,14 @@
             "title": "July 4th earthquake in Southern California | KABC Live Coverage",
             "secondDuration": 16160,
             "group": "group_7"
+        },
+        {
+            "videoId": "BIZIedMYJUA",
+            "title": "Southern California hit by its largest earthquake in 20 years",
+            "secondDuration": 217,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

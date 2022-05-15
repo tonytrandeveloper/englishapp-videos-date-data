@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "razx7bDfJv4",
-            "title": "Roy Moore says liberals 'want to change our culture'",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "GXR3USKqd20",
             "title": "Matt Lauer fired for alleged 'inappropriate sexual behavior in the workplace'",
             "secondDuration": 650,
@@ -61,8 +55,14 @@
             "title": "UN, Trump respond to North Korea missile launch",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "Wvvk9MFvW80",
+            "title": "Search intensifies for missing Florida teen and soccer coach",
+            "secondDuration": 193,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

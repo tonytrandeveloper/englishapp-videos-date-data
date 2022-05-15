@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DYuW2X2qhto",
-            "title": "Osama bin Laden Killed: OBL's 'Home Videos'",
-            "secondDuration": 262,
-            "group": "group_7"
-        },
-        {
             "videoId": "779OY7IgCfE",
             "title": "Osama bin Laden Killed: 'Home Videos' Released",
             "secondDuration": 358,
@@ -31,8 +25,14 @@
             "title": "Insurance Company Calculates Value of a Mom",
             "secondDuration": 111,
             "group": "group_7"
+        },
+        {
+            "videoId": "LSALIxa32Mg",
+            "title": "Osama Bin Laden's Files Reveal Terror Secrets",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

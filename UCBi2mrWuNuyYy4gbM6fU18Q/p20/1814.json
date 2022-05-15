@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uQsN_u1rsAc",
-            "title": "9 Terrifyingly Close Calls | ABC News Remix",
-            "secondDuration": 313,
-            "group": "group_7"
-        },
-        {
             "videoId": "x1mm03R7Vgk",
             "title": "Obama Endorses Hillary Clinton",
             "secondDuration": 196,
@@ -121,8 +115,14 @@
             "title": "Bernie Sanders to Meet With President Obama",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "OT5U8CNVtIM",
+            "title": "Toys for Long Trips | ABC News",
+            "secondDuration": 267,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

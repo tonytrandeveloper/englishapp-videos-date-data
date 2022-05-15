@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "tExfV1twRUk",
-            "title": "Dangerous Downpours and Rising Waters Made for Dangerous Labor Day Weekend",
-            "secondDuration": 70,
-            "group": "group_7"
-        },
-        {
             "videoId": "P1H8KlwDTHU",
             "title": "'50 Shades of Grey' Movie Casts 'Sons of Anarchy' Star Charlie Hunnam as Christian Grey",
             "secondDuration": 108,
@@ -61,8 +55,14 @@
             "title": "WEBCAST: Roger Federer Is Out of The US Open",
             "secondDuration": 145,
             "group": "group_7"
+        },
+        {
+            "videoId": "u3zl09aor8M",
+            "title": "Lions, Gorillas, and Elephants Aren?t Always Photogenic on a Safari",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

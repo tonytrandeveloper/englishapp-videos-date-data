@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aIgHXU9F9QY",
-            "title": "Stop Your Glass From Sticking To Your Napkin | Better | NBC News",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "7Gq6Y6A0xQ0",
             "title": "Pacific Fleet Commander Describes How Crew Responded To Warship Collision | NBC News",
             "secondDuration": 84,
@@ -31,8 +25,14 @@
             "title": "Unforgettable Moments From The 2017 Solar Eclipse | NBC News",
             "secondDuration": 69,
             "group": "group_7"
+        },
+        {
+            "videoId": "VkIsT2nB1Gc",
+            "title": "Trump, Pence View Solar Eclipse from Washington, D.C.",
+            "secondDuration": 53,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8rEKYxX5Atg",
-            "title": "Hail ravages parts of Denver",
-            "secondDuration": 76,
-            "group": "group_7"
-        },
-        {
             "videoId": "pnR04QebUZs",
             "title": "Chris Christie speaks out on Michael Flynn, opioid crisis",
             "secondDuration": 325,
@@ -31,8 +25,14 @@
             "title": "Jimmy Kimmel returns to TV with health care message",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "KRA9NkpNcko",
+            "title": "More details emerge in horrific Penn State fraternity house party death | ABC News",
+            "secondDuration": 528,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

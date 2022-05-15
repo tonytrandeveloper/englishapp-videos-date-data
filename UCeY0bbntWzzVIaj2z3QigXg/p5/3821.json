@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "fNyW02tCH84",
-            "title": "Heat Wave Breaks Records Across The Country | NBC Nightly News",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "zRy47g8XPJQ",
             "title": "Original Recorded Footage Of The Moon Landing Found | NBC Nightly News",
             "secondDuration": 151,
@@ -31,8 +25,14 @@
             "title": "Concerns Over Health As Heat Wave Hits Much Of U.S. | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "NUVa7qSSBJ8",
+            "title": "Chicago Gun Violence: How Some Teens Are Learning To Save Lives | NBC News",
+            "secondDuration": 844,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

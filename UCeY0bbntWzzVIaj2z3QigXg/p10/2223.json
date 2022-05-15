@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "34uncetqpCo",
-            "title": "‘The Natural World Is In Your Hands,’ David Attenborough Tells World Leaders | NBC News",
-            "secondDuration": 64,
-            "group": "group_7"
-        },
-        {
             "videoId": "dO4P2PyuD3Y",
             "title": "Soyuz Rocket Carrying NASA Astronaut Successfully Lifts Off On Space Station Mission | NBC News",
             "secondDuration": 81,
@@ -61,8 +55,14 @@
             "title": "Desperate Search For Florida Woman Missing In Costa Rica | NBC Nightly News",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "DYYnMjQ6qRU",
+            "title": "The Unlikely Friendship Between George H.W. Bush And Bill Clinton | NBC Nightly News",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

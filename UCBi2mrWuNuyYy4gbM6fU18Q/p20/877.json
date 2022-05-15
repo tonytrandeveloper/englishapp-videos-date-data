@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SxNyj3ZAC5o",
-            "title": "Capitol Hill gears up for 2nd week of impeachment hearings | ABC News",
-            "secondDuration": 1543,
-            "group": "group_7"
-        },
-        {
             "videoId": "bolQAY9C9j0",
             "title": "Fierce fallout after Prince Andrew breaks his silence on Jeffrey Epstein l ABC News",
             "secondDuration": 579,
@@ -121,8 +115,14 @@
             "title": "Undercover Girlfriend l 20/20 l PART 4",
             "secondDuration": 387,
             "group": "group_7"
+        },
+        {
+            "videoId": "yxGgTTbCQFI",
+            "title": "Undercover Girlfriend l 20/20 l PART 3",
+            "secondDuration": 502,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

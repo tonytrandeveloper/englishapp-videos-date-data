@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "040mUCKa2fY",
-            "title": "How One Billion Oysters Could Protect NYC From The Next Superstorm",
-            "secondDuration": 246,
-            "group": "group_7"
-        },
-        {
             "videoId": "p2Q1pkSuCs0",
             "title": "Program Offers New Hope For Treating Childhood Cancer Worldwide",
             "secondDuration": 133,
@@ -301,8 +295,14 @@
             "title": "5 Killed As Storms, Tornadoes Move Across Midwest",
             "secondDuration": 110,
             "group": "group_7"
+        },
+        {
+            "videoId": "TJY6eqh3Mek",
+            "title": "Climate Change In Guatemala: Between Starvation And Migration",
+            "secondDuration": 737,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

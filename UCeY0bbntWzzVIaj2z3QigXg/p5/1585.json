@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "pfovMejjy_Q",
-            "title": "White House Holds Press Briefing: April 9 | NBC News",
-            "secondDuration": 3868,
-            "group": "group_7"
-        },
-        {
             "videoId": "1XIlfSsy9qU",
             "title": "Associate Of Matt Gaetz Expected To Plead Guilty In Criminal Case | NBC News NOW",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "'You Can't Spot The White Nationalist Anymore': Inside The Rise Of Right-Wing Extremists",
             "secondDuration": 860,
             "group": "group_7"
+        },
+        {
+            "videoId": "qAUz4rveVNI",
+            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
+            "secondDuration": 2546,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

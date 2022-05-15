@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "UKCOCURqoyw",
-            "title": "'Briefing Room': Mueller probe, Manafort trial, Space Force, Melania's parents get citizenship",
-            "secondDuration": 835,
-            "group": "group_7"
-        },
-        {
             "videoId": "D3_9ewoYy1k",
             "title": "Arson arrest made in connection with California wildfire",
             "secondDuration": 159,
@@ -31,8 +25,14 @@
             "title": "Surveillance video shows suspect fatally shot as he ran from police",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "UDfxXVEI0VA",
+            "title": "Trump ally indicted on insider trading charges speaks out",
+            "secondDuration": 186,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "CdgGj7wON10",
-            "title": "Boston Marathon Explosions: Terror at the Finish Line",
-            "secondDuration": 557,
-            "group": "group_7"
-        },
-        {
             "videoId": "5iRioR8Kd6M",
             "title": "Boston Marathon Explosions: Dan Lampariello Witnesses Bombing 'I Could Feel the Ground Shake'",
             "secondDuration": 259,
@@ -61,8 +55,14 @@
             "title": "'Glee' Addresses Gun Violence With School Shooting",
             "secondDuration": 41,
             "group": "group_7"
+        },
+        {
+            "videoId": "gCw-lrw9iW0",
+            "title": "Severe Spring Storm Packs Ice, Snow, Tornadoes",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

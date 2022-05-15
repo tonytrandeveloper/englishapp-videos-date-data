@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mPB8aTulBko",
-            "title": "Real Money:  Turn Your Old Gadgets Into Cash",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "bFgSClgfMk0",
             "title": "Hurricane Sandy: When Storms Collide",
             "secondDuration": 247,
@@ -121,8 +115,14 @@
             "title": "WEBCAST: Giants Win Game One",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "yZEerhZwOWM",
+            "title": "Student Arrested in Jessica Ridgeway Murder",
+            "secondDuration": 119,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

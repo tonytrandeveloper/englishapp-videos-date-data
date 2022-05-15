@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "SKzyOAdQuL8",
-            "title": "Doug Jones’ Alabama Victory Speech (Full) | NBC News",
-            "secondDuration": 713,
-            "group": "group_7"
-        },
-        {
             "videoId": "tT-lTxhW7pY",
             "title": "Roy Moore Delivers Concession Speech From Alabama (Full) | NBC News",
             "secondDuration": 311,
@@ -121,8 +115,14 @@
             "title": "Senator Kirsten Gillibrand Slams President Donald Trump Tweet As A 'Sexist Smear' | NBC News",
             "secondDuration": 77,
             "group": "group_7"
+        },
+        {
+            "videoId": "-OAKYZNxHM4",
+            "title": "Alabama Senate Candidate Doug Jones Votes | NBC News",
+            "secondDuration": 66,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

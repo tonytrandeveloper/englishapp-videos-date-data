@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "q0ccNpvuJvw",
-            "title": "Belgian Police Kill Two Suspected Terrorists | NBC Nightly News",
-            "secondDuration": 132,
-            "group": "group_7"
-        },
-        {
             "videoId": "p1iYimqZBv0",
             "title": "Feeling Cold Is Contagious | 3rd Block | NBC News",
             "secondDuration": 43,
@@ -31,8 +25,14 @@
             "title": "New Charlie Hebdo Cover Stirs Controversy | NBC Nightly News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "uonpDjbC4aE",
+            "title": "For Glory & Honor! Medieval Reenactors Go To Battle | Originals | NBC News",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

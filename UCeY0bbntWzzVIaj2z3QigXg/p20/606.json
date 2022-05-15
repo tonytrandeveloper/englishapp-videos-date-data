@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "uNI1VNpdzN8",
-            "title": "Trump: 'We Will Be Terminating The Payroll Tax After I Hopefully Get Elected’ | NBC News NOW",
-            "secondDuration": 98,
-            "group": "group_7"
-        },
-        {
             "videoId": "9zHxax5Z5MY",
             "title": "Sen. Harris Gives First Speech As Biden's Running Mate: 'I Am Ready To Work' | NBC News",
             "secondDuration": 1026,
@@ -121,8 +115,14 @@
             "title": "Severe Storm System Causes Destruction Across At Least Nine States | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "_dnjlVuE7ME",
+            "title": "Young Vapers Up To 7 Times More Likely To Get COVID-19 Than Non-E-Cig Users, Says New Stanford Study",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

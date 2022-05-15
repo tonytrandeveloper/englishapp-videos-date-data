@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "XduwZqR3HTw",
-            "title": "Amy Robach Reflects on Breast Cancer Diagnosis One Year Later",
-            "secondDuration": 447,
-            "group": "group_7"
-        },
-        {
             "videoId": "fAqq-rmWFbk",
             "title": "ABC News Goes Pink for October Breast Cancer Awareness",
             "secondDuration": 181,
@@ -31,8 +25,14 @@
             "title": "Congress Grills Secret Service Director About White House Breach",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "IPJopxVh0pw",
+            "title": "Health Officials on High Alert After First US Ebola Case",
+            "secondDuration": 179,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

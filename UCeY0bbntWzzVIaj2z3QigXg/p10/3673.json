@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "rZbWJOCHG5U",
-            "title": "Palin arrives at Tea Party rally in Iowa",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "n93M91ApTNQ",
             "title": "9/11: America Remembers",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "NBC's Ali Weinberg: A day on the Herman Cain bus",
             "secondDuration": 325,
             "group": "group_7"
+        },
+        {
+            "videoId": "g1UeLRlCVHs",
+            "title": "Education Nation Highlights",
+            "secondDuration": 233,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

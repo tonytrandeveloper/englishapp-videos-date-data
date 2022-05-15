@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "7UMslJrzLOg",
-            "title": "Pit Bull Called \"Hulk,\" 175-Pound Dog Walks NYC | Good Morning America | ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "dJh8bcicgBc",
             "title": "Chappie: Hugh Jackman Fights Robot Cop",
             "secondDuration": 286,
@@ -31,8 +25,14 @@
             "title": "US Ambassador to South Korea Defends Himself From Attack",
             "secondDuration": 136,
             "group": "group_7"
+        },
+        {
+            "videoId": "PJCQjr5zeqY",
+            "title": "Hillary Clinton Tweets about Email Controversy",
+            "secondDuration": 109,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

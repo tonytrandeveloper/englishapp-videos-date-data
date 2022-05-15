@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "kNae0D_AGnA",
-            "title": "America's Money: 'Amazing Spider-Man' Swings Into Theaters",
-            "secondDuration": 62,
-            "group": "group_7"
-        },
-        {
             "videoId": "iu8pTfZdM78",
             "title": "'Plane Whisperer' Helps Others Overcome Fear",
             "secondDuration": 469,
@@ -301,8 +295,14 @@
             "title": "Gillian Flynn Interview 2014: 'Gone Girl' Author Reveals Secrets Behind Her Hit Thriller",
             "secondDuration": 179,
             "group": "group_7"
+        },
+        {
+            "videoId": "eNJUJmsuhvc",
+            "title": "Arkansas Tornado: Town of Vilonia Hit Hard",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

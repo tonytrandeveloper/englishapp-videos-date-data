@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NonR2mPi4pw",
-            "title": "Dow Jones up 1,000 points after historic low Christmas Eve",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "6q2fLc5zCA4",
             "title": "Moments that made our skin crawl in 2018",
             "secondDuration": 316,
@@ -61,8 +55,14 @@
             "title": "2nd child dies in custody of US immigration authorities",
             "secondDuration": 187,
             "group": "group_7"
+        },
+        {
+            "videoId": "zNHHWYJSgV0",
+            "title": "Tsunami death toll in Indonesia climbs to over 400",
+            "secondDuration": 163,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "roKI0CYCagg",
-            "title": "Scaffolding Alongside 7-Story Building Crashes Down in Houston",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "9M46BI0N_EI",
             "title": "Battling Bullying One Bracelet At A Time| Real Biz with Rebecca Jarvis | ABC News",
             "secondDuration": 262,
@@ -31,8 +25,14 @@
             "title": "GOP Presidential Candidates Threaten to Boycott Next Debate",
             "secondDuration": 192,
             "group": "group_7"
+        },
+        {
+            "videoId": "sVhmmtrY9P8",
+            "title": "Hacker Arrested in Alleged ISIS Effort to Kill Americans",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

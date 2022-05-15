@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "DSUHkL3rDgI",
-            "title": "Inspector General Finds James Comey Violated FBI Policies, DOJ Won’t Prosecute | NBC Nightly News",
-            "secondDuration": 133,
-            "group": "group_7"
-        },
-        {
             "videoId": "mJWk4BMqN2o",
             "title": "What A Hurricane’s Powerful Winds Really Feel Like | NBC Nightly News",
             "secondDuration": 113,
@@ -61,8 +55,14 @@
             "title": "‘Stop The Coup’: Angry Protesters Condemn Decision To Suspend U.K. Parliament | NBC News",
             "secondDuration": 71,
             "group": "group_7"
+        },
+        {
+            "videoId": "tTLGqzvLsFA",
+            "title": "Hurricane Dorian Brings Heavy Rain, Strong Winds To Caribbean Sea Islands | NBC News",
+            "secondDuration": 77,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

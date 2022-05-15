@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZGLYe82dcbA",
-            "title": "US launches military strike on Syria",
-            "secondDuration": 288,
-            "group": "group_7"
-        },
-        {
             "videoId": "zfx7R_FhBYI",
             "title": "US launches military strike on Syria after alleged chemical attack | ABC News",
             "secondDuration": 744,
@@ -61,8 +55,14 @@
             "title": "Legendary insult comic Don Rickles dies at 90",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vp73lnWDQD8",
+            "title": "Senate OKs 'nuclear option,' clears path for high court nomination vote",
+            "secondDuration": 113,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

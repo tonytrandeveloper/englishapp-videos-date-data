@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "mUrGN2Yfmuo",
-            "title": "WEBCAST: Segway Crashes",
-            "secondDuration": 184,
-            "group": "group_7"
-        },
-        {
             "videoId": "IeJ1mDpKCY4",
             "title": "Did Beyonce Lip-Sync National Anthem?",
             "secondDuration": 384,
@@ -121,8 +115,14 @@
             "title": "World News Now Says Farewell to Paula Faris",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "pziBaToTKVQ",
+            "title": "Inauguration 2013: Obamas Attend 2 Balls",
+            "secondDuration": 221,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

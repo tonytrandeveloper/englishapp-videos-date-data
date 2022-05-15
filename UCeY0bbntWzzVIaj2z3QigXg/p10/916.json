@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YtZQGMYmA8U",
-            "title": "Nor’easter Makes History As One Of New York’s Biggest Storms | NBC News NOW",
-            "secondDuration": 106,
-            "group": "group_7"
-        },
-        {
             "videoId": "4LvS0U6i-Mc",
             "title": "Kremlin Foe Alexei Navalny To Be Sentenced In Moscow | NBC News NOW",
             "secondDuration": 170,
@@ -61,8 +55,14 @@
             "title": "Punxsutawney Phil Makes Groundhog Day 2021 Prediction | NBC News",
             "secondDuration": 3567,
             "group": "group_7"
+        },
+        {
+            "videoId": "S09i3JrQgUI",
+            "title": "Republicans Say Covid Meeting With Biden ‘Productive’ | NBC News NOW",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

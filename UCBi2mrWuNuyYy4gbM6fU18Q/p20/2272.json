@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "OiG_MjDR900",
-            "title": "Two Lucky Turkeys",
-            "secondDuration": 165,
-            "group": "group_7"
-        },
-        {
             "videoId": "x7mkCoYjXEk",
             "title": "SKINNY: Garth Brooks Cancels Appearances",
             "secondDuration": 222,
@@ -121,8 +115,14 @@
             "title": "Ferguson Community Reacts to ABC News' Darren Wilson Interview",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "RZK5JUCxPbs",
+            "title": "Michael Brown’s Family on Grand Jury Decision",
+            "secondDuration": 151,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

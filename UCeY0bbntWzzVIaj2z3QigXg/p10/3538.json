@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZJ5L2U6XhY0",
-            "title": "U.S. Ambassador To South Korea Attacked With Razor | NBC Nightly News",
-            "secondDuration": 34,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z-V8nW1r3ho",
             "title": "Supreme Court Surprises During Obamacare Arguments | NBC News",
             "secondDuration": 78,
@@ -61,8 +55,14 @@
             "title": "House Majority Leader Endorses 'Nuclear' Option | Meet The Press | NBC News",
             "secondDuration": 124,
             "group": "group_7"
+        },
+        {
+            "videoId": "vv7YwixNsKQ",
+            "title": "The Loan That Brought Down an Israeli Prime Minister | Flashback | NBC News",
+            "secondDuration": 188,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

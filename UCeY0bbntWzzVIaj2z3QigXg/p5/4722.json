@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "NchQtKCxrSA",
-            "title": "218: The Race For The House – 7 Weeks To Go | NBC News",
-            "secondDuration": 2535,
-            "group": "group_7"
-        },
-        {
             "videoId": "NRmQa_kMgMs",
             "title": "Hugs, Praise And High Expectations As Korean Leaders Meet In Pyongyang | NBC News",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "One Year After Hurricane Maria: The Struggle For Housing In Puerto Rico Continues | NBC News",
             "secondDuration": 438,
             "group": "group_7"
+        },
+        {
+            "videoId": "bmMqbIuLEXY",
+            "title": "SpaceX Makes Announcement On Private Trip To The Moon | NBC News",
+            "secondDuration": 4305,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

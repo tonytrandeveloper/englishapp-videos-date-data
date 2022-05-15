@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "N46sVOXoNQY",
-            "title": "How to Catch a Ball From the Stands at a Baseball Game",
-            "secondDuration": 92,
-            "group": "group_7"
-        },
-        {
             "videoId": "n3BOiHqa_44",
             "title": "Gas Prices Spike, Up 15 Cents in 1 Week",
             "secondDuration": 125,
@@ -61,8 +55,14 @@
             "title": "George Zimmerman's Parents Speak Out",
             "secondDuration": 459,
             "group": "group_7"
+        },
+        {
+            "videoId": "yzPFWoUmiBI",
+            "title": "WEBCAST: ABC News Exclusive: Speaking Out",
+            "secondDuration": 214,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

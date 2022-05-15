@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "TDJJwakQG5U",
-            "title": "Health Care Heroes Share Their New Year’s Wishes | NBC Nightly News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "GRwIAkZnw6E",
             "title": "Senator Says He Will Challenge Biden Election Certification | NBC Nightly News",
             "secondDuration": 108,
@@ -301,8 +295,14 @@
             "title": "New Jersey Gov. Phil Murphy Holds Coronavirus Briefing | NBC News",
             "secondDuration": 2996,
             "group": "group_7"
+        },
+        {
+            "videoId": "xsecsyEsIg0",
+            "title": "New York Gov. Andrew Cuomo Holds Coronavirus Briefing | NBC News",
+            "secondDuration": 2527,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

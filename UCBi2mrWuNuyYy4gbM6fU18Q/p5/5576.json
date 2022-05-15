@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "WK9rMIjP4sU",
-            "title": "White House response to latest North Korea bomb test",
-            "secondDuration": 112,
-            "group": "group_7"
-        },
-        {
             "videoId": "beRoeBSnLmk",
             "title": "Husband charged with wife's murder blames cold medicine",
             "secondDuration": 155,
@@ -31,8 +25,14 @@
             "title": "North Korea says it successfully tested hydrogen bomb",
             "secondDuration": 206,
             "group": "group_7"
+        },
+        {
+            "videoId": "FGARN6kJpSo",
+            "title": "How will North Korea's latest nuclear test affect the US?",
+            "secondDuration": 171,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

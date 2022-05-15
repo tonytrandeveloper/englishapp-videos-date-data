@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "V5VJEMad4jI",
-            "title": "Lakers star Kobe Bryant, in his own words",
-            "secondDuration": 49,
-            "group": "group_7"
-        },
-        {
             "videoId": "I2ORUSKJ6EY",
             "title": "John Bolton book manuscript upends impeachment hearings",
             "secondDuration": 169,
@@ -121,8 +115,14 @@
             "title": "Kobe Bryant, daughter among 9 dead in helicopter crash | ABC News",
             "secondDuration": 496,
             "group": "group_7"
+        },
+        {
+            "videoId": "KuQ9EUvWRZo",
+            "title": "'I know I don't have the highest name ID,' but 'we've got grit': Sen. Klobuchar | ABC News",
+            "secondDuration": 397,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

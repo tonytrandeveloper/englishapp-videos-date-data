@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "WAqnfeX_AV0",
-            "title": "9 Gotta Have Gadgets in 2015",
-            "secondDuration": 218,
-            "group": "group_7"
-        },
-        {
             "videoId": "i2BCrstdKgc",
             "title": "11 Biggest Blockbusters of 2015",
             "secondDuration": 195,
@@ -61,8 +55,14 @@
             "title": "World News Now I Food & Drink Ideas for New Year's Day",
             "secondDuration": 261,
             "group": "group_7"
+        },
+        {
+            "videoId": "d8aWEbosDps",
+            "title": "First Ever College Football Playoffs Set to Kick Off",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

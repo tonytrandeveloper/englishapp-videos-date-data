@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "szVbfdxPsBs",
-            "title": "Romney Campaign Treats Donors Like Royalty",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "Jb-hGo3Lqc0",
             "title": "Clint Eastwood's Speech: Good, Bad or Ugly?",
             "secondDuration": 112,
@@ -61,8 +55,14 @@
             "title": "Remembering Robin Roberts' Mother Lucimarian Roberts",
             "secondDuration": 281,
             "group": "group_7"
+        },
+        {
+            "videoId": "UQZZr8GdmIk",
+            "title": "Mitt Romney Takes the Stage at the Republican National Convention",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

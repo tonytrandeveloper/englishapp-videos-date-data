@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "8WBP55X9lGc",
-            "title": "Amplified: X-Japan (extended)",
-            "secondDuration": 451,
-            "group": "group_7"
-        },
-        {
             "videoId": "8Gctw79gm90",
             "title": "Drill Operators on Chilean Miners' Rescue",
             "secondDuration": 211,
@@ -61,8 +55,14 @@
             "title": "eBay Turns 15",
             "secondDuration": 472,
             "group": "group_7"
+        },
+        {
+            "videoId": "VsBt-OSkSz0",
+            "title": "The Conversation: Redefining Beautiful",
+            "secondDuration": 173,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

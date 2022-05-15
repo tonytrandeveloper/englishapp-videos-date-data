@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "9VF_F_pd_kA",
-            "title": "Mama Polar Bear Rescues Cub Who Can't Swim",
-            "secondDuration": 32,
-            "group": "group_7"
-        },
-        {
             "videoId": "HzOT5MpH-l0",
             "title": "Toys Perfect for Preschoolers| ABC News",
             "secondDuration": 277,
@@ -31,8 +25,14 @@
             "title": "Deadly Flooding Rises to Historic Levels | ABC News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "tT9vNLAOUKw",
+            "title": "Coastal Storm Leaves 4 Dead in 3 Days",
+            "secondDuration": 147,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

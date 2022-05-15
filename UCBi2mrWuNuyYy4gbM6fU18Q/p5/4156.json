@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6G13plJRPJ4",
-            "title": "Missing Alabama woman trapped in car for five days",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "VuaqzBereOw",
             "title": "Pharmaceutical executive to face criminal charges in landmark case",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "'1969': Parrish Hirasaki, a heat shield specialist for the Apollo 11 program",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "3oxfAlKjoSw",
+            "title": "'1969': Hugh Brown, a communications specialist with NASA during Apollo 11",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

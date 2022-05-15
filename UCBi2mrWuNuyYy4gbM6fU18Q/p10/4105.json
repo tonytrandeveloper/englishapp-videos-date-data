@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "-39C7y2KIKU",
-            "title": "Georgia Executes First Woman in the State in 70 Years",
-            "secondDuration": 100,
-            "group": "group_7"
-        },
-        {
             "videoId": "ITI8JQco2ck",
             "title": "Yankees Fan Botches Catching Three Foul Balls",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Close Call for Passengers and Crew on board an Aer Lingus Flight at JFK",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "4t4z996wraI",
+            "title": "Paul Walker's Daughter Files Wrongful Death Suit Against Porsche",
+            "secondDuration": 172,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "p7cFrxVSGfk",
-            "title": "Bird's Eye-View of Women's Marches Across the Country | NBC News",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "6K7I6WWea4Q",
             "title": "Women's March on Washington: Highlights | NBC News",
             "secondDuration": 104,
@@ -61,8 +55,14 @@
             "title": "Sights And Sounds Of Donald Trump's Presidential Inauguration | NBC Nightly News",
             "secondDuration": 147,
             "group": "group_7"
+        },
+        {
+            "videoId": "EH76U4rAPGM",
+            "title": "What Will President Donald Trump’s First 100 Days Look Like? | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

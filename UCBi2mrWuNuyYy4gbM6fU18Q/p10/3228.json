@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "1oO2FSRIRdA",
-            "title": "Selena Gomez Speech at AMAs 2016",
-            "secondDuration": 42,
-            "group": "group_7"
-        },
-        {
             "videoId": "AuHTaSrPO0o",
             "title": "Cops Hand Out Turkeys Instead of Tickets",
             "secondDuration": 99,
@@ -61,8 +55,14 @@
             "title": "Trump Interviews Potential Cabinet Members",
             "secondDuration": 178,
             "group": "group_7"
+        },
+        {
+            "videoId": "QzeJzwObWsE",
+            "title": "NYC Murder Mystery | 2 Suspects to Appear in Court",
+            "secondDuration": 130,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

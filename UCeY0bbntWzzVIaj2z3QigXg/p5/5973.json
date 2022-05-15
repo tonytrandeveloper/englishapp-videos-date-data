@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "8DpYjm2LCKY",
-            "title": "President Donald Trump Meets Angela Merkel After Landing In Hamburg For G20 Summit | NBC News",
-            "secondDuration": 65,
-            "group": "group_7"
-        },
-        {
             "videoId": "pQJjILhqj9A",
             "title": "Watch Donald Trump's Keynote Speech In Warsaw, Poland | NBC News",
             "secondDuration": 2194,
@@ -31,8 +25,14 @@
             "title": "Camera Captures Moment Of Murray State University Dorm Explosion | NBC News",
             "secondDuration": 63,
             "group": "group_7"
+        },
+        {
+            "videoId": "00jsdCnDcXE",
+            "title": "President Donald Trump On Russian Interference in Election: 'Nobody Really Knows' | NBC News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

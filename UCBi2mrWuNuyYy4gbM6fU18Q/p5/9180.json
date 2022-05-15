@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Kod1To4WQxM",
-            "title": "Taylor Swift on What Inspired Her New Song, 'Welcome to New York'",
-            "secondDuration": 56,
-            "group": "group_7"
-        },
-        {
             "videoId": "sO9kHpVumr8",
             "title": "Obama Tackles Ebola Issue on Way to 2014 Campaign Trail",
             "secondDuration": 79,
@@ -31,8 +25,14 @@
             "title": "WEBCAST: Man Carried to Safety as Home Burns",
             "secondDuration": 130,
             "group": "group_7"
+        },
+        {
+            "videoId": "DpLSgtai9yA",
+            "title": "MIX: Weatherman vs Dog",
+            "secondDuration": 178,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

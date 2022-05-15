@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "opaTKF3VFcQ",
-            "title": "Winter Storm Moves Through New York City's Times Square | NBC News",
-            "secondDuration": 36006,
-            "group": "group_7"
-        },
-        {
             "videoId": "xUPVwBkCIjI",
             "title": "Mothers Describe Difficult Decisions Between Family And Careers During Pandemic | NBC News NOW",
             "secondDuration": 300,
@@ -31,8 +25,14 @@
             "title": "FBI Foils Plot To Hijack Plane In Attack Targeting U.S. Skyscraper | NBC Nightly News",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "MI2ke9iEaTE",
+            "title": "First Severe Reaction To Covid Vaccine Reported In U.S. | NBC Nightly News",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

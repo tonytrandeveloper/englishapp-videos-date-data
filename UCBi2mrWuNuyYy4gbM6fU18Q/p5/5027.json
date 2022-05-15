@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "zR6qDb1zAXo",
-            "title": "President Donald Trump, French Pres. Macron hold joint press conference | ABC News",
-            "secondDuration": 4801,
-            "group": "group_7"
-        },
-        {
             "videoId": "_nmuNg9swwE",
             "title": "Actress charged with sex trafficking due in court",
             "secondDuration": 275,
@@ -31,8 +25,14 @@
             "title": "Inside the capture of Waffle House shooting suspect",
             "secondDuration": 176,
             "group": "group_7"
+        },
+        {
+            "videoId": "v579zLiHaDc",
+            "title": "President George H.W. Bush hospitalized days after wife's funeral",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

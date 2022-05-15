@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "aD7YjArmZDs",
-            "title": "Medical Workers On How Coronavirus Misinformation Impacts Patients Care  | NBC News NOW",
-            "secondDuration": 860,
-            "group": "group_7"
-        },
-        {
             "videoId": "vTECDl83G-Y",
             "title": "First Person To Receive Covid Vaccine In N.J. On Importance Of Trust Among Minorities | NBC News NOW",
             "secondDuration": 158,
@@ -31,8 +25,14 @@
             "title": "Child Hunger Increases And More Massachusetts Families Relying On Food Banks | NBC Nightly News",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "09vS6vwRVPg",
+            "title": "Biden Campaigns In Georgia Hoping To Boost Democrats Ahead Of Runoff | NBC Nightly News",
+            "secondDuration": 84,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

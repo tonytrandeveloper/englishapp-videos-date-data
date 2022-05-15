@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Uu5wSv6KELU",
-            "title": "Navajo Nation Struggling To Get Access To Healthy Food Amid Supply Chain Delays",
-            "secondDuration": 384,
-            "group": "group_7"
-        },
-        {
             "videoId": "mzllR-TJAec",
             "title": "Man Exonerated In 1980s Rape Of Author Alice Sebold",
             "secondDuration": 249,
@@ -61,8 +55,14 @@
             "title": "Millions On The Move For Thanksgiving As Travel Bounces Back",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "p6zrMB94wY0",
+            "title": "Covid Cases Rising As Families Prepare To Gather For Thanksgiving",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

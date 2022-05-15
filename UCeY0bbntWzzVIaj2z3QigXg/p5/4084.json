@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "2cjmNiHxE-I",
-            "title": "Sesame Street Introduces Family Of Muppet With Autism | NBC Nightly News",
-            "secondDuration": 91,
-            "group": "group_7"
-        },
-        {
             "videoId": "6BvSvhvuXmI",
             "title": "Inside GoFundMe’s Effort To Detect Fraud | NBC Nightly News",
             "secondDuration": 192,
@@ -31,8 +25,14 @@
             "title": "U.S. Secret Service Director Is Out, Latest Casualty In DHS Shakeup | NBC Nightly News",
             "secondDuration": 119,
             "group": "group_7"
+        },
+        {
+            "videoId": "yUZvK2G5QO8",
+            "title": "Women In Space: NASA's Awkward History With Female Astronauts | Mach | NBC News",
+            "secondDuration": 194,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

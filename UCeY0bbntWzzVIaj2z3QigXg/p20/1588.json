@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YaHNHfRO2GY",
-            "title": "Meet Peeqo, The Adorable, Sassy Robot That Speaks In GIFs | Mach | NBC News",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "NBbFBCgcOuk",
             "title": "Donald Trump's Administration Redefining The ‘Fact’ | NBC News",
             "secondDuration": 82,
@@ -121,8 +115,14 @@
             "title": "Alicia Keys: ‘No Hate, No Bigotry, No Muslim Registry’ | NBC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "p7cFrxVSGfk",
+            "title": "Bird's Eye-View of Women's Marches Across the Country | NBC News",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

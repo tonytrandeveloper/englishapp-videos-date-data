@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "snIhWbyTqzw",
-            "title": "Super Tuesday: Comedy Central's Indecision 2012 Bloggers Take on Republican Results",
-            "secondDuration": 692,
-            "group": "group_7"
-        },
-        {
             "videoId": "RzuZdedYjyM",
             "title": "Super Tuesday Results 2012: Newt Gingrich's Official Speech After Georgia Primary Win",
             "secondDuration": 1370,
@@ -31,8 +25,14 @@
             "title": "Super Tuesday Results 2012: Ron Paul's Official Speech in North Dakota",
             "secondDuration": 1276,
             "group": "group_7"
+        },
+        {
+            "videoId": "Q7oJPu4zMHU",
+            "title": "Super Tuesday: Obama Talks Iran, Comments on Rush Limbaugh",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

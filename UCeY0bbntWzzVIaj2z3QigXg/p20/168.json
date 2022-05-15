@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "YU1pfC41WGI",
-            "title": "Black Friday And Cyber Monday Deals: What You Need To Know",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "PBligRsiCJg",
             "title": "How New Car Tech Aims To Prevent Drunk Driving Deaths",
             "secondDuration": 165,
@@ -121,8 +115,14 @@
             "title": "Millions On The Move For Thanksgiving As Travel Bounces Back",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "p6zrMB94wY0",
+            "title": "Covid Cases Rising As Families Prepare To Gather For Thanksgiving",
+            "secondDuration": 148,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

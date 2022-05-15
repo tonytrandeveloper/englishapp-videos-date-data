@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "VfjvcKVBWVk",
-            "title": "WEBCAST: Impromptu Landing Strip",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "RxSzfaBWfgo",
             "title": "Kindergartener Gets School Absence Pardon From President",
             "secondDuration": 107,
@@ -31,8 +25,14 @@
             "title": "'This Week' Panel: The Terror Threat",
             "secondDuration": 502,
             "group": "group_7"
+        },
+        {
+            "videoId": "MyMtOwwtJW0",
+            "title": "'This Week' Sunday Spotlight: Billie Jean King",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

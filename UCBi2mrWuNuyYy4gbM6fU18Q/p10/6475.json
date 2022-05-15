@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "YK468IxNoBM",
-            "title": "Jake Tapper on Sarah Palin's Fox Debut",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "QlSeXZWm1yk",
             "title": "'GMA's' Morning Mix: TV and Bonuses",
             "secondDuration": 453,
@@ -61,8 +55,14 @@
             "title": "Shocking Video, Tortured Verdict",
             "secondDuration": 277,
             "group": "group_7"
+        },
+        {
+            "videoId": "MsSReN5w544",
+            "title": "Hit and Run Caught on Tape",
+            "secondDuration": 88,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

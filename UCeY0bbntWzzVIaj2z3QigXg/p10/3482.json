@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "epObAmBSepE",
-            "title": "Idaho ‘Firenado’ Shoots 100 Feet Into Air | NBC Nightly News",
-            "secondDuration": 167,
-            "group": "group_7"
-        },
-        {
             "videoId": "VUyHY_yYUv0",
             "title": "Wild Fires: Swallowing Neighborhoods, Torching Land | NBC Nightly News",
             "secondDuration": 186,
@@ -61,8 +55,14 @@
             "title": "Stars and Stripes Fly Over U.S. Embassy in Havana After 54 Years | NBC Nightly News",
             "secondDuration": 205,
             "group": "group_7"
+        },
+        {
+            "videoId": "uDMAPpgzt-0",
+            "title": "Is Hillary Clinton’s Campaign in Trouble? | NBC Nightly News",
+            "secondDuration": 176,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

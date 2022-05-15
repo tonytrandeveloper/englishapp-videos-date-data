@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Ca0RIXr25L0",
-            "title": "Florida Gov. Seeks Help in Fighting Oil",
-            "secondDuration": 194,
-            "group": "group_7"
-        },
-        {
             "videoId": "wMEywDdbhbA",
             "title": "The ABCs of the National Spelling Bee",
             "secondDuration": 146,
@@ -121,8 +115,14 @@
             "title": "Washington Post's Chris Cillizza on 'Top Line'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "ceO-Bvs89WA",
+            "title": "Campbell: 'Always Opposed' New Drilling",
+            "secondDuration": 583,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

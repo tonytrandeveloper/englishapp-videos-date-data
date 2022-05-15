@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "eN7sZ_nLEmk",
-            "title": "Dangerous Wildfires Burn Thousands of Acres in Oklahoma",
-            "secondDuration": 118,
-            "group": "group_7"
-        },
-        {
             "videoId": "SeLDiXAwxvY",
             "title": "Deep Dive on Global Terror Hot Spots",
             "secondDuration": 424,
@@ -61,8 +55,14 @@
             "title": "Transgender Parents Who Conceived Two Sons Naturally | 20/20 | ABC News",
             "secondDuration": 479,
             "group": "group_7"
+        },
+        {
+            "videoId": "kcS_bmffLTs",
+            "title": "Teens' Alleged Underage Drinking Could Send Dad to Jail",
+            "secondDuration": 284,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2baGfrwHqkU",
-            "title": "'This Week': Michael Sam's Breakthrough",
-            "secondDuration": 245,
-            "group": "group_7"
-        },
-        {
             "videoId": "Z4YQD89dbEc",
             "title": "'This Week': Hollywood Takes on D.C.",
             "secondDuration": 217,
@@ -61,8 +55,14 @@
             "title": "Dangers of Distraction:  Texting and Walking",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "GPV8uJ-Dx7o",
+            "title": "Verdict Reached in Michael Dunn 'Loud Music' Murder Trial",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

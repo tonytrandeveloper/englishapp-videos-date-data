@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "GIjCifIMVh8",
-            "title": "Massive fire destroys historic synagogue in Minnesota",
-            "secondDuration": 61,
-            "group": "group_7"
-        },
-        {
             "videoId": "VkXioYUsVSY",
             "title": "The Briefing Room: Dems on gun control, Trump cancels surprise meeting with Taliban | ABC News",
             "secondDuration": 1486,
@@ -31,8 +25,14 @@
             "title": "U.S. Open, 'Surf-A-Thon' and Hong Kong protests,: World in Photos, Sept. 9",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "45CtVg9b5hQ",
+            "title": "President Trump presents Medal of Valor to Dayton, Ohio officers who responded to shooting",
+            "secondDuration": 2710,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

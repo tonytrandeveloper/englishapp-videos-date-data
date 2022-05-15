@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "3Ur1FJ1EX1o",
-            "title": "Meet the Press - 11/18/12 - Feinstein and Rogers, Graham, Roundtable",
-            "secondDuration": 31,
-            "group": "group_7"
-        },
-        {
             "videoId": "muIMbbxBABg",
             "title": "Meet the Press - Coburn, Schumer, Roundtable - 11/11/12",
             "secondDuration": 31,
@@ -121,8 +115,14 @@
             "title": "Gregory on the Ryan Keynote",
             "secondDuration": 142,
             "group": "group_7"
+        },
+        {
+            "videoId": "vRhPgOgWMg4",
+            "title": "Gregory on Ann Romney & Chris Christie Keynotes",
+            "secondDuration": 105,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

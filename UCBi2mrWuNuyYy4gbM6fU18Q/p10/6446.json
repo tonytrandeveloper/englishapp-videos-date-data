@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Hdr7sITzctw",
-            "title": "New Troubles for Toyota",
-            "secondDuration": 149,
-            "group": "group_7"
-        },
-        {
             "videoId": "jwKcBRW2h8k",
             "title": "Welcome to Happytown",
             "secondDuration": 114,
@@ -61,8 +55,14 @@
             "title": "New Photos in Caylee Anthony Case Emerge",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "p56Qj-wHZXQ",
+            "title": "Mad Scientist?",
+            "secondDuration": 454,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

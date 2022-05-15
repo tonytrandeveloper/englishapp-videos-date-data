@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mDH---qVuDo",
-            "title": "What to watch as public impeachment hearings begin | ABC News",
-            "secondDuration": 250,
-            "group": "group_7"
-        },
-        {
             "videoId": "CcLdQheZZ74",
             "title": "Haley claims Kelly, Tillerson worked to resist Trump l ABC News",
             "secondDuration": 167,
@@ -61,8 +55,14 @@
             "title": "Bitter arctic air moves into center of US",
             "secondDuration": 92,
             "group": "group_7"
+        },
+        {
+            "videoId": "XShYSRzjNKM",
+            "title": "'Inappropriate,' but not impeachable: GOP lawmaker on Trump's actions",
+            "secondDuration": 391,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

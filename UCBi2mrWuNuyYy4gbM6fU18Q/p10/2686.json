@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pfFxhIo2N3Y",
-            "title": "Michael Flynn's lawyer met with members of Special Counsel Robert Mueller's team",
-            "secondDuration": 130,
-            "group": "group_7"
-        },
-        {
             "videoId": "AzrkQ6stoF4",
             "title": "Home Alone 2 Plaza Hotel vacation package",
             "secondDuration": 134,
@@ -61,8 +55,14 @@
             "title": "Millions of Americans return home after Thanksgiving holiday",
             "secondDuration": 94,
             "group": "group_7"
+        },
+        {
+            "videoId": "7DcGtr5Ev48",
+            "title": "Franken gives interview for first time since allegations surfaced",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

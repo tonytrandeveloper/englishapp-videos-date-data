@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UWBR-cdCbHI",
-            "title": "TSA Rolls Out New Safety Protocols at Airports | NBC Nightly News",
-            "secondDuration": 636,
-            "group": "group_7"
-        },
-        {
             "videoId": "nMkkFVGgc2g",
             "title": "Hospitals Start To Furlough Employees During The Pandemic | NBC News NOW",
             "secondDuration": 101,
@@ -61,8 +55,14 @@
             "title": "Study Says Coronavirus Lockdown Delays Led To At Least 36,000 More U.S. Deaths | NBC News NOW",
             "secondDuration": 783,
             "group": "group_7"
+        },
+        {
+            "videoId": "EokRsosUfBA",
+            "title": "‘I Was Given A Choice’: Trump Claims He Wore Mask At Ford Plant | NBC News NOW",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

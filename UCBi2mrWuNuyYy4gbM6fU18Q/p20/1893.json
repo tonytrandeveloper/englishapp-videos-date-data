@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "4Ccw5OExVqQ",
-            "title": "Sailor Found Innocent After 33 Years in Prison",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "AGu6pp-phxc",
             "title": "Dog in Coast Guard Finish Helicopter Training",
             "secondDuration": 69,
@@ -121,8 +115,14 @@
             "title": "American Idol Series Finale Surprises | ABC News",
             "secondDuration": 249,
             "group": "group_7"
+        },
+        {
+            "videoId": "MSvg6L8tAck",
+            "title": "A Final Farewell to 'American Idol'",
+            "secondDuration": 366,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

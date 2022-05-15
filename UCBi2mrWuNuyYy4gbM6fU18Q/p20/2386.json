@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "eNJUJmsuhvc",
-            "title": "Arkansas Tornado: Town of Vilonia Hit Hard",
-            "secondDuration": 139,
-            "group": "group_7"
-        },
-        {
             "videoId": "cJWk58bko5c",
             "title": "Andrew Garfield Interview 2014: Get an Early Look at 'The Amazing Spider-Man 2'",
             "secondDuration": 252,
@@ -121,8 +115,14 @@
             "title": "Planes Come Within 500 Feet at Newark",
             "secondDuration": 107,
             "group": "group_7"
+        },
+        {
+            "videoId": "cmI0Ryz10FY",
+            "title": "As Detroit Suburb Burns, Firefighters Won't Back Down",
+            "secondDuration": 629,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

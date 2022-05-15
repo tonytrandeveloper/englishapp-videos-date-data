@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "x3EdpMt1hNA",
-            "title": "The Year 2019: Remembering those we lost l ABC News",
-            "secondDuration": 367,
-            "group": "group_7"
-        },
-        {
             "videoId": "hKOtRoKHNVk",
             "title": "The Year 2019: Kevin Hart, Taylor Swift and other celebrity drama l ABC News",
             "secondDuration": 380,
@@ -121,8 +115,14 @@
             "title": "2 different storms cause hazardous travel on both coasts",
             "secondDuration": 116,
             "group": "group_7"
+        },
+        {
+            "videoId": "3YP-5TB39_8",
+            "title": "NYPD asking for public's help locating suspect related to college student's death",
+            "secondDuration": 86,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

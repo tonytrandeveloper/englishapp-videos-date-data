@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "PA4ihipaxOo",
-            "title": "Gunman opens fire at New York City hospital, killing 1 and injuring others: ABC Radio Coverage",
-            "secondDuration": 1790,
-            "group": "group_7"
-        },
-        {
             "videoId": "_utad0NuQvA",
             "title": "Jay-Z’s '4:44' album, Serena Williams vs. John McEnroe and more on ‘Real Live’",
             "secondDuration": 1580,
@@ -61,8 +55,14 @@
             "title": "Birthday surprise for a little boy turning 7",
             "secondDuration": 114,
             "group": "group_7"
+        },
+        {
+            "videoId": "YJC6tfjNk4g",
+            "title": "Russia investigation is closing in on the president's inner circle",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-KlsJRMNmI0",
-            "title": "Prosecutor Discusses O.J. Simpson’s Parole Hearing | NBC Nightly News",
-            "secondDuration": 127,
-            "group": "group_7"
-        },
-        {
             "videoId": "yY_YmyWKr5Q",
             "title": "Senate Republicans React Following White House Health Care Meeting | NBC News",
             "secondDuration": 102,
@@ -31,8 +25,14 @@
             "title": "Watch This Son's Harrowing Account of Caring for a Mom With Sudden Dementia | NBC News",
             "secondDuration": 634,
             "group": "group_7"
+        },
+        {
+            "videoId": "Ge-d73CZOX4",
+            "title": "Natalia Veselnitskaya Ready To Testify Before U.S. Senate | NBC News",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

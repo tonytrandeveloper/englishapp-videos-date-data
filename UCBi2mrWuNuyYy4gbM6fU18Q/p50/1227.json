@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "-aYAwsG5oJw",
-            "title": "Sander Levin: 'I Want to Run Again'",
-            "secondDuration": 465,
-            "group": "group_7"
-        },
-        {
             "videoId": "-oihMK73zi0",
             "title": "'Semper Fi: Always Faithful' - A New Documentary",
             "secondDuration": 296,
@@ -301,8 +295,14 @@
             "title": "Jenn Sterger Interview on 'GMA': Tried to Keep Quiet on Brett Favre Scandal 2011",
             "secondDuration": 320,
             "group": "group_7"
+        },
+        {
+            "videoId": "k8O9AcFIQw0",
+            "title": "Jenn Sterger Interview: 'I've Never Met Brett Favre' 'GMA' 2011",
+            "secondDuration": 357,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

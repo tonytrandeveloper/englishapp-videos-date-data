@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "va8GfHUbZRA",
-            "title": "Full Kinzinger: 'There Are People That Live In A Totally Different Reality'",
-            "secondDuration": 462,
-            "group": "group_7"
-        },
-        {
             "videoId": "yrDSq1UiUe8",
             "title": "Full Mayor Lightfoot: Chicago Teachers Must ‘Lean Into The Facts And The Science’",
             "secondDuration": 464,
@@ -61,8 +55,14 @@
             "title": "Severe Weather Cripples The U.S. From Coast To Coast",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "X_pGGGMYle4",
+            "title": "Hospitals Pushed To The Brink With Covid Cases On The Rise",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

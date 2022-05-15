@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "YbEgZp8_1Lg",
-            "title": "Democrats Sharpen Attacks On Michael Bloomberg Ahead Of Las Vegas Debate | NBC News Now",
-            "secondDuration": 470,
-            "group": "group_7"
-        },
-        {
             "videoId": "IGLMXlmO8KA",
             "title": "California Blaze Leaves One Firefighter Dead, One Missing | NBC News",
             "secondDuration": 55,
@@ -301,8 +295,14 @@
             "title": "Bloomberg Under Fire For Alleged Past Remarks About Women In The Workplace | NBC Nightly News",
             "secondDuration": 95,
             "group": "group_7"
+        },
+        {
+            "videoId": "45lRf38yPjQ",
+            "title": "Growing Number Of Cities Suspending Recycling Programs Over Rising Costs | NBC Nightly News",
+            "secondDuration": 150,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

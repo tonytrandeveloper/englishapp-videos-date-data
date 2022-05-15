@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pziBaToTKVQ",
-            "title": "Inauguration 2013: Obamas Attend 2 Balls",
-            "secondDuration": 221,
-            "group": "group_7"
-        },
-        {
             "videoId": "n06RJKsVw2E",
             "title": "Extreme Weather: Arctic Blast Hits The Country",
             "secondDuration": 122,
@@ -61,8 +55,14 @@
             "title": "Algerian Hostage Crisis: New Details Emerge, Video Released",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "v8LHGKmwfIM",
+            "title": "Student Ambassadors Witness History",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "OVawMyMxHpE",
-            "title": "President Donald Trump: ‘This Is Impeachment lite’ | NBC News",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "yRxOCNSIbFo",
             "title": "Continuing Volcanic Activity Prevents Recovery Of Bodies From White Island | NBC News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "Baltimore Real Estate Company Surprises Employees With $10M In Bonuses | NBC Nightly News",
             "secondDuration": 90,
             "group": "group_7"
+        },
+        {
+            "videoId": "TtfljFP7p2w",
+            "title": "NRA, Houston Police Union Denounces Police Chief’s Plea For Stronger Gun Control | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

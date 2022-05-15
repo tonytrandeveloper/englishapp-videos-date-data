@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "hJquH8-Hnm8",
-            "title": "Texas Executes Man for Killing 12-Year-Old Boy",
-            "secondDuration": 141,
-            "group": "group_7"
-        },
-        {
             "videoId": "Sa08uRfDxE0",
             "title": "Zika Virus Vaccine | Feds Earmark Millions for Research",
             "secondDuration": 66,
@@ -31,8 +25,14 @@
             "title": "Apple Encryption Battle | FBI Director Defends Hacking 'Narrow Slice' of  iPhones",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "twMrpJa95jU",
+            "title": "Woman Secretly Records Her Doctors Insulting Her During Surgery",
+            "secondDuration": 139,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

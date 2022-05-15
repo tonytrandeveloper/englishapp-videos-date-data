@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "vavqvTFJzzA",
-            "title": "Billy Idol Performs at Fan's Birthday Party",
-            "secondDuration": 161,
-            "group": "group_7"
-        },
-        {
             "videoId": "NeDsB6-tfCg",
             "title": "Jessica Biel Plans on Changing Her Last Name to Timberlake",
             "secondDuration": 124,
@@ -61,8 +55,14 @@
             "title": "The Sixth Sense: The Performers",
             "secondDuration": 562,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNQmZLGtsog",
+            "title": "Taylor Swift: New Album, New Pressures",
+            "secondDuration": 350,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

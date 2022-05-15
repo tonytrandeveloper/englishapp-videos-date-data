@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2dZiX8PCxWQ",
-            "title": "Teen pilot lands plane safely after losing wheel just after takeoff",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "_sO5EOnL_Co",
             "title": "9/11 marked in NYC with moment of silence",
             "secondDuration": 233,
@@ -61,8 +55,14 @@
             "title": "Tennis officials stand by US Open umpire in Serena Williams flap",
             "secondDuration": 139,
             "group": "group_7"
+        },
+        {
+            "videoId": "5ONbX3tGXqY",
+            "title": "Homecoming queen makes game-winning kick during football game",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

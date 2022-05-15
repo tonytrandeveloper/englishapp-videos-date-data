@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "HFGC2xEwyGw",
-            "title": "Paris Attack: Man Enters Paris Police Station With Knife And Vest",
-            "secondDuration": 86,
-            "group": "group_7"
-        },
-        {
             "videoId": "DDkZLUm6HLc",
             "title": "Former CNN Anchor, Reporter Use Concealed Weapon to Survive Shootout",
             "secondDuration": 459,
@@ -121,8 +115,14 @@
             "title": "Climb Inside the Hidden World of Glaciers",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "oAh0eXObg8Q",
+            "title": "Index: Car Salesman Kidnapped on a Test Drive",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

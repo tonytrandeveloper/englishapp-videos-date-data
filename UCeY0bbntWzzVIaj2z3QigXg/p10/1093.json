@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2IF40he7EhE",
-            "title": "Amy Coney Barrett: 'I Am Not A Liar' | NBC News NOW",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "y5uVVjzMcp8",
             "title": "After Obamacare: What Day 1 Could Look Like If It’s Repealed | NBC News",
             "secondDuration": 481,
@@ -61,8 +55,14 @@
             "title": "Eli Lilly’s Coronavirus Antibody Treatment Trial Halted | NBC Nightly News",
             "secondDuration": 185,
             "group": "group_7"
+        },
+        {
+            "videoId": "sC69ZFvhvkE",
+            "title": "Republicans Defend, Praise Barrett During Day Two Of Confirmation Hearings | NBC News NOW",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dp1DSIeuHXU",
-            "title": "JetBlue Flight Turbulence Severely Injures 24",
-            "secondDuration": 123,
-            "group": "group_7"
-        },
-        {
             "videoId": "ui4wczwZbAE",
             "title": "Olympics Medal Count | TEAM USA on Top",
             "secondDuration": 41,
@@ -31,8 +25,14 @@
             "title": "Olympic Cyclist Kristin Armstrong on Seeing Her Son at Finish Line",
             "secondDuration": 148,
             "group": "group_7"
+        },
+        {
+            "videoId": "NytkTAuu1K0",
+            "title": "College Students Found After Lost in Cave",
+            "secondDuration": 159,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

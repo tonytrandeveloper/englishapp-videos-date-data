@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "q7NWciCYsy0",
-            "title": "Donald Trump Praises ‘Unbreakable’ Friendship Between U.S., France | NBC News",
-            "secondDuration": 83,
-            "group": "group_7"
-        },
-        {
             "videoId": "xNJAy1NNm-o",
             "title": "President Donald Trump On Paris Climate Accord: ‘Something Could Happen’ | NBC News",
             "secondDuration": 52,
@@ -121,8 +115,14 @@
             "title": "Christopher Wray Weighs In On Potential Loyalty Oaths, Illegal Political Requests | NBC News",
             "secondDuration": 59,
             "group": "group_7"
+        },
+        {
+            "videoId": "g-GfRGOGpas",
+            "title": "Christopher Wray FBI Nomination Hearing | NBC News",
+            "secondDuration": 16454,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

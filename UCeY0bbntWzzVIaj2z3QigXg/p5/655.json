@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FKh4yjYDGH4",
-            "title": "Jury Selection To Begin In Trial Of Former Officer Charged With Daunte Wright’s Death",
-            "secondDuration": 320,
-            "group": "group_7"
-        },
-        {
             "videoId": "Mn6ewtwX2Ic",
             "title": "Trial Begins In Jussie Smollett Case",
             "secondDuration": 246,
@@ -31,8 +25,14 @@
             "title": "Oakland Police Searching For Suspects In Security Guard's Death",
             "secondDuration": 237,
             "group": "group_7"
+        },
+        {
+            "videoId": "FdSQrfstUbI",
+            "title": "Nightly News Full Broadcast - Nov. 29",
+            "secondDuration": 1145,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

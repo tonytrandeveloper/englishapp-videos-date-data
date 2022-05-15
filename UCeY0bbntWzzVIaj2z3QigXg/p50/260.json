@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "ziWl6rLE4fw",
-            "title": "Live: White House Holds Press Briefing | NBC News",
-            "secondDuration": 1290,
-            "group": "group_7"
-        },
-        {
             "videoId": "zbX_QKC76Qw",
             "title": "She Has Low Immunity. See How She's Living During The Pandemic | NBC News",
             "secondDuration": 307,
@@ -301,8 +295,14 @@
             "title": "Will The Coronavirus Pandemic Finally Make Milan Go Green? | NBC News",
             "secondDuration": 392,
             "group": "group_7"
+        },
+        {
+            "videoId": "4QH1lz3vKNY",
+            "title": "Liverpool Soccer Fans Forget Social Distancing To Celebrate EPL Championship | NBC News NOW",
+            "secondDuration": 70,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

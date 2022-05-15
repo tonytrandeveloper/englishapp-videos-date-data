@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "dGthmu-fWRI",
-            "title": "Elephant Crashes Party on Safari",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "zyZlMHviFSE",
             "title": "Hillary Clinton 'Sorry' Her Use Of Private E-Mail Has Raised Questions",
             "secondDuration": 17,
@@ -31,8 +25,14 @@
             "title": "Prescription Drugs Don't Have to Bust Your Budget",
             "secondDuration": 200,
             "group": "group_7"
+        },
+        {
+            "videoId": "-74OF2H9piA",
+            "title": "Serena Williams to Face Sister Venus on Road to Possible Grand Slam",
+            "secondDuration": 140,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

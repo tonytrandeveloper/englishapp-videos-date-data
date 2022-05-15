@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "6tfTbkA2eBE",
-            "title": "What happened when a gunman opened fire at Texas church killing 26, including children | ABC News",
-            "secondDuration": 652,
-            "group": "group_7"
-        },
-        {
             "videoId": "IE9UVS1WsyM",
             "title": "From small town life to stardom: Luke Bryan on overcoming tragedy and his success",
             "secondDuration": 322,
@@ -31,8 +25,14 @@
             "title": "New developments in the attack on Sen. Rand Paul",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "YpSbyMdbU9A",
+            "title": "Local neighbor confronts Sutherland Springs gunman",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

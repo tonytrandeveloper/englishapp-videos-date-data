@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "g-GfRGOGpas",
-            "title": "Christopher Wray FBI Nomination Hearing | NBC News",
-            "secondDuration": 16454,
-            "group": "group_7"
-        },
-        {
             "videoId": "jmwIheX5bZg",
             "title": "FBI Director Nominee Christopher Wray: Meeting Alone With Donald Trump ‘Highly Unlikely’ | NBC News",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Algorithm Helping Police Predict Crime | Mach | NBC News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZgHJjf2SyU8",
+            "title": "FBI Nominee Christopher Wray Pledges 'Strict Independence' From Political Influence | NBC News",
+            "secondDuration": 100,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

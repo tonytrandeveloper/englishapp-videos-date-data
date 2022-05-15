@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YTmRhAHXzUw",
-            "title": "President Trump signals separation from Rudy Giuliani l ABC News",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "eb6TdjcshAo",
             "title": "Storm threats ahead of busy holiday travel l ABC News",
             "secondDuration": 150,
@@ -31,8 +25,14 @@
             "title": "These growing families have a lot to be thankful for",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "GJCOTA8obmw",
+            "title": "Elite climber rescued after fall on Yosemite’s El Capitan",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

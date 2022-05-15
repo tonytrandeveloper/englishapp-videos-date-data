@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "yJv4G3En0pk",
-            "title": "War Torn Syria Through the Eyes of a Child",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "MFm4t_rnWSQ",
             "title": "Olympics | Historic Wins For Team USA",
             "secondDuration": 82,
@@ -61,8 +55,14 @@
             "title": "LeBron James Highlights His Work Off The Court",
             "secondDuration": 397,
             "group": "group_7"
+        },
+        {
+            "videoId": "aNK-MT3zPxU",
+            "title": "Dallas Shooter's Weapons Removed by Army During Deployment",
+            "secondDuration": 40,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

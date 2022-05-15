@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "jEe84MW1H9c",
-            "title": "Multiple Wildfires Threaten The Western U.S. | NBC Nightly News",
-            "secondDuration": 97,
-            "group": "group_7"
-        },
-        {
             "videoId": "l7iMxRsB3C4",
             "title": "Cohen: To Shake Up Legal Team Amid Speculation He May Cooperate With Prosecutors | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Senator Elizabeth Warren: There Is 'Corruption' In President Donald Trump Administration | NBC News",
             "secondDuration": 84,
             "group": "group_7"
+        },
+        {
+            "videoId": "7RAqXnzdfVk",
+            "title": "Way Too Early: The 2020 Election | NBC News",
+            "secondDuration": 19709,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

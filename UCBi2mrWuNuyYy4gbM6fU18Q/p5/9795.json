@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "FmQiDxZPd_U",
-            "title": "Moment of Crisis: Hostage Negotiators on the Job",
-            "secondDuration": 348,
-            "group": "group_7"
-        },
-        {
             "videoId": "FegiXM28A6M",
             "title": "Pet Parrot Saves Family from Florida House Fire",
             "secondDuration": 48,
@@ -31,8 +25,14 @@
             "title": "Gov. Chris Christie's State of the State Address",
             "secondDuration": 100,
             "group": "group_7"
+        },
+        {
+            "videoId": "sR_0aA2NpD4",
+            "title": "Some Residents Still Fearful About Drinking Water in West Virginia",
+            "secondDuration": 120,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

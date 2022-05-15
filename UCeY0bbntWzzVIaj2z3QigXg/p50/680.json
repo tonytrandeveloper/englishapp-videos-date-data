@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "AMmyquq047s",
-            "title": "Cuban Entrepreneurs Consider The Future | NBC News",
-            "secondDuration": 147,
-            "group": "group_7"
-        },
-        {
             "videoId": "omrB6cr_gTo",
             "title": "Bernie Sanders: Clearly More Needs To Be Done To Combat ISIS | NBC News",
             "secondDuration": 100,
@@ -301,8 +295,14 @@
             "title": "CDC Issues New Guidelines in Effort to Stop U.S. Painkiller Epidemic | NBC Nightly News",
             "secondDuration": 138,
             "group": "group_7"
+        },
+        {
+            "videoId": "_jU1V8AD62o",
+            "title": "Swollen Rivers, Historic Flooding Across the South | NBC Nightly News",
+            "secondDuration": 126,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

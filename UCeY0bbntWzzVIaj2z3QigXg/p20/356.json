@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "twYgwa3EZYQ",
-            "title": "Examining The Complicated History Of The Israeli-Palestinian Conflict",
-            "secondDuration": 318,
-            "group": "group_7"
-        },
-        {
             "videoId": "gfPS36svpt4",
             "title": "Rep. Marjorie Taylor Greene Claims Capitol Rioters Are 'Being Abused'",
             "secondDuration": 71,
@@ -121,8 +115,14 @@
             "title": "Three Generations Fight For Equality In Louisville",
             "secondDuration": 166,
             "group": "group_7"
+        },
+        {
+            "videoId": "8Z7mmAm8lUQ",
+            "title": "Texas Bans Mask Mandates Following CDC Guidance",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

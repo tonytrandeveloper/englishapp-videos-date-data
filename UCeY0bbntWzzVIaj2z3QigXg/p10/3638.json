@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5HNu_SRMRpg",
-            "title": "Jeff Cole: \"For student success, it takes...\"",
-            "secondDuration": 9,
-            "group": "group_7"
-        },
-        {
             "videoId": "Uv7qgPG_D5M",
             "title": "Jason Roberts: \"For student success, it takes...\"",
             "secondDuration": 16,
@@ -61,8 +55,14 @@
             "title": "Kyle Scott: \"For student success, I believe it takes...\"",
             "secondDuration": 9,
             "group": "group_7"
+        },
+        {
+            "videoId": "lE_B2gO0R8A",
+            "title": "Andrew Arenge: \"For student success, I believe it takes...\"",
+            "secondDuration": 27,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

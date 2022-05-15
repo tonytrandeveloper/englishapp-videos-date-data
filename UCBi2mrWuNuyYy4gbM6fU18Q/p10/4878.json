@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mCS_vO2YePw",
-            "title": "Russia's Sochi Olympics Security Could Be Flawed",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "eR_Jjun61AM",
             "title": "Former Chris Christie Official Paints New Picture of Bridge Scandal",
             "secondDuration": 243,
@@ -61,8 +55,14 @@
             "title": "Amanda Knox Verdict: Guilty",
             "secondDuration": 191,
             "group": "group_7"
+        },
+        {
+            "videoId": "de3H_KwxsJA",
+            "title": "American Athletes Arrive in Sochi Amid Terror Fears",
+            "secondDuration": 76,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

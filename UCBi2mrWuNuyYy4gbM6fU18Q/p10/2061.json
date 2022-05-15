@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "6Ofz4BwubMI",
-            "title": "Former Dem and GOP prosecutors lash out at Trump",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "jVReTiVPk4s",
             "title": "Cops arrest man wanted for gunning down police officer",
             "secondDuration": 123,
@@ -61,8 +55,14 @@
             "title": "What will be the new royal baby's name?",
             "secondDuration": 75,
             "group": "group_7"
+        },
+        {
+            "videoId": "9VFKssfuyek",
+            "title": "Briefing Room: Markets down, Congress/White House subpoena clash, US carrier group to Persian Gulf",
+            "secondDuration": 1805,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eODVY2K700A",
-            "title": "Arizona Wildfire: 19 Firefighters Killed, 'Hot Shots' Squad Trapped in Out of Control Blaze",
-            "secondDuration": 128,
-            "group": "group_7"
-        },
-        {
             "videoId": "GkNesNNobvo",
             "title": "NFL Hero Battling ALS Creates Video Journal for Son",
             "secondDuration": 402,
@@ -31,8 +25,14 @@
             "title": "Orphaned Cincinnati Zoo Gorilla Gladys Adopted by New Mom",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "gl4EmnrRfPk",
+            "title": "WEBCAST: 19 Firefighters Killed in Arizona Wildfire",
+            "secondDuration": 125,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "S537XYmFkQY",
-            "title": "Senator Tim Kaine Reacts to Trump's Immigration Speech",
-            "secondDuration": 271,
-            "group": "group_7"
-        },
-        {
             "videoId": "kHjBWUKDUYw",
             "title": "Donald Trump Delivers Fiery Immigration Speech",
             "secondDuration": 205,
@@ -31,8 +25,14 @@
             "title": "Blurred Lines Appeal Gets Support of 200+ Musicians",
             "secondDuration": 81,
             "group": "group_7"
+        },
+        {
+            "videoId": "WzxqrMBuCXE",
+            "title": "Clinton on Trump's Trip to Mexico: 'It's More Than a Photo Op'",
+            "secondDuration": 110,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

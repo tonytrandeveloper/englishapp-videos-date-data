@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "a7WlctMrV78",
-            "title": "Gatlinburg Mayor Loses Home in Tennessee Wildfires",
-            "secondDuration": 111,
-            "group": "group_7"
-        },
-        {
             "videoId": "qCGwXxA5buU",
             "title": "Mom Fights Back Against Cruel Meme of Terminally-Ill Toddler",
             "secondDuration": 49,
@@ -61,8 +55,14 @@
             "title": "Former NFL Player Shot in Road Rage Incident",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "htHPhLKjbvo",
+            "title": "Obama Lights National Christmas Tree for Final Time",
+            "secondDuration": 37,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

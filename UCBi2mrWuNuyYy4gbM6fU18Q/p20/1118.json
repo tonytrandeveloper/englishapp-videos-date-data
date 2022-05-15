@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5bMIPk6X3WY",
-            "title": "Federal judge strikes down Obamacare law",
-            "secondDuration": 172,
-            "group": "group_7"
-        },
-        {
             "videoId": "oHnf5Ywn964",
             "title": "Giuliani: Hush money payments to Stormy Daniels and Karen McDougal 'not a crime'",
             "secondDuration": 1056,
@@ -121,8 +115,14 @@
             "title": "Family of American student found dead in Netherlands speaks out",
             "secondDuration": 156,
             "group": "group_7"
+        },
+        {
+            "videoId": "rb81QmP6fpo",
+            "title": "CBS acknowledges confidential $9.5M settlement with actress",
+            "secondDuration": 154,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

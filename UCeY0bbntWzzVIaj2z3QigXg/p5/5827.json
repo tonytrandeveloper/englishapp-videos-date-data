@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "BW_ddCh0l0w",
-            "title": "Police Investigating Denver Cheerleading Coach | NBC Nightly News",
-            "secondDuration": 114,
-            "group": "group_7"
-        },
-        {
             "videoId": "_BkVjY4FIxU",
             "title": "Priest Apologizes To Diocese For KKK Past | NBC Nightly News",
             "secondDuration": 115,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Threatens Government Shutdown Over Border Wall | NBC Nightly News",
             "secondDuration": 143,
             "group": "group_7"
+        },
+        {
+            "videoId": "vTCLrIsUO88",
+            "title": "Hurricane Harvey Intensifies As It Roars Towards Texas | NBC Nightly News",
+            "secondDuration": 142,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

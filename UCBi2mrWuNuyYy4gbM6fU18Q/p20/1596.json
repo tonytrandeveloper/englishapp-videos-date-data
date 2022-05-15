@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "GAziH3u6MEU",
-            "title": "Underwater in Pearl Harbor",
-            "secondDuration": 2853,
-            "group": "group_7"
-        },
-        {
             "videoId": "DG9qcdvAUxM",
             "title": "'Overwhelming Evidence' Russia Interfered with US Presidential Election: Rep. Cummings",
             "secondDuration": 41,
@@ -121,8 +115,14 @@
             "title": "Naomi Judd Opens Up About Long Struggle With Severe Depression",
             "secondDuration": 452,
             "group": "group_7"
+        },
+        {
+            "videoId": "rGChofYzCIk",
+            "title": "Inside Aleppo: Families' Emotional Return Home After Fleeing Years Ago",
+            "secondDuration": 471,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

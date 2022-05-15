@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "52ZHFsgr9gQ",
-            "title": "Boston Bombing Day 3 | Rumors Run Wild, $1B System Fails",
-            "secondDuration": 439,
-            "group": "group_7"
-        },
-        {
             "videoId": "cqgOgK9Eyng",
             "title": "Hillary Clinton 'GMA' FULL Town Hall | Democratic Candidate Answers Voter Questions",
             "secondDuration": 1579,
@@ -61,8 +55,14 @@
             "title": "Curt Schilling Fired by ESPN Over Offensive Meme",
             "secondDuration": 101,
             "group": "group_7"
+        },
+        {
+            "videoId": "g48bKxutOPI",
+            "title": "Teacher Aide Shoves, Chokes Student [CAUGHT ON TAPE]",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

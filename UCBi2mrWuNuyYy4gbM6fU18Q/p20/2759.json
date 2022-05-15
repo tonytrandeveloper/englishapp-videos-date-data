@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "RpuPjnbH6ro",
-            "title": "Barack Obama: Behind the Scenes of President's 2012 Campaign",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "3CXVt2OpcGY",
             "title": "Plane Collides with SUV While Landing at Texas Airport",
             "secondDuration": 112,
@@ -121,8 +115,14 @@
             "title": "Overcoming Sandy: Beachfront Towns Burned, Flooded After Storm",
             "secondDuration": 186,
             "group": "group_7"
+        },
+        {
+            "videoId": "x8H_JhCaTss",
+            "title": "Toddler at Pittsburgh Zoo Killed in Painted Dog Exhibit",
+            "secondDuration": 167,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

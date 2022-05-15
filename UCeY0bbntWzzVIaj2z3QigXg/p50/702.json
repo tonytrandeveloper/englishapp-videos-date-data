@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "_xY4iz6Ly94",
-            "title": "President Obama On Russia Sanctions At G7 Summit | NBC Nightly News",
-            "secondDuration": 107,
-            "group": "group_7"
-        },
-        {
             "videoId": "560jLxpN8oM",
             "title": "High Schools Claim Multiple Valedictorians | NBC Nightly News",
             "secondDuration": 119,
@@ -301,8 +295,14 @@
             "title": "FBI Investigating Chemical Weapons Threat Against Airplanes | NBC Nightly News",
             "secondDuration": 123,
             "group": "group_7"
+        },
+        {
+            "videoId": "6g3T79EF06c",
+            "title": "Cleveland Cop Acquittal Leads To Protests And Over 70 Arrests | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 737,
-    "nbResults": 36827
+    "nbResults": 36826
 }

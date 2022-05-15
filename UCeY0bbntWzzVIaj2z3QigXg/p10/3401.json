@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "_jU1V8AD62o",
-            "title": "Swollen Rivers, Historic Flooding Across the South | NBC Nightly News",
-            "secondDuration": 126,
-            "group": "group_7"
-        },
-        {
             "videoId": "7fi_Qix5KBE",
             "title": "Entire DC Metro System Shut Down For Emergency Inspections | NBC Nightly News",
             "secondDuration": 116,
@@ -61,8 +55,14 @@
             "title": "American ISIS Fighter Reportedly Detained by Kurdish Forces in Iraq | NBC Nightly News",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "i-VkyqTpGBk",
+            "title": "Family Shares Photo of 14-Year-Old Kalamazoo Shooting Survivor | NBC Nightly News",
+            "secondDuration": 121,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

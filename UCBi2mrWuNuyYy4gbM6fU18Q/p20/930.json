@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "5EBnXw9omGg",
-            "title": "Plane passengers see flames after bird strike l ABC News",
-            "secondDuration": 131,
-            "group": "group_7"
-        },
-        {
             "videoId": "LweqG_Z8_uU",
             "title": "Remembering Sept. 11 and hugs for Prince Harry: World in Photos, Sept. 12",
             "secondDuration": 116,
@@ -121,8 +115,14 @@
             "title": "US led coalition drops explosives on ISIS in Iraq l ABC News",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "EhpRulW4iwU",
+            "title": "NFL star Antonio Brown accused of sexual assault l ABC News",
+            "secondDuration": 360,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

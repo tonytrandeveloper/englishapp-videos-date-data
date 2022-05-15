@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "mm0Q334cjMQ",
-            "title": "Baltimore Police Accused of 'Conduct That Violates' the Constitution",
-            "secondDuration": 175,
-            "group": "group_7"
-        },
-        {
             "videoId": "NvCTSR1OZOo",
             "title": "Transgender Kid's Mom Fights School Over Bathroom Rights",
             "secondDuration": 133,
@@ -61,8 +55,14 @@
             "title": "Woman Delivers Baby in Hospital Toilet",
             "secondDuration": 67,
             "group": "group_7"
+        },
+        {
+            "videoId": "Vd0CauPpgkY",
+            "title": "Shots Fired During Peaceful Protest in Ferguson",
+            "secondDuration": 31,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

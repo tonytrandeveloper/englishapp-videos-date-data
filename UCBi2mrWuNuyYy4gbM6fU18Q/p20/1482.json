@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "WGfeM1kAvgg",
-            "title": "Congress, White House tries to strike budget deal as government shutdown looms",
-            "secondDuration": 80,
-            "group": "group_7"
-        },
-        {
             "videoId": "iW0lTO6NOoc",
             "title": "Another American detained in North Korea",
             "secondDuration": 125,
@@ -121,8 +115,14 @@
             "title": "Narrow escape from 2015 Mount Everest earthquake caught on camera",
             "secondDuration": 330,
             "group": "group_7"
+        },
+        {
+            "videoId": "MtGNmZ1gr3A",
+            "title": "Caitlyn Jenner reflects on transitioning to a woman: Part 1",
+            "secondDuration": 529,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

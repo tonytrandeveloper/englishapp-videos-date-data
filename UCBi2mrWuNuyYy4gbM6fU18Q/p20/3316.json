@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Tpe-gKbGnbQ",
-            "title": "Breakdown of Apollo 11",
-            "secondDuration": 68,
-            "group": "group_7"
-        },
-        {
             "videoId": "-pceDTbCNlQ",
             "title": "1969 Profile of Neil Armstrong",
             "secondDuration": 154,
@@ -121,8 +115,14 @@
             "title": "M.J. Friend Recounts Fire Mishap",
             "secondDuration": 357,
             "group": "group_7"
+        },
+        {
+            "videoId": "RJGNmHXrBFw",
+            "title": "Random Animal Facts",
+            "secondDuration": 196,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

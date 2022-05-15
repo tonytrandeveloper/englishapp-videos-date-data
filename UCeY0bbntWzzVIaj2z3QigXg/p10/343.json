@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "Y6egM9QaINk",
-            "title": "Children’s Hospital of Milwaukee Provides Update After Christmas Parade",
-            "secondDuration": 1152,
-            "group": "group_7"
-        },
-        {
             "videoId": "C4FFWGCxsZ4",
             "title": "Morning News NOW Full Broadcast - Nov. 22",
             "secondDuration": 2929,
@@ -61,8 +55,14 @@
             "title": "Nightly News Full Broadcast - Nov. 21",
             "secondDuration": 1302,
             "group": "group_7"
+        },
+        {
+            "videoId": "EIfJ8TU84bw",
+            "title": "LIVE: Officials Hold Briefing After SUV Plows Into Wisconsin Holiday Parade | NBC News",
+            "secondDuration": 631,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fCKukwohuWk",
-            "title": "911 dispatcher under fire for chastising woman who later died drowning in flash flood",
-            "secondDuration": 102,
-            "group": "group_7"
-        },
-        {
             "videoId": "cUL0lgBzLvs",
             "title": "Authorities investigating mysterious deaths at VA hospital",
             "secondDuration": 97,
@@ -61,8 +55,14 @@
             "title": "Alex Trebek done with chemo, back on 'Jeopardy!' | ABC News",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "iNcRfVZ3HlE",
+            "title": "Coco Gauff scores epic 3-set win at US Open | ABC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

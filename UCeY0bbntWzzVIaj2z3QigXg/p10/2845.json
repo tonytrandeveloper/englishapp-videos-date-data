@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZatVk94JZrI",
-            "title": "Solomeo, Italy: Where the King of Cashmere Rules with a Gentle Hand | Think | NBC News",
-            "secondDuration": 256,
-            "group": "group_7"
-        },
-        {
             "videoId": "21p-u04TUT0",
             "title": "Aerial Video Shows Widespread California Wildfires | NBC News",
             "secondDuration": 70,
@@ -61,8 +55,14 @@
             "title": "Update on Las Vegas Massacre Investigation (Full) | NBC News",
             "secondDuration": 1072,
             "group": "group_7"
+        },
+        {
+            "videoId": "kQueh07MbmA",
+            "title": "Massive Forest Fires Rage Through California | NBC News",
+            "secondDuration": 127,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

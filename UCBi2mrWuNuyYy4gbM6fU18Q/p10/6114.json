@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "NDi0t0UFuXw",
-            "title": "Mick Mulvaney: 'Level Playing Field' on Subsidies",
-            "secondDuration": 278,
-            "group": "group_7"
-        },
-        {
             "videoId": "UVFj1kzeFvQ",
             "title": "Newt Gingrich Announces Race Via Twitter",
             "secondDuration": 266,
@@ -61,8 +55,14 @@
             "title": "X-Ray: Man Impaled by Pipe in Head Survives",
             "secondDuration": 189,
             "group": "group_7"
+        },
+        {
+            "videoId": "nN0qm9AzZXw",
+            "title": "Donald Trump's Poll Numbers Crash as Barack Obama's Rises",
+            "secondDuration": 141,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

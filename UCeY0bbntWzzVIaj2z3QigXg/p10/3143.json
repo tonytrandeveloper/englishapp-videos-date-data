@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "t1N1Y77xqBk",
-            "title": "Chicago Seeing Little To No Snow Through Winter | NBC News",
-            "secondDuration": 60,
-            "group": "group_7"
-        },
-        {
             "videoId": "d7Vou0Etcjw",
             "title": "New Wave Of Bomb Threats Target Jewish Centers And Schools Across East U.S. | NBC Nightly News",
             "secondDuration": 111,
@@ -61,8 +55,14 @@
             "title": "‘Biggest Loser’ Trainer Bob Harper Suffers Heart Attack | NBC Nightly News",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "lS0OF9YCMkM",
+            "title": "White House Responds To Ryan Owens’ Father’s ‘Stupid Mission’ Statement | NBC News",
+            "secondDuration": 112,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "KTz-HC2tsLE",
-            "title": "Trump's defense secretary pick Mark Esper swearing-in ceremony | ABC News",
-            "secondDuration": 336,
-            "group": "group_7"
-        },
-        {
             "videoId": "9nihxAwMVlQ",
             "title": "Jon Stewart, 9/11 first responders, members of Congress discuss passage of 9/11 funding bill",
             "secondDuration": 5108,
@@ -61,8 +55,14 @@
             "title": "The Debrief: Puerto Rico protest, Boris Johnson is new UK PM, Mueller to testify before congress",
             "secondDuration": 1462,
             "group": "group_7"
+        },
+        {
+            "videoId": "c9FoYWP_Lu0",
+            "title": "New images show couple before their deaths in Canada",
+            "secondDuration": 191,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

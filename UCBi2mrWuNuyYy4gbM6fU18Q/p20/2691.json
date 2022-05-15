@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "Xw0lIRUaxOU",
-            "title": "Soda Giant Coca-Cola Steps into Obesity Debate",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "mobU0j331DY",
             "title": "Hazardous Air Quality Forces Beijing Residents Indoors",
             "secondDuration": 122,
@@ -121,8 +115,14 @@
             "title": "Python Challenge: Snake Hunters Ready for Massive Wipeout",
             "secondDuration": 129,
             "group": "group_7"
+        },
+        {
+            "videoId": "TbDhb5WAY5A",
+            "title": "Assault Weapon Ban Standoff",
+            "secondDuration": 136,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

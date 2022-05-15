@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ZgdGvqOVkeY",
-            "title": "NOW Tonight with Joshua Johnson - Mar. 18 | NBC News NOW",
-            "secondDuration": 3202,
-            "group": "group_7"
-        },
-        {
             "videoId": "n2QWoEMkWNY",
             "title": "Top Story with Tom Llamas - Mar. 18 | NBC News NOW",
             "secondDuration": 2424,
@@ -61,8 +55,14 @@
             "title": "Hallie Jackson NOW - Mar. 18 | NBC News NOW",
             "secondDuration": 3157,
             "group": "group_7"
+        },
+        {
+            "videoId": "F8ZIfteUMUU",
+            "title": "Most Medical Debts To Be Removed From Credit Reports",
+            "secondDuration": 316,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

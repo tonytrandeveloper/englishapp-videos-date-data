@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "oN1g3Emt3K8",
-            "title": "Meet Piper, the Dog Who Keeps Airport Runways Safe",
-            "secondDuration": 77,
-            "group": "group_7"
-        },
-        {
             "videoId": "EnPWW-KeBZI",
             "title": "SUPER TUESDAY | Hillary Clinton Battles Bernie Sanders",
             "secondDuration": 174,
@@ -121,8 +115,14 @@
             "title": "Lady Gaga Oscar Performance | 2016 \"Til It Happens to You\"",
             "secondDuration": 160,
             "group": "group_7"
+        },
+        {
+            "videoId": "larGwthg_Wc",
+            "title": "Oscars 2016 | Joe Biden Introduces Lady Gaga's Performance",
+            "secondDuration": 64,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

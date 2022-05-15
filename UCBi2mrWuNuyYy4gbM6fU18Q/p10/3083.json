@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "UtvPGwFr3BA",
-            "title": "Trump References DNC Hacking in Cybersecurity Remarks",
-            "secondDuration": 146,
-            "group": "group_7"
-        },
-        {
             "videoId": "V6JDQlIQ1Nc",
             "title": "Tom Brady Tears Up After Boy's Question About Heroes | ABC News",
             "secondDuration": 29,
@@ -61,8 +55,14 @@
             "title": "Democratic Leaders Protest Trump Immigration Order on Supreme Court Steps (Full Event)| ABC News",
             "secondDuration": 2407,
             "group": "group_7"
+        },
+        {
+            "videoId": "VDneqowrn60",
+            "title": "Jeff Sessions to Sally Yates in 2015: ‘You Need to Say No’ to the President | ABC News",
+            "secondDuration": 227,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

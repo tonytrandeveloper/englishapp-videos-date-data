@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "htqw4XU3JuE",
-            "title": "Pow! Director Slaps Kanye West",
-            "secondDuration": 45,
-            "group": "group_7"
-        },
-        {
             "videoId": "2ytE3YP2BL8",
             "title": "House Dems' Near Trillion-Dollar Health Plan",
             "secondDuration": 157,
@@ -31,8 +25,14 @@
             "title": "Private Eye Hunts for Clues in Murder",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "czQgML4PVqQ",
+            "title": "It's On: Yankees vs. Phillies",
+            "secondDuration": 269,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

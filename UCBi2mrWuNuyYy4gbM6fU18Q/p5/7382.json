@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "rGlYQXu5BsY",
-            "title": "The Fight Against ISIS",
-            "secondDuration": 500,
-            "group": "group_7"
-        },
-        {
             "videoId": "d-J8I0sBYnI",
             "title": "Thieves Exploit Technology to Break Into Cars",
             "secondDuration": 95,
@@ -31,8 +25,14 @@
             "title": "Mother of Four Missing After Falling Overboard  From Cruise Ship",
             "secondDuration": 99,
             "group": "group_7"
+        },
+        {
+            "videoId": "pAD1qXdyMTA",
+            "title": "Six People Killed in Suicide Bombing Outside Baghdad",
+            "secondDuration": 124,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

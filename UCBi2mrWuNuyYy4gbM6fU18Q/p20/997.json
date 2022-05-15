@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "iQj6gaM36R0",
-            "title": "World in Photos, June 18: 'Strawberry Moon', Toronto Raptors and a baby monkey",
-            "secondDuration": 115,
-            "group": "group_7"
-        },
-        {
             "videoId": "j-cWZ9PIYR8",
             "title": "The Briefing Room: Trump's 2020 campaign kickoff, Iran tensions, China tariffs | ABC News",
             "secondDuration": 1680,
@@ -121,8 +115,14 @@
             "title": "World in Photos: Protests in Hong Kong, penitents in Spain and monks in Myanmar",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "tjKcn0g72TM",
+            "title": "Timelapse footage shows mass protests in Hong Kong",
+            "secondDuration": 68,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

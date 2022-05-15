@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "sUHz1l_dtxc",
-            "title": "Tim Kaine Casts Vote | Election 2016",
-            "secondDuration": 24,
-            "group": "group_7"
-        },
-        {
             "videoId": "7BPAGNUB2e8",
             "title": "Joe Biden Votes | Election 2016",
             "secondDuration": 36,
@@ -61,8 +55,14 @@
             "title": "Chilling Details of Suspected Serial Killer Arrested in South Carolina",
             "secondDuration": 97,
             "group": "group_7"
+        },
+        {
+            "videoId": "TwOLrDruOeU",
+            "title": "Presidential Election Polls Show a Virtual Tie in Florida and North Carolina",
+            "secondDuration": 71,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

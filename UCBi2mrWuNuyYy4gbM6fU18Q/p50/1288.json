@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "cUyW7IYY6OM",
-            "title": "Heart of Destruction",
-            "secondDuration": 195,
-            "group": "group_7"
-        },
-        {
             "videoId": "bBZm90GS4iY",
             "title": "Finding the American Heart",
             "secondDuration": 128,
@@ -301,8 +295,14 @@
             "title": "Charlie Sheen Enters Rehab",
             "secondDuration": 395,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZACSlKefZQk",
+            "title": "Is It OK to Be Fat?",
+            "secondDuration": 341,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

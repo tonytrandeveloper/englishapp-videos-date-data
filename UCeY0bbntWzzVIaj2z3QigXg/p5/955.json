@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Q9Gmq0zQx08",
-            "title": "The New Latino Landscape: New Hampshire’s Population Boom",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "YHDdcFzW2hk",
             "title": "Civilian Astronauts Set To Blast Off in Inspiration4 Launch",
             "secondDuration": 144,
@@ -31,8 +25,14 @@
             "title": "U.S. Gymnasts Testify in Senate Hearing on FBI Failures in Nassar Investigation",
             "secondDuration": 203,
             "group": "group_7"
+        },
+        {
+            "videoId": "hGX7E393DlM",
+            "title": "Biden Announces New Defense Agreement with U.K., Australia",
+            "secondDuration": 238,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

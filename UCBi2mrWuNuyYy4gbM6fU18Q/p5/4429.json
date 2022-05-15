@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "kJlBg3Lne90",
-            "title": "Tainted drugs: When medicine makes patients sicker",
-            "secondDuration": 398,
-            "group": "group_7"
-        },
-        {
             "videoId": "HU5f_nBLGRM",
             "title": "John Wayne Bobbitt tells his side of notorious incident after 25 years",
             "secondDuration": 251,
@@ -31,8 +25,14 @@
             "title": "Apple stock plummets 10%, erasing more than $74B in value",
             "secondDuration": 127,
             "group": "group_7"
+        },
+        {
+            "videoId": "ReEcE8ULSis",
+            "title": "Car strikes person riding scooter during California police chase",
+            "secondDuration": 104,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

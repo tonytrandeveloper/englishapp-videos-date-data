@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "IWYlyoyG0FY",
-            "title": "Vindman Tells Jordan He Would 'Never' Leak Information | NBC News",
-            "secondDuration": 148,
-            "group": "group_7"
-        },
-        {
             "videoId": "8rp9MxOt7r8",
             "title": "Schiff Stops Jim Jordan: Questions Should Not Be 'Trying To Out The Whistleblower' | NBC News",
             "secondDuration": 108,
@@ -31,8 +25,14 @@
             "title": "Vindman: 'I Knew I Had To Report' Trump's Call With Ukraine | NBC News",
             "secondDuration": 137,
             "group": "group_7"
+        },
+        {
+            "videoId": "9ki33HXTock",
+            "title": "Vindman: ‘Decision Was Made On The Fly’ To Move Ukraine Call Record To Secure System | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

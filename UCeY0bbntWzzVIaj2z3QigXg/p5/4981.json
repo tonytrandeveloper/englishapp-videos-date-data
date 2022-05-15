@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "-4LyQKf6rsM",
-            "title": "After Winning High School Baseball Game, Player Hugs Friend On Opposing Team | NBC Nightly News",
-            "secondDuration": 88,
-            "group": "group_7"
-        },
-        {
             "videoId": "ubDUzv1PKgo",
             "title": "North Korea Summit: What Comes Next? | NBC Nightly News",
             "secondDuration": 114,
@@ -31,8 +25,14 @@
             "title": "Judge Approves AT&T’s $85 Billion Time Warner Acquisition | NBC Nightly News",
             "secondDuration": 106,
             "group": "group_7"
+        },
+        {
+            "videoId": "snVQ3HwaqN0",
+            "title": "AT&T Buys Time Warner: Welcome To The Media’s Merger Mania | NBC News",
+            "secondDuration": 202,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

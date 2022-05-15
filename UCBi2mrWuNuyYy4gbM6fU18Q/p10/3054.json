@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "W5FRUM-AK9k",
-            "title": "Trump Full Press Conference (2/16/17) | ABC News",
-            "secondDuration": 4673,
-            "group": "group_7"
-        },
-        {
             "videoId": "J-Q_KjyShxU",
             "title": "President Trump: Russia Reports are 'Fake News'",
             "secondDuration": 128,
@@ -61,8 +55,14 @@
             "title": "Arrests made in apparent assassination of Kim Jong Un's half brother",
             "secondDuration": 141,
             "group": "group_7"
+        },
+        {
+            "videoId": "0zbe2ymU3vQ",
+            "title": "Plane makes emergency landing after hitting deer",
+            "secondDuration": 106,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

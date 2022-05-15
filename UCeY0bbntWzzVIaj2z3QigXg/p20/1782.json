@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "XKbq2qEJiFc",
-            "title": "Communist Cuba: The Early Days Of Castro | Flashback | NBC News",
-            "secondDuration": 663,
-            "group": "group_7"
-        },
-        {
             "videoId": "RiWieVb8yDQ",
             "title": "ISIS Funding: Where Does It Come From? | 30 STK | NBC News",
             "secondDuration": 51,
@@ -121,8 +115,14 @@
             "title": "Peshawar School Attack Aftermath | NBC News",
             "secondDuration": 48,
             "group": "group_7"
+        },
+        {
+            "videoId": "ArMumdJsh8s",
+            "title": "Peshawar School Attack Leaves Over 140 Dead | NBC Nightly News",
+            "secondDuration": 198,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

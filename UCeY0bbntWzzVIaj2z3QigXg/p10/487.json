@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "ow22zUAPD2Y",
-            "title": "Meet The FDNY Firefighters Who Served in Air Force Together After 9/11",
-            "secondDuration": 387,
-            "group": "group_7"
-        },
-        {
             "videoId": "Fen2NecaoV8",
             "title": "Morning News NOW Full Broadcast - September 10",
             "secondDuration": 2987,
@@ -61,8 +55,14 @@
             "title": "NBC Nightly News Full Broadcast - September 9th, 2021",
             "secondDuration": 1277,
             "group": "group_7"
+        },
+        {
+            "videoId": "ipy0mafpi_s",
+            "title": "NBC News NOW Full Broadcast – September 9, 2021",
+            "secondDuration": 3206,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

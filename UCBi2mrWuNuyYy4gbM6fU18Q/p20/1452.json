@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "9ei1yyoEwgU",
-            "title": "Newt Gingrich calls special counsel team 'bad people'",
-            "secondDuration": 277,
-            "group": "group_7"
-        },
-        {
             "videoId": "zZKiviVIAec",
             "title": "NBA MVP Kevin Durant reacts to Warriors win",
             "secondDuration": 266,
@@ -121,8 +115,14 @@
             "title": "Ken Starr reacts to James Comey's testimony",
             "secondDuration": 283,
             "group": "group_7"
+        },
+        {
+            "videoId": "yp7hekWOcLw",
+            "title": "Man freed after 17 years in prison when doppelganger found",
+            "secondDuration": 192,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

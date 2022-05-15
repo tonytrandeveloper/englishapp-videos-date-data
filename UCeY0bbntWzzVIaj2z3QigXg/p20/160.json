@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "aq5e_cc75N8",
-            "title": "LIVE: White House Holds Press Briefing | NBC News",
-            "secondDuration": 3200,
-            "group": "group_7"
-        },
-        {
             "videoId": "sw8tfvpBnvM",
             "title": "Prosecutor Details Charges Against Parents of Michigan School Shooting Suspect",
             "secondDuration": 365,
@@ -121,8 +115,14 @@
             "title": "How Amazon Gets Gifts To Your Door Just Two Days After Purchase",
             "secondDuration": 174,
             "group": "group_7"
+        },
+        {
+            "videoId": "zgjRxrbg8oA",
+            "title": "Blinken Seeks To Ease Russia-Ukraine Tensions",
+            "secondDuration": 111,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

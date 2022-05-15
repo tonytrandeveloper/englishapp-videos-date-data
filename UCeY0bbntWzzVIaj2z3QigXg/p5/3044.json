@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4vKjsa4xjjY",
-            "title": "Watch: Trump holds coronavirus meeting with nurses",
-            "secondDuration": 583,
-            "group": "group_7"
-        },
-        {
             "videoId": "LxqLFuSQGcQ",
             "title": "How To Get Tested For COVID-19 | NBC News NOW",
             "secondDuration": 825,
@@ -31,8 +25,14 @@
             "title": "Trump Invokes Defense Production Act To Aid Coronavirus Response | NBC News",
             "secondDuration": 115,
             "group": "group_7"
+        },
+        {
+            "videoId": "ZhNOuDYKkzM",
+            "title": "Trump, White House Coronavirus Task Force Hold News Conference | NBC News (Live Stream Recording)",
+            "secondDuration": 7841,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

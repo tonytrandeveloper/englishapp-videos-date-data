@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "kkyZFIjgo50",
-            "title": "On The Front Lines Of The California Wildfire | NBC Nightly News",
-            "secondDuration": 75,
-            "group": "group_7"
-        },
-        {
             "videoId": "WNjo3WmJkxM",
             "title": "Powerful Winds Spread Massive California Wildfires | NBC Nightly News",
             "secondDuration": 157,
@@ -61,8 +55,14 @@
             "title": "Donald Trump Announces The U.S. Recognizes Jerusalem As Israel’s Capital | NBC Nightly News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "krsMpbliG9I",
+            "title": "Southern California Wildfires Prompt Air Quality Warnings | NBC Nightly News",
+            "secondDuration": 93,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

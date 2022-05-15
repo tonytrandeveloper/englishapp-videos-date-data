@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "AlYPdXUa9c0",
-            "title": "Harvey Weinstein fired from the company he co-founded after misconduct allegations",
-            "secondDuration": 129,
-            "group": "group_7"
-        },
-        {
             "videoId": "IdiQlCd0zNA",
             "title": "Sen. Bob Corker: 'It's a shame the White House has become an adult day care center'",
             "secondDuration": 168,
@@ -31,8 +25,14 @@
             "title": "FEMA chief dismisses San Juan mayor's complaints as 'political noise'",
             "secondDuration": 236,
             "group": "group_7"
+        },
+        {
+            "videoId": "wxOwymYMUhU",
+            "title": "Trump offers vague threat against North Korea",
+            "secondDuration": 426,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "fUYLIx8NST0",
-            "title": "'The Bachelor': Kaitlyn Shares Thoughts on Final Moments",
-            "secondDuration": 152,
-            "group": "group_7"
-        },
-        {
             "videoId": "56lVY5RE-KU",
             "title": "Apple Unveils Ethnically Diverse Emojis",
             "secondDuration": 94,
@@ -61,8 +55,14 @@
             "title": "Meryl Streep Cheers Patricia Arquette's \"Equal Pay\" OSCARS Speech",
             "secondDuration": 164,
             "group": "group_7"
+        },
+        {
+            "videoId": "XdiPAS1kTQ8",
+            "title": "Eddie Redmayne, Julianne Moore Win Big at 2015 OSCARS",
+            "secondDuration": 155,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

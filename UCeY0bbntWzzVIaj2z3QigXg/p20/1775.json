@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "FdjTQPNaSW0",
-            "title": "Humans of NY Raises Over $1 Million For BK School | NBC Nightly News",
-            "secondDuration": 101,
-            "group": "group_7"
-        },
-        {
             "videoId": "nvtPR2w-WHQ",
             "title": "Wilson Footballs: From The Factory To The Field | NBC News",
             "secondDuration": 113,
@@ -121,8 +115,14 @@
             "title": "Car Stuck In Snow? Here's How To Get It Out | NBC News",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "qTQRbgwnRRw",
+            "title": "Snowflake Anatomy: Breathtaking Microscope Photos | NBC News",
+            "secondDuration": 103,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

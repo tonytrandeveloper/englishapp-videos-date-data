@@ -3,12 +3,6 @@
     "pageSize": 50,
     "items": [
         {
-            "videoId": "73ASB9VnW58",
-            "title": "NY GOP lawmaker charged with insider trading and lying to FBI",
-            "secondDuration": 185,
-            "group": "group_7"
-        },
-        {
             "videoId": "AHgCRol-d4U",
             "title": "Trump lawyers deny Mueller's request for in-person interview",
             "secondDuration": 196,
@@ -301,8 +295,14 @@
             "title": "An investigation into an off-duty NYPD sergeant allegedly shooting a man in the face",
             "secondDuration": 126,
             "group": "group_7"
+        },
+        {
+            "videoId": "sDnMzytFaFI",
+            "title": "Fired Ohio State assistant football coach breaks silence",
+            "secondDuration": 152,
+            "group": "group_7"
         }
     ],
     "nbPages": 1341,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "TN6wF7cxoas",
-            "title": "ABC's John Berman Says 'Ohio' is the State To Watch",
-            "secondDuration": 227,
-            "group": "group_7"
-        },
-        {
             "videoId": "IKVOvSu2jvs",
             "title": "DNC: We Think Races Have 'Tightened'",
             "secondDuration": 689,
@@ -31,8 +25,14 @@
             "title": "Party Chairmen Face-Off",
             "secondDuration": 375,
             "group": "group_7"
+        },
+        {
+            "videoId": "d6gFtFznOpE",
+            "title": "Blacks Against Obama",
+            "secondDuration": 122,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

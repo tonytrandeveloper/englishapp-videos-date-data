@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "2qEQFoKdPUc",
-            "title": "'Double-Dip' Recession?",
-            "secondDuration": 156,
-            "group": "group_7"
-        },
-        {
             "videoId": "N6iPW9noTD8",
             "title": "Springfield, Mass., Tornadoes: Lives Uprooted",
             "secondDuration": 126,
@@ -61,8 +55,14 @@
             "title": "Rep. Marlin Stutzman on White House Budget Meeting",
             "secondDuration": 369,
             "group": "group_7"
+        },
+        {
+            "videoId": "1b3PhfldHEw",
+            "title": "GOP 'Non-Candidate' Candidates Stay in Spotlight",
+            "secondDuration": 245,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

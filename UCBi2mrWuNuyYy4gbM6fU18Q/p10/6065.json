@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "K7dMVm9YEEw",
-            "title": "Diane Sawyer Exclusive Interview: Jaycee Lee Dugard Kidnapped at Age 11 (07.10.11)",
-            "secondDuration": 602,
-            "group": "group_7"
-        },
-        {
             "videoId": "jX7fvH_FCws",
             "title": "Diane Sawyer Exclusive Interview: Introducing Jaycee Lee Dugard to Nancy Garrido (07.10.11)",
             "secondDuration": 453,
@@ -61,8 +55,14 @@
             "title": "All Eyes on Duchess Catherine",
             "secondDuration": 294,
             "group": "group_7"
+        },
+        {
+            "videoId": "dX0vH6iAhfs",
+            "title": "Betty Ford Dies at Age 93: Wife of Gerald R. Ford and Former First Lady (07.08.11)",
+            "secondDuration": 164,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

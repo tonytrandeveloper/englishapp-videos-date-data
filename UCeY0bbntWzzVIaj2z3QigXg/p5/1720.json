@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "eK05I73_qA8",
-            "title": "White House Covid-19 Response Team Holds Briefing | NBC News",
-            "secondDuration": 1889,
-            "group": "group_7"
-        },
-        {
             "videoId": "GSgtfGAsoC4",
             "title": "Senate Clerks Read Entire Covid Relief Bill In 10 hours, 43 Minutes, 9 Seconds | NBC News NOW",
             "secondDuration": 75,
@@ -31,8 +25,14 @@
             "title": "Watch: Astronauts Spacewalk Outside ISS | NBC News",
             "secondDuration": 8140,
             "group": "group_7"
+        },
+        {
+            "videoId": "OIAE_skmm_0",
+            "title": "Inside Look At Street Crisis Team In SF Making Strides Toward Police Reform | NBC News NOW",
+            "secondDuration": 311,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

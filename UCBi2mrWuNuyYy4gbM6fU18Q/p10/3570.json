@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "jHWj-a55WbQ",
-            "title": "Wimbledon Quarterfinals | Williams Sisters, Sam Querrey Prepare",
-            "secondDuration": 154,
-            "group": "group_7"
-        },
-        {
             "videoId": "aDYLJcrM0V8",
             "title": "US Student Killed in Italy",
             "secondDuration": 141,
@@ -61,8 +55,14 @@
             "title": "Central Park Explosion",
             "secondDuration": 120,
             "group": "group_7"
+        },
+        {
+            "videoId": "xE5HKgF5kBo",
+            "title": "American Student Found Dead in Italian River",
+            "secondDuration": 95,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

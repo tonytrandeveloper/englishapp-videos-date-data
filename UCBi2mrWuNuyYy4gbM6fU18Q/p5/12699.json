@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "EeGG0qISdI0",
-            "title": "Search for Survivors",
-            "secondDuration": 108,
-            "group": "group_7"
-        },
-        {
             "videoId": "8nEJWaVgi5Q",
             "title": "Interview with Microsft's Bill Gates",
             "secondDuration": 619,
@@ -31,8 +25,14 @@
             "title": "I Am the Son of God",
             "secondDuration": 487,
             "group": "group_7"
+        },
+        {
+            "videoId": "dQdIDSxwkMA",
+            "title": "What Happened to Riley Fox?",
+            "secondDuration": 399,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "67734m5fpds",
-            "title": "Trump reacts to Iowa chaos as he prepares for State of the Union address l ABC News",
-            "secondDuration": 113,
-            "group": "group_7"
-        },
-        {
             "videoId": "n8pQX-xEPl8",
             "title": "Coronavirus, Iowa caucuses, migrants protest: World in Photos, Feb. 4",
             "secondDuration": 116,
@@ -31,8 +25,14 @@
             "title": "Radio icon Rush Limbaugh announces lung cancer battle | ABC News",
             "secondDuration": 133,
             "group": "group_7"
+        },
+        {
+            "videoId": "9mK-xJgoPlM",
+            "title": "Iowa caucus results delayed due to vote-counting system failures | ABC News",
+            "secondDuration": 207,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

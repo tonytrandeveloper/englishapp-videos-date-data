@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "oaaaScmZiuM",
-            "title": "Video Shows Man Assault Rick Moranis On NYC Street | NBC News NOW",
-            "secondDuration": 36,
-            "group": "group_7"
-        },
-        {
             "videoId": "5pKUraWErjM",
             "title": "‘Ironic’ And ‘Irresponsible’: Las Vegas Voters React To Trump’s Covid-19 Diagnosis | NBC News NOW",
             "secondDuration": 98,
@@ -61,8 +55,14 @@
             "title": "With Covid, Trump Needs To Isolate For 10 Days. Here's How That Differs From Quarantine. | NBC News",
             "secondDuration": 105,
             "group": "group_7"
+        },
+        {
+            "videoId": "tiiw5Ehezgw",
+            "title": "Watch live:  President Trump, First Lady test positive for Covid-19",
+            "secondDuration": 724,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

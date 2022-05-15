@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "DIS8XDZA0uE",
-            "title": "Government Shutdown Heightens Survivalists' Fears",
-            "secondDuration": 413,
-            "group": "group_7"
-        },
-        {
             "videoId": "UULaC0MQmJ8",
             "title": "WEBCAST: Ghost Burglar Breaks Into Liquor Store",
             "secondDuration": 119,
@@ -31,8 +25,14 @@
             "title": "Oreos Addictive? Study Says Cookie May Be Similar to Cocaine to Rats and Dog",
             "secondDuration": 76,
             "group": "group_7"
+        },
+        {
+            "videoId": "gBAsuf199T0",
+            "title": "President Obama Praises Congressional Leaders For Government Shutdown Agreement",
+            "secondDuration": 226,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

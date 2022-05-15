@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "zuWV85jt8Wk",
-            "title": "Amplified: Superdrag",
-            "secondDuration": 236,
-            "group": "group_7"
-        },
-        {
             "videoId": "GbE1KUG6IUM",
             "title": "Elizabeth Hasselbecks Gluten-Free Diet",
             "secondDuration": 253,
@@ -121,8 +115,14 @@
             "title": "Terry Moran's Moment of Truth",
             "secondDuration": 677,
             "group": "group_7"
+        },
+        {
+            "videoId": "bL-PBD5agnI",
+            "title": "'GMA' Behind the Scenes",
+            "secondDuration": 249,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

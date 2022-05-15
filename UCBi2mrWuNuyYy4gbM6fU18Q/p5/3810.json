@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "4AG3lXscJpA",
-            "title": "Panic at Houston mall in wake of mass shootings l ABC News",
-            "secondDuration": 150,
-            "group": "group_7"
-        },
-        {
             "videoId": "m48v6zjLVn8",
             "title": "Trump administration on the defense over immigration crackdown in Mississippi",
             "secondDuration": 174,
@@ -31,8 +25,14 @@
             "title": "Dream home in New Jersey turned into a nightmare",
             "secondDuration": 102,
             "group": "group_7"
+        },
+        {
+            "videoId": "rDcdim8SbZQ",
+            "title": "Attack on a Norway mosque stopped",
+            "secondDuration": 101,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "pPVInGkXGso",
-            "title": "LIVE: White House Covid-19 Response Team Briefing | NBC News",
-            "secondDuration": 2031,
-            "group": "group_7"
-        },
-        {
             "videoId": "04bl9vvV4os",
             "title": "Florida Introduces Bill Banning Schools From Discussing Sexual Orientation",
             "secondDuration": 189,
@@ -61,8 +55,14 @@
             "title": "Boston Man Won’t Receive Heart Transplant Due To Vaccination Refusal",
             "secondDuration": 250,
             "group": "group_7"
+        },
+        {
+            "videoId": "Mp-623f-jA4",
+            "title": "Newly Authorized Anti-Viral Pills Combating Covid Are Difficult To Access",
+            "secondDuration": 308,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

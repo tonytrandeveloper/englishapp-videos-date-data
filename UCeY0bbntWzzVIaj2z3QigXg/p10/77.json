@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "TDvmX4wyWag",
-            "title": "Morning News NOW Full Broadcast - March 21",
-            "secondDuration": 3168,
-            "group": "group_7"
-        },
-        {
             "videoId": "Doow3KXzMak",
             "title": "Durbin Praises Ketanji Brown Jackson's 'Considerable' Past Experience In Opening Statement",
             "secondDuration": 168,
@@ -61,8 +55,14 @@
             "title": "Ukrainian Soldiers Declare ‘Victory Will Be Ours’ As Russian Invasion Enters Fourth Week",
             "secondDuration": 87,
             "group": "group_7"
+        },
+        {
+            "videoId": "qKpKgnuT3ZI",
+            "title": "Nightly News Full Broadcast - March 20",
+            "secondDuration": 1139,
+            "group": "group_7"
         }
     ],
     "nbPages": 3683,
-    "nbResults": 36827
+    "nbResults": 36826
 }

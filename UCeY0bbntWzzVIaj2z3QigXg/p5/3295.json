@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Lj184WKpwXc",
-            "title": "Trump Speaks At Campaign Rally In Ohio  | NBC News (Live Stream Recording)",
-            "secondDuration": 5557,
-            "group": "group_7"
-        },
-        {
             "videoId": "EyMHs8qgApo",
             "title": "House Votes On War Powers Resolution Limiting Trump Iran Actions | NBC News (Live Stream Recording)",
             "secondDuration": 4895,
@@ -31,8 +25,14 @@
             "title": "President Donald Trump Comments On Plane Crash In Iran: 'I Have My Suspicions' | NBC News",
             "secondDuration": 88,
             "group": "group_7"
+        },
+        {
+            "videoId": "A5J12Yk1wfo",
+            "title": "President Donald Trump: 'I'd Like To Hear' From The Bidens And Schiff In A Senate Trial | NBC News",
+            "secondDuration": 118,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

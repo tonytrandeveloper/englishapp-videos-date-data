@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "w6TJdZHDazc",
-            "title": "Louisiana Sinkhole Swallows Up Trees in Seconds",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "vDnbr3Ktegg",
             "title": "The US and the UN Probe Syria",
             "secondDuration": 154,
@@ -61,8 +55,14 @@
             "title": "Feed Frenzy: Women Who Stay Calm Under Fire",
             "secondDuration": 103,
             "group": "group_7"
+        },
+        {
+            "videoId": "EMUkGZgV3UE",
+            "title": "Did Syria Use Chemical Weapons on Its People?",
+            "secondDuration": 433,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

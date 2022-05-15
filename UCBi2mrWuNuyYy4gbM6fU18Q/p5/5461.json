@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "ZSk7rLq6JMg",
-            "title": "Harvey Weinstein resigns from the Weinstein Co.",
-            "secondDuration": 153,
-            "group": "group_7"
-        },
-        {
             "videoId": "ODRB9TuaAq8",
             "title": "Major milestone in war against ISIS",
             "secondDuration": 122,
@@ -31,8 +25,14 @@
             "title": "Makeup artists turns herself into horrifying monsters",
             "secondDuration": 196,
             "group": "group_7"
+        },
+        {
+            "videoId": "VZsZbwO5qPQ",
+            "title": "Deputy AG Rod Rosenstein interview on the opioid crisis",
+            "secondDuration": 907,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

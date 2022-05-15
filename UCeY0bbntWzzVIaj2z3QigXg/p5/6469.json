@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "Nn6ficYg0ac",
-            "title": "Life Of An Election Ballot | NBC News",
-            "secondDuration": 93,
-            "group": "group_7"
-        },
-        {
             "videoId": "zzQB9_egcBU",
             "title": "Two Ex-Chris Christie Aides Found Guilty In ‘Bridgegate’ Trial | NBC News",
             "secondDuration": 96,
@@ -31,8 +25,14 @@
             "title": "Hillary Clinton Supporter: Donald Trump 'Turned Me Away' Because Of My Skin Color | NBC News",
             "secondDuration": 91,
             "group": "group_7"
+        },
+        {
+            "videoId": "RvttmqXCDFI",
+            "title": "Donald Trump Suggests President Obama’s Campaigning A Conflict Of Interest | NBC News",
+            "secondDuration": 98,
+            "group": "group_7"
         }
     ],
     "nbPages": 7366,
-    "nbResults": 36827
+    "nbResults": 36826
 }

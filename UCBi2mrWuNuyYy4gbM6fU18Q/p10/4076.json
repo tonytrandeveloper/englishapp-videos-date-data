@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "HpKIwuHmCxw",
-            "title": "Kelly Osbourne | Real Biz with Rebecca Jarvis | ABC News",
-            "secondDuration": 268,
-            "group": "group_7"
-        },
-        {
             "videoId": "o_KAyMElSSI",
             "title": "Bride Surprises Pastor Father With Purity Certificate",
             "secondDuration": 240,
@@ -61,8 +55,14 @@
             "title": "Friday Rewind: Paul Ryan’s House Speaker Bid | ABC News",
             "secondDuration": 128,
             "group": "group_7"
+        },
+        {
+            "videoId": "bzxnjoKhcno",
+            "title": "John Travolta Plays Robert Shapiro | ABC News",
+            "secondDuration": 211,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

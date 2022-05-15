@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "j4BVd35Z3hY",
-            "title": "President Donald Trump delivers remarks on national security strategy| ABC News",
-            "secondDuration": 3546,
-            "group": "group_7"
-        },
-        {
             "videoId": "CJ3rt5YoVXo",
             "title": "Train derailment survivor describes being catapulted into seat in front of him",
             "secondDuration": 302,
@@ -121,8 +115,14 @@
             "title": "Judicial nominee struggles to answer basic legal questions",
             "secondDuration": 140,
             "group": "group_7"
+        },
+        {
+            "videoId": "pqNNwFe6gMM",
+            "title": "Former NXIVM member says she was branded when invited to secret sorority: Part 1",
+            "secondDuration": 680,
+            "group": "group_7"
         }
     ],
     "nbPages": 3352,
-    "nbResults": 67038
+    "nbResults": 67037
 }

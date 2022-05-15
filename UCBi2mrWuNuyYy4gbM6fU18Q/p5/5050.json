@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "QiGPivn8xdU",
-            "title": "'Bipartisan consensus that James Comey doesn't have credibility': Sarah Sanders",
-            "secondDuration": 557,
-            "group": "group_7"
-        },
-        {
             "videoId": "mjJDjsSsjys",
             "title": "New revelations from fired FBI director in exclusive interview",
             "secondDuration": 444,
@@ -31,8 +25,14 @@
             "title": "Trump calls military action on Syria a 'perfectly executed strike'",
             "secondDuration": 231,
             "group": "group_7"
+        },
+        {
+            "videoId": "9gJEZaiG6k0",
+            "title": "Comey sits down for first one-on-one interview since he was fired",
+            "secondDuration": 190,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

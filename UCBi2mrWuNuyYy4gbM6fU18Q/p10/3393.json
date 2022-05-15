@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "g_aHZAAYjy0",
-            "title": "Police Interview Murdered FSU Professor's Ex-Wife: Part 2",
-            "secondDuration": 532,
-            "group": "group_7"
-        },
-        {
             "videoId": "F6uK3sbKRrs",
             "title": "Donald Trump: 'President Obama Was Born in the United States'",
             "secondDuration": 279,
@@ -61,8 +55,14 @@
             "title": "Bill Bratton Retires as NYPD Commissioner",
             "secondDuration": 135,
             "group": "group_7"
+        },
+        {
+            "videoId": "uP9dxaDpH_A",
+            "title": "Michelle Obama Hits the Campaign Trail for Hillary Clinton",
+            "secondDuration": 153,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

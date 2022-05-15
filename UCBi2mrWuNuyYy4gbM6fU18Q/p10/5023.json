@@ -3,12 +3,6 @@
     "pageSize": 10,
     "items": [
         {
-            "videoId": "5e15KtGc0nM",
-            "title": "Federal Budget Battle Takes Center Stage on Senate Floor",
-            "secondDuration": 145,
-            "group": "group_7"
-        },
-        {
             "videoId": "Kbc_AtDIPrM",
             "title": "WEBCAST: Tea Party Talk-A-Thon",
             "secondDuration": 155,
@@ -61,8 +55,14 @@
             "title": "Clark Gregg Returns From the Dead in Marvel's 'Agents of Shield'",
             "secondDuration": 316,
             "group": "group_7"
+        },
+        {
+            "videoId": "CKKNYaVTFWQ",
+            "title": "Keyshawn Johnson and Sharna Burgess Booted from 'Dancing With the Stars'",
+            "secondDuration": 349,
+            "group": "group_7"
         }
     ],
     "nbPages": 6704,
-    "nbResults": 67038
+    "nbResults": 67037
 }

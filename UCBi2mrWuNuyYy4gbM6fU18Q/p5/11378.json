@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "RBxKUZzWzek",
-            "title": "Lightning Chaser Seeks Moment of Strike",
-            "secondDuration": 356,
-            "group": "group_7"
-        },
-        {
             "videoId": "Liqtk_qV0PE",
             "title": "'Kumare': Fake Guru Earns Real Following",
             "secondDuration": 279,
@@ -31,8 +25,14 @@
             "title": "Planes Involved in Close Call at Dulles Airport",
             "secondDuration": 86,
             "group": "group_7"
+        },
+        {
+            "videoId": "lpUeaCETuKw",
+            "title": "Obama Leads Romney in New Polls",
+            "secondDuration": 144,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }

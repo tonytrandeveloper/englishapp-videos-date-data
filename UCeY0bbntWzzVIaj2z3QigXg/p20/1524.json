@@ -3,12 +3,6 @@
     "pageSize": 20,
     "items": [
         {
-            "videoId": "E86vxjlWPyg",
-            "title": "President Donald Trump Meets With Pope Francis At Vatican | NBC News",
-            "secondDuration": 849,
-            "group": "group_7"
-        },
-        {
             "videoId": "JmQp3mPqYA8",
             "title": "Manchester In Mourning: Bombing Victims Remembered | NBC Nightly News",
             "secondDuration": 168,
@@ -121,8 +115,14 @@
             "title": "Jerusalem A Symbol Of Hope, Despair As President Trump Pushes Peace | NBC Nightly News",
             "secondDuration": 158,
             "group": "group_7"
+        },
+        {
+            "videoId": "D3YMvkeI0QE",
+            "title": "Legislation Pushes For Over-The-Counter Hearing Aids | NBC Nightly News",
+            "secondDuration": 114,
+            "group": "group_7"
         }
     ],
     "nbPages": 1842,
-    "nbResults": 36827
+    "nbResults": 36826
 }

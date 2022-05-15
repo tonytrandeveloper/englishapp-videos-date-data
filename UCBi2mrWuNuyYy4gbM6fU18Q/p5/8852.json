@@ -3,12 +3,6 @@
     "pageSize": 5,
     "items": [
         {
-            "videoId": "YWBlJPE0YWk",
-            "title": "Chicago Police Search for Suspects Who Stole a Doggie Day Care Van With 6 Dogs Inside",
-            "secondDuration": 110,
-            "group": "group_7"
-        },
-        {
             "videoId": "k5ud1yJwe6I",
             "title": "Vanilla Ice Speaks Out After Arrest",
             "secondDuration": 134,
@@ -31,8 +25,14 @@
             "title": "The Oscars' Goodie Bags",
             "secondDuration": 152,
             "group": "group_7"
+        },
+        {
+            "videoId": "1TI4-3ue5nc",
+            "title": "Who Will Win On Oscar Sunday?",
+            "secondDuration": 278,
+            "group": "group_7"
         }
     ],
     "nbPages": 13408,
-    "nbResults": 67038
+    "nbResults": 67037
 }
